@@ -1,5 +1,9 @@
 ﻿CON.1.A1 Auswahl geeigneter kryptografischer Verfahren (B);Es MÜSSEN geeignete kryptografische Verfahren ausgewählt werden.
 ;Dabei MUSS sichergestellt sein, dass etablierte Algorithmen verwendet werden, die von der Fachwelt intensive untersucht wurden und von denen keine Sicherheitslücken bekannt sind.
 ;Ebenso MÜSSEN aktuell empfohlene Schlüssellängen verwendet werden.
-;Um eine geeignete Schlüssellänge auszuwählen, SOLLTE berücksichtigt werden, wie lange das kryptografische Verfahren eingesetzt werden soll.
-;Bei einer längeren Einsatzdauer SOLLTEN entsprechend längere Schlüssellängen eingesetzt werden.
+CON.1.A2 Datensicherung bei Einsatz kryptografischer Verfahren (B);In Datensicherungen MÜSSEN kryptografische Schlüssel vom IT-Betrieb derart gespeichert bzw. aufbewahrt werden, dass Unbefugte nicht darauf zugreifen können.
+;Langlebige kryptografische Schlüssel MÜSSEN außerhalb der eingesetzten IT-Systeme aufbewahrt werden.
+;Bei einer Langzeitspeicherung verschlüsselter Daten SOLLTE regelmäßig geprüft werden, ob die verwendeten kryptografischen Algorithmen und die Schlüssellängen noch dem Stand der Technik entsprechen.
+;Der IT-Betrieb MUSS sicherstellen, dass auf verschlüsselt gespeicherte Daten auch nach längeren Zeiträumen noch zugegriffen werden kann.
+;Verwendete Kryptoprodukte SOLLTEN archiviert werden.
+;Die Konfigurationsdaten von Kryptoprodukten SOLLTEN gesichert werden.
