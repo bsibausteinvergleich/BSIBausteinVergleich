@@ -1,3 +1,5 @@
 ﻿CON.1.A1 Auswahl geeigneter kryptografischer Verfahren (B);Es MÜSSEN geeignete kryptografische Verfahren ausgewählt werden.
 ;Dabei MUSS sichergestellt sein, dass etablierte Algorithmen verwendet werden, die von der Fachwelt intensive untersucht wurden und von denen keine Sicherheitslücken bekannt sind.
 ;Ebenso MÜSSEN aktuell empfohlene Schlüssellängen verwendet werden.
+;Um eine geeignete Schlüssellänge auszuwählen, SOLLTE berücksichtigt werden, wie lange das kryptografische Verfahren eingesetzt werden soll.
+;Bei einer längeren Einsatzdauer SOLLTEN entsprechend längere Schlüssellängen eingesetzt werden.
