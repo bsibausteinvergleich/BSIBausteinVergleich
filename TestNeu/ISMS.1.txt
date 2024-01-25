@@ -1,6 +1,6 @@
 Basis-Anforderungen
 ISMS.1.A1 Übernahme der Gesamtverantwortung für Informationssicherheit durch die Leitung [Institutionsleitung] (B)
-Die Institutionsleitung MUSS die Gesamtverantwortung für Informationssicherheit in der Institution übernehmen. 
+Die Institutionsleitung MUSS die Gesamtverantwortung für Informationssicherheit in der Institution übernehmen.
 Dies MUSS für alle Beteiligten deutlich erkennbar sein.
 Die Institutionsleitung MUSS den Sicherheitsprozess initiieren, steuern und kontrollieren.
 Die Institutionsleitung MUSS Informationssicherheit vorleben.
@@ -19,8 +19,7 @@ Die Institutionsleitung MUSS die Sicherheitsziele und die Sicherheitsstrategie r
 ISMS.1.A3 Erstellung einer Leitlinie zur Informationssicherheit [Institutionsleitung] (B)
 Die Institutionsleitung MUSS eine übergeordnete Leitlinie zur Informationssicherheit verabschieden.
 Diese MUSS den Stellenwert der Informationssicherheit, die Sicherheitsziele, die wichtigsten Aspekte der Sicherheitsstrategie sowie die Organisationsstruktur für Informationssicherheit beschreiben.
-Für die Sicherheitsleitlinie MUSS ein klarer Geltungsbereich festgelegt sein.
-In der Leitlinie zur Informationssicherheit MÜSSEN die Sicherheitsziele und der Bezug der Sicherheitsziele zu den Geschäftszielen und Aufgaben der Institution erläutert werden.
+Für die Sicherheitsleitlinie MUSS ein klarer Geltungsbereich festgelegt sein. In der Leitlinie zur Informationssicherheit MÜSSEN die Sicherheitsziele und der Bezug der Sicherheitsziele zu den Geschäftszielen und Aufgaben der Institution erläutert werden.
 Die Institutionsleitung MUSS die Leitlinie zur Informationssicherheit allen Mitarbeitern und sonstigen Mitgliedern der Institution bekannt geben.
 Die Leitlinie zur Informationssicherheit SOLLTE regelmäßig aktualisiert werden.
 
