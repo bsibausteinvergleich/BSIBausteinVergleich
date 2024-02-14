@@ -1,45 +1,45 @@
-3.1 Basis-Anforderungen
+3.1. Basis-Anforderungen
 
 
-ISMS.1.A1 Übernahme der Gesamtverantwortung für Informationssicherheit durch die Leitung [Institutionsleitung] (B)
+ISMS.1.A1 Übernahme der Gesamtverantwortung für Informationssicherheit durch die Leitung (B) [Institutionsleitung]
 Die Institutionsleitung MUSS die Gesamtverantwortung für Informationssicherheit in der Institution übernehmen.
 Dies MUSS für alle Beteiligten deutlich erkennbar sein.
 Die Institutionsleitung MUSS den Sicherheitsprozess initiieren, steuern und kontrollieren.
 Die Institutionsleitung MUSS Informationssicherheit vorleben.
 Die Institutionsleitung MUSS die Zuständigkeiten für Informationssicherheit festlegen.
-Die zuständigen Mitarbeiter MÜSSEN mit den erforderlichen Kompetenzen und Ressourcen ausgestattet werden.
+Die zuständigen Mitarbeitenden MÜSSEN mit den erforderlichen Kompetenzen und Ressourcen ausgestattet werden.
 Die Institutionsleitung MUSS sich regelmäßig über den Status der Informationssicherheit informieren lassen.
 Insbesondere MUSS sich die Institutionsleitung über mögliche Risiken und Konsequenzen aufgrund fehlender Sicherheitsmaßnahmen informieren lassen.
 
-ISMS.1.A2 Festlegung der Sicherheitsziele und -strategie [Institutionsleitung] (B)
+ISMS.1.A2 Festlegung der Sicherheitsziele und -strategie (B) [Institutionsleitung]
 Die Institutionsleitung MUSS den Sicherheitsprozess initiieren und etablieren.
 Dafür MUSS die Institutionsleitung angemessene Sicherheitsziele sowie eine Strategie für Informationssicherheit festlegen und dokumentieren.
 Es MÜSSEN konzeptionelle Vorgaben erarbeitet und organisatorische Rahmenbedingungen geschaffen werden, um den ordnungsgemäßen und sicheren Umgang mit Informationen innerhalb aller Geschäftsprozesse des Unternehmens oder Fachaufgaben der Behörde zu ermöglichen.
 Die Institutionsleitung MUSS die Sicherheitsstrategie und die Sicherheitsziele tragen und verantworten.
 Die Institutionsleitung MUSS die Sicherheitsziele und die Sicherheitsstrategie regelmäßig dahingehend überprüfen, ob sie noch aktuell und angemessen sind und wirksam umgesetzt werden können.
 
-ISMS.1.A3 Erstellung einer Leitlinie zur Informationssicherheit [Institutionsleitung] (B)
+ISMS.1.A3 Erstellung einer Leitlinie zur Informationssicherheit (B) [Institutionsleitung]
 Die Institutionsleitung MUSS eine übergeordnete Leitlinie zur Informationssicherheit verabschieden.
 Diese MUSS den Stellenwert der Informationssicherheit, die Sicherheitsziele, die wichtigsten Aspekte der Sicherheitsstrategie sowie die Organisationsstruktur für Informationssicherheit beschreiben.
 Für die Sicherheitsleitlinie MUSS ein klarer Geltungsbereich festgelegt sein.
 In der Leitlinie zur Informationssicherheit MÜSSEN die Sicherheitsziele und der Bezug der Sicherheitsziele zu den Geschäftszielen und Aufgaben der Institution erläutert werden.
-Die Institutionsleitung MUSS die Leitlinie zur Informationssicherheit allen Mitarbeitern und sonstigen Mitgliedern der Institution bekannt geben.
+Die Institutionsleitung MUSS die Leitlinie zur Informationssicherheit allen Mitarbeitenden und sonstigen Mitgliedern der Institution bekannt geben.
 Die Leitlinie zur Informationssicherheit SOLLTE regelmäßig aktualisiert werden.
 
-ISMS.1.A4 Benennung eines Informationssicherheitsbeauftragten [Institutionsleitung] (B)
-Die Institutionsleitung MUSS einen Informationssicherheitsbeauftragten (ISB) benennen.
-Der ISB MUSS die Informationssicherheit in der Institution fördern und den Sicherheitsprozess mitsteuern und koordinieren.
-Die Institutionsleitung MUSS den ISB mit angemessenen Ressourcen ausstatten.
-Die Institutionsleitung MUSS dem ISB die Möglichkeit einräumen, bei Bedarf direkt an sie selbst zu berichten.
-Der ISB MUSS bei allen größeren Projekten sowie bei der Einführung neuer Anwendungen und IT-Systeme frühzeitig beteiligt werden.
+ISMS.1.A4 Benennung eines oder einer Informationssicherheitsbeauftragten (B) [Institutionsleitung]
+Die Institutionsleitung MUSS einen oder eine ISB benennen.
+Der oder die ISB MUSS die Informationssicherheit in der Institution fördern und den Sicherheitsprozess mitsteuern und koordinieren.
+Die Institutionsleitung MUSS den oder die ISB mit angemessenen Ressourcen ausstatten.
+Die Institutionsleitung MUSS dem oder der ISB die Möglichkeit einräumen, bei Bedarf direkt an sie selbst zu berichten.
+Der oder die ISB MUSS bei allen größeren Projekten sowie bei der Einführung neuer Anwendungen und IT-Systeme frühzeitig beteiligt werden.
 
-ISMS.1.A5 Vertragsgestaltung bei Bestellung eines externen Informationssicherheitsbeauftragten [Institutionsleitung] (B)
-Die Institutionsleitung MUSS einen externen Informationssicherheitsbeauftragten (ISB) bestellen, wenn die Rolle des ISB nicht durch einen internen Mitarbeiter besetzt werden kann.
-Der Vertrag mit einem externen ISB MUSS alle Aufgaben des ISB sowie seine damit verbundenen Rechte und Pflichten umfassen.
+ISMS.1.A5 Vertragsgestaltung bei Bestellung eines oder einer externen Informationssicherheitsbeauftragten (B) [Institutionsleitung]
+Die Institutionsleitung MUSS einen externen oder eine externe ISB bestellen, wenn die Rolle des oder der ISB nicht durch einen internen Mitarbeitenden besetzt werden kann.
+Der Vertrag mit einem oder einer externen ISB MUSS alle Aufgaben des oder der ISB sowie die damit verbundenen Rechte und Pflichten umfassen.
 Der Vertrag MUSS eine geeignete Vertraulichkeitsvereinbarung umfassen.
-Der Vertrag MUSS eine kontrollierte Beendigung des Vertragsverhältnisses, einschließlich der Übergabe der Aufgaben an den Auftraggeber, gewährleisten.
+Der Vertrag MUSS eine kontrollierte Beendigung des Vertragsverhältnisses, einschließlich der Übergabe der Aufgaben an die Auftraggebenden, gewährleisten.
 
-ISMS.1.A6 Aufbau einer geeigneten Organisationsstruktur für Informationssicherheit [Institutionsleitung] (B)
+ISMS.1.A6 Aufbau einer geeigneten Organisationsstruktur für Informationssicherheit (B) [Institutionsleitung]
 Eine geeignete übergreifende Organisationsstruktur für Informationssicherheit MUSS vorhanden sein.
 Dafür MÜSSEN Rollen definiert sein, die konkrete Aufgaben übernehmen, um die Sicherheitsziele zu erreichen.
 Außerdem MÜSSEN qualifizierte Personen benannt werden, denen ausreichend Ressourcen zur Verfügung stehen, um diese Rollen zu übernehmen.
@@ -54,23 +54,23 @@ Im Rahmen des Sicherheitsprozesses MÜSSEN für die gesamte Informationsverarbei
 Alle Sicherheitsmaßnahmen SOLLTEN systematisch in Sicherheitskonzepten dokumentiert werden.
 Die Sicherheitsmaßnahmen SOLLTEN regelmäßig aktualisiert werden.
 
-ISMS.1.A8 Integration der Mitarbeiter in den Sicherheitsprozess [Vorgesetzte] (B)
-Alle Mitarbeiter MÜSSEN in den Sicherheitsprozess integriert sein.
+ISMS.1.A8 Integration der Mitarbeitenden in den Sicherheitsprozess (B) [Vorgesetzte]
+Alle Mitarbeitenden MÜSSEN in den Sicherheitsprozess integriert sein.
 Hierfür MÜSSEN sie über Hintergründe und die für sie relevanten Gefährdungen informiert sein.
 Sie MÜSSEN Sicherheitsmaßnahmen kennen und umsetzen, die ihren Arbeitsplatz betreffen.
-Alle Mitarbeiter MÜSSEN in die Lage versetzt werden, Sicherheit aktiv mitzugestalten.
-Daher SOLLTEN die Mitarbeiter frühzeitig beteiligt werden, wenn Sicherheitsmaßnahmen zu planen oder organisatorische Regelungen zu gestalten sind.
-Bei der Einführung von Sicherheitsrichtlinien und Sicherheitswerkzeugen MÜSSEN die Mitarbeiter ausreichend informiert sein, wie diese anzuwenden sind.
-Die Mitarbeiter MÜSSEN darüber aufgeklärt werden, welche Konsequenzen eine Verletzung der Sicherheitsvorgaben haben kann.
+Alle Mitarbeitenden MÜSSEN in die Lage versetzt werden, Sicherheit aktiv mitzugestalten.
+Daher SOLLTEN die Mitarbeitenden frühzeitig beteiligt werden, wenn Sicherheitsmaßnahmen zu planen oder organisatorische Regelungen zu gestalten sind.
+Bei der Einführung von Sicherheitsrichtlinien und Sicherheitswerkzeugen MÜSSEN die Mitarbeitenden ausreichend informiert sein, wie diese anzuwenden sind.
+Die Mitarbeitenden MÜSSEN darüber aufgeklärt werden, welche Konsequenzen eine Verletzung der Sicherheitsvorgaben haben kann.
 
-ISMS.1.A9 Integration der Informationssicherheit in organisationsweite Abläufe und Prozesse [Institutionsleitung] (B)
+ISMS.1.A9 Integration der Informationssicherheit in organisationsweite Abläufe und Prozesse (B) [Institutionsleitung]
 Informationssicherheit MUSS in alle Geschäftsprozesse sowie Fachaufgaben integriert werden.
 Es MUSS dabei gewährleistet sein, dass nicht nur bei neuen Prozessen und Projekten, sondern auch bei laufenden Aktivitäten alle erforderlichen Sicherheitsaspekte berücksichtigt werden.
-Der Informationssicherheitsbeauftragte MUSS an sicherheitsrelevanten Entscheidungen ausreichend beteiligt werden.
+Der oder die Informationssicherheitsbeauftragte (ISB) MUSS an sicherheitsrelevanten Entscheidungen ausreichend beteiligt werden.
 Informationssicherheit SOLLTE außerdem mit anderen Bereichen in der Institution, die sich mit Sicherheit und Risikomanagement beschäftigen, abgestimmt werden.
 
 
-3.2 Standard-Anforderungen
+3.2. Standard-Anforderungen
 
 ISMS.1.A10 Erstellung eines Sicherheitskonzepts (S)
 Für den festgelegten Geltungsbereich (Informationsverbund) SOLLTE ein angemessenes Sicherheitskonzept als das zentrale Dokument im Sicherheitsprozess erstellt werden.
@@ -90,7 +90,7 @@ Die Prüfungen SOLLTEN von qualifizierten und unabhängigen Personen durchgefüh
 Die Ergebnisse der Überprüfungen SOLLTEN nachvollziehbar dokumentiert sein.
 Darauf aufbauend SOLLTEN Mängel beseitigt und Korrekturmaßnahmen ergriffen werden.
 
-ISMS.1.A12 Management-Berichte zur Informationssicherheit [Institutionsleitung] (S)
+ISMS.1.A12 Management-Berichte zur Informationssicherheit (S) [Institutionsleitung]
 Die Institutionsleitung SOLLTE sich regelmäßig über den Stand der Informationssicherheit informieren, insbesondere über die aktuelle Gefährdungslage sowie die Wirksamkeit und Effizienz des Sicherheitsprozesses.
 Dazu SOLLTEN Management-Berichte geschrieben werden, welche die wesentlichen relevanten Informationen über den Sicherheitsprozess enthalten, insbesondere über Probleme, Erfolge und Verbesserungsmöglichkeiten.
 Die Management-Berichte SOLLTEN klar priorisierte Maßnahmenvorschläge enthalten.
@@ -114,10 +114,10 @@ ISMS.1.A15 Wirtschaftlicher Einsatz von Ressourcen für Informationssicherheit (
 Die Sicherheitsstrategie SOLLTE wirtschaftliche Aspekte berücksichtigen.
 Werden Sicherheitsmaßnahmen festgelegt, SOLLTEN die dafür erforderlichen Ressourcen beziffert werden.
 Die für Informationssicherheit eingeplanten Ressourcen SOLLTEN termingerecht bereitgestellt werden.
-Bei Arbeitsspitzen oder besonderen Aufgaben SOLLTEN zusätzliche interne Mitarbeiter eingesetzt oder externe Experten hinzugezogen werden.
+Bei Arbeitsspitzen oder besonderen Aufgaben SOLLTEN zusätzliche interne Mitarbeitenden eingesetzt oder externe Expertise hinzugezogen werden.
 
 
-3.3 Anforderungen bei erhöhtem Schutzbedarf
+3.3. Anforderungen bei erhöhtem Schutzbedarf
 
 ISMS.1.A16 Erstellung von zielgruppengerechten Sicherheitsrichtlinien (H)
 Neben den allgemeinen SOLLTE es auch zielgruppenorientierte Sicherheitsrichtlinien geben, die jeweils bedarfsgerecht die relevanten Sicherheitsthemen abbilden.
