@@ -55,8 +55,11 @@ Alle Sicherheitsmaßnahmen SOLLTEN systematisch in Sicherheitskonzepten dokument
 Die Sicherheitsmaßnahmen SOLLTEN regelmäßig aktualisiert werden.
 
 ISMS.1.A8 Integration der Mitarbeitenden in den Sicherheitsprozess (B) [Vorgesetzte]
-Alle Mitarbeitenden MÜSSEN in den Sicherheitsprozess integriert sein. Hierfür MÜSSEN sie über Hintergründe und die für sie relevanten Gefährdungen informiert sein. Sie MÜSSEN Sicherheitsmaßnahmen kennen und umsetzen, die ihren Arbeitsplatz betreffen.
-Alle Mitarbeitenden MÜSSEN in die Lage versetzt werden, Sicherheit aktiv mitzugestalten. Daher SOLLTEN die Mitarbeitenden frühzeitig beteiligt werden, wenn Sicherheitsmaßnahmen zu planen oder organisatorische Regelungen zu gestalten sind.
+Alle Mitarbeitenden MÜSSEN in den Sicherheitsprozess integriert sein.
+Hierfür MÜSSEN sie über Hintergründe und die für sie relevanten Gefährdungen informiert sein.
+Sie MÜSSEN Sicherheitsmaßnahmen kennen und umsetzen, die ihren Arbeitsplatz betreffen.
+Alle Mitarbeitenden MÜSSEN in die Lage versetzt werden, Sicherheit aktiv mitzugestalten.
+Daher SOLLTEN die Mitarbeitenden frühzeitig beteiligt werden, wenn Sicherheitsmaßnahmen zu planen oder organisatorische Regelungen zu gestalten sind.
 Bei der Einführung von Sicherheitsrichtlinien und Sicherheitswerkzeugen MÜSSEN die Mitarbeitenden ausreichend informiert sein, wie diese anzuwenden sind.
 Die Mitarbeitenden MÜSSEN darüber aufgeklärt werden, welche Konsequenzen eine Verletzung der Sicherheitsvorgaben haben kann.
 
