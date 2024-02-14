@@ -1,0 +1,176 @@
+3.1. Basis-Anforderungen
+
+
+OPS.1.1.2.A1 ENTFALLEN (B)
+Diese Anforderung ist entfallen.
+
+OPS.1.1.2.A2 Vertretungsregelungen (B)
+Für jede Administrationsaufgabe MUSS eine Vertretung benannt werden.
+Die Vertretung MUSS über die notwendigen administrativen Berechtigungen (organisatorisch und technisch) verfügen, um die Tätigkeit durchführen zu können.
+Eine benannte Vertretung MUSS über die im Kontext der Administrationsaufgabe notwendigen Kenntnisse verfügen.
+Die Regelung der Vertretung MUSS Mangel- und Notfallsituationen berücksichtigen.
+
+OPS.1.1.2.A3 ENTFALLEN (B)
+Diese Anforderung ist entfallen.
+
+OPS.1.1.2.A4 Beendigung der Tätigkeit in der IT-Administration (B)
+Falls eine Person von Administrationsaufgaben entbunden wird, MÜSSEN ihr alle damit zusammenhängenden privilegierten Berechtigungen auf organisatorischer und technischer Ebene entzogen werden.
+Insbesondere MÜSSEN persönliche administrative Konten gesperrt und Passwörter aller administrativer Konten geändert werden, die der Person bekannt sind.
+Weiterhin MÜSSEN alle betroffenen Parteien darauf hingewiesen werden, dass diese Person von den entsprechenden Aufgaben entbunden ist und daher keine administrativen Berechtigungen mehr haben darf.
+Es MUSS geregelt werden unter welchen Rahmenbedingungen geprüft wird, ob sich zusätzliche nicht dokumentierte administrative Rechte verschafft wurden.
+Diese Prüfung SOLLTE insbesondere erfolgen, falls die Entscheidung eine Person von Administrationsaufgaben zu entbinden nicht im Einvernehmen mit der entsprechenden Person getroffen wurde.
+Falls solche administrativen Rechte gefunden wurden, MÜSSEN diese wieder entzogen werden.
+
+OPS.1.1.2.A5 Nachweisbarkeit von administrativen Tätigkeiten (B)
+Administrative Tätigkeiten MÜSSEN nachweisbar sein. Dafür MUSS mindestens festgehalten werden,
+• welche Änderung bei einer Tätigkeit durchgeführt wurde,
+• wer eine Tätigkeit durchgeführt hat und
+• wann eine Tätigkeit durchgeführt wurde.
+Die Institution MUSS jederzeit nachweisen können, welche Person welche administrativen Tätigkeiten durchgeführt hat.
+Dazu SOLLTEN alle Administrierenden über eine eigene Zugangskennung verfügen.
+Auch Vertretungen von Administrierenden SOLLTEN eigene Zugangskennungen erhalten.
+Jeder Anmeldevorgang (Login) über eine Administrationskennung MUSS protokolliert werden.
+
+OPS.1.1.2.A6 Schutz administrativer Tätigkeiten (B)
+Administrative Schnittstellen und Funktionen DÜRFEN NUR berechtigten Personen zur Verfügung stehen.
+Für diese Schnittstellen und Funktionen MÜSSEN geeignete Verfahren zur Authentisierung festgelegt werden.
+Es MUSS sichergestellt sein, dass Administrationstätigkeiten nur durchgeführt werden können, falls vorher eine dementsprechende Authentisierung erfolgt ist.
+Es MUSS festgelegt werden, welche Protokolle für Administrationsschnittstellen verwendet werden dürfen, so dass die bei der Administration stattfindende Kommunikation abgesichert ist.
+
+OPS.1.1.2.A21 Regelung der IT-Administrationsrollen (B)
+Es MÜSSEN Rollen definiert werden, die ausschließlich zur IT-Administration vergeben werden.
+Administrationsrollen MÜSSEN aufgrund des tatsächlichen Bedarfs im Aufgabenbereich der IT-Administration nachvollziehbar vergeben werden.
+Alle notwendigen Administrationstätigkeiten MÜSSEN durch Berechtigungen in den Administrationsrollen nach dem Minimalprinzip abgedeckt sein.
+Die IT-Administration unterschiedlicher Ebenen der IT-Komponenten, z. B. die Trennung von Betriebssystem- und Anwendungsadministration, MUSS bei der Konzeption der Administrationsrollen berücksichtigt werden.
+
+OPS.1.1.2.A22 Trennung von administrativen und anderen Tätigkeiten (B)
+Die durchführende Person MUSS wissen, bei welchem Teil ihrer Aufgabe es sich um administrative Tätigkeiten handelt.
+Aufgaben, die keine Administrationsrechte benötigen, DÜRFEN NICHT mit Administrationsrechten ausgeführt werden.
+Es MUSS sichergestellt werden, dass Administrationswerkzeuge klar als solche erkennbar sind.
+Wenn eine Anwendung zur Erfüllung einer Administrationsaufgabe benutzt wird, DARF NICHT dieselbe Instanz dieser Anwendung für andere Aufgaben verwendet werden.
+Dies SOLLTE auf technischer Ebene sichergestellt werden.
+Die Zugangskennungen, die zur IT-Administration genutzt werden, SOLLTEN sich von Zugangskennungen unterscheiden, die in anderem Kontext genutzt werden.
+
+
+3.2. Standard-Anforderungen
+
+OPS.1.1.2.A7 Regelung der IT-Administrationstätigkeit (S)
+Jede IT-Administrationstätigkeit SOLLTE einer klar definierten Aufgabe zugeordnet sein.
+Für diese Aufgaben SOLLTE geregelt werden,
+• durch wen diese Aufgabe ausgeführt werden darf und
+• durch wen diese Aufgabe beauftragt werden darf.
+Es SOLLTE nachvollziehbar sein, in welchen Prozessen sich Administrationsaufgaben einfügen.
+IT-Administrationstätigkeiten SOLLTEN nur mit denjenigen Berechtigungen durchgeführt werden, die zur Erfüllung der entsprechenden Aufgabe notwendig sind.
+Es SOLLTE festgelegt werden, wie IT-Administrationstätigkeiten auszuführen sind.
+Die Regelungen für IT-Administrationstätigkeiten SOLLTEN regelmäßig und anlassbezogen überprüft und aktualisiert werden.
+Für jede IT-Administrationstätigkeit SOLLTE sichergestellt werden, dass diese bei Bedarf auch im Notfall ausgeführt werden kann.
+
+OPS.1.1.2.A8 Administration von Fachanwendungen (S)
+Es SOLLTE geregelt und dokumentiert werden, welche Administrationsaufgaben für Fachanwendungen vom IT-Betrieb und welche durch die Fachadministration durchgeführt werden.
+Für Fachanwendungen SOLLTE identifiziert werden, welche Zugriffe der IT-Betrieb auf Systemebene benötigt.
+Alle Schnittstellen und Abhängigkeiten zwischen der Fachadministration und der Administration durch den IT-Betrieb SOLLTEN identifiziert werden.
+Immer wenn Administrationsprozesse erstellt und gepflegt werden, SOLLTEN die Zuständigkeiten und Abhängigkeiten dieser Schnittstellen berücksichtigt werden.
+
+OPS.1.1.2.A9 ENTFALLEN (S)
+Diese Anforderung ist entfallen.
+
+OPS.1.1.2.A10 ENTFALLEN (S)
+Diese Anforderung ist entfallen.
+
+OPS.1.1.2.A11 Dokumentation von IT-Administrationstätigkeiten (S)
+Durchgeführte Administrationstätigkeiten SOLLTEN nachvollziehbar dokumentiert werden.
+Es SOLLTE geprüft werden, welche grundsätzlichen Anforderungen an die Dokumentation der Administrationstätigkeiten existieren.
+Es SOLLTE identifiziert werden, welche Ziele mit der Dokumentation erreicht werden sollen.
+Aufgrund dieser Anforderungen und Ziele SOLLTE verbindlich festgelegt werden, welche Schritte in welchem Detailierungsgrad dokumentiert werden.
+Aus der Dokumentation SOLLTE mindestens hervorgehen,
+• welche Änderungen erfolgten,
+• wann die Änderungen erfolgten,
+• wer die Änderungen durchgeführt hat,
+• auf welcher Grundlage bzw. aus welchem Anlass die Änderungen erfolgt sind und
+• inwiefern und aus welchem Grund gegebenenfalls von vorgegebenen Standards oder Konfigurationen abgewichen wurde.
+Dokumentation im Kontext einer Administrationstätigkeit SOLLTE in Standard-Arbeitsabläufen enthalten sein.
+Es SOLLTE geregelt werden, welche Möglichkeiten zu nutzen sind, falls Administrationstätigkeiten außerplanmäßig durchgeführt werden.
+Es SOLLTE identifiziert werden, unter welchen Umständen ein Zugriff auf die Dokumentation notwendig ist.
+Der Zugriff SOLLTE dementsprechend gewährleistet sein.
+
+OPS.1.1.2.A12 ENTFALLEN (S)
+Diese Anforderung ist entfallen.
+
+OPS.1.1.2.A13 ENTFALLEN (S)
+Diese Anforderung ist entfallen.
+
+OPS.1.1.2.A16 Erweiterte Sicherheitsmaßnahmen für Administrationszugänge (S)
+Der Zugang zu administrativen Oberflächen und Schnittstellen SOLLTE auf IT-Systeme, die zur IT-Administration verwendet werden, beschränkt sein.
+Daher SOLLTEN Netze, die zur IT-Administration verwendet werden, durch Filterund Segmentierungsmaßnahmen von produktiven Netzen zu administrierender Komponenten getrennt werden (Out-of-Band-Management).
+Wo kein Out-of-Band-Management möglich ist, SOLLTEN Software-Schnittstellen und physische Schnittstellen zur IT-Administration durch zusätzliche Maßnahmen abgesichert werden und nur für Personen erreichbar sein, die für deren Nutzung berechtigt sind.
+Hierzu SOLLTE eine Zwei-Faktor-Authentisierung verwendet werden.
+
+OPS.1.1.2.A20 ENTFALLEN (S)
+Diese Anforderung ist entfallen.
+
+OPS.1.1.2.A23 Rollen- und Berechtigungskonzept für administrative Zugriffe (S)
+Es SOLLTE ein angemessenes Rollen- und Berechtigungskonzept für administrative Zugriffe existieren.
+Darin SOLLTEN grundsätzliche Vorgaben gemacht werden, mindestens darüber,
+• wie Administrationsrollen beantragt und zugewiesen werden,
+• welche Arten von Administrationsrollen existieren,
+• welche Arten von Berechtigungen im Kontext der Administrationsrollen vergeben werden,
+• wie für die IT-Administration notwendige Berechtigungen vergeben werden.
+
+OPS.1.1.2.A24 Prüfen von Administrationstätigkeiten (S)
+Bevor eine Administrationstätigkeit durchgeführt wird, SOLLTE geprüft werden, ob der Anlass und die Art der Tätigkeit im Kontext der zugrundeliegenden Aufgabe plausibel sind.
+Nachdem eine Administrationstätigkeit an einer Komponente durchgeführt wurde, SOLLTE geprüft werden, ob die Konfiguration und der Status der Komponente dem gewünschten Zielzustand entspricht.
+Falls eine zusätzliche Qualitätssicherung der ausgeführten Administrationsaufgabe notwendig ist, SOLLTE diese nicht durch dieselbe Person durchgeführt werden, die die entsprechenden Tätigkeiten durchgeführt hat.
+Für Administrationstätigkeiten mit potenziell weitreichenden Folgen SOLLTE geprüft werden, ob diese Tätigkeiten die Verfügbarkeit der IT-Administration selbst einschränken könnten.
+In diesem Fall SOLLTEN entsprechende Vorkehrungen getroffen werden, um einen Rollback der Administrationstätigkeiten zu ermöglichen.
+
+OPS.1.1.2.A25 Zeitfenster für schwerwiegende Administrationstätigkeiten (S)
+Für Administrationstätigkeiten mit potenziell weitreichenden Folgen SOLLTEN durch den IT-Betrieb Wartungsfenster abgestimmt werden.
+Falls der IT-Betrieb für Administrationstätigkeiten Vorgaben zu Zeitfenstern macht, MÜSSEN diese eingehalten werden.
+
+OPS.1.1.2.A26 Backup der Konfiguration (S)
+Alle Konfigurationen SOLLTEN durch regelmäßige Backups auf Anwendungsebene und auf IT-Systemebene gesichert werden.
+Vor Administrationstätigkeiten mit potenziell weitreichenden Folgen SOLLTE ein zusätzliches Backup gemacht werden.
+Für Backups SOLLTE gewährleistet sein, dass sie im Fehlerfall wieder eingespielt werden können.
+
+OPS.1.1.2.A27 Ersatz für zentrale IT-Administrationswerkzeuge (S)
+Für zentrale IT-Administrationswerkzeuge SOLLTEN Alternativen zur Verfügung stehen, mit denen im Bedarfsfall administriert werden kann.
+Hierzu SOLLTEN Sprungsysteme mit Zugriff auf entsprechende Administrationsnetze zur Verfügung stehen.
+Falls solche Alternativen nicht zur Verfügung stehen, SOLLTE zur IT-Administration der Zugang und der direkte Zugriff auf die zu administrierende IT möglich sein.
+
+OPS.1.1.2.A28 Protokollierung administrativer Tätigkeiten (S)
+Administrative Tätigkeiten SOLLTEN protokolliert werden.
+Die Protokolldateien SOLLTEN für eine angemessene Zeitdauer geschützt aufbewahrt werden.
+Die ausführenden Administrierenden SOLLTEN keine Möglichkeiten haben, die aufgezeichneten Protokolldateien zu verändern oder zu löschen.
+Protokolldaten SOLLTEN regelmäßig geprüft werden.
+
+
+3.3. Anforderungen bei erhöhtem Schutzbedarf
+
+OPS.1.1.2.A14 ENTFALLEN (H)
+Diese Anforderung ist entfallen.
+
+OPS.1.1.2.A15 ENTFALLEN (H)
+Diese Anforderung ist entfallen.
+
+OPS.1.1.2.A17 IT-Administration im Vier-Augen-Prinzip (H)
+Es SOLLTE geregelt werden, welche Administrationsaufgaben eine zusätzliche Person erfordern, die die Ausführung überwacht.
+Diese Person SOLLTE im Kontext der durchzuführenden Administrationstätigkeiten auch über die zur Ausführung notwendigen Qualifikationen verfügen.
+
+OPS.1.1.2.A18 Durchgängige Protokollierung administrativer Tätigkeiten (H)
+Bei IT-Komponenten mit hohem Schutzbedarf SOLLTEN alle administrativen Tätigkeiten in sämtlichen Bereichen protokolliert werden.
+Dabei SOLLTE jede administrative Aktion vollständig nachvollzogen werden.
+Die ausführenden Administrierenden SOLLTEN keinen Einfluss auf Art und Umfang der Protokollierung nehmen können.
+
+OPS.1.1.2.A19 Nutzung hochverfügbarer IT-Administrationswerkzeuge (H)
+Administrationswerkzeuge SOLLTEN redundant ausgelegt werden.
+Es SOLLTE sichergestellt werden, dass im Störungsfall weiterhin alle Administrationsaufgaben ohne wesentliche Einschränkungen ausgeführt werden können.
+
+OPS.1.1.2.A29 Monitoring der IT-Administrationswerkzeuge (H)
+Für IT-Administrationswerkzeuge SOLLTEN Kenngrößen zur Verfügbarkeit identifiziert werden.
+Diese Kenngrößen SOLLTEN kontinuierlich überwacht werden.
+Es SOLLTEN tolerierbare Grenzwerte dieser Kenngrößen festgelegt werden.
+Werden diese nicht eingehalten, SOLLTEN die zuständigen Teams automatisch benachrichtigt werden.
+
+OPS.1.1.2.A30 Sicherheitsmonitoring administrativer Tätigkeiten (H)
+Falls ein IT-System zur zentralen Detektion und automatisierten Echtzeitüberprüfung von Ereignismeldungen genutzt wird, SOLLTEN dort Ereignisdaten zu administrativen Tätigkeiten ausgewertet werden.
+Hierzu SOLLTEN bestehende Monitoring-Systeme der IT sowie kritische Administrationswerkzeuge in dieses IT-System eingebunden werden.

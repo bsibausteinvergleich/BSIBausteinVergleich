@@ -1,0 +1,53 @@
+3.1. Basis-Anforderungen
+
+
+SYS.1.2.3.A1 Planung von Windows Server (B)
+Es MUSS eine begründete und dokumentierte Entscheidung für eine geeignete Edition von Windows Server getroffen werden.
+Der Einsatzzweck des Servers sowie die Einbindung ins Active Directory MÜSSEN dabei spezifiziert werden.
+Die Nutzung von mitgelieferten Cloud-Diensten im Betriebssystem MUSS grundsätzlich abgewogen und gründlich geplant werden.
+Wenn nicht benötigt, MUSS die Einrichtung von Microsoft-Konten auf dem Server blockiert werden.
+
+SYS.1.2.3.A2 Sichere Installation von Windows Server (B)
+Wenn vom Funktionsumfang her ausreichend, MUSS die Server-Core-Variante installiert werden.
+Andernfalls MUSS begründet werden, warum die Server-Core-Variante nicht genügt.
+
+SYS.1.2.3.A3 Telemetrie- und Nutzungsdaten unter Windows Server (B)
+Um die Übertragung von Diagnose- und Nutzungsdaten an Microsoft stark zu reduzieren, MUSS das Telemetrie-Level 0 (Security) auf dem Windows Server konfiguriert werden.
+Wenn diese Einstellung nicht wirksam umgesetzt wird, dann MUSS durch geeignete Maßnahmen, etwa auf Netzebene, sichergestellt werden, dass die Daten nicht an den Hersteller übertragen werden.
+
+
+3.2. Standard-Anforderungen
+
+SYS.1.2.3.A4 Schutz vor Ausnutzung von Schwachstellen in Anwendungen (S)
+Maßnahmen zum Schutz vor Exploits SOLLTEN für alle Programme und Dienste aktiviert werden, die den Exploit-Schutz von Windows (vgl. Verweis in Kapitel 4.1 Wissenswertes) unterstützen.
+
+SYS.1.2.2.A5 Sichere Authentisierung und Autorisierung in Windows Server (S)
+In Windows Server SOLLTEN alle Konten von Benutzenden Mitglied der Sicherheitsgruppe „Protected Users“ sein.
+Konten für Dienste und Computer SOLLTEN NICHT Mitglied von „Protected Users“ sein.
+Dienste-Konten in Windows Server SOLLTEN Mitglied der Gruppe „Managed Service Account“ sein.
+
+SYS.1.2.3.A6 Sicherheit beim Fernzugriff über RDP (S)
+Die Auswirkungen auf die Konfiguration der lokalen Firewall SOLLTEN bei der Planung des Fernzugriffs berücksichtigt werden.
+Die Gruppe der Berechtigten und IT-Systeme für den Remote-Desktopzugriff (RDP) SOLLTE durch die Zuweisung entsprechender Berechtigungen festgelegt werden.
+Es SOLLTEN Mechanismen des Betriebssystems berücksichtigt werden, um die übertragenen Anmeldeinformationen zu schützen (z. B. Remote Credential Guard oder RestrictedAdmin).
+In komplexen Infrastrukturen SOLLTE das RDP-Zielsystem nur durch ein dazwischengeschaltetes RDP-Gateway erreicht werden können.
+Für die Verwendung von RDP SOLLTE eine Prüfung und deren Umsetzung sicherstellen, dass die nachfolgend aufgeführten Komfortfunktionen im Einklang mit dem Schutzbedarf des Zielsystems stehen:
+• die Verwendung der Zwischenablage,
+• die Einbindung von Wechselmedien und Netzlaufwerken sowie
+• die Nutzung der Dateiablagen, von weiteren Geräten und Ressourcen, wie z. B. Smartcard-Lesegeräten.
+Die eingesetzten kryptografischen Protokolle und Algorithmen SOLLTEN den internen Vorgaben der Institution entsprechen.
+Sofern der Einsatz von Remote-Desktopzugriffen nicht vorgesehen ist, SOLLTEN diese vollständig deaktiviert werden.
+
+
+3.3. Anforderungen bei erhöhtem Schutzbedarf
+
+SYS.1.2.3.A7 Verwendung der Windows PowerShell (H)
+Die PowerShell-Ausführung SOLLTE zentral protokolliert werden.
+Die erzeugten Protokolle SOLLTEN geeignet überwacht werden.
+Die Ausführung von PowerShell-Skripten SOLLTE mit dem Befehl Set-ExecutionPolicy AllSigned eingeschränkt werden, um zu verhindern, dass unsignierte Skripte (versehentlich) ausgeführt werden.
+Ältere Windows PowerShell-Versionen SOLLTEN deaktiviert werden.
+Der Einsatz des PowerShell Constrained Language Mode SOLLTE geprüft werden.
+Zur Einschränkung der Windows PowerShell SOLLTE bei Windows Server mithilfe von Just Enough Administration (JEA) eine rollenbasierte Administration implementiert werden.
+
+SYS.1.2.3.A8 Nutzung des Virtual Secure Mode (VSM) (H)
+Bei der Nutzung des Virtual Secure Mode (VSM) SOLLTE berücksichtigt werden, dass forensische Untersuchungen, z. B. zur Sicherheitsvorfallbehandlung, eingeschränkt oder erschwert werden.
