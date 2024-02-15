@@ -4,12 +4,12 @@
 CON.8.A2 Auswahl eines Vorgehensmodells (B)
 Ein geeignetes Vorgehensmodell zur Software-Entwicklung MUSS festgelegt werden.
 Anhand des gewählten Vorgehensmodells MUSS ein Ablaufplan für die Software-Entwicklung erstellt werden.
-Die Sicherheitsanforderungen der Auftraggebenden an die Vorgehensweise MÜSSEN im Vorgehensmodell integriert werden.
+Die Sicherheitsanforderungen des Auftraggebers an die Vorgehensweise MÜSSEN im Vorgehensmodell integriert werden.
 Das ausgewählte Vorgehensmodell, einschließlich der festgelegten Sicherheitsanforderungen, MUSS eingehalten werden.
 Das Personal SOLLTE in der Methodik des gewählten Vorgehensmodells geschult sein.
 
 CON.8.A3 Auswahl einer Entwicklungsumgebung (B)
-Eine Liste der erforderlichen und optionalen Auswahlkriterien für eine Entwicklungsumgebung MUSS von Fachverantwortlichen für die Software-Entwicklung erstellt werden.
+Eine Liste der erforderlichen und optionalen Auswahlkriterien für eine Entwicklungsumgebung MUSS vom Fachverantwortlichen für die Software-Entwicklung erstellt werden.
 Die Entwicklungsumgebung MUSS anhand der vorgegebenen Kriterien ausgewählt werden.
 
 CON.8.A4 ENTFALLEN (B)
@@ -23,7 +23,7 @@ Folgende Grundregeln des sicheren Systemdesigns MÜSSEN in der zu entwickelnden 
 • Bei Fehlern oder Ausfällen von Komponenten des Systems DÜRFEN NICHT schützenswerte Informationen preisgegeben werden.
 • Die Software MUSS mit möglichst geringen Privilegien ausgeführt werden können.
 • Schützenswerte Daten MÜSSEN entsprechend der Vorgaben des Kryptokonzepts verschlüsselt übertragen und gespeichert werden.
-• Zur Benutzenden-Authentisierung und Authentifizierung MÜSSEN vertrauenswürdige Mechanismen verwendet werden, die den Sicherheitsanforderungen an die Anwendung entsprechen.
+• Zur Benutzer-Authentisierung und Authentifizierung MÜSSEN vertrauenswürdige Mechanismen verwendet werden, die den Sicherheitsanforderungen an die Anwendung entsprechen.
 • Falls zur Authentifizierung Passwörter gespeichert werden, MÜSSEN diese mit einem sicheren Hashverfahren gespeichert werden.
 • Sicherheitsrelevante Ereignisse MÜSSEN in der Art protokolliert werden, dass sie im Nachgang ausgewertet werden können.
 • Informationen, die für den Produktivbetrieb nicht relevant sind (z. B. Kommentare mit Zugangsdaten für die Entwicklungsumgebung), SOLLTEN in ausgeliefertem Programmcode und ausgelieferten Konfigurationsdateien entfernt werden.
@@ -34,9 +34,9 @@ CON.8.A6 Verwendung von externen Bibliotheken aus vertrauenswürdigen Quellen (B
 Wird im Rahmen des Entwicklungs- und Implementierungsprozesses auf externe Bibliotheken zurückgegriffen, MÜSSEN diese aus vertrauenswürdigen Quellen bezogen werden.
 Bevor externe Bibliotheken verwendet werden, MUSS deren Integrität sichergestellt werden.
 
-CON.8.A7 Durchführung von entwicklungsbegleitenden Software-Tests (B) [Testende, Entwickelnde]
+CON.8.A7 Durchführung von entwicklungsbegleitenden Software-Tests [Tester, Entwickler] (B)
 Schon bevor die Software im Freigabeprozess getestet und freigegeben wird, MÜSSEN entwicklungsbegleitende Software-Tests durchgeführt und der Quellcode auf Fehler gesichtet werden.
-Hierbei SOLLTEN bereits die Fachverantwortlichen des Auftraggebenden oder der beauftragenden Fachabteilung beteiligt werden.
+Hierbei SOLLTEN bereits die Fachverantwortlichen des Auftraggebers oder der beauftragenden Fachabteilung beteiligt werden.
 Die entwicklungsbegleitenden Tests MÜSSEN die funktionalen und nichtfunktionalen Anforderungen der Software umfassen.
 Die Software-Tests MÜSSEN dabei auch Negativtests abdecken.
 Zusätzlich MÜSSEN auch alle kritischen Grenzwerte der Eingabe sowie der Datentypen überprüft werden.
@@ -45,17 +45,17 @@ Darüber hinaus SOLLTE eine automatische statische Code-Analyse durchgeführt we
 Die Software MUSS in einer Test- und Entwicklungsumgebung getestet werden, die getrennt von der Produktionsumgebung ist.
 Außerdem MUSS getestet werden, ob die Systemvoraussetzungen für die vorgesehene Software ausreichend dimensioniert sind.
 
-CON.8.A8 Bereitstellung von Patches, Updates und Änderungen (B) [Entwickelnde]
-Es MUSS sichergestellt sein, dass sicherheitskritische Patches und Updates für die entwickelte Software zeitnah durch die Entwickelnden bereitgestellt werden.
-Werden für verwendete externe Bibliotheken sicherheitskritische Updates bereitgestellt, dann MÜSSEN die Entwickelnden ihre Software hierauf anpassen und ihrerseits entsprechende Patches und Updates zur Verfügung stellen.
-Für die Installations-, Update- oder Patchdateien MÜSSEN vom Entwickelnden Checksummen oder digitale Signaturen bereitgestellt werden.
+CON.8.A8 Bereitstellung von Patches, Updates und Änderungen [Entwickler] (B)
+Es MUSS sichergestellt sein, dass sicherheitskritische Patches und Updates für die entwickelte Software zeitnah durch die Entwickler bereitgestellt werden.
+Werden für verwendete externe Bibliotheken sicherheitskritische Updates bereitgestellt, dann MÜSSEN die Entwickler ihre Software hierauf anpassen und ihrerseits entsprechende Patches und Updates zur Verfügung stellen.
+Für die Installations-, Update- oder Patchdateien MÜSSEN vom Entwickler Checksummen oder digitale Signaturen bereitgestellt werden.
 
 CON.8.A9 ENTFALLEN (B)
 Diese Anforderung ist entfallen.
 
-CON.8.A10 Versionsverwaltung des Quellcodes (B) [Entwickelnde]
+CON.8.A10 Versionsverwaltung des Quellcodes [Entwickler] (B)
 Der Quellcode des Entwicklungsprojekts MUSS über eine geeignete Versionsverwaltung verwaltet werden.
-Die Institution MUSS den Zugriff auf die Versionsverwaltung regeln und festlegen, wann Änderungen am Quellcode durch die Entwickelnden als eigene Version in der Versionsverwaltung gespeichert werden sollen.
+Die Institution MUSS den Zugriff auf die Versionsverwaltung regeln und festlegen, wann Änderungen am Quellcode durch die Entwickler als eigene Version in der Versionsverwaltung gespeichert werden sollen.
 Es MUSS sichergestellt sein, dass durch die Versionsverwaltung alle Änderungen am Quellcode nachvollzogen und rückgängig gemacht werden können.
 Die Versionsverwaltung MUSS in dem Datensicherungskonzept berücksichtigt werden.
 Die Versionsverwaltung DARF NICHT ohne Datensicherung erfolgen.
@@ -69,8 +69,8 @@ Darüber hinaus SOLLTEN keine veralteten Versionen von externen Komponenten in a
 
 3.2. Standard-Anforderungen
 
-CON.8.A1 Definition von Rollen und Zuständigkeiten (S) [Zentrale Verwaltung]
-Für den Software-Entwicklungsprozess SOLLTE eine gesamtzuständige Person ein benannt werden.
+CON.8.A1 Definition von Rollen und Zuständigkeiten [Zentrale Verwaltung] (S)
+Für den Software-Entwicklungsprozess SOLLTE ein Gesamtzuständiger benannt werden.
 Außerdem SOLLTEN die Rollen und Zuständigkeiten für alle Aktivitäten im Rahmen der Software-Entwicklung festgelegt werden.
 Die Rollen SOLLTEN dabei fachlich die nachfolgenden Themen abdecken:
 • Requirements-Engineering (Anforderungsmanagement) und Änderungsmanagement,
@@ -78,18 +78,18 @@ Die Rollen SOLLTEN dabei fachlich die nachfolgenden Themen abdecken:
 • Informationssicherheit in der Software-Entwicklung,
 • Software-Implementierung in dem für das Entwicklungsvorhaben relevanten Bereichen, sowie
 • Software-Tests.
-Für jedes Entwicklungsvorhaben SOLLTE eine zuständige Person für die Informationssicherheit benannt werden.
+Für jedes Entwicklungsvorhaben SOLLTE ein Zuständiger für die Informationssicherheit benannt werden.
 
 CON.8.A11 Erstellung einer Richtlinie für die Software-Entwicklung (S)
 Es SOLLTE eine Richtlinie für die Software-Entwicklung erstellt und aktuell gehalten werden.
 Die Richtlinie SOLLTE neben Namenskonventionen auch Vorgaben zu Elementen beinhalten, die verwendet bzw. nicht verwendet werden dürfen.
 Die relevanten Anforderungen aus diesem Baustein SOLLTEN in die Richtlinie aufgenommen werden.
-Die Richtlinie SOLLTE für die Entwickelnden verbindlich sein.
+Die Richtlinie SOLLTE für die Entwickler verbindlich sein.
 
 CON.8.A12 Ausführliche Dokumentation (S)
 Es SOLLTEN ausreichende Projekt-, Funktions- und Schnittstellendokumentationen erstellt und aktuell gehalten werden.
-Die Betriebsdokumentation SOLLTE konkrete Sicherheitshinweise für die Installation und Konfiguration für Administration, sowie für die Benutzung des Produktes beinhalten.
-Die Software-Entwicklung SOLLTE so dokumentiert sein, dass Fachleute mithilfe der Dokumentation den Programm-Code nachvollziehen und weiterentwickeln können.
+Die Betriebsdokumentation SOLLTE konkrete Sicherheitshinweise für die Installation und Konfiguration für Administratoren, sowie für die Benutzung des Produktes beinhalten.
+Die Software-Entwicklung SOLLTE so dokumentiert sein, dass ein Fachexperte mithilfe der Dokumentation den Programm-Code nachvollziehen und weiterentwickeln kann.
 Die Dokumentation SOLLTE dabei auch die Software-Architektur und Bedrohungsmodellierung umfassen.
 Die Aspekte zur Dokumentation SOLLTEN im Vorgehensmodell zur Software-Entwicklung berücksichtigt werden.
 
@@ -97,7 +97,7 @@ CON.8.A13 ENTFALLEN (S)
 Diese Anforderung ist entfallen.
 
 CON.8.A14 Schulung des Entwicklungsteams zur Informationssicherheit (S)
-Die Entwickelnden und die übrigen Mitglieder des Entwicklungsteams SOLLTEN zu generellen Informationssicherheitsaspekten und zu den jeweils speziell für sie relevanten Aspekten geschult sein:
+Die Entwickler und die übrigen Mitglieder des Entwicklungsteams SOLLTEN zu generellen Informationssicherheitsaspekten und zu den jeweils speziell für sie relevanten Aspekten geschult sein:
 • Anforderungsanalyse,
 • Projektmanagement allgemein sowie speziell bei der Software-Entwicklung,
 • Risikomanagement bzw. Bedrohungsmodellierung in der Software-Entwicklung,
@@ -133,12 +133,12 @@ Hierbei SOLLTEN möglichst zukünftige Standards und Angriffstechniken berücksi
 
 CON.8.A17 Auswahl vertrauenswürdiger Entwicklungswerkzeuge (H)
 Zur Entwicklung der Software SOLLTEN nur Werkzeuge mit nachgewiesenen Sicherheitseigenschaften verwendet werden.
-An die herstellenden Unternehmen von Hardware oder Software SOLLTEN hinreichende Anforderungen zur Sicherheit ihrer Werkzeuge gestellt werden.
+An die Hersteller von Hardware oder Software SOLLTEN hinreichende Anforderungen zur Sicherheit ihrer Werkzeuge gestellt werden.
 
 CON.8.A18 Regelmäßige Sicherheitsaudits für die Entwicklungsumgebung (H)
 Es SOLLTEN regelmäßige Sicherheitsaudits der Software-Entwicklungsumgebung und der Software-Testumgebung durchgeführt werden.
 
-CON.8.A19 Regelmäßige Integritätsprüfung der Entwicklungsumgebung (H) [IT-Betrieb]
+CON.8.A19 Regelmäßige Integritätsprüfung der Entwicklungsumgebung [IT-Betrieb] (H)
 Die Integrität der Entwicklungsumgebung SOLLTE regelmäßig mit kryptographischen Mechanismen entsprechend dem Stand der Technik geprüft werden.
 Die Prüfsummendateien und das Prüfprogramm selbst SOLLTEN ausreichend vor Manipulationen geschützt sein.
 Wichtige Hinweise auf einen Integritätsverlust SOLLTEN nicht in einer Fülle irrelevanter Warnmeldungen (false positives) untergehen.

@@ -1,5 +1,6 @@
 3.1. Basis-Anforderungen
 
+
 CON.10.A1 Authentisierung bei Webanwendungen (B)
 Die Entwickler MÜSSEN sicherstellen, dass sich Benutzer gegenüber der Webanwendung sicher und angemessen authentisieren, bevor diese auf geschützte Funktionen oder Inhalte zugreifen können.
 Es MUSS eine angemessene Authentisierungsmethode ausgewählt werden.

@@ -3,7 +3,8 @@
 
 CON.10.A1 Authentisierung bei Webanwendungen (B)
 Die Entwickelnden MÜSSEN sicherstellen, dass sich die Benutzenden gegenüber der Webanwendung sicher und angemessen authentisieren, bevor diese auf geschützte Funktionen oder Inhalte zugreifen können.
-Es MUSS eine angemessene Authentisierungsmethode ausgewählt werden. Der Auswahlprozess MUSS dokumentiert werden.
+Es MUSS eine angemessene Authentisierungsmethode ausgewählt werden.
+Der Auswahlprozess MUSS dokumentiert werden.
 Eine zentrale Authentisierungskomponente MUSS verwendet werden.
 Die zentrale Authentisierungskomponente SOLLTE mit etablierten Standardkomponenten (z. B. aus Frameworks oder Programmbibliotheken) umgesetzt werden.
 Falls eine Webanwendung Authentisierungsdaten auf einem Client speichert, MUSS explizit auf die Risiken der Funktion hingewiesen werden und zustimmen („Opt-In“).
@@ -18,7 +19,8 @@ Ist die Zugriffskontrolle fehlerhaft, MÜSSEN Zugriffe abgelehnt werden.
 Es MUSS eine Zugriffskontrolle bei URL-Aufrufen und Objekt-Referenzen geben.
 
 CON.10.A3 Sicheres Session-Management (B)
-Session-IDs MÜSSEN geeignet geschützt werden. Session-IDs MÜSSEN zufällig und mit ausreichender Entropie erzeugt werden.
+Session-IDs MÜSSEN geeignet geschützt werden.
+Session-IDs MÜSSEN zufällig und mit ausreichender Entropie erzeugt werden.
 Falls das Framework der Webanwendung sichere Session-IDs generieren kann, MUSS diese Funktion des Frameworks verwendet werden.
 Sicherheitsrelevante Konfigurationsmöglichkeiten des Frameworks MÜSSEN berücksichtigt werden.
 Wenn Session-IDs übertragen und von den Clients gespeichert werden, MÜSSEN sie ausreichend geschützt übertragen werden.

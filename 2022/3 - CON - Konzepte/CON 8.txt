@@ -1,5 +1,6 @@
 3.1. Basis-Anforderungen
 
+
 CON.8.A2 Auswahl eines Vorgehensmodells (B)
 Ein geeignetes Vorgehensmodell zur Software-Entwicklung MUSS festgelegt werden.
 Anhand des gewählten Vorgehensmodells MUSS ein Ablaufplan für die Software-Entwicklung erstellt werden.

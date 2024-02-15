@@ -11,7 +11,7 @@ Aus Gründen der Lesbarkeit wird auf die Wiederholung der Umstellung auf geschle
 
 ## Änderungen ISMS.1
 
-Im ISMS-Baustein befinden sich keine inhaltlichen Änderungen.
+Keine inhaltlichen Änderungen.
 
 
 ---
@@ -250,6 +250,8 @@ Ehemals *Schulung von Benutzern und Administratoren*:
 
 #### CON.1.A20 vollständig neu hinzugefügt als Anforderung mit erhöhtem Schutzbedarf
 
+
+### 
 
 ---
 

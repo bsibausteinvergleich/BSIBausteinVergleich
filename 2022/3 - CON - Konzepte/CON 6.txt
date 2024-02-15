@@ -1,5 +1,6 @@
 3.1 Basis-Anforderungen
 
+
 CON.6.A1 Regelung für die Löschung und Vernichtung von Informationen [Zentrale Verwaltung, Fachverantwortliche, Datenschutzbeauftragter, IT-Betrieb] (B)
 Die Institution MUSS das Löschen und Vernichten von Informationen regeln.
 Dabei MÜSSEN die Fachverantwortlichen für jedes Fachverfahren bzw. Geschäftsprozess regeln, welche Informationen unter welchen Voraussetzungen gelöscht und entsorgt werden müssen.
@@ -31,8 +32,7 @@ Diese Verfahren SOLLTEN in Abhängigkeit des Schutzbedarfs der verarbeiteten Dat
 • Optische Datenträger MÜSSEN mindestens nach Sicherheitsstufe O-3 entsprechend der ISO/IEC 21964-2 vernichtet werden.
 • Smartphones oder sonstige Smart Devices SOLLTEN entsprechend des Kryptokonzepts verschlüsselt werden.
 Smartphones oder sonstige Smart Devices MÜSSEN auf die Werkseinstellung (Factory Reset) zurückgesetzt werden.
-Anschließend SOLLTE der Einrichtungsvorgang zum Abschluss des Löschvorgangs durchgeführt werden.
-• IoT Geräte MÜSSEN auf den Werkszustand zurückgesetzt werden.
+Anschließend SOLLTE der Einrichtungsvorgang zum Abschluss des Löschvorgangs durchgeführt werden. • IoT Geräte MÜSSEN auf den Werkszustand zurückgesetzt werden.
 Anschließend MÜSSEN alle in den IoT-Geräten hinterlegten Zugangsdaten geändert werden.
 • Papier MUSS mindestens nach Sicherheitsstufe P-3 entsprechend der ISO/IEC 21964-2 vernichtet werden.
 • In sonstigen Geräten integrierte Datenträger MÜSSEN über die integrierten Funktionen sicher gelöscht werden.
