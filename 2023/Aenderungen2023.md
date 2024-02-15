@@ -11,7 +11,7 @@ Aus Gründen der Lesbarkeit wird auf die Wiederholung der Umstellung auf geschle
 
 ## Änderungen ISMS.1
 
-Im ISMS-Baustein befinden sich keine inhaltlichen Änderungen, lediglich die Uniformisierung der Geschlechter von Rollen im Rahmen der generellen Fortschreibung in 2023.
+Im ISMS-Baustein befinden sich keine inhaltlichen Änderungen.
 
 
 
