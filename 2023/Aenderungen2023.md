@@ -251,6 +251,20 @@ Im Kryptokonzept SOLLTE dokumentiert werden, für welche Hardware mit kryptograf
 #### CON.1.A20 vollständig neu hinzugefügt als Anforderung mit erhöhtem Schutzbedarf
 
 
+---
+
+
+# SYS
+
+## SYS.1.2.3
+
+Der Baustein wurde neu hinzugefügt.
+
+
+## SYS.1.9
+
+Der Baustein wurde neu hinzugefügt.
+
 
 ---
 

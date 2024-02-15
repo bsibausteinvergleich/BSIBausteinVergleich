@@ -1,10 +1,11 @@
-3.1 Basis-Anforderungen
+3.1. Basis-Anforderungen
 
-SYS.1.8.A1 Geeignete Aufstellung von Speichersystemen [Haustechnik] (B)
+
+SYS.1.8.A1 Geeignete Aufstellung von Speichersystemen (B) [Haustechnik]
 Die IT-Komponenten von Speicherlösungen MÜSSEN in verschlossenen Räumen aufgestellt werden.
 Zu diesen Räumen DÜRFEN NUR Berechtigte Zutritt haben.
 Zudem MUSS eine sichere Stromversorgung sichergestellt sein.
-Die Herstellervorgaben zur empfohlenen Umgebungstemperatur und Luftfeuchte MÜSSEN eingehalten werden.
+Die Vorgaben des herstellenden Unternehmens zur empfohlenen Umgebungstemperatur und Luftfeuchte MÜSSEN eingehalten werden.
 
 SYS.1.8.A2 Sichere Grundkonfiguration von Speicherlösungen (B)
 Bevor eine Speicherlösung produktiv eingesetzt wird, MUSS sichergestellt sein, dass alle eingesetzten Softwarekomponenten und die Firmware aktuell sind.
@@ -25,13 +26,13 @@ SYS.1.8.A5 ENTFALLEN (B)
 Diese Anforderung ist entfallen.
 
 
-3.2 Standard-Anforderungen
+3.2. Standard-Anforderungen
 
 SYS.1.8.A6 Erstellung einer Sicherheitsrichtlinie für Speicherlösungen (S)
 Ausgehend von der allgemeinen Sicherheitsrichtlinie der Institution SOLLTE eine spezifische Sicherheitsrichtlinie für Speicherlösungen erstellt werden.
 Darin SOLLTEN nachvollziehbar Vorgaben beschrieben sein, wie Speicherlösungen sicher geplant, administriert, installiert, konfiguriert und betrieben werden können.
-Die Richtlinie SOLLTE allen für Speicherlösungen zuständigen Administratoren bekannt und grundlegend für ihre Arbeit sein.
-Wird die Richtlinie verändert oder wird von den Vorgaben abgewichen, SOLLTE dies mit dem ISB abgestimmt und dokumentiert werden.
+Die Richtlinie SOLLTE allen für Speicherlösungen zuständigen Administrierenden bekannt und grundlegend für ihre Arbeit sein.
+Wird die Richtlinie verändert oder wird von den Vorgaben abgewichen, SOLLTE dies mit dem oder der ISB abgestimmt und dokumentiert werden.
 Es SOLLTE regelmäßig überprüft werden, ob die Richtlinie noch korrekt umgesetzt ist.
 Gegebenenfalls SOLLTE sie aktualisiert werden.
 Die Ergebnisse SOLLTEN sinnvoll dokumentiert werden.
@@ -41,7 +42,7 @@ Bevor Speicherlösungen in einer Institution eingesetzt werden, SOLLTE eine Anfo
 In der Anforderungsanalyse SOLLTEN unter anderem die Themen Performance und Kapazität betrachtet werden.
 Auf Basis der ermittelten Anforderungen SOLLTE dann eine detaillierte Planung für Speicherlösungen erstellt werden.
 Darin SOLLTEN folgende Punkte berücksichtigt werden:
-• Auswahl von Herstellern und Lieferanten,
+• Auswahl von herstellenden Unternehmen und Liefernden,
 • Entscheidung für oder gegen zentrale Verwaltungssysteme (Management-Systeme),
 • Planung des Netzanschlusses,
 • Planung der Infrastruktur sowie
@@ -54,12 +55,12 @@ Die Möglichkeiten und Grenzen der verschiedenen Speichersystemarten SOLLTEN fü
 Die Entscheidungskriterien für eine Speicherlösung SOLLTEN nachvollziehbar dokumentiert werden.
 Ebenso SOLLTE die Entscheidung für die Auswahl einer Speicherlösung nachvollziehbar dokumentiert werden.
 
-SYS.1.8.A9 Auswahl von Lieferanten für eine Speicherlösung (S)
-Anhand der spezifizierten Anforderungen an eine Speicherlösung SOLLTE ein geeigneter Lieferant ausgewählt werden.
-Die Auswahlkriterien und die Entscheidung für einen Lieferanten SOLLTEN nachvollziehbar dokumentiert werden.
+SYS.1.8.A9 Auswahl von Liefernden für eine Speicherlösung (S)
+Anhand der spezifizierten Anforderungen an eine Speicherlösung SOLLTEN geeignete Liefernde ausgewählt werden.
+Die Auswahlkriterien und die Entscheidung SOLLTEN nachvollziehbar dokumentiert werden.
 Außerdem SOLLTEN Aspekte der Wartung und Instandhaltung schriftlich in sogenannten Service-Level-Agreements (SLAs) festgehalten werden.
 Die SLAs SOLLTEN eindeutig und quantifizierbar sein.
-Es SOLLTE genau geregelt werden, wann der Vertrag mit dem Lieferanten endet.
+Es SOLLTE genau geregelt werden, wann der Vertrag mit den Liefernden endet.
 
 SYS.1.8.A10 Erstellung und Pflege eines Betriebshandbuchs (S)
 Es SOLLTE ein Betriebshandbuch erstellt werden.
@@ -75,8 +76,7 @@ SYS.1.8.A12 ENTFALLEN (S)
 Diese Anforderung ist entfallen.
 
 SYS.1.8.A13 Überwachung und Verwaltung von Speicherlösungen (S)
-Speicherlösungen SOLLTEN überwacht werden.
-Dabei SOLLTEN alle erhobenen Daten (Nachrichten) vorrangig daraufhin geprüft werden, ob die Vorgaben des Betriebshandbuchs eingehalten werden.
+Speicherlösungen SOLLTEN überwacht werden. Dabei SOLLTEN alle erhobenen Daten (Nachrichten) vorrangig daraufhin geprüft werden, ob die Vorgaben des Betriebshandbuchs eingehalten werden.
 Die wesentlichen Nachrichten SOLLTEN mit Nachrichtenfilter herausgefiltert werden.
 Einzelne Komponenten der Speicherlösung und des Gesamtsystems SOLLTEN zentral verwaltet werden.
 
@@ -128,9 +128,9 @@ Regelmäßige Übungen und Tests SOLLTEN anhand des Notfallplans durchgeführt w
 Nach den Übungen und Tests sowie nach einem tatsächlichen Notfall SOLLTEN die dabei erzeugten Daten sicher gelöscht werden.
 
 
-3.3 Anforderungen bei erhöhtem Schutzbedarf
+3.3. Anforderungen bei erhöhtem Schutzbedarf
 
-SYS.1.8.A21 Einsatz von Speicherpools zur Mandantentrennung (H)
+SYS.1.8.A21 Einsatz von Speicherpools zur Trennung von Mandanten (H)
 Mandanten SOLLTEN Speicherressourcen aus unterschiedlichen sogenannten Speicherpools zugewiesen werden.
 Dabei SOLLTE ein Speichermedium immer nur einem einzigen Pool zugewiesen werden.
 Die logischen Festplatten (LUNs), die aus einem solchen Pool generiert werden, SOLLTEN nur einem einzigen Mandanten zugeordnet werden.
