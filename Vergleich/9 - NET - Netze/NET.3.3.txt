@@ -1,15 +1,15 @@
-3.1. Basis-Anforderungen
+3.1 Basis-Anforderungen
 
 
 NET.3.3.A1 Planung des VPN-Einsatzes (B)
-Die Einführung eines VPN MUSS sorgfältig geplant werden. 
+Die Einführung eines VPN MUSS sorgfältig geplant werden.
 Dabei MÜSSEN die Verantwortlichkeiten für den VPN-Betrieb festgelegt werden.
-Es MÜSSEN für das VPN zudem Benutzendengruppen und deren Berechtigungen geplant werden.
+Es MÜSSEN für das VPN zudem Benutzergruppen und deren Berechtigungen geplant werden.
 Ebenso MUSS definiert werden, wie erteilte, geänderte oder entzogene Zugriffsberechtigungen zu dokumentieren sind.
 
-NET.3.3.A2 Auswahl von VPN-Dienstleistenden (B)
-Falls VPN-Dienstleistende eingesetzt werden, MÜSSEN mit diesen Service Level Agreements (SLAs) ausgehandelt und schriftlich dokumentiert werden.
-Es MUSS regelmäßig kontrolliert werden, ob die VPN-Dienstleistenden die vereinbarten SLAs einhalten.
+NET.3.3.A2 Auswahl eines VPN-Dienstleisters (B)
+Falls ein VPN-Dienstleister eingesetzt wird, MÜSSEN mit diesem Service Level Agreements (SLAs) ausgehandelt und schriftlich dokumentiert werden.
+Es MUSS regelmäßig kontrolliert werden, ob der VPN-Dienstleister die vereinbarten SLAs einhält.
 
 NET.3.3.A3 Sichere Installation von VPN-Endgeräten (B)
 Wird eine Appliance eingesetzt, die eine Wartung benötigt, MUSS es dafür einen gültigen Wartungsvertrag geben.
@@ -20,15 +20,15 @@ Die Funktionalität und die gewählten Sicherheitsmechanismen des VPN MÜSSEN vo
 NET.3.3.A4 Sichere Konfiguration eines VPN (B)
 Für alle VPN-Komponenten MUSS eine sichere Konfiguration festgelegt werden.
 Diese SOLLTE geeignet dokumentiert werden.
-Auch MUSS die für die Administration zuständige Person regelmäßig kontrollieren, ob die Konfiguration noch sicher ist und sie eventuell für alle IT-Systeme anpassen.
+Auch MUSS der zuständige Administrator regelmäßig kontrollieren, ob die Konfiguration noch sicher ist und sie eventuell für alle IT-Systeme anpassen.
 
 NET.3.3.A5 Sperrung nicht mehr benötigter VPN-Zugänge (B)
-Es MUSS regelmäßig geprüft werden, ob ausschließlich berechtigte IT-Systeme und Benutzende auf das VPN zugreifen können.
+Es MUSS regelmäßig geprüft werden, ob ausschließlich berechtigte IT-Systeme und Benutzer auf das VPN zugreifen können.
 Nicht mehr benötigte VPN-Zugänge MÜSSEN zeitnah deaktiviert werden.
 Der VPN-Zugriff MUSS auf die benötigten Benutzungszeiten beschränkt werden.
 
 
-3.2. Standard-Anforderungen
+3.2 Standard-Anforderungen
 
 NET.3.3.A6 Durchführung einer VPN-Anforderungsanalyse (S)
 Eine Anforderungsanalyse SOLLTE durchgeführt werden, um für das jeweilige VPN die Einsatzszenarien zu bestimmen und daraus Anforderungen an die benötigten Hard- und Software-Komponenten ableiten zu können.
@@ -36,7 +36,7 @@ In der Anforderungsanalyse SOLLTEN folgende Punkte betrachtet werden:
 • Geschäftsprozesse beziehungsweise Fachaufgaben,
 • Zugriffswege,
 • Identifikations- und Authentisierungsverfahren,
-• Benutzende und ihre Berechtigungen,
+• Benutzer und Benutzerberechtigungen,
 • Zuständigkeiten sowie
 • Meldewege.
 
@@ -47,13 +47,13 @@ Zudem SOLLTEN die Teilnetze definiert werden, die über das VPN erreichbar sind.
 
 NET.3.3.A8 Erstellung einer Sicherheitsrichtlinie zur VPN-Nutzung (S)
 Eine Sicherheitsrichtlinie zur VPN-Nutzung SOLLTE erstellt werden.
-Diese SOLLTE allen Mitarbeitenden bekannt gegeben werden.
+Diese SOLLTE allen Mitarbeitern bekannt gegeben werden.
 Die in der Sicherheitsrichtlinie beschriebenen Sicherheitsmaßnahmen SOLLTEN im Rahmen von Schulungen erläutert werden.
-Wird für Mitarbeitende ein VPN-Zugang eingerichtet, SOLLTE diesen ein Merkblatt mit den wichtigsten VPN-Sicherheitsmechanismen ausgehändigt werden.
-Alle VPN-Benutzende SOLLTEN verpflichtet werden, die Sicherheitsrichtlinien einzuhalten.
+Wird einem Mitarbeiter ein VPN-Zugang eingerichtet, SOLLTE ihm ein Merkblatt mit den wichtigsten VPN-Sicherheitsmechanismen ausgehändigt werden.
+Alle VPN-Benutzer SOLLTEN verpflichtet werden, die Sicherheitsrichtlinien einzuhalten.
 
 NET.3.3.A9 Geeignete Auswahl von VPN-Produkten (S)
-Bei der Auswahl von VPN-Produkten SOLLTEN die Anforderungen der Institutionen an die Vernetzung unterschiedlicher Standorte und die Anbindung von mobilen Mitarbeitenden oder Telearbeitsplätzen berücksichtigt werden.
+Bei der Auswahl von VPN-Produkten SOLLTEN die Anforderungen der Institutionen an die Vernetzung unterschiedlicher Standorte und die Anbindung mobiler Mitarbeiter oder Telearbeiter berücksichtigt werden.
 
 NET.3.3.A10 Sicherer Betrieb eines VPN (S)
 Für VPNs SOLLTE ein Betriebskonzept erstellt werden. Darin SOLLTEN die Aspekte Qualitätsmanagement, Überwachung, Wartung, Schulung und Autorisierung beachtet werden.
@@ -62,13 +62,12 @@ NET.3.3.A11 Sichere Anbindung eines externen Netzes (S)
 Es SOLLTE sichergestellt werden, dass VPN-Verbindungen NUR zwischen den dafür vorgesehenen IT-Systemen und Diensten aufgebaut werden.
 Die dabei eingesetzten Tunnel-Protokolle SOLLTEN für den Einsatz geeignet sein.
 
-NET.3.3.A12 Konten- und Zugriffsverwaltung bei Fernzugriff-VPNs (S)
-Für Fernzugriff-VPNs SOLLTE eine zentrale und konsistente Konten- und Zugriffsverwaltung gewährleistet werden.
+NET.3.3.A12 Benutzer- und Zugriffsverwaltung bei Fernzugriff-VPNs (S)
+Für Fernzugriff-VPNs SOLLTE eine zentrale und konsistente Benutzer- und Zugriffsverwaltung gewährleistet werden.
 
 NET.3.3.A13 Integration von VPN-Komponenten in eine Firewall (S)
 Die VPN-Komponenten SOLLTEN in die Firewall integriert werden. Dies SOLLTE dokumentiert werden.
 
+3.3 Anforderungen bei erhöhtem Schutzbedarf
 
-3.3. Anforderungen bei erhöhtem Schutzbedarf
-
-Für diesen Baustein sind keine Anforderungen für einen erhöhten Schutzbedarf definiert.
+Für den Baustein NET.3.3 VPN sind keine Anforderungen für einen erhöhten Schutzbedarf definiert.

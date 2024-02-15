@@ -149,7 +149,8 @@ Das Alarming und Logging SOLLTE mindestens folgende Punkte beinhalten:
 • Hardware-Fehlfunktionen,
 • fehlerhafte Anmeldeversuche sowie
 • kritische Zustände oder Überlastung von IT-Systemen.
-Ereignismeldungen bzw. Logging-Daten SOLLTEN einem zentralen Management-System entweder kontinuierlich oder gebündelt übermittelt werden. Alarmmeldungen SOLLTEN sofort wenn sie auftreten übermittelt werden.
+Ereignismeldungen bzw. Logging-Daten SOLLTEN einem zentralen Management-System entweder kontinuierlich oder gebündelt übermittelt werden.
+Alarmmeldungen SOLLTEN sofort wenn sie auftreten übermittelt werden.
 
 NET.1.2.A27 Einbindung des Netzmanagements in die Notfallplanung (S)
 Die Netzmanagement-Lösungen SOLLTEN in die Notfallplanung der Institution eingebunden werden.

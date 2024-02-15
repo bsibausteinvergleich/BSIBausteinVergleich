@@ -1,5 +1,6 @@
 3.1 Basis-Anforderungen
 
+
 NET.4.2.A1 Planung des VoIP-Einsatzes (B)
 Die Bedingungen, unter denen VoIP eingesetzt werden soll, MÜSSEN festgelegt werden.
 Es MUSS unter anderem entschieden werden, ob vollständig oder partiell auf VoIP umgestiegen werden soll.

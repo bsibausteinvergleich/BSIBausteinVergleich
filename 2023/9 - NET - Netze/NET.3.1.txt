@@ -62,7 +62,8 @@ Ausgehend von der allgemeinen Sicherheitsrichtlinie der Institution SOLLTE eine 
 In der Sicherheitsrichtlinie SOLLTEN nachvollziehbar Anforderungen und Vorgaben beschrieben sein, wie Router und Switches sicher betrieben werden können.
 Die Richtlinie SOLLTE allen Administrierenden bekannt und grundlegend für ihre Arbeit sein.
 Wird die Richtlinie verändert oder wird von den festgelegten Anforderungen abgewichen, SOLLTE das mit dem oder der ISB abgestimmt und dokumentiert werden.
-Es SOLLTE regelmäßig überprüft werden, ob die Richtlinie noch korrekt umgesetzt ist. Die Ergebnisse SOLLTEN geeignet dokumentiert werden.
+Es SOLLTE regelmäßig überprüft werden, ob die Richtlinie noch korrekt umgesetzt ist.
+Die Ergebnisse SOLLTEN geeignet dokumentiert werden.
 
 NET.3.1.A11 Beschaffung eines Routers oder Switches (S)
 Bevor Router oder Switches beschafft werden, SOLLTE basierend auf der Sicherheitsrichtlinie eine Anforderungsliste erstellt werden, anhand derer die am Markt erhältlichen Produkte bewertet werden.
@@ -122,7 +123,8 @@ NET.3.1.A23 Revision und Penetrationstests (S)
 Router und Switches SOLLTEN regelmäßig auf bekannte Sicherheitsprobleme hin überprüft werden.
 Auch SOLLTEN regelmäßig Revisionen durchgeführt werden.
 Dabei SOLLTE unter anderem geprüft werden, ob der Ist-Zustand der festgelegten sicheren Grundkonfiguration entspricht.
-Die Ergebnisse SOLLTEN nachvollziehbar dokumentiert und mit dem Soll-Zustand abgeglichen werden. Abweichungen SOLLTE nachgegangen werden.
+Die Ergebnisse SOLLTEN nachvollziehbar dokumentiert und mit dem Soll-Zustand abgeglichen werden.
+Abweichungen SOLLTE nachgegangen werden.
 
 
 3.3. Anforderungen bei erhöhtem Schutzbedarf

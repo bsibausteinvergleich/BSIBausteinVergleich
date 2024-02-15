@@ -1,5 +1,6 @@
 3.1 Basis-Anforderungen
 
+
 NET.3.3.A1 Planung des VPN-Einsatzes (B)
 Die Einführung eines VPN MUSS sorgfältig geplant werden.
 Dabei MÜSSEN die Verantwortlichkeiten für den VPN-Betrieb festgelegt werden.
@@ -25,6 +26,7 @@ NET.3.3.A5 Sperrung nicht mehr benötigter VPN-Zugänge (B)
 Es MUSS regelmäßig geprüft werden, ob ausschließlich berechtigte IT-Systeme und Benutzer auf das VPN zugreifen können.
 Nicht mehr benötigte VPN-Zugänge MÜSSEN zeitnah deaktiviert werden.
 Der VPN-Zugriff MUSS auf die benötigten Benutzungszeiten beschränkt werden.
+
 
 3.2 Standard-Anforderungen
 

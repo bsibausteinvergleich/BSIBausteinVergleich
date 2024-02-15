@@ -17,7 +17,8 @@ Es MUSS regelmäßig überprüft werden, ob die Richtlinie noch korrekt umgesetz
 Die Ergebnisse MÜSSEN sinnvoll dokumentiert werden.
 
 NET.1.1.A2 Dokumentation des Netzes (B) [IT-Betrieb]
-Es MUSS eine vollständige Dokumentation des Netzes erstellt werden. Sie MUSS einen Netzplan beinhalten.
+Es MUSS eine vollständige Dokumentation des Netzes erstellt werden.
+Sie MUSS einen Netzplan beinhalten.
 Die Dokumentation MUSS nachhaltig gepflegt werden.
 Die initiale Ist-Aufnahme, einschließlich der Netzperformance, sowie alle durchgeführten Änderungen im Netz MÜSSEN in der Dokumentation enthalten sein.
 Die logische Struktur des Netzes MUSS dokumentiert werden, insbesondere, wie die Subnetze zugeordnet und wie das Netz zoniert und segmentiert wird.
@@ -89,7 +90,8 @@ Darüber hinaus MÜSSEN in der Planung mindestens die folgenden Punkte bedarfsge
 Die Netzplanung MUSS regelmäßig überprüft werden.
 
 NET.1.1.A14 Umsetzung der Netzplanung (B)
-Das geplante Netz MUSS fachgerecht umgesetzt werden. Dies MUSS während der Abnahme geprüft werden.
+Das geplante Netz MUSS fachgerecht umgesetzt werden.
+Dies MUSS während der Abnahme geprüft werden.
 
 NET.1.1.A15 Regelmäßiger Soll-Ist-Vergleich (B)
 Es MUSS regelmäßig geprüft werden, ob das bestehende Netz dem Soll-Zustand entspricht.

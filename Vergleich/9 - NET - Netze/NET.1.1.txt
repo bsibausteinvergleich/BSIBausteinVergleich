@@ -1,23 +1,24 @@
-3.1. Basis-Anforderungen
+3.1 Basis-Anforderungen
 
 
-NET.1.1.A1 Sicherheitsrichtlinie für das Netz (B) [IT-Betrieb]
+NET.1.1.A1 Sicherheitsrichtlinie für das Netz [IT-Betrieb] (B)
 Ausgehend von der allgemeinen Sicherheitsrichtlinie der Institution MUSS eine spezifische Sicherheitsrichtlinie für das Netz erstellt werden.
 Darin MÜSSEN nachvollziehbar Anforderungen und Vorgaben beschrieben werden, wie Netze sicher konzipiert und aufgebaut werden.
 In der Richtlinie MUSS unter anderem festgelegt werden,
-• in welchen Fällen die Zonen zu segmentieren sind und in welchen Fällen Benutzendengruppen bzw. Mandanten und Mandantinnen logisch oder sogar physisch zu trennen sind,
+• in welchen Fällen die Zonen zu segmentieren sind und in welchen Fällen Benutzergruppen bzw. Mandanten logisch oder sogar physisch zu trennen sind,
 • welche Kommunikationsbeziehungen und welche Netz- und Anwendungsprotokolle jeweils zugelassen werden,
 • wie der Datenverkehr für Administration und Überwachung netztechnisch zu trennen ist,
 • welche institutionsinterne, standortübergreifende Kommunikation (WAN, Funknetze) erlaubt und welche Verschlüsselung im WAN, LAN oder auf Funkstrecken erforderlich ist sowie
 • welche institutionsübergreifende Kommunikation zugelassen ist.
-Die Richtlinie MUSS allen im Bereich Netzdesign zuständigen Mitarbeitenden bekannt sein.
+Die Richtlinie MUSS allen im Bereich Netzdesign zuständigen Mitarbeitern bekannt sein.
 Sie MUSS zudem grundlegend für ihre Arbeit sein.
-Wird die Richtlinie verändert oder wird von den Anforderungen abgewichen, MUSS dies dokumentiert und mit dem oder der verantwortlichen ISB abgestimmt werden.
+Wird die Richtlinie verändert oder wird von den Anforderungen abgewichen, MUSS dies dokumentiert und mit dem verantwortlichen ISB abgestimmt werden.
 Es MUSS regelmäßig überprüft werden, ob die Richtlinie noch korrekt umgesetzt ist.
 Die Ergebnisse MÜSSEN sinnvoll dokumentiert werden.
 
-NET.1.1.A2 Dokumentation des Netzes (B) [IT-Betrieb]
-Es MUSS eine vollständige Dokumentation des Netzes erstellt werden. Sie MUSS einen Netzplan beinhalten.
+NET.1.1.A2 Dokumentation des Netzes [IT-Betrieb] (B)
+Es MUSS eine vollständige Dokumentation des Netzes erstellt werden.
+Sie MUSS einen Netzplan beinhalten.
 Die Dokumentation MUSS nachhaltig gepflegt werden.
 Die initiale Ist-Aufnahme, einschließlich der Netzperformance, sowie alle durchgeführten Änderungen im Netz MÜSSEN in der Dokumentation enthalten sein.
 Die logische Struktur des Netzes MUSS dokumentiert werden, insbesondere, wie die Subnetze zugeordnet und wie das Netz zoniert und segmentiert wird.
@@ -30,7 +31,7 @@ Aus den Anforderungen MÜSSEN sich alle wesentlichen Elemente für Netzarchitekt
 NET.1.1.A4 Netztrennung in Zonen (B)
 Das Gesamtnetz MUSS mindestens in folgende drei Zonen physisch separiert sein: internes Netz, demilitarisierte Zone (DMZ) und Außenanbindungen (inklusive Internetanbindung sowie Anbindung an andere nicht vertrauenswürdige Netze).
 Die Zonenübergänge MÜSSEN durch eine Firewall abgesichert werden.
-Diese Kontrolle MUSS dem Prinzip der lokalen Kommunikation folgen, sodass von Firewalls ausschließlich erlaubte Kommunikation weitergeleitet wird (Allowlist).
+Diese Kontrolle MUSS dem Prinzip der lokalen Kommunikation folgen, sodass von Firewalls ausschließlich erlaubte Kommunikation weitergeleitet wird (Whitelisting).
 Nicht vertrauenswürdige Netze (z. B. Internet) und vertrauenswürdige Netze (z. B. Intranet) MÜSSEN mindestens durch eine zweistufige Firewall-Struktur, bestehend aus zustandsbehafteten Paketfiltern (Firewall), getrennt werden.
 Um Internet und externe DMZ netztechnisch zu trennen, MUSS mindestens ein zustandsbehafteter Paketfilter eingesetzt werden.
 In der zweistufigen Firewall-Architektur MUSS jeder ein- und ausgehende Datenverkehr durch den äußeren Paketfilter bzw. den internen Paketfilter kontrolliert und gefiltert werden.
@@ -65,7 +66,7 @@ Eine externe DMZ MUSS am äußeren Paketfilter angeschlossen werden.
 
 NET.1.1.A11 Absicherung eingehender Kommunikation vom Internet in das interne Netz (B)
 Ein IP-basierter Zugriff auf das interne Netz MUSS über einen sicheren Kommunikationskanal erfolgen.
-Der Zugriff MUSS auf vertrauenswürdige IT-Systeme und Benutzende beschränkt werden (siehe NET.3.3 VPN).
+Der Zugriff MUSS auf vertrauenswürdige IT-Systeme und Benutzer beschränkt werden (siehe NET.3.3 VPN).
 Derartige VPN-Gateways SOLLTEN in einer externen DMZ platziert werden.
 Es SOLLTE beachtet werden, dass hinreichend gehärtete VPN-Gateways direkt aus dem Internet erreichbar sein können.
 Die über das VPN-Gateway authentisierten Zugriffe ins interne Netz MÜSSEN mindestens die interne Firewall durchlaufen.
@@ -89,7 +90,8 @@ Darüber hinaus MÜSSEN in der Planung mindestens die folgenden Punkte bedarfsge
 Die Netzplanung MUSS regelmäßig überprüft werden.
 
 NET.1.1.A14 Umsetzung der Netzplanung (B)
-Das geplante Netz MUSS fachgerecht umgesetzt werden. Dies MUSS während der Abnahme geprüft werden.
+Das geplante Netz MUSS fachgerecht umgesetzt werden.
+Dies MUSS während der Abnahme geprüft werden.
 
 NET.1.1.A15 Regelmäßiger Soll-Ist-Vergleich (B)
 Es MUSS regelmäßig geprüft werden, ob das bestehende Netz dem Soll-Zustand entspricht.
@@ -98,7 +100,7 @@ Es MUSS auch geprüft werden, inwiefern die umgesetzte Netzstruktur dem aktuelle
 Dafür MÜSSEN zuständige Personen sowie Prüfkriterien bzw. Vorgaben festgelegt werden.
 
 
-3.2. Standard-Anforderungen
+3.2 Standard-Anforderungen
 
 NET.1.1.A16 Spezifikation der Netzarchitektur (S)
 Auf Basis der Sicherheitsrichtlinie und der Anforderungsspezifikation SOLLTE eine Architektur für die Zonen inklusive internem Netz, DMZ-Bereich und Außenanbindungen entwickelt und nachhaltig gepflegt werden.
@@ -135,7 +137,7 @@ Es MUSS geprüft werden, ob über die Sicherheits-Proxies gegenseitige Angriffe 
 Ist dies der Fall, MUSS das Transfernetz geeignet segmentiert werden.
 Jeglicher Datenverkehr MUSS über das ALG oder entsprechende Sicherheits-Proxies entkoppelt werden.
 Ein Transfernetz, das beide Firewall-Stufen direkt miteinander verbindet, DARF NICHT konfiguriert werden.
-Die interne Firewall MUSS zudem die Angriffsfläche des ALGs oder der Sicherheits-Proxies gegenüber Innentätern und Innentäterinnen oder IT-Systemen im internen Netz reduzieren.
+Die interne Firewall MUSS zudem die Angriffsfläche des ALGs oder der Sicherheits-Proxies gegenüber Innentätern oder IT-Systemen im internen Netz reduzieren.
 Authentisierte und vertrauenswürdige Netzzugriffe vom VPN-Gateway ins interne Netz SOLLTEN NICHT das ALG oder die Sicherheits-Proxies der P-A-P-Struktur durchlaufen.
 
 NET.1.1.A19 Separierung der Infrastrukturdienste (S)
@@ -183,7 +185,7 @@ Darüber hinaus SOLLTE festgelegt werden, welche Sicherheitsfunktionen die Koppe
 
 NET.1.1.A23 Trennung von Netzsegmenten (S)
 IT-Systeme mit unterschiedlichem Schutzbedarf SOLLTEN in verschiedenen Netzsegmenten platziert werden.
-Ist dies nicht möglich, SOLLTE sich der Schutzbedarf nach dem höchsten vorkommenden Schutzbedarf im Netzsegment richten.
+Ist dies nicht möglich, SOLLTE sich der Schutzbedarf nach dem höchsten vorkommenden Schutzbedarf im Netzsegmentrichten.
 Darüber hinaus SOLLTEN die Netzsegmente abhängig von ihrer Größe und den Anforderungen des Segmentierungskonzepts weiter unterteilt werden.
 Es MUSS sichergestellt werden, dass keine Überbrückung von Netzsegmenten oder gar Zonen möglich ist.
 Gehören die virtuellen LANs (VLANs) an einem Switch unterschiedlichen Institutionen an, SOLLTE die Trennung physisch erfolgen.
@@ -200,11 +202,11 @@ NET.1.1.A26 Spezifikation von Betriebsprozessen für das Netz (S)
 Betriebsprozesse SOLLTEN bedarfsgerecht erzeugt oder angepasst und dokumentiert werden.
 Dabei SOLLTE insbesondere berücksichtigt werden, wie sich die Zonierung sowie das Segmentierungskonzept auf den IT-Betrieb auswirken.
 
-NET.1.1.A27 Einbindung der Netzarchitektur in die Notfallplanung (S) [IT-Betrieb]
+NET.1.1.A27 Einbindung der Netzarchitektur in die Notfallplanung [IT-Betrieb] (S)
 Es SOLLTE initial und in regelmäßigen Abständen nachvollziehbar analysiert werden, wie sich die Netzarchitektur und die abgeleiteten Konzepte auf die Notfallplanung auswirken.
 
 
-3.3. Anforderungen bei erhöhtem Schutzbedarf
+3.3 Anforderungen bei erhöhtem Schutzbedarf
 
 NET.1.1.A28 Hochverfügbare Netz- und Sicherheitskomponenten (H)
 Zentrale Bereiche des internen Netzes sowie die Sicherheitskomponenten SOLLTEN hochverfügbar ausgelegt sein.
@@ -212,12 +214,12 @@ Dazu SOLLTEN die Komponenten redundant ausgelegt und auch intern hochverfügbar 
 
 NET.1.1.A29 Hochverfügbare Realisierung von Netzanbindungen (H)
 Die Netzanbindungen, wie z. B. Internet-Anbindung und WAN-Verbindungen, SOLLTEN vollständig redundant gestaltet werden.
-Je nach Verfügbarkeitsanforderung SOLLTEN redundante Anbindungen an Dienstleistende bedarfsabhängig mit unterschiedlicher Technik und Performance bedarfsgerecht umgesetzt werden.
+Je nach Verfügbarkeitsanforderung SOLLTEN redundante Anbindungen an einen oder verschiedene Anbieter bedarfsabhängig mit unterschiedlicher Technik und Performance bedarfsgerecht umgesetzt werden.
 Auch SOLLTE Wegeredundanz innerhalb und außerhalb der eigenen Zuständigkeit bedarfsgerecht umgesetzt werden.
 Dabei SOLLTEN mögliche Single Points of Failures (SPoF) und störende Umgebungsbedingungen berücksichtigt werden.
 
 NET.1.1.A30 Schutz vor Distributed-Denial-of-Service (H)
-Um DDoS-Angriffe abzuwehren, SOLLTE per Bandbreitenmanagement die verfügbare Bandbreite gezielt zwischen verschiedenen Kommunikationspartnern und -partnerinnen sowie Protokollen aufgeteilt werden.
+Um DDoS-Angriffe abzuwehren, SOLLTE per Bandbreitenmanagement die verfügbare Bandbreite gezielt zwischen verschiedenen Kommunikationspartnern und Protokollen aufgeteilt werden.
 Um DDoS-Angriffe mit sehr hohen Datenraten abwehren zu können, SOLLTEN Mitigation-Dienste über größere Internet Service Provider (ISPs) eingekauft werden.
 Deren Nutzung SOLLTE in Verträgen geregelt werden.
 

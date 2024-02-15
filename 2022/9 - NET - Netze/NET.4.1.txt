@@ -1,5 +1,6 @@
 3.1 Basis-Anforderungen
 
+
 NET.4.1.A1 Anforderungsanalyse und Planung für TK-Anlagen [IT-Betrieb] (B)
 Vor der Beschaffung oder Erweiterung einer TK-Anlage MUSS eine Anforderungsanalyse durchgeführt werden.
 Im Rahmen dieser Analyse MUSS festgelegt werden, welche Funktionen die TK-Anlage bieten soll.
@@ -52,7 +53,7 @@ Sämtliche Auffälligkeiten und Unregelmäßigkeiten der TK-Anlage SOLLTEN den e
 
 NET.4.1.A10 Dokumentation und Revision der TK-Anlagenkonfiguration [IT-Betrieb] (S)
 Die TK-Anlagenkonfiguration SOLLTE geeignet dokumentiert und fortgeschrieben werden.
-Die TK-Anlagenkonfi- guration SOLLTE in regelmäßigen Abständen überprüft werden.
+Die TK-Anlagenkonfiguration SOLLTE in regelmäßigen Abständen überprüft werden.
 Das Ergebnis der Prüfung SOLLTE zumindest dem Informationssicherheitsbeauftragten, dem Fachverantwortlichen und anderen verantwortlichen Mitarbeiter vorgelegt werden.
 
 NET.4.1.A11 Außerbetriebnahme von TK-Anlagen und -geräten [IT-Betrieb] (S)
