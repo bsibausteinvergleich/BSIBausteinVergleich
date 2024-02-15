@@ -1,5 +1,6 @@
 3.1 Basis-Anforderungen
 
+
 SYS.4.1.A1 Planung des Einsatzes von Druckern, Kopierern und Multifunktionsgeräten (B)
 Bevor Drucker, Kopierer und Multifunktionsgeräte beschafft werden, MUSS der sichere Einsatz geplant werden.
 Dabei SOLLTEN folgende Kriterien berücksichtigt werden:

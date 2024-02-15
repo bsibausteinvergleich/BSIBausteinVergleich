@@ -1,5 +1,6 @@
 3.1 Basis-Anforderungen
 
+
 SYS.2.3.A1 Authentisierung von Administratoren und Benutzern [Benutzer] (B)
 Administratoren DÜRFEN sich NICHT im Normalbetrieb als „root“ anmelden.
 Für die Systemadministrationsaufgaben SOLLTE „sudo“ oder eine geeignete Alternative mit einer geeigneten Protokollierung genutzt werden.

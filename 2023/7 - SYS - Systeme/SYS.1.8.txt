@@ -76,7 +76,8 @@ SYS.1.8.A12 ENTFALLEN (S)
 Diese Anforderung ist entfallen.
 
 SYS.1.8.A13 Überwachung und Verwaltung von Speicherlösungen (S)
-Speicherlösungen SOLLTEN überwacht werden. Dabei SOLLTEN alle erhobenen Daten (Nachrichten) vorrangig daraufhin geprüft werden, ob die Vorgaben des Betriebshandbuchs eingehalten werden.
+Speicherlösungen SOLLTEN überwacht werden.
+Dabei SOLLTEN alle erhobenen Daten (Nachrichten) vorrangig daraufhin geprüft werden, ob die Vorgaben des Betriebshandbuchs eingehalten werden.
 Die wesentlichen Nachrichten SOLLTEN mit Nachrichtenfilter herausgefiltert werden.
 Einzelne Komponenten der Speicherlösung und des Gesamtsystems SOLLTEN zentral verwaltet werden.
 

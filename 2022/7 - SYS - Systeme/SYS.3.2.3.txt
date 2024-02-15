@@ -1,5 +1,6 @@
 3.1 Basis-Anforderungen
 
+
 SYS.3.2.3.A1 Strategie für die iOS-Nutzung (B)
 Wird ein MDM eingesetzt, so MÜSSEN die iOS-basierten Geräte über das MDM verwaltet und konfiguriert werden.
 Hierzu MUSS eine Strategie zur iOS-Nutzung vorliegen, in der Aspekte wie die Auswahl der Endgeräte oder Strategien für Datensicherungen festgelegt werden.
@@ -68,7 +69,8 @@ Im Konfigurationsprofil SOLLTE die Anzahl der eindeutigen Codes bis zur ersten W
 
 SYS.3.2.3.A18 Verwendung der Konfigurationsoption für den Browser Safari (S)
 Die bereits in der Institution etablierten Browserrichtlinien SOLLTEN entsprechend auch für Safari durch technische und organisatorische Maßnahmen umgesetzt werden.
-Dabei SOLLTEN die bereits etablierten Anforderungen für Browser auf stationären und tragbaren PCs als Grundlage für die Absicherung der iOS-basierten Geräte dienen sowie die Einsatzszenarien. Das Einsatzumfeld der Geräte SOLLTE beachtet werden.
+Dabei SOLLTEN die bereits etablierten Anforderungen für Browser auf stationären und tragbaren PCs als Grundlage für die Absicherung der iOS-basierten Geräte dienen sowie die Einsatzszenarien.
+Das Einsatzumfeld der Geräte SOLLTE beachtet werden.
 
 SYS.3.2.3.A19 ENTFALLEN (S)
 Diese Anforderung ist entfallen.

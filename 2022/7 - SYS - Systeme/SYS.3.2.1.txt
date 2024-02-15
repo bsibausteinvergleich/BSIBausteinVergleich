@@ -1,5 +1,6 @@
 3.1 Basis-Anforderungen
 
+
 SYS.3.2.1.A1 Festlegung einer Richtlinie für den Einsatz von Smartphones und Tablets (B)
 Bevor eine Institution Smartphones oder Tablets bereitstellt, betreibt oder einsetzt, MUSS eine generelle Richtlinie für die Nutzung und Kontrolle der Geräte festgelegt werden.
 Hierbei MUSS unter anderem festgelegt werden, wer mit Smartphones auf welche Informationen der Institution zugreifen darf.
@@ -56,7 +57,8 @@ Es MUSS unterbunden werden, dass sich Apps aus nicht zugelassenen Quellen instal
 3.2 Standard-Anforderungen
 
 SYS.3.2.1.A9 Restriktive Nutzung von funktionalen Erweiterungen (S)
-Funktionale Erweiterungen SOLLTEN nur restriktiv genutzt werden. Wenn möglich, SOLLTE auf funktionale Erweiterungen verzichtet werden.
+Funktionale Erweiterungen SOLLTEN nur restriktiv genutzt werden.
+Wenn möglich, SOLLTE auf funktionale Erweiterungen verzichtet werden.
 Die funktionalen Erweiterungen SOLLTEN keinen automatischen Zugriff auf schützenswerte Informationen haben.
 Sie SOLLTEN die festgelegte Grundkonfiguration nicht umgehen oder ändern können.
 
@@ -74,7 +76,7 @@ SYS.3.2.1.A12 Verwendung nicht personalisierter Gerätenamen (S)
 Der Gerätename SOLLTE keine Hinweise auf die Institution oder den Benutzer enthalten.
 
 SYS.3.2.1.A13 Regelungen zum Screensharing und Casting (S)
-Es SOLLTE entschieden werden, ob und wie Funktionen zur Übertragung von Bildschirminhalten, Audio oder Video(Screensharing oder Casting) eingesetzt werden sollen.
+Es SOLLTE entschieden werden, ob und wie Funktionen zur Übertragung von Bildschirminhalten, Audio oder Video (Screensharing oder Casting) eingesetzt werden sollen.
 Die Funktionen SOLLTEN organisatorisch oder technisch geregelt werden.
 Hierzu SOLLTE eine entsprechende Vereinbarung mit den Benutzern getroffen werden.
 
@@ -130,7 +132,8 @@ Die Sicherheits-Apps SOLLTEN automatisch, zum Beispiel durch ein MDM, installier
 
 SYS.3.2.1.A34 Konfiguration des verwendeten DNS-Servers (S)
 Standard-Gateway-Einträge, wie beispielsweise DNS-Server des Herstellers oder des Entwicklers, SOLLTEN durch die des Providers oder durch eigene ersetzt werden.
-Sollte der Provider sogenanntes DNS-over-HTTPS (DoH) anbieten, SOLLTE dieses verwendet werden. Bietet er es noch nicht an, SOLLTE es deaktiviert werden.
+Sollte der Provider sogenanntes DNS-over-HTTPS (DoH) anbieten, SOLLTE dieses verwendet werden.
+Bietet er es noch nicht an, SOLLTE es deaktiviert werden.
 
 
 3.3 Anforderungen bei erhöhtem Schutzbedarf

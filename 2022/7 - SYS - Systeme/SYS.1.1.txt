@@ -1,5 +1,6 @@
 3.1. Basis-Anforderungen
 
+
 SYS.1.1.A1 Geeignete Aufstellung (B)
 Server MÜSSEN an Orten betrieben werden, zu denen nur berechtigte Personen Zutritt haben.
 Server MÜSSEN daher in Rechenzentren, Rechnerräumen oder abschließbaren Serverschränken aufgestellt beziehungsweise eingebaut werden (siehe hierzu die entsprechenden Bausteine der Schicht INF Infrastruktur).

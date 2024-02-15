@@ -1,5 +1,6 @@
 3.1. Basis-Anforderungen
 
+
 SYS.2.2.3.A1 Planung des Einsatzes von Cloud-Diensten unter Windows 10 (B)
 Da Windows 10-basierte Geräte eng mit den Cloud-Diensten des Herstellers Microsoft verzahnt sind, MUSS vor ihrer Verwendung strategisch festgelegt werden, welche enthaltenen Cloud-Dienste in welchem Umfang genutzt werden sollen bzw. dürfen.
 

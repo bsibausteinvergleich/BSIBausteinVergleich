@@ -1,5 +1,6 @@
 3.1. Basis-Anforderungen
 
+
 SYS.1.5.A1 ENTFALLEN (B)
 Diese Anforderung ist entfallen.
 
@@ -37,6 +38,7 @@ Auch MUSS überwacht werden, ob die virtuellen Netze den jeweiligen virtuellen I
 
 SYS.1.5.A7 Zeitsynchronisation in virtuellen IT-Systemen (B)
 Die Systemzeit aller produktiv eingesetzten virtuellen IT-Systeme MUSS immer synchron sein.
+
 
 3.2. Standard-Anforderungen
 

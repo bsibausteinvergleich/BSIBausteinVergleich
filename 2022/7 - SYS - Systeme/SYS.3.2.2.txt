@@ -1,19 +1,18 @@
 3.1 Basis-Anforderungen
 
+
 SYS.3.2.2.A1 Festlegung einer Strategie für das Mobile Device Management (B)
 Es MUSS eine Strategie erarbeitet werden, die festlegt, wie Mitarbeiter mobile Endgeräte benutzen dürfen und wie die Geräte in die IT-Strukturen der Institution integriert sind.
 Grundlage MUSS dabei der Schutzbedarf der zu verarbeitenden Informationen sein.
 Die Strategie MUSS mindestens folgende Aspekte abdecken:
 • Darf das MDM als Cloud-Dienst betrieben werden?
 • Soll das MDM durch die Institution selbst betrieben werden?
-• Soll das MDM alle Apps bereitstellen oder darf der Beutzer selber Apps installieren?
-Welche Restriktionen gibt die Institution bei bereitgestellten oder selbst installierten Apps vor?
+• Soll das MDM alle Apps bereitstellen oder darf der Beutzer selber Apps installieren? Welche Restriktionen gibt die Institution bei bereitgestellten oder selbst installierten Apps vor?
 • Soll das MDM in eine weitere Infrastruktur eingebunden werden?
 • Welche Anforderungen bezüglich Supportleistungen und Reaktionszeiten sind an den Anbieter des MDM zu stellen?
 • Welche Compliance-Anforderungen müssen durchgesetzt werden?
 • Welche mobilen Geräte und welche Betriebssysteme muss das MDM unterstützen?
-• Muss die MDM-Lösung mandantenfähig sein?
-Gewährleistet sie die notwendige Mandantentrennung?
+• Muss die MDM-Lösung mandantenfähig sein? Gewährleistet sie die notwendige Mandantentrennung?
 • Müssen Cloud-Dienste eingebunden werden?
 • Müssen Dokumentenmanagementsysteme eingebunden werden?
 • Muss das MDM auch Peripheriegeräte einbinden und verwalten?

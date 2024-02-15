@@ -1,5 +1,6 @@
 3.1. Basis-Anforderungen
 
+
 SYS.2.1.A1 Sichere Benutzerauthentisierung (B)
 Um den Client zu nutzen, MÜSSEN sich die Benutzer gegenüber dem IT-System authentisieren.
 Benutzer MÜSSEN eine Bildschirmsperre verwenden, wenn sie den Client unbeaufsichtigt betreiben.
@@ -118,7 +119,8 @@ Diese Anforderung ist entfallen.
 
 SYS.2.1.A23 Bevorzugung von Client-Server-Diensten (S)
 Wenn möglich, SOLLTEN zum Informationsaustausch dedizierte Serverdienste genutzt und direkte Verbindungen zwischen Clients vermieden werden.
-Falls dies nicht möglich ist, SOLLTE festgelegt werden, welche Client-zu-Client-Dienste (oft auch als „Peer-to-Peer“ bezeichnet) genutzt und welche Informationen darüber ausgetauscht werden dürfen. Falls erforderlich, SOLLTEN die Benutzer für die Nutzung solcher Dienste geschult werden.
+Falls dies nicht möglich ist, SOLLTE festgelegt werden, welche Client-zu-Client-Dienste (oft auch als „Peer-to-Peer“ bezeichnet) genutzt und welche Informationen darüber ausgetauscht werden dürfen.
+Falls erforderlich, SOLLTEN die Benutzer für die Nutzung solcher Dienste geschult werden.
 Direkte Verbindungen zwischen Clients SOLLTEN sich nur auf das LAN beschränken.
 Auto-Discovery-Protokolle SOLLTEN auf das notwendige Maß beschränkt werden.
 
@@ -167,7 +169,7 @@ Der Zugriff auf das genutzte Schlüsselmaterial MUSS angemessen geschützt sein.
 Benutzer SOLLTEN darüber aufgeklärt werden, wie sie sich bei Verlust eines Authentisierungsmittels zu verhalten haben.
 
 SYS.2.1.A29 Systemüberwachung und Monitoring der Clients (H)
-Die Clients SOLLTEN in ein geeignetes Systemüberwachungs- bzw. Monitoringkonzept eingebunden werden, das den Systemzustand und die Funktionsfähigkeit der Clients laufend überwacht und Fehlerzustände sowie die Überbzw. Unterschreitung definierter Grenzwerte an das Betriebspersonal meldet.
+Die Clients SOLLTEN in ein geeignetes Systemüberwachungs- bzw. Monitoringkonzept eingebunden werden, das den Systemzustand und die Funktionsfähigkeit der Clients laufend überwacht und Fehlerzustände sowie die Über- bzw. Unterschreitung definierter Grenzwerte an das Betriebspersonal meldet.
 
 SYS.2.1.A30 Einrichten einer Referenzumgebung für Clients (H)
 Für Clients SOLLTE eine Referenzinstallation erstellt werden, in der die Grundkonfiguration und alle Konfigurationsänderungen, Updates und Patches vor dem Einspielen auf den Client vorab getestet werden können.

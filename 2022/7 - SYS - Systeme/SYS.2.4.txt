@@ -1,5 +1,6 @@
 3.1 Basis-Anforderungen
 
+
 SYS.2.4.A1 Planung des sicheren Einsatzes von macOS (B)
 Die Einführung von macOS MUSS sorgfältig geplant werden.
 Es MUSS entschieden werden, wo und wie Daten abgelegt werden.

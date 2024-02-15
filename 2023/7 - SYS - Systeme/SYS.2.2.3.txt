@@ -71,7 +71,8 @@ Die Speicherung von Kennwörtern, Zertifikaten und anderen Informationen zur aut
 
 SYS.2.2.3.A18 Einsatz der Windows-Remoteunterstützung (S)
 Die Auswirkungen auf die Konfiguration der lokalen Firewall SOLLTEN bei der Planung der Windows-Remoteunterstützung (hiermit ist nicht RDP gemeint) berücksichtigt werden.
-Eine Remoteunterstützung SOLLTE nur nach einer expliziten Einladung erfolgen. Bei der Speicherung einer Einladung in einer Datei SOLLTE diese ein Kennwort besitzen.
+Eine Remoteunterstützung SOLLTE nur nach einer expliziten Einladung erfolgen.
+Bei der Speicherung einer Einladung in einer Datei SOLLTE diese ein Kennwort besitzen.
 Dem Aufbau einer Sitzung SOLLTE immer explizit zugestimmt werden.
 Die maximale Gültigkeit der Einladung für eine Unterstützung aus der Ferne SOLLTE in der Dauer angemessen sein.
 Sofern die Windows-Remoteunterstützung nicht verwendet wird, SOLLTE sie vollständig deaktiviert werden.

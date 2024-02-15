@@ -1,5 +1,6 @@
 3.1 Basis-Anforderungen
 
+
 SYS.1.8.A1 Geeignete Aufstellung von Speichersystemen [Haustechnik] (B)
 Die IT-Komponenten von Speicherlösungen MÜSSEN in verschlossenen Räumen aufgestellt werden.
 Zu diesen Räumen DÜRFEN NUR Berechtigte Zutritt haben.

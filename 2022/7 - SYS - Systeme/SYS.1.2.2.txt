@@ -1,5 +1,6 @@
 3.1 Basis-Anforderungen
 
+
 SYS.1.2.2.A1 Planung von Windows Server 2012 (B)
 Der Einsatz von Windows Server 2012 MUSS vor der Installation sorgfältig geplant werden.
 Die Anforderungen an die Hardware MÜSSEN vor der Beschaffung geprüft werden.

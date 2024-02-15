@@ -1,5 +1,6 @@
 3.1 Basis-Anforderungen
 
+
 SYS.4.3.A1 Regelungen zum Umgang mit eingebetteten Systemen (B)
 Um eingebettete Systeme reibungslos zu betreiben, MÜSSEN Zuständige ernannt werden.
 Alle Benutzer und Administratoren MÜSSEN über Verhaltensregeln und Meldewege bei Ausfällen, Fehlfunktionen oder bei Verdacht auf einen Sicherheitsvorfall informiert sein.

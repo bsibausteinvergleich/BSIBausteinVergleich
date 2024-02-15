@@ -1,5 +1,6 @@
 3.1. Basis-Anforderungen
 
+
 SYS.1.7.A1 Einsatz restriktiver z/OS-Kennungen (B)
 Berechtigungen mit hoher Autorisierung DÜRFEN NUR an Benutzer vergeben werden, die diese Rechte für ihre Tätigkeiten benötigen.
 Insbesondere die RACF-Attribute SPECIAL, OPERATIONS, AUDITOR und die entsprechenden GROUP-Attribute sowie die User-ID 0 unter den Unix System Services (USS) MÜSSEN restriktiv gehandhabt werden.

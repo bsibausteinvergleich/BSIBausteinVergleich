@@ -1,4 +1,4 @@
-3.1. Basis-Anforderungen
+3.1 Basis-Anforderungen
 
 
 SYS.1.2.2.A1 Planung von Windows Server 2012 (B)
@@ -16,11 +16,11 @@ Andernfalls MUSS begründet werden, warum die Server-Core-Variante nicht genügt
 Der Server MUSS bereits während der Installation auf einen aktuellen Patch-Stand gebracht werden.
 
 SYS.1.2.2.A3 Sichere Administration von Windows Server 2012 (B)
-Alle Administrierenden, die für das Server-System zuständig sind, MÜSSEN in den sicherheitsrelevanten Aspekten der Administration von Windows Server 2012 geschult sein.
+Alle Administratoren, die für das Server-System zuständig sind, MÜSSEN in den sicherheitsrelevanten Aspekten der Administration von Windows Server 2012 geschult sein.
 Webbrowser auf dem Server DÜRFEN NICHT zum Surfen im Web verwendet werden.
 
 
-3.2. Standard-Anforderungen
+3.2 Standard-Anforderungen
 
 SYS.1.2.2.A4 Sichere Konfiguration von Windows Server 2012 (S)
 Mehrere wesentliche Funktionen bzw. Rollen SOLLTEN NICHT durch einen einzigen Server erfüllt, sondern geeignet aufgeteilt werden.
@@ -31,12 +31,12 @@ Der Internet Explorer SOLLTE auf dem Server nur in der Enhanced Security Configu
 SYS.1.2.2.A5 Schutz vor Schadsoftware auf Windows Server 2012 (S)
 Außer bei IT-Systemen mit Windows Server 2012, die als Stand-alone-Gerät ohne Netzanschluss und Wechselmedien betrieben werden, SOLLTE vor dem ersten Verbinden mit dem Netz oder Wechselmedien ein Virenschutzprogramm installiert werden.
 Im Konzept zum Schutz vor Schadsoftware SOLLTE vorgesehen werden, dass regelmäßig alle Festplatten vollständig gescannt werden.
-Es SOLLTEN Alarme für Virenfunde konfiguriert sein.
+Es SOLLTEN Alarme für die zuständigen Administratoren bei Virenfunden konfiguriert sein.
 
 SYS.1.2.2.A6 Sichere Authentisierung und Autorisierung in Windows Server 2012 (S)
-In Windows Server 2012 R2 SOLLTEN alle Konten von Benutzenden Mitglied der Sicherheitsgruppe „Geschützte Nutzer“ sein.
+In Windows Server 2012 R2 SOLLTEN alle Benutzer Mitglieder der Sicherheitsgruppe „Geschützte Nutzer“ sein.
 Konten für Dienste und Computer SOLLTEN NICHT Mitglied von „Geschützte Nutzer“ sein.
-Dienste-Konten in Windows Server 2012 SOLLTEN Mitglied der Gruppe „Managed Service Account“ sein.
+Dienste-Konten in Windows Server 2012 SOLLTEN Mitglieder der Gruppe „Managed Service Account“ sein.
 Der PPL-Schutz des Local Credential Store LSA SOLLTE aktiviert werden.
 Der Einsatz dynamischer Zugriffsregeln auf Ressourcen SOLLTE bevorzugt werden.
 
@@ -50,7 +50,7 @@ SYS.1.2.2.A9 ENTFALLEN (S)
 Diese Anforderung ist entfallen.
 
 
-3.3. Anforderungen bei erhöhtem Schutzbedarf
+3.3 Anforderungen bei erhöhtem Schutzbedarf
 
 SYS.1.2.2.A10 ENTFALLEN (H)
 Diese Anforderung ist entfallen.
@@ -67,6 +67,6 @@ SYS.1.2.2.A13 ENTFALLEN (H)
 Diese Anforderung ist entfallen.
 
 SYS.1.2.2.A14 Herunterfahren verschlüsselter Server und virtueller Maschinen (H)
-Um verschlüsselte Daten zu schützen, SOLLTEN nicht benötigte Server (inklusive virtuelle Maschinen) immer heruntergefahren werden.
+Um verschlüsselten Daten zu schützen, SOLLTEN nicht benötigte Server (inkl. virtuelle Maschinen) immer heruntergefahren werden.
 Dies SOLLTE möglichst automatisiert erfolgen.
 Die Entschlüsselung der Daten SOLLTE einen interaktiven Schritt erfordern oder zumindest im Sicherheitsprotokoll festgehalten werden.

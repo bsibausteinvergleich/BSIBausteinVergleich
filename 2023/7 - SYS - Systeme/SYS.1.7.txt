@@ -11,7 +11,7 @@ Um zu vermeiden, dass Administrierende sich dauerhaft aussperren, MUSS ein Notfa
 
 SYS.1.7.A2 Absicherung sicherheitskritischer z/OS-Dienstprogramme (B)
 Sicherheitskritische (Dienst-)Programme und Kommandos sowie deren Alias-Namen MÜSSEN mit Rechten auf entsprechende RACF-Profile so geschützt werden, dass sie nur von den dafür vorgesehenen und autorisierten Personen benutzt werden können.
-Es MUSS sichergestellt sein, dass (Fremd-)Programme nicht unerlaubt installiert werden können.
+Es MUSS sichergestellt sein, dass (Fremd-) Programme nicht unerlaubt installiert werden können.
 Außerdem DÜRFEN Programme NUR von gesicherten Quellen und über nachvollziehbare Methoden (z. B. SMP/E) installiert werden.
 
 SYS.1.7.A3 Wartung von Z-Systemen (B)

@@ -1,5 +1,6 @@
 3.1 Basis-Anforderungen
 
+
 SYS.3.3.A1 Sicherheitsrichtlinien und Regelungen für die Mobiltelefon-Nutzung (B)
 Im Hinblick auf die Nutzung und Kontrolle der Geräte MUSS eine Sicherheitsrichtlinie erstellt werden.
 Jedem Benutzer eines Mobiltelefons MUSS ein Exemplar der Sicherheitsrichtlinie ausgehändigt werden.
@@ -79,7 +80,8 @@ Wenn eine Ortung über das Mobilfunknetz verhindert werden soll, SOLLTE das Mobi
 
 SYS.3.3.A14 Schutz vor Rufnummernermittlung bei der Mobiltelefon-Nutzung [Benutzer] (H)
 Um zu verhindern, dass die verwendeten Rufnummern bestimmten Personen zugeordnet werden können, SOLLTEN Rufnummern für ausgehende Anrufe unterdrückt werden.
-Außerdem SOLLTEN KEINE SMS- und MMS-Nachrichten versendet werden. Rufnummern von Mobiltelefonen SOLLTEN NICHT veröffentlicht oder an unbefugte Dritte weitergegeben werden.
+Außerdem SOLLTEN KEINE SMS- und MMS-Nachrichten versendet werden.
+Rufnummern von Mobiltelefonen SOLLTEN NICHT veröffentlicht oder an unbefugte Dritte weitergegeben werden.
 
 SYS.3.3.A15 Schutz vor Abhören der Raumgespräche über Mobiltelefone (H)
 Damit vertrauliche Informationen nicht abgehört werden können, SOLLTE dafür gesorgt werden, dass keine Mobiltelefone zu vertraulichen Besprechungen und Gesprächen in die entsprechenden Räume mitgenommen werden.
