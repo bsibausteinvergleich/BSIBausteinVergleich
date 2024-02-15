@@ -51,6 +51,7 @@ Langlebige kryptografische Schlüssel MÜSSEN offline, außerhalb der eingesetzt
 Ehemals *Verschlüsselung der Kommunikationsverbindungen*:
 
 *Es SOLLTE geprüft werden, ob mit vertretbarem Aufwand eine Verschlüsselung der Kommunikationsverbindungen möglich und praktikabel ist.*
+
 *Ist dies der Fall, SOLLTEN Kommunikationsverbindungen geeignet verschlüsselt werden.*
 
 
