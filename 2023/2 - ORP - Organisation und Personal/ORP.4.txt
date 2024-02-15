@@ -53,7 +53,8 @@ Für jedes IT-System bzw. jede Anwendung MUSS ein eigenständiges Passwort verwe
 Passwörter, die leicht zu erraten sind oder in gängigen Passwortlisten geführt werden, DÜRFEN NICHT verwendet werden.
 Passwörter MÜSSEN geheim gehalten werden.
 Sie DÜRFEN NUR den Benutzenden persönlich bekannt sein.
-Passwörter DÜRFEN NUR unbeobachtet eingegeben werden. Passwörter DÜRFEN NICHT auf programmierbaren Funktionstasten von Tastaturen oder Mäusen gespeichert werden.
+Passwörter DÜRFEN NUR unbeobachtet eingegeben werden.
+Passwörter DÜRFEN NICHT auf programmierbaren Funktionstasten von Tastaturen oder Mäusen gespeichert werden.
 Ein Passwort DARF NUR für eine Hinterlegung für einen Notfall schriftlich fixiert werden.
 Es MUSS dann sicher aufbewahrt werden.
 Die Nutzung eines Passwort-Managers SOLLTE geprüft werden.
@@ -96,7 +97,8 @@ Die Mitarbeitenden des IT-Betriebs, die Passwörter zurücksetzen können, SOLLT
 Bei höherem Schutzbedarf des Passwortes SOLLTE eine Strategie definiert werden, falls Mitarbeitende des IT-Betriebs aufgrund fehlender sicherer Möglichkeiten der Übermittlung des Passwortes die Verantwortung nicht übernehmen können.
 
 ORP.4.A12 Entwicklung eines Authentisierungskonzeptes für IT-Systeme und Anwendungen (S) [IT-Betrieb]
-Es SOLLTE ein Authentisierungskonzept erstellt werden. Darin SOLLTE für jedes IT-System und jede Anwendung definiert werden, welche Funktions- und Sicherheitsanforderungen an die Authentisierung gestellt werden.
+Es SOLLTE ein Authentisierungskonzept erstellt werden.
+Darin SOLLTE für jedes IT-System und jede Anwendung definiert werden, welche Funktions- und Sicherheitsanforderungen an die Authentisierung gestellt werden.
 Authentisierungsinformationen MÜSSEN kryptografisch sicher gespeichert werden.
 Authentisierungsinformationen DÜRFEN NICHT unverschlüsselt über unsichere Netze übertragen werden.
 
