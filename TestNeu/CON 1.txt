@@ -5,6 +5,8 @@ CON.1.A1 Auswahl geeigneter kryptografischer Verfahren [Fachverantwortliche] (B)
 Es MÜSSEN geeignete kryptografische Verfahren ausgewählt werden.
 Dabei MUSS sichergestellt sein, dass etablierte Algorithmen verwendet werden, die von der Fachwelt intensiv untersucht wurden und von denen keine Sicherheitslücken bekannt sind.
 Ebenso MÜSSEN aktuell empfohlene Schlüssellängen verwendet werden.
+Um eine geeignete Schlüssellänge auszuwählen, SOLLTE berücksichtigt werden, wie lange das kryptografische Verfahren eingesetzt werden soll.
+Bei einer längeren Einsatzdauer SOLLTEN entsprechend längere Schlüssellängen eingesetzt werden.
 
 CON.1.A2 Datensicherung bei Einsatz kryptografischer Verfahren [IT-Betrieb] (B)
 In Datensicherungen MÜSSEN kryptografische Schlüssel vom IT-Betrieb derart gespeichert bzw. aufbewahrt werden, dass Unbefugte nicht darauf zugreifen können.
