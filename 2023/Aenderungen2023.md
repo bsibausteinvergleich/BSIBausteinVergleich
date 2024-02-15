@@ -14,6 +14,8 @@ Aus Gründen der Lesbarkeit wird auf die Wiederholung der Umstellung auf geschle
 Im ISMS-Baustein befinden sich keine inhaltlichen Änderungen.
 
 
+---
+
 
 ## Änderungen CON
 
@@ -246,6 +248,10 @@ Im Kryptokonzept SOLLTE dokumentiert werden, für welche Hardware mit kryptograf
 
 
 #### CON.1.A20 vollständig neu hinzugefügt als Anforderung mit erhöhtem Schutzbedarf
+
+
+
+---
 
 
 
