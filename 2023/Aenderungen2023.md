@@ -224,28 +224,28 @@ Ehemals *Schulung von Benutzern und Administratoren*:
 
 ##### Geändert:
 
-Im Kryptokonzept SOLLTE festgelegt werden, wie der IT-Betrieb sicherstellt, dass nicht unautorisiert physisch auf Hardware mit kryptografischen Funktionen zugegriffen werden kann.
+*Im Kryptokonzept SOLLTE festgelegt werden, wie der IT-Betrieb sicherstellt, dass nicht unautorisiert physisch auf Hardware mit kryptografischen Funktionen zugegriffen werden kann.*
 
 
 ##### Entfallen:
 
-Hard- und Softwareprodukte, die als Kryptomodule eingesetzt werden, SOLLTEN einen Selbsttest durchführen können.
+*Hard- und Softwareprodukte, die als Kryptomodule eingesetzt werden, SOLLTEN einen Selbsttest durchführen können.*
 
 
 #### CON.1.A17
 
 ##### Entfallen:
 
-Getroffene Maßnahmen hinsichtlich der Abstrahlsicherheit SOLLTEN im Kryptokonzept dokumentiert werden.
+*Getroffene Maßnahmen hinsichtlich der Abstrahlsicherheit SOLLTEN im Kryptokonzept dokumentiert werden.*
 
 
 #### CON.1.A18
 
 ##### Geändert:
 
-Hardware mit kryptografischen Funktionen (z. B. Hardware-Token für Zwei-Faktor-Authentifizierung) SOLLTE vorrätig sein.
+*Hardware mit kryptografischen Funktionen (z. B. Hardware-Token für Zwei-Faktor-Authentifizierung) SOLLTE vorrätig sein.*
 
-Im Kryptokonzept SOLLTE dokumentiert werden, für welche Hardware mit kryptografischen Funktionen Ersatzhardware zur Verfügung steht und wie diese ausgetauscht werden kann.
+*Im Kryptokonzept SOLLTE dokumentiert werden, für welche Hardware mit kryptografischen Funktionen Ersatzhardware zur Verfügung steht und wie diese ausgetauscht werden kann.*
 
 
 #### CON.1.A20 vollständig neu hinzugefügt als Anforderung mit erhöhtem Schutzbedarf
@@ -254,39 +254,255 @@ Im Kryptokonzept SOLLTE dokumentiert werden, für welche Hardware mit kryptograf
 ---
 
 
-# SYS
+## SYS
 
-## SYS.1.2.3
+### SYS.1.1
+
+#### SYS.1.1.A1
+
+##### Geändert:
+
+*Physische Server MÜSSEN an Orten betrieben werden, zu denen nur berechtigte Personen Zutritt haben.*
+
+*Physische Server MÜSSEN daher in Rechenzentren, Serverräumen oder abschließbaren Serverschränken aufgestellt beziehungsweise eingebaut werden (siehe hierzu die entsprechenden Bausteine der Schicht INF Infrastruktur).*
+
+
+##### Neu:
+
+*Bei virtualisierten Servern MUSS der Zugriff auf die Ressourcen der Instanz und deren Konfiguration ebenfalls auf die berechtigten Personen begrenzt werden.*
+
+*Server DÜRFEN NICHT zur Erledigung von Aufgaben und Tätigkeiten verwendet werden, die grundsätzlich auf einem Client-System aus- und durchgeführt werden können.*
+
+*Insbesondere DÜRFEN vorhandene Anwendungen, wie Webbrowser, auf dem Server NICHT für das Abrufen von Informationen aus dem Internet oder das Herunterladen von Software, Treibern und Updates verwendet werden.*
+
+
+#### SYS.1.1.A6
+
+##### Geändert:
+
+*Alle nicht benötigten Serverrollen, Features und Funktionen, sonstige Software und Dienste MÜSSEN deaktiviert oder deinstalliert werden, vor allem Netzdienste.*
+
+
+##### Neu:
+
+*Die Empfehlungen des Betriebssystemherstellers SOLLTEN hierbei als Orientierung berücksichtigt werden.*
+
+
+#### SYS.1.1.A16
+
+Grundlegend geändert, Inhalt nahezu vollständig neu.
+
+
+#### SYS.1.1.A39
+
+Anforderung neu als Standard-Anforderung hinzugekommen.
+
+
+### SYS.1.2.3
 
 Der Baustein wurde neu hinzugefügt.
 
 
-## SYS.1.9
+### SYS.1.3
+
+Keine inhaltlichen Änderungen.
+
+
+### SYS.1.5
+
+Keine inhaltlichen Änderungen.
+
+
+### SYS.1.6
+
+#### SYS.1.6.A6
+
+##### Neu:
+
+*Die Quelle MUSS diesen Umgang mit Sicherheitsproblemen zusichern und einhalten.*
+
+
+### SYS.1.7
+
+Keine inhaltlichen Änderungen.
+
+
+### SYS.1.8
+
+Keine inhaltlichen Änderungen.
+
+
+### SYS.1.9
 
 Der Baustein wurde neu hinzugefügt.
 
 
-## SYS.2.5
+### SYS.2.1
+
+#### SYS.2.1.A11
+
+##### Neu (aus entfallener Anforderung SYS.2.1.A14 übernommen):
+
+*Auf Betriebssysteme, die über ein Rolling-Release-Modell aktualisiert werden, SOLLTE verzichtet werden.*
+
+
+#### SYS.2.1.A14 ist entfallen.
+
+Ehemals *Updates und Patches für Firmware, Betriebssystem und Anwendungen*.
+
+*Auf Betriebssysteme, die über ein Rolling-Release-Modell aktualisiert werden, SOLLTE verzichtet werden.*
+
+*Es SOLLTEN NUR Anwendungsprogramme ausgewählt und installiert werden, für die Support angeboten wird.*
+
+*Betriebssysteme, Anwendungsprogramme und Firmware, für die keine regelmäßigen Sicherheitsupdates angeboten werden, DÜRFEN NICHT eingesetzt werden.*
+
+
+### SYS.2.2.3
+
+Jetzt für alle Windows Client Betriebssysteme gültig, nicht mehr nur Windows 10.
+
+#### SYS.2.2.3.A4
+
+##### Geändert:
+
+*Um die Übertragung von Diagnose- und Nutzungsdaten an Microsoft stark zu reduzieren, MUSS das Telemetrie-Level 0 (Security) in der Enterprise-Edition von Windows konfiguriert werden.*
+
+*Wenn diese Einstellung nicht wirksam umgesetzt wird oder bei anderen Windows-Edition umgesetzt werden kann, dann MUSS durch geeignete Maßnahmen, etwa auf Netzebene, sichergestellt werden, dass die Daten nicht an den Hersteller übertragen werden.*
+
+
+#### SYS.2.2.3.A19
+
+##### Geändert:
+
+*Die eingesetzten kryptografischen Protokolle und Algorithmen SOLLTEN sicher sein und den internen Vorgaben der Institution entsprechen.*
+
+
+#### SYS.2.2.3.A26
+
+Die Anforderung wurde neu hinzugefügt.
+
+
+### SYS.2.3
+
+Keine inhaltlichen Änderungen.
+
+
+### SYS.2.4
+
+Keine inhaltlichen Änderungen.
+
+
+### SYS.2.5
 
 Der Baustein wurde neu hinzugefügt.
 
 
-## SYS.2.6
+### SYS.2.6
 
 Der Baustein wurde neu hinzugefügt.
+
+
+### SYS.3.1
+
+Keine inhaltlichen Änderungen.
+
+
+### SYS.3.2.1
+
+Keine inhaltlichen Änderungen.
+
+
+### SYS.3.2.2
+
+Keine inhaltlichen Änderungen.
+
+
+### SYS.3.2.3
+
+Keine inhaltlichen Änderungen.
+
+
+### SYS.3.2.4
+
+Keine inhaltlichen Änderungen.
+
+
+### SYS.3.3
+
+Keine inhaltlichen Änderungen.
+
+
+### SYS.4.1
+
+Keine inhaltlichen Änderungen.
+
+
+### SYS.4.3
+
+#### SYS.4.3.A1
+
+##### Entfallen:
+
+*Um eingebettete Systeme reibungslos zu betreiben, MÜSSEN Zuständige ernannt werden.*
+
+##### Neu:
+
+*Alle eingebetteten Systeme inklusive Schnittstellen MÜSSEN erfasst werden.*
+
+
+#### SYS.4.3.A11
+
+##### Neu:
+
+*Ist dies nicht möglich, SOLLTE das System vernichtet werden.*
+
+
+### SYS.4.4
+
+Keine inhaltlichen Änderungen.
+
+
+### SYS.4.5
+
+#### SYS.4.5.A2
+
+##### Neu:
+
+*Die Institution MUSS festlegen, wie Wechseldatenträger behandelt werden sollen, die nach einem Verlust wiedergefunden wurden.*
+
+*Wiedergefundene Wechseldatenträger DÜRFEN NICHT ohne vorherige Überprüfung auf Manipulation und Schadsoftware verwendet werden.*
+
+
+#### SYS.4.5.A4
+
+##### Entfallen:
+
+*ob und wie private Datenträger genutzt werden dürfen,*
+
+
+##### Neu:
+
+*ob Wechseldatenträger an fremde IT-Systeme angeschlossen werden dürfen und was dabei zu beachten ist,*
+
+*Die Institution SOLLTE die Verwendung von privaten Wechseldatenträgern untersagen.*
+
+
+#### SYS.4.5.A17 Neue Standard-Anforderung
+
+*Falls Wechseldatenträger verwendet werden, um Daten für lange Zeiträume zu speichern, SOLLTE die Institution sicherstellen, dass die verwendeten Wechseldatenträger geeignet sind, um die Integrität und Verfügbarkeit der Daten während des gesamten Nutzungszeitraums sicherzustellen.*
+
+*Die Integrität der Daten SOLLTE regelmäßig überprüft werden.*
 
 
 ---
 
 
-# NET
-
+## NET
 
 Bei allen NET-Bausteinen finden sich keinerlei inhaltliche Änderungen.
 
 
-## NET.3.4 Network Access Control (NAC)
-
+### NET.3.4 Network Access Control (NAC)
 
 Der Baustein wurde neu hinzugefügt.
 

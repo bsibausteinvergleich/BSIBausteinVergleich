@@ -84,7 +84,8 @@ Es SOLLTE definiert und dokumentiert sein, wie das System im Fall einer Übersch
 
 SYS.1.6.A16 Administrativer Fernzugriff auf Container (S)
 Administrative Zugriffe von einem Container auf den Container-Host und umgekehrt SOLLTEN prinzipiell wie administrative Fernzugriffe betrachtet werden.
-Aus einem Container SOLLTEN KEINE administrativen Fernzugriffe auf den Container-Host erfolgen. Applikations-Container SOLLTEN keine Fernwartungszugänge enthalten.
+Aus einem Container SOLLTEN KEINE administrativen Fernzugriffe auf den Container-Host erfolgen.
+Applikations-Container SOLLTEN keine Fernwartungszugänge enthalten.
 Administrative Zugriffe auf Applikations-Container SOLLTEN immer über die Container-Runtime erfolgen.
 
 SYS.1.6.A17 Ausführung von Containern ohne Privilegien (S)

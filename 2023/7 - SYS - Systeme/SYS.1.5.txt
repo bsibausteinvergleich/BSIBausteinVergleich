@@ -83,7 +83,8 @@ Dabei SOLLTE darauf geachtet werden, dass das herstellende Unternehmen der Virtu
 SYS.1.5.A14 Einheitliche Konfigurationsstandards für virtuelle IT-Systeme (S)
 Für die eingesetzten virtuellen IT-Systeme SOLLTEN einheitliche Konfigurationsstandards definiert werden.
 Die virtuellen IT-Systeme SOLLTEN nach diesen Standards konfiguriert werden.
-Die Konfigurationsstandards SOLLTEN regelmäßig überprüft werden. Sie SOLLTEN, falls erforderlich, angepasst werden.
+Die Konfigurationsstandards SOLLTEN regelmäßig überprüft werden.
+Sie SOLLTEN, falls erforderlich, angepasst werden.
 
 SYS.1.5.A15 Betrieb von Gast-Betriebssystemen mit unterschiedlichem Schutzbedarf (S)
 Falls virtuelle IT-Systeme mit unterschiedlichem Schutzbedarf gemeinsam auf einem Virtualisierungsserver betrieben werden, SOLLTE dabei sichergestellt sein, dass die virtuellen IT-Systeme ausreichend gekapselt und voneinander isoliert sind.
@@ -106,7 +107,8 @@ Diese Anforderung ist entfallen.
 SYS.1.5.A19 Regelmäßige Audits der Virtualisierungsinfrastruktur (S)
 Es SOLLTE regelmäßig auditiert werden, ob der Ist-Zustand der virtuellen Infrastruktur dem in der Planung festgelegten Zustand entspricht.
 Auch SOLLTE regelmäßig auditiert werden, ob die Konfiguration der virtuellen Komponenten die vorgegebene Standardkonfiguration einhält.
-Die Auditergebnisse SOLLTEN nachvollziehbar dokumentiert werden. Abweichungen SOLLTEN behoben werden.
+Die Auditergebnisse SOLLTEN nachvollziehbar dokumentiert werden.
+Abweichungen SOLLTEN behoben werden.
 
 
 3.3. Anforderungen bei erhöhtem Schutzbedarf

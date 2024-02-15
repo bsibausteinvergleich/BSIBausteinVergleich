@@ -126,7 +126,8 @@ SYS.1.6.A22 Vorsorge für Untersuchungen (H)
 Um Container im Bedarfsfall für eine spätere Untersuchung verfügbar zu haben, SOLLTE ein Abbild des Zustands nach festgelegten Regeln erstellt werden.
 
 SYS.1.6.A23 Unveränderlichkeit der Container (H)
-Container SOLLTEN ihr Dateisystem während der Laufzeit nicht verändern können. Dateisysteme SOLLTEN nicht mit Schreibrechten eingebunden sein.
+Container SOLLTEN ihr Dateisystem während der Laufzeit nicht verändern können.
+Dateisysteme SOLLTEN nicht mit Schreibrechten eingebunden sein.
 
 SYS.1.6.A24 Hostbasierte Angriffserkennung (H)
 Das Verhalten der Container und der darin betriebenen Anwendungen und Dienste SOLLTE überwacht werden.
