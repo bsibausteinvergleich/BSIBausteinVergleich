@@ -1,4 +1,4 @@
-3.1 Basis-Anforderungen
+3.1. Basis-Anforderungen
 
 
 SYS.4.1.A1 Planung des Einsatzes von Druckern, Kopierern und Multifunktionsgeräten (B)
@@ -6,7 +6,7 @@ Bevor Drucker, Kopierer und Multifunktionsgeräte beschafft werden, MUSS der sic
 Dabei SOLLTEN folgende Kriterien berücksichtigt werden:
 • Unterstützung sicherer Protokolle zur Datenübertragung und Administration,
 • Verschlüsselung der abgespeicherten Informationen,
-• Authentisierung der Benutzer direkt am Gerät,
+• Authentisierung der Benutzenden direkt am Gerät,
 • Nutzung physischer Schutzmechanismen, wie Ösen zum Diebstahlschutz oder Geräteschlösser,
 • Existenz eines zuverlässigen und leistungsfähigen automatischen Seiteneinzugs der Scaneinheit,
 • Unterstützung geeigneter Datenformate,
@@ -18,11 +18,11 @@ Außerdem MUSS festgelegt sein, wer auf die Drucker, Kopierer und Multifunktions
 Die Ergebnisse SOLLTEN in einem Basiskonzept dokumentiert werden.
 
 SYS.4.1.A2 Geeignete Aufstellung und Zugriff auf Drucker, Kopierer und Multifunktionsgeräte (B)
-Der IT-Betrieb MUSS Drucker, Kopierer und Multifunktionsgeräte so aufstellen und absichern, dass nur befugte Benutzer die Geräte verwenden und auf verarbeitete Informationen zugreifen können.
+Der IT-Betrieb MUSS Drucker, Kopierer und Multifunktionsgeräte so aufstellen und absichern, dass nur befugte Personen die Geräte verwenden und auf verarbeitete Informationen zugreifen können.
 Außerdem MUSS sichergestellt sein, dass nur berechtigte Personen die Geräte administrieren, warten und reparieren können.
-Mit Dienstleistern (z. B. für die Wartung) MÜSSEN schriftliche Vertraulichkeitsvereinbarungen getroffen werden.
-Drucker, Kopierer und Multifunktionsgeräte MÜSSEN mit Gerätepassworten versehen sein, um so den Zugriff auf Webserver und Bedienfeld für die Administration zu sperren.
-Diese MÜSSEN die Vorgaben des Identitäts- und Berechtigungsmanagement der Institution erfüllen.
+Mit Dienstleistenden (z. B. für die Wartung) MÜSSEN schriftliche Vertraulichkeitsvereinbarungen getroffen werden.
+Drucker, Kopierer und Multifunktionsgeräte MÜSSEN mit Gerätepasswörtern versehen sein, um so den Zugriff auf Webserver und Bedienfeld für die Administration zu sperren.
+Diese MÜSSEN die Vorgaben des Identitäts- und Berechtigungsmanagements der Institution erfüllen.
 
 SYS.4.1.A3 ENTFALLEN (B)
 Diese Anforderung ist entfallen.
@@ -38,26 +38,26 @@ Nicht benötigte, aber ausgedruckte Dokumente mit vertraulichen Informationen M�
 Sind Heimarbeitsplätze mit Druckern, Kopierern oder Multifunktionsgeräten ausgestattet, SOLLTE gewährleistet werden, dass die ausgedruckten Informationen auch direkt vor Ort geeignet vernichtet werden können, wenn sie nicht mehr benötigt werden.
 
 
-3.2 Standard-Anforderungen
+3.2. Standard-Anforderungen
 
-SYS.4.1.A4 Erstellung einer Sicherheitsrichtlinie für den Einsatz von Druckern, Kopieren und Multifunktionsgeräten (S)
+SYS.4.1.A4 Erstellung einer Sicherheitsrichtlinie für den Einsatz von Druckern, Kopierern und Multifunktionsgeräten (S)
 Die Institution SOLLTE eine Sicherheitsrichtlinie für Drucker, Kopierer und Multifunktionsgeräte entwickeln.
 Darin SOLLTE geregelt werden, welche Anforderungen und Vorgaben an die Informationssicherheit der Geräte gestellt und wie diese erfüllt werden sollen.
-Es SOLLTE auch festgelegt werden, welche Funktionen von welchen Benutzern unter welchen Bedingungen administriert beziehungsweise genutzt werden dürfen.
+Es SOLLTE auch festgelegt werden, welche Funktionen von welchen Benutzenden unter welchen Bedingungen administriert beziehungsweise genutzt werden dürfen.
 
-SYS.4.1.A5 Erstellung von Benutzerrichtlinien für den Umgang mit Druckern, Kopierern und Multifunktionsgeräten [Informationssicherheitsbeauftragter (ISB)] (S)
-Für die Benutzer SOLLTE der ISB eine Benutzerrichtlinie erstellen, auf dem alle Sicherheitsvorgaben zum Umgang mit den Geräten übersichtlich und verständlich zusammengefasst sind.
-Die Benutzerrichtlinie SOLLTE allen Benutzern bekannt sein.
+SYS.4.1.A5 Erstellung von Nutzungsrichtlinien für den Umgang mit Druckern, Kopierern und Multifunktionsgeräten (S) [Informationssicherheitsbeauftragte (ISB)]
+Für die Institution SOLLTE der oder die ISB eine Nutzungsrichtlinie erstellen, auf der alle Sicherheitsvorgaben zum Umgang mit den Geräten übersichtlich und verständlich zusammengefasst sind.
+Die Nutzungsrichtlinie SOLLTE allen Benutzenden bekannt sein.
 
 SYS.4.1.A6 ENTFALLEN (S)
 Diese Anforderung ist entfallen.
 
 SYS.4.1.A7 Beschränkung der administrativen Fernzugriffe auf Drucker, Kopierer und Multifunktionsgeräte (S)
-Der IT-Betrieb SOLLTE sicherstellen, dass der administrative Fernzugriff auf Drucker, Kopierer und Multifunktionsgeräte nur einer klar definierten Gruppe an Administratoren und Servicetechnikern ermöglicht wird.
+Der IT-Betrieb SOLLTE sicherstellen, dass der administrative Fernzugriff auf Drucker, Kopierer und Multifunktionsgeräte nur einer klar definierten Gruppe des Administrations- und Servicepersonals ermöglicht wird.
 Das SOLLTE auch dann gewährleistet sein, wenn die Institution eine zentrale Geräteverwaltungssoftware einsetzt.
 Es SOLLTE festgelegt werden, ob die Anzeige des Bedienfelds über ein Datennetz eingesehen werden darf.
-Wenn dies gewünscht ist, SOLLTE es nur an Mitarbeiter des IT-Betriebs übertragen werden können.
-Auch SOLLTE dies mit den betroffenen Benutzern abgestimmt sein.
+Wenn dies gewünscht ist, SOLLTE es nur an den IT-Betrieb übertragen werden können.
+Auch SOLLTE dies mit den betroffenen Benutzenden abgestimmt sein.
 
 SYS.4.1.A8 ENTFALLEN (S)
 Diese Anforderung ist entfallen.
@@ -97,31 +97,31 @@ SYS.4.1.A19 ENTFALLEN (S)
 Diese Anforderung ist entfallen.
 
 
-3.3 Anforderungen bei erhöhtem Schutzbedarf
+3.3. Anforderungen bei erhöhtem Schutzbedarf
 
 SYS.4.1.A14 Authentisierung und Autorisierung bei Druckern, Kopierern und Multifunktionsgeräten (H)
 Nur berechtigte Personen SOLLTEN auf die ausgedruckten oder kopierten Dokumente zugreifen können.
-Es SOLLTEN möglichst nur zentrale Drucker, Kopierer und Multifunktionsgeräte eingesetzt werden, bei denen sich die Benutzer am Gerät authentisieren, bevor der Druckauftrag startet („Secure-Print“).
-Nachdem sich die Benutzer authentisiert haben, SOLLTEN ausschließlich nur die eigenen Druckaufträge sichtbar sein.
-Nur die für die jeweiligen Benutzer notwendigen Funktionen SOLLTEN freigeschaltet werden.
+Es SOLLTEN möglichst nur zentrale Drucker, Kopierer und Multifunktionsgeräte eingesetzt werden, bei denen sich die Benutzenden am Gerät authentisieren, bevor der Druckauftrag startet („Secure-Print“).
+Nachdem sich die Benutzenden authentisiert haben, SOLLTEN ausschließlich nur die eigenen Druckaufträge sichtbar sein.
+Nur die für die jeweiligen Benutzenden notwendigen Funktionen SOLLTEN freigeschaltet werden.
 
 SYS.4.1.A16 Verringerung von Ausfallzeiten bei Druckern, Kopierern und Multifunktionsgeräten (H)
 Um die Ausfallzeiten von Druckern, Kopierern und Multifunktionsgeräten so gering wie möglich zu halten, SOLLTEN unter anderem
 • Ersatzgeräte bereitstehen,
 • in Wartungsverträgen auf eine angemessene Reaktionszeit geachtet werden,
-• eine Liste mit Fachhändlern geführt werden, um schnell Ersatzgeräte oder -teile beschaffen zu können und
+• eine Liste mit Fachhandlungen geführt werden, um schnell Ersatzgeräte oder -teile beschaffen zu können und
 • falls erforderlich, häufig benötigte Ersatzteile gelagert werden.
 
 SYS.4.1.A20 Erweiterter Schutz von Informationen bei Druckern, Kopierern und Multifunktionsgeräten (H)
 Es SOLLTEN auf dem Druckserver die Namen der Druckaufträge nur anonymisiert angezeigt werden.
 Alle Schnittstellen für externe Speichermedien SOLLTEN gesperrt werden.
-Weiterhin SOLLTEN geräteinterne Adressbücher deaktiviert und den Benutzern alternative Adressierungsverfahren (z. B. Adresssuche per LDAP) angeboten werden.
-Bei Druckern und Multifunktionsgeräten mit E-Mail-Funktion SOLLTE sichergestellt sein, dass E-Mails ausschließlich mit der E-Mail-Adresse eines authentisierten Benutzers versendet werden können.
+Weiterhin SOLLTEN geräteinterne Adressbücher deaktiviert und den Benutzenden alternative Adressierungsverfahren (z. B. Adresssuche per LDAP) angeboten werden.
+Bei Druckern und Multifunktionsgeräten mit E-Mail-Funktion SOLLTE sichergestellt sein, dass E-Mails ausschließlich mit den E-Mail-Adressen der authentisierten Benutzenden versendet werden können.
 Auch SOLLTEN Dokumente nur an interne E-Mail-Adressen verschickt werden können.
-Eingehende Fax-Dokumente sowie Sendeberichte SOLLTEN nur autorisierten Benutzern zugänglich sein.
+Eingehende Fax-Dokumente sowie Sendeberichte SOLLTEN nur autorisierten Personen zugänglich sein.
 
 SYS.4.1.A21 Erweiterte Absicherung von Druckern, Kopierern und Multifunktionsgeräten (H)
 Der IT-Betrieb SOLLTE die Sicherheitseinstellungen von Druckern, Kopierern und Multifunktionsgeräten regelmäßig kontrollieren und, falls notwendig, korrigieren.
 Wenn ein automatisiertes Kontroll- und Korrektursystem verfügbar ist, SOLLTE es genutzt werden.
 Zudem SOLLTE eingeschränkt werden, dass die Geräte über das Bootmenü auf die Werkseinstellungen zurückgestellt werden können.
-Es SOLLTE sichergestellt sein, dass keine Firmware oder Zusatzsoftware in Druckern und Multifunktionsgeräten installiert werden kann, die nicht vom jeweiligen Hersteller verifiziert und freigegeben wurde.
+Es SOLLTE sichergestellt sein, dass keine Firmware oder Zusatzsoftware auf Druckern und Multifunktionsgeräten installiert werden kann, die nicht von den jeweiligen Herstellenden verifiziert und freigegeben wurde.

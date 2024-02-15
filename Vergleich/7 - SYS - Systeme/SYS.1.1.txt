@@ -1,14 +1,17 @@
 3.1. Basis-Anforderungen
 
 
-SYS.1.1.A1 Geeignete Aufstellung (B)
-Server MÜSSEN an Orten betrieben werden, zu denen nur berechtigte Personen Zutritt haben.
-Server MÜSSEN daher in Rechenzentren, Rechnerräumen oder abschließbaren Serverschränken aufgestellt beziehungsweise eingebaut werden (siehe hierzu die entsprechenden Bausteine der Schicht INF Infrastruktur).
+SYS.1.1.A1 Zugriffsschutz und Nutzung (B)
+Physische Server MÜSSEN an Orten betrieben werden, zu denen nur berechtigte Personen Zutritt haben.
+Physische Server MÜSSEN daher in Rechenzentren, Serverräumen oder abschließbaren Serverschränken aufgestellt beziehungsweise eingebaut werden (siehe hierzu die entsprechenden Bausteine der Schicht INF Infrastruktur).
+Bei virtualisierten Servern MUSS der Zugriff auf die Ressourcen der Instanz und deren Konfiguration ebenfalls auf die berechtigten Personen begrenzt werden.
 Server DÜRFEN NICHT als Arbeitsplatzrechner genutzt werden.
+Server DÜRFEN NICHT zur Erledigung von Aufgaben und Tätigkeiten verwendet werden, die grundsätzlich auf einem Client-System aus- und durchgeführt werden können.
+Insbesondere DÜRFEN vorhandene Anwendungen, wie Webbrowser, auf dem Server NICHT für das Abrufen von Informationen aus dem Internet oder das Herunterladen von Software, Treibern und Updates verwendet werden.
 Als Arbeitsplatz genutzte IT-Systeme DÜRFEN NICHT als Server genutzt werden.
 
-SYS.1.1.A2 Benutzerauthentisierung an Servern (B)
-Für die Anmeldung von Benutzern und Diensten am Server MÜSSEN Authentisierungsverfahren eingesetzt werden, die dem Schutzbedarf der Server angemessen sind.
+SYS.1.1.A2 Authentisierung an Servern (B)
+Für die Anmeldung von Benutzenden und Diensten am Server MÜSSEN Authentisierungsverfahren eingesetzt werden, die dem Schutzbedarf der Server angemessen sind.
 Dies SOLLTE in besonderem Maße für administrative Zugänge berücksichtigt werden.
 Soweit möglich, SOLLTE dabei auf zentrale, netzbasierte Authentisierungsdienste zurückgegriffen werden.
 
@@ -23,9 +26,10 @@ Es MUSS gewährleistet werden, dass nur dafür vorgesehene Wechselspeicher und s
 Alle Schnittstellen, die nicht verwendet werden, MÜSSEN deaktiviert werden.
 
 SYS.1.1.A6 Deaktivierung nicht benötigter Dienste (B)
-Alle nicht benötigten Dienste und Anwendungen MÜSSEN deaktiviert oder deinstalliert werden, vor allem Netzdienste.
+Alle nicht benötigten Serverrollen, Features und Funktionen, sonstige Software und Dienste MÜSSEN deaktiviert oder deinstalliert werden, vor allem Netzdienste.
 Auch alle nicht benötigten Funktionen in der Firmware MÜSSEN deaktiviert werden.
-Auf Servern SOLLTE der Speicherplatz für die einzelnen Benutzer, aber auch für Anwendungen, geeignet beschränkt werden.
+Die Empfehlungen des Betriebssystemherstellers SOLLTEN hierbei als Orientierung berücksichtigt werden.
+Auf Servern SOLLTE der Speicherplatz für die einzelnen Benutzenden, aber auch für Anwendungen, geeignet beschränkt werden.
 Die getroffenen Entscheidungen SOLLTEN so dokumentiert werden, dass nachvollzogen werden kann, welche Konfiguration und Softwareausstattung für die Server gewählt wurden.
 
 SYS.1.1.A7 ENTFALLEN (B)
@@ -41,10 +45,10 @@ Soweit vorhanden, MÜSSEN konkrete Aussagen, ob ein Virenschutz notwendig ist, a
 SYS.1.1.A10 Protokollierung (B)
 Generell MÜSSEN alle sicherheitsrelevanten Systemereignisse protokolliert werden, dazu gehören mindestens:
 • Systemstarts und Reboots,
-• erfolgreiche und erfolglose Anmeldungen am System (Betriebssystem und Anwendungssoftware),
+• erfolgreiche und erfolglose Anmeldungen am IT-System (Betriebssystem und Anwendungssoftware),
 • fehlgeschlagene Berechtigungsprüfungen,
 • blockierte Datenströme (Verstöße gegen ACLs oder Firewallregeln),
-• Einrichtung oder Änderungen von Benutzern, Gruppen und Berechtigungen,
+• Einrichtung oder Änderungen von Benutzenden, Gruppen und Berechtigungen,
 • sicherheitsrelevante Fehlermeldungen (z. B. Hardwaredefekte, Überschreitung von Kapazitätsgrenzen) sowie
 • Warnmeldungen von Sicherheitssystemen (z. B. Virenschutz).
 
@@ -53,19 +57,19 @@ Generell MÜSSEN alle sicherheitsrelevanten Systemereignisse protokolliert werde
 
 SYS.1.1.A11 Festlegung einer Sicherheitsrichtlinie für Server (S)
 Ausgehend von der allgemeinen Sicherheitsrichtlinie der Institution SOLLTEN die Anforderungen an Server in einer separaten Sicherheitsrichtlinie konkretisiert werden.
-Diese Richtlinie SOLLTE allen Administratoren und anderen Personen, die an der Beschaffung und dem Betrieb der Server beteiligt sind, bekannt und Grundlage für deren Arbeit sein.
+Diese Richtlinie SOLLTE allen Administrierenden und anderen Personen, die an der Beschaffung und dem Betrieb der Server beteiligt sind, bekannt und Grundlage für deren Arbeit sein.
 Die Umsetzung der in der Richtlinie geforderten Inhalte SOLLTE regelmäßig überprüft werden.
 Die Ergebnisse SOLLTEN sinnvoll dokumentiert werden.
 
 SYS.1.1.A12 Planung des Server-Einsatzes (S)
 Jedes Server-System SOLLTE geeignet geplant werden.
 Dabei SOLLTEN mindestens folgende Punkte berücksichtigt werden:
-• Auswahl der Hardwareplattform, des Betriebssystems und der Anwendungssoftware,
+• Auswahl der Plattform (Hardware oder virtualisierte Ressourcen), des Betriebssystems und der Anwendungssoftware,
 • Dimensionierung der Hardware (Leistung, Speicher, Bandbreite etc.),
 • Art und Anzahl der Kommunikationsschnittstellen,
 • Leistungsaufnahme, Wärmelast, Platzbedarf und Bauform,
 • administrative Zugänge (siehe SYS.1.1.A5 Schutz von Schnittstellen),
-• Zugriffe von Benutzern,
+• Zugriffe von Benutzenden,
 • Protokollierung (siehe SYS.1.1.A10 Protokollierung),
 • Aktualisierung von Betriebssystem und Anwendungen sowie
 • Einbindung ins System- und Netzmanagement, in die Datensicherung und die Schutzsysteme (Virenschutz, IDS etc.).
@@ -77,12 +81,18 @@ Bevor ein oder mehrere Server beschafft werden, SOLLTE eine Anforderungsliste er
 SYS.1.1.A14 ENTFALLEN (S)
 Diese Anforderung ist entfallen.
 
-SYS.1.1.A15 Unterbrechungsfreie und stabile Stromversorgung [Haustechnik] (S)
+SYS.1.1.A15 Unterbrechungsfreie und stabile Stromversorgung (S) [Haustechnik]
 Jeder Server SOLLTE an eine unterbrechungsfreie Stromversorgung (USV) angeschlossen werden.
 
-SYS.1.1.A16 Sichere Grundkonfiguration von Servern (S)
-Die Grundeinstellungen von Servern SOLLTEN überprüft und falls erforderlich entsprechend den Vorgaben der Sicherheitsrichtlinie angepasst werden.
-Erst nachdem die Installation und die Konfiguration abgeschlossen sind, SOLLTE der Server mit dem Internet verbunden werden.
+SYS.1.1.A16 Sichere Installation und Grundkonfiguration von Servern (S)
+Der vollständige Installations- und Konfigurationsvorgang SOLLTE soweit wie möglich innerhalb einer gesonderten und von Produktivsystemen abgetrennten Installationsumgebung vorgenommen werden.
+Die Konfiguration des Betriebssystems SOLLTE vor produktiver Inbetriebnahme des Servers bereits vorgenommen sein.
+Mehrere wesentliche Funktionen und Rollen SOLLTEN NICHT durch einen einzigen Server erfüllt, sondern geeignet aufgeteilt werden.
+Alle sicherheitsrelevanten Einstellungen der aktivierten Dienste und Funktionen (vgl. SYS.1.1.A6 Deaktivierung nicht benötigter Dienste) SOLLTEN entsprechend den Vorgaben der Sicherheitsrichtlinie für Server (siehe SYS.1.1.A11 Festlegung einer Sicherheitsrichtlinie für Server) konfiguriert, getestet und regelmäßig inhaltlich überprüft werden.
+Dabei SOLLTE der Server unter Berücksichtigung der Empfehlungen des Betriebssystemherstellers und des voreingestellten Standardverhaltens konfiguriert werden, sofern dies nicht anderen Anforderungen aus dem IT-Grundschutz oder der Organisation widerspricht.
+Die Entscheidungen SOLLTEN dokumentiert und begründet werden.
+Konfigurationsoptionen SOLLTEN in jedem Fall gesetzt werden, auch dann, wenn das voreingestellte Standardverhalten dadurch nicht verändert wird.
+Sofern der Server eine Verbindung in das Internet benötigt oder aus dem Internet erreichbar sein muss, SOLLTE er erst mit dem Internet verbunden werden, nachdem die Installation und die Konfiguration abgeschlossen sind.
 
 SYS.1.1.A17 ENTFALLEN (S)
 Diese Anforderung ist entfallen.
@@ -91,7 +101,7 @@ SYS.1.1.A18 ENTFALLEN (S)
 Diese Anforderung ist entfallen.
 
 SYS.1.1.A19 Einrichtung lokaler Paketfilter (S)
-Vorhandene lokale Paketfilter SOLLTEN über ein Regelwerk so ausgestaltet werden, dass die eingehende und ausgehende Kommunikation auf die erforderlichen Kommunikationspartner, Kommunikationsprotokolle bzw. Ports und Schnittstellen beschränkt wird.
+Vorhandene lokale Paketfilter SOLLTEN über ein Regelwerk so ausgestaltet werden, dass die eingehende und ausgehende Kommunikation auf die erforderlichen Kommunikationspartner, Kommunikationsprotokolle sowie Ports und Schnittstellen beschränkt wird.
 Die Identität von Remote-Systemen und die Integrität der Verbindungen mit diesen SOLLTE kryptografisch abgesichert sein.
 
 SYS.1.1.A20 ENTFALLEN (S)
@@ -106,25 +116,25 @@ Die Dokumentation SOLLTE gegen unbefugten Zugriff und Verlust geschützt werden.
 
 SYS.1.1.A22 Einbindung in die Notfallplanung (S)
 Der Server SOLLTE im Notfallmanagementprozess berücksichtigt werden.
-Dazu SOLLTEN die Notfallanforderungen an das System ermittelt und geeignete Notfallmaßnahmen umgesetzt werden, z. B. indem Wiederanlaufpläne erstellt oder Passwörter und kryptografische Schlüssel sicher hinterlegt werden.
+Dazu SOLLTEN die Notfallanforderungen an den Server ermittelt und geeignete Notfallmaßnahmen umgesetzt werden, z. B. indem Wiederanlaufpläne erstellt oder Passwörter und kryptografische Schlüssel sicher hinterlegt werden.
 
 SYS.1.1.A23 Systemüberwachung und Monitoring von Servern (S)
-Das Server-System SOLLTE in ein geeignetes Systemüberwachungs- bzw. Monitoringkonzept eingebunden werden.
-Hierbei SOLLTEN der Systemzustand und die Funktionsfähigkeit des Systems und der darauf betriebenen Dienste laufend überwacht werden.
-Fehlerzustände sowie die Überschreitung definierter Grenzwerte SOLLTEN hierüber an das Betriebspersonal meldet werden.
+Das Server-System SOLLTE in ein geeignetes Systemüberwachungs- oder Monitoringkonzept eingebunden werden.
+Der Systemzustand sowie die Funktionsfähigkeit des Servers und der darauf betriebenen Dienste SOLLTEN laufend überwacht werden.
+Fehlerzustände sowie die Überschreitung definierter Grenzwerte SOLLTEN an das Betriebspersonal gemeldet werden.
 
 SYS.1.1.A24 Sicherheitsprüfungen für Server (S)
-Server SOLLTEN regelmäßigen Sicherheitstests unterzogen werden, die überprüfen, ob alle Sicherheitsvorgaben eingehalten werden und ggf. vorhandene Schwachstellen identifizieren.
+Server SOLLTEN regelmäßigen Sicherheitstests unterzogen werden, die überprüfen, ob alle Sicherheitsvorgaben eingehalten werden und gegebenenfalls vorhandene Schwachstellen identifizieren.
 Diese Sicherheitsprüfungen SOLLTEN insbesondere auf Servern mit externen Schnittstellen durchgeführt werden.
-Um mittelbare Angriffe über infizierte Systeme im eigenen Netz zu vermeiden, SOLLTEN jedoch auch interne Server in festgelegten Zyklen entsprechend überprüft werden.
+Um mittelbare Angriffe über infizierte IT-Systeme im eigenen Netz zu vermeiden, SOLLTEN jedoch auch interne Server in festgelegten Zyklen entsprechend überprüft werden.
 Es SOLLTE geprüft werden, ob die Sicherheitsprüfungen automatisiert, z. B. mittels geeigneter Skripte, realisiert werden können.
 
 SYS.1.1.A25 Geregelte Außerbetriebnahme eines Servers (S)
 Bei der Außerbetriebnahme eines Servers SOLLTE sichergestellt werden, dass keine wichtigen Daten, die eventuell auf den verbauten Datenträgern gespeichert sind, verloren gehen und dass keine schutzbedürftigen Daten zurückbleiben.
 Es SOLLTE einen Überblick darüber geben, welche Daten wo auf dem Server gespeichert sind.
-Es SOLLTE außerdem sichergestellt sein, dass vom Server angebotene Dienste durch einen anderen Server übernommen werden, wenn dies erforderlich ist.
+Es SOLLTE rechtzeitig sichergestellt werden, dass vom Server angebotene Dienste durch einen anderen Server übernommen werden, wenn dies erforderlich ist.
 Es SOLLTE eine Checkliste erstellt werden, die bei der Außerbetriebnahme eines Servers abgearbeitet werden kann.
-Diese Checkliste SOLLTE mindestens Aspekte zur Datensicherung, Migration von Diensten und dem anschließenden sicheren Löschen aller Daten umfassen.
+Diese Checkliste SOLLTE mindestens Aspekte zu Datensicherung, Migration von Diensten und dem anschließenden sicheren Löschen aller Daten umfassen.
 
 SYS.1.1.A35 Erstellung und Pflege eines Betriebshandbuchs (S)
 Es SOLLTE ein Betriebshandbuch erstellt werden.
@@ -135,8 +145,12 @@ Das Betriebshandbuch SOLLTE vor unberechtigtem Zugriff geschützt werden.
 Das Betriebshandbuch SOLLTE in Notfällen zur Verfügung stehen.
 
 SYS.1.1.A37 Kapselung von sicherheitskritischen Anwendungen und Betriebssystemkomponenten (S)
-Um sowohl den Zugriff eines Angreifers auf das Betriebssystem oder andere Anwendungen als auch den Zugriff vom Betriebssystem auf besonders schützenswerte Dateien zu verhindern, SOLLTEN Anwendungen und Betriebssystemkomponenten (wie beispielsweise Authentisierung oder Zertifikatsüberprüfung) ihrem Schutzbedarf entsprechend besonders gekapselt bzw. anderen Anwendungen und Betriebssystemkomponenten gegenüber isoliert werden.
-Dabei SOLLTEN insbesondere sicherheitskritische Anwendungen berücksichtigt werden, die mit Daten aus unsicheren Quellen arbeiten (z.B. Webbrowser und Bürokommunikations-Anwendungen).
+Um sowohl den unberechtigten Zugriff auf das Betriebssystem oder andere Anwendungen bei Angriffen als auch den Zugriff vom Betriebssystem auf besonders schützenswerte Dateien zu verhindern, SOLLTEN Anwendungen und Betriebssystemkomponenten (wie beispielsweise Authentisierung oder Zertifikatsüberprüfung) ihrem Schutzbedarf entsprechend besonders gekapselt oder anderen Anwendungen und Betriebssystemkomponenten gegenüber isoliert werden.
+Dabei SOLLTEN insbesondere sicherheitskritische Anwendungen berücksichtigt werden, die mit Daten aus unsicheren Quellen arbeiten (z. B. Webbrowser und Bürokommunikations-Anwendungen).
+
+SYS.1.1.A39 Zentrale Verwaltung der Sicherheitsrichtlinien von Servern (S)
+Alle Einstellungen des Servers SOLLTEN durch Nutzung eines zentralen Managementsystems (siehe auch OPS.1.1.7 Systemmanagement) verwaltet und entsprechend dem ermittelten Schutzbedarf sowie auf den internen Richtlinien basierend konfiguriert sein.
+Technisch nicht umsetzbare Konfigurationsparameter SOLLTEN dokumentiert, begründet und mit dem Sicherheitsmanagement abgestimmt werden.
 
 
 3.3. Anforderungen bei erhöhtem Schutzbedarf
@@ -145,9 +159,9 @@ SYS.1.1.A26 ENTFALLEN (H)
 Diese Anforderung ist entfallen.
 
 SYS.1.1.A27 Hostbasierte Angriffserkennung (H)
-Hostbasierte Angriffserkennungssysteme (Host-based Intrusion Detection Systems, IDS bzw. Intrusion Prevention Systems, IPS) SOLLTEN eingesetzt werden, um das Systemverhalten auf Anomalien und Missbrauch hin zu überwachen.
+Hostbasierte Angriffserkennungssysteme (Host-based Intrusion Detection Systems, IDS und Intrusion Prevention Systems, IPS) SOLLTEN eingesetzt werden, um das Systemverhalten auf Anomalien und Missbrauch hin zu überwachen.
 Die eingesetzten IDS/IPS-Mechanismen SOLLTEN geeignet ausgewählt, konfiguriert und ausführlich getestet werden.
-Im Falle einer Angriffserkennung SOLLTE das Betriebspersonal in geeigneter Weise alarmiert werden.
+Bei einer Angriffserkennung SOLLTE das Betriebspersonal in geeigneter Weise alarmiert werden.
 Über Betriebssystem-Mechanismen oder geeignete Zusatzprodukte SOLLTEN Veränderungen an Systemdateien und Konfigurationseinstellungen überprüft, eingeschränkt und gemeldet werden.
 
 SYS.1.1.A28 Steigerung der Verfügbarkeit durch Redundanz (H)
@@ -176,7 +190,7 @@ Es SOLLTE regelmäßig überprüft werden, ob die vorhandenen Wurzelzertifikate 
 Es SOLLTEN alle auf dem IT-System vorhandenen Zertifikatsspeicher in die Prüfung einbezogen werden.
 
 SYS.1.1.A34 Festplattenverschlüsselung (H)
-Bei erhöhtem Schutzbedarf sollten die Datenträger des Servers mit einem als sicher geltenden Produkt bzw. Verfahren verschlüsselt werden.
+Bei erhöhtem Schutzbedarf SOLLTEN die Datenträger des Servers mit einem als sicher geltenden Produkt oder Verfahren verschlüsselt werden.
 Dies SOLLTE auch für virtuelle Maschinen mit produktiven Daten gelten.
 Es SOLLTE nicht nur ein TPM allein als Schlüsselschutz dienen.
 Das Wiederherstellungspasswort SOLLTE an einem geeigneten sicheren Ort gespeichert werden.
@@ -187,4 +201,4 @@ Bootloader und Betriebssystem-Kern SOLLTEN durch selbstkontrolliertes Schlüssel
 Nicht benötigtes Schlüsselmaterial SOLLTE entfernt werden.
 
 SYS.1.1.A38 Härtung des Host-Systems mittels Read-Only-Dateisystem (H)
-Die Integrität des Host-Systems sollte durch ein Read-Only-Dateisystem sichergestellt werden (Immutable OS).
+Die Integrität des Host-Systems SOLLTE durch ein Read-Only-Dateisystem sichergestellt werden (Immutable OS).
