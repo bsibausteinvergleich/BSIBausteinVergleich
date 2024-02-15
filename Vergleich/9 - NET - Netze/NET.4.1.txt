@@ -1,6 +1,7 @@
-3.1 Basis-Anforderungen
+3.1. Basis-Anforderungen
 
-NET.4.1.A1 Anforderungsanalyse und Planung für TK-Anlagen [IT-Betrieb] (B)
+
+NET.4.1.A1 Anforderungsanalyse und Planung für TK-Anlagen (B) [IT-Betrieb]
 Vor der Beschaffung oder Erweiterung einer TK-Anlage MUSS eine Anforderungsanalyse durchgeführt werden.
 Im Rahmen dieser Analyse MUSS festgelegt werden, welche Funktionen die TK-Anlage bieten soll.
 Hierbei MÜSSEN neben der Ausprägung der TK-Anlage auch die Anzahl der benötigten Verbindungen und Anschlüsse festgelegt werden.
@@ -9,8 +10,8 @@ Darüber hinaus MÜSSEN je nach Bedarf Support- und Wartungsverträge für die T
 Basierend auf den ermittelten Anforderungen MUSS anschließend der Einsatz der TK-Anlage geplant und dokumentiert werden.
 Die zuvor ermittelten Anforderungen und die Planung MÜSSEN mit den entsprechenden IT-Zuständigen abgestimmt werden.
 
-NET.4.1.A2 Auswahl von TK-Diensteanbietern [IT-Betrieb] (B)
-Um mit Personen telefonieren zu können, deren Telefone nicht an die institutionseigene TK-Anlage angeschlossen sind, MUSS ein TK-Diensteanbieter beauftragt werden.
+NET.4.1.A2 Auswahl von TK-Diensteanbietenden (B) [IT-Betrieb]
+Um mit Personen telefonieren zu können, deren Telefone nicht an die institutionseigene TK-Anlage angeschlossen sind, MUSS ein TK-Diensteanbieter oder eine TK-Diensteanbieterin beauftragt werden.
 Dabei MÜSSEN die Anforderungen an die TK-Anlage, die Sicherheitsrichtlinie sowie vertragliche und finanzielle Aspekte berücksichtigt werden.
 Alle vereinbarten Leistungen MÜSSEN eindeutig schriftlich festgehalten werden.
 
@@ -27,11 +28,11 @@ Alle Administrationsarbeiten an der TK-Anlage MÜSSEN ebenfalls protokolliert we
 Die protokollierten Informationen SOLLTEN regelmäßig kontrolliert werden.
 
 
-3.2 Standard-Anforderungen
+3.2. Standard-Anforderungen
 
-NET.4.1.A6 Erstellung einer Sicherheitsrichtlinie für TK-Anlagen [IT-Betrieb] (S)
+NET.4.1.A6 Erstellung einer Sicherheitsrichtlinie für TK-Anlagen (S) [IT-Betrieb]
 Basierend auf der institutionsweiten Sicherheitsrichtlinie SOLLTE eine eigene Sicherheitsrichtlinie für die TK-Anlage erstellt werden.
-Diese Sicherheitsrichtlinie für die TK-Anlage SOLLTE grundlegende Aussagen zur Vertraulichkeit,Verfügbarkeit und Integrität beinhalten.
+Diese Sicherheitsrichtlinie für die TK-Anlage SOLLTE grundlegende Aussagen zur Vertraulichkeit, Verfügbarkeit und Integrität beinhalten.
 Sie SOLLTE allen Personen, die an der Beschaffung, dem Aufbau, der Umsetzung und dem Betrieb der TK-Anlage beteiligt sind, bekannt sein und die Grundlage für deren Arbeit darstellen.
 Die zentralen sicherheitstechnischen Anforderungen an die TK-Anlage sowie das zu erreichende Sicherheitsniveau SOLLTEN in der institutionsweite Sicherheitsrichtlinie aufgenommen werden.
 
@@ -45,17 +46,17 @@ Nur die benötigten Leistungsmerkmale SOLLTEN freigeschaltet werden.
 Die nicht benötigten oder wegen ihres Missbrauchspotenzials als kritisch eingestuften Leistungsmerkmale SOLLTEN so weit wie möglich an der zentralen Anlage abgeschaltet werden.
 Zusätzliche Schutzmaßnahmen SOLLTEN für die auf den Endgeräten gespeicherten und abrufbaren vertraulichen Daten ergriffen werden.
 
-NET.4.1.A9 Schulung zur sicheren Nutzung von TK-Anlagen [Vorgesetzte] (S)
-Die Benutzer der TK-Anlage SOLLTEN in die korrekte Verwendung von Diensten und Geräten eingewiesen werden.
-Den Benutzern der TK-Anlage SOLLTEN alle notwendigen Unterlagen zur Bedienung der entsprechenden Endgeräte zur Verfügung gestellt werden.
+NET.4.1.A9 Schulung zur sicheren Nutzung von TK-Anlagen (S) [Vorgesetzte]
+Die Benutzenden der TK-Anlage SOLLTEN in die korrekte Verwendung von Diensten und Geräten eingewiesen werden.
+Den Benutzenden der TK-Anlage SOLLTEN alle notwendigen Unterlagen zur Bedienung der entsprechenden Endgeräte zur Verfügung gestellt werden.
 Sämtliche Auffälligkeiten und Unregelmäßigkeiten der TK-Anlage SOLLTEN den entsprechenden Verantwortlichen gemeldet werden.
 
-NET.4.1.A10 Dokumentation und Revision der TK-Anlagenkonfiguration [IT-Betrieb] (S)
+NET.4.1.A10 Dokumentation und Revision der TK-Anlagenkonfiguration (S) [IT-Betrieb]
 Die TK-Anlagenkonfiguration SOLLTE geeignet dokumentiert und fortgeschrieben werden.
-Die TK-Anlagenkonfi- guration SOLLTE in regelmäßigen Abständen überprüft werden.
-Das Ergebnis der Prüfung SOLLTE zumindest dem Informationssicherheitsbeauftragten, dem Fachverantwortlichen und anderen verantwortlichen Mitarbeiter vorgelegt werden.
+Die TK-Anlagenkonfiguration SOLLTE in regelmäßigen Abständen überprüft werden.
+Das Ergebnis der Prüfung SOLLTE zumindest den Informationssicherheitsbeauftragten, den Fachverantwortlichen und anderen verantwortlichen Mitarbeitenden vorgelegt werden.
 
-NET.4.1.A11 Außerbetriebnahme von TK-Anlagen und -geräten [IT-Betrieb] (S)
+NET.4.1.A11 Außerbetriebnahme von TK-Anlagen und -geräten (S) [IT-Betrieb]
 Die Aussonderung von TK-Anlagen und angeschlossenen TK-Geräten SOLLTE in der Sicherheitsrichtlinie berücksichtigt werden.
 Alle Daten, die auf TK-Anlagen oder Endgeräten gespeichert sind, SOLLTEN vor der Aussonderung sicher gelöscht werden.
 
@@ -86,12 +87,12 @@ NET.4.1.A17 Wartung von TK-Anlagen (S)
 Die Geräte zur Wartung und Konfiguration der TK-Anlage SOLLTEN mit Passwörtern bzw. PINs abgesichert sein.
 
 
-3.3 Anforderungen bei erhöhtem Schutzbedarf
+3.3. Anforderungen bei erhöhtem Schutzbedarf
 
 NET.4.1.A18 Erhöhter Zugangsschutz (H)
 Die TK-Anlage SOLLTE in einem separaten sowie geeignet gesicherten Raum untergebracht sein.
 Der Zutritt und Zugang zur TK-Anlage SOLLTE nur einem eingeschränkten Personenkreis möglich sein.
-Externe SOLLTEN NUR beaufsichtigt Zugang zur Anlage erhalten.
+Externe SOLLTEN nur beaufsichtigt Zugang zur Anlage erhalten.
 
 NET.4.1.A19 Redundanter Anschluss (H)
 Der Anschluss der TK-Anlage SOLLTE redundant ausgelegt sein.
