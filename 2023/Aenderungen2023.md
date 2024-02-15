@@ -15,6 +15,16 @@ Im ISMS-Baustein befinden sich keine inhaltlichen Änderungen, lediglich die Uni
 
 
 
+## Änderungen CON
+
+### Änderungen CON.1
+
+CON.1.A1 hinzugefügt:
+
+Um eine geeignete Schlüssellänge auszuwählen, SOLLTE berücksichtigt werden, wie lange das kryptografische Verfahren eingesetzt werden soll.
+Bei einer längeren Einsatzdauer SOLLTEN entsprechend längere Schlüssellängen eingesetzt werden.
+
+
 
 
 
