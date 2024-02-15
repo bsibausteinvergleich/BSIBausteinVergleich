@@ -257,7 +257,14 @@ Im Kryptokonzept SOLLTE dokumentiert werden, für welche Hardware mit kryptograf
 
 # NET
 
+
 Bei allen NET-Bausteinen finden sich keinerlei inhaltliche Änderungen.
+
+
+## NET.3.4 Network Access Control (NAC)
+
+
+Der Baustein wurde neu hinzugefügt.
 
 
 ---
