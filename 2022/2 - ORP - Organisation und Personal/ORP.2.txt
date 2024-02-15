@@ -1,5 +1,6 @@
 3.1 Basis-Anforderungen
 
+
 ORP.2.A1 Geregelte Einarbeitung neuer Mitarbeiter [Vorgesetzte] (B)
 Die Personalabteilung sowie die Vorgesetzten MÜSSEN dafür sorgen, dass Mitarbeiter zu Beginn ihrer Beschäftigung in ihre neuen Aufgaben eingearbeitet werden.
 Die Mitarbeiter MÜSSEN über bestehende Regelungen, Handlungsanweisungen und Verfahrensweisen informiert werden.
