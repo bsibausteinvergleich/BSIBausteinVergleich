@@ -251,7 +251,46 @@ Ehemals *Schulung von Benutzern und Administratoren*:
 #### CON.1.A20 vollständig neu hinzugefügt als Anforderung mit erhöhtem Schutzbedarf
 
 
-### 
+### CON.2
+
+#### CON.2.A1
+
+##### Geändert:
+
+Die gesetzlichen Bestimmungen zum Datenschutz (DSGVO, BDSG, die Datenschutzgesetze der Bundesländer und gegebenenfalls einschlägige bereichsspezifische Datenschutzregelungen) MÜSSEN eingehalten werden.
+
+
+### CON.3
+
+Keine inhaltlichen Änderungen.
+
+
+### CON.6
+
+Keine inhaltlichen Änderungen.
+
+
+### CON.7
+
+Keine inhaltlichen Änderungen.
+
+
+### CON.8
+
+Keine inhaltlichen Änderungen.
+
+
+### CON.9
+
+Keine inhaltlichen Änderungen.
+
+
+### CON.10
+
+Keine inhaltlichen Änderungen.
+
+
+### CON.11.1 wurde neu hinzugefügt.
 
 ---
 
