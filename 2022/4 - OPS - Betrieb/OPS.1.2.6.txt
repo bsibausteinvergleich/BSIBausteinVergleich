@@ -2,7 +2,8 @@
 
 
 OPS.1.2.6.A1 Planung des NTP- Einsatzes (B)
-Der IT-Betrieb MUSS planen, wo und wie NTP eingesetzt wird. Dies SOLLTE vollständig dokumentiert werden.
+Der IT-Betrieb MUSS planen, wo und wie NTP eingesetzt wird.
+Dies SOLLTE vollständig dokumentiert werden.
 Dabei MUSS ermittelt werden, welche Anwendungen auf eine genaue Zeitinformation angewiesen sind.
 Die Anforderungen des Informationsverbunds hinsichtlich genauer Zeit der IT-Systeme MÜSSEN definiert und dokumentiert werden.
 Der IT-Betrieb MUSS definieren, welche NTP-Server von welchen NTP-Clients genutzt werden sollen.

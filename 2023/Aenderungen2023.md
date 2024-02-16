@@ -336,9 +336,304 @@ Der Baustein wurde neu hinzugefügt.
 
 ### OPS.1.1.2
 
+#### OPS.1.1.2.A2
+
+Anforderung wurde vollständig verändert, Notfallvorsorge ist aus dieser Anforderung entfallen.
+
+
+#### OPS.1.1.2.A3 entfallen
+
+Ehemals *Geregelte Einstellung von IT-Administratoren*:
+
+*Wenn Mitarbeiter administrative Aufgaben innerhalb einer IT-Umgebung übernehmen, MÜSSEN sie in ihre Tätigkeit eingewiesen werden, insbesondere in die vorhandene IT-Architektur und die von ihnen zu betreuenden IT-Systeme und Anwendungen.*
+
+*Die in der Institution gültigen und für ihre Tätigkeit relevanten Sicherheitsbestimmungen MÜSSEN den Administratoren bekannt sein.*
+
+
+#### OPS.1.1.2.A4
+
+Anforderung wurde vollständig verändert.
+
+
+#### OPS.1.1.2.A5
+
+##### Hinzugefügt:
+
+*Administrative Tätigkeiten MÜSSEN nachweisbar sein. Dafür MUSS mindestens festgehalten werden,*
+
+*• welche Änderung bei einer Tätigkeit durchgeführt wurde,*
+
+*• wer eine Tätigkeit durchgeführt hat und*
+
+*• wann eine Tätigkeit durchgeführt wurde.*
+
+
+#### OPS.1.1.2.A6
+
+Anforderung wurde vollständig verändert.
+
+
+#### OPS.1.1.2.A21
+
+Die Standard-Anforderung wurd neu hinzugefügt.
+
+
+#### OPS.1.1.2.A22
+
+Die Standard-Anforderung wurd neu hinzugefügt.
+
+
+#### OPS.1.1.2.A7
+
+Anforderung wurde vollständig verändert.
+
+
+#### OPS.1.1.2.A8
+
+Anforderung wurde vollständig verändert.
+
+
+#### OPS.1.1.2.A9 entfallen
+
+Ehemals *Ausreichende Ressourcen für den IT-Betrieb*:
+
+*Es SOLLTEN ausreichende Personal- und Sachressourcen bereitgestellt werden, um die anfallenden administrativen Aufgaben ordnungsgemäß zu bewältigen.*
+
+*Dabei SOLLTE berücksichtigt werden, dass auch für unvorhersehbare Tätigkeiten entsprechende Kapazitäten vorhanden sein müssen.*
+
+*Die Ressourcenplanung SOLLTE in regelmäßigen Zyklen geprüft und den aktuellen Erfordernissen angepasst werden.*
+
+
+#### OPS.1.1.2.A10 entfallen
+
+Ehemals *Fortbildung und Information*:
+
+*Für die eingesetzten Administratoren SOLLTEN geeignete Fort- und Weiterbildungsmaßnahmen ergriffen werden.*
+
+*Dabei SOLLTEN auch technische Entwicklungen berücksichtigt werden, die noch nicht aktuell sind, aber für die Institution in absehbarer Zeit wichtig werden könnten.*
+
+*Die Fortbildungsmaßnahmen SOLLTEN durch einen Schulungsplan unterstützt werden.*
+
+*Dieser Schulungsplan SOLLTE das gesamte Team berücksichtigen, sodass alle erforderlichen Qualifikationen im Team mehrfach vorhanden sind.*
+
+*Administratoren SOLLTEN sich regelmäßig über die Sicherheit der von ihnen betreuten Anwendungen, IT-Systeme, Dienste und Protokolle informieren, insbesondere über aktuelle Gefährdungen und Sicherheitsmaßnahmen.*
+
+
+#### OPS.1.1.2.A11
+
+Anforderung wurde vollständig verändert.
+
+
+#### OPS.1.1.2.A12 entfallen
+
+Ehemals *Regelungen für Wartungs- und Reparaturarbeiten*:
+
+*IT-Systeme SOLLTEN regelmäßig gewartet werden.*
+
+*Es SOLLTE geregelt sein, welche Sicherheitsaspekte bei Wartungs- und Reparaturarbeiten zu beachten sind.*
+
+*Hierüber hinaus SOLLTE festgelegt werden, wer für die Wartung oder Reparatur von Geräten zuständig ist.*
+
+*Durchgeführte Wartungsarbeiten SOLLTEN dokumentiert werden.*
+
+
+#### OPS.1.1.2.A16
+
+Ehemals Anforderung erhöhten Schutzbedarfs, jetzt Standard-Anforderung.
+
+Inhalt wurde grundlegend verändert.
+
+
+#### OPS.1.1.2.A20 entfallen
+
+Ehemals *Verwaltung und Inbetriebnahme von Geräten*:
+
+*Es SOLLTE eine Übersicht aller Geräte vorhanden sein, die in der Institution genutzt werden und Einfluss auf die Informationssicherheit haben können.*
+
+*Dazu SOLLTEN neben IT-Systemen und ICS-Komponenten auch Geräte aus dem Bereich „Internet der Dinge“ (engl. „Internet of Things“, IoT) berücksichtigt werden.*
+
+*Vor der ersten Inbetriebnahme der Geräte SOLLTEN geeignete Prüf- und Genehmigungsverfahren vorgeschaltet werden.*
+
+*Die Übersicht SOLLTE stets aktuell gehalten werden und mit der Dokumentation von administrativen Tätigkeiten korrespondieren.*
+
+
+#### OPS.1.1.2.A23
+
+Standard-Anforderung wurde neu hinzugefügt.
+
+
+#### OPS.1.1.2.A24
+
+Standard-Anforderung wurde neu hinzugefügt.
+
+
+#### OPS.1.1.2.A25
+
+Standard-Anforderung wurde neu hinzugefügt.
+
+
+#### OPS.1.1.2.A26
+
+Standard-Anforderung wurde neu hinzugefügt.
+
+
+#### OPS.1.1.2.A27
+
+Standard-Anforderung wurde neu hinzugefügt.
+
+
+#### OPS.1.1.2.A28
+
+Standard-Anforderung wurde neu hinzugefügt.
+
+
+#### OPS.1.1.2.A14 entfallen
+
+Ehemals *Sicherheitsüberprüfung von Administratoren*:
+
+*Bei erhöhtem Schutzbedarf SOLLTEN Administratoren einer zusätzlichen Sicherheitsüberprüfung unterzogen werden.*
+
+
+#### OPS.1.1.2.A15 entfallen
+
+Ehemals *Aufteilung von Administrationstätigkeiten*:
+
+*Es SOLLTEN unterschiedliche Administrationsrollen für Teilaufgaben eingerichtet werden.*
+
+*Bei der Abgrenzung der Aufgaben SOLLTEN die Art der Daten und die vorhandene Systemarchitektur berücksichtigt werden.*
+
+
+#### OPS.1.1.2.A17
+
+Inhalt wurde grundlegend verändert.
+
+
+#### OPS.1.1.2.A18
+
+Inhalt wurde grundlegend verändert.
+
+
+#### OPS.1.1.2.A19
+
+Inhalt wurde grundlegend verändert.
+
+
+#### OPS.1.1.2.A29
+
+Anforderung mit erhöhtem Schutzbedarf wurde neu hinzugefügt.
+
+
+#### OPS.1.1.2.A30
+
+Anforderung mit erhöhtem Schutzbedarf wurde neu hinzugefügt.
 
 
 
+### OPS.1.1.3
+
+#### OPS.1.1.3.A15
+
+##### Neu:
+
+*Für die Bewertung SOLLTE geprüft werden, ob es zu diesem Patch bekannte Schwachstellen gibt.*
+
+*Falls Hardware- oder Software-Produkte eingesetzt werden sollen, die nicht mehr von den Herstellenden unterstützt werden oder für die kein Support mehr vorhanden ist, MUSS geprüft werden, ob diese dennoch sicher betrieben werden können.*
+
+*Ist dies nicht der Fall, DÜRFEN diese Hardware- oder Software-Produkte NICHT mehr verwendet werden.*
+
+
+#### OPS.1.1.3.A16 entfallen
+
+Ehemals *Regelmäßige Suche nach Informationen zu Patches und Schwachstellen*:
+
+*Der IT-Betrieb MUSS sich regelmäßig über bekannt gewordene Schwachstellen der Firmware, Betriebssysteme, eingesetzter Anwendungen und Dienste informieren.*
+
+*Die identifizierten Schwachstellen MÜSSEN so schnell wie möglich behoben werden.*
+
+*Solange keine entsprechenden Patches zur Verfügung stehen, MÜSSEN abhängig davon, wie schwerwiegend die Schwachstellen und Bedrohungen sind, andere geeignete Maßnahmen zum Schutz des IT-Systems getroffen werden.*
+
+*Falls dies nicht möglich ist, SOLLTE sichergestellt sein, dass die entsprechende Hardware, relevanten Betriebssysteme, eingesetzten Anwendungen und Dienste nicht weiter verwendet werden.*
+
+
+### OPS.1.1.4
+
+Keine inhaltlichen Änderungen.
+
+
+### OPS.1.1.5
+
+Keine inhaltlichen Änderungen.
+
+
+### OPS.1.1.6
+
+Keine inhaltlichen Änderungen.
+
+
+### OPS.1.1.7
+
+Keine inhaltlichen Änderungen.
+
+
+### OPS.1.2.2
+
+Keine inhaltlichen Änderungen.
+
+
+### OPS.1.2.4
+
+Keine inhaltlichen Änderungen.
+
+
+### OPS.1.2.5
+
+#### OPS.1.2.5.A19
+
+##### Geändert:
+
+*Die Pflichten und Kompetenzen des externen Wartungspersonals SOLLTEN in den vertraglichen Regelungen festgehalten werden.*
+
+*Sollten Dienstleistende mehrere Kunden und Kundinnen fernwarten, MUSS gewährleistet sein, dass die Netze der Kunden und Kundinnen nicht miteinander verbunden werden.*
+
+
+##### OPS.1.2.5.A14
+
+##### Neu:
+
+*Für Fernwartungszugänge SOLLTEN dedizierte Konten verwendet werden.*
+
+
+### OPS.1.2.6
+
+Keine inhaltlichen Änderungen.
+
+
+### OPS.2.1
+
+Der Baustein "*Outsourcing für Kunden*" ist entfallen. An dessen Stelle wurde der Baustein "*OPS.2.3 Nutzung von Outsourcing*" eingeführt.
+
+
+### OPS.2.2
+
+Keine inhaltlichen Änderungen.
+
+
+### OPS.2.3
+
+Der Baustein "*Nutzung von Outsourcing*" wurde neu hinzugefügt anstelle des Bausteins "*OPS.2.1 Outsourcing für Kunden*".
+
+
+### OPS.3.1
+
+Der Baustein "Outsourcing für Dienstleister" ist entfallen. An dessen Stelle wurde der Baustein "OPS.3.2 Anbieten von Outsourcing" eingeführt.
+
+
+### OPS.3.2
+
+Der Baustein "*Anbieten von Outsourcing*" wurde neu hinzugefügt anstelle des Bausteins "*OPS.3.1 Outsourcing für Dienstleister*".
+
+
+---
 
 ## SYS
 

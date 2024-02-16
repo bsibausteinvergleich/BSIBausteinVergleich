@@ -50,7 +50,8 @@ Der Zugriff von Benutzern auf die Systemmanagement-Lösung MUSS abgesichert werd
 • eine sichere und angemessene Authentisierung und Autorisierung des Benutzers sowie
 • eine sichere Verschlüsselung der übertragenen Daten.
 Eine angemessene Authentisierungsmethode MUSS ausgewählt werden.
-Der Auswahlprozess MUSS dokumentiert werden Die Stärke der verwendeten kryptografischen Verfahren und Schlüssel MUSS regelmäßig überprüft und bei Bedarf angepasst werden.
+Der Auswahlprozess MUSS dokumentiert werden.
+Die Stärke der verwendeten kryptografischen Verfahren und Schlüssel MUSS regelmäßig überprüft und bei Bedarf angepasst werden.
 Die Systemmanagement-Lösung MUSS über eine Autorisierungskomponente sicherstellen, dass Benutzer ausschließlich solche Aktionen durchführen können, zu denen sie berechtigt sind.
 
 
@@ -108,7 +109,7 @@ Weiter SOLLTE verglichen werden, ob die Softwareversion der Systemmanagement-Lö
 
 OPS.1.1.7.A12 Auslösung von Aktionen durch die zentralen Komponenten der Systemmanagement-Lösung (S)
 Aktionen, die durch das Systemmanagement auf den verwalteten Systemen ausgeführt werden, SOLLTEN ausschließlich von der Systemmanagement-Lösung ausgelöst werden.
-Dafür SOLLTEN nur diejenigen ManagementFunktionen auf der Systemmanagement-Lösung und den zu verwaltenden Systemen aktiviert werden, die tatsächlich benötigt werden.
+Dafür SOLLTEN nur diejenigen Management-Funktionen auf der Systemmanagement-Lösung und den zu verwaltenden Systemen aktiviert werden, die tatsächlich benötigt werden.
 
 OPS.1.1.7.A13 Verpflichtung zur Nutzung der vorgesehenen Schnittstellen für das Systemmanagement (S)
 Management-Zugriffe auf zu verwaltende Systeme SOLLTEN ausschließlich über die dafür vorgesehenen Schnittstellen der Systemmanagement-Lösung erfolgen.
@@ -117,7 +118,7 @@ Falls ein direkter Zugriff auf zu verwaltende Systeme notwendig ist, z. B. nach 
 OPS.1.1.7.A14 Zentrale Konfigurationsverwaltung für zu verwaltende Systeme (S)
 Software und Konfigurationsdaten für die zu verwaltenden Systeme SOLLTEN konsequent in einem Konfigurationsmanagement verwaltet werden, das eine Versionierung und Änderungsverfolgung ermöglicht.
 Die zugehörige Dokumentation zur Konfigurationsverwaltung SOLLTE vollständig und immer aktuell sein.
-Die benötigten Dokumen-tationen SOLLTEN an zentraler Stelle sicher verfügbar sein sowie in die Datensicherung eingebunden werden.
+Die benötigten Dokumentationen SOLLTEN an zentraler Stelle sicher verfügbar sein sowie in die Datensicherung eingebunden werden.
 Die zentrale Konfigurationsverwaltung SOLLTE nachhaltig gepflegt und regelmäßig auditiert werden.
 Sämtliche Schnittstellen zwischen Systemmanagement-Lösung und anderen Anwendungen und Diensten SOLLTEN dokumentiert und vollständig in einem Konfigurationsmanagement verwaltet werden.
 Zwischen relevanten Betriebsbereichen SOLLTEN funktionale Änderungen an den Schnittstellen frühzeitig abgestimmt und dokumentiert werden.

@@ -18,7 +18,8 @@ Es MUSS sichergestellt sein, dass nur berechtigte Personen die Räume betreten d
 Archivspeichermedien MÜSSEN geeignet gelagert werden.
 
 OPS.1.2.2.A4 Konsistente Indizierung von Daten bei der Archivierung [IT-Betrieb, Benutzer] (B)
-Alle in einem Archiv abgelegten Daten, Dokumente und Datensätze MÜSSEN eindeutig indiziert werden. Dazu MUSS bereits während der Konzeption festgelegt werden, welche Struktur und welchen Umfang die Indexangaben für ein Archiv haben sollen.
+Alle in einem Archiv abgelegten Daten, Dokumente und Datensätze MÜSSEN eindeutig indiziert werden.
+Dazu MUSS bereits während der Konzeption festgelegt werden, welche Struktur und welchen Umfang die Indexangaben für ein Archiv haben sollen.
 
 OPS.1.2.2.A5 Regelmäßige Aufbereitung von archivierten Datenbeständen [IT-Betrieb] (B)
 Über den gesamten Archivierungszeitraum hinweg MUSS sichergestellt werden, dass
@@ -110,8 +111,8 @@ Archivdaten, die mit kryptografischen Verfahren gesichert wurden, die sich in ab
 OPS.1.2.2.A16 Regelmäßige Erneuerung technischer Archivsystem-Komponenten [IT-Betrieb] (S)
 Archivsysteme SOLLTEN über lange Zeiträume auf dem aktuellen technischen Stand gehalten werden.
 Neue Hard- und Software SOLLTE vor der Installation in einem laufenden Archivsystem ausführlich getestet werden.
-Wenn neue Komponenten in Betrieb genommen oder neue Dateiformate eingeführt werden, SOLLTE ein Migrationskon-
-zept erstellt werden. Darin SOLLTEN alle Änderungen, Tests und erwarteten Testergebnisse beschrieben sein.
+Wenn neue Komponenten in Betrieb genommen oder neue Dateiformate eingeführt werden, SOLLTE ein Migrationskonzept erstellt werden.
+Darin SOLLTEN alle Änderungen, Tests und erwarteten Testergebnisse beschrieben sein.
 Die Konvertierung der einzelnen Daten SOLLTE dokumentiert werden (Transfervermerk).
 Wenn Archivdaten in neue Formate konvertiert werden, SOLLTE geprüft werden, ob die Daten aufgrund rechtlicher Anforderungen zusätzlich in ihren ursprünglichen Formaten zu archivieren sind.
 

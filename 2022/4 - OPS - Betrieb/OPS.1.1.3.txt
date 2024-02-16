@@ -31,7 +31,6 @@ Wenn ein Patch nicht eingespielt wird, MÜSSEN die Entscheidung und die Gründe 
 OPS.1.1.3.A16 Regelmäßige Suche nach Informationen zu Patches und Schwachstellen (B)
 Der IT-Betrieb MUSS sich regelmäßig über bekannt gewordene Schwachstellen der Firmware, Betriebssysteme, eingesetzter Anwendungen und Dienste informieren.
 Die identifizierten Schwachstellen MÜSSEN so schnell wie möglich behoben werden.
-
 Solange keine entsprechenden Patches zur Verfügung stehen, MÜSSEN abhängig davon, wie schwerwiegend die Schwachstellen und Bedrohungen sind, andere geeignete Maßnahmen zum Schutz des IT-Systems getroffen werden.
 Falls dies nicht möglich ist, SOLLTE sichergestellt sein, dass die entsprechende Hardware, relevanten Betriebssysteme, eingesetzten Anwendungen und Dienste nicht weiter verwendet werden.
 
@@ -65,8 +64,9 @@ OPS.1.1.3.A9 Test- und Abnahmeverfahren für neue Hardware (S)
 Wenn neue Hardware ausgewählt wird, SOLLTE geprüft werden, ob die eingesetzte Software und insbesondere die relevanten Betriebssysteme mit der Hardware und dessen Treibersoftware kompatibel sind.
 Neue Hardware SOLLTE getestet werden, bevor sie eingesetzt wird.
 Diese SOLLTE ausschließlich in einer isolierten Umgebung getestet werden.
-Für IT-Systeme SOLLTE es ein Abnahmeverfahren und eine Freigabeerklärung geben. Der Zuständige SOLLTE die
-Freigabeerklärung an geeigneter Stelle schriftlich hinterlegen. Für den Fall, dass trotz der Abnahme- und Freigabeverfahren im laufenden Betrieb Fehler festgestellt werden, SOLLTE es ein Verfahren zur Fehlerbehebung geben.
+Für IT-Systeme SOLLTE es ein Abnahmeverfahren und eine Freigabeerklärung geben.
+Der Zuständige SOLLTE die Freigabeerklärung an geeigneter Stelle schriftlich hinterlegen.
+Für den Fall, dass trotz der Abnahme- und Freigabeverfahren im laufenden Betrieb Fehler festgestellt werden, SOLLTE es ein Verfahren zur Fehlerbehebung geben.
 
 OPS.1.1.3.A10 Sicherstellung der Integrität und Authentizität von Softwarepaketen (S)
 Während des gesamten Patch- oder Änderungsprozesses SOLLTE die Authentizität und Integrität von Softwarepaketen sichergestellt werden.
