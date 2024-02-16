@@ -1,6 +1,9 @@
 3.1. Basis-Anforderungen
 
 
+Für diesen Baustein sind keine Basis-Anforderungen definiert.
+
+
 3.2. Standard-Anforderungen
 
 DER.4.A1 Erstellung eines Notfallhandbuchs (S)
