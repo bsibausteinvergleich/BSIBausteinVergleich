@@ -1,4 +1,4 @@
-3.1. Basis-Anforderungen
+3.1 Basis-Anforderungen
 
 
 OPS.1.1.4.A1 Erstellung eines Konzepts für den Schutz vor Schadprogrammen (B)
@@ -17,7 +17,7 @@ OPS.1.1.4.A3 Auswahl eines Virenschutzprogrammes (B)
 Abhängig vom verwendeten Betriebssystem, anderen vorhandenen Schutzmechanismen sowie der Verfügbarkeit geeigneter Virenschutzprogramme MUSS für den konkreten Einsatzzweck ein entsprechendes Schutzprogramm ausgewählt und installiert werden.
 Für Gateways und IT-Systeme, die dem Datenaustausch dienen, MUSS ein geeignetes Virenschutzprogramm ausgewählt und installiert werden.
 Es DÜRFEN NUR Produkte für den Enterprise-Bereich mit auf die Institution zugeschnittenen Service- und Supportleistungen eingesetzt werden.
-Produkte für die reine Heimanwendung oder Produkte ohne Support DÜRFEN NICHT im professionellen Wirkbetrieb eingesetzt werden.
+Produkte für reine Heimanwender oder Produkte ohne Herstellersupport DÜRFEN NICHT im professionellen Wirkbetrieb eingesetzt werden.
 Cloud-Dienste zur Verbesserung der Detektionsleistung der Virenschutzprogramme SOLLTEN genutzt werden.
 Falls Cloud-Funktionen solcher Produkte verwendet werden, MUSS sichergestellt werden, dass dies nicht im Widerspruch zum Daten- oder Geheimschutz steht.
 Neben Echtzeit- und On-Demand-Scans MUSS eine eingesetzte Lösung die Möglichkeit bieten, auch komprimierte Daten nach Schadprogrammen zu durchsuchen.
@@ -27,36 +27,36 @@ Diese Anforderung ist entfallen.
 
 OPS.1.1.4.A5 Betrieb und Konfiguration von Virenschutzprogrammen (B)
 Das Virenschutzprogramm MUSS für seine Einsatzumgebung geeignet konfiguriert werden.
-Die Erkennungsleistung SOLLTE dabei im Vordergrund stehen, sofern nicht Datenschutz- oder Leistungsgründe im jeweiligen Einzelfall dagegen sprechen.
+Die Erkennungsleistung SOLLTE dabei im Vordergrund stehen, sofern nicht Datenschutz- oder Leistungsgründe im jeweiligen Einzelfalldagegen sprechen.
 Wenn sicherheitsrelevante Funktionen des Virenschutzprogramms nicht genutzt werden, SOLLTE dies begründet und dokumentiert werden.
 Bei Schutzprogrammen, die speziell für die Desktop-Virtualisierung optimiert sind, SOLLTE nachvollziehbar dokumentiert sein, ob auf bestimmte Detektionsverfahren zugunsten der Leistung verzichtet wird.
-Es MUSS sichergestellt werden, dass die Benutzenden keine sicherheitsrelevanten Änderungen an den Einstellungen der Antivirenprogramme vornehmen können.
+Es MUSS sichergestellt werden, dass die Benutzer keine sicherheitsrelevanten Änderungen an den Einstellungen der Antivirenprogramme vornehmen können.
 
-OPS.1.1.4.A6 Regelmäßige Aktualisierung der eingesetzten Virenschutzprogramme (B)
-Auf den damit ausgestatteten IT-Systemen MÜSSEN die Virenschutzprogramme nach Empfehlung der herstellenden Institution regelmäßig und zeitnah aktualisiert werden.
+OPS.1.1.4.A6 Regelmäßige Aktualisierung der eingesetzten Virenschutzprogramme und Signaturen (B)
+Auf den damit ausgestatteten IT-Systemen MÜSSEN die Scan-Engine des Virenschutzprogramms sowie die Signaturen für die Schadprogramme regelmäßig und zeitnah aktualisiert werden.
 
-OPS.1.1.4.A7 Sensibilisierung und Verpflichtung der Benutzenden (B) [Benutzende]
-Benutzende MÜSSEN regelmäßig über die Bedrohung durch Schadprogramme aufgeklärt werden.
+OPS.1.1.4.A7 Sensibilisierung und Verpflichtung der Benutzer [Benutzer] (B)
+Benutzer MÜSSEN regelmäßig über die Bedrohung durch Schadprogramme aufgeklärt werden.
 Sie MÜSSEN die grundlegenden Verhaltensregeln einhalten, um die Gefahr eines Befalls durch Schadprogramme zu reduzieren.
 Dateien, E-Mails, Webseiten usw. aus nicht vertrauenswürdigen Quellen SOLLTEN NICHT geöffnet werden.
-Sie MÜSSEN entsprechenden Kontaktpersonen für den Fall eines Verdacht auf eine Infektion mit einem Schadprogramm bekannt sein.
-Sie MÜSSEN sich an die ihnen benannten Kontaktpersonen wenden, wenn der Verdacht auf eine Infektion mit einem Schadprogramm besteht.
+Benutzern MÜSSEN entsprechende Ansprechpartner für den Fall eines Verdacht auf eine Infektion mit einem Schadprogramm bekannt sein.
+Benutzer MÜSSEN sich an die ihnen benannten Ansprechpartner wenden, wenn der Verdacht auf eine Infektion mit einem Schadprogramm besteht.
 
 
-3.2. Standard-Anforderungen
+3.2 Standard-Anforderungen
 
 OPS.1.1.4.A8 ENTFALLEN (S)
 Diese Anforderung ist entfallen.
 
-OPS.1.1.4.A9 Meldung von Infektionen mit Schadprogrammen (S) [Benutzende]
+OPS.1.1.4.A9 Meldung von Infektionen mit Schadprogrammen [Benutzer] (S)
 Das eingesetzte Virenschutzprogramm SOLLTE eine Infektion mit einem Schadprogramm automatisch blockieren und melden.
 Die automatische Meldung SOLLTE an einer zentralen Stelle angenommen werden.
-Dabei SOLLTEN die zuständigen Mitarbeitenden je nach Sachlage über das weitere Vorgehen entscheiden.
+Dabei SOLLTEN die zuständigen Mitarbeiter je nach Sachlage über das weitere Vorgehen entscheiden.
 Das Vorgehen bei Meldungen und Alarmen der Virenschutzprogramme SOLLTE geplant, dokumentiert und getestet werden.
 Es SOLLTE insbesondere geregelt sein, was im Falle einer bestätigten Infektion geschehen soll.
 
 
-3.3. Anforderungen bei erhöhtem Schutzbedarf
+3.3 Anforderungen bei erhöhtem Schutzbedarf
 
 OPS.1.1.4.A10 Nutzung spezieller Analyseumgebungen (H)
 Automatisierte Analysen in einer speziellen Testumgebung (basierend auf Sandboxen bzw. separaten virtuellen oder physischen Systemen) SOLLTEN für eine Bewertung von verdächtigen Dateien ergänzend herangezogen werden.
