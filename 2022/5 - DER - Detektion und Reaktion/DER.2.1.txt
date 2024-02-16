@@ -73,10 +73,8 @@ Für die verschiedenen Arten von Sicherheitsvorfällen SOLLTEN die jeweils passe
 Es SOLLTE dabei sichergestellt sein, dass Mitarbeiter Sicherheitsvorfälle über verlässliche und vertrauenswürdige Kanäle schnell und einfach melden können.
 Wird eine zentrale Anlaufstelle für die Meldung von Störungen oder Sicherheitsvorfällen eingerichtet, SOLLTE dies an alle Mitarbeiter kommuniziert werden.
 Eine Kommunikations- und Kontaktstrategie SOLLTE vorliegen.
-Darin SOLLTE geregelt sein, wer grundsätzlich infor-
-miert werden muss und wer informiert werden darf, durch wen dies in welcher Reihenfolge erfolgt und in welcher
-
-Tiefe informiert wird. Es SOLLTE definiert sein, wer Informationen über Sicherheitsvorfälle an Dritte weitergibt.
+Darin SOLLTE geregelt sein, wer grundsätzlich informiert werden muss und wer informiert werden darf, durch wen dies in welcher Reihenfolge erfolgt und in welcher Tiefe informiert wird.
+Es SOLLTE definiert sein, wer Informationen über Sicherheitsvorfälle an Dritte weitergibt.
 Ebenso SOLLTE sichergestellt sein, dass keine unautorisierten Personen Informationen über den Sicherheitsvorfall weitergeben.
 
 DER.2.1.A10 Eindämmen der Auswirkung von Sicherheitsvorfällen [Notfallbeauftragter, IT-Betrieb] (S)

@@ -79,7 +79,7 @@ DER.3.2.A14 Auswahl der Zielobjekte und der zu prüfenden Anforderungen [IS-Revi
 In einer IS-Querschnittsrevision oder IS-Partialrevision SOLLTE das IS-Revisionsteam anhand der Ergebnisse der Dokumentenprüfung die Baustein-Zielobjekte für die Vor-Ort-Prüfung auswählen.
 Der Baustein zum Informationssicherheitsmanagement (siehe ISMS.1 Sicherheitsmanagement) des IT-Grundschutz-Kompendiums einschließlich aller zugehörigen Anforderungen SOLLTE jedoch immer vollständig geprüft werden.
 Weitere dreißig Prozent der modellierten Baustein-Zielobjekte SOLLTEN risikoorientiert zur Prüfung ausgewählt werden.
-Die Auswahl SOLLTEn achvollziehbar dokumentiert werden.
+Die Auswahl SOLLTE nachvollziehbar dokumentiert werden.
 Von den so ausgewählten Baustein-Zielobjekten SOLLTEN dreißig Prozent der jeweiligen Anforderungen bei der IS-Revision geprüft werden.
 Darüber hinaus SOLLTEN bei der Auswahl der zu prüfenden Baustein-Zielobjekte die bemängelten Anforderungen aus vorhergehenden IS-Revisionen berücksichtigt werden.
 Alle Anforderungen mit schwerwiegenden Sicherheitsmängeln aus vorhergehenden IS-Revisionen SOLLTEN mit geprüft werden.

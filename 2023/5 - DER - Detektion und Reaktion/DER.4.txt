@@ -11,8 +11,7 @@ Es SOLLTE ein Notfallhandbuch erstellt werden, in dem die wichtigsten Informatio
 • Rollen,
 • Sofortmaßnahmen,
 • Alarmierung und Eskalation sowie
-• Kommunikations-, grundsätzlichen Geschäftsfortführungs-, Wiederanlauf- und Wiederherstellungsplänen
-enthalten sind.
+• Kommunikations-, grundsätzlichen Geschäftsfortführungs-, Wiederanlauf- und Wiederherstellungsplänen enthalten sind.
 Zuständigkeiten und Befugnisse SOLLTEN zugewiesen, kommuniziert und im Notfallhandbuch festgehalten werden.
 Es SOLLTE sichergestellt sein, dass im Notfall entsprechend geschultes Personal zur Verfügung steht.
 Es SOLLTE regelmäßig durch Tests und Übungen überprüft werden, ob die im Notfallhandbuch beschriebenen Maßnahmen auch wie vorgesehen funktionieren.

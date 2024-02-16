@@ -635,6 +635,46 @@ Der Baustein "*Anbieten von Outsourcing*" wurde neu hinzugefügt anstelle des Ba
 
 ---
 
+## DER
+
+### DER.1
+
+Keine inhaltlichen Änderungen.
+
+
+### DER.2.1
+
+Keine inhaltlichen Änderungen.
+
+
+### DER.2.2
+
+Keine inhaltlichen Änderungen.
+
+
+### DER.2.3
+
+Keine inhaltlichen Änderungen.
+
+
+### DER.3.1
+
+Keine inhaltlichen Änderungen.
+
+
+### DER.3.2
+
+Keine inhaltlichen Änderungen.
+
+
+### DER.4
+
+Keine inhaltlichen Änderungen.
+
+
+---
+
+
 ## APP
 
 ### APP.1.1
@@ -1381,12 +1421,60 @@ Keine inhaltlichen Änderungen.
 
 ## NET
 
-Bei allen NET-Bausteinen finden sich keinerlei inhaltliche Änderungen.
+
+### NET.1.1
+
+Keine inhaltlichen Änderungen.
+
+
+### NET.1.2
+
+Keine inhaltlichen Änderungen.
+
+
+### NET.2.1
+
+Keine inhaltlichen Änderungen.
+
+
+### NET.2.2
+
+Keine inhaltlichen Änderungen.
+
+
+### NET.3.1
+
+Keine inhaltlichen Änderungen.
+
+
+### NET.3.2
+
+Keine inhaltlichen Änderungen.
+
+
+### NET.3.3
+
+Keine inhaltlichen Änderungen.
 
 
 ### NET.3.4 Network Access Control (NAC)
 
 Der Baustein wurde neu hinzugefügt.
+
+
+### NET.4.1
+
+Keine inhaltlichen Änderungen.
+
+
+### NET.4.2
+
+Keine inhaltlichen Änderungen.
+
+
+### NET.4.3
+
+Keine inhaltlichen Änderungen.
 
 
 ---
