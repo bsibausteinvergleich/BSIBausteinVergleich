@@ -635,6 +635,213 @@ Der Baustein "*Anbieten von Outsourcing*" wurde neu hinzugefügt anstelle des Ba
 
 ---
 
+## APP
+
+### APP.1.1
+
+Keine inhaltlichen Änderungen
+
+
+### APP.1.2
+
+#### APP.1.2.A13
+
+##### Neu:
+
+*Die Institution MUSS entscheiden, ob die verwendeten Browser DNS-over-HTTPS (DoH) verwenden sollen.*
+
+*Die Browser MÜSSEN entsprechend dieser Entscheidung konfiguriert werden.*
+
+*Falls ein interner DNS-Resolver verwendet wird, MUSS dieser auch vom Browser verwendet werden.*
+
+
+##### Entfallen:
+
+*Die Institution MUSS prüfen, ob die verwendeten Browser DNS-over-HTTPS (DoH) einsetzen.*
+
+*Es MUSS festgelegt werden, ob die Funktion verwendet werden soll.*
+
+*Falls die Institution DNS-Server als Resolver verwendet, die über nicht vertrauenswürdige Netze angesprochen werden, SOLLTE DoH verwendet werden.*
+
+*Falls DoH verwendet wird, MUSS die Institution einen vertrauenswürdigen DoH-Server festlegen.*
+
+
+#### APP.1.2.A7
+
+##### Neu:
+
+*Wird die Funktion dennoch genutzt, SOLLTEN die Benutzenden diese Daten löschen können.*
+
+
+### APP.1.4
+
+Keine inhaltlichen Änderungen.
+
+
+### APP.1.5
+
+Keine inhaltlichen Änderungen.
+
+
+### APP.2.1
+
+#### APP.2.1.A2
+
+##### Geändert:
+
+*Zudem MUSS ein Konzept für eine Struktur aus Objektklassen und Attributtypen entwickelt werden, dass den Ansprüchen der vorgesehenen Nutzungsarten genügt.*
+
+*Bei der Planung eines Verzeichnisdienstes, der personenbezogene Daten beinhaltet, MÜSSEN Personalvertretung und Datenschutzbeauftragte beteiligt werden.*
+
+*Generell SOLLTE die geplante Verzeichnisdienststruktur vollständig dokumentiert und die Dokumentation bei Änderungen fortgeschrieben werden.*
+
+*Maßnahmen SOLLTEN geplant und umgesetzt werden, die es unterbinden, aus dem Verzeichnisdienst unbefugt Daten sammeln zu können.*
+
+
+#### APP.2.1.A5
+
+##### Entfallen:
+
+*Vor den Konfigurationsänderungen SOLLTEN von allen betroffenen Dateien und Verzeichnissen Datensicherungen angefertigt werden.*
+
+
+#### APP.2.1.A6
+
+##### Entfallen:
+
+*Die Arbeitsplätze von Verzeichnisdienstadministratoren MÜSSEN ausreichend gesichert sein.*
+
+##### Neu:
+
+*Sofern der Verzeichnisdienst zur Verwaltung von Anmeldedaten verwendet wird, MÜSSEN dedizierte Clients bei der Fernwartung eingesetzt werden.*
+
+
+##### APP.2.1.17
+
+Die Basis-Anforderung wurde neu hinzugefügt.
+
+
+#### APP.2.1.A7 ist entfallen
+
+Ehemals *Erstellung eines Sicherheitskonzepts für den Einsatz von Verzeichnisdiensten*:
+
+*Durch das Sicherheitskonzept für Verzeichnisdienste SOLLTEN sämtliche sicherheitsbezogenen Themenbereiche eines Verzeichnisdienstes geregelt werden.*
+
+*Die daraus entwickelten Sicherheitsrichtlinien SOLLTEN schriftlich festgehalten und den Benutzern des Verzeichnisdienstes mitgeteilt werden.*
+
+
+#### APP.2.1.A8
+
+##### Geändert:
+
+*Sofern eine Partitionierung geplant ist, SOLLTE sich diese an den Schutzzielen des Verzeichnisdienstes orientieren und diese geeignet unterstützen.*
+
+*Eine Partitionierung SOLLTE so geplant werden, dass sie die Schadensauswirkungen bei Sicherheitsvorfällen begrenzt, die unabhängige Administration verschiedener Partitionen ermöglicht und organisatorischen bzw. Sicherheitsgrenzen folgt.*
+
+##### Entfallen:
+
+*Um die Replikationen zeitgerecht ausführen zu können, SOLLTE eine ausreichende Bandbreite sichergestellt werden.*
+
+
+#### APP.2.1.A11
+
+##### Entfallen:
+
+*Sollen anonymen Benutzern auf einzelne Teilbereiche des Verzeichnisbaums weitergehende Zugriffe eingeräumt werden, so SOLLTE ein gesondertes Benutzerkonto, ein sogenannter Proxy-User, für den anonymen Zugriff eingerichtet werden.*
+
+*Die Zugriffsrechte für diesen Proxy-User SOLLTEN hinreichend restriktiv vergeben werden.*
+
+*Sie SOLLTEN zudem wieder komplett entzogen werden, wenn der Account nicht mehr gebraucht wird.*
+
+*Damit nicht versehentlich schutzbedürftige Informationen herausgegeben werden, SOLLTE die Suchfunktion des Verzeichnisdienstes dem Einsatzzweck angemessen eingeschränkt werden.*
+
+
+#### APP.2.1.A12
+
+##### Neu:
+
+*Insbesondere Änderungen innerhalb des Verzeichnisdienstes sowie Konfigurationsänderungen des Verzeichnisdienstes SOLLTEN vorrangig protokolliert werden.*
+
+
+#### APP.2.1.A13
+
+##### Entfallen:
+
+*Der Kommunikationsendpunkt des Verzeichnisdienst-Servers SOLLTE aus dem Internet nicht erreichbar sein.*
+
+*Im Falle einer serviceorientierten Architektur (SOA) SOLLTEN zum Schutz von Service-Einträgen in einer Service-Registry sämtliche Anfragen an die Registratur daraufhin überprüft werden, ob der Benutzer gültig ist.*
+
+##### Geändert:
+
+*Werden vertrauliche Informationen übertragen, SOLLTE die gesamte Kommunikation mit dem Verzeichnisdienst über ein sicheres Protokoll entsprechend der Technischen Richtlinie TR-02102 des BSI (z. B. TLS) verschlüsselt werden.*
+
+
+#### APP.2.1.A14
+
+##### Entfallen:
+
+*Die Zugriffsrechte für Verzeichnisdienst-Objekte bei Systemen, die von Vorgängerversionen aktualisiert bzw. von anderen Verzeichnissystemen übernommen wurden, SOLLTEN aktualisiert werden.*
+
+##### Neu:
+
+*In dem Migrationskonzept SOLLTE berücksichtigt werden, ob das Berechtigungsmanagement von altem und neuem Verzeichnisdienst analog funktioniert oder ob neue Berechtigungsstrukturen erforderlich sind.*
+
+*Bei der Migration SOLLTE berücksichtigt werden, dass IT-Systeme, die auf den Verzeichnisdienst zugreifen, gegebenenfalls lokale Caches vorhalten oder aus anderen Gründen dort eine Aktualisierung der migrierten Verzeichnisdienstinhalte initiiert werden muss.*
+
+
+##### Geändert:
+
+*Die Schema-Änderungen, die am Verzeichnisdienst vorgenommen wurden, SOLLTEN vor der Migration analysiert und dokumentiert werden.*
+
+
+#### APP.2.1.A18
+
+Die Standard-Anforderung wurde neu hinzugefügt.
+
+
+#### APP.2.1.A19
+
+Die Standard-Anforderung wurde neu hinzugefügt.
+
+
+#### APP.2.1.A20
+
+Die Anforderung erhöhten Schutzbedarfs wurde neu hinzugefügt.
+
+
+#### APP.2.1.A21
+
+Die Anforderung erhöhten Schutzbedarfs wurde neu hinzugefügt.
+
+
+### APP.2.2
+
+#### APP.2.2.A1
+
+##### Entfallen:
+
+*Die geplante Active-Directory-Struktur einschließlich etwaiger Schema-Änderungen SOLLTE nachvollziehbar dokumentiert sein.*
+
+
+##### Geändert:
+
+*Es MUSS eine Funktionsebene für die Domäne(n) und die Gesamtstruktur von mindestens Windows Server 2016 gewählt werden.*
+
+*Ein bedarfsgerechtes Berechtigungskonzept für die Domäne(n) und die Gesamtstruktur MUSS entworfen werden.*
+
+
+##### Neu:
+
+*Dabei MUSS berücksichtigt werden, dass zwischen den einzelnen Domänen einer Gesamtstruktur produktbedingt keine Sicherheitsgrenzen bestehen und daher keine sichere Begrenzung der administrativen Bereiche innerhalb einer Gesamtstruktur möglich ist.*
+
+
+#### APP.2.2.A2 ist ohne Angabe entfallen, wird im 2023er-Kompendium nicht mehr erwähnt, auch nicht der Wegfall.
+
+
+
+
+---
+
 ## SYS
 
 ### SYS.1.1
