@@ -1,16 +1,18 @@
 3.1. Basis-Anforderungen
 
+
 OPS.1.2.6.A1 Planung des NTP- Einsatzes (B)
-Der IT-Betrieb MUSS planen, wo und wie NTP eingesetzt wird. Dies SOLLTE vollständig dokumentiert werden.
+Der IT-Betrieb MUSS planen, wo und wie NTP eingesetzt wird.
+Dies SOLLTE vollständig dokumentiert werden.
 Dabei MUSS ermittelt werden, welche Anwendungen auf eine genaue Zeitinformation angewiesen sind.
 Die Anforderungen des Informationsverbunds hinsichtlich genauer Zeit der IT-Systeme MÜSSEN definiert und dokumentiert werden.
 Der IT-Betrieb MUSS definieren, welche NTP-Server von welchen NTP-Clients genutzt werden sollen.
 Es MUSS festgelegt werden, ob NTP-Server im Client-Server- oder im Broadcast-Modus arbeiten.
 
 OPS.1.2.6.A2 Sichere Nutzung fremder Zeitquellen (B)
-Falls Zeitinformationen von einem NTP-Server außerhalb des Netzes der Institution bezogen werden, dann MUSS der IT-Betrieb beurteilen, ob der NTP-Server des Betreibers hinreichend verlässlich ist.
+Falls Zeitinformationen von einem NTP-Server außerhalb des Netzes der Institution bezogen werden, dann MUSS der IT-Betrieb beurteilen, ob der NTP-Server hinreichend verlässlich ist.
 Der IT-Betrieb MUSS sicherstellen, dass nur als verlässlich eingestufte NTP-Server verwendet werden.
-Der IT-Betrieb MUSS die Nutzungsregeln des Betreibers kennen und beachten.
+Der IT-Betrieb MUSS die Nutzungsregeln des NTP-Servers kennen und beachten.
 
 OPS.1.2.6.A3 Sichere Konfiguration von NTP-Servern (B)
 Der IT-Betrieb MUSS den NTP-Server so konfigurieren, dass Clients nur dann Einstellungen des NTP-Servers verändern können, wenn dies explizit vorgesehen ist.
@@ -42,7 +44,7 @@ Der IT-Betrieb SOLLTE festlegen, welche Zeitinformationen ein IT-System verwende
 Der IT-Betrieb SOLLTE festlegen, wie NTP-Clients auf stark abweichende Zeitinformationen reagieren.
 Insbesondere SOLLTE entschieden werden, ob stark abweichende Zeitinformationen von NTP-Servern nach einem Systemneustart akzeptiert werden.
 Der IT-Betrieb SOLLTE Grenzwerte für stark abweichende Zeitinformationen festlegen.
-Der IT-Betrieb SOLLTE sicherstellen, dass NTP-Clients auch dann noch ausreichende Zeitinformationen erhalten, wenn sie von einem NTP-Server aufgefordert werden weniger oder gar keine Anfragen zu senden.
+Der IT-Betrieb SOLLTE sicherstellen, dass NTP-Clients auch dann noch ausreichende Zeitinformationen erhalten, wenn sie von einem NTP-Server aufgefordert werden, weniger oder gar keine Anfragen zu senden.
 
 OPS.1.2.6.A8 Einsatz sicherer Protokolle zur Zeitsynchronisation (S)
 Der IT-Betrieb SOLLTE prüfen, ob sichere Protokolle zur Zeitsynchronisation eingesetzt werden können (z. B. Network Time Security (NTS)).
@@ -52,9 +54,9 @@ Falls dies möglich ist, SOLLTEN sichere Protokolle eingesetzt werden.
 3.3. Anforderungen bei erhöhtem Schutzbedarf
 
 OPS.1.2.6.A9 Verfügbarkeit ausreichend vieler genauer Zeitquellen (H)
-Falls korrekte Systemzeiten von erheblicher Bedeutung sind, dann SOLLTE eine Institution über mehrere Stratum-1-NTP-Server in ihrem Netz verfügen.
+Falls korrekte Systemzeiten von erheblicher Bedeutung sind, dann SOLLTE eine Institution über mehrere Stratum-1-NTP-Server in ihrem Netz verfügen. 
 Die IT-Systeme des Informationsverbunds mit NTP-Dienst SOLLTEN die Stratum-1-NTP-Server direkt oder indirekt als Zeitreferenz nutzen.
-Die Straum-1-Server SOLLTEN jeweils über verschiedene Zeitquellen verfügen.
+Die Stratum-1-Server SOLLTEN jeweils über verschiedene Zeitquellen verfügen.
 
 OPS.1.2.6.A10 Ausschließlich interne NTP-Server (H)
 Jedes IT-System des Informationsverbunds mit NTP-Dienst SOLLTE Zeitinformationen ausschließlich von NTP-Servern innerhalb des Netzes der Institution beziehen.
