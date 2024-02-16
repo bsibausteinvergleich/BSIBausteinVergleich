@@ -2,7 +2,7 @@
 
 
 APP.3.1.A1 Authentisierung (B)
-Der IT-Betrieb MUSS Webanwendungen und Webservices so konfigurieren, dass sich Benutzer gegenüber der Webanwendung oder dem Webservice authentisieren müssen, wenn diese auf geschützte Ressourcen zugreifen wollen.
+Der IT-Betrieb MUSS Webanwendungen und Webservices so konfigurieren, dass sich Clients gegenüber der Webanwendung oder dem Webservice authentisieren müssen, wenn diese auf geschützte Ressourcen zugreifen wollen.
 Dafür MUSS eine angemessene Authentisierungsmethode ausgewählt werden.
 Der Auswahlprozess SOLLTE dokumentiert werden.
 Der IT-Betrieb MUSS geeignete Grenzwerte für fehlgeschlagene Anmeldeversuche festlegen.
@@ -16,9 +16,9 @@ Diese Anforderung ist entfallen.
 APP.3.1.A4 Kontrolliertes Einbinden von Dateien und Inhalten (B)
 Falls eine Webanwendung oder ein Webservice eine Upload-Funktion für Dateien anbietet, MUSS diese Funktion durch den IT-Betrieb so weit wie möglich eingeschränkt werden.
 Insbesondere MÜSSEN die erlaubte Dateigröße, erlaubte Dateitypen und erlaubte Speicherorte festgelegt werden.
-Es MUSS festgelegt werden, welche Benutzer die Funktion verwenden dürfen.
+Es MUSS festgelegt werden, welche Clients die Funktion verwenden dürfen.
 Auch MÜSSEN Zugriffs- und Ausführungsrechte restriktiv gesetzt werden.
-Zudem MUSS sichergestellt werden, dass ein Benutzer Dateien nur im vorgegebenen erlaubten Speicherort speichernkann.
+Zudem MUSS sichergestellt werden, dass Clients Dateien nur im vorgegebenen erlaubten Speicherort speichern können.
 
 APP.3.1.A5 ENTFALLEN (B)
 Diese Anforderung ist entfallen.
@@ -28,7 +28,7 @@ Diese Anforderung ist entfallen.
 
 APP.3.1.A7 Schutz vor unerlaubter automatisierter Nutzung (B)
 Der IT-Betrieb MUSS sicherstellen, dass Webanwendungen und Webservices vor unberechtigter automatisierter Nutzung geschützt werden.
-Dabei MUSS jedoch berücksichtigt werden, wie sich die Schutzmechanismen auf die Nutzungsmöglichkeiten berechtigter Benutzer auswirken.
+Dabei MUSS jedoch berücksichtigt werden, wie sich die Schutzmechanismen auf die Nutzungsmöglichkeiten berechtigter Clients auswirken.
 Wenn die Webanwendung RSS-Feeds oder andere Funktionen enthält, die explizit für die automatisierte Nutzung vorgesehen sind, MUSS dies ebenfalls bei der Konfiguration der Schutzmechanismen berücksichtigt werden.
 
 APP.3.1.A14 Schutz vertraulicher Daten (B)
@@ -45,12 +45,12 @@ Diese Anforderung ist entfallen.
 
 3.2. Standard-Anforderungen
 
-APP.3.1.A8 Systemarchitektur [Beschaffungsstelle] (S)
+APP.3.1.A8 Systemarchitektur (S) [Beschaffungsstelle]
 Sicherheitsaspekte SOLLTEN bereits während der Planung von Webanwendungen und Webservices betrachtet werden.
 Auch SOLLTE darauf geachtet werden, dass die Architektur der Webanwendung oder des Webservice die Geschäftslogik der Institution exakt erfasst und korrekt umsetzt.
 
 APP.3.1.A9 Beschaffung von Webanwendungen und Webservices (S)
-Zusätzlich zu den allgemeinen Aspekten der Beschaffung von Software SOLLTE die Institution mindestens Folgendes bei der Beschaffung von Webanwendungen und Webservices berücksichtigen:
+Zusätzlich zu den allgemeinen Aspekten der Beschaffung von Software SOLLTE die Institution mindestens folgendes bei der Beschaffung von Webanwendungen und Webservices berücksichtigen:
 • sichere Eingabevalidierung und Ausgabekodierung,
 • sicheres Session-Management,
 • sichere kryptografische Verfahren,
@@ -58,7 +58,7 @@ Zusätzlich zu den allgemeinen Aspekten der Beschaffung von Software SOLLTE die 
 • sichere Verfahren zum serverseitigen Speichern von Zugangsdaten,
 • geeignetes Berechtigungsmanagement,
 • ausreichende Protokollierungsmöglichkeiten,
-• regelmäßige Sicherheitsupdates durch den Entwickler der Software,
+• regelmäßige Sicherheitsupdates durch den Entwickelnden der Software,
 • Schutzmechanismen vor verbreiteten Angriffen auf Webanwendungen und Webservices sowie
 • Zugriff auf den Quelltext der Webanwendung oder des Webservices.
 
@@ -67,7 +67,7 @@ Diese Anforderung ist entfallen.
 
 APP.3.1.A11 Sichere Anbindung von Hintergrundsystemen (S)
 Der Zugriff auf Hintergrundsysteme, auf denen Funktionen und Daten ausgelagert werden, SOLLTE ausschließlich über definierte Schnittstellen und von definierten IT-Systemen aus möglich sein.
-Bei der Kommunikation über Netz- und Standortgrenzen hinweg SOLLTE der Datenverkehr authentisiert und verschlüsselt werden.
+Bei der Kommunikation über Netzund Standortgrenzen hinweg SOLLTE der Datenverkehr authentisiert und verschlüsselt werden.
 
 APP.3.1.A12 Sichere Konfiguration (S)
 Webanwendungen und Webservices SOLLTEN so konfiguriert sein, dass auf ihre Ressourcen und Funktionen ausschließlich über die vorgesehenen, abgesicherten Kommunikationspfade zugegriffen werden kann.

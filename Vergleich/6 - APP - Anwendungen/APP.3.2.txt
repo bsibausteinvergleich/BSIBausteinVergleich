@@ -1,9 +1,9 @@
-3.1 Basis-Anforderungen
+3.1. Basis-Anforderungen
 
 
 APP.3.2.A1 Sichere Konfiguration eines Webservers (B)
 Nachdem der IT-Betrieb einen Webserver installiert hat, MUSS er eine sichere Grundkonfiguration vornehmen.
-Dazu MUSS er insbesondere den Webserver-Prozess einem Benutzerkonto mit minimalen Rechten zuweisen.
+Dazu MUSS er insbesondere den Webserver-Prozess einem Konto mit minimalen Rechten zuweisen.
 Der Webserver MUSS in einer gekapselten Umgebung ausgeführt werden, sofern dies vom Betriebssystem unterstützt wird.
 Ist dies nicht möglich, SOLLTE jeder Webserver auf einem eigenen physischen oder virtuellen Server ausgeführt werden.
 Dem Webserver-Dienst MÜSSEN alle nicht notwendige Schreibberechtigungen entzogen werden.
@@ -36,42 +36,40 @@ Wenn sich Clients mit Hilfe von Passwörtern am Webserver authentisieren, MÜSSE
 APP.3.2.A6 ENTFALLEN (B)
 Diese Anforderung ist entfallen.
 
-APP.3.2.A7 Rechtliche Rahmenbedingungen für Webangebote [Fachverantwortliche, Zentrale Verwaltung, Anforderungsmanager (Compliance Manager)] (B)
-Werden über den Webserver Inhalte für Dritte publiziert oder Dienste angeboten, MÜSSEN dabei die relevantenrechtlichen Rahmenbedingungen beachtet werden.
+APP.3.2.A7 Rechtliche Rahmenbedingungen für Webangebote (B) [Fachverantwortliche, Zentrale Verwaltung, Compliance-Beauftragte]
+Werden über den Webserver Inhalte für Dritte publiziert oder Dienste angeboten, MÜSSEN dabei die relevanten rechtlichen Rahmenbedingungen beachtet werden.
 Die Institution MUSS die jeweiligen Telemedien- und Datenschutzgesetze sowie das Urheberrecht einhalten.
 
 APP.3.2.A11 Verschlüsselung über TLS (B)
 Der Webserver MUSS für alle Verbindungen durch nicht vertrauenswürdige Netze eine sichere Verschlüsselung über TLS anbieten (HTTPS).
-Falls es aus Kompatibilitätsgründen erforderlich ist, veraltete Verfahren zu verwenden SOLLTEN diese auf so wenige Fälle wie möglich beschränkt werden.
+Falls es aus Kompatibilitätsgründen erforderlich ist, veraltete Verfahren zu verwenden, SOLLTEN diese auf so wenige Fälle wie möglich beschränkt werden.
 Wenn eine HTTPS-Verbindung genutzt wird, MÜSSEN alle Inhalte über HTTPS ausgeliefert werden.
 Sogenannter Mixed Content DARF NICHT verwendet werden.
 
 
-3.2 Standard-Anforderungen
+3.2. Standard-Anforderungen
 
 APP.3.2.A8 Planung des Einsatzes eines Webservers (S)
 Es SOLLTE geplant und dokumentiert werden, für welchen Zweck der Webserver eingesetzt und welche Inhalte er bereitstellen soll.
 In der Dokumentation SOLLTEN auch die Informationen oder Dienstleistungen des Webangebots und die jeweiligen Zielgruppen beschrieben werden.
-Für den technischen Betrieb und die Webinhalte SOLLTEN geeignete Verantwortliche festgelegt werden.
+Für den technischen Betrieb und die Webinhalte SOLLTEN geeignete Zuständige festgelegt werden.
 
 APP.3.2.A9 Festlegung einer Sicherheitsrichtlinie für den Webserver (S)
-Es SOLLTE eine Sicherheitsrichtlinie erstellt werden, in der die erforderlichen Maßnahmen und Verantwortlichkeiten benannt sind.
+Es SOLLTE eine Sicherheitsrichtlinie erstellt werden, in der die erforderlichen Maßnahmen und Zuständigkeiten benannt sind.
 Weiterhin SOLLTE geregelt werden, wie Informationen zu aktuellen Sicherheitslücken besorgt werden.
 Auch SOLLTE geregelt werden, wie Sicherheitsmaßnahmen umgesetzt werden und wie vorgegangen werden soll, wenn Sicherheitsvorfälle eintreten.
 
 APP.3.2.A10 Auswahl eines geeigneten Webhosters (S)
-Betreibt die Institution den Webserver nicht selbst, sondern nutzt Angebote externer Dienstleister im Rahmen von Webhosting, SOLLTE die Institution bei der Auswahl eines geeigneten Webhosters auf folgende Punkte achten:
-• Es SOLLTE vertraglich geregelt werden, wie die Dienste zu erbringen sind.
-Dabei SOLLTEN Sicherheitsaspekte innerhalb des Vertrags schriftlich in einem Service Level Agreement (SLA) festgehalten werden.
-• Die eingesetzten IT-Systeme SOLLTEN vom Dienstleister regelmäßig kontrolliert und gewartet werden.
-Er SOLLTE dazu verpflichtet werden, bei technischen Problemen oder einer Kompromittierung von Kundensystemen zeitnah zu reagieren.
-• Der Dienstleister SOLLTE grundlegende technische und organisatorische Maßnahmen umsetzen, um seinen Informationsverbund zu schützen.
+Betreibt die Institution den Webserver nicht selbst, sondern nutzt Angebote externer Unternehmen im Rahmen von Webhosting, SOLLTE die Institution bei der Auswahl eines geeigneten Webhosters auf folgende Punkte achten:
+• Es SOLLTE vertraglich geregelt werden, wie die Dienste zu erbringen sind. Dabei SOLLTEN Sicherheitsaspekte innerhalb des Vertrags schriftlich in einem Service Level Agreement (SLA) festgehalten werden.
+• Die eingesetzten IT-Systeme SOLLTEN vom Webhoster regelmäßig kontrolliert und gewartet werden. Der Webhoster SOLLTE dazu verpflichtet werden, bei technischen Problemen oder einer Kompromittierung von Kundschaftssystemen zeitnah zu reagieren.
+• Der Webhoster SOLLTE grundlegende technische und organisatorische Maßnahmen umsetzen, um seinen Informationsverbund zu schützen.
 
 APP.3.2.A12 Geeigneter Umgang mit Fehlern und Fehlermeldungen (S)
 Aus den HTTP-Informationen und den angezeigten Fehlermeldungen SOLLTEN weder der Produktname noch die verwendete Version des Webservers ersichtlich sein.
 Fehlermeldungen SOLLTEN keine Details zu Systeminformationen oder Konfigurationen ausgeben.
-Der IT-Betrieb SOLLTE sicherstellen, dass der Webserver ausschließlich allgemeine Fehlermeldungen ausgibt, die den Benutzer darauf hinweisen, dass ein Fehler aufgetreten ist.
-Die Fehlermeldung SOLLTE ein eindeutiges Merkmal enthalten, das es Administratoren ermöglicht, den Fehler nachzuvollziehen.
+Der IT-Betrieb SOLLTE sicherstellen, dass der Webserver ausschließlich allgemeine Fehlermeldungen ausgibt, die Clients darauf hinweisen, dass ein Fehler aufgetreten ist.
+Die Fehlermeldung SOLLTE ein eindeutiges Merkmal enthalten, das es dem IT-Betrieb ermöglicht, den Fehler nachzuvollziehen.
 Bei unerwarteten Fehlern SOLLTE sichergestellt sein, dass der Webserver nicht in einem Zustand verbleibt, in dem er anfällig für Angriffe ist.
 
 APP.3.2.A13 Zugriffskontrolle für Webcrawler (S)
@@ -79,7 +77,7 @@ Der Zugriff von Webcrawlern SOLLTE nach dem Robots-Exclusion-Standard geregelt w
 Inhalte SOLLTEN mit einem Zugriffsschutz versehen werden, um sie vor Webcrawlern zu schützen, die sich nicht an diesen Standard halten.
 
 APP.3.2.A14 Integritätsprüfungen und Schutz vor Schadsoftware (S)
-Der IT-Betrieb SOLLTE regelmäßig prüfen, ob die Konfigurationen des Webservers und die von ihm bereitgestellten Dateien noch integer sind und nicht durch Angreifer verändert wurden.
+Der IT-Betrieb SOLLTE regelmäßig prüfen, ob die Konfigurationen des Webservers und die von ihm bereitgestellten Dateien noch integer sind und nicht durch Angriffe verändert wurden.
 Die zur Veröffentlichung vorgesehenen Dateien SOLLTEN regelmäßig auf Schadsoftware geprüft werden.
 
 APP.3.2.A16 Penetrationstest und Revision (S)
@@ -89,14 +87,14 @@ Die Ergebnisse SOLLTEN nachvollziehbar dokumentiert, ausreichend geschützt und 
 Abweichungen SOLLTE nachgegangen werden.
 Die Ergebnisse SOLLTEN dem ISB vorgelegt werden.
 
-APP.3.2.A20 Benennung von Ansprechpartnern [Zentrale Verwaltung] (S)
-Bei umfangreichen Webangeboten SOLLTE die Institution einen Ansprechpartner für die Webangebote bestimmen.
-Es SOLLTEN Prozesse, Vorgehensweisen und Verantwortliche für Probleme oder Sicherheitsvorfälle benannt werden.
-Die Institution SOLLTE eine Kontaktmöglichkeit auf ihrer Webseite veröffentlichen, über die Externe Sicherheitsprobleme an die Institution melden können.
+APP.3.2.A20 Benennung von Anzusprechenden (S) [Zentrale Verwaltung]
+Bei umfangreichen Webangeboten SOLLTE die Institution zentrale Anzusprechende für die Webangebote bestimmen.
+Es SOLLTEN Prozesse, Vorgehensweisen und Zuständige für Probleme oder Sicherheitsvorfälle benannt werden.
+Die Institution SOLLTE eine Kontaktmöglichkeit auf ihrer Webseite veröffentlichen, über die Sicherheitsprobleme an die Institution gemeldet werden können.
 Für die Behandlung von externen Sicherheitsmeldungen SOLLTE die Institution Prozesse definieren.
 
 
-3.3 Anforderungen bei erhöhtem Schutzbedarf
+3.3. Anforderungen bei erhöhtem Schutzbedarf
 
 APP.3.2.A15 Redundanz (H)
 Webserver SOLLTEN redundant ausgelegt werden.

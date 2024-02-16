@@ -1,4 +1,4 @@
-3.1 Basis-Anforderungen
+3.1. Basis-Anforderungen
 
 
 APP.3.6.A1 Planung des DNS-Einsatzes (B)
@@ -43,12 +43,13 @@ DNS-Server MÜSSEN so konfiguriert werden, dass mindestens die folgenden sicherh
 • auslaufende Zonen sowie
 • fehlgeschlagene Zonentransfers.
 
-APP.3.6.A8 Verwaltung von Domainnamen [Zentrale Verwaltung] (B)
-Es MUSS sichergestellt sein, dass die Registrierungen für alle Domains, die von einer Institution benutzt werden,regelmäßig und rechtzeitig verlängert werden.
-Ein Mitarbeiter MUSS bestimmt werden, der dafür zuständig ist, die Internet-Domainnamen zu verwalten.
-Falls ein Internetdienstleister mit der Domainverwaltung beauftragt wird, MUSS darauf geachtet werden, dass die Institution die Kontrolle über die Domains behält.
+APP.3.6.A8 Verwaltung von Domainnamen (B) [Zentrale Verwaltung]
+Es MUSS sichergestellt sein, dass die Registrierungen für alle Domains, die von einer Institution benutzt werden, regelmäßig und rechtzeitig verlängert werden.
+Eine Person MUSS bestimmt werden, die dafür zuständig ist, die Internet-Domainnamen zu verwalten.
+Falls Dienstleistende mit der Domainverwaltung beauftragt werden, MUSS darauf geachtet werden, dass die Institution die Kontrolle über die Domains behält.
 
 APP.3.6.A9 Erstellen eines Notfallplans für DNS-Server (B)
+
 Ein Notfallplan für DNS-Server MUSS erstellt werden.
 Der Notfallplan für DNS-Server MUSS in die bereits vorhandenen Notfallpläne der Institution integriert werden.
 Im Notfallplan für DNS-Server MUSS ein Datensicherungskonzept für die Zonen- und Konfigurationsdateien beschrieben sein.
@@ -56,12 +57,12 @@ Das Datensicherungskonzept für die Zonen- und Konfigurationsdateien MUSS in das
 Der Notfallplan für DNS-Server MUSS einen Wiederanlaufplan für alle DNS-Server im Informationsverbund enthalten.
 
 
-3.2 Standard-Anforderungen
+3.2. Standard-Anforderungen
 
 APP.3.6.A10 Auswahl eines geeigneten DNS-Server-Produktes (S)
 Wird ein DNS-Server-Produkt beschafft, dann SOLLTE darauf geachtet werden, dass es sich in der Praxis ausreichend bewährt hat.
 Das DNS-Server-Produkt SOLLTE die aktuellen RFC-Standards unterstützen.
-Das DNS-Server-Produkt SOLLTE den Zuständigen dabei unterstützen, syntaktisch korrekte Master Files zu erstellen.
+Das DNS-Server-Produkt SOLLTE die Zuständigen dabei unterstützen, syntaktisch korrekte Master Files zu erstellen.
 
 APP.3.6.A11 Ausreichende Dimensionierung der DNS-Server (S)
 Die Hardware des DNS-Servers SOLLTE ausreichend dimensioniert sein.
@@ -106,7 +107,7 @@ APP.3.6.A19 Aussonderung von DNS-Servern (S)
 Der DNS-Server SOLLTE sowohl aus dem Domain-Namensraum als auch aus dem Netzverbund gelöscht werden.
 
 
-3.3 Anforderungen bei erhöhtem Schutzbedarf
+3.3. Anforderungen bei erhöhtem Schutzbedarf
 
 APP.3.6.A20 Prüfung des Notfallplans auf Durchführbarkeit (H)
 Es SOLLTE regelmäßig überprüft werden, ob der Notfallplan für DNS-Server durchführbar ist.
