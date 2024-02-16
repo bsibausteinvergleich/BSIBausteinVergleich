@@ -10,7 +10,6 @@ Bevor Dateianhänge aus E-Mails geöffnet werden, MÜSSEN sie auf dem Client von
 E-Mail-Clients MÜSSEN so konfiguriert werden, dass sie eventuell vorhandenen HTML-Code und andere aktive Inhalte in E-Mails nicht automatisch interpretieren.
 Vorschaufunktionen für Datei-Anhänge MÜSSEN so konfiguriert werden, dass sie Dateien nicht automatisch interpretieren.
 E-Mail-Filterregeln sowie die unkontrollierte, automatische Weiterleitung von E-Mails MÜSSEN auf notwendige Anwendungsfälle beschränkt werden.
-
 E-Mail-Clients MÜSSEN für die Kommunikation mit E-Mail-Servern über nicht vertrauenswürdige Netze eine sichere Transportverschlüsselung einsetzen.
 
 APP.5.3.A2 Sicherer Betrieb von E-Mail-Servern (B)
@@ -77,8 +76,7 @@ Sie SOLLTEN Links in diesen E-Mails nicht folgen.
 Falls die Institution über ein zentrales Spam-Management verfügt, SOLLTEN Benutzer Spam-E-Mails an dieses weiterleiten und die E-Mails danach löschen.
 
 APP.5.3.A9 Erweiterte Sicherheitsmaßnahmen auf dem E-Mail-Server (S)
-Die E-Mail-Server einer Institution SOLLTEN eingehende E-Mails mittels des Sender Policy Framework (SPF) und mit
-Hilfe von DomainKeys überprüfen.
+Die E-Mail-Server einer Institution SOLLTEN eingehende E-Mails mittels des Sender Policy Framework (SPF) und mit Hilfe von DomainKeys überprüfen.
 Die Institution SOLLTE selbst DomainKeys und SPF einsetzen, um von ihr versendete E-Mails zu authentisieren.
 Wird SPF verwendet, SOLLTE eindeutig vorgegeben werden, wie mit E-Mails verfahren werden soll.
 Der Softfail-Parameter („~“) SOLLTE nur zu Testzwecken verwendet werden.

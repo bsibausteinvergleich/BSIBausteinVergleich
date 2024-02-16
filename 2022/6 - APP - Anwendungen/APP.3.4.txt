@@ -3,14 +3,15 @@
 
 APP.3.4.A1 Planung des Einsatzes eines Samba-Servers (B)
 Der IT-Betrieb MUSS die Einführung eines Samba-Servers sorgfältig planen und regeln.
-Sie MUSS abhängig vom Einsatzszenario definieren, welche Aufgaben der Samba-Server zukünftig erfüllen soll und in welcher Betriebsart
-er betrieben wird. Außerdem MUSS festgelegt werden, welche Komponenten von Samba und welche weiteren Komponenten dafür erforderlich sind.
+Sie MUSS abhängig vom Einsatzszenario definieren, welche Aufgaben der Samba-Server zukünftig erfüllen soll und in welcher Betriebsart er betrieben wird.
+Außerdem MUSS festgelegt werden, welche Komponenten von Samba und welche weiteren Komponenten dafür erforderlich sind.
 Soll die Cluster-Lösung CTDB (Cluster Trivia Data Base) eingesetzt werden, MUSS der IT-Betrieb diese Lösung sorgfältig konzeptionieren.
-Falls Samba die Active-Directory-(AD)-Dienste auch für Linux- und Unix-Systeme bereitstellen soll, MÜSSEN diese Diente ebenfalls sorgfältig geplant und getestet werden.
+Falls Samba die Active-Directory-(AD)-Dienste auch für Linux- und Unix-Systeme bereitstellen soll, MÜSSEN diese Dienste ebenfalls sorgfältig geplant und getestet werden.
 Des Weiteren MUSS das Authentisierungsverfahren für das AD sorgfältig konzipiert und implementiert werden.
 Die Einführung und die Reihenfolge, in der die Stackable-Virtual-File-System-(VFS)-Module ausgeführt werden, MUSS sorgfältig konzipiert werden.
 Die Umsetzung SOLLTE dokumentiert werden.
-Soll IPv6 unter Samba eingesetzt werden, MUSS auch dies sorgfältig geplant werden Zudem MUSS in einer betriebsnahen Testumgebung überprüft werden, ob die Integration fehlerfrei funktioniert.
+Soll IPv6 unter Samba eingesetzt werden, MUSS auch dies sorgfältig geplant werden.
+Zudem MUSS in einer betriebsnahen Testumgebung überprüft werden, ob die Integration fehlerfrei funktioniert.
 
 APP.3.4.A2 Sichere Grundkonfiguration eines Samba-Servers (B)
 Der IT-Betrieb MUSS den Samba-Server sicher konfigurieren.

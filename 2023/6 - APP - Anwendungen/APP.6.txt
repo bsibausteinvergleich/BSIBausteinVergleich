@@ -67,7 +67,7 @@ Fachverantwortliche SOLLTEN gemeinsam mit dem IT-Betrieb anhand der Bewertungen 
 
 APP.6.A8 Regelung zur Verfügbarkeit der Installationsdateien (S)
 Der IT-Betrieb SOLLTE die Verfügbarkeit der Installationsdateien sicherstellen, um die Installation reproduzieren zu können.
-Hierzu SOLLTE der IT-Betrieb 
+Hierzu SOLLTE der IT-Betrieb
 • die Installationsdateien geeignet sichern oder
 • die Verfügbarkeit der Installationsdateien durch die Bezugsquelle (z. B. App-Store) sicherstellen.
 Zusätzlich SOLLTE sichergestellt werden, dass Software reproduzierbar konfiguriert werden kann.

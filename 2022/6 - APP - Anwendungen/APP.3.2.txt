@@ -61,10 +61,8 @@ Auch SOLLTE geregelt werden, wie Sicherheitsmaßnahmen umgesetzt werden und wie 
 
 APP.3.2.A10 Auswahl eines geeigneten Webhosters (S)
 Betreibt die Institution den Webserver nicht selbst, sondern nutzt Angebote externer Dienstleister im Rahmen von Webhosting, SOLLTE die Institution bei der Auswahl eines geeigneten Webhosters auf folgende Punkte achten:
-• Es SOLLTE vertraglich geregelt werden, wie die Dienste zu erbringen sind.
-Dabei SOLLTEN Sicherheitsaspekte innerhalb des Vertrags schriftlich in einem Service Level Agreement (SLA) festgehalten werden.
-• Die eingesetzten IT-Systeme SOLLTEN vom Dienstleister regelmäßig kontrolliert und gewartet werden.
-Er SOLLTE dazu verpflichtet werden, bei technischen Problemen oder einer Kompromittierung von Kundensystemen zeitnah zu reagieren.
+• Es SOLLTE vertraglich geregelt werden, wie die Dienste zu erbringen sind. Dabei SOLLTEN Sicherheitsaspekte innerhalb des Vertrags schriftlich in einem Service Level Agreement (SLA) festgehalten werden.
+• Die eingesetzten IT-Systeme SOLLTEN vom Dienstleister regelmäßig kontrolliert und gewartet werden. Er SOLLTE dazu verpflichtet werden, bei technischen Problemen oder einer Kompromittierung von Kundensystemen zeitnah zu reagieren.
 • Der Dienstleister SOLLTE grundlegende technische und organisatorische Maßnahmen umsetzen, um seinen Informationsverbund zu schützen.
 
 APP.3.2.A12 Geeigneter Umgang mit Fehlern und Fehlermeldungen (S)

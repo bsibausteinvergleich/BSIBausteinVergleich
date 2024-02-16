@@ -835,7 +835,252 @@ Die Anforderung erhöhten Schutzbedarfs wurde neu hinzugefügt.
 *Dabei MUSS berücksichtigt werden, dass zwischen den einzelnen Domänen einer Gesamtstruktur produktbedingt keine Sicherheitsgrenzen bestehen und daher keine sichere Begrenzung der administrativen Bereiche innerhalb einer Gesamtstruktur möglich ist.*
 
 
-#### APP.2.2.A2 ist ohne Angabe entfallen, wird im 2023er-Kompendium nicht mehr erwähnt, auch nicht der Wegfall.
+#### APP.2.2.A2
+
+Die Anforderung ist ohne Angabe entfallen, wird im 2023er-Kompendium nicht mehr erwähnt, auch nicht der Wegfall.
+
+
+#### APP.2.2.A5
+
+Die Anforderung wurde grundlegend überarbeitet und handelt nun von der "*Absicherung des Domänencontrollers*".
+
+
+#### APP.2.2.A6
+
+Die Anforderung wurde grundlegend überarbeitet und handelt nun von der "*Sicheren Konfiguration von Vertrauensbeziehungen*".
+
+
+#### APP.2.2.A7
+
+Die Anforderung wurde inhaltlich vollständig überarbeitet.
+
+
+#### APP.2.2.A16
+
+Die Basis-Anforderung wurde neu hinzugefügt.
+
+
+#### APP.2.2.A17
+
+Die Basis-Anforderung wurde neu hinzugefügt.
+
+
+#### APP.2.2.A18
+
+Die Basis-Anforderung wurde neu hinzugefügt.
+
+
+#### APP.2.2.A8
+
+##### Entfallen:
+
+*Dabei SOLLTEN alle relevanten Gruppenrichtlinienparameter berücksichtigt werden.*
+
+
+##### Geändert:
+
+*Der „Sichere Kanal“ SOLLTE so konfiguriert sein, dass alle übertragenen Daten immer verschlüsselt und signiert werden.*
+
+
+#### APP.2.2.A9
+
+Die Anforderung wurde inhaltlich vollständig überarbeitet.
+
+
+#### APP.2.2.A10 entfallen
+
+
+#### APP.2.2.A11 entfallen
+
+
+#### APP.2.2.A12
+
+Die Anforderung wurde inhaltlic vollständig überarbeitet.
+
+
+#### APP.2.2.A14 entfallen
+
+
+#### APP.2.2.A15
+
+Die Anforderung wurde inhaltlic vollständig überarbeitet.
+
+
+#### APP.2.2.A19
+
+Die Anforderung für erhöhten Schutzbedarf wurde neu hinzugefügt.
+
+
+#### APP.2.2.A20
+
+Die Anforderung für erhöhten Schutzbedarf wurde neu hinzugefügt.
+
+
+#### APP.2.2.A21
+
+Die Anforderung für erhöhten Schutzbedarf wurde neu hinzugefügt.
+
+
+#### APP.2.2.A22
+
+Die Anforderung für erhöhten Schutzbedarf wurde neu hinzugefügt.
+
+
+#### APP.2.2.A23
+
+Die Anforderung für erhöhten Schutzbedarf wurde neu hinzugefügt.
+
+
+### APP.2.3
+
+#### APP.2.3.A9
+
+##### Geändert:
+
+*Bei einer Partitionierung oder Replikation von OpenLDAP SOLLTE die Aufteilung geeignet für die Sicherheitsziele ausgewählt werden.*
+
+#### APP.2.3.A10
+
+##### Neu:
+
+*Beim Update auf neue Releases SOLLTE geprüft werden, ob die verwendeten Overlays und Backends in der neuen Version weiterhin zur Verfügung stehen.*
+
+*Ist dies nicht der Fall, SOLLTEN geeignete Migrationspfade ausgewählt werden.*
+
+#### APP.2.3.A11
+
+##### Entfallen:
+
+*Der slapd-Server SOLLTE auf ein Laufzeitverzeichnis eingeschränkt werden.*
+
+*Hierfür SOLLTE dieses Verzeichnis alle Konfigurationsdateien und Datenbanken beinhalten.*
+
+
+##### Neu:
+
+*Die Laufzeitumgebung des slapd-Servers SOLLTE, möglichst mit Mitteln des Betriebssystems, auf die minimal benötigten Dateien, Verzeichnisse und vom Betriebssystem bereitgestellten Funktionen eingeschränkt werden.*
+
+*Werden hierfür Containerisierungstechniken eingesetzt, SOLLTEN diese unter Berücksichtigung von SYS.1.6 Containerisierung genutzt werden.*
+
+*Wird der slapd-Server als exklusiver Dienst auf einem dedizierten Server betrieben, SOLLTE dieser ausreichend gehärtet sein.*
+
+
+### APP.3.1
+
+Keine inhaltlichen Änderungen.
+
+
+### APP.3.2
+
+Keine inhaltlichen Änderungen.
+
+
+### APP.3.3
+
+Keine inhaltlichen Änderungen.
+
+
+### APP.3.4
+
+#### APP.3.4.A6
+
+##### Entfallen:
+
+*Dabei SOLLTE Winbind Domänen-Benutzernamen in eindeutige Unix-Benutzernamen umsetzen.*
+
+
+### APP.3.6
+
+Keine inhaltlichen Änderungen.
+
+
+### APP.4.2
+
+Keine inhaltlichen Änderungen.
+
+
+### APP.4.3
+
+Keine inhaltlichen Änderungen.
+
+
+### APP.4.4
+
+Keine inhaltlichen Änderungen.
+
+
+### APP.4.6
+
+Keine inhaltlichen Änderungen.
+
+
+### APP.5.2
+
+Keine inhaltlihcen Änderungen.
+
+
+### APP.5.3
+
+#### APP.5.3.A1
+
+##### Geändert:
+
+*Bevor Dateianhänge aus E-Mails geöffnet werden, MÜSSEN sie auf Schadsoftware überprüft werden.*
+
+*Die Dateianhänge MÜSSEN auf dem Client oder auf dem E-Mail-Server überprüft werden.*
+
+
+#### APP.5.3.A2
+
+##### Neu:
+
+*Der Empfang von E-Mails über unverschlüsselte Verbindungen SOLLTE deaktiviert werden.*
+
+*Der IT-Betrieb SOLLTE den E-Mail-Versand durch unsichere Netze über unverschlüsselte Verbindungen deaktivieren.*
+
+*Der IT-Betrieb MUSS den E-Mail-Server so konfigurieren, dass E-Mail-Clients nur über eine sichere Transportverschlüsselung auf Postfächer zugreifen können, wenn dies über nicht vertrauenswürdige Netze passiert.*
+
+
+##### Geändert:
+
+*Für den E-Mail-Empfang über nicht vertrauenswürdige Netze MÜSSEN E-Mail-Server eine sichere Transportverschlüsselung anbieten.*
+
+
+#### APP.5.3.A6
+
+##### Entfallen:
+
+*• wie sich die Kommunikation absichern lässt,*
+
+
+#### APP.5.3.A9
+
+##### Entfallen:
+
+*Wird SPF verwendet, SOLLTE eindeutig vorgegeben werden, wie mit E-Mails verfahren werden soll.*
+
+##### Neu:
+
+*Wird SPF verwendet, SOLLTEN alle sendeberechtigten E-Mail-Server für eine Domain im SPF-Eintrag angegeben werden.*
+
+*Der SPF-Eintrag SOLLTE den „-all“ Parameter enthalten.*
+
+*DMARC-Einträge SOLLTEN vorgeben, dass E-Mails im Fehlerfall abgewiesen werden.*
+
+
+### APP.5.4
+
+Der Baustein wurde neu hinzugefügt.
+
+
+### APP.6
+
+Keine inhaltlichen Änderungen.
+
+
+### APP.7
+
+Keine inhaltlichen Änderungen.
 
 
 

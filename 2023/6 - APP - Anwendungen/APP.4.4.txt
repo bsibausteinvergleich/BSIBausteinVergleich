@@ -125,4 +125,5 @@ Die Dateisysteme mit den persistenten Daten der Control Plane (hier besonders et
 
 APP.4.4.A21 Regelmäßiger Restart von Pods (H)
 Bei einem erhöhten Risiko für Fremdeinwirkung und einem sehr hohen Schutzbedarf SOLLTEN Pods regelmäßig gestoppt und neu gestartet werden.
-Kein Pod SOLLTE länger als 24 Stunden laufen. Dabei SOLLTE die Verfügbarkeit der Anwendungen im Pod sichergestellt sein.
+Kein Pod SOLLTE länger als 24 Stunden laufen.
+Dabei SOLLTE die Verfügbarkeit der Anwendungen im Pod sichergestellt sein.

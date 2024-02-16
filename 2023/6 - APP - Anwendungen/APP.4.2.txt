@@ -55,7 +55,8 @@ Nicht mehr benutzte RFC-Verbindungen MÜSSEN gelöscht werden.
 Alle RFC-Gateways MÜSSEN sicher administriert werden.
 Dazu MÜSSEN geeignete Profilparameter gesetzt werden, z. B. gw/monitor, gw/reg_no_conn_info und snc/permit_insecure_start.
 Alle Verbindungen über ein Gateway MÜSSEN unter dem Sicherheitsaspekt analysiert und bewertet werden.
-Außerdem MUSS die Protokollierung aktiv sein. Es MÜSSEN Zugriffssteuerungslisten (ACLs) definiert werden.
+Außerdem MUSS die Protokollierung aktiv sein.
+Es MÜSSEN Zugriffssteuerungslisten (ACLs) definiert werden.
 
 APP.4.2.A9 Absicherung und Überwachung des Message-Servers (B)
 Der Message-Server MUSS durch geeignete Einstellungen in den Profilparametern abgesichert werden.
@@ -150,7 +151,8 @@ Die Kommunikation SOLLTE verschlüsselt erfolgen.
 
 APP.4.2.A25 Sichere Konfiguration des SAP Web Dispatchers (S)
 Der SAP Web Dispatcher SOLLTE nicht der erste Einstiegspunkt aus dem Internet zum SAP-ERP-System sein.
-Der SAP Web Dispatcher SOLLTE auf dem aktuellen Stand sein. Er SOLLTE sicher konfiguriert sein.
+Der SAP Web Dispatcher SOLLTE auf dem aktuellen Stand sein.
+Er SOLLTE sicher konfiguriert sein.
 
 APP.4.2.A26 Schutz von selbstentwickeltem Code im SAP-ERP-System (S)
 Es SOLLTE ein Custom-Code-Managementprozess definiert werden, damit selbstentwickelter Code ausgetauscht oder entfernt wird, falls er durch SAP-Standard-Code ersetzt werden kann oder er nicht mehr benutzt wird.
