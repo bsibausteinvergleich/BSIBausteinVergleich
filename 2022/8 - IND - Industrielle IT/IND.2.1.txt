@@ -1,5 +1,6 @@
 3.1 Basis-Anforderungen
 
+
 IND.2.1.A1 Einschränkung des Zugriffs auf Konfigurations- und Wartungsschnittstellen [OT-Betrieb (Operational Technology, OT)] (B)
 Standardmäßig eingerichtete bzw. vom Hersteller gesetzte Passwörter MÜSSEN gewechselt werden (siehe ORP.4 Identitäts- und Berechtigungsmanagement).
 Der Wechsel MUSS dokumentiert werden.
@@ -8,7 +9,6 @@ Es MUSS sichergestellt werden, dass nur berechtigte Mitarbeiter auf Konfiguratio
 Die Konfiguration von ICS-Komponenten DARF NUR nach einer Freigabe durch den Verantwortlichen oder nach einer Authentisierung geändert werden.
 
 IND.2.1.A2 Nutzung sicherer Übertragungs-Protokolle für die Konfiguration und Wartung [Wartungspersonal, OT-Betrieb (Operational Technology, OT)] (B)
-
 Für die Konfiguration und Wartung von ICS-Komponenten MÜSSEN sichere Protokolle eingesetzt werden.
 Die Informationen MÜSSEN geschützt übertragen werden.
 

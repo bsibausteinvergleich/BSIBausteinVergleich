@@ -1083,6 +1083,55 @@ Keine inhaltlichen Änderungen.
 Keine inhaltlichen Änderungen.
 
 
+--
+
+## IND
+
+### IND.1
+
+Keine inhaltlichen Änderungen.
+
+
+### IND.2.1
+
+Keine inhaltlichen Änderungen.
+
+
+### IND.2.2
+
+Keine inhaltlichen Änderungen.
+
+
+### IND.2.3
+
+Keine inhaltlichen Änderungen.
+
+
+### IND.2.4
+
+Keine inhaltlichen Änderungen.
+
+
+### IND.2.7
+
+Keine inhaltlichen Änderungen.
+
+
+### IND.3.2
+
+#### IND.3.2.A1
+
+##### Neu:
+
+*• spezifische gesetzliche Vorgaben, z. B. Schutz von Personen,*
+
+
+#### IND.3.2.A4
+
+##### Neu:
+
+*Im industriellen Umfeld MUSS sichergestellt werden, dass Personen an oder in Anlagen und Maschinen weder direkt noch indirekt durch eine aktive Fernwartung gefährdet werden können.*
+
 
 
 ---
@@ -1338,6 +1387,14 @@ Bei allen NET-Bausteinen finden sich keinerlei inhaltliche Änderungen.
 ### NET.3.4 Network Access Control (NAC)
 
 Der Baustein wurde neu hinzugefügt.
+
+
+---
+
+
+## INF
+
+
 
 
 ---

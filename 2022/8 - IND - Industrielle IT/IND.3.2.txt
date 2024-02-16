@@ -1,5 +1,6 @@
 3.1. Basis-Anforderungen
 
+
 IND.3.2.A1 Planung des Einsatzes der Fernwartung in der OT (B) [Planer]
 Im industriellen Umfeld MUSS für sämtliche Einrichtungen zur Fernwartung ein einheitliches, zentrales Fernwartungskonzept für die gesamte OT der Institution erstellt werden.
 In dem OT-Fernwartungskonzept MÜSSEN folgende Aspekte berücksichtigt werden:

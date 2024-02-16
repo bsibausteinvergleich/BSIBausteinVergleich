@@ -1,5 +1,6 @@
 3.1 Basis-Anforderungen
 
+
 IND.1.A1 Einbindung in die Sicherheitsorganisation (B)
 Ein Managementsystem für Informationssicherheit (ISMS) für den Betrieb der OT-Infrastruktur MUSS entweder als selbständiges ISMS oder als Teil eines Gesamt-ISMS existieren.
 Ein Gesamtverantwortlicher für die Informationssicherheit im OT-Bereich MUSS benannt werden.
@@ -30,7 +31,8 @@ In einem Bestandsverzeichnis SOLLTEN alle Software- und Systemkomponenten gefüh
 Hieraus SOLLTEN die eingesetzten Produkt- und Protokollversionen sowie die Zuständigkeiten hervorgehen.
 Zu den eingesetzten Komponenten SOLLTEN eventuelle Restriktionen der Hersteller oder regulatorische Auflagen bestimmt sein.
 Diese Dokumentation und ein Systeminventar SOLLTEN beispielsweise in einem Leitsystem geführt werden.
-Zusätzlich SOLLTE ein aktueller Netzplan Zonen, Zonenübergänge (Conduits), eingesetzte Kommunikationsprotokolle und -verfahren sowie Außenschnittstellen dokumentieren. Bei den Schnittstellen SOLLTEN aktive Netzkomponenten und manuelle Datentransferverfahren, z. B. durch Wechseldatenträger, berücksichtigt werden.
+Zusätzlich SOLLTE ein aktueller Netzplan Zonen, Zonenübergänge (Conduits), eingesetzte Kommunikationsprotokolle und -verfahren sowie Außenschnittstellen dokumentieren.
+Bei den Schnittstellen SOLLTEN aktive Netzkomponenten und manuelle Datentransferverfahren, z. B. durch Wechseldatenträger, berücksichtigt werden.
 Zonen und Conduits schützen die OT-Infrastrukur, indem die Automatisierungslösung in Zellen und Kommunikationskanälen strukturiert werden SOLLTE.
 
 IND.1.A5 Entwicklung eines geeigneten Zonenkonzepts [Planer] (S)
