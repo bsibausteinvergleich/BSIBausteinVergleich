@@ -6,8 +6,8 @@ Der Einsatz der Fernwartung MUSS an die Institution angepasst werden.
 Die Fernwartung MUSS hinsichtlich technischer und organisatorischer Aspekte bedarfsgerecht geplant werden.
 Dabei MUSS mindestens berücksichtigt werden, welche IT-Systeme ferngewartet werden sollen und wer dafür zuständig ist.
 
-OPS.1.2.5.A2 Sicherer Verbindungsaufbau bei der Fernwartung von Clients [Benutzer] (B)
-Wird per Fernwartung auf Desktop-Umgebungen von Clients zugegriffen, MUSS der Benutzer des IT-Systems diesem Zugriff explizit zustimmen.
+OPS.1.2.5.A2 Sicherer Verbindungsaufbau bei der Fernwartung von Clients (B) [Benutzende]
+Wird per Fernwartung auf Desktop-Umgebungen von Clients zugegriffen, MUSS die Fernwartungssoftware so konfiguriert sein, dass sie eine Verbindung erst nach expliziter Zustimmung der Benutzenden aufbaut.
 
 OPS.1.2.5.A3 Absicherung der Schnittstellen zur Fernwartung (B)
 Die möglichen Zugänge und Kommunikationsverbindungen für die Fernwartung MÜSSEN auf das notwendige Maß beschränkt werden.
@@ -23,14 +23,14 @@ Diese Anforderung ist entfallen.
 3.2. Standard-Anforderungen
 
 OPS.1.2.5.A5 Einsatz von Online-Diensten (S)
-Die Institution SOLLTE festlegen, unter welchen Umständen Online-Dienste zur Fernwartung genutzt werden dürfen, bei denen die Verbindung über einen externen Dienstleister hergestellt wird.
+Die Institution SOLLTE festlegen, unter welchen Umständen Online-Dienste zur Fernwartung genutzt werden dürfen, bei denen die Verbindung über einen externen Server hergestellt wird.
 Der Einsatz solcher Dienste SOLLTE generell auf möglichst wenige Fälle beschränkt werden.
 Die IT-Systeme SOLLTEN keine automatisierten Verbindungen zum Online-Dienst aufbauen.
 Es SOLLTE sichergestellt werden, dass der eingesetzte Online-Dienst die übertragenen Informationen Ende-zu-Ende-verschlüsselt.
 
 OPS.1.2.5.A6 Erstellung einer Richtlinie für die Fernwartung (S)
 Die Institution SOLLTE eine Richtlinie zur Fernwartung erstellen, in der alle relevanten Regelungen zur Fernwartung dokumentiert werden.
-Die Richtlinie SOLLTE allen Verantwortlichen bekannt sein, die an der Konzeption, dem Aufbau und dem Betrieb der Fernwartung beteiligt sind.
+Die Richtlinie SOLLTE allen Zuständigen bekannt sein, die an der Konzeption, dem Aufbau und dem Betrieb der Fernwartung beteiligt sind.
 
 OPS.1.2.5.A7 Dokumentation bei der Fernwartung (S)
 Die Fernwartung SOLLTE geeignet dokumentiert werden.
@@ -40,20 +40,20 @@ Die Dokumente SOLLTEN im Rahmen des Notfallmanagements zur Verfügung stehen.
 
 OPS.1.2.5.A8 Sichere Protokolle bei der Fernwartung (S)
 Nur als sicher eingestufte Kommunikationsprotokolle SOLLTEN eingesetzt werden.
-Dafür SOLLTEN sichere kryptografische Verfahren eingesetzt werden.
+Dafür SOLLTEN sichere kryptografische Verfahren verwendet werden.
 Die Stärke der verwendeten kryptografischen Verfahren und Schlüssel SOLLTE regelmäßig überprüft und bei Bedarf angepasst werden.
 Wird auf die Fernwartungszugänge von IT-Systemen im internen Netz über ein öffentliches Datennetz zugegriffen, SOLLTE ein abgesichertes Virtuelles Privates Netz (VPN) genutzt werden.
 
 OPS.1.2.5.A9 Auswahl und Beschaffung geeigneter Fernwartungswerkzeuge (S)
 Die Auswahl geeigneter Fernwartungswerkzeuge SOLLTE sich aus den betrieblichen, sicherheitstechnischen und datenschutzrechtlichen Anforderungen der Institution ergeben.
-Alle Beschaffungsentscheidungen SOLLTEN mit dem System- und Anwendungsverantwortlichen sowie dem Informationssicherheitsbeauftragten abgestimmt werden.
+Alle Beschaffungsentscheidungen SOLLTEN mit den System- und Anwendungsverantwortlichen sowie dem oder der Informationssicherheitsbeauftragten abgestimmt werden.
 
-OPS.1.2.5.A10 Verwaltung der Fernwartungswerkzeuge (S)
-Organisatorische Verwaltungsprozesse zum Umgang mit den ausgewählten Werkzeugen SOLLTEN etabliert werden.
+OPS.1.2.5.A10 Umgang mit Fernwartungswerkzeugen (S)
+Es SOLLTEN organisatorische Verwaltungsprozesse zum Umgang mit den ausgewählten Fernwartungswerkzeugen etabliert werden.
 Es SOLLTE eine Bedienungsanleitung für den Umgang mit den Fernwartungswerkzeugen vorliegen.
 Ergänzend zu den allgemeinen Schulungsmaßnahmen SOLLTEN Musterabläufe für die passive und die aktive Fernwartung erstellt und kommuniziert werden.
 Zusätzlich zu den allgemeinen Schulungsmaßnahmen SOLLTE der IT-Betrieb besonders im Umgang mit den Fernwartungswerkzeugen sensibilisiert und geschult werden.
-Es SOLLTE ein Ansprechpartner für alle fachlichen Fragen zu den Fernwartungswerkzeugen benannt werden.
+Es SOLLTE ein Ansprechpartner oder eine Ansprechpartnerin für alle fachlichen Fragen zu den Fernwartungswerkzeugen benannt werden.
 
 OPS.1.2.5.A11 ENTFALLEN (S)
 Diese Anforderung ist entfallen.
@@ -79,12 +79,12 @@ OPS.1.2.5.A18 ENTFALLEN (S)
 Diese Anforderung ist entfallen.
 
 OPS.1.2.5.A19 Fernwartung durch Dritte (S)
-Wird die Fernwartung von Externen durchgeführt, SOLLTEN alle Aktivitäten von internen Mitarbeitern beobachtet werden.
+Wird die Fernwartung von Externen durchgeführt, SOLLTEN alle Fernwartungsaktivitäten von internen Mitarbeitenden beobachtet werden.
 Alle Fernwartungsvorgänge durch Dritte SOLLTEN aufgezeichnet werden.
 Mit externem Wartungspersonal MÜSSEN vertragliche Regelungen über die Sicherheit der betroffenen IT-Systeme und Informationen geschlossen werden.
-Sollte der Dienstleister mehrere Kunden fernwarten, MUSS gewährleistet sein, dass die Netze seiner Kunden nicht miteinander verbunden werden.
-Die Pflichten und Kompetenzen des externen Wartungspersonals SOLLTEN vertraglich festgehalten werden.
-Die Fernwartungsschnittstellen SOLLTEN so konfiguriert sein, dass es dem Dienstleister nur möglich ist, auf die IT-Systeme und Netzsegmente zuzugreifen, die für seine Arbeit benötigt werden.
+Die Pflichten und Kompetenzen des externen Wartungspersonals SOLLTEN in den vertraglichen Regelungen festgehalten werden.
+Sollten Dienstleistende mehrere Kunden und Kundinnen fernwarten, MUSS gewährleistet sein, dass die Netze der Kunden und Kundinnen nicht miteinander verbunden werden.
+Die Fernwartungsschnittstellen SOLLTEN so konfiguriert sein, dass es Dienstleistenden nur möglich ist, auf die IT-Systeme und Netzsegmente zuzugreifen, die für seine Arbeit benötigt werden.
 
 OPS.1.2.5.A20 Betrieb der Fernwartung (S)
 Ein Meldeprozess für Support- und Fernwartungsanliegen SOLLTE etabliert werden.
@@ -105,7 +105,7 @@ Werden Fernwartungsfunktionen verwendet, die in die Firmware einzelner Komponent
 Die Fernwartungsfunktionen SOLLTEN nur aus einem getrennten Managementnetz erreichbar sein.
 
 OPS.1.2.5.A25 Entkopplung der Kommunikation bei der Fernwartung (S)
-Direkte Fernwartungszugriffe eines Administrators von einem Fernwartungs-Client außerhalb der Managementnetze auf ein IT-System SOLLTEN vermieden werden.
+Direkte Fernwartungszugriffe von einem Fernwartungs-Client außerhalb der Managementnetze auf ein IT-System SOLLTEN vermieden werden.
 Ist ein solcher Zugriff notwendig, SOLLTE die Kommunikation entkoppelt werden.
 Dazu SOLLTEN Sprungserver verwendet werden.
 Der Zugriff auf Sprungserver SOLLTE nur von vertrauenswürdigen IT-Systemen aus möglich sein.
@@ -113,10 +113,11 @@ Der Zugriff auf Sprungserver SOLLTE nur von vertrauenswürdigen IT-Systemen aus 
 
 3.3. Anforderungen bei erhöhtem Schutzbedarf
 
-OPS.1.2.5.A14 Dedizierte Clients bei der Fernwartung (H)
+OPS.1.2.5.A14 Dedizierte Clients und Konten bei der Fernwartung (H)
 Zur Fernwartung SOLLTEN IT-Systeme eingesetzt werden, die ausschließlich zur Administration von anderen IT-Systemen dienen.
 Alle weiteren Funktionen auf diesen IT-Systemen SOLLTEN deaktiviert werden.
 Die Netzkommunikation der Administrationssysteme SOLLTE so eingeschränkt werden, dass nur Verbindungen zu IT-Systemen möglich sind, die administriert werden sollen.
+Für Fernwartungszugänge SOLLTEN dedizierte Konten verwendet werden.
 
 OPS.1.2.5.A22 Redundante Kommunikationsverbindungen (H)
 Für Fernwartungszugänge SOLLTEN redundante Kommunikationsverbindungen eingerichtet werden.
