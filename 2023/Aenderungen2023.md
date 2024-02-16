@@ -1394,8 +1394,81 @@ Der Baustein wurde neu hinzugefügt.
 
 ## INF
 
+### INF.1
+
+#### INF.1.A1
+
+##### Entfallen (verschoben zu INF.1.A9):
+
+*Es MUSS ein IT-bezogenes Brandschutzkonzept erstellt und umgesetzt werden.*
 
 
+#### INF.1.A9
+
+##### Neu:
+
+*Es MUSS ein IT-bezogenes Brandschutzkonzept erstellt und umgesetzt werden.*
+
+
+### INF.2
+
+Keine inhaltlichen Änderungen.
+
+
+### INF.5
+
+Keine inhaltlichen Änderungen.
+
+
+### INF.6
+
+Keine inhaltlichen Änderungen.
+
+
+### INF.7
+
+Keine inhaltlichen Änderungen.
+
+
+### INF.8
+
+Keine inhaltlichen Änderungen.
+
+
+### INF.9
+
+Keine inhaltlichen Änderungen.
+
+
+### INF.10
+
+#### INF.10.A10 ist entfallen
+
+Ehemals *Mitführverbot von Mobiltelefonen*:
+
+*Mobiltelefone SOLLTEN NICHT zu vertraulichen Besprechungen und Gesprächen mitgeführt werden.*
+
+*Falls erforderlich, SOLLTE dies durch Mobilfunk-Detektoren überprüft werden.*
+
+
+### INF.11
+
+Keine inhaltlichen Änderungen.
+
+
+### INF.12
+
+Keine inhaltlichen Änderungen.
+
+
+### INF.13
+
+Keine inhaltlichen Änderungen.
+
+
+### INF.14
+
+Keine inhaltlichen Änderungen.
 
 ---
 

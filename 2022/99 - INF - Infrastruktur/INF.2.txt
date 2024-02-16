@@ -76,7 +76,8 @@ Alle Mitarbeiter, die ein Rechenzentrum oder einen Serverraum betreten dürfen, 
 INF.2.A10 Inspektion und Wartung der Infrastruktur [Wartungspersonal, Haustechnik] (B)
 Für alle Komponenten der baulich-technischen Infrastruktur MÜSSEN mindestens die vom Hersteller empfohlenen oder durch Normen festgelegten Intervalle und Vorschriften für Inspektion und Wartung eingehalten werden.
 Inspektionen und Wartungsarbeiten MÜSSEN protokolliert werden.
-Brandschotten MÜSSEN daraufhin geprüft werden, ob sie unversehrt sind. Die Ergebnisse MÜSSEN dokumentiert werden.
+Brandschotten MÜSSEN daraufhin geprüft werden, ob sie unversehrt sind.
+Die Ergebnisse MÜSSEN dokumentiert werden.
 
 INF.2.A11 Automatische Überwachung der Infrastruktur [Haustechnik] (B)
 Alle Einrichtungen der Infrastruktur, wie z. B. Leckageüberwachung, Klima-, Strom- und USV-Anlagen, MÜSSEN automatisch überwacht werden.

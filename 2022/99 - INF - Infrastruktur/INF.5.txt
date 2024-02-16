@@ -93,7 +93,8 @@ Beide Räume SOLLTEN eine eigene Elektrounterverteilung erhalten, die direkt von
 Beide Räume SOLLTEN unterschiedlichen Brandabschnitten zugeordnet sein und, sofern erforderlich, jeweils über eine eigene raumlufttechnische Anlage verfügen.
 
 INF.5.A20 Erweiterter Schutz vor Einbruch und Sabotage [Planer] (H)
-Der Raum SOLLTE fensterlos sein. Sind dennoch Fenster vorhanden, SOLLTEN sie je nach Geschosshöhe gegen Eindringen von außen angemessen gesichert sein.
+Der Raum SOLLTE fensterlos sein.
+Sind dennoch Fenster vorhanden, SOLLTEN sie je nach Geschosshöhe gegen Eindringen von außen angemessen gesichert sein.
 Gibt es neben Fenstern und Türen weitere betriebsnotwendige Öffnungen, wie z. B. Lüftungskanäle, SOLLTEN diese gleichwertig zur Raumhülle geschützt werden.
 Es SOLLTEN Einbruchmeldeanlagen nach VdS Klasse C (gemäß VdS-Richtlinie 2311) eingesetzt werden.
 Alle erforderlichen Türen, Fenster und sonstige geschützte Öffnungen SOLLTEN über die Einbruchmeldeanlage auf Verschluss, Verriegelung und Durchbruch überwacht werden.

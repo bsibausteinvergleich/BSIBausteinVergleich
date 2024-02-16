@@ -114,7 +114,8 @@ Brandschutzübungen SOLLTEN regelmäßig durchgeführt werden.
 INF.1.A27 Einbruchschutz (S)
 Es SOLLTEN ausreichende und den örtlichen Gegebenheiten angepasste Maßnahmen zum Einbruchschutz umgesetzt werden.
 Bei der Planung, der Umsetzung und im Betrieb SOLLTE beim Einbruchschutz darauf geachtet werden, dass er gleichwertig und durchgängig ist.
-Er SOLLTE regelmäßig durch eine fachkundige Person begutachtet werden. Die Regelungen zum Einbruchschutz SOLLTEN den Mitarbeitenden bekannt sein.
+Er SOLLTE regelmäßig durch eine fachkundige Person begutachtet werden.
+Die Regelungen zum Einbruchschutz SOLLTEN den Mitarbeitenden bekannt sein.
 
 INF.1.A36 Regelmäßige Aktualisierungen der Dokumentation (S)
 Die Dokumentation eines Gebäudes, z. B. Baupläne, Trassenpläne, Strangschemata, Fluchtwegpläne und Feuerwehrlaufkarten, SOLLTE immer auf dem aktuellen Stand gehalten werden.

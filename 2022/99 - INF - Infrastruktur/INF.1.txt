@@ -77,7 +77,7 @@ Jede Schlüsselausgabe SOLLTE dokumentiert werden.
 
 INF.1.A13 Regelungen für Zutritt zu Verteilern (S)
 Der Zutritt zu den Verteilern aller Versorgungseinrichtungen in einem Gebäude SOLLTE im Bedarfsfall schnell möglich sein.
-Der Zutritt zu Verteilern SOLLTE auf einen engen Kreis von Berechtigten beschränkt sein
+Der Zutritt zu Verteilern SOLLTE auf einen engen Kreis von Berechtigten beschränkt sein.
 
 INF.1.A14 Blitzschutzeinrichtungen (S)
 Es SOLLTE eine Blitzschutzanlage nach geltender Norm installiert sein.

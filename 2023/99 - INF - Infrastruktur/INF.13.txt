@@ -127,7 +127,8 @@ Für die verschiedenen Typen von Änderungen SOLLTE die jeweilige Testtiefe fest
 Bei der Einführung neuer Systeme und bei großen Änderungen an bestehenden Systemen SOLLTE eine entsprechend hohe Testtiefe vorgesehen werden (siehe INF.13.A22 Durchführung von Systemtests im TGM).
 
 INF.13.A17 Regelung von Wartungs- und Reparaturarbeiten im TGM (S)
-Gebäudeeinrichtungen SOLLTEN regelmäßig gewartet werden. Hierfür SOLLTE ein Wartungsplan erstellt werden.
+Gebäudeeinrichtungen SOLLTEN regelmäßig gewartet werden.
+Hierfür SOLLTE ein Wartungsplan erstellt werden.
 Es SOLLTE geregelt sein, welche Sicherheitsaspekte bei Wartungs- und Reparaturarbeiten zu beachten sind.
 Dabei SOLLTEN auch die Abhängigkeiten der verschiedenen Gewerke berücksichtigt werden.
 Darüber hinaus SOLLTE festgelegt werden, wer für die Wartung oder Reparatur von Einrichtungen zuständig ist.

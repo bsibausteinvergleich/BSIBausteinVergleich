@@ -3,7 +3,8 @@
 
 INF.6.A1 Handfeuerlöscher [Brandschutzbeauftragter] (B)
 Im Brandfall MÜSSEN im Datenträgerarchiv geeignete Handfeuerlöscher leicht erreichbar sein.
-Diese Handfeuerlöscher MÜSSEN regelmäßig inspiziert und gewartet werden. Mitarbeiter, die in der Nähe eines Datenträgerarchivs tätig sind, MÜSSEN in die Benutzung der Handfeuerlöscher eingewiesen werden.
+Diese Handfeuerlöscher MÜSSEN regelmäßig inspiziert und gewartet werden.
+Mitarbeiter, die in der Nähe eines Datenträgerarchivs tätig sind, MÜSSEN in die Benutzung der Handfeuerlöscher eingewiesen werden.
 
 INF.6.A2 Zutrittsregelung und -kontrolle [Haustechnik] (B)
 Der Zutritt zum Datenträgerarchiv DARF NUR für befugte Personen möglich sein.
