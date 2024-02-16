@@ -1,5 +1,6 @@
 3.1 Basis-Anforderungen
 
+
 OPS.1.1.4.A1 Erstellung eines Konzepts für den Schutz vor Schadprogrammen (B)
 Es MUSS ein Konzept erstellt werden, das beschreibt, welche IT-Systeme vor Schadprogrammen geschützt werden müssen.
 Hierbei MÜSSEN auch IoT-Geräte und Produktionssysteme berücksichtigt werden.

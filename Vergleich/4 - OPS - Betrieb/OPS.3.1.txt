@@ -1,5 +1,6 @@
 3.1 Basis-Anforderungen
 
+
 OPS.3.1.A1 Erstellung eines Grobkonzeptes für die Outsourcing-Dienstleistung (B)
 Für die angebotene Outsourcing-Dienstleistung MUSS ein Grobkonzept erstellt werden.
 Dieses Grobkonzept MUSS die Rahmenbedingungen des Outsourcings berücksichtigen, wie z. B. Sonderwünsche.

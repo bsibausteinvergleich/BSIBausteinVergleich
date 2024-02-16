@@ -1,5 +1,6 @@
 3.1 Basis-Anforderungen
 
+
 OPS.1.2.2.A1 Ermittlung von Einflussfaktoren für die elektronische Archivierung (B)
 Bevor entschieden wird, welche Verfahren und Produkte für die elektronische Archivierung eingesetzt werden, MÜSSEN die technischen, rechtlichen und organisatorischen Einflussfaktoren ermittelt und dokumentiert werden.
 Die Ergebnisse MÜSSEN in das Archivierungskonzept einfließen.
@@ -132,6 +133,7 @@ Die Archivierungsdatenträger SOLLTEN mindestens einmal jährlich daraufhin übe
 Für die Fehlerbehebung SOLLTEN geeignete Prozesse definiert werden.
 Weiterhin SOLLTEN die Hardwarekomponenten des Archivsystems regelmäßig auf ihre einwandfreie Funktion hin geprüft werden.
 Es SOLLTE regelmäßig geprüft werden, ob alle Archivierungsprozesse fehlerfrei funktionieren.
+
 
 3.3 Anforderungen bei erhöhtem Schutzbedarf
 

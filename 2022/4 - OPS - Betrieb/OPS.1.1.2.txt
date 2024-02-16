@@ -1,5 +1,6 @@
 3.1 Basis-Anforderungen
 
+
 OPS.1.1.2.A1 ENTFALLEN (B)
 Diese Anforderung ist entfallen.
 

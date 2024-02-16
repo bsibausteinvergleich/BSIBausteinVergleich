@@ -1,5 +1,6 @@
 3.1 Basis-Anforderungen
 
+
 OPS.1.2.4.A1 Regelungen für Telearbeit [Vorgesetzte, Personalabteilung] (B)
 Alle relevanten Aspekte der Telearbeit MÜSSEN geregelt werden.
 Zu Informationszwecken MÜSSEN den Telearbeitern die geltenden Regelungen oder ein dafür vorgesehenes Merkblatt ausgehändigt werden, das die zu beachtenden Sicherheitsmaßnahmen erläutert.
@@ -51,6 +52,7 @@ Bevor ein Telearbeitsplatz eingerichtet wird, SOLLTE eine Anforderungsanalyse du
 Daraus SOLLTE z. B. hervorgehen, welche Hard- und Software-Komponenten für den Telearbeitsplatz benötigt werden.
 Die Anforderungen an den jeweiligen Telearbeitsplatz SOLLTEN mit den IT-Verantwortlichen abgestimmt werden.
 Es SOLLTE immer festgestellt und dokumentiert werden, welchen Schutzbedarf die am Telearbeitsplatz verarbeiteten Informationen haben.
+
 
 3.3 Anforderungen bei erhöhtem Schutzbedarf
 

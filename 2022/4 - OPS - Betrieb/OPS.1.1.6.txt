@@ -1,5 +1,6 @@
 3.1. Basis-Anforderungen
 
+
 OPS.1.1.6.A1 Planung der Software-Tests (B)
 Die Rahmenbedingungen für Software-Tests MÜSSEN vor den Tests innerhalb der Institution entsprechend der Schutzbedarfe, Organisationseinheiten, technischen Möglichkeiten und Test-Umgebungen festlegt sein.
 Die Software MUSS auf Basis der Anforderungen des Anforderungskatalogs zu der Software getestet werden.

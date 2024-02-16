@@ -1,5 +1,6 @@
 3.1. Basis-Anforderungen
 
+
 OPS.1.2.5.A1 Planung des Einsatzes der Fernwartung (B)
 Der Einsatz der Fernwartung MUSS an die Institution angepasst werden.
 Die Fernwartung MUSS hinsichtlich technischer und organisatorischer Aspekte bedarfsgerecht geplant werden.
