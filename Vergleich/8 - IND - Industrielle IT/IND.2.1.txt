@@ -1,40 +1,40 @@
-3.1 Basis-Anforderungen
+3.1. Basis-Anforderungen
 
-IND.2.1.A1 Einschränkung des Zugriffs auf Konfigurations- und Wartungsschnittstellen [OT-Betrieb (Operational Technology, OT)] (B)
-Standardmäßig eingerichtete bzw. vom Hersteller gesetzte Passwörter MÜSSEN gewechselt werden (siehe ORP.4 Identitäts- und Berechtigungsmanagement).
+
+IND.2.1.A1 Einschränkung des Zugriffs auf Konfigurations- und Wartungsschnittstellen (B) [OT-Betrieb (Operational Technology, OT)]
+Standardmäßig eingerichtete bzw. vom herstellenden Unternehmen gesetzte Passwörter MÜSSEN gewechselt werden (siehe ORP.4 Identitäts- und Berechtigungsmanagement).
 Der Wechsel MUSS dokumentiert werden.
 Die Passwörter MÜSSEN sicher hinterlegt werden.
-Es MUSS sichergestellt werden, dass nur berechtigte Mitarbeiter auf Konfigurations- und Wartungsschnittstellen von ICS-Komponenten zugreifen können.
-Die Konfiguration von ICS-Komponenten DARF NUR nach einer Freigabe durch den Verantwortlichen oder nach einer Authentisierung geändert werden.
+Es MUSS sichergestellt werden, dass nur berechtigte Mitarbeitende auf Konfigurations- und Wartungsschnittstellen von ICS-Komponenten zugreifen können.
+Die Konfiguration von ICS-Komponenten DARF NUR nach einer Freigabe durch die verantwortliche Person oder nach einer Authentisierung geändert werden.
 
-IND.2.1.A2 Nutzung sicherer Übertragungs-Protokolle für die Konfiguration und Wartung [Wartungspersonal, OT-Betrieb (Operational Technology, OT)] (B)
-
+IND.2.1.A2 Nutzung sicherer Übertragungs-Protokolle für die Konfiguration und Wartung (B) [Wartungspersonal, OT-Betrieb (Operational Technology, OT)]
 Für die Konfiguration und Wartung von ICS-Komponenten MÜSSEN sichere Protokolle eingesetzt werden.
 Die Informationen MÜSSEN geschützt übertragen werden.
 
 IND.2.1.A3 ENTFALLEN (B)
 Diese Anforderung ist entfallen.
 
-IND.2.1.A4 Deaktivierung oder Deinstallation nicht genutzter Dienste, Funktionen und Schnittstellen [Wartungspersonal, OT-Betrieb (Operational Technology, OT)] (B)
+IND.2.1.A4 Deaktivierung oder Deinstallation nicht genutzter Dienste, Funktionen und Schnittstellen (B) [Wartungspersonal, OT-Betrieb (Operational Technology, OT)]
 Alle nicht genutzten Dienste, Funktionen und Schnittstellen der ICS-Komponenten MÜSSEN deaktiviert oder deinstalliert werden.
 
 IND.2.1.A5 ENTFALLEN (B)
 Diese Anforderung ist entfallen.
 
-IND.2.1.A6 Netzsegmentierung [OT-Betrieb (Operational Technology, OT), Planer] (B)
+IND.2.1.A6 Netzsegmentierung (B) [OT-Betrieb (Operational Technology, OT), Planende]
 ICS-Komponenten MÜSSEN von der Office-IT getrennt werden.
 Hängen ICS-Komponenten von anderen Diensten im Netz ab, SOLLTE das ausreichend dokumentiert werden.
 ICS-Komponenten SOLLTEN so wenig wie möglich mit anderen ICS-Komponenten kommunizieren.
 
 
-3.2 Standard-Anforderungen
+3.2. Standard-Anforderungen
 
-IND.2.1.A7 Erstellung von Datensicherungen [OT-Betrieb (Operational Technology, OT)] (S)
+IND.2.1.A7 Erstellung von Datensicherungen (S) [OT-Betrieb (Operational Technology, OT)]
 Vor jeder Systemänderung an einer ICS-Komponente MÜSSEN Backups erstellt werden.
 
-IND.2.1.A8 Schutz vor Schadsoftware [OT-Betrieb (Operational Technology, OT)] (S)
+IND.2.1.A8 Schutz vor Schadsoftware (S) [OT-Betrieb (Operational Technology, OT)]
 ICS-Komponenten SOLLTEN durch geeignete Mechanismen vor Schadprogrammen geschützt werden (siehe OPS.1.1.4 Schutz vor Schadprogrammen).
-Wird dafür ein Virenschutzprogramm benutzt, SOLLTEN das Programm und die Virensignaturen nach der Freigabe durch den Hersteller immer auf dem aktuellen Stand sein.
+Wird dafür ein Virenschutzprogramm benutzt, SOLLTEN das Programm und die Virensignaturen nach der Freigabe durch das herstellende Unternehmen immer auf dem aktuellen Stand sein.
 Wenn die Ressourcen auf der ICS-Komponente nicht ausreichend sind oder die Echtzeitanforderung durch den Einsatz von Virenschutzprogrammen gefährdet werden könnte, SOLLTEN alternative Maßnahmen ergriffen werden, etwa die Abschottung der ICS-Komponente oder des Produktionsnetzes.
 
 IND.2.1.A9 ENTFALLEN (S)
@@ -43,17 +43,16 @@ Diese Anforderung ist entfallen.
 IND.2.1.A10 ENTFALLEN (S)
 Diese Anforderung ist entfallen.
 
-IND.2.1.A11 Wartung der ICS-Komponenten [Mitarbeiter, OT-Betrieb (Operational Technology, OT),
-Wartungspersonal] (S)
+IND.2.1.A11 Wartung der ICS-Komponenten (S) [Mitarbeitende, OT-Betrieb (Operational Technology, OT), Wartungspersonal]
 Bei der Wartung einer ICS-Komponente SOLLTEN immer die aktuellen und freigegebenen Sicherheitsupdates eingespielt werden.
-Updates für das Betriebssystem SOLLTEN erst nach Freigabe durch den Hersteller einer ICS-Komponente installiert werden.
+Updates für das Betriebssystem SOLLTEN erst nach Freigabe durch das herstellende Unternehmen einer ICS-Komponente installiert werden.
 Alternativ SOLLTE die Aktualisierung in einer Testumgebung erprobt werden, bevor diese in einer produktiven ICS-Komponente eingesetzt wird.
 Für kritische Sicherheitsupdates SOLLTE kurzfristig eine Wartung durchgeführt werden.
 
 IND.2.1.A12 ENTFALLEN (S)
 Diese Anforderung ist entfallen.
 
-IND.2.1.A13 Geeignete Inbetriebnahme von ICS-Komponenten [OT-Betrieb (Operational Technology, OT)] (S)
+IND.2.1.A13 Geeignete Inbetriebnahme von ICS-Komponenten (S) [OT-Betrieb (Operational Technology, OT)]
 Bevor ICS-Komponenten in Betrieb genommen werden, SOLLTEN sie dem aktuellen, intern freigegebenen Firmware-, Software- und Patch-Stand entsprechen.
 Neue ICS-Komponenten SOLLTEN in die bestehenden Betriebs-, Überwachungs- und Informationssicherheitsmanagement-Prozesse eingebunden werden.
 
@@ -63,27 +62,27 @@ Diese Anforderung ist entfallen.
 IND.2.1.A15 ENTFALLEN (S)
 Diese Anforderung ist entfallen.
 
-IND.2.1.A16 Schutz externer Schnittstellen [OT-Betrieb (Operational Technology, OT)] (S)
+IND.2.1.A16 Schutz externer Schnittstellen (S) [OT-Betrieb (Operational Technology, OT)]
 Von außen erreichbare Schnittstellen SOLLTEN vor Missbrauch geschützt werden.
 
-IND.2.1.A17 Nutzung sicherer Protokolle für die Übertragung von Mess- und Steuerdaten [OT-Betrieb (Operational Technology, OT)] (S)
+IND.2.1.A17 Nutzung sicherer Protokolle für die Übertragung von Mess- und Steuerdaten (S) [OT-Betrieb (Operational Technology, OT)]
 Mess- oder Steuerdaten SOLLTEN bei der Übertragung vor unberechtigten Zugriffen oder Veränderungen geschützt werden.
 Bei Anwendungen mit Echtzeitanforderungen SOLLTE geprüft werden, ob dies umsetzbar ist.
 Werden Mess- oder Steuerdaten über öffentliche Netze übertragen, SOLLTEN sie angemessen geschützt werden.
 
 
-3.3 Anforderungen bei erhöhtem Schutzbedarf
+3.3. Anforderungen bei erhöhtem Schutzbedarf
 
-IND.2.1.A18 Kommunikation im Störfall [OT-Betrieb (Operational Technology, OT), Mitarbeiter] (H)
+IND.2.1.A18 Kommunikation im Störfall (H) [OT-Betrieb (Operational Technology, OT), Mitarbeitende]
 Es SOLLTE alternative und unabhängige Kommunikationsmöglichkeiten geben, die bei einem Störfall benutzt werden können, um handlungsfähig zu bleiben.
 
-IND.2.1.A19 Security-Tests [OT-Betrieb (Operational Technology, OT)] (H)
+IND.2.1.A19 Security-Tests (H) [OT-Betrieb (Operational Technology, OT)]
 Mithilfe von regelmäßigen Security-Tests SOLLTE geprüft werden, ob die technischen Sicherheitsmaßnahmen noch effektiv umgesetzt sind.
 Die Security-Tests SOLLTEN nicht im laufenden Anlagenbetrieb erfolgen.
 Die Tests SOLLTEN auf die Wartungszeiten geplant werden.
 Die Ergebnisse SOLLTEN dokumentiert werden.
 Erkannte Risiken SOLLTEN bewertet und behandelt werden.
 
-IND.2.1.A20 Vertrauenswürdiger Code [OT-Betrieb (Operational Technology, OT)] (H)
-Firmware-Updates oder neue Steuerungsprogramme SOLLTEN NUR eingespielt werden, wenn vorher ihre Integrität überprüft wurde.
+IND.2.1.A20 Vertrauenswürdiger Code (H) [OT-Betrieb (Operational Technology, OT)]
+Firmware-Updates oder neue Steuerungsprogramme SOLLTEN nur eingespielt werden, wenn vorher ihre Integrität überprüft wurde.
 Sie SOLLTEN nur aus vertrauenswürdigen Quellen stammen.
