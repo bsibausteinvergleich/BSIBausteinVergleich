@@ -1530,7 +1530,7 @@ Keine inhaltlichen Änderungen.
 
 ### INF.10
 
-#### INF.10.A10 ist entfallen
+#### INF.10.A10 ist entfallen (verschoben zu ORP.1.A17)
 
 Ehemals *Mitführverbot von Mobiltelefonen*:
 
