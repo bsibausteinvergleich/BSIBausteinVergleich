@@ -1,4 +1,4 @@
-3.1 Basis-Anforderungen 
+3.1 Basis-Anforderungen
 
 
 ORP.5.A1 Identifikation der Rahmenbedingungen [Zentrale Verwaltung, Institutionsleitung] (B)
