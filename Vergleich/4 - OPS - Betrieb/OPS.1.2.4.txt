@@ -1,9 +1,11 @@
 3.1 Basis-Anforderungen
 
+
 OPS.1.2.4.A1 Regelungen für Telearbeit [Vorgesetzte, Personalabteilung] (B)
 Alle relevanten Aspekte der Telearbeit MÜSSEN geregelt werden.
 Zu Informationszwecken MÜSSEN den Telearbeitern die geltenden Regelungen oder ein dafür vorgesehenes Merkblatt ausgehändigt werden, das die zu beachtenden Sicherheitsmaßnahmen erläutert.
-Alle strittigen Punkte MÜSSEN entweder durch Betriebsvereinbarungen oder durch zusätzlich zum Arbeitsvertrag getroffene individuelle Vereinbarungen zwischen dem Mitarbeiter und Arbeitgeber geregelt werden. Die Regelungen MÜSSEN regelmäßig aktualisiert werden.
+Alle strittigen Punkte MÜSSEN entweder durch Betriebsvereinbarungen oder durch zusätzlich zum Arbeitsvertrag getroffene individuelle Vereinbarungen zwischen dem Mitarbeiter und Arbeitgeber geregelt werden.
+Die Regelungen MÜSSEN regelmäßig aktualisiert werden.
 
 OPS.1.2.4.A2 Sicherheitstechnische Anforderungen an den Telearbeitsrechner (B)
 Es MÜSSEN sicherheitstechnische Anforderungen festgelegt werden, die ein IT-System für die Telearbeit erfüllen muss.
@@ -18,7 +20,8 @@ Diese Anforderung ist entfallen.
 
 OPS.1.2.4.A5 Sensibilisierung und Schulung der Mitarbeiter (B)
 Anhand eines Leitfadens MÜSSEN die Mitarbeiter für die Gefahren sensibilisiert werden, die mit der Telearbeit verbunden sind.
-Außerdem MÜSSEN sie in die entsprechenden Sicherheitsmaßnahmen der Institution eingewiesen und im Umgang mit diesen geschult werden. Die Schulungs- und Sensibilisierungsmaßnahmen für Mitarbeiter SOLLTEN regelmäßig wiederholt werden.
+Außerdem MÜSSEN sie in die entsprechenden Sicherheitsmaßnahmen der Institution eingewiesen und im Umgang mit diesen geschult werden.
+Die Schulungs- und Sensibilisierungsmaßnahmen für Mitarbeiter SOLLTEN regelmäßig wiederholt werden.
 
 
 3.2 Standard-Anforderungen
@@ -49,6 +52,7 @@ Bevor ein Telearbeitsplatz eingerichtet wird, SOLLTE eine Anforderungsanalyse du
 Daraus SOLLTE z. B. hervorgehen, welche Hard- und Software-Komponenten für den Telearbeitsplatz benötigt werden.
 Die Anforderungen an den jeweiligen Telearbeitsplatz SOLLTEN mit den IT-Verantwortlichen abgestimmt werden.
 Es SOLLTE immer festgestellt und dokumentiert werden, welchen Schutzbedarf die am Telearbeitsplatz verarbeiteten Informationen haben.
+
 
 3.3 Anforderungen bei erhöhtem Schutzbedarf
 

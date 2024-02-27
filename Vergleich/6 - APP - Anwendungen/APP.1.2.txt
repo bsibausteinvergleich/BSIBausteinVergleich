@@ -1,18 +1,18 @@
-3.1 Basis-Anforderungen
+3.1. Basis-Anforderungen
+
 
 APP.1.2.A1 Verwendung von grundlegenden Sicherheitsmechanismen (B)
 Der eingesetzte Webbrowser MUSS sicherstellen, dass jede Instanz und jeder Verarbeitungsprozess nur auf die eigenen Ressourcen zugreifen kann (Sandboxing).
-Webseiten MÜSSEN als eigenständige Prozesse oder mindestens als eigene Threads voneinander isolierten werden.
+Webseiten MÜSSEN als eigenständige Prozesse oder mindestens als eigene Threads voneinander isoliert werden.
 Plug-ins und Erweiterungen MÜSSEN ebenfalls in isolierten Bereichen ausgeführt werden.
 Der verwendete Webbrowser MUSS die Content Security Policy (CSP) umsetzen.
 Der aktuell höchste Level der CSP SOLLTE erfüllt werden.
 Der Browser MUSS Maßnahmen zur Same-Origin-Policy und Subresource Integrity unterstützen.
 
 APP.1.2.A2 Unterstützung sicherer Verschlüsselung der Kommunikation (B)
-Der Webbrowser MUSS Transport Layer Security (TLS) in einer sicheren Version unterstützen.
-Verbindungen zu Webservern MÜSSEN mit TLS verschlüsselt werden, sofern dies vom Webserver unterstützt wird.
+Der Webbrowser MUSS Transport Layer Security (TLS) in einer sicheren Version unterstützen. Verbindungen zu Webservern MÜSSEN mit TLS verschlüsselt werden, sofern dies vom Webserver unterstützt wird.
 Unsichere Versionen von TLS SOLLTEN deaktiviert werden.
-Der Webbrowser MUSS den Sicherheitsmechanismus HTTP Strict Transport Security (HSTS) gemäß RFC 6797 unterstützen und einsetzten.
+Der Webbrowser MUSS den Sicherheitsmechanismus HTTP Strict Transport Security (HSTS) gemäß RFC 6797 unterstützen und einsetzen.
 
 APP.1.2.A3 Verwendung von vertrauenswürdigen Zertifikaten (B)
 Falls der Webbrowser eine eigene Liste von vertrauenswürdigen Wurzelzertifikaten bereitstellt, MUSS sichergestellt werden, dass nur Administratoren diese ändern können.
@@ -43,7 +43,7 @@ Falls die Institution DNS-Server als Resolver verwendet, die über nicht vertrau
 Falls DoH verwendet wird, MUSS die Institution einen vertrauenswürdigen DoH-Server festlegen.
 
 
-3.2 Standard-Anforderungen
+3.2. Standard-Anforderungen
 
 APP.1.2.A5 ENTFALLEN (S)
 Diese Anforderung ist entfallen.
@@ -51,8 +51,7 @@ Diese Anforderung ist entfallen.
 APP.1.2.A7 Datensparsamkeit in Webbrowsern [Benutzer] (S)
 Cookies von Drittanbietern SOLLTEN im Webbrowser abgelehnt werden.
 Gespeicherte Cookies SOLLTEN durch den Benutzer gelöscht werden können.
-Die Funktion zur Autovervollständigung von Daten SOLLTE deaktiviert werden.
-Wird die Funktion dennoch genutzt, SOLLTE der Benutzer diese Daten löschen können.
+Die Funktion zur Autovervollständigung von Daten SOLLTE deaktiviert werden. Wird die Funktion dennoch genutzt, SOLLTE der Benutzer diese Daten löschen können.
 Der Benutzer SOLLTE außerdem die Historiendaten des Webbrowsers löschen können.
 Sofern vorhanden, SOLLTE eine Synchronisation des Webbrowsers mit Cloud-Diensten deaktiviert werden.
 Telemetriefunktionen sowie das automatische Senden von Absturzberichten, URL-Eingaben und Sucheingaben an den Hersteller oder andere Externe SOLLTEN soweit wie möglich deaktiviert werden.
@@ -63,7 +62,7 @@ APP.1.2.A8 ENTFALLEN (S)
 Diese Anforderung ist entfallen.
 
 
-3.3 Anforderungen bei erhöhtem Schutzbedarf
+3.3. Anforderungen bei erhöhtem Schutzbedarf
 
 APP.1.2.A9 Einsatz einer isolierten Webbrowser-Umgebung (H)
 Bei erhöhtem Schutzbedarf SOLLTEN Webbrowser eingesetzt werden, die in einer isolierten Umgebung, wie z. B. ReCoBS, oder auf dedizierten IT-Systemen ausgeführt werden.

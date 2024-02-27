@@ -1,5 +1,6 @@
 3.1 Basis-Anforderungen
 
+
 APP.1.1.A1 ENTFALLEN (B)
 Diese Anforderung ist entfallen.
 

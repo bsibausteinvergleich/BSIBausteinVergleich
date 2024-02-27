@@ -1,5 +1,6 @@
 3.1 Basis-Anforderungen
 
+
 IND.2.4.A1 Fernwartung durch Maschinen- und Anlagenbauer [OT-Betrieb (Operational Technology, OT)] (B)
 Für die Fernwartung einer Maschine MUSS es eine zentrale Richtlinie geben.
 Darin MUSS geregelt werden, wie die jeweiligen Fernwartungslösungen einzusetzen sind.
@@ -15,7 +16,7 @@ Hierzu MÜSSEN mit dem Lieferanten weitere Unterstützungsleistungen vertraglich
 
 3.2 Standard-Anforderungen
 
-Für den Baustein IND.2.4 Maschine sind keine Basis-Anforderungen definiert.
+Für den Baustein IND.2.4 Maschine sind keine Standard-Anforderungen definiert.
 
 
 3.3 Anforderungen bei erhöhtem Schutzbedarf

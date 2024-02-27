@@ -1,5 +1,6 @@
 3.1 Basis-Anforderungen
 
+
 SYS.3.3.A1 Sicherheitsrichtlinien und Regelungen für die Mobiltelefon-Nutzung (B)
 Im Hinblick auf die Nutzung und Kontrolle der Geräte MUSS eine Sicherheitsrichtlinie erstellt werden.
 Jedem Benutzer eines Mobiltelefons MUSS ein Exemplar der Sicherheitsrichtlinie ausgehändigt werden.

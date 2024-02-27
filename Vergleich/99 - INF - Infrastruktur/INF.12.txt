@@ -1,5 +1,6 @@
 3.1 Basis-Anforderungen
 
+
 INF.12.A1 Auswahl geeigneter Kabeltypen [IT-Betrieb, Haustechnik] (B)
 Bei der Auswahl von Kabeltypen MUSS geprüft werden, welche übertragungstechnischen Eigenschaften notwendig sind.
 Die einschlägigen Normen und Vorschriften MÜSSEN beachtet werden.

@@ -1,5 +1,6 @@
 3.1 Basis-Anforderungen
 
+
 APP.3.6.A1 Planung des DNS-Einsatzes (B)
 Der Einsatz von DNS-Servern MUSS sorgfältig geplant werden.
 Es MUSS zuerst festgelegt werden, wie der Netzdienst DNS aufgebaut werden soll.
@@ -43,7 +44,7 @@ DNS-Server MÜSSEN so konfiguriert werden, dass mindestens die folgenden sicherh
 • fehlgeschlagene Zonentransfers.
 
 APP.3.6.A8 Verwaltung von Domainnamen [Zentrale Verwaltung] (B)
-Es MUSS sichergestellt sein, dass die Registrierungen für alle Domains, die von einer Institution benutzt werden, regelmäßig und rechtzeitig verlängert werden.
+Es MUSS sichergestellt sein, dass die Registrierungen für alle Domains, die von einer Institution benutzt werden,regelmäßig und rechtzeitig verlängert werden.
 Ein Mitarbeiter MUSS bestimmt werden, der dafür zuständig ist, die Internet-Domainnamen zu verwalten.
 Falls ein Internetdienstleister mit der Domainverwaltung beauftragt wird, MUSS darauf geachtet werden, dass die Institution die Kontrolle über die Domains behält.
 

@@ -1,4 +1,5 @@
-3.1 Basis-Anforderungen
+3.1. Basis-Anforderungen
+
 
 SYS.2.1.A1 Sichere Benutzerauthentisierung (B)
 Um den Client zu nutzen, MÜSSEN sich die Benutzer gegenüber dem IT-System authentisieren.
@@ -46,7 +47,7 @@ Die notwendigen Cloud- und Online-Funktionen SOLLTEN dokumentiert werden.
 Die entsprechenden Einstellungen des Betriebssystems MÜSSEN auf Konformität mit den organisatorischen Datenschutz- und Sicherheitsvorgaben überprüft und restriktiv konfiguriert bzw. die Funktionen deaktiviert werden.
 
 
-3.2 Standard-Anforderungen
+3.2. Standard-Anforderungen
 
 SYS.2.1.A9 Festlegung einer Sicherheitsrichtlinie für Clients (S)
 Ausgehend von der allgemeinen Sicherheitsrichtlinie der Institution SOLLTEN die Anforderungen an allgemeine Clients konkretisiert werden.
@@ -89,7 +90,7 @@ Nach der Installation SOLLTE überprüft werden, welche Komponenten der Firmware
 Nicht benötigte Module, Programme, Dienste, Aufgaben und Firmwarefunktionen (wie Fernwartung) SOLLTEN deaktiviert oder ganz deinstalliert werden.
 Nicht benötigte Laufzeitumgebungen, Interpretersprachen und Compiler SOLLTEN deinstalliert werden.
 Nicht benötigte Benutzerkennungen SOLLTEN deaktiviert oder gelöscht werden.
-Nicht benötigte Schnittstellen und Hardware des IT-Systemes (wie Webcams) SOLLTEN deaktiviert werden.
+Nicht benötigte Schnittstellen und Hardware des IT-Systems (wie Webcams) SOLLTEN deaktiviert werden.
 Es SOLLTE verhindert werden, dass diese Komponenten wieder reaktiviert werden können.
 Die getroffenen Entscheidungen SOLLTEN nachvollziehbar dokumentiert werden.
 
@@ -99,7 +100,7 @@ Diese Anforderung ist entfallen.
 SYS.2.1.A18 Nutzung von verschlüsselten Kommunikationsverbindungen (S)
 Kommunikationsverbindungen SOLLTEN, soweit möglich, durch Verschlüsselung geschützt werden.
 Die Clients SOLLTEN kryptografische Algorithmen und Schlüssellängen verwenden, die dem Stand der Technik und den Sicherheitsanforderungen der Institution entsprechen.
-Neue Zertifikate von Zertifikatsaustellern SOLLTEN erst nach Überprüfung des Fingerprints aktiviert werden.
+Neue Zertifikate von Zertifikatsausstellern SOLLTEN erst nach Überprüfung des Fingerprints aktiviert werden.
 
 SYS.2.1.A19 ENTFALLEN (S)
 Diese Anforderung ist entfallen.
@@ -143,6 +144,10 @@ Es SOLLTE einen Überblick darüber geben, welche Daten wo auf den IT-Systemen g
 Es SOLLTE eine Checkliste erstellt werden, die bei der Außerbetriebnahme eines IT-Systems abgearbeitet werden kann.
 Diese Checkliste SOLLTE mindestens Aspekte zur Datensicherung weiterhin benötigter Daten und dem anschließenden sicheren Löschen aller Daten umfassen.
 
+SYS.2.1.A34 Kapselung von sicherheitskritischen Anwendungen und Betriebssystemkomponenten (S)
+Um sowohl den Zugriff eines Angreifers auf das Betriebssystem oder andere Anwendungen als auch den Zugriff vom Betriebssystem auf besonders schützenswerte Dateien zu verhindern, SOLLTEN Anwendungen und Betriebssystemkomponenten (wie beispielsweise Authentisierung oder Zertifikatsüberprüfung) ihrem Schutzbedarf entsprechend besonders gekapselt bzw. anderen Anwendungen und Betriebssystemkomponenten gegenüber isoliert werden.
+Dabei SOLLTEN insbesondere sicherheitskritische Anwendungen berücksichtigt werden, die mit Daten aus unsicheren Quellen arbeiten (z.B. Webbrowser und Bürokommunikations-Anwendungen).
+
 SYS.2.1.A43 Lokale Sicherheitsrichtlinien für Clients (S)
 Alle sicherheitsrelevanten Einstellungen SOLLTEN bedarfsgerecht konfiguriert, getestet und regelmäßig überprüft werden.
 Dafür SOLLTEN Sicherheitsrichtlinien, unter Berücksichtigung der Empfehlungen des Betriebssystemherstellers und des voreingestellten Standardverhaltens, konfiguriert werden, sofern das Standardverhalten nicht anderen Anforderungen aus dem IT-Grundschutz oder der Organisation widerspricht.
@@ -154,7 +159,7 @@ Alle Einstellungen der Clients SOLLTEN durch Nutzung eines Managementsystems ver
 Konfigurationsänderungen SOLLTEN dokumentiert, begründet und mit dem Sicherheitsmanagement abgestimmt werden, sodass der Stand der Sicherheitskonfiguration jederzeit nachvollziehbar ist und Konfigurationsänderungen schnell durchgeführt und zentralisiert verteilt werden können.
 
 
-3.3 Anforderungen bei erhöhtem Schutzbedarf
+3.3. Anforderungen bei erhöhtem Schutzbedarf
 
 SYS.2.1.A28 Verschlüsselung der Clients (H)
 Wenn vertrauliche Informationen auf den Clients gespeichert werden, SOLLTEN mindestens die schutzbedürftigen Dateien sowie ausgewählte Dateisystembereiche oder besser die gesamten Datenträger verschlüsselt werden.
@@ -168,27 +173,23 @@ Die Clients SOLLTEN in ein geeignetes Systemüberwachungs- bzw. Monitoringkonzep
 
 SYS.2.1.A30 Einrichten einer Referenzumgebung für Clients (H)
 Für Clients SOLLTE eine Referenzinstallation erstellt werden, in der die Grundkonfiguration und alle Konfigurationsänderungen, Updates und Patches vor dem Einspielen auf den Client vorab getestet werden können.
-Für verschiedene, typische und häufig wiederkehrende Testfälle SOLLTEN Checklisten erstellt werden, die beim Testlauf möglichst automatisiert abgearbeitet werden sollten.
+Für verschiedene, typische und häufig wiederkehrende Testfälle SOLLTEN Checklisten erstellt werden, die beim Testlauf möglichst automatisiert abgearbeitet werden SOLLTEN.
 Die Testfälle SOLLTEN sowohl die Anwendersicht als auch die Betriebsperspektive berücksichtigen.
 Zusätzlich SOLLTEN alle Tests so dokumentiert werden, dass sie zu einem späteren Zeitpunkt nachvollzogen werden können.
 
 SYS.2.1.A31 Einrichtung lokaler Paketfilter (H)
 Auf jedem Client SOLLTEN, zusätzlich zu den eingesetzten zentralen Sicherheitsgateways, lokale Paketfilter eingesetzt werden.
-Als Strategie zur Paketfilter-Implementierung SOLLTE eine Whitelist-Strategie gewählt werden, die auf Basis der benötigten Netzkommunikation erfolgt.
+Es SOLLTE eine Strategie zur Paketfilter-Implementierung gewählt werden, die nur benötigte Netzkommunikation explizit erlaubt.
 
 SYS.2.1.A32 Einsatz zusätzlicher Maßnahmen zum Schutz vor Exploits (H)
 Auf den Clients SOLLTEN zusätzliche Maßnahmen zum expliziten Schutz vor Exploits (Angriffe, um Systemlücken auszunutzen) getroffen werden.
 Wenn notwendige Schutzmaßnahmen nicht über Funktionen des Betriebssystems umgesetzt werden können, SOLLTEN zusätzliche geeignete Sicherheitsmaßnahmen umgesetzt werden.
 Sollte es nicht möglich sein, nachhaltige Maßnahmen umzusetzen, SOLLTEN andere geeignete (in der Regel organisatorische) Sicherheitsmaßnahmen ergriffen werden.
 
-SYS.2.1.A33 Application Whitelisting (H)
-Es SOLLTE über Application Whitelisting sichergestellt werden, dass nur explizit erlaubte Programme und Skripte ausgeführt werden können.
+SYS.2.1.A33 Einsatz von Ausführungskontrolle (H)
+Es SOLLTE über eine Ausführungskontrolle sichergestellt werden, dass nur explizit erlaubte Programme und Skripte ausgeführt werden können.
 Die Regeln SOLLTEN so eng wie möglich gefasst werden.
 Falls Pfade und Hashes nicht explizit angegeben werden können, SOLLTEN alternativ auch zertifikatsbasierte oder Pfad-Regeln genutzt werden.
-
-SYS.2.1.A34 Kapselung von sicherheitskritischen Anwendungen und Betriebssystemkomponenten (H)
-Um sowohl den Zugriff eines Angreifers auf das Betriebssystem oder andere Anwendungen als auch den Zugriff vom Betriebssystem auf besonders schützenswerte Dateien zu verhindern, SOLLTEN Anwendungen und Betriebssystemkomponenten (wie beispielsweise Authentisierung oder Zertifikatsüberprüfung) besonders gekapselt bzw. anderen Anwendungen und Betriebssystemkomponenten gegenüber isoliert werden.
-Dabei SOLLTEN insbesondere sicherheitskritische Anwendungen berücksichtigt werden, die mit Daten aus unsicheren Quellen arbeiten (z.B. Webbrowser und Bürokommunikations-Anwendungen).
 
 SYS.2.1.A35 Aktive Verwaltung der Wurzelzertifikate (H)
 Im Zuge der Beschaffung und Installation des Clients SOLLTE dokumentiert werden, welche Wurzelzertifikate für den Betrieb des Clients notwendig sind.

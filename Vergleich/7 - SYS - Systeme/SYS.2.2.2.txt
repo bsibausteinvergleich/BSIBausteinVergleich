@@ -1,5 +1,6 @@
 3.1 Basis-Anforderungen
 
+
 SYS.2.2.2.A1 Auswahl einer geeigneten Windows 8.1-Version (B)
 Bevor eine Windows 8.1-Version beschafft wird, MUSS eine geeignete Version ausgewählt werden, die alle notwendigen Funktionen für den zukünftigen Einsatz mitbringt.
 Es SOLLTEN bevorzugt 64-Bit-Versionen eingesetzt werden, die erweiterte Sicherheitsfeatures enthalten.

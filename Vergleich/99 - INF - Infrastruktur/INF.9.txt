@@ -1,5 +1,6 @@
 3.1 Basis-Anforderungen
 
+
 INF.9.A1 Geeignete Auswahl und Nutzung eines mobilen Arbeitsplatzes [IT-Betrieb] (B)
 Die Institution MUSS ihren Mitarbeitern vorschreiben, wie mobile Arbeitsplätze in geeigneter Weise ausgewählt und benutzt werden sollen.
 Es MÜSSEN Eigenschaften definiert werden, die für einen mobilen Arbeitsplatz wünschenswert sind.
@@ -20,11 +21,12 @@ Es MUSS zudem protokolliert werden, wann und von wem welche mobilen Endgeräte a
 Die Benutzer von mobilen Endgeräten MÜSSEN für den Wert mobiler IT-Systeme und den Wert der darauf gespeicherten Informationen sensibilisiert werden.
 Sie MÜSSEN über die spezifischen Gefährdungen und Maßnahmen der von ihnen benutzten IT-Systeme aufgeklärt werden.
 Außerdem MÜSSEN sie darüber informiert werden, welche Art von Informationen auf mobilen IT-Systemen verarbeitet werden darf.
-Alle Benutzer MÜSSEN auf die geltenden Regelungen hingewiesen werden, die von ihnen einzuhalten sind. 
+Alle Benutzer MÜSSEN auf die geltenden Regelungen hingewiesen werden, die von ihnen einzuhalten sind.
 Sie MÜSSEN entsprechend geschult werden
 
 INF.9.A3 Zutritts- und Zugriffsschutz [Zentrale Verwaltung, Mitarbeiter] (B)
-Den Mitarbeitern MUSS bekannt gegeben werden, welche Regelungen und Maßnahmen zum Einbruch- und Zutrittsschutz am mobilen Arbeitsplatz zu beachten sind. Wenn der mobile Arbeitsplatz nicht besetzt ist, MÜSSEN Fenster und Türen abgeschlossen werden.
+Den Mitarbeitern MUSS bekannt gegeben werden, welche Regelungen und Maßnahmen zum Einbruch- und Zutrittsschutz am mobilen Arbeitsplatz zu beachten sind.
+Wenn der mobile Arbeitsplatz nicht besetzt ist, MÜSSEN Fenster und Türen abgeschlossen werden.
 Ist dies nicht möglich, z. B. im Zug, MÜSSEN die Mitarbeiter alle Unterlagen und IT-Systeme an sicherer Stelle verwahren oder mitführen, wenn sie abwesend sind.
 Es MUSS sichergestellt werden, dass Unbefugte zu keiner Zeit auf dienstliche IT und Unterlagen zugreifen können.
 Wird der Arbeitsplatz nur kurz verlassen, MÜSSEN die eingesetzten IT-Systeme gesperrt werden, sodass sie nur nach erfolgreicher Authentisierung wieder benutzt werden können.

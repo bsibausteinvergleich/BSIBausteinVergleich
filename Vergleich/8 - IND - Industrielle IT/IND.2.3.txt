@@ -1,5 +1,6 @@
 3.1 Basis-Anforderungen
 
+
 IND.2.3.A1 Installation von Sensoren [OT-Betrieb (Operational Technology, OT), Wartungspersonal] (B)
 Sensoren MÜSSEN in geeigneter Weise installiert werden.
 Sensoren MÜSSEN ausreichend robust sein.
@@ -14,7 +15,7 @@ Die Kalibrierungen SOLLTEN geeignet dokumentiert werden.
 Der Zugang zur Kalibrierung eines Sensors MUSS geschützt sein.
 
 
-3.3 Anforderungen bei erhöhtem Schutzbedarf.
+3.3 Anforderungen bei erhöhtem Schutzbedarf
 
 IND.2.3.A3 Drahtlose Kommunikation (H)
 Drahtlose Verwaltungsschnittstellen wie Bluetooth, WLAN oder NFC SOLLTEN NICHT benutzt werden.

@@ -1,5 +1,6 @@
 3.1 Basis-Anforderungen
 
+
 OPS.1.1.4.A1 Erstellung eines Konzepts für den Schutz vor Schadprogrammen (B)
 Es MUSS ein Konzept erstellt werden, das beschreibt, welche IT-Systeme vor Schadprogrammen geschützt werden müssen.
 Hierbei MÜSSEN auch IoT-Geräte und Produktionssysteme berücksichtigt werden.
@@ -26,7 +27,7 @@ Diese Anforderung ist entfallen.
 
 OPS.1.1.4.A5 Betrieb und Konfiguration von Virenschutzprogrammen (B)
 Das Virenschutzprogramm MUSS für seine Einsatzumgebung geeignet konfiguriert werden.
-Die Erkennungsleistung SOLLTE dabei im Vordergrund stehen, sofern nicht Datenschutz- oder Leistungsgründe im jeweiligen Einzelfall dagegen sprechen.
+Die Erkennungsleistung SOLLTE dabei im Vordergrund stehen, sofern nicht Datenschutz- oder Leistungsgründe im jeweiligen Einzelfalldagegen sprechen.
 Wenn sicherheitsrelevante Funktionen des Virenschutzprogramms nicht genutzt werden, SOLLTE dies begründet und dokumentiert werden.
 Bei Schutzprogrammen, die speziell für die Desktop-Virtualisierung optimiert sind, SOLLTE nachvollziehbar dokumentiert sein, ob auf bestimmte Detektionsverfahren zugunsten der Leistung verzichtet wird.
 Es MUSS sichergestellt werden, dass die Benutzer keine sicherheitsrelevanten Änderungen an den Einstellungen der Antivirenprogramme vornehmen können.

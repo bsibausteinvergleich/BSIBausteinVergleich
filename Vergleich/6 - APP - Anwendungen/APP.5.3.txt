@@ -1,5 +1,6 @@
 3.1 Basis-Anforderungen
 
+
 APP.5.3.A1 Sichere Konfiguration der E-Mail-Clients (B)
 Die Institution MUSS eine sichere Konfiguration für die E-Mail-Clients vorgeben.
 Die E-Mail-Clients MÜSSEN den Benutzern vorkonfiguriert übergeben werden.

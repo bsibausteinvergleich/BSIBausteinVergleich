@@ -1,4 +1,5 @@
-3.1 Basis-Anforderungen
+3.1. Basis-Anforderungen
+
 
 APP.6.A1 Planung des Software-Einsatzes [Fachverantwortliche] (B)
 Bevor eine Institution eine (neue) Software einführt, MUSS sie entscheiden,
@@ -37,7 +38,7 @@ Der IT-Betrieb MUSS in Abstimmung mit dem Fachverantwortlichen festlegen, wer di
 Idealerweise SOLLTE Software immer zentral durch den IT-Betrieb installiert werden.
 Ist es erforderlich, dass die Software (teilweise) manuell installiert wird, dann MUSS der IT-Betrieb eine Installationsanweisung erstellen, in der klar geregelt wird, welche Zwischenschritte zur Installation durchzuführen und welche Konfigurationen vorzunehmen sind.
 Darüber hinaus MUSS der IT-Betrieb regeln, wie die Integrität der Installationsdateien überprüft wird.
-Falls zu einem Installationspaket digitale Signaturen oder Prüfsummen verfügbar sind, MÜSSEN mit diesen die Integrität überprüft werden.
+Falls zu einem Installationspaket digitale Signaturen oder Prüfsummen verfügbar sind, MUSS mit diesen die Integrität überprüft werden.
 Sofern erforderlich, SOLLTE der IT-Betrieb eine sichere Standardkonfiguration der Software festlegen, mit der die Software konfiguriert wird.
 Die Standardkonfiguration SOLLTE dokumentiert werden.
 
@@ -47,20 +48,17 @@ Dabei MÜSSEN ausschließlich unveränderte Versionen der freigegebenen Software
 Wird von diesen Anweisungen abgewichen, MUSS dies durch den Vorgesetzten und den IT-Betrieb genehmigt werden und entsprechend dokumentiert werden.
 
 
-3.2 Standard-Anforderungen
+3.2. Standard-Anforderungen
 
 APP.6.A6 Berücksichtigung empfohlener Sicherheitsanforderungen (S)
 Die Institution SOLLTE die nachfolgenden Sicherheitsanforderungen im Anforderungskatalog für die Software berücksichtigen:
 • Die Software SOLLTE generelle Sicherheitsfunktionen wie Protokollierung und Authentifizierung umfassen, die im Anwendungskontext erforderlich sind.
-• Die Software SOLLTE es ermöglichen, die Härtungsfunktionen der Einsatzumgebung zu nutzen.
-Hierbei SOLLTEN insbesondere die Härtungsfunktionen des geplanten Betriebssystems und der geplanten Ausführungsumgebung berücksichtigt werden.
-• Wenn durch die Software Informationen über ungesicherte, öffentliche Netze übertragen werden, dann SOLLTE die Software sichere Verschlüsselungsfunktionen einsetzen, die dem Stand der Technik entsprechen.
-Darüber hinaus SOLLTEN die übertragenen Daten auf Integrität überprüft werden, indem Prüfsummen oder digitale Signaturen eingesetzt werden.
-• Verwendet die Software Zertifikate, dann SOLLTE sie die Möglichkeit bieten, die Zertifikate transparent darzustellen.
-Zudem SOLLTE es möglich sein, Zertifikate zu sperren, ihnen das Vertrauen zu entziehen oder eigene Zertifikate zu ergänzen.
+• Die Software SOLLTE es ermöglichen, die Härtungsfunktionen der Einsatzumgebung zu nutzen. Hierbei SOLLTEN insbesondere die Härtungsfunktionen des geplanten Betriebssystems und der geplanten Ausführungsumgebung berücksichtigt werden.
+• Wenn durch die Software Informationen über ungesicherte, öffentliche Netze übertragen werden, dann SOLLTE die Software sichere Verschlüsselungsfunktionen einsetzen, die dem Stand der Technik entsprechen. Darüber hinaus SOLLTEN die übertragenen Daten auf Integrität überprüft werden, indem Prüfsummen oder digitale Signaturen eingesetzt werden.
+• Verwendet die Software Zertifikate, dann SOLLTE sie die Möglichkeit bieten, die Zertifikate transparent darzustellen. Zudem SOLLTE es möglich sein, Zertifikate zu sperren, ihnen das Vertrauen zu entziehen oder eigene Zertifikate zu ergänzen.
 Die sich aus den Sicherheitsanforderungen ergebenden Funktionen der Software SOLLTEN im Betrieb verwendet werden.
 
-APP.6.A7 Auswahl und Bewertung potenzieller Software [Fachverantwortliche, Beschaffungsstelle] (S)
+APP.6.A7 Auswahl und Bewertung potentieller Software [Fachverantwortliche, Beschaffungsstelle] (S)
 Anhand des Anforderungskatalogs SOLLTEN die am Markt erhältlichen Produkte gesichtet werden.
 Sie SOLLTEN mithilfe einer Bewertungsskala miteinander verglichen werden.
 Danach SOLLTE untersucht werden, ob die Produkte aus der engeren Wahl die Anforderungen der Institution erfüllen.
@@ -69,13 +67,17 @@ Die Fachverantwortlichen SOLLTEN gemeinsam mit dem IT-Betrieb anhand der Bewertu
 
 APP.6.A8 Regelung zur Verfügbarkeit der Installationsdateien (S)
 Der IT-Betrieb SOLLTE die Verfügbarkeit der Installationsdateien sicherstellen, um die Installation reproduzieren zu können.
-Hierzu SOLLTE er
+Hierzu SOLLTE der IT-Betrieb
 • die Installationsdateien geeignet sichern oder
 • die Verfügbarkeit der Installationsdateien durch die Bezugsquelle (z. B. App-Store) sicherstellen.
-Diese Regelung SOLLTE im Datensicherungskonzept der Institution integriert werden.
+Zusätzlich SOLLTE sichergestellt werden, dass Software reproduzierbar konfiguriert werden kann.
+Hierzu SOLLTEN die Konfigurationsdateien gesichert werden.
+Alternativ SOLLTE geeignet dokumentiert werden, wie die Software konfiguriert wird.
+Diese Regelung SOLLTE in das Datensicherungskonzept der Institution integriert werden.
 
 APP.6.A9 Inventarisierung von Software (S)
-Software SOLLTE inventarisiert werden. In einem Bestandsverzeichnis SOLLTE dokumentiert werden, auf welchen Systemen die Software unter welcher Lizenz eingesetzt wird.
+Software SOLLTE inventarisiert werden.
+In einem Bestandsverzeichnis SOLLTE dokumentiert werden, auf welchen Systemen die Software unter welcher Lizenz eingesetzt wird.
 Bei Bedarf SOLLTEN zusätzlich die sicherheitsrelevanten Einstellungen mit erfasst werden.
 Software SOLLTE nur mit Lizenzen eingesetzt werden, die dem Einsatzzweck und den vertraglichen Bestimmungen entsprechen.
 Die Lizenz SOLLTE den gesamten vorgesehenen Nutzungszeitraum der Software abdecken.
@@ -105,9 +107,9 @@ Wird Software deinstalliert, SOLLTEN alle angelegten und nicht mehr benötigten 
 Alle Einträge in Systemdateien, die für das Produkt vorgenommen wurden und nicht länger benötigt werden, SOLLTEN rückgängig gemacht werden.
 
 
-3.3 Anforderungen bei erhöhtem Schutzbedarf
+3.3. Anforderungen bei erhöhtem Schutzbedarf
 
 APP.6.A14 Nutzung zertifizierter Software (H)
-Bei der Beschaffung von Software SOLLTE festgelegt werden, ob Zusicherungen des Herstellers, Vertreibers und Anbieters über implementierte Sicherheitsfunktionen als ausreichend vertrauenswürdig anerkannt werden kann.
+Bei der Beschaffung von Software SOLLTE festgelegt werden, ob Zusicherungen des Herstellers, Vertreibers und Anbieters über implementierte Sicherheitsfunktionen als ausreichend vertrauenswürdig anerkannt werden können.
 Ist dies nicht der Fall, SOLLTE eine Zertifizierung der Anwendung z. B. nach Common Criteria als Entscheidungskriterium herangezogen werden.
 Stehen mehrere Produkte zur Auswahl, SOLLTEN insbesondere dann Sicherheitszertifikate berücksichtigt werden, wenn der evaluierte Funktionsumfang die Mindestfunktionalität (weitestgehend) umfasst und die Mechanismenstärke dem Schutzbedarf entspricht.

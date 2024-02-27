@@ -1,5 +1,6 @@
 3.1 Basis-Anforderungen
 
+
 INF.5.A1 Planung der Raumabsicherung [Planer] (B)
 Für einen Raum für technische Infrastruktur MÜSSEN angemessene technische und organisatorische Vorgaben definiert und umgesetzt werden.
 Dabei MUSS das für den Raum zu erreichende Schutzniveau berücksichtigt werden.
@@ -106,7 +107,8 @@ Diese Anforderung ist entfallen.
 
 INF.5.A22 Redundante Auslegung der Stromversorgung [Planer] (H)
 Die Stromversorgung SOLLTE durchgängig vom Niederspannungshauptverteiler (NSHV) bis zum Verbraucher im Raum für technische Infrastruktur zweizügig sein.
-Diese Stromversorgungen SOLLTEN sich in getrennten Brandabschnitten befinden. Der NSHV SOLLTE betriebsredundant ausgelegt sein.
+Diese Stromversorgungen SOLLTEN sich in getrennten Brandabschnitten befinden.
+Der NSHV SOLLTE betriebsredundant ausgelegt sein.
 
 INF.5.A23 Netzersatzanlage [Planer, Haustechnik, Wartungspersonal] (H)
 Die Energieversorgung der Institution SOLLTE um eine Netzersatzanlage (NEA) ergänzt werden.

@@ -1,5 +1,6 @@
 3.1 Basis-Anforderungen
 
+
 APP.2.3.A1 Planung und Auswahl von Backends und Overlays für OpenLDAP (B)
 Der Einsatz von OpenLDAP in einer Institution MUSS sorgfältig geplant werden.
 Soll OpenLDAP gemeinsam mit anderen Anwendungen verwendet werden, so MÜSSEN die Planung, Konfiguration und Installation der Anwendungen mit OpenLDAP aufeinander abgestimmt werden.
@@ -65,6 +66,7 @@ Diese Anforderung ist entfallen.
 
 APP.2.3.A13 ENTFALLEN (S)
 Diese Anforderung ist entfallen.
+
 
 3.3 Anforderungen bei erhöhtem Schutzbedarf
 

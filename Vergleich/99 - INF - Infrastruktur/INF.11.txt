@@ -1,5 +1,6 @@
 3.1 Basis-Anforderungen
 
+
 INF.11.A1 Planung und Beschaffung [Fachverantwortliche, Beschaffungsstelle, Datenschutzbeauftragter] (B)
 Bevor Fahrzeuge beschafft werden, MUSS der Einsatzzweck geplant werden.
 Die funktionalen Anforderungen an die Fahrzeuge und insbesondere die Anforderungen an die Informationssicherheit, sowie den Datenschutz der verbauten IT-Komponenten MÜSSEN erhoben werden.
@@ -46,7 +47,8 @@ Für jedes Fahrzeug SOLLTE eine Inventarliste über
 • die Fachverfahren, die auf den integrierten IT-Komponenten ausgeführt werden,
 • Handlungsanweisungen und Betriebsdokumentationen sowie
 • die mit dem Infotainmentsystem gekoppelten Mobilgeräte
-geführt werden. Die Inventarliste SOLLTE regelmäßig und anlassbezogen aktualisiert werden.
+geführt werden.
+Die Inventarliste SOLLTE regelmäßig und anlassbezogen aktualisiert werden.
 Dabei SOLLTE überprüft werden, ob noch alle inventarisierten zum Fahrzeug gehörenden IT-Komponenten vorhanden sind.
 Zusätzlich SOLLTE anhand der Inventarliste überprüft werden, ob keine mobilen Endgeräte unerlaubt mit dem Infotainmentsystem gekoppelt worden sind.
 
@@ -65,8 +67,7 @@ Anhand der Checkliste SOLLTE dokumentiert werden, wie sie in diesen Situation vo
 
 INF.11.A7 Sachgerechter Umgang mit Fahrzeugen und schützenswerten Informationen [Fachverantwortliche, Benutzer] (S)
 Die Institution SOLLTE die Handlungsanweisungen zur Fahrzeugbenutzung um Aspekte ergänzen, wann, wie und wo Fahrzeuge sachgerecht abgestellt bzw. angedockt werden dürfen.
-Hierbei SOLLTE primär die Frage beantwortet werden, welche Umgebungen die Fahrzeuge angemessenen vor unerlaubten Zutritt oder Sachbeschädigung
-schützen.
+Hierbei SOLLTE primär die Frage beantwortet werden, welche Umgebungen die Fahrzeuge angemessenen vor unerlaubten Zutritt oder Sachbeschädigung schützen.
 Des Weiteren SOLLTE hierbei berücksichtigt werden, welche Informationen und IT-Systeme in den Fahrzeugen aufbewahrt werden dürfen.
 Ausreichende Maßnahmen zum Zutrittsschutz SOLLTEN ergriffen werden.
 Die Ladung der Fahrzeuge SOLLTE sicher verstaut werden.
@@ -97,7 +98,8 @@ Abhängig von der Bedeutung der Fahrzeuge SOLLTEN Ersatzfahrzeuge bereitstehen o
 Zusätzlich dazu SOLLTEN Ersatzfahrzeugführer verfügbar sein.
 
 INF.11.A12 Diebstahlsicherung bzw. Bewachung [Fachverantwortliche, Mitarbeiter] (H)
-Eine Alarmanlage SOLLTE vorhanden sein. Bei Bodenfahrzeugen SOLLTE darüber hinaus eine Wegfahrsperre vorhanden sein.
+Eine Alarmanlage SOLLTE vorhanden sein.
+Bei Bodenfahrzeugen SOLLTE darüber hinaus eine Wegfahrsperre vorhanden sein.
 Wird das Fahrzeug verlassen, SOLLTEN die Alarmanlage und Wegfahrsperre aktiviert werden.
 Alternativ SOLLTEN die Fahrzeuge bewacht werden.
 

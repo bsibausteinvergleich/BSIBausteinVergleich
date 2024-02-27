@@ -1,5 +1,6 @@
 3.1 Basis-Anforderungen
 
+
 SYS.2.3.A1 Authentisierung von Administratoren und Benutzern [Benutzer] (B)
 Administratoren DÜRFEN sich NICHT im Normalbetrieb als „root“ anmelden.
 Für die Systemadministrationsaufgaben SOLLTE „sudo“ oder eine geeignete Alternative mit einer geeigneten Protokollierung genutzt werden.
@@ -66,7 +67,8 @@ SYS.2.3.A13 ENTFALLEN (H)
 Diese Anforderung ist entfallen.
 
 SYS.2.3.A14 Absicherung gegen Nutzung unbefugter Peripheriegeräte (H)
-Peripheriegeräte SOLLTEN nur nutzbar sein, wenn sie auf einer zentral verwalteten Whitelist geführt sind. Kernelmodule für Peripheriegeräte SOLLTEN nur geladen und aktiviert werden, wenn das Gerät auf der Whitelist steht.
+Peripheriegeräte SOLLTEN nur nutzbar sein, wenn sie auf einer zentral verwalteten Whitelist geführt sind.
+Kernel-module für Peripheriegeräte SOLLTEN nur geladen und aktiviert werden, wenn das Gerät auf der Whitelist steht.
 
 SYS.2.3.A15 Zusätzlicher Schutz vor der Ausführung unerwünschter Dateien (H)
 Partitionen und Verzeichnisse, in denen Benutzer Schreibrechte haben, SOLLTEN so gemountet werden, dass keine Dateien ausgeführt werden können (Mountoption „noexec“).
@@ -80,7 +82,7 @@ Die vorhandenen Standardprofile bzw. -regeln von SELinux, AppArmor sowie alterna
 Falls erforderlich, SOLLTEN neue Regeln bzw. Profile erstellt werden.
 
 SYS.2.3.A18 Zusätzlicher Schutz des Kernels (H)
-Es SOLLTEN mit speziell gehärteten Kernels (z. B. grsecurity, PaX) geeignete Schutzmaßnahmen wie Speicherschutz, Dateisystemabsicherung und rollenbasierte Zugriffskontrolle umgesetzt werden, die eine Ausnutzung von Schwachstellen und die Ausbreitung im Betriebssystem verhindern.
+Es SOLLTEN mit speziell gehärteten Kernels (z. B. grsecurity, PaX) geeignete Schutzmaßnahmen wie Speicherschutz Dateisystemabsicherung und rollenbasierte Zugriffskontrolle umgesetzt werden, die eine Ausnutzung von Schwachstellen und die Ausbreitung im Betriebssystem verhindern.
 
 SYS.2.3.A19 Festplatten- oder Dateiverschlüsselung (H)
 Festplatten oder die darauf abgespeicherten Dateien SOLLTEN verschlüsselt werden.

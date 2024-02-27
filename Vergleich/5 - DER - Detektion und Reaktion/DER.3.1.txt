@@ -1,5 +1,6 @@
 3.1 Basis-Anforderungen
 
+
 DER.3.1.A1 Definition von Verantwortlichkeiten [Institutionsleitung] (B)
 Die Institutionsleitung MUSS einen Mitarbeiter benennen, der dafür zuständig ist, Audits bzw. Revisionen zu planen und zu initiieren.
 Dabei MUSS die Institutionsleitung darauf achten, dass keine Interessenkonflikte entstehen.
@@ -49,7 +50,7 @@ Der ISB SOLLTE eine oder mehrere Revisionslisten pflegen, die den aktuellen Stan
 
 DER.3.1.A9 Auswahl eines geeigneten Audit- oder Revionsteams (S)
 Die Institution SOLLTE für jedes Audit bzw. für jede Revision ein geeignetes Team zusammenstellen.
-Es SOLLTE ein leitender Auditor (Auditteamleiter) bzw. ein leitender Revisor benannt werden.
+Es SOLLTE einleitender Auditor (Auditteamleiter) bzw. ein leitender Revisor benannt werden.
 Dieser SOLLTE die Gesamtverantwortung für die Durchführung der Audits bzw. der Revisionen tragen.
 Die Größe des Audit- bzw. Revisionsteams SOLLTE dem Prüfbereich entsprechen.
 Die Institution SOLLTE insbesondere die Kompetenzanforderungen der Prüfthemen sowie die Größe und die örtliche Verteilung des Prüfbereichs berücksichtigen.

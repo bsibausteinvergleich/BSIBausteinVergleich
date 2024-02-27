@@ -1,5 +1,6 @@
 3.1 Basis-Anforderungen
 
+
 NET.1.2.A1 Planung des Netzmanagements (B)
 Die Netzmanagement-Infrastruktur MUSS geeignet geplant werden.
 Dabei SOLLTEN alle in der Sicherheitsrichtlinie und Anforderungsspezifikation für das Netzmanagement genannten Punkte berücksichtigt werden.
@@ -105,7 +106,7 @@ Danach SOLLTEN die spezifischen Prozesse für das Netzmanagement eingerichtet we
 
 NET.1.2.A17 Regelmäßiger Soll-Ist-Vergleich im Rahmen des Netzmanagements (S)
 Es SOLLTE regelmäßig und nachvollziehbar geprüft werden, inwieweit die Netzmanagement-Lösung dem Sollzustand entspricht.
-Dabei SOLLTE geprüft werden, ob die bestehende Lösung noch die Sicherheitsrichtlinie und An- forderungsspezifikation erfüllt.
+Dabei SOLLTE geprüft werden, ob die bestehende Lösung noch die Sicherheitsrichtlinie und Anforderungsspezifikation erfüllt.
 Auch SOLLTE geprüft werden, inwieweit die umgesetzte Management-Struktur und die genutzten Prozesse dem aktuellen Stand entsprechen.
 Weiter SOLLTE verglichen werden, ob die Management-Infrastruktur aktuell ist.
 

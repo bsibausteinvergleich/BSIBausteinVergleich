@@ -1,5 +1,6 @@
 3.1 Basis-Anforderungen
 
+
 CON.9.A1 Festlegung zulässiger Empfänger [Zentrale Verwaltung, Benutzer] (B)
 Die zentrale Verwaltungsstelle MUSS sicherstellen, dass durch die Weitergabe von Informationen nicht gegen rechtliche Rahmenbedingungen verstoßen wird.
 Die zentrale Verwaltungsstelle MUSS festlegen, welche Empfänger welche Informationen erhalten und weitergeben dürfen.

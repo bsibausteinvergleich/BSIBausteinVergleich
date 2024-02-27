@@ -1,4 +1,5 @@
-3.1 Basis-Anforderungen
+3.1. Basis-Anforderungen
+
 
 SYS.1.5.A1 ENTFALLEN (B)
 Diese Anforderung ist entfallen.
@@ -24,9 +25,9 @@ Auch MUSS ausgeschlossen sein, dass über virtuelle IT-Systeme, die mit mehreren
 Netzverbindungen zwischen virtuellen IT-Systemen und physischen IT-Systemen sowie für virtuelle Firewalls SOLLTEN gemäß den Sicherheitsrichtlinien der Institution konfiguriert werden.
 
 SYS.1.5.A5 Schutz der Administrationsschnittstellen (B)
-Alle Administrations- und Management-Zugänge zum Management-System und zu den Host-Systemen MÜSSEN eingeschränkt werden.
+Alle Administrations- und Management-Zugänge zum Managementsystem und zu den Host-Systemen MÜSSEN eingeschränkt werden.
 Es MUSS sichergestellt sein, dass aus nicht-vertrauenswürdigen Netzen heraus nicht auf die Administrationsschnittstellen zugegriffen werden kann.
-Um die Virtualisierungsserver oder die Management-Systeme zu administrieren bzw. zu überwachen, SOLLTEN als sicher geltende Protokolle eingesetzt werden.
+Um die Virtualisierungsserver oder die Managementsysteme zu administrieren bzw. zu überwachen, SOLLTEN als sicher geltende Protokolle eingesetzt werden.
 Sollte dennoch auf unsichere Protokolle zurückgegriffen werden, MUSS für die Administration ein eigenes Administrationsnetz genutzt werden.
 
 SYS.1.5.A6 Protokollierung in der virtuellen Infrastruktur (B)
@@ -39,7 +40,7 @@ SYS.1.5.A7 Zeitsynchronisation in virtuellen IT-Systemen (B)
 Die Systemzeit aller produktiv eingesetzten virtuellen IT-Systeme MUSS immer synchron sein.
 
 
-3.2 Standard-Anforderungen
+3.2. Standard-Anforderungen
 
 SYS.1.5.A8 Planung einer virtuellen Infrastruktur [Planer] (S)
 Der Aufbau der virtuellen Infrastruktur SOLLTE detailliert geplant werden.
@@ -68,11 +69,11 @@ Die verfügbaren Sicherheitsmechanismen der eingesetzten Managementprotokolle zu
 Alle unsicheren Managementprotokolle SOLLTEN deaktiviert werden (siehe NET.1.2 Netzmanagement).
 
 SYS.1.5.A12 Rechte- und Rollenkonzept für die Administration einer virtuellen Infrastruktur (S)
-Anhand der in der Planung definierten Aufgaben und Rollen (siehe SYS.1.5.A8 Planung einer virtuellen Infrastruktur) SOLLTE für die Administration der virtuellen IT-Systeme und Netze sowie der Virtualisierungsserver und der Management-Umgebung ein Rechte- und Rollenkonzept erstellt und umgesetzt werden.
+Anhand der in der Planung definierten Aufgaben und Rollen (siehe SYS.1.5.A8 Planung einer virtuellen Infrastruktur) SOLLTE für die Administration der virtuellen IT-Systeme und Netze sowie der Virtualisierungsserver und der Managementumgebung ein Rechte- und Rollenkonzept erstellt und umgesetzt werden.
 Alle Komponenten der virtuellen Infrastruktur SOLLTEN in ein zentrales Identitäts- und Berechtigungsmanagement eingebunden werden.
 Administratoren von virtuellen Maschinen und Administratoren der Virtualisierungsumgebung SOLLTEN unterschieden werden.
 Sie SOLLTEN mit unterschiedlichen Zugriffsrechten ausgestattet werden.
-Weiterhin SOLLTE die Management-Umgebung virtuelle Maschinen zur geeigneten Strukturierung gruppieren können.
+Weiterhin SOLLTE die Managementumgebung virtuelle Maschinen zur geeigneten Strukturierung gruppieren können.
 Die Rollen der Administratoren SOLLTEN entsprechend zugeteilt werden.
 
 SYS.1.5.A13 Auswahl geeigneter Hardware für Virtualisierungsumgebungen (S)
@@ -98,7 +99,6 @@ Der Betriebszustand der virtuellen Infrastruktur SOLLTE überwacht werden.
 Dabei SOLLTE unter anderem geprüft werden, ob noch ausreichend Ressourcen verfügbar sind.
 Es SOLLTE auch geprüft werden, ob es eventuell Konflikte bei gemeinsam genutzten Ressourcen eines Virtualisierungsservers gibt.
 Weiterhin SOLLTEN die Konfigurationsdateien der virtuellen IT-Systeme regelmäßig auf unautorisierte Änderungen überprüft werden.
-Auch SOLLTE überwacht werden, ob die virtuellen Netze den jeweiligen virtuellen IT-Systemen korrekt zugeordnet sind.
 Wird die Konfiguration der Virtualisierungsinfrastruktur geändert, SOLLTEN die Änderungen geprüft und getestet werden, bevor sie umgesetzt werden.
 
 SYS.1.5.A18 ENTFALLEN (S)
@@ -111,7 +111,7 @@ Die Auditergebnisse SOLLTEN nachvollziehbar dokumentiert werden.
 Abweichungen SOLLTEN behoben werden.
 
 
-3.3 Anforderungen bei erhöhtem Schutzbedarf
+3.3. Anforderungen bei erhöhtem Schutzbedarf
 
 SYS.1.5.A20 Verwendung von hochverfügbaren Architekturen [Planer] (H)
 Die virtuelle Infrastruktur SOLLTE hochverfügbar ausgelegt werden.

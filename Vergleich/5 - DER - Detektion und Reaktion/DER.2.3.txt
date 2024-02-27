@@ -1,5 +1,6 @@
 3.1 Basis-Anforderungen
 
+
 DER.2.3.A1 Einrichtung eines Leitungsgremiums (B)
 Um einen APT-Vorfall zu bereinigen, MUSS ein Leitungsgremium eingerichtet werden, das alle notwendigen Aktivitäten plant, koordiniert und überwacht.
 Dem Gremium MÜSSEN alle für die Aufgaben erforderlichen Weisungsbefugnisse übertragen werden.

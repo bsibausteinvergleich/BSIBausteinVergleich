@@ -1,5 +1,6 @@
 3.1 Basis-Anforderungen
 
+
 NET.3.3.A1 Planung des VPN-Einsatzes (B)
 Die Einführung eines VPN MUSS sorgfältig geplant werden.
 Dabei MÜSSEN die Verantwortlichkeiten für den VPN-Betrieb festgelegt werden.
@@ -55,8 +56,7 @@ NET.3.3.A9 Geeignete Auswahl von VPN-Produkten (S)
 Bei der Auswahl von VPN-Produkten SOLLTEN die Anforderungen der Institutionen an die Vernetzung unterschiedlicher Standorte und die Anbindung mobiler Mitarbeiter oder Telearbeiter berücksichtigt werden.
 
 NET.3.3.A10 Sicherer Betrieb eines VPN (S)
-Für VPNs SOLLTE ein Betriebskonzept erstellt werden.
-Darin SOLLTEN die Aspekte Qualitätsmanagement, Überwachung, Wartung, Schulung und Autorisierung beachtet werden.
+Für VPNs SOLLTE ein Betriebskonzept erstellt werden. Darin SOLLTEN die Aspekte Qualitätsmanagement, Überwachung, Wartung, Schulung und Autorisierung beachtet werden.
 
 NET.3.3.A11 Sichere Anbindung eines externen Netzes (S)
 Es SOLLTE sichergestellt werden, dass VPN-Verbindungen NUR zwischen den dafür vorgesehenen IT-Systemen und Diensten aufgebaut werden.
@@ -66,9 +66,7 @@ NET.3.3.A12 Benutzer- und Zugriffsverwaltung bei Fernzugriff-VPNs (S)
 Für Fernzugriff-VPNs SOLLTE eine zentrale und konsistente Benutzer- und Zugriffsverwaltung gewährleistet werden.
 
 NET.3.3.A13 Integration von VPN-Komponenten in eine Firewall (S)
-Die VPN-Komponenten SOLLTEN in die Firewall integriert werden.
-Dies SOLLTE dokumentiert werden.
-
+Die VPN-Komponenten SOLLTEN in die Firewall integriert werden. Dies SOLLTE dokumentiert werden.
 
 3.3 Anforderungen bei erhöhtem Schutzbedarf
 

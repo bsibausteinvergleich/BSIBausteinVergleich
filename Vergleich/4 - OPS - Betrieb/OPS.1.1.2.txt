@@ -1,5 +1,6 @@
 3.1 Basis-Anforderungen
 
+
 OPS.1.1.2.A1 ENTFALLEN (B)
 Diese Anforderung ist entfallen.
 
@@ -16,7 +17,7 @@ Wenn Administratoren von ihren Aufgaben wieder entbunden werden, MÜSSEN alle ih
 Es MUSS geprüft werden, welche Passwörter die ausscheidenden Mitarbeiter darüber hinaus noch kennen.
 Solche Passwörter MÜSSEN geändert werden.
 Weiterhin MUSS geprüft werden, ob die ausscheidenden Mitarbeiter gegenüber Dritten als Ansprechpartner benannt wurden, z. B. in Verträgen oder als Admin-C-Eintrag bei Internet-Domains.
-In diesem Fall MÜSSEN neue An- sprechpartner festgelegt und die betroffenen Dritten informiert werden.
+In diesem Fall MÜSSEN neue Ansprechpartner festgelegt und die betroffenen Dritten informiert werden.
 Die Benutzer der betroffenen IT-Systeme und Anwendungen MÜSSEN darüber informiert werden, dass der bisherige Administrator ausgeschieden ist.
 
 OPS.1.1.2.A5 Nachweisbarkeit von administrativen Tätigkeiten (B)

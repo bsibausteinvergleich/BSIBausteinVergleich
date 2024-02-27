@@ -1,4 +1,5 @@
-3.1 Basis-Anforderungen
+3.1. Basis-Anforderungen
+
 
 CON.10.A1 Authentisierung bei Webanwendungen (B)
 Die Entwickler MÜSSEN sicherstellen, dass sich Benutzer gegenüber der Webanwendung sicher und angemessen authentisieren, bevor diese auf geschützte Funktionen oder Inhalte zugreifen können.
@@ -20,7 +21,8 @@ Es MUSS eine Zugriffskontrolle bei URL-Aufrufen und Objekt-Referenzen geben.
 CON.10.A3 Sicheres Session-Management (B)
 Die Entwickler MÜSSEN sicherstellen, dass Session-IDs geeignet geschützt werden.
 Session-IDs MÜSSEN zufällig und mit ausreichender Entropie erzeugt werden.
-Falls das Framework der Webanwendung sichere Session-IDs generieren kann, MUSS diese Funktion des Frameworks von den Entwicklern verwendet werden. Sicherheitsrelevante Konfigurationsmöglichkeiten des Frameworks MÜSSEN berücksichtigt werden.
+Falls das Framework der Webanwendung sichere Session-IDs generieren kann, MUSS diese Funktion des Frameworks von den Entwicklern verwendet werden.
+Sicherheitsrelevante Konfigurationsmöglichkeiten des Frameworks MÜSSEN berücksichtigt werden.
 Wenn Session-IDs übertragen und von den Clients gespeichert werden, MÜSSEN sie ausreichend geschützt übertragen werden.
 Eine Webanwendung MUSS den Benutzern die Möglichkeit geben, eine bestehende Sitzung explizit zu beenden.
 Nachdem sich der Benutzer angemeldet hat, MUSS eine bereits bestehende Session-ID durch eine neue ersetzt werden.
@@ -59,13 +61,13 @@ Ausgabedaten MÜSSEN so kodiert werden, dass schadhafter Code auf dem Zielsystem
 
 CON.10.A9 Schutz vor SQL-Injection (B)
 Falls Daten an ein Datenbankmanagementsystem (DBMS) weitergeleitet werden, MÜSSEN die Entwickler Stored Procedures bzw. Prepared SQL Statements einsetzen.
-Falls Daten an ein DMBS weitergeleitet werden und weder Stored Procedures noch Prepared SQL Statements von der Einsatzumgebung unterstützt werden, MÜSSEN die SQL-Queries separat abgesichert werden.
+Falls Daten an ein DBMS weitergeleitet werden und weder Stored Procedures noch Prepared SQL Statements von der Einsatzumgebung unterstützt werden, MÜSSEN die SQL-Queries separat abgesichert werden.
 
 CON.10.A10 Restriktive Herausgabe sicherheitsrelevanter Informationen (B)
 Die Entwickler MÜSSEN sicherstellen, dass Webseiten, Rückantworten und Fehlermeldungen von Webanwendungen keine Informationen enthalten, die einem Angreifer Hinweise darauf geben, wie er Sicherheitsmechanismen umgehen kann.
 
 
-3.2 Standard-Anforderungen
+3.2. Standard-Anforderungen
 
 CON.10.A11 Softwarearchitektur einer Webanwendung (S)
 Die Entwickler SOLLTEN die Softwarearchitektur der Webanwendung mit allen Bestandteilen und Abhängigkeiten dokumentieren.
@@ -98,11 +100,11 @@ CON.10.A15 Verhinderung von Cross-Site-Request-Forgery (S)
 Die Entwickler SOLLTEN die Webanwendung mit solchen Sicherheitsmechanismen ausstatten, die eine Unterscheidung zwischen beabsichtigten Seitenaufrufen des Benutzers von unbeabsichtigt weitergeleiteten Befehlen Dritter ermöglichen.
 Dabei SOLLTE mindestens geprüft werden, ob neben der Session-ID ein geheimes Token für den Zugriff auf geschützte Ressourcen und Funktionen benötigt wird.
 
-CON.10.A16 Mehr- Faktor- Authentisierung (S)
+CON.10.A16 Mehr-Faktor-Authentisierung (S)
 Die Entwickler SOLLTEN eine Mehr-Faktor-Authentisierung implementieren.
 
 
-3.3 Anforderungen bei erhöhtem Schutzbedarf
+3.3. Anforderungen bei erhöhtem Schutzbedarf
 
 CON.10.A17 Verhinderung der Blockade von Ressourcen (H)
 Zum Schutz vor Denial-of-Service (DoS)-Angriffen SOLLTEN ressourcenintensive Operationen vermieden werden.

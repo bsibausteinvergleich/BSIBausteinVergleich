@@ -1,7 +1,9 @@
 3.1 Basis-Anforderungen
 
+
 DER.2.1.A1 Definition eines Sicherheitsvorfalls (B)
-In einer Institution MUSS klar definiert sein, was ein Sicherheitsvorfall ist. Ein Sicherheitsvorfall MUSS so weit wie möglich von Störungen im Tagesbetrieb abgegrenzt sein.
+In einer Institution MUSS klar definiert sein, was ein Sicherheitsvorfall ist.
+Ein Sicherheitsvorfall MUSS so weit wie möglich von Störungen im Tagesbetrieb abgegrenzt sein.
 Alle an der Behandlung von Sicherheitsvorfällen beteiligten Mitarbeiter MÜSSEN die Definition eines Sicherheitsvorfalls kennen.
 Die Definition und die Eintrittsschwellen eines solchen Vorfalls SOLLTEN sich nach dem Schutzbedarf der betroffenen Geschäftsprozesse, IT-Systeme bzw. Anwendungen richten.
 
@@ -20,7 +22,8 @@ Es MUSS geregelt werden, wer bei Sicherheitsvorfällen wofür verantwortlich ist
 Für alle Mitarbeiter MÜSSEN die Aufgaben und Kompetenzen bei Sicherheitsvorfällen festgelegt werden.
 Insbesondere Mitarbeiter, die Sicherheitsvorfälle bearbeiten sollen, MÜSSEN über ihre Aufgaben und Kompetenzen unterrichtet werden.
 Dabei MUSS auch geregelt sein, wer die mögliche Entscheidung für eine forensische Untersuchung trifft, nach welchen Kriterien diese vorgenommen wird und wann sie erfolgen soll.
-Die Ansprechpartner für alle Arten von Sicherheitsvorfällen MÜSSEN den Mitarbeitern bekannt sein. Kontaktinformationen MÜSSEN immer aktuell und leicht zugänglich sein.
+Die Ansprechpartner für alle Arten von Sicherheitsvorfällen MÜSSEN den Mitarbeitern bekannt sein.
+Kontaktinformationen MÜSSEN immer aktuell und leicht zugänglich sein.
 
 DER.2.1.A4 Benachrichtigung betroffener Stellen bei Sicherheitsvorfällen [Institutionsleitung, IT-Betrieb, Datenschutzbeauftragter, Notfallbeauftragter] (B)
 Von einem Sicherheitsvorfall MÜSSEN alle betroffenen internen und externen Stellen zeitnah informiert werden.
@@ -51,7 +54,7 @@ Nachdem alles wiederhergestellt wurde, MÜSSEN die Komponenten inklusive der Net
 
 3.2 Standard-Anforderungen
 
-DER.2.1.A7 Etablierung einer Vorgehensweise zur Behandlung von Sicherheitsvorfällen [Institutionsleitung] (S)
+DER.2.1.A7 Etablierung einer Vorgehensweise zur Behandlung von Sicherheitsvorfällen [Institutionsleitung](S)
 Es SOLLTE eine geeignete Vorgehensweise zur Behandlung von Sicherheitsvorfällen definiert werden.
 Die Abläufe, Prozesse und Vorgaben für die verschiedenen Sicherheitsvorfälle SOLLTEN dabei eindeutig geregelt und geeignet dokumentiert werden.
 Die Institutionsleitung SOLLTE die festgelegte Vorgehensweise in Kraft setzen und allen Beteiligten zugänglich machen.

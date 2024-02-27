@@ -1,5 +1,6 @@
 3.1 Basis-Anforderungen
 
+
 INF.8.A1 Sichern von dienstlichen Unterlagen am häuslichen Arbeitsplatz (B)
 Dienstliche Unterlagen und Datenträger MÜSSEN am häuslichen Arbeitsplatz so aufbewahrt werden, dass kein Unbefugter darauf zugreifen kann.
 Daher MÜSSEN ausreichend verschließbare Behältnisse (z. B. abschließbare Rollcontainer oder Schränke) vorhanden sein.
@@ -8,11 +9,11 @@ Jeder Mitarbeiter MUSS seinen häuslichen Arbeitsplatz aufgeräumt hinterlassen 
 INF.8.A2 Transport von Arbeitsmaterial zum häuslichen Arbeitsplatz (B)
 Es MUSS geregelt werden, welche Datenträger und Unterlagen am häuslichen Arbeitsplatz bearbeitet und zwischen der Institution und dem häuslichen Arbeitsplatz hin und her transportiert werden dürfen.
 Generell MÜSSEN Datenträger und andere Unterlagen sicher transportiert werden.
-Diese Regelungen MÜSSEN den Mitarbeitern ingeeigneter Weise bekanntgegeben werden.
+Diese Regelungen MÜSSEN den Mitarbeitern in geeigneter Weise bekanntgegeben werden.
 
 INF.8.A3 Schutz vor unbefugtem Zutritt am häuslichen Arbeitsplatz (B)
 Den Mitarbeitern MUSS mitgeteilt werden, welche Regelungen und Maßnahmen zum Einbruchs- und Zutrittsschutz zu beachten sind.
-So MUSS darauf hingewiesen werden, Fenster zu schließen und Türen abzuschließen, wenn der häusliche Arbeitsplatz nicht besetzt ist.
+So MUSS darauf hingewiesen werden, Fenster zu schließen und Türen abzuschließen,wenn der häusliche Arbeitsplatz nicht besetzt ist.
 Es MUSS sichergestellt werden, dass Unbefugte zu keiner Zeit den häuslichen Arbeitsplatz betreten und auf dienstliche IT und Unterlagen zugreifen können.
 Diese Maßnahmen MÜSSEN in sinnvollen zeitlichen Abständen überprüft werden, mindestens aber, wenn sich die häuslichen Verhältnisse ändern.
 

@@ -1,5 +1,6 @@
 3.1 Basis-Anforderungen
 
+
 DER.3.2.A1 Benennung von Verantwortlichen für die IS-Revision [Institutionsleitung] (B)
 Die Institution MUSS einen Verantwortlichen für die IS-Revision benennen.
 Dieser MUSS die IS-Revisionen planen, initiieren und die Ergebnisse nachverfolgen.
@@ -92,8 +93,7 @@ Gemeinsam mit dem Ansprechpartner der zu prüfenden Institution SOLLTE das IS-Re
 Die Ergebnisse SOLLTEN zusammen mit dem IS-Prüfplan dokumentiert werden.
 
 DER.3.2.A17 Durchführung der Vor-Ort-Prüfung [IS-Revisionsteam] (S)
-Bei der Vor-Ort-Prüfung SOLLTE das IS-Revisionsteam untersuchen und feststellen, ob die ausgewählten Maßnah-
-men die Anforderungen des IT-Grundschutzes angemessen und praxistauglich erfüllen.
+Bei der Vor-Ort-Prüfung SOLLTE das IS-Revisionsteam untersuchen und feststellen, ob die ausgewählten Maßnahmen die Anforderungen des IT-Grundschutzes angemessen und praxistauglich erfüllen.
 Die Prüfung SOLLTE mit einem Eröffnungsgespräch beginnen.
 Danach SOLLTEN alle für die Prüfung ausgewählten Anforderungen des Prüfplans bzw. alle Themenfelder der Prüfthemenliste überprüft werden.
 Dafür SOLLTEN die vorgesehenen Prüfmethoden angewandt werden.
