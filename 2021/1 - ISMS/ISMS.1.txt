@@ -1,5 +1,6 @@
 3.1 Basis-Anforderungen
 
+
 ISMS.1.A1 Übernahme der Gesamtverantwortung für Informationssicherheit durch die Leitung [Institutionsleitung] (B)
 Die Institutionsleitung MUSS die Gesamtverantwortung für Informationssicherheit in der Institution übernehmen.
 Dies MUSS für alle Beteiligten deutlich erkennbar sein.
