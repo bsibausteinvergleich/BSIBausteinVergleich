@@ -17,7 +17,7 @@ Alle Berechtigungen MÜSSEN über separate administrative Rollen eingerichtet we
 
 ORP.4.A3 Dokumentation der Benutzerkennungen und Rechteprofile [IT-Betrieb] (B)
 Es MUSS dokumentiert werden, welche Benutzerkennungen, angelegte Benutzergruppen und Rechteprofile zugelassen und angelegt wurden.
-Die Dokumentation der zugelassenen Benutzer, angelegten Benutzergruppen undRechteprofile MUSS regelmäßig daraufhin überprüft werden, ob sie den tatsächlichen Stand der Rechtevergabe widerspiegelt und ob die Rechtevergabe noch den Sicherheitsanforderungen und den aktuellen Aufgaben der Benutzer entspricht.
+Die Dokumentation der zugelassenen Benutzer, angelegten Benutzergruppen und Rechteprofile MUSS regelmäßig daraufhin überprüft werden, ob sie den tatsächlichen Stand der Rechtevergabe widerspiegelt und ob die Rechtevergabe noch den Sicherheitsanforderungen und den aktuellen Aufgaben der Benutzer entspricht.
 Die Dokumentation MUSS vor unberechtigtem Zugriff geschützt werden.
 Sofern sie in elektronischer Form erfolgt, SOLLTE sie in das Datensicherungsverfahren einbezogen werden.
 

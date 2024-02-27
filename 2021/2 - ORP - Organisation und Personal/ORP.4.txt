@@ -1,5 +1,6 @@
 3.1 Basis-Anforderungen
 
+
 ORP.4.A1 Regelung für die Einrichtung und Löschung von Benutzern und Benutzergruppen [IT-Betrieb] (B)
 Es MUSS geregelt werden, wie Benutzerkennungen und Benutzergruppen einzurichten und zu löschen sind.
 Jede Benutzerkennung MUSS eindeutig einem Benutzer zugeordnet werden können.

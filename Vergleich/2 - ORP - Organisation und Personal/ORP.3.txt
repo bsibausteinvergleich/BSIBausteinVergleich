@@ -1,5 +1,6 @@
 3.1 Basis-Anforderungen
 
+
 ORP.3.A1 Sensibilisierung der Institutionsleitung für Informationssicherheit [Vorgesetzte, Institutionsleitung] (B)
 Die Institutionsleitung MUSS ausreichend für Sicherheitsfragen sensibilisiert werden.
 Die Sicherheitskampagnen und Schulungsmaßnahmen MÜSSEN von der Institutionsleitung unterstützt werden.

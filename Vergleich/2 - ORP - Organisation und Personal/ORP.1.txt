@@ -1,5 +1,6 @@
 3.1 Basis-Anforderungen
 
+
 ORP.1.A1 Festlegung von Verantwortlichkeiten und Regelungen [Institutionsleitung] (B)
 Innerhalb einer Institution MÜSSEN alle relevanten Aufgaben und Funktionen klar definiert und voneinander abgegrenzt sein.
 Es MÜSSEN verbindliche Regelungen für die Informationssicherheit für die verschiedenen betrieblichen Aspekte übergreifend festgelegt werden.

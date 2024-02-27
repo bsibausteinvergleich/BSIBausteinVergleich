@@ -1,5 +1,6 @@
 3.1 Basis-Anforderungen
 
+
 ORP.2.A1 Geregelte Einarbeitung neuer Mitarbeiter [Vorgesetzte] (B)
 Die Personalabteilung sowie die Vorgesetzten MÜSSEN dafür sorgen, dass Mitarbeiter zu Beginn ihrer Beschäftigung in ihre neuen Aufgaben eingearbeitet werden.
 Die Mitarbeiter MÜSSEN über bestehende Regelungen, Handlungsanweisungen und Verfahrensweisen informiert werden.
@@ -15,7 +16,7 @@ Es SOLLTE besonders darauf geachtet werden, dass keine Interessenkonflikte auftr
 Um nach einem Stellenwechsel Interessenkonflikte zu vermeiden, SOLLTEN Konkurrenzverbote und Karenzzeiten vereinbart werden.
 Weiterhin MÜSSEN Notfall- und andere Ablaufpläne aktualisiert werden.
 Alle betroffenen Stellen innerhalb der Institution, wie z. B. das Sicherheitspersonal oder die IT-Abteilung, MÜSSEN über das Ausscheiden des Mitarbeiters informiert werden.
-Damit alle verbundenen Aufgaben, die beim Ausscheiden des Mitarbeiters anfallen, erledigt werden, SOLLTE hier ebenfalls eine Checkliste angelegt werden .
+Damit alle verbundenen Aufgaben, die beim Ausscheiden des Mitarbeiters anfallen, erledigt werden, SOLLTE hier ebenfalls eine Checkliste angelegt werden.
 Zudem SOLLTE es einen festen Ansprechpartner der Personalabteilung geben, der den Weggang von Mitarbeitern begleitet.
 
 ORP.2.A3 Festlegung von Vertretungsregelungen [Vorgesetzte] (B)
@@ -62,7 +63,7 @@ ORP.2.A7 Überprüfung der Vertrauenswürdigkeit von Mitarbeitern (S)
 Neue Mitarbeiter SOLLTEN auf ihre Vertrauenswürdigkeit hin überprüft werden, bevor sie eingestellt werden.
 Soweit möglich, SOLLTEN alle an der Personalauswahl Beteiligten kontrollieren, ob die Angaben der Bewerberinnen und Bewerber, die relevant für die Einschätzung ihrer Vertrauenswürdigkeit sind, glaubhaft sind.
 Insbesondere SOLLTE sorgfältig geprüft werden, ob der vorgelegte Lebenslauf korrekt, plausibel und vollständig ist.
-Dabei SOLLTEN auffällig erscheinende Angaben überprüft werden..
+Dabei SOLLTEN auffällig erscheinende Angaben überprüft werden.
 
 ORP.2.A8 ENTFALLEN (S)
 Diese Anforderung ist entfallen.
