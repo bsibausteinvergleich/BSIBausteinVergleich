@@ -1,5 +1,6 @@
 3.1 Basis-Anforderungen
 
+
 INF.10.A1 Sichere Nutzung von Besprechungs-, Veranstaltungs- und Schulungsräumen [Haustechnik, IT-Betrieb] (B)
 In den Räumen vorhandene Gerätschaften MÜSSEN angemessen gegen Diebstahl gesichert werden.
 Zudem MUSS festgelegt werden, wer die in den Räumen dauerhaft vorhandenen IT- und sonstigen Systeme administriert.

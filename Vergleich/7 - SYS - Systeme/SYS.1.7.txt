@@ -1,4 +1,5 @@
-3.1 Basis-Anforderungen
+3.1. Basis-Anforderungen
+
 
 SYS.1.7.A1 Einsatz restriktiver z/OS-Kennungen (B)
 Berechtigungen mit hoher Autorisierung DÜRFEN NUR an Benutzer vergeben werden, die diese Rechte für ihre Tätigkeiten benötigen.
@@ -26,14 +27,15 @@ SYS.1.7.A5 Einsatz und Sicherung systemnaher z/OS-Terminals (B)
 Systemnahe z/OS-Terminals MÜSSEN physisch gegen unbefugten Zutritt und logisch gegen unbefugten Zugang geschützt werden.
 Insbesondere die Support-Elemente sowie die HMC-, MCS-, SMCS-, Extended MCS- und Monitor-Konsolen MÜSSEN dabei berücksichtigt werden.
 Voreingestellte Passwörter MÜSSEN geändert werden.
-Zugänge über Webserver und andere Fernzugänge MÜSSEN deaktiviert werden, wenn sie nicht benötigt werden.
+Zugänge über Webserver und andere Fernzugänge MÜSSEN durch Verschlüsselung geschützt werden.
+Nicht benötigte Webserver und Fernzugänge MÜSSEN deaktiviert werden, wenn sie nicht benötigt werden.
 
 SYS.1.7.A6 Einsatz und Sicherung der Remote Support Facility (B)
 Der Leiter des IT-Betriebs MUSS entscheiden, ob und gegebenenfalls wie RSF eingesetzt wird.
 Der Einsatz MUSS im Wartungsvertrag vorgesehen und mit dem Hardware-Support abgestimmt sein.
 Es MUSS sichergestellt werden, dass die RSF-Konfiguration nur von hierzu autorisierten Personen geändert werden kann.
 Wartungszugriffe für Firmware-Modifikationen durch den Hersteller MÜSSEN vom Betreiber explizit freigegeben und nach Beendigung wieder deaktiviert werden.
-Die RSF-Kommunikation MUSS über gesicherte Verbindungen (wie TLS) stattfinden.
+Die RSF-Kommunikation MUSS über Proxy-Server und zusätzlich über gesicherte Verbindungen (wie TLS) stattfinden.
 
 SYS.1.7.A7 Restriktive Autorisierung unter z/OS (B)
 Im Rahmen der Grundkonfiguration MÜSSEN die Autorisierungsmechanismen so konfiguriert werden, dass alle Personen (definierte User-IDs in Gruppen gemäß Rolle) nur die Zugriffsmöglichkeiten erhalten, die sie für ihre jeweiligen Tätigkeiten benötigen.
@@ -41,6 +43,7 @@ Hierfür MÜSSEN insbesondere APF-Autorisierungen (Authorized Program Facility),
 
 SYS.1.7.A8 Einsatz des z/OS-Sicherheitssystems RACF (B)
 Der Einsatz von RACF für z/OS MUSS sorgfältig geplant werden, dazu gehören auch die Auswahl des Zeichensatzes, die Festlegung von Regeln für User-ID und Passwort sowie die Aktivierung der KDFAES-Verschlüsselung.
+Falls RACF PassTickets verwendet werden, MUSS der Enhanced PassTicket Algorithmus aktiviert werden.
 Voreingestellte Passwörter für das RVARY-Kommando und für neu angelegte User-IDs MÜSSEN geändert werden.
 Falls RACF-Exits eingesetzt werden sollen, MUSS deren Einsatz begründet, dokumentiert und regelmäßig überwacht werden.
 Für das Anlegen, Sperren, Freischalten und Löschen von RACF-Kennungen MÜSSEN geeignete Vorgehensweisen festgelegt sein.
@@ -63,7 +66,7 @@ SYS.1.7.A11 Schutz der Session-Daten (B)
 Session-Daten für die Verbindungen der RACF-Administratoren und möglichst auch der anderen Mitarbeiter MÜSSEN verschlüsselt übertragen werden.
 
 
-3.2 Standard-Anforderungen
+3.2. Standard-Anforderungen
 
 SYS.1.7.A12 ENTFALLEN (S)
 Diese Anforderung ist entfallen.
@@ -98,8 +101,8 @@ Für alle wichtigen Rollen der Systemverwaltung SOLLTEN außerdem Stellvertreter
 Die RACF-Attribute SPECIAL, OPERATIONS und AUDITOR SOLLTEN verschiedenen Personen zugeordnet werden (Rollentrennung).
 
 SYS.1.7.A19 Absicherung von z/OS-Transaktionsmonitoren (S)
-Falls Transaktionsmonitore oder Datenbanken unter z/OS eingesetzt werden, wie beispielsweise IMS, CICS oder DB2, SOLLTEN diese mittels RACF abgesichert werden.
-Dies gilt auch für die zugehörigen MVS-Kommandos und -Dateien.
+Falls Transaktionsmonitore oder Datenbanken unter z/OS eingesetzt werden, wie beispielsweise IMS, CICS oder Db2, SOLLTEN diese mittels RACF abgesichert werden.
+Dies gilt auch für die zugehörigen System-Kommandos und -Dateien.
 Interne Sicherheitsmechanismen der Transaktionsmonitore und Datenbanken SOLLTEN hingegen nur dort angewandt werden, wo es keine entsprechenden RACF-Funktionen gibt.
 Benutzer und Administratoren SOLLTEN nur die Zugriffsrechte erhalten, die sie für ihre jeweilige Tätigkeit benötigen.
 
@@ -112,13 +115,13 @@ Für den Fall, dass defekte Festplatten durch den Hersteller ausgetauscht werden
 SYS.1.7.A21 Absicherung des Startvorgangs von z/OS-Systemen (S)
 Die für den Startvorgang eines z/OS-Systems notwendigen Parameter SOLLTEN dokumentiert und dem Operating-Personal bekannt sein.
 Außerdem SOLLTEN die erforderlichen Hardware-Konfigurationen vorliegen, wie die IOCDS-Datei (Input/Output Configuration Data Set) und die LPARs (Logical Partitions).
-Eine MVS-Master-Konsole und eine Backup-Konsole SOLLTEN definiert sein, um Nachrichten kontrollieren zu können.
+Eine z/OS-Master-Konsole und eine Backup-Konsole SOLLTEN definiert sein, um Nachrichten kontrollieren zu können.
 Nach dem Startvorgang SOLLTE anhand einer Prüfliste kontrolliert werden, ob der Systemstatus den Soll-Vorgaben entspricht.
 Darüber hinaus SOLLTE eine Fallback-Konfiguration vorgehalten werden, mit der das System vor der letzten Änderung erfolgreich gestartet worden ist.
 
 SYS.1.7.A22 Absicherung der Betriebsfunktionen von z/OS (S)
 Alle die Produktion beeinflussenden Wartungsarbeiten sowie dynamische und sonstige Änderungen SOLLTEN nur im Rahmen des Änderungsmanagements durchgeführt werden (siehe OPS.1.1.3 Patch- und Änderungsmanagement).
-SDSF (System Display and Search Facility) und ähnliche Funktionen sowie die Prioritäten-Steuerung für Jobs SOLLTEN vor unberechtigtem Zugriff geschützt werden.
+SDSF (System Display and Search Facility) und ähnliche Funktionen sowie die Prioritäten-Steuerung für Jobs SOLLTEN mittels RACF vor unberechtigtem Zugriff geschützt werden.
 z/OS-System-Kommandos und besonders sicherheitsrelevante Befehle für dynamische Änderungen SOLLTEN über RACF geschützt werden.
 Bei der dynamischen Definition von Hardware SOLLTE sichergestellt werden, dass eine Ressource im Wirkbetrieb nicht mehreren Einzelsystemen außerhalb eines Parallel Sysplex zugeordnet wird.
 
@@ -127,6 +130,7 @@ Falls z/VM eingesetzt wird, SOLLTE das Produkt in das Patch-Management integrier
 Alle voreingestellten Passwörter SOLLTEN geändert werden.
 Die Rolle des z/VM-Systemadministrators SOLLTE nur an Personen vergeben werden, die diese Berechtigungen benötigen.
 Die Sicherheitsadministration von z/VM SOLLTE über RACF für z/VM erfolgen.
+Passwörter von realen Usern und Guest-Usern SOLLTEN mittels RACF für z/VM verschlüsselt werden.
 Die sicherheitskritischen Systemkommandos von z/VM SOLLTEN über RACF geschützt werden.
 Unter z/VM definierte virtuelle Maschinen SOLLTEN nur die für die jeweiligen Aufgaben notwendigen Ressourcen erhalten und strikt voneinander getrennt sein.
 Unter z/VM SOLLTEN nur die benötigten Dienste gestartet werden.
@@ -147,7 +151,7 @@ Die Festplattenkapazitäten SOLLTEN außerdem vom Space-Management überwacht we
 
 SYS.1.7.A26 WorkLoad Management für z/OS-Systeme (S)
 Die Programme, Dateien und Kommandos des WorkLoad Managers (WLM) sowie die dafür notwendigen Couple Data Sets SOLLTEN mittels RACF geschützt werden.
-Dabei SOLLTE sichergestellt sein, dass die Berechtigungen zum Ändern des WLM über MVS-Kommandos und über die SDSF-Schnittstelle gleich sind.
+Dabei SOLLTE sichergestellt sein, dass die Berechtigungen zum Ändern des WLM über z/OS-Kommandos und über die SDSF-Schnittstelle gleich sind.
 
 SYS.1.7.A27 Zeichensatzkonvertierung bei z/OS-Systemen (S)
 Wenn Textdateien zwischen z/OS-Systemen und anderen Systemen übertragen werden, SOLLTE darauf geachtet werden, dass eventuell eine Zeichensatzkonvertierung erforderlich ist.
@@ -166,7 +170,7 @@ HFS- und zFS-Dateien, die USS-Dateisysteme enthalten, SOLLTEN über RACF-Profile
 Außerdem SOLLTE das Root-Dateisystem mit der Option Read-Only gemounted werden.
 Es SOLLTE im USS-Dateisystem KEINE APF-Autorisierung (Authorized Program Facility) über das File Security Packet (FSP) geben.
 Stattdessen SOLLTEN die Module von APF-Dateien des z/OS-Betriebssystems geladen werden.
-Zwischen USS-User-IDs und MVS-User-IDs SOLLTE es eine eindeutige Zuordnung geben.
+Zwischen USS-User-IDs und z/OS-User-IDs SOLLTE es eine eindeutige Zuordnung geben.
 Berechtigungen unter USS SOLLTEN über die RACF-Klasse UNIXPRIV vergeben werden und NICHT durch Vergabe der UID 0.
 Für Überprüfungen und das Monitoring der USS SOLLTEN die gleichen Mechanismen wie für z/OS genutzt werden.
 
@@ -179,7 +183,7 @@ Es SOLLTE ein Verfahren zur Wiederherstellung einer funktionierenden RACF-Datenb
 Weiterhin SOLLTEN eine Kopie des z/OS-Betriebssystems als z/OS-Backup-System und, unabhängig von Produktivsystem, ein z/OS-Notfallsystem vorgehalten werden.
 
 
-3.3 Anforderungen bei erhöhtem Schutzbedarf
+3.3. Anforderungen bei erhöhtem Schutzbedarf
 
 SYS.1.7.A32 Festlegung von Standards für z/OS-Systemdefinitionen (H)
 Es SOLLTEN Standards und Namenskonventionen für z/OS-Systemdefinitionen festgelegt und dokumentiert werden.

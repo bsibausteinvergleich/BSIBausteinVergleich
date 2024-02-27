@@ -1,5 +1,6 @@
 3.1 Basis-Anforderungen
 
+
 IND.2.7.A1 Erfassung und Dokumentation [Planer, Wartungspersonal] (B)
 Alle zum SIS gehörenden Hardware- und Softwarekomponenten, relevante Informationen, Verbindungen sowie Rollen und Zuständigkeiten MÜSSEN gesondert erfasst und dokumentiert werden.
 

@@ -1,5 +1,6 @@
 3.1 Basis-Anforderungen
 
+
 SYS.4.5.A1 Sensibilisierung der Mitarbeiter zum sicheren Umgang mit Wechseldatenträgern (B)
 Alle Mitarbeiter MÜSSEN für den sicheren Umgang mit Wechseldatenträgern sensibilisiert werden.
 Die Mitarbeiter MÜSSEN insbesondere darauf hingewiesen werden, wie sie mit den Wechseldatenträgern umgehen sollten, um einem Verlust oder Diebstahl vorzubeugen und eine lange Lebensdauer zu gewährleisten.

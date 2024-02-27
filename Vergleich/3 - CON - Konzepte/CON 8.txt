@@ -1,4 +1,5 @@
-3.1 Basis-Anforderungen
+3.1. Basis-Anforderungen
+
 
 CON.8.A2 Auswahl eines Vorgehensmodells (B)
 Ein geeignetes Vorgehensmodell zur Software-Entwicklung MUSS festgelegt werden.
@@ -61,12 +62,12 @@ Die Versionsverwaltung DARF NICHT ohne Datensicherung erfolgen.
 
 CON.8.A20 Überprüfung von externen Komponenten (B)
 Unbekannte externe Komponenten (bzw. Programm-Bibliotheken), deren Sicherheit nicht durch etablierte und anerkannte Peer-Reviews oder vergleichbares sichergestellt werden kann, MÜSSEN auf Schwachstellen überprüft werden.
-Alle externen Komponenten MÜSSEN auf potenzielle Konflikte überprüft werden.
+Alle externen Komponenten MÜSSEN auf potentielle Konflikte überprüft werden.
 Die Integrität von externen Komponenten MUSS durch Prüfsummen oder kryptographische Zertifikate überprüft werden.
 Darüber hinaus SOLLTEN keine veralteten Versionen von externen Komponenten in aktuellen Entwicklungsprojekten verwendet werden.
 
 
-3.2 Standard-Anforderungen
+3.2. Standard-Anforderungen
 
 CON.8.A1 Definition von Rollen und Zuständigkeiten [Zentrale Verwaltung] (S)
 Für den Software-Entwicklungsprozess SOLLTE ein Gesamtzuständiger benannt werden.
@@ -98,7 +99,7 @@ Diese Anforderung ist entfallen.
 CON.8.A14 Schulung des Entwicklungsteams zur Informationssicherheit (S)
 Die Entwickler und die übrigen Mitglieder des Entwicklungsteams SOLLTEN zu generellen Informationssicherheitsaspekten und zu den jeweils speziell für sie relevanten Aspekten geschult sein:
 • Anforderungsanalyse,
-• Projektmanagement allgemein sowie speziell bei der Software-Entwicklung,,
+• Projektmanagement allgemein sowie speziell bei der Software-Entwicklung,
 • Risikomanagement bzw. Bedrohungsmodellierung in der Software-Entwicklung,
 • Qualitätsmanagement und Qualitätssicherung,
 • Modelle und Methoden für die Software-Entwicklung,
@@ -119,7 +120,7 @@ Außerdem SOLLTEN geeignete Qualitätsziele für das Entwicklungsprojekt definie
 
 CON.8.A21 Bedrohungsmodellierung (S)
 In der Entwurfsphase der Software-Entwicklung SOLLTE eine Bedrohungsmodellierung durchgeführt werden.
-Hierzu SOLLTEN auf Basis des Sicherheitsprofils, des Anforderungskatalogs und der geplanten Einsatzumgebung bzw. Einsatzszenarios potenzielle Bedrohungen identifiziert werden.
+Hierzu SOLLTEN auf Basis des Sicherheitsprofils, des Anforderungskatalogs und der geplanten Einsatzumgebung bzw. Einsatzszenarios potentielle Bedrohungen identifiziert werden.
 Die Bedrohungen SOLLTEN hinsichtlich ihrer Eintrittswahrscheinlichkeit und Auswirkung bewertet werden.
 
 CON.8.A22 Sicherer Software-Entwurf (S)
@@ -128,7 +129,7 @@ Im Rahmen des sicheren Software-Entwurfs SOLLTE eine sichere Software-Architektu
 Hierbei SOLLTEN möglichst zukünftige Standards und Angriffstechniken berücksichtigt werden, damit die zu entwickelnde Software auch zukünftig leicht gewartet werden kann.
 
 
-3.3 Anforderungen bei erhöhtem Schutzbedarf
+3.3. Anforderungen bei erhöhtem Schutzbedarf
 
 CON.8.A17 Auswahl vertrauenswürdiger Entwicklungswerkzeuge (H)
 Zur Entwicklung der Software SOLLTEN nur Werkzeuge mit nachgewiesenen Sicherheitseigenschaften verwendet werden.

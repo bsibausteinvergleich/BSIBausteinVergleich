@@ -1,5 +1,6 @@
 3.1 Basis-Anforderungen
 
+
 NET.3.2.A1 Erstellung einer Sicherheitsrichtlinie (B)
 Ausgehend von der allgemeinen Sicherheitsrichtlinie der Institution MUSS eine spezifische Sicherheitsrichtlinie erstellt werden.
 In dieser MÜSSEN nachvollziehbar Anforderungen und Vorgaben beschrieben sein, wie Firewalls sicher betrieben werden können.
@@ -88,7 +89,6 @@ Grundlage für die Beschaffung MÜSSEN daher die Anforderungen aus der Sicherhei
 Wird IPv6 eingesetzt, MUSS der Paketfilter die IPv6-Erweiterungsheader (Extension Header) überprüfen.
 Zudem MUSS sich IPv6 adäquat zu IPv4 konfigurieren lassen.
 
-
 3.2 Standard-Anforderungen
 
 NET.3.2.A16 Aufbau einer „P-A-P“-Struktur (S)
@@ -120,7 +120,7 @@ Die Protokolle HTTP, SMTP und DNS inklusive ihrer verschlüsselten Versionen SOL
 NET.3.2.A21 Temporäre Entschlüsselung des Datenverkehrs (S)
 Verschlüsselte Verbindungen in nicht vertrauenswürdige Netze SOLLTEN temporär entschlüsselt werden, um das Protokoll zu verifizieren und die Daten auf Schadsoftware zu prüfen.
 Hierbei SOLLTEN die rechtlichen Rahmenbedingungen beachtet werden.
-Die Komponente, die den Datenverkehr temporär entschlüsselt, SOLLTE unterbinden, dass veraltete Verschlüsselungsoptionen und kryptografische Algorithmenbenutzt werden.
+Die Komponente, die den Datenverkehr temporär entschlüsselt, SOLLTE unterbinden, dass veraltete Verschlüsselungsoptionen und kryptografische Algorithmen benutzt werden.
 Der eingesetzte TLS-Proxy SOLLTE prüfen können, ob Zertifikate vertrauenswürdig sind.
 Ist ein Zertifikat nicht vertrauenswürdig, SOLLTE es möglich sein, die Verbindung abzuweisen.
 Eigene Zertifikate SOLLTEN nachrüstbar sein, um auch „interne“ Root-Zertifikate konfigurieren und prüfen zu können.

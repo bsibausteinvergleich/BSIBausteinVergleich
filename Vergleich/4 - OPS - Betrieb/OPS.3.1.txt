@@ -1,5 +1,6 @@
 3.1 Basis-Anforderungen
 
+
 OPS.3.1.A1 Erstellung eines Grobkonzeptes für die Outsourcing-Dienstleistung (B)
 Für die angebotene Outsourcing-Dienstleistung MUSS ein Grobkonzept erstellt werden.
 Dieses Grobkonzept MUSS die Rahmenbedingungen des Outsourcings berücksichtigen, wie z. B. Sonderwünsche.
@@ -47,7 +48,7 @@ Die benötigten Mechanismen zur Mandantentrennung beim Outsourcing-Dienstleister
 OPS.3.1.A8 Vereinbarung über die Anbindung an Netze der Outsourcing-Partner (S)
 Vor der Anbindung des eigenen Netzes an das Netz eines Outsourcing-Kunden SOLLTEN alle sicherheitsrelevanten Aspekte in einer Vereinbarung schriftlich festgelegt werden.
 Es SOLLTE definiert werden, wer aus dem einen Datennetz auf welche Bereiche und Dienste des jeweils anderen Datennetzes zugreifen darf.
-Es SOLLTEN auf jeder Seite Ansprechpartner sowohl für organisatorische als auch für technische Fragen zur Netzanbindung benannt werden.
+Es SOLLTEN auf jeder Seite Ansprechpartner sowohl für organisatorische als auch für technische Fragen zur Netzanbindung benannt werden. 
 Auf beiden Seiten SOLLTEN alle identifizierten Sicherheitslücken beseitigt und das geforderte Sicherheitsniveau nachweislich erreicht sein, bevor die Netzanbindung aktiviert wird.
 Für den Fall von Sicherheitsproblemen auf einer der beiden Seiten SOLLTE festgelegt sein, wer darüber zu informieren ist und welche Eskalationsschritte einzuleiten sind.
 
@@ -92,7 +93,7 @@ Bei Änderungen in der Migrationsphase SOLLTE geprüft werden, ob vertragliche G
 
 OPS.3.1.A14 Notfallvorsorge beim Outsourcing [Notfallbeauftragter] (S)
 Es SOLLTE ein Notfallkonzept zum Outsourcing geben, das die Komponenten beim Outsourcing-Kunden, beim Outsourcing-Dienstleister sowie die zugehörigen Schnittstellen umfasst.
-Im Notfallvorsorgekonzept zum Outsourcing SOLLTEN die Zuständigkeiten, Ansprechpartner und Abläufe zwischen Outsourcing-Kunden und OutsourcingDienstleister geregelt sein.
+Im Notfallvorsorgekonzept zum Outsourcing SOLLTEN die Zuständigkeiten, Ansprechpartner und Abläufe zwischen Outsourcing-Kunden und Outsourcing-Dienstleister geregelt sein.
 Es SOLLTEN regelmäßig gemeinsame Notfallübungen durchgeführt werden.
 
 OPS.3.1.A15 Geordnete Beendigung eines Outsourcing-Verhältnisses [Institutionsleitung] (S)

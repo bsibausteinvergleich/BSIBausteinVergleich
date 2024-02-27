@@ -1,5 +1,6 @@
 3.1 Basis-Anforderungen
 
+
 CON.1.A1 Auswahl geeigneter kryptografischer Verfahren [Fachverantwortliche] (B)
 Es MÜSSEN geeignete kryptografische Verfahren ausgewählt werden.
 Dabei MUSS sichergestellt sein, dass etablierte Algorithmen verwendet werden, die von der Fachwelt intensiv untersucht wurden und von denen keine Sicherheitslücken bekannt sind.
@@ -54,7 +55,6 @@ Die Ergebnisse SOLLTEN sinnvoll dokumentiert werden.
 
 CON.1.A8 Erhebung der Einflussfaktoren für kryptografische Verfahren und Produkte (H)
 Bevor entschieden werden kann, welche kryptografischen Verfahren und Produkte bei erhöhtem Schutzbedarf eingesetzt werden, SOLLTEN unter anderem folgende Einflussfaktoren ermittelt werden:
-
 • Sicherheitsaspekte (siehe CON.1.A6 Bedarfserhebung für kryptografische Verfahren und Produkte),
 • technische Aspekte,
 • personelle und organisatorische Aspekte,
@@ -99,7 +99,7 @@ Das Zusammenwirken von Betriebssystem und Kryptomodulen SOLLTE gewährleisten, d
 CON.1.A14 Schulung von Benutzern und Administratoren [Vorgesetzte, Fachverantwortliche, IT-Betrieb] (H)
 Es SOLLTE Schulungen geben, in denen Benutzern und Administratoren der Umgang mit den für sie relevanten Kryptomodulen vermittelt wird.
 Den Benutzern SOLLTE genau erläutert werden, was die spezifischen Sicherheitseinstellungen von Kryptomodulen bedeuten und warum sie wichtig sind.
-Außerdem SOLLTEN sie auf die Gefahren hingewiesen werden, die drohen, wenn diese Sicherheitseinstellungen aus Bequemlichkeit umgangen oder deaktiviert werden.
+Außerdem SOLLTEN sie auf die Gefahrenhingewiesen werden, die drohen, wenn diese Sicherheitseinstellungen aus Bequemlichkeit umgangen oder deaktiviert werden.
 Die Schulungsinhalte SOLLTEN immer den jeweiligen Einsatzszenarien entsprechend angepasst werden.
 Die Administratoren SOLLTEN zudem gezielt dazu geschult werden, wie die Kryptomodule zu administrieren sind.
 Auch SOLLTEN sie einen Überblick über kryptografische Grundbegriffe erhalten.

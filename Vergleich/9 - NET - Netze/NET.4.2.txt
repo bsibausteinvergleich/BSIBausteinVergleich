@@ -1,10 +1,12 @@
 3.1 Basis-Anforderungen
 
+
 NET.4.2.A1 Planung des VoIP-Einsatzes (B)
 Die Bedingungen, unter denen VoIP eingesetzt werden soll, MÜSSEN festgelegt werden.
 Es MUSS unter anderem entschieden werden, ob vollständig oder partiell auf VoIP umgestiegen werden soll.
 Besondere Anforderungen an die Verfügbarkeit von VoIP oder an die Vertraulichkeit und Integrität der Telefonate bzw. der Signalisierungsinformationen SOLLTEN vorab ermittelt werden.
 Geeignete Signalisierungs- und Medientransportprotokolle MÜSSEN vor dem Einsatz ausgewählt werden.
+
 Es SOLLTE entschieden werden, ob und wie die VoIP-Infrastruktur an öffentliche (Daten-)Netze angebunden werden soll.
 Die Kapazitäten und das Design von vorhandenen Datennetzen SOLLTEN bei der Planung berücksichtigt werden.
 

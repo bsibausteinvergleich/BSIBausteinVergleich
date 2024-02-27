@@ -1,5 +1,6 @@
 3.1 Basis-Anforderungen
 
+
 APP.4.6.A1 Absicherung von Reports mit Berechtigungsprüfungen (B)
 Es MUSS sichergestellt sein, dass nur berechtigte Benutzer selbst programmierte Auswertungen (Reports) starten können.
 Deswegen MUSS jeder Report explizite, zum Kontext passende Berechtigungsprüfungen durchführen.
@@ -63,7 +64,8 @@ Die Schnittstelle ABAP Database Connectivity (ADBC) SOLLTE NICHT verwendet werde
 Benutzereingaben SOLLTEN NICHT Teil von ADBC-Befehlen sein.
 
 APP.4.6.A15 Vermeidung von Datenlecks (S)
-Es SOLLTE eine ausreichend sichere Berechtigungsprüfung durchgeführt werden, bevor geschäftskritische Daten angezeigt, übermittelt oder exportiert werden.
+Es SOLLTE eine ausreichend sichere Berechtigungsprüfung durchgeführt werden, bevor geschäftskritische Daten
+angezeigt, übermittelt oder exportiert werden.
 Vorgesehene (gewollte) Möglichkeiten des Exports SOLLTEN dokumentiert werden.
 
 APP.4.6.A16 Verzicht auf systemabhängige Funktionsausführung (S)

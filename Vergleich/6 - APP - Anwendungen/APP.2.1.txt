@@ -1,5 +1,6 @@
 3.1 Basis-Anforderungen
 
+
 APP.2.1.A1 Erstellung einer Sicherheitsrichtlinie für Verzeichnisdienste (B)
 Es MUSS eine Sicherheitsrichtlinie für den Verzeichnisdienst erstellt werden.
 Diese SOLLTE mit dem übergreifenden Sicherheitskonzept der gesamten Institution abgestimmt sein.
@@ -7,7 +8,8 @@ Diese SOLLTE mit dem übergreifenden Sicherheitskonzept der gesamten Institution
 APP.2.1.A2 Planung des Einsatzes von Verzeichnisdiensten [Datenschutzbeauftragter, Fachverantwortliche] (B)
 Der Einsatz von Verzeichnisdiensten MUSS sorgfältig geplant werden.
 Die konkrete Nutzung des Verzeichnisdienstes MUSS festgelegt werden.
-Es MUSS sichergestellt sein, dass der Verzeichnisdienst und alle ihn verwendenden Anwendungen kompatibel sind. Zudem MUSS ein Modell aus Objektklassen und Attributtypen entwickelt werden, das den Ansprüchen der vorgesehenen Nutzungsarten genügt.
+Es MUSS sichergestellt sein, dass der Verzeichnisdienst und alle ihn verwendenden Anwendungen kompatibel sind.
+Zudem MUSS ein Modell aus Objektklassen und Attributtypen entwickelt werden, das den Ansprüchen der vorgesehenen Nutzungsarten genügt.
 Bei der Planung des Verzeichnisdienstes MÜSSEN Personalvertretung und Datenschutzbeauftragter beteiligt werden.
 Es MUSS ein bedarfsgerechtes Berechtigungskonzept zum Verzeichnisdienst entworfen werden.
 Generell SOLLTE die geplante Verzeichnisdienststruktur vollständig dokumentiert werden.
@@ -44,7 +46,8 @@ Die daraus entwickelten Sicherheitsrichtlinien SOLLTEN schriftlich festgehalten 
 
 APP.2.1.A8 Planung einer Partitionierung und Replikation im Verzeichnisdienst (S)
 Bei einer Partitionierung SOLLTE auf die Verfügbarkeit und den Schutzbedarf des Verzeichnisdienstes geachtet werden.
-Die Partitionierung des Verzeichnisdienstes SOLLTE schriftlich so dokumentiert werden, dass sie manuell wieder rekonstruiert werden kann. Um die Replikationen zeitgerecht ausführen zu können, SOLLTE eine ausreichende Bandbreite sichergestellt werden.
+Die Partitionierung des Verzeichnisdienstes SOLLTE schriftlich so dokumentiert werden, dass sie manuell wieder rekonstruiert werden kann.
+Um die Replikationen zeitgerecht ausführen zu können, SOLLTE eine ausreichende Bandbreite sichergestellt werden.
 
 APP.2.1.A9 Geeignete Auswahl von Komponenten für Verzeichnisdienste [Fachverantwortliche] (S)
 Für den Einsatz eines Verzeichnisdienstes SOLLTEN geeignete Komponenten identifiziert werden.

@@ -1,5 +1,6 @@
 3.1 Basis-Anforderungen
 
+
 SYS.4.3.A1 Regelungen zum Umgang mit eingebetteten Systemen (B)
 Um eingebettete Systeme reibungslos zu betreiben, MÜSSEN Zuständige ernannt werden.
 Alle Benutzer und Administratoren MÜSSEN über Verhaltensregeln und Meldewege bei Ausfällen, Fehlfunktionen oder bei Verdacht auf einen Sicherheitsvorfall informiert sein.
@@ -40,7 +41,7 @@ Wird On-Chip-Debugging genutzt, MUSS sichergestellt werden, dass Debugging-Funkt
 Weiterhin SOLLTE sichergestellt werden, dass keine Eingabeschnittstellen für Testsignale und Messpunkte zum Anschluss von Analysatoren aktiviert bzw. für Unberechtigte nutzbar sind.
 Zudem SOLLTEN alle Hardware-Debugging-Schnittstellen deaktiviert sein.
 
-SYS.4.3.A7 Hardware-Realisierung von Funktionen eingebetteter Systeme [Entwickler, Planer, Beschaffungsstelle] (S)
+SYS.4.3.A7 Hardware-Realisierung von Funktionen eingebetteter Systeme [Entwickler, Planer,Beschaffungsstelle] (S)
 Werden eingebettete Systeme selbst entwickelt, SOLLTEN bei der Designentscheidung zur Hardware- und Software-Realisierung Sicherheitsaspekte berücksichtigt werden.
 Auch bei der Entscheidung, eine bestimmte Hardware-Technik zu implementieren, SOLLTEN Sicherheitsaspekte berücksichtigt werden.
 
@@ -75,7 +76,7 @@ Die beteiligten Unternehmen SOLLTEN nachweisbar qualifiziert sein.
 SYS.4.3.A13 Einsatz eines zertifizierten Betriebssystems [Entwickler, Planer, Beschaffungsstelle] (H)
 Das Betriebssystem SOLLTE nach einem anerkannten Standard auf einer angemessenen Stufe evaluiert sein.
 
-SYS.4.3.A14 Abgesicherter und authentisierter Bootprozess bei eingebetteten Systemen [Entwickler, Planer, Beschaffungsstelle] (H)
+SYS.4.3.A14 Abgesicherter und authentisierter Bootprozess bei eingebetteten Systemen [Entwickler, Planer,Beschaffungsstelle] (H)
 Der Bootprozess eines eingebetteten Systems SOLLTE abgesichert sein, indem der Bootloader die Integrität des Betriebssystems überprüft und es nur dann lädt, wenn es als korrekt eingestuft wurde.
 Umgekehrt SOLLTE auch das Betriebssystem die Integrität des Bootloaders prüfen.
 Es SOLLTE ein mehrstufiges Boot-Konzept mit kryptografisch sicherer Überprüfung der Einzelschritte realisiert werden.
@@ -99,5 +100,5 @@ Soweit möglich, SOLLTEN die Selbsttestfunktionen auch Sicherheitsfunktionen bzw
 Regelmäßig SOLLTE die Integrität der Speicher und I/O-Komponenten im Rahmen des BIST geprüft werden.
 Bestehende BIST-Funktionen SOLLTEN, falls möglich, um die erforderlichen Funktionen ergänzt werden.
 
-SYS.4.3.A18 Widerstandsfähigkeit eingebetteter Systeme gegen Seitenkanalangriffe [Entwickler, Beschaffungsstelle] (H)
+SYS.4.3.A18 Widerstandsfähigkeit eingebetteter Systeme gegen Seitenkanalangriffe [Entwickler,Beschaffungsstelle] (H)
 Um eingebettete Systeme widerstandsfähig gegen Seitenkanalangriffe zu machen, SOLLTEN angemessene Vorkehrungen gegen nicht-invasive und (semi-)invasive Seitenkanalangriffe getroffen werden.

@@ -1,5 +1,6 @@
 3.1 Basis-Anforderungen
 
+
 CON.7.A1 Sicherheitsrichtlinie zur Informationssicherheit auf Auslandsreisen (B)
 Alle für die Informationssicherheit relevanten Aspekte, die in Verbindung mit den Tätigkeiten im Ausland stehen, MÜSSEN betrachtet und geregelt werden.
 Die Sicherheitsmaßnahmen, die in diesem Zusammenhang ergriffen werden, MÜSSEN in einer Sicherheitsrichtlinie zur Informationssicherheit auf Auslandsreisen dokumentiert werden.
@@ -9,7 +10,7 @@ Die Umsetzung des Sicherheitskonzeptes MUSS regelmäßig überprüft werden.
 
 CON.7.A2 Sensibilisierung der Mitarbeiter zur Informationssicherheit auf Auslandsreisen (B)
 Benutzer MÜSSEN im verantwortungsvollen Umgang mit Informationstechnik bzw. tragbaren IT-Systemen auf Auslandsreisen sensibilisiert und geschult werden.
-Benutzer MÜSSEN die Gefahren kennen, die durch den unangemessenen Umgang mit Informationen, die unsachgemäße Vernichtung von Daten und Datenträgern oder durch Schadsoftware und den unsicheren Datenaustausch entstehen können. 
+Benutzer MÜSSEN die Gefahren kennen, die durch den unangemessenen Umgang mit Informationen, die unsachgemäße Vernichtung von Daten und Datenträgern oder durch Schadsoftware und den unsicheren Datenaustausch entstehen können.
 Außerdem MÜSSEN die Grenzen der eingesetzten Sicherheitsmaßnahmen aufgezeigt werden.
 Die Benutzer MÜSSEN dazu befähigt und darin bestärkt werden, einem Verlust oder Diebstahl vorzubeugen bzw. bei Ungereimtheiten fachliche Beratung einzuholen.
 Außerdem SOLLTEN Mitarbeiter auf gesetzliche Anforderungen einzelner Reiseziele in Bezug auf die Reisesicherheit hingewiesen werden.
@@ -98,7 +99,7 @@ Die Institution SOLLTE prüfen, ob die mitgeführten Informationen einen besonde
 
 CON.7.A16 Integritätsschutz durch Check-Summen oder digitale Signaturen [Benutzer] (H)
 Der Benutzer SOLLTE Check-Summen im Rahmen der Datenübertragung und Datensicherung verwenden, um die Integrität der Daten überprüfen zu können.
-Besser noch SOLLTEN digitale Signaturen verwendet werden, um die Integrität von schützenswerten Informationen zu bewahren
+Besser noch SOLLTEN digitale Signaturen verwendet werden, um die Integrität von schützenswerten Informationen zu bewahren.
 
 CON.7.A17 Verwendung vorkonfigurierter Reise-Hardware [IT-Betrieb] (H)
 Damit schützenswerte Informationen der Institution auf Auslandsreisen nicht von Dritten abgegriffen werden können, SOLLTE der IT-Betrieb den Mitarbeitern vorkonfigurierte Reise-Hardware zur Verfügung stellen.

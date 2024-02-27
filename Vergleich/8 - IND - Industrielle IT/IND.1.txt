@@ -1,5 +1,6 @@
 3.1 Basis-Anforderungen
 
+
 IND.1.A1 Einbindung in die Sicherheitsorganisation (B)
 Ein Managementsystem für Informationssicherheit (ISMS) für den Betrieb der OT-Infrastruktur MUSS entweder als selbständiges ISMS oder als Teil eines Gesamt-ISMS existieren.
 Ein Gesamtverantwortlicher für die Informationssicherheit im OT-Bereich MUSS benannt werden.
@@ -49,7 +50,7 @@ IND.1.A7 Etablieren einer übergreifenden Berechtigungsverwaltung zwischen der O
 Die Institution SOLLTE einen Prozess zur Verwaltung von Benutzerzugängen und zugeordneten Berechtigungen für den Zugriff auf die OT etablieren.
 Die Berechtigungsverwaltung SOLLTE den Prozess, die Durchführung und die Dokumentation für die Beantragung, Einrichtung und den Entzug von Berechtigungen umfassen.
 Die Berechtigungsverwaltung SOLLTE gewährleisten, dass Berechtigungen nach dem Minimalprinzip vergeben und regelmäßig überprüft werden.
-In der Berechtigungsverwaltung SOLLTEN die Zugriffe auf IT-Systeme für Mitarbeiter, Administratoren und Dritte geregelt sein.
+In der Berechtigungsverwaltung SOLLTEN die Zugriffe auf IT-Systeme für Mitarbeiter,Administratoren und Dritte geregelt sein.
 Jeder Beteiligte SOLLTE regelmäßig zu den einzuhaltenden Regelungen sensibilisiert werden.
 Die Einhaltung SOLLTE überprüft werden.
 Fehlverhalten SOLLTE sanktioniert werden.

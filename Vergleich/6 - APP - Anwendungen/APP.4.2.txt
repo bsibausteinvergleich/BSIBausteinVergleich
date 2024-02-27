@@ -1,7 +1,8 @@
 3.1 Basis-Anforderungen
 
+
 APP.4.2.A1 Sichere Konfiguration des SAP-ABAP-Stacks (B)
-Der SAP-ABAP-Stack MUSS sicher konfiguriert werden. 
+Der SAP-ABAP-Stack MUSS sicher konfiguriert werden.
 Dazu MÜSSEN die jeweiligen Profilparameter gesetzt werden, z. B. für die Passwortsicherheit, Authentisierung und Verschlüsselung.
 Auch MÜSSEN die Systemänderbarkeit und die Mandanten konfiguriert, das IMG-Customizing durchgeführt und die Betriebssystemkommandos abgesichert werden.
 
@@ -30,19 +31,11 @@ Für SAP-ERP-Systeme MUSS ein Benutzer- und Berechtigungskonzept ausgearbeitet u
 Dabei MÜSSEN folgende Punkte berücksichtigt werden:
 • Identitätsprinzip, Minimalprinzip, Stellenprinzip, Belegprinzip der Buchhaltung, Belegprinzip der Berechtigungsverwaltung, Funktionstrennungsprinzip (Segregation of Duties, SoD), Genehmigungsprinzip, Standardprinzip, Schriftformprinzip und Kontrollprinzip MÜSSEN berücksichtigt werden.
 • Benutzer-, Berechtigungs- und ggf. Profiladministrator MÜSSEN getrennte Verantwortlichkeiten und damit Berechtigungen haben.
-• Vorgehensweisen im Rahmen der Berechtigungsadministration für Rollen anlegen, ändern, löschen, transportieren und SU24 Vorschlagswerte transportieren MÜSSEN definiert werden.
-Dabei SOLLTEN Berechtigungsrollen nur im Entwicklungssystem angelegt und gepflegt werden.
-Sie SOLLTEN mit Hilfe des Transport-Management-Systems (TMS) transportiert werden.
-Berechtigungen SOLLTEN in Berechtigungsrollen (PFCG-Rollen) angelegt, gespeichert und dem Benutzer zugeordnet werden (rollenbasiertes Berechtigungskonzept).
-Da sich einzelne kritische Aktionen in den Rollen nicht immer vermeiden lassen, SOLLTEN sie von kompensierenden Kontrollen (mitigation controls) abgedeckt werden.
+• Vorgehensweisen im Rahmen der Berechtigungsadministration für Rollen anlegen, ändern, löschen, transportieren und SU24 Vorschlagswerte transportieren MÜSSEN definiert werden. Dabei SOLLTEN Berechtigungsrollen nur im Entwicklungssystem angelegt und gepflegt werden. Sie SOLLTEN mit Hilfe des Transport-Management-Systems (TMS) transportiert werden. Berechtigungen SOLLTEN in Berechtigungsrollen (PFCG-Rollen) angelegt, gespeichert und dem Benutzer zugeordnet werden (rollenbasiertes Berechtigungskonzept). Da sich einzelne kritische Aktionen in den Rollen nicht immer vermeiden lassen, SOLLTEN sie von kompensierenden Kontrollen (mitigation controls) abgedeckt werden.
 • Vorgehensweisen im Rahmen der Berechtigungsvergabe für Benutzer und Berechtigungen beantragen, genehmigen, ändern und löschen MÜSSEN definiert werden.
 • Namenskonventionen für Benutzerkennungen und technische Rollennamen MÜSSEN definiert werden.
-• Vorschlagswerte und Prüfkennzeichen SOLLTEN in der Transaktion SU24 gepflegt werden.
-Die Vorgehensweise dazu SOLLTE im Benutzer- und Berechtigungskonzept beschrieben sein.
-• Gesetzliche und interne Rahmenbedingungen wie die Grundsätze ordnungsgemäßer Buchführung (GoB), das Handelsgesetzbuch (HGB) oder interne Vorgaben der Institution MÜSSEN berücksichtigt werden.
-Das Benutzer- und Berechtigungskonzept SOLLTE auch den Betrieb technischer Konten abdecken, also auch die Berechtigung von Hintergrund- und Schnittstellenbenutzern.
-Es SOLLTEN geeignete Kontrollmechanismen angewandt werden, um SoD-Konfliktfreiheit von Rollen und die Vergabe von kritischen Berechtigungen an Benutzer zu überwachen.
-Werden neben dem ABAP-Backend weitere Komponenten wie SAP HANA und SAP NetWeaver Gateway (für Fiori-Anwendungen) verwendet, MUSS das Design der Berechtigungen zwischen den Komponenten abgestimmt und synchronisiert werden.
+• Vorschlagswerte und Prüfkennzeichen SOLLTEN in der Transaktion SU24 gepflegt werden. Die Vorgehensweise dazu SOLLTE im Benutzer- und Berechtigungskonzept beschrieben sein.
+• Gesetzliche und interne Rahmenbedingungen wie die Grundsätze ordnungsgemäßer Buchführung (GoB), das Handelsgesetzbuch (HGB) oder interne Vorgaben der Institution MÜSSEN berücksichtigt werden. Das Benutzer- und Berechtigungskonzept SOLLTE auch den Betrieb technischer Konten abdecken, also auch die Berechtigung von Hintergrund- und Schnittstellenbenutzern. Es SOLLTEN geeignete Kontrollmechanismen angewandt werden, um SoD-Konfliktfreiheit von Rollen und die Vergabe von kritischen Berechtigungen an Benutzer zu überwachen. Werden neben dem ABAP-Backend weitere Komponenten wie SAP HANA und SAP NetWeaver Gateway (für Fiori-Anwendungen) verwendet, MUSS das Design der Berechtigungen zwischen den Komponenten abgestimmt und synchronisiert werden.
 
 APP.4.2.A7 Absicherung der SAP-Datenbanken (B)
 Der Zugriff auf SAP-Datenbanken MUSS abgesichert werden.
@@ -57,7 +50,8 @@ Es MÜSSEN für alle RFC-Verbindungen einheitliche Verwaltungsrichtlinien erstel
 Dazu SOLLTEN die benötigten RFC-Verbindungen definiert und dokumentiert werden.
 Verbindungen mit hinterlegtem Passwort SOLLTEN nicht von niedriger privilegierten auf höher privilegierte Systeme (z. B. von Dev nach Prod) konfiguriert sein.
 Nicht mehr benutzte RFC-Verbindungen MÜSSEN gelöscht werden.
-Alle RFC-Gateways MÜSSEN sicher administriert werden. Dazu MÜSSEN geeignete Profilparameter gesetzt werden, z. B. gw/monitor, gw/reg_no_conn_info und snc/permit_insecure_start.
+Alle RFC-Gateways MÜSSEN sicher administriert werden.
+Dazu MÜSSEN geeignete Profilparameter gesetzt werden, z. B. gw/monitor, gw/reg_no_conn_info und snc/permit_insecure_start.
 Alle Verbindungen über ein Gateway MÜSSEN unter dem Sicherheitsaspekt analysiert und bewertet werden.
 Außerdem MUSS die Protokollierung aktiv sein.
 Es MÜSSEN Zugriffssteuerungslisten (ACLs) definiert werden.
@@ -113,7 +107,7 @@ Die SAP-spezifischen Benutzer wie <sid>adm oder SAPService <sid> SOLLTEN abgesic
 Nach der Installation SOLLTE der Benutzer <db><sid> gesperrt werden.
 Der Benutzer SAPService <sid> SOLLTE KEINE Rechte zur interaktiven Anmeldung besitzen.
 In Bezug auf diese Berechtigungen SOLLTEN die zum SAP-ERP-System dazugehörigen Systemressourcen wie Dateien, Prozesse und gemeinsam genutzte Speicher geschützt werden.
-Die spezifischen Berechtigungen der vom SAP-ERP-System angelegten Benutzer Guest, System, SAP system users =<sapsid>adm, SAPService<SAPSID> und Database users = <database-specific users> und Benutzergruppen SOLLTEN mithilfe geeigneter Einstellungen abgesichert werden.
+Die spezifischen Berechtigungen der vom SAP-ERP-System angelegten Benutzer Guest, System, SAP system users = <sapsid>adm, SAPService<SAPSID> und Database users = <database-specific users> und Benutzergruppen SOLLTEN mithilfe geeigneter Einstellungen abgesichert werden.
 
 APP.4.2.A17 Umsetzung von Sicherheitsanforderungen für das Betriebssystem Unix (S)
 Für die SAP-ERP-Systemverzeichnisse unter Unix SOLLTEN Zugriffsberechtigungen festgelegt werden.
@@ -188,7 +182,8 @@ Das SAP-Monitoring SOLLTE in die allgemeine Systemüberwachung der Institution i
 
 APP.4.2.A31 Konfiguration von SAP Single-Sign-On (S)
 Sind mehrere SAP-ERP-Systeme vorhanden, SOLLTEN die Benutzer auf die Systeme mit SAP Single-Sign-On (SAP SSO) zugreifen.
-Es SOLLTE in der Planungsphase entschieden werden, zwischen welchen SAP-ERP-Systemen der SSO-Mechanismus benutzt wird. Das SSO SOLLTE sicher konfiguriert und betrieben werden.
+Es SOLLTE in der Planungsphase entschieden werden, zwischen welchen SAP-ERP-Systemen der SSO-Mechanismus benutzt wird.
+Das SSO SOLLTE sicher konfiguriert und betrieben werden.
 
 
 3.3 Anforderungen bei erhöhtem Schutzbedarf

@@ -1,5 +1,6 @@
 3.1 Basis-Anforderungen
 
+
 NET.4.1.A1 Anforderungsanalyse und Planung für TK-Anlagen [IT-Betrieb] (B)
 Vor der Beschaffung oder Erweiterung einer TK-Anlage MUSS eine Anforderungsanalyse durchgeführt werden.
 Im Rahmen dieser Analyse MUSS festgelegt werden, welche Funktionen die TK-Anlage bieten soll.
@@ -31,7 +32,7 @@ Die protokollierten Informationen SOLLTEN regelmäßig kontrolliert werden.
 
 NET.4.1.A6 Erstellung einer Sicherheitsrichtlinie für TK-Anlagen [IT-Betrieb] (S)
 Basierend auf der institutionsweiten Sicherheitsrichtlinie SOLLTE eine eigene Sicherheitsrichtlinie für die TK-Anlage erstellt werden.
-Diese Sicherheitsrichtlinie für die TK-Anlage SOLLTE grundlegende Aussagen zur Vertraulichkeit, Verfügbarkeit und Integrität beinhalten.
+Diese Sicherheitsrichtlinie für die TK-Anlage SOLLTE grundlegende Aussagen zur Vertraulichkeit,Verfügbarkeit und Integrität beinhalten.
 Sie SOLLTE allen Personen, die an der Beschaffung, dem Aufbau, der Umsetzung und dem Betrieb der TK-Anlage beteiligt sind, bekannt sein und die Grundlage für deren Arbeit darstellen.
 Die zentralen sicherheitstechnischen Anforderungen an die TK-Anlage sowie das zu erreichende Sicherheitsniveau SOLLTEN in der institutionsweite Sicherheitsrichtlinie aufgenommen werden.
 
@@ -67,7 +68,7 @@ Es SOLLTE ein Datensicherungskonzept für TK-Anlagen erstellt und mit den allgem
 NET.4.1.A13 Beschaffung von TK-Anlagen (S)
 Bei der Beschaffung von TK-Anlagen SOLLTEN die Ergebnisse der Anforderungsanalyse und der Planung miteinbezogen werden.
 Bei der Beschaffung einer TK-Anlage SOLLTE beachtet werden, dass sie neben digitalen auch analoge Teilnehmeranschlüsse anbieten sollte.
-Darüber hinaus SOLLTEN vorhandene Kommunikationssysteme und-komponenten bei der Beschaffung berücksichtigt werden.
+Darüber hinaus SOLLTEN vorhandene Kommunikationssysteme und -komponenten bei der Beschaffung berücksichtigt werden.
 
 NET.4.1.A14 Notfallvorsorge für TK-Anlagen (S)
 Es SOLLTE ein Notfallplan für die TK-Anlage erstellt werden.

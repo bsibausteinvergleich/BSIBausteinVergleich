@@ -1,5 +1,6 @@
 3.1 Basis-Anforderungen
 
+
 NET.4.3.A1 Geeignete Aufstellung eines Faxgerätes [Haustechnik] (B)
 Faxgeräte MÜSSEN so aufgestellt werden, dass eingegangene Faxsendungen nicht von Unberechtigten eingesehen oder entnommen werden können.
 Der Aufstellungsort SOLLTE zudem danach ausgewählt werden, dass ausreichend dimensionierte Telekommunikationsleitungen bzw. -kanäle vorhanden sind.

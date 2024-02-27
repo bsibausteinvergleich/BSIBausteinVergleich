@@ -1,5 +1,6 @@
 3.1 Basis-Anforderungen
 
+
 Für den Baustein IND.2.2 Speicherprogrammierbare Steuerung (SPS) sind keine Basis-Anforderungen definiert.
 
 

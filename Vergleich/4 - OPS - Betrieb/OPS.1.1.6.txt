@@ -1,4 +1,5 @@
-3.1 Basis-Anforderungen
+3.1. Basis-Anforderungen
+
 
 OPS.1.1.6.A1 Planung der Software-Tests (B)
 Die Rahmenbedingungen für Software-Tests MÜSSEN vor den Tests innerhalb der Institution entsprechend der Schutzbedarfe, Organisationseinheiten, technischen Möglichkeiten und Test-Umgebungen festlegt sein.
@@ -6,6 +7,7 @@ Die Software MUSS auf Basis der Anforderungen des Anforderungskatalogs zu der So
 Liegt auch ein Pflichtenheft vor, dann MUSS dieses zusätzlich berücksichtigt werden.
 Die Testfälle MÜSSEN so ausgewählt werden, sodass diese möglichst repräsentativ alle Funktionen der Software überprüfen.
 Zusätzlich SOLLTEN auch Negativ-Tests berücksichtigt werden, die überprüfen, ob die Software keine ungewollten Funktionen enthält.
+
 Die Testumgebung MUSS so ausgewählt werden, sodass diese möglichst repräsentativ alle in der Institution eingesetzten Gerätemodelle und Betriebssystemumgebungen abdeckt.
 Es SOLLTE dabei getestet werden, ob die Software mit den eingesetzten Betriebssystemen in den vorliegenden Konfigurationen kompatibel und funktionsfähig ist.
 
@@ -15,7 +17,8 @@ Die funktionalen Software-Tests MÜSSEN so durchgeführt werden, dass sie den Pr
 
 OPS.1.1.6.A3 Auswertung der Testergebnisse [Tester] (B)
 Die Ergebnisse der Software-Tests MÜSSEN ausgewertet werden.
-Es SOLLTE ein Soll-Ist-Vergleich mit definierten Vorgaben durchgeführt werden. Die Auswertung MUSS dokumentiert werden.
+Es SOLLTE ein Soll-Ist-Vergleich mit definierten Vorgaben durchgeführt werden.
+Die Auswertung MUSS dokumentiert werden.
 
 OPS.1.1.6.A4 Freigabe der Software [Fachverantwortliche] (B)
 Die fachlich zuständige Organisationseinheit MUSS die Software freigeben, sobald die Software-Tests erfolgreich durchgeführt wurden.
@@ -29,23 +32,24 @@ Es MÜSSEN Software-Tests durchgeführt werden, die überprüfen, ob alle wesent
 Insbesondere MÜSSEN sicherheitsspezifische Software-Tests durchgeführt werden, wenn die Anwendung sicherheitskritische Funktionen mitbringt.
 Die durchgeführten Testfälle, sowie die Testergebnisse, MÜSSEN dokumentiert werden.
 
-OPS.1.1.6.A11 Verwendung von anonymisierten oder pseudonymisierten Testdaten [Datenschutzbeauftragter, Tester] (B)
-Wenn Produktivdaten für Software-Test verwendet werden, die schützenswerte Informationen enthalten, dann MÜSSEN diese angemessen während der Software-Tests geschützt werden.
-Enthalten diese Daten personenbezogene Informationen, dann MÜSSEN diese Daten anonymisiert werden.
+OPS.1.1.6.A11 Verwendung von anonymisierten oder pseudonymisierten Testdaten [Datenschutzbeauftragter,Tester] (B)
+Wenn Produktivdaten für Software-Tests verwendet werden, die schützenswerte Informationen enthalten, dann MÜSSEN diese Testdaten angemessen geschützt werden.
+Enthalten diese Daten personenbezogene Informationen, dann MÜSSEN diese Daten mindestens pseudonymisiert werden.
+Falls möglich, SOLLTEN die Testdaten mit Personenbezug vollständig anonymisiert werden.
 Wenn ein Personenbezug von den Testdaten abgeleitet werden könnte, MUSS der Datenschutzbeauftragte und unter Umständen die Personalvertretung hinzugezogen werden.
 
 
-3.2 Standard-Anforderungen
+3.2. Standard-Anforderungen
 
 OPS.1.1.6.A6 Geordnete Einweisung der Software-Tester [Fachverantwortliche] (S)
-Die Software-Tester SOLLTEN über die durchzuführenden Testarten und die zu testenden Bereiche einer Software vom IT-Betrieb informiert werden.
+Die Software-Tester SOLLTEN über die durchzuführenden Testarten und die zu testenden Bereiche einer Software vom Fachverantwortlichen informiert werden.
 Darüber hinaus SOLLTEN die Software-Tester über die Anwendungsfälle und mögliche weitere Anforderungen der Software informiert werden.
 
 OPS.1.1.6.A7 Personalauswahl der Software-Tester [Personalabteilung, Fachverantwortliche] (S)
 Bei der Auswahl der Software-Tester SOLLTEN gesonderte Auswahlkriterien berücksichtigt werden.
-Die Software-Tester SOLLTEN die erforderliche berufliche Qualifikation haben.
-Wird Individualsoftware auf Quellcode-Ebene überprüft, dann SOLLTEN die Tester über ausreichendes Fachwissen über die zu testenden Programmiersprache und der Entwicklungsumgebung verfügen.
-Der Quellcode SOLLTE NICHT ausschließlich von Testern überprüft werden, die an der Erstellung des Quellcodes beteiligt waren.
+Die SoftwareTester SOLLTEN die erforderliche berufliche Qualifikation haben.
+Wird Individualsoftware auf Quellcode-Ebene überprüft, dann SOLLTEN die Tester über ausreichendes Fachwissen über die zu testenden Programmiersprache und die Entwicklungsumgebung verfügen.
+Der Quellcode SOLLTE NICHT ausschließlich von Testern überprüft werden, die auch an der Erstellung des Quellcodes beteiligt waren.
 
 OPS.1.1.6.A8 ENTFALLEN (S)
 Diese Anforderung ist entfallen.
@@ -71,12 +75,12 @@ Die Testumgebung SOLLTE von der Produktivumgebung getrennt betrieben werden.
 Die in der Testumgebung verwendeten Architekturen und Mechanismen SOLLTEN dokumentiert werden.
 Es SOLLTEN Verfahren dokumentiert werden, wie mit der Testumgebung nach Abschluss des Software-Tests zu verfahren ist.
 
-OPS.1.1.6.A15 Überprüfung der Installation und zugehörigen Dokumentation [Tester] (S)
+OPS.1.1.6.A15 Überprüfung der Installation und zugehöriger Dokumentation [Tester] (S)
 Die Installation der Software SOLLTE entsprechend der Regelungen zur Installation und Konfiguration von Software (siehe Baustein APP.6 Allgemeine Software) überprüft werden.
 Falls vorhanden, SOLLTE zusätzlich die Installations- und Konfigurationsdokumentation geprüft werden.
 
 
-3.3 Anforderungen bei erhöhtem Schutzbedarf
+3.3. Anforderungen bei erhöhtem Schutzbedarf
 
 OPS.1.1.6.A14 Durchführung von Penetrationstests [Tester] (H)
 Für Anwendungen beziehungsweise IT-Systeme mit erhöhtem Schutzbedarf SOLLTEN Penetrationstests als Testmethode durchgeführt werden.

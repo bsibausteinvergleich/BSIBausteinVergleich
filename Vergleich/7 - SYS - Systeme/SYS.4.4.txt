@@ -1,5 +1,6 @@
 3.1 Basis-Anforderungen
 
+
 SYS.4.4.A1 Einsatzkriterien für IoT-Geräte (B)
 IoT-Geräte MÜSSEN Update-Funktionen besitzen.
 Der Hersteller MUSS einen Update-Prozess anbieten.

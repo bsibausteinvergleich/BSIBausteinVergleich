@@ -1,5 +1,6 @@
 3.1 Basis-Anforderungen
 
+
 Für den Baustein DER.4 Notfallmanagement sind keine Basis-Anforderungen definiert.
 
 
@@ -17,8 +18,7 @@ Es SOLLTE regelmäßig durch Tests und Übungen überprüft werden, ob die im No
 Es SOLLTE regelmäßig geprüft werden, ob das Notfallhandbuch noch aktuell ist.
 Gegebenenfalls SOLLTE es aktualisiert werden.
 Es SOLLTE auch im Notfall zugänglich sein.
-Das Notfallhandbuch SOLLTE um Verhaltensregeln für spezielle Fälle ergänzt werden, z. B. Brand.
-Die Regeln SOLLTEN allen Mitarbeitern bekanntgegeben werden.
+Das Notfallhandbuch SOLLTE um Verhaltensregeln für spezielle Fälle ergänzt werden, z. B. Brand. Die Regeln SOLLTEN allen Mitarbeitern bekanntgegeben werden.
 
 DER.4.A2 Integration von Notfallmanagement und Informationssicherheitsmanagement [Informationssicherheitsbeauftragter (ISB)] (S)
 Die Prozesse im Sicherheitsmanagement SOLLTEN mit dem Notfallmanagement abgestimmt werden (siehe DER.2.1 Behandlung von Sicherheitsvorfällen).
@@ -89,19 +89,21 @@ Bei Abweichungen SOLLTEN die Ursachen für die Mängel ermittelt und Verbesserun
 Diese Ergebnisübersicht SOLLTE von der Institutionsleitung freigegeben werden.
 Es SOLLTE zudem ein Prozess etabliert werden, der steuert und überwacht, ob und wie die Verbesserungsmaßnahmen umgesetzt werden.
 Verzögerungen SOLLTEN frühzeitig an die Institutionsleitung gemeldet werden.
-Es SOLLTE von der Institutionsleitung festgelegt sein, wie die Überprüfungen koordiniert wird. Die Überprüfungen SOLLTEN so geplant werden, dass kein relevanter Teil ausgelassen wird.
+Es SOLLTE von der Institutionsleitung festgelegt sein, wie die Überprüfungen koordiniert wird.
+Die Überprüfungen SOLLTEN so geplant werden, dass kein relevanter Teil ausgelassen wird.
 Insbesondere SOLLTEN die im Bereich der Revision, der IT, des Sicherheitsmanagements, des Informationssicherheitsmanagements und des Notfallmanagements durchgeführten Überprüfungen miteinander koordiniert werden.
 Dazu SOLLTE geregelt werden, welche Maßnahmen wann und von wem überprüft werden.
 
 DER.4.A15 Bewertung der Leistungsfähigkeit des Notfallmanagementsystems [Institutionsleitung] (H)
 Es SOLLTE regelmäßig bewertet werden, wie leistungsfähig und effektiv das Notfallmanagement-System ist.
 Als Grundlage SOLLTEN Mess- und Bewertungskriterien wie z. B. Leistungskennzahlen definiert werden.
-Diese Messgrößen SOLLTEN regelmäßig ermittelt und mit geeigneten vorangegangenen Werten, mindestens aber mit den Vorjahreswerten, verglichen werden. Weichen die Werte negativ ab, SOLLTEN die Ursachen ermittelt und Verbesserungsmaßnahmen definiert werden.
+Diese Messgrößen SOLLTEN regelmäßig ermittelt und mit geeigneten vorangegangenen Werten, mindestens aber mit den Vorjahreswerten, verglichen werden.
+Weichen die Werte negativ ab, SOLLTEN die Ursachen ermittelt und Verbesserungsmaßnahmen definiert werden.
 Die Ergebnisse der Bewertung SOLLTEN an die Leitung berichtet werden.
 Die Leitung SOLLTE entscheiden, mit welchen Maßnahmen das Notfallmanagement weiterentwickelt werden soll.
 Alle Entscheidungen der Institutionsleitung SOLLTEN dokumentiert und die bisherigen Aufzeichnungen aktualisiert werden.
 
-DER.4.A16 Notfallvorsorge- und Notfallreaktionsplanung für ausgelagerte Komponenten [Institutionsleitung] (H)
+DER.4.A16 Notfallvorsorge- und Notfallreaktionsplanung für ausgelagerte Komponenten [Institutionsleitung](H)
 Bei der Notfallvorsorge- und Notfallreaktionsplanung für ausgelagerte Komponenten SOLLTE regelmäßig das Notfallmanagement des Lieferanten oder Dienstleisters in den unterzeichneten Verträgen geprüft werden.
 Auch SOLLTEN die Abläufe in Notfalltests und -übungen mit dem Lieferanten oder Outsourcing-Dienstleister abgestimmt und, wenn angemessen, gemeinsam durchgeführt werden.
 Die Ergebnisse und Auswertungen SOLLTEN regelmäßig zwischen der Institutionsleitung und dem Lieferanten oder Dienstleister ausgetauscht werden.

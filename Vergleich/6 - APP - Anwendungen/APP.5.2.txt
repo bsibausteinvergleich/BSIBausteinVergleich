@@ -1,5 +1,6 @@
 3.1 Basis-Anforderungen
 
+
 APP.5.2.A1 Planung des Einsatzes von Exchange und Outlook (B)
 Bevor Exchange und Outlook eingesetzt werden, MUSS die Institution deren Einsatz sorgfältig planen.
 Dabei MUSS sie mindestens folgende Punkte beachten:
@@ -33,7 +34,7 @@ Diese Anforderung ist entfallen.
 
 APP.5.2.A7 Migration von Exchange-Systemen (S)
 Der IT-Betrieb SOLLTE alle Migrationsschritte gründlich planen und dokumentieren.
-Der IT-Betrieb SOLLTE dabeiPostfächer, Objekte, Sicherheitsrichtlinien, Active-Directory-Konzepte sowie die Anbindung an andere E-Mail-Systeme berücksichtigen.
+Der IT-Betrieb SOLLTE dabei Postfächer, Objekte, Sicherheitsrichtlinien, Active-Directory-Konzepte sowie die Anbindung an andere E-Mail-Systeme berücksichtigen.
 Außerdem SOLLTE er Funktionsunterschiede zwischen verschiedenen Versionen von Exchange beachten.
 Das neue System SOLLTE, bevor es installiert wird, in einem separaten Testnetz geprüft werden.
 
@@ -94,4 +95,4 @@ Weitere Aspekte für lokale PST-Dateien, die berücksichtigt werden SOLLTEN, wen
 Mechanismen wie z. B. Encrypting File System oder Windows BitLocker Laufwerkverschlüsselung SOLLTEN zur Absicherung der PST-Dateien genutzt werden.
 
 APP.5.2.A18 ENTFALLEN (H)
-Diese Anforderung ist entfallen.
+Diese Anforderung ist entfallen

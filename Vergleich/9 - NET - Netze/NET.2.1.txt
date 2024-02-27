@@ -55,7 +55,8 @@ Ausgehend von der allgemeinen Sicherheitsrichtlinie der Institution SOLLTEN die 
 Die Richtlinie SOLLTE allen Verantwortlichen bekannt sein, die an Aufbau und Betrieb von WLANs beteiligt sind.
 Sie SOLLTE zudem Grundlage für ihre Arbeit sein.
 Die Umsetzung der in der Richtlinie geforderten Inhalte SOLLTE regelmäßig überprüft werden.
-Werden die Inhalte der Richtlinie nicht umgesetzt, MUSS geeignet reagiert werden. Die Ergebnisse SOLLTEN geeignet dokumentiert werden.
+Werden die Inhalte der Richtlinie nicht umgesetzt, MUSS geeignet reagiert werden.
+Die Ergebnisse SOLLTEN geeignet dokumentiert werden.
 
 NET.2.1.A11 Geeignete Auswahl von WLAN-Komponenten (S)
 Anhand der Ergebnisse der Planungsphase SOLLTE eine Anforderungsliste erstellt werden, mithilfe derer die am Markt erhältlichen Produkte bewertet werden können.

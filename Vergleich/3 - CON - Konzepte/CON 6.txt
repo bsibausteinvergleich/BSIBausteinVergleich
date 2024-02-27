@@ -1,10 +1,9 @@
 3.1 Basis-Anforderungen
 
-CON.6.A1 Regelung für die Löschung und Vernichtung von Informationen [Zentrale Verwaltung,
-Fachverantwortliche, Datenschutzbeauftragter, IT-Betrieb] (B)
+
+CON.6.A1 Regelung für die Löschung und Vernichtung von Informationen [Zentrale Verwaltung, Fachverantwortliche, Datenschutzbeauftragter, IT-Betrieb] (B)
 Die Institution MUSS das Löschen und Vernichten von Informationen regeln.
 Dabei MÜSSEN die Fachverantwortlichen für jedes Fachverfahren bzw. Geschäftsprozess regeln, welche Informationen unter welchen Voraussetzungen gelöscht und entsorgt werden müssen.
-
 Hierbei MÜSSEN die gesetzlichen Bestimmungen beachtet werden,
 • die einerseits minimale Aufbewahrungsfristen bestimmen sowie
 • anderseits maximale Aufbewahrungszeiten und ein Anrecht auf das sichere Löschen von personenbezogenen Daten garantieren.
@@ -28,17 +27,13 @@ Die mit der Löschung und Vernichtung beauftragten Unternehmen SOLLTEN regelmä�
 CON.6.A12 Mindestanforderungen an Verfahren zur Löschung und Vernichtung (B)
 Die Institution MUSS mindestens die nachfolgenden Verfahren zum Löschen und Vernichten von schützenswerten Datenträgern einsetzen.
 Diese Verfahren SOLLTEN in Abhängigkeit des Schutzbedarfs der verarbeiteten Daten überprüft und, falls erforderlich, angepasst werden:
-• Digitale wiederbeschreibbare Datenträger MÜSSEN vollständig mit einem Datenstrom aus Zufallswerten (z. Bsp. PRNG Stream) überschrieben werden, wenn sie nicht verschlüsselt eingesetzt werden.
+• Digitale wiederbeschreibbare Datenträger MÜSSEN vollständig mit einem Datenstrom aus Zufallswerten (z. Bsp.PRNG Stream) überschrieben werden, wenn sie nicht verschlüsselt eingesetzt werden.
 • Wenn digitale Datenträger verschlüsselt eingesetzt werden, MÜSSEN sie durch ein sicheres Löschen des Schlüssels unter Beachtung des Kryptokonzepts gelöscht werden.
 • Optische Datenträger MÜSSEN mindestens nach Sicherheitsstufe O-3 entsprechend der ISO/IEC 21964-2 vernichtet werden.
-• Smartphones oder sonstige Smart Devices SOLLTEN entsprechend des Kryptokonzepts verschlüsselt werden.
-Smartphones oder sonstige Smart Devices MÜSSEN auf die Werkseinstellung (Factory Reset) zurückgesetzt werden.
-Anschließend SOLLTE der Einrichtungsvorgang zum Abschluss des Löschvorgangs durchgeführt werden.
-• IoT Geräte MÜSSEN auf den Werkszustand zurückgesetzt werden.
-Anschließend MÜSSEN alle in den IoT-Geräten hinterlegten Zugangsdaten geändert werden.
+• Smartphones oder sonstige Smart Devices SOLLTEN entsprechend des Kryptokonzepts verschlüsselt werden. Smartphones oder sonstige Smart Devices MÜSSEN auf die Werkseinstellung (Factory Reset) zurückgesetzt werden. Anschließend SOLLTE der Einrichtungsvorgang zum Abschluss des Löschvorgangs durchgeführt werden.
+• IoT Geräte MÜSSEN auf den Werkszustand zurückgesetzt werden. Anschließend MÜSSEN alle in den IoT-Geräten hinterlegten Zugangsdaten geändert werden.
 • Papier MUSS mindestens nach Sicherheitsstufe P-3 entsprechend der ISO/IEC 21964-2 vernichtet werden.
-• In sonstigen Geräten integrierte Datenträger MÜSSEN über die integrierten Funktionen sicher gelöscht werden.
-Ist das nicht möglich, MÜSSEN die Massenspeicher ausgebaut und entweder wie herkömmliche digitale Datenträger von einem separatem IT-System aus sicher gelöscht werden oder mindestens nach Sicherheitsstufe E-3 bzw. H-3 entsprechend der ISO/IEC 21964-2 vernichtet werden.
+• In sonstigen Geräten integrierte Datenträger MÜSSEN über die integrierten Funktionen sicher gelöscht werden. Ist das nicht möglich, MÜSSEN die Massenspeicher ausgebaut und entweder wie herkömmliche digitale Datenträger von einem separatem IT-System aus sicher gelöscht werden oder mindestens nach Sicherheitsstufe E-3 bzw. H-3 entsprechend der ISO/IEC 21964-2 vernichtet werden.
 
 
 3.2 Standard-Anforderungen
@@ -76,6 +71,7 @@ CON.6.A13 Vernichtung defekter digitaler Datenträger (S)
 Können digitale Datenträger mit schützenswerten Informationen aufgrund eines Defekts nicht sicher entsprechend der Verfahren zur Löschung von Datenträgern gelöscht werden, dann SOLLTEN diese mindestens entsprechend der Sicherheitsstufe 3 nach ISO/IEC 21964-2 vernichtet werden.
 Alternativ SOLLTE für den Fall, dass defekte Datenträger ausgetauscht oder repariert werden, vertraglich mit dem hierzu beauftragten Dienstleister vereinbart werden, dass diese Datenträger durch den Dienstleister sicher vernichtet oder gelöscht werden.
 Die Verfahrensweisen des Dienstleisters SOLLTEN hierbei mindestens die institutionsinternen Anforderungen an die Verfahrensweisen zur Löschung und Vernichtung erfüllen.
+
 
 3.3 Anforderungen bei erhöhtem Schutzbedarf
 

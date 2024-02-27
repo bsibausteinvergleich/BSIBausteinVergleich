@@ -1,5 +1,6 @@
 3.1 Basis-Anforderungen
 
+
 APP.7.A1 Erweiterung der Planung des Software-Einsatzes um Aspekte von Individualsoftware (B)
 Die Planung des Software-Einsatzes MUSS um Aspekte von Individualsoftware ergänzt werden, indem definiert wird,
 • wer dafür zuständig ist, die Software-Entwicklung bzw. den Auftragnehmer zu steuern und zu koordinieren, sowie

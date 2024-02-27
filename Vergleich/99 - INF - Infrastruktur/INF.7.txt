@@ -1,5 +1,6 @@
 3.1 Basis-Anforderungen
 
+
 INF.7.A1 Geeignete Auswahl und Nutzung eines Büroraumes [Vorgesetzte] (B)
 Es DÜRFEN NUR geeignete Räume als Büroräume genutzt werden.
 Die Büroräume MÜSSEN für den Schutzbedarf bzw. das Schutzniveau der dort verarbeiteten Informationen angemessen ausgewählt und ausgestattet sein.
@@ -12,8 +13,8 @@ Befinden sich vertrauliche Informationen in dem Büroraum, MÜSSEN beim Verlasse
 Dies SOLLTE insbesondere in Bereichen mit Publikumsverkehr beachtet werden.
 Die entsprechenden Vorgaben SOLLTEN in einer geeigneten Anweisung festgehalten werden.
 Alle Mitarbeiter SOLLTEN dazu verpflichtet werden, der Anweisung nachzukommen.
-Zusätzlich MUSS regelmäßig geprüft werden, ob beim Verlassen des Büroraums die Fenster geschlossen und, wenn notwendig, die Türen abgeschlossen werden.
-Ebenso MUSS darauf geachtet werden, dass Brand- und Rauchschutztüren tatsächlich geschlossen werden.
+Zusätzlich MUSS regelmäßig geprüft werden, ob beim Verlassen des Büroraums die Fenster geschlossen und, wenn notwendig die Türen abgeschlossen werden.
+Ebenso MUSS darauf geachtet werden, dass Brandund Rauchschutztüren tatsächlich geschlossen werden.
 
 
 3.2 Standard-Anforderungen

@@ -1,5 +1,6 @@
 3.1 Basis-Anforderungen
 
+
 OPS.1.2.2.A1 Ermittlung von Einflussfaktoren für die elektronische Archivierung (B)
 Bevor entschieden wird, welche Verfahren und Produkte für die elektronische Archivierung eingesetzt werden, MÜSSEN die technischen, rechtlichen und organisatorischen Einflussfaktoren ermittelt und dokumentiert werden.
 Die Ergebnisse MÜSSEN in das Archivierungskonzept einfließen.
@@ -23,8 +24,8 @@ Dazu MUSS bereits während der Konzeption festgelegt werden, welche Struktur und
 OPS.1.2.2.A5 Regelmäßige Aufbereitung von archivierten Datenbeständen [IT-Betrieb] (B)
 Über den gesamten Archivierungszeitraum hinweg MUSS sichergestellt werden, dass
 • das verwendete Datenformat von den benutzten Anwendungen verarbeitet werden kann,
-• die gespeicherten Daten auch zukünftig lesbar und so reproduzierbar sind, dass Semantik und Beweiskraft bei-behalten werden,
-• das benutzte Dateisystem auf dem Speichermedium von allen beteiligten Komponenten verarbeitet werdenkann,
+• die gespeicherten Daten auch zukünftig lesbar und so reproduzierbar sind, dass Semantik und Beweiskraft beibehalten werden,
+• das benutzte Dateisystem auf dem Speichermedium von allen beteiligten Komponenten verarbeitet werden kann,
 • die Speichermedien jederzeit technisch einwandfrei gelesen werden können sowie
 • die verwendeten kryptografischen Verfahren zur Verschlüsselung und zum Beweiswerterhalt mittels digitaler Signatur, Siegel, Zeitstempel oder technischen Beweisdaten (Evidence Records) dem Stand der Technik entsprechen.
 
@@ -60,7 +61,6 @@ OPS.1.2.2.A10 Erstellung einer Richtlinie für die Nutzung von Archivsystemen [I
 Es SOLLTE sichergestellt werden, dass Mitarbeiter das Archivsystem so benutzen, wie es im Archivierungskonzept vorgesehen ist.
 Dazu SOLLTE eine Administrations- und eine Benutzerrichtlinie erstellt werden.
 Die Administrationsrichtlinie SOLLTE folgende Punkte enthalten:
-
 • Festlegung der Verantwortung für Betrieb und Administration,
 • Vereinbarungen über Leistungsparameter beim Betrieb (u. a. Service Level Agreements),
 • Modalitäten der Vergabe von Zutritts- und Zugriffsrechten,
@@ -111,7 +111,8 @@ Archivdaten, die mit kryptografischen Verfahren gesichert wurden, die sich in ab
 OPS.1.2.2.A16 Regelmäßige Erneuerung technischer Archivsystem-Komponenten [IT-Betrieb] (S)
 Archivsysteme SOLLTEN über lange Zeiträume auf dem aktuellen technischen Stand gehalten werden.
 Neue Hard- und Software SOLLTE vor der Installation in einem laufenden Archivsystem ausführlich getestet werden.
-Wenn neue Komponenten in Betrieb genommen oder neue Dateiformate eingeführt werden, SOLLTE ein Migrationskonzept erstellt werden. Darin SOLLTEN alle Änderungen, Tests und erwarteten Testergebnisse beschrieben sein.
+Wenn neue Komponenten in Betrieb genommen oder neue Dateiformate eingeführt werden, SOLLTE ein Migrationskonzept erstellt werden.
+Darin SOLLTEN alle Änderungen, Tests und erwarteten Testergebnisse beschrieben sein.
 Die Konvertierung der einzelnen Daten SOLLTE dokumentiert werden (Transfervermerk).
 Wenn Archivdaten in neue Formate konvertiert werden, SOLLTE geprüft werden, ob die Daten aufgrund rechtlicher Anforderungen zusätzlich in ihren ursprünglichen Formaten zu archivieren sind.
 

@@ -1,5 +1,6 @@
 3.1 Basis-Anforderungen
 
+
 IND.2.1.A1 Einschränkung des Zugriffs auf Konfigurations- und Wartungsschnittstellen [OT-Betrieb (Operational Technology, OT)] (B)
 Standardmäßig eingerichtete bzw. vom Hersteller gesetzte Passwörter MÜSSEN gewechselt werden (siehe ORP.4 Identitäts- und Berechtigungsmanagement).
 Der Wechsel MUSS dokumentiert werden.
@@ -42,7 +43,8 @@ Diese Anforderung ist entfallen.
 IND.2.1.A10 ENTFALLEN (S)
 Diese Anforderung ist entfallen.
 
-IND.2.1.A11 Wartung der ICS-Komponenten [Mitarbeiter, OT-Betrieb (Operational Technology, OT), Wartungspersonal] (S)
+IND.2.1.A11 Wartung der ICS-Komponenten [Mitarbeiter, OT-Betrieb (Operational Technology, OT),
+Wartungspersonal] (S)
 Bei der Wartung einer ICS-Komponente SOLLTEN immer die aktuellen und freigegebenen Sicherheitsupdates eingespielt werden.
 Updates für das Betriebssystem SOLLTEN erst nach Freigabe durch den Hersteller einer ICS-Komponente installiert werden.
 Alternativ SOLLTE die Aktualisierung in einer Testumgebung erprobt werden, bevor diese in einer produktiven ICS-Komponente eingesetzt wird.
