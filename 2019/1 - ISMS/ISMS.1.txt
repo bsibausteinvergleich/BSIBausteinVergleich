@@ -57,7 +57,8 @@ Daher SOLLTEN die Mitarbeiter frühzeitig bei der Planung von Sicherheitsmaßnah
 Bei der Einführung von Sicherheitsrichtlinien und Sicherheitswerkzeugen MÜSSEN die Mitarbeiter ausreichend informiert sein, wie diese anzuwenden sind.
 
 ISMS.1.A9 Integration der Informationssicherheit in organisationsweite Abläufe und Prozesse [Institutionsleitung]
-Informationssicherheit MUSS in alle Geschäftsprozesse integriert werden. Es MUSS dabei gewährleistet sein, dass nicht nur bei neuen Prozessen und Projekten, sondern auch bei laufenden Aktivitäten alle erforderlichen Sicherheitsaspekte berücksichtigt werden.
+Informationssicherheit MUSS in alle Geschäftsprozesse integriert werden.
+Es MUSS dabei gewährleistet sein, dass nicht nur bei neuen Prozessen und Projekten, sondern auch bei laufenden Aktivitäten alle erforderlichen Sicherheitsaspekte berücksichtigt werden.
 Informationssicherheit SOLLTE außerdem mit anderen Bereichen in der Institution, die sich mit Sicherheit und Risikomanagement beschäftigen, abgestimmt werden.
 Der Informationssicherheitsbeauftragte MUSS an sicherheitsrelevanten Entscheidungen ausreichend beteiligt werden.
 
