@@ -16,7 +16,8 @@ Sicherheitsziele und -strategie MÜSSEN regelmäßig daraufhin überprüft werde
 
 ISMS.1.A3 Erstellung einer Leitlinie zur Informationssicherheit [Institutionsleitung]
 Die Leitungsebene MUSS eine übergeordnete Leitlinie zur Informationssicherheit verabschieden, die den Stellenwert der Informationssicherheit, die Sicherheitsziele, die wichtigsten Aspekte der Sicherheitsstrategie sowie die Organisationsstruktur für Informationssicherheit beschreibt.
-Für die Sicherheitsleitlinie MUSS ein klarer Geltungsbereich festgelegt sein. In der Leitlinie zur Informationssicherheit MÜSSEN die Sicherheitsziele und der Bezug der Sicherheitsziele zu den Geschäftszielen und Aufgaben der Institution erläutert werden.
+Für die Sicherheitsleitlinie MUSS ein klarer Geltungsbereich festgelegt sein.
+In der Leitlinie zur Informationssicherheit MÜSSEN die Sicherheitsziele und der Bezug der Sicherheitsziele zu den Geschäftszielen und Aufgaben der Institution erläutert werden.
 Die Leitlinie zur Informationssicherheit MUSS allen Mitarbeitern und sonstigen Mitgliedern der Institution bekannt gegeben werden. 
 Sie SOLLTE regelmäßig aktualisiert werden.
 
