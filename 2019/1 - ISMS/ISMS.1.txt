@@ -23,7 +23,8 @@ Sie SOLLTE regelmäßig aktualisiert werden.
 
 ISMS.1.A4 Benennung eines Informationssicherheitsbeauftragten [Institutionsleitung]
 Die Leitungsebene MUSS einen Informationssicherheitsbeauftragten benennen, der die Informationssicherheit in der Institution fördert und den Sicherheitsprozess steuert und koordiniert.
-Der Informationssicherheitsbeauftragte MUSS mit angemessenen Ressourcen ausgestattet werden. Er MUSS die Möglichkeit haben, bei Bedarf direkt an die Leitungsebene zu berichten.
+Der Informationssicherheitsbeauftragte MUSS mit angemessenen Ressourcen ausgestattet werden.
+Er MUSS die Möglichkeit haben, bei Bedarf direkt an die Leitungsebene zu berichten.
 Der Informationssicherheitsbeauftragte MUSS ausreichend qualifiziert sein und ausreichend Gelegenheit haben, sich fortzubilden.
 Der Informationssicherheitsbeauftragte MUSS bei allen größeren Projekten sowie bei der Einführung neuer Anwendungen und IT-Systeme frühzeitig beteiligt werden.
 
