@@ -1,0 +1,24 @@
+3.1 Basis-Anforderungen
+
+Für den Baustein IND.2.2 Speicherprogrammierbare Steuerung (SPS) sind keine Basis-Anforderungen definiert.
+
+
+3.2 Standard-Anforderungen
+
+IND.2.2.A1 Erweiterte Systemdokumentation für Speicherprogrammierbare Steuerungen [ICS-Administrator] (S)
+Steuerungsprogramme und Konfigurationen SOLLTEN immer archiviert werden, wenn sie verändert werden.
+Ändert sich die Konfiguration oder werden Komponenten ausgetauscht, SOLLTE dies vollständig dokumentiert werden.
+
+IND.2.2.A2 Benutzerkontenkontrolle und restriktive Rechtevergabe [ICS-Administrator] (S)
+Zugriffsrechte auf Funktionen und Schnittstellen einer SPS SOLLTEN restriktiv vergeben werden.
+Bestehende Benutzerkonten SOLLTEN regelmäßig daraufhin überprüft werden, ob sie noch erforderlich sind.
+Es SOLLTE zudem geprüft werden, ob die zugewiesenen Berechtigungen noch korrekt sind.
+Wenn sich an den Zuständigkeiten der Mitarbeiter etwas ändert, SOLLTEN die Berechtigungen umgehend angepasst werden.
+
+IND.2.2.A3 Zeitsynchronisation [ICS-Administrator] (S)
+Für die Systemzeit SOLLTE eine zentrale automatisierte Zeitsynchronisation eingerichtet werden.
+
+
+3.3 Anforderungen bei erhöhtem Schutzbedarf
+
+Für den Baustein IND.2.2 Speicherprogrammierbare Steuerung (SPS) sind keine Anforderungen für einen erhöhten Schutzbedarf definiert.

@@ -1,0 +1,96 @@
+3.1 Basis-Anforderungen
+
+
+OPS.1.1.5.A1 Erstellung einer Sicherheitsrichtlinie für die Protokollierung [Informationssicherheitsbeauftragter (ISB), Fachverantwortliche]
+Ausgehend von der allgemeinen Sicherheitsrichtlinie der Institution, MUSS eine spezifische Sicherheitsrichtlinie erstellt werden, in der nachvollziehbar Anforderungen und Vorgaben beschrieben sind, wie die Protokollierung sicher geplant, aufgebaut und betrieben werden soll.
+In der Richtlinie MUSS geregelt werden, wie, wo und was protokolliert werden soll.
+Dabei SOLLTEN sich Art und Umfang der Protokollierung am Schutzbedarf der Informationen orientieren.
+Die Richtlinie MUSS vom ISB gemeinsam mit den Fachverantwortlichen erstellt werden.
+Sie MUSS allen für die Protokollierung verantwortlichen Mitarbeitern bekannt und grundlegend für ihre Arbeit sein.
+Wird die Richtlinie verändert oder wird von den Anforderungen abgewichen, MUSS dies mit dem ISB abgestimmt und dokumentiert werden.
+Es MUSS regelmäßig überprüft werden, ob die Richtlinie noch korrekt umgesetzt ist.
+Die Ergebnisse MÜSSEN dokumentiert werden.
+
+OPS.1.1.5.A2 Festlegung von Rollen und Verantwortlichkeiten [Leiter IT]
+Für die in der Protokollierungsrichtlinie (siehe OPS.1.1.7.A1 Erstellung einer Sicherheitsrichtlinie für die Protokollierung) als relevant definierten IT-Systeme und Anwendungen MÜSSEN Verantwortliche benannt werden.
+Diese MÜSSEN sicherstellen, dass die Protokollierungsrichtlinie eingehalten wird.
+
+OPS.1.1.5.A3 Konfiguration der Protokollierung auf System- und Netzebene
+Alle sicherheitsrelevanten Ereignisse von IT-Systemen und Anwendungen MÜSSEN protokolliert werden.
+Sofern die in der Protokollierungsrichtlinie als relevant definierten IT-Systeme und Anwendungen über eine Protokollierungsfunktion verfügen, MUSS diese benutzt werden.
+Wenn die Protokollierung eingerichtet wird, MÜSSEN dabei die Herstellervorgaben für die jeweiligen IT-Systeme oder Anwendungen beachtet werden.
+Es MUSS in angemessenen Intervallen stichpunktartig überprüft werden, ob die Protokollierung noch korrekt funktioniert.
+Die Intervalle MÜSSEN in der Protokollierungsrichtlinie definiert werden.
+Sofern betriebs- und sicherheitsrelevante Ereignisse nicht auf einem IT-System protokolliert werden können, MÜSSEN weitere IT-Systeme zur Protokollierung (z. B. von Ereignissen auf Netzebene) integriert werden.
+
+OPS.1.1.5.A4 Zeitsynchronisation der IT-Systeme
+Die Systemzeit aller protokollierenden IT-Systeme und Anwendungen MUSS immer synchron sein.
+Es MUSS sichergestellt sein, dass das Datum und Zeitformat der Protokolldateien einheitlich ist.
+Weitere Hinweise hierzu finden sich im Baustein NET.1.2 Netzmanagement.
+
+OPS.1.1.5.A5 Einhaltung rechtlicher Rahmenbedingungen [Informationssicherheitsbeauftragter (ISB)]
+Bei der Protokollierung MÜSSEN die gesetzlichen Bestimmungen aus den aktuellen Gesetzen zum Bundes-/Landesdatenschutz eingehalten werden (siehe CON.2 Datenschutz).
+Darüber hinaus MÜSSEN eventuelle Persönlichkeitsrechte bzw. Mitbestimmungsrechte der Mitarbeitervertretungen gewahrt werden.
+Ebenso MUSS sichergestellt sein, dass alle weiteren relevanten gesetzlichen Bestimmungen beachtet werden.
+Protokollierungsdaten MÜSSEN nach einem festgelegten Prozess gelöscht werden.
+Es MUSS technisch unterbunden werden, dass Protokollierungsdaten unkontrolliert gelöscht oder verändert werden.
+
+
+3.2 Standard-Anforderungen
+
+OPS.1.1.5.A6 Aufbau einer zentralen Protokollierungsinfrastruktur
+Vor allem in größeren Informationsverbünden SOLLTEN alle gesammelten sicherheitsrelevanten Protokollierungsdaten an einer zentralen Stelle gespeichert werden.
+Dafür SOLLTE eine zentrale Protokollierungsinfrastruktur im Sinne eines Logserver-Verbunds aufgebaut und in einem hierfür eingerichteten Netzsegment platziert werden.
+Der Log-server-Verbund SOLLTE die Protokollierungsdaten von IT-Systemen und Anwendungen ausschließlich nach dem Pull-Prinzip beziehen.
+Wird dies von IT-Systemen und Anwendungen nicht unterstützt, SOLLTEN die Protokollierungsdaten auf vorgelagerten IT-Systemen gesammelt und dort vom Logserver-Verbund abgeholt werden.
+Die hierfür erforderlichen Kommunikationsverbindungen SOLLTEN restriktiv erfolgen.
+Zusätzlich zu sicherheitsrelevanten Ereignissen (siehe OPS.1.1.5.A3 Konfiguration der Protokollierung auf System- und Netzebene) SOLLTE eine zentrale Protokollierungsinfrastruktur auch allgemeine Betriebsereignisse protokollieren, die auf einen Fehler hindeuten, z. B.:
+• Ausbleiben von Protokollierungsdaten bzw. Nichterreichbarkeit eines protokollierenden IT-Systems,
+• Betriebsereignisse, die auf eine außergewöhnliche Auslastung bzw. Beanspruchung einzelner Dienste hindeuten.
+Die Protokollierungsinfrastruktur SOLLTE ausreichend dimensioniert sein, sodass eine Skalierung im Sinne einer erweiterten Protokollierung berücksichtigt werden kann.
+Dafür SOLLTEN genügen technische, finanzielle und personelle Ressourcen verfügbar sein.
+Falls die Protokollierungsinfrastruktur extern aufgebaut und betrieben werden soll, SOLLTE ein spezialisierter Dienstleister beauftragt werden.
+
+OPS.1.1.5.A7 Sichere Administration von Protokollierungsservern
+Der Logserver-Verbund SOLLTE ausschließlich über ein separates Managementnetz (Out-of-Band-Management) administriert werden.
+Für die Administrationszugriffe SOLLTE ein Berechtigungskonzept erstellt werden.
+Es SOLLTEN nur Administratoren auf die Protokollierungsserver zugreifen können, die speziell dafür verantwortlich sind (siehe OPS.1.1.5.A2 Festlegung von Rollen und Verantwortlichkeiten).
+
+OPS.1.1.5.A8 Archivierung von Protokollierungsdaten
+Für Protokollierungsdaten SOLLTE ein Archivierungskonzept erstellt werden.
+Dabei SOLLTEN die gesetzlich vorgeschriebenen Regelungen berücksichtigt und im Konzept dokumentiert werden (siehe auch OPS.1.2.2 Archivierung).
+
+OPS.1.1.5.A9 Bereitstellung von Protokollierungsdaten für die Auswertung
+Die gesammelten Protokollierungsdaten SOLLTEN mithilfe einer Protokollierungsanwendung gefiltert, normalisiert, aggregiert und korreliert werden.
+Die so bearbeiteten Protokollierungsdaten SOLLTEN geeignet verfügbar gemacht werden, damit sie ausgewertet werden können.
+Damit sich die Daten automatisiert auswerten lassen, SOLLTEN die Protokollanwendungen über entsprechende Schnittstellen für die Auswertungsprogramme verfügen.
+Es SOLLTE sichergestellt sein, dass bei der Auswertung die in der Protokollierungsrichtlinie definierten Sicherheitsanforderungen eingehalten werden.
+Auch wenn die Daten bereitgestellt werden, SOLLTEN betriebliche und interne Vereinbarungen berücksichtigt werden.
+Die Protokollierungsdaten SOLLTEN in Originalform aufbewahrt werden.
+
+OPS.1.1.5.A10 Zugriffsschutz für Protokollierungsdaten
+Alle Protokollierungsdaten SOLLTEN so gespeichert werden, dass keine Unbefugten darauf zugreifen können.
+Es SOLLTE zudem ein Zugriffskonzept erstellt werden, das regelt, wer auf welche protokollierten Daten zugreifen darf.
+Dabei SOLLTEN die Berechtigungen so restriktiv wie möglich vergeben werden.
+Es SOLLTE sichergestellt sein, dass auf die Protokollierungsdaten grundsätzlich nur zugegriffen wird, wenn sicherheitsrelevante Vorfälle aufzuklären sind.
+Dabei SOLLTE nach der im Baustein DER.1 Detektion von sicherheitsrelevanten Ereignissen festgelegten Methode vorgegangen werden.
+Ein solcher Zugriff SOLLTE dokumentiert werden.
+
+
+3.3 Anforderungen bei erhöhtem Schutzbedarf
+
+OPS.1.1.5.A11 Steigerung des Protokollierungsumfangs (CIA)
+Bei erhöhtem Schutzbedarf von Anwendungen oder IT-Systemen SOLLTE die Menge und Art der protokollierten Ereignisse erweitert werden, sodass sicherheitsrelevante Vorfälle möglichst lückenlos nachvollziehbar sind.
+Um eine Echtzeitauswertung der Protokollierungsdaten zu ermöglichen, SOLLTEN in verkürzten Zeitabständen die Protokollierungsdaten von den protokollierenden IT-Systemen und Anwendungen zentral gespeichert werden (siehe auch OPS.1.1.5.A6 Aufbau einer zentralen Protokollierungsinfrastruktur).
+Die Protokollierung SOLLTE eine Auswertung über den gesamten Informationsverbund ermöglichen.
+Anwendungen und IT-Systeme, mit denen eine zentrale Protokollierung nicht möglich ist, SOLLTEN bei einem erhöhten Schutzbedarf NICHT eingesetzt werden.
+
+OPS.1.1.5.A12 Verschlüsselung (CI)
+Um Protokollierungsdaten sicher übertragen zu können, SOLLTEN sie verschlüsselt werden.
+Weiterhin SOLLTEN alle gespeicherten Protokolle digital signiert werden.
+Auch archivierte und außerhalb der Protokollierungsinfrastruktur gespeicherte Protokollierungsdaten sollten immer verschlüsselt gespeichert werden.
+Weitere Hinweise und Anforderungen dazu führt Baustein CON.1 Kryptokonzept auf.
+
+
+OPS.1.1.5.A13 Hochverfügbare Protokollierungssysteme [Informationssicherheitsbeauftragter (ISB)] (A)
+Bei erhöhtem Schutzbedarf SOLLTE eine hochverfügbare Protokollierungsinfrastruktur aufgebaut werden.

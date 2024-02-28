@@ -1,0 +1,85 @@
+3.1 Basis-Anforderungen
+
+OPS.1.1.3.A1 Konzept für das Patch- und Änderungsmanagement [Fachverantwortliche] (B)
+Wenn IT-Komponenten, Software oder Konfigurationsdaten geändert werden sollen, MUSS es dafür Vorgaben geben, die auch Sicherheitsaspekte berücksichtigen.
+Alle Patches und Änderungen MÜSSEN geeignet geplant, genehmigt und dokumentiert werden.
+Patches und Änderungen SOLLTEN vorab geeignet getestet werden.
+Patches und Änderungen SOLLTEN nach Wichtigkeit und Dringlichkeit klassifiziert und entsprechend umgesetzt werden.
+Wenn Patches installiert und Änderungen durchgeführt werden, MÜSSEN Rückfall-Lösungen vorhanden sein.
+An größeren Änderungen MUSS zudem der Informationssicherheitsbeauftragte beteiligt sein.
+Insgesamt MUSS sichergestellt werden, dass das angestrebte Sicherheitsniveau während und nach den Änderungen erhalten bleibt.
+
+OPS.1.1.3.A2 Festlegung der Verantwortlichkeiten [Leiter IT] (B)
+Für alle Organisationsbereiche MÜSSEN Verantwortliche für das Patch- und Änderungsmanagement festgelegt werden.
+Die definierten Zuständigkeiten MÜSSEN sich auch im Berechtigungskonzept widerspiegeln.
+Zudem SOLLTE ein dedizierter Änderungsmanager (Change Manager) benannt werden.
+Alle beteiligten Personen MÜSSEN mit den Begriffen des Patch- und Änderungsmanagements, der Informationssicherheit und der kryptografischen Verfahren vertraut sein.
+
+OPS.1.1.3.A3 Konfiguration von Autoupdate-Mechanismen (B)
+Es MUSS innerhalb der Strategie zum Patch- und Änderungsmanagement definiert werden, wie mit integrierten Update-Mechanismen (Autoupdate) der eingesetzten Software umzugehen ist.
+Insbesondere MUSS festgelegt werden, wie diese Mechanismen abgesichert und passend konfiguriert werden.
+Außerdem SOLLTEN neue Komponenten daraufhin überprüft werden, welche Update-Mechanismen diese haben.
+
+
+3.2 Standard-Anforderungen
+
+OPS.1.1.3.A4 Planung des Änderungsmanagementprozesses [Änderungsmanager] (S)
+Es SOLLTE ein Änderungsmanagementprozess definiert werden.
+Es SOLLTE geprüft werden, ob die Institution sich dabei am Change-Management-Prozess der „IT Infrastructure Library“ (ITIL) orientieren kann.
+Alle Änderungen von Hard- und Softwareständen, sowie von Konfigurationen, SOLLTEN über den Prozess des Änderungsmanagements gesteuert und kontrolliert werden.
+
+OPS.1.1.3.A5 Umgang mit Änderungsanforderungen [Änderungsmanager] (S)
+Anträge für Änderungen SOLLTEN nach einem festgelegten Verfahren eingereicht und bearbeitet werden.
+Es SOLLTEN alle Änderungsanforderungen (Request for Changes, RfCs) erfasst, dokumentiert und danach vom Änderungsmanager kontrolliert werden.
+Jede akzeptierte Änderungsanforderung SOLLTE priorisiert und kategorisiert werden.
+Dabei SOLLTE sichergestellt sein, dass für die jeweiligen Prioritäten auch die benötigten Ressourcen verfügbar sind.
+
+OPS.1.1.3.A6 Abstimmung von Änderungsanforderungen [Änderungsmanager] (S)
+Der zu einer Änderung zugehörige Abstimmungsprozess SOLLTE alle relevanten Zielgruppen berücksichtigen.
+Die von der Änderung betroffenen Zielgruppen SOLLTEN sich nachweisbar dazu äußern können.
+Auch SOLLTE es ein festgelegtes Verfahren geben, wodurch wichtige Änderungsanforderungen beschleunigt werden können.
+
+OPS.1.1.3.A7 Integration des Änderungsmanagements in die Geschäftsprozesse [Änderungsmanager] (S)
+Der Änderungsmanagementprozess SOLLTE in die Geschäftsprozesse beziehungsweise Fachaufgaben integriert werden.
+So SOLLTE bei geplanten Änderungen die aktuelle Situation der davon betroffenen Geschäftsprozesse berücksichtigt werden.
+Alle relevanten Fachabteilungen SOLLTEN über anstehende Änderungen informiert werden.
+Auch SOLLTE es eine Eskalationsebene geben, deren Mitglieder der Leitungsebene der Institution angehören.
+Sie SOLLTEN in Zweifelsfällen über Priorität und Terminplanung einer Hard- oder Software-Änderung entscheiden.
+
+OPS.1.1.3.A8 Sicherer Einsatz von Werkzeugen für das Patch- und Änderungsmanagement (S)
+Es SOLLTEN Anforderungen und Rahmenbedingungen definiert werden, nach denen Werkzeuge für das Patch- und Änderungsmanagement ausgewählt werden.
+Außerdem SOLLTE eine spezifische Sicherheitsrichtlinie für die eingesetzten Werkzeuge erstellt werden.
+
+OPS.1.1.3.A9 Test- und Abnahmeverfahren für neue Hard- und Software (S)
+Neue Hard- und Software SOLLTE getestet werden, bevor sie eingesetzt wird.
+Dazu SOLLTEN ausschließlich isolierte Testsysteme verwendet werden.
+Auch SOLLTE es für Software ein Abnahmeverfahren und eine Freigabeerklärung geben.
+Der Verantwortliche SOLLTE die Freigabeerklärung an geeigneter Stelle schriftlich hinterlegen.
+Für den Fall, dass trotz der Abnahme- und Freigabeverfahren im laufenden Betrieb Fehler in der Software festgestellt werden, SOLLTE es ein Verfahren zur Fehlerbehebung geben.
+
+OPS.1.1.3.A10 Sicherstellung der Integrität und Authentizität von Softwarepaketen (S)
+Während des gesamten Patch- und Änderungsprozesses SOLLTE die Authentizität und Integrität von Softwarepaketen sichergestellt werden.
+Dazu SOLLTE geprüft werden, ob für die eingesetzten Softwarepakete Prüfsummen oder digitale Signaturen verfügbar sind.
+Ebenso SOLLTE darauf geachtet werden, dass die notwendigen Programme zur Überprüfung vorhanden sind.
+
+OPS.1.1.3.A11 Kontinuierliche Dokumentation der Informationsverarbeitung [Änderungsmanager] (S)
+Änderungen SOLLTEN in allen Phasen, allen Anwendungen und allen Systemen dokumentiert werden.
+Dazu SOLLTEN entsprechende Regelungen erarbeitet werden.
+
+
+3.3 Anforderungen bei erhöhtem Schutzbedarf
+Im Folgenden sind für den Baustein OPS.1.1.3 Patch- und Änderungsmanagement exemplarische Vorschläge für Anforderungen aufgeführt, die über das dem Stand der Technik entsprechende Schutzniveau hinausgehen und BEI ERHÖHTEM SCHUTZBEDARF in Betracht gezogen werden SOLLTEN.
+Die konkrete Festlegung erfolgt im Rahmen einer Risikoanalyse.
+
+OPS.1.1.3.A12 Skalierbarkeit beim Änderungsmanagement (H)
+Bevor ein Werkzeug zum Änderungsmanagement benutzt wird, SOLLTE seine Umsetzungsgeschwindigkeit sorgfältig geprüft werden.
+Es SOLLTEN Unterbrechungspunkte definiert werden können, an denen die Verteilung einer fehlerhaften Änderung gestoppt wird.
+
+OPS.1.1.3.A13 Erfolgsmessung von Änderungsanforderungen (H)
+Um zu überprüfen, ob eine Änderung erfolgreich war, SOLLTE der Änderungsmanager sogenannte Nachtests durchführen.
+Dazu SOLLTE er geeignete Referenzsysteme als Qualitätssicherungssysteme auswählen.
+Die Ergebnisse der Nachtests SOLLTEN im Rahmen des Änderungsprozesses dokumentiert werden.
+
+OPS.1.1.3.A14 Synchronisierung innerhalb des Änderungsmanagements [Änderungsmanager] (H)
+Wenn Institutionen Änderungen an der IT-Infrastruktur vornehmen, SOLLTE der Änderungsmanagementprozess darauf reagieren.
+Zeitweise oder permanent nicht erreichbare Geräte SOLLTEN im Änderungsmanagementprozess durch geeignete Mechanismen berücksichtigt werden.

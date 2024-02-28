@@ -1,0 +1,107 @@
+3.1 Basis-Anforderungen
+
+
+APP.3.3.A1 Geeignete Aufstellung [Haustechnik]
+Fileserver DÜRFEN NICHT in Büroräumen oder als Arbeitsplatzrechner betrieben werden.
+Sie MÜSSEN an Orten aufgestellt werden, zu denen nur berechtigte Personen Zutritt haben.
+Zudem MUSS auf eine schwingungsfreie bzw. erschütterungsfreie Umgebung des Fileservers geachtet werden.
+Auch Fileserver mit weiteren Funktionen, wie NAS-Systeme kombiniert mit einem WLAN-Access-Point oder mit Direktanschlüssen für Speicherkarten, MÜSSEN an geeigneten Orten aufgestellt werden.
+Des Weiteren MÜSSEN eine sichere Stromversorgung und eine entsprechend den Herstellervorgaben empfohlene Umgebungstemperatur und Luftfeuchte sichergestellt sein.
+
+APP.3.3.A2 Einsatz von RAID-Systemen
+Es MUSS geplant werden, ob im Fileserver ein RAID-System eingesetzt wird.
+Eine Entscheidung gegen ein solches System MUSS nachvollziehbar dokumentiert werden.
+Wenn ein RAID-System eingesetzt werden soll, MUSS entschieden werden:
+• welches RAID-Level benutzt werden soll, um die Datenträger logisch zusammenzufassen,
+• wie lang die Zeitspanne für einen RAID-Rebuild-Prozess sein darf und
+• ob ein Software- oder ein Hardware-RAID eingesetzt werden soll.
+Die RAID-Level MÜSSEN dem Stand der Technik entsprechen.
+Bei einem Hardware-RAID SOLLTE der RAID-Controller redundant ausgelegt sein.
+In einem RAID SOLLTEN Hotspare-Festplatten vorgehalten werden.
+
+APP.3.3.A3 Einsatz von Antiviren-Programmen
+Je nach Betriebssystem und anderen vorhandenen Schutzmechanismen MUSS der Fileserver in das Konzept zum Schutz vor Schadprogrammen der Institution einbezogen werden.
+Das eingesetzte Antiviren-Programm MUSS die über den Fileserver freigegebenen Dateien regelmäßig überprüfen. Neben Echtzeit- und On-Demand-Scans MUSS die eingesetzte Lösung auch komprimierte Dateien nach Schadprogrammen durchsuchen können.
+Darüber hinaus SOLLTE sie auch verschlüsselte Dateien prüfen können.
+Alle Daten MÜSSEN durch die Antiviren-Lösung auf Schadsoftware untersucht werden, bevor sie auf dem Speichermedium abgelegt werden.
+Sowohl die Virensignaturen als auch die Antiviren-Software selbst MÜSSEN laufend aktualisiert werden.
+Es MUSS sichergestellt sein, dass Benutzer keine sicherheitsrelevanten Änderungen an den Einstellungen der Antiviren-Lösung vornehmen können.
+
+APP.3.3.A4 Regelmäßige Datensicherung
+Es MÜSSEN regelmäßig alle auf dem Fileserver befindlichen Daten gesichert werden.
+Dazu MUSS ein Datensicherungskonzept erstellt werden, das unter anderem definiert, in welchen Intervallen das Backup durchgeführt werden soll.
+Außerdem MUSS eine Datensicherung durchgeführt werden, wenn auf dem Fileserver etwas installiert oder neu konfiguriert wird.
+Alle gesicherten Daten MÜSSEN sich jederzeit wiederherstellen lassen.
+Dabei SOLLTE die maximale Wiederanlaufzeit erhoben und im Datensicherungskonzept berücksichtigt werden.
+
+APP.3.3.A5 Restriktive Rechtevergabe
+Zugriffsrechte auf die vom Fileserver verwalteten Dateien MÜSSEN restriktiv vergeben werden.
+Es MUSS sichergestellt sein, dass jeder Benutzer nur auf die Daten zugreifen kann, die er benötigt, um seine Aufgaben zu erfüllen.
+Systemverzeichnisse und -dateien DÜRFEN NICHT für unbefugte Benutzer freigegeben werden.
+Es MUSS regelmäßig überprüft werden, ob die Zugriffsberechtigungen noch aktuell sind und der Sicherheitsrichtlinie entsprechen.
+Zudem MUSS es einen definierten Prozess geben, um Berechtigungen neu einzurichten, zu ändern oder zu entziehen. 
+Alle Zugriffsrechte MÜSSEN nachvollziehbar dokumentiert werden.
+
+3.2 Standard-Anforderungen
+Gemeinsam mit den Basis-Anforderungen entsprechen die folgenden Anforderungen dem Stand der Technik für den Baustein APP.3.3 Fileserver.
+Sie SOLLTEN grundsätzlich umgesetzt werden.
+
+APP.3.3.A6 Beschaffung eines Fileservers
+Bevor ein Fileserver beschafft wird, SOLLTE eine Anforderungsliste erstellt werden, anhand derer die am Markt erhältlichen Produkte bewertet werden.
+Die Leistung, die Speicherkapazität, die Bandbreite sowie die Anzahl der Benutzer, die den Fileserver nutzen sollen, SOLLTE bei der Beschaffung des Fileservers berücksichtigt werden.
+
+APP.3.3.A7 Auswahl eines Dateisystems
+Es SOLLTE eine Anforderungsliste erstellt werden, nach der anhand der die Dateisysteme bewertet werden.
+Um Transaktionssicherheit zu gewährleisten, SOLLTE das Dateisystem eine Journaling-Funktion bieten.
+Auch SOLLTE es über einen Schutzmechanismus verfügen, der verhindert, dass zwei Benutzer oder Anwendungen zur gleichen Zeit schreibend auf eine Datei zugreifen.
+Es SOLLTE ein Dateisystem ausgewählt werden, das eine festgelegte Overhead-Grenze nicht überschreitet.
+Für Hochverfügbarkeitslösungen SOLLTEN verteilte Dateisysteme verwendet werden.
+
+APP.3.3.A8 Strukturierte Datenhaltung [Benutzer]
+Es SOLLTE eine Struktur festgelegt werden, nach der Daten abzulegen sind.
+Benutzer SOLLTEN regelmäßig über die geforderte strukturierte Datenhaltung informiert werden.
+Es SOLLTE schriftlich festgelegt werden, welche Daten lokal und welche auf dem Fileserver gespeichert werden dürfen. Programm- und Arbeitsdaten SOLLTEN getrennt gespeichert werden.
+Es SOLLTE regelmäßig überprüft werden, ob die Vorgaben zur strukturierten Datenhaltung eingehalten werden.
+
+APP.3.3.A9 Sicheres Speichermanagement
+Es SOLLTEN alle Speicherressourcen des Fileservers katalogisiert werden, z. B. Festplatten, Flash-Speicher, Bandlaufwerke.
+Zudem SOLLTE regelmäßig überprüft werden, ob die Speicher noch wie vorgesehen funktionieren.
+Um bei Engpässen schnell reagieren zu können, SOLLTEN Ersatzspeicher vorgehalten werden.
+Wurde eine Speicherhierarchie (Primär-, Sekundär- bzw. Tertiärspeicher) aufgebaut, SOLLTE ein (teil-)automatisiertes Speichermanagement verwendet werden.
+Werden Daten automatisiert verteilt, SOLLTE regelmäßig manuell überprüft werden, ob das korrekt funktioniert.
+Weiterhin SOLLTEN die eingesetzten Speicher in das Protokollierungskonzept des Informationsverbunds einbezogen werden.
+Folgende Ereignisse SOLLTEN mindestens protokolliert werden:
+• Aktivitäten (Modifizieren, Hinzufügen bzw. Löschen von Daten),
+• nicht autorisierte Zugriffe auf Daten und
+• Änderungen von Zugriffsrechten.
+
+APP.3.3.A10 Regelmäßige Tests des Datensicherungs- bzw. Wiederherstellungskonzepts
+Es SOLLTE regelmäßig getestet werden, ob die Datensicherung und -wiederherstellung korrekt funktionieren.
+Dafür SOLLTE ein Zeitplan ausgearbeitet werden.
+Es SOLLTEN genügend Ressourcen bereitgestellt werden, um die Tests planen, konzipieren und durchführen zu können.
+Die Ergebnisse SOLLTEN ausreichend dokumentiert werden.
+Aufgedeckte Mängel SOLLTEN dazu führen, dass das Datensicherungskonzept überarbeitet wird.
+
+APP.3.3.A11 Einsatz von Quotas
+Es SOLLTE überlegt werden, Quotas einzurichten.
+Alternativ SOLLTEN Mechanismen des verwendeten Datei- oder Betriebssystemsystems genutzt werden, die die Benutzer bei einem bestimmten Füllstand der Festplatte warnen oder nur noch dem Systemadministrator Schreibrechte einräumen.
+
+
+3.3 Anforderungen bei erhöhtem Schutzbedarf
+
+APP.3.3.A12 Verschlüsselung des Datenbestandes (CI)
+Alle Daten auf dem Fileserver SOLLTEN verschlüsselt werden.
+Dazu SOLLTEN die Datenträger vollständig verschlüsselt werden.
+Es SOLLTE sichergestellt werden, dass der Virenschutz die verschlüsselten Dateien auf Schadsoftware prüfen kann.
+Kryptografische Schüssel SOLLTEN sicher erzeugt und von den Daten getrennt aufbewahrt werden (siehe auch CON.1 Kryptokonzept).
+
+APP.3.3.A13 Replizieren zwischen Standorten (A)
+Für hochverfügbare Systeme SOLLTE eine angemessene Replikation der Daten auf mehreren Datenträgern stattfinden.
+Daten SOLLTEN zudem zwischen unabhängigen Geräten oder unabhängigen Standorten repliziert werden.
+Dafür SOLLTE ein geeigneter Replikationsmechanismus ausgewählt werden.
+Damit die Replikation wie vorgesehen funktionieren kann, SOLLTEN hinreichend genaue Zeitdienste genutzt und betrieben werden.
+
+APP.3.3.A14 Einsatz von Error-Correction-Codes (I)
+Es SOLLTEN grundsätzlich fehlererkennende bzw. fehlerkorrigierende Verfahren eingesetzt werden, etwa auf Dateisystem-Ebene.
+Die notwendigen redundanten Bits SOLLTEN bei der Planung miteinbezogen werden.
+Es SOLLTE beachtet werden, dass je nach eingesetztem Verfahren Fehler nur mit einer gewissen Wahrscheinlichkeit erkannt und auch nur in begrenzter Größenordnung behoben werden können.

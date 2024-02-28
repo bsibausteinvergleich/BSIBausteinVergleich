@@ -1,0 +1,70 @@
+3.1 Basis-Anforderungen
+
+ORP.1.A1 Festlegung von Verantwortlichkeiten und Regelungen [Institutionsleitung] (B)
+Innerhalb einer Institution SOLLTEN alle relevanten Aufgaben und Funktionen klar definiert und voneinander abgegrenzt sein.
+Es MÜSSEN verbindliche Regelungen zur Informationssicherheit für die verschiedenen betrieblichen Aspekte übergreifend festgelegt werden.
+Die Regelungen MÜSSEN anlassbezogen überarbeitet werden.
+Sie MÜSSEN allen Mitarbeitern bekannt gegeben werden.
+
+ORP.1.A2 Zuweisung der Verantwortung [Institutionsleitung] (B)
+Für alle Geschäftsprozesse, Anwendungen, IT-Systeme, Räume und Gebäude sowie Kommunikationsverbindungen MUSS festgelegt werden, wer für diese und deren Sicherheit verantwortlich ist.
+Alle Mitarbeiter MÜSSEN darüber informiert sein, insbesondere wofür sie verantwortlich sind und welche damit verbundenen Aufgaben sie wahrnehmen.
+
+ORP.1.A3 Beaufsichtigung oder Begleitung von Fremdpersonen [Mitarbeiter] (B)
+Die Mitarbeiter MÜSSEN dazu angehalten werden, institutionsfremde Personen in den Räumen der Institution nicht unbeaufsichtigt zu lassen.
+
+ORP.1.A4 Funktionstrennung zwischen unvereinbaren Aufgaben (B)
+Die Aufgaben und die hierfür erforderlichen Rollen und Funktionen MÜSSEN so strukturiert sein, dass unvereinbare Aufgaben wie operative und kontrollierende Funktionen auf verschiedene Personen verteilt werden.
+Für unvereinbare Funktionen MUSS eine Funktionstrennung festgelegt und dokumentiert sein.
+Auch Vertreter MÜSSEN der Funktionstrennung unterliegen.
+
+ORP.1.A5 Vergabe von Berechtigungen [Leiter IT] (B)
+Es MUSS festgelegt werden, welche Zutritts-, Zugangs- und Zugriffsrechte an welche Personen im Rahmen ihrer Aufgaben und Funktionen vergeben werden (siehe auch ORP.4 Identitäts- und Berechtigungsmanagement).
+
+
+3.2 Standard-Anforderungen
+
+ORP.1.A6 Schutz von sensiblen Informationen am Arbeitsplatz [Mitarbeiter] (S)
+Alle Mitarbeiter SOLLTEN darauf hingewiesen werden, dass an unbeaufsichtigten Arbeitsplätzen weder sensible Informationen noch IT-Systeme frei zugänglich sein dürfen.
+Arbeitsplätze SOLLTEN stichprobenartig daraufhin kontrolliert werden, ob schützenswerte Informationen offen zugänglich sind.
+
+ORP.1.A7 Geräteverwaltung [Leiter IT, Leiter Produktion und Fertigung, Leiter Haustechnik] (S)
+Es SOLLTE eine Übersicht aller Geräte vorhanden sein, die in der Institution genutzt werden und Einfluss auf die Informationssicherheit haben können.
+Dazu SOLLTEN neben IT-Systemen und ICS-Komponenten auch Geräte aus dem Bereich „Internet der Dinge“ (engl. „Internet of Things “, IoT) berücksichtigt werden.
+Vor der ersten Inbetriebnahme der Geräte SOLLTEN geeignete Prüf- und Genehmigungsverfahren vorgeschaltet werden.
+
+ORP.1.A8 Betriebsmittelverwaltung [Leiter IT] (S)
+Alle Betriebsmittel, die zur Aufgabenerfüllung und zur Einhaltung der Sicherheitsanforderungen erforderlich sind, SOLLTEN in ausreichender Menge vorhanden sein.
+Es SOLLTE geeignete Prüfverfahren vor Einsatz der Betriebsmittel geben.
+Die Betriebsmittel SOLLTEN in geeigneten Bestandsverzeichnissen aufgelistet werden.
+Um den Missbrauch von Daten zu verhindern, SOLLTE die zuverlässige Löschung oder Vernichtung von Betriebsmitteln geregelt sein.
+
+ORP.1.A9 ENTFALLEN (S)
+Diese Anforderung ist entfallen.
+
+ORP.1.A10 Reaktion auf Verletzungen der Sicherheitsvorgaben [Informationssicherheitsbeauftragter (ISB)] (S)
+Es SOLLTE geregelt sein, welche Reaktionen bei Verdacht auf Verletzungen der Sicherheitsvorgaben erfolgen, um eine zielgerichtete und zeitnahe Reaktion zu ermöglichen.
+
+ORP.1.A11 Rechtzeitige Beteiligung der Personalvertretung [Leiter IT] (S)
+Die Personalvertretung SOLLTE rechtzeitig informiert und beteiligt werden, wenn Verfahren oder Projekte sie betreffen.
+
+ORP.1.A12 Regelungen für Wartungs- und Reparaturarbeiten [IT-Betrieb, Haustechnik, ICS-Informationssicherheitsbeauftragter] (S)
+Technische Geräte SOLLTEN regelmäßig gewartet werden.
+Es SOLLTE geregelt sein, welche Sicherheitsaspekte bei Wartungs- und Reparaturarbeiten zu beachten sind.
+Zusätzlich SOLLTE festgelegt werden, wer für die Wartung oder Reparatur von Geräten verantwortlich ist.
+Mitarbeiter SOLLTEN wissen, dass Wartungspersonal bei Arbeiten im Haus beaufsichtigt werden muss.
+Durchgeführte Wartungsarbeiten SOLLTEN dokumentiert werden.
+
+ORP.1.A13 Sicherheit bei Umzügen [Leiter IT, Leiter Haustechnik] (S)
+Vor einem geplanten Umzug SOLLTEN rechtzeitig Sicherheitsrichtlinien erarbeitet bzw. aktualisiert werden.
+Alle Mitarbeiter SOLLTEN über die vor, während und nach dem Umzug relevanten Sicherheitsmaßnahmen informiert werden.
+Während des Umzugs SOLLTE ein Mindestmaß an Zutritts- und Zugangskontrolle vorhanden sein.
+Nach dem Umzug SOLLTE überprüft werden, ob das transportierte Umzugsgut vollständig und unbeschädigt bzw. unverändert angekommen ist.
+
+
+3.3 Anforderungen bei erhöhtem Schutzbedarf
+
+ORP.1.A14 Kontrollgänge [Haustechnik, Informationssicherheitsbeauftragter (ISB)] (H)
+Es SOLLTEN Kontrollgänge durchgeführt werden, um zu überprüfen, inwieweit Sicherheitsvorgaben umgesetzt werden.
+Einfach zu behebende Mängel SOLLTEN sofort behoben werden (z. B. Fenster schließen).
+Darüber hinaus SOLLTEN Ursachen hinterfragt und beseitigt werden.

@@ -1,0 +1,93 @@
+3.1 Basis-Anforderungen
+
+
+INF.4.A1 Auswahl geeigneter Kabeltypen [Leiter Haustechnik]
+Bei der Auswahl von Kabeln MÜSSEN die übertragungstechnischen Notwendigkeiten und die Umgebungsbedingungen bei der Verlegung sowie im Betrieb berücksichtigt werden.
+Die Auswahl der Kabel aus kommunikationstechnischer Sicht MUSS durch die erforderliche Übertragungsrate und die Entfernung zwischen den Übertragungseinrichtungen bestimmt werden.
+Im Bezug auf die Umgebungsbedingungen MÜSSEN Faktoren wie z. B. die Temperaturen, Kabelwege, Zugkräfte bei der Verlegung, die Verlegeart und etwaige Störquellen beachtet werden.
+Des Weiteren MÜSSEN die anzuwendenden Normen und Vorschriften bei der Auswahl der Kabel berücksichtigt werden.
+
+INF.4.A2 Planung der Kabelführung [Leiter Haustechnik]
+Kabel, Kabelwege und Kabeltrassen MÜSSEN vor ihrer Verlegung sowohl aus technischer wie auch aus physischer Sicht ausreichend dimensioniert werden.
+Dabei MÜSSEN zukünftige übertragungstechnische Notwendigkeiten ebenso mit einkalkuliert werden wie genügend Platz für mögliche technische Erweiterungen in Kabelkanälen und -trassen.
+Bei der gemeinsamen Führung von IT- und Stromverkabelung in einer Trasse MUSS außerdem darauf geachtet werden, das Übersprechen zwischen den einzelnen Kabeln zu vermeiden.
+Es MUSS darauf geachtet werden, erkennbare Gefahrenquellen zu umgehen.
+
+INF.4.A3 Fachgerechte Installation [Leiter Haustechnik]
+Installationsarbeiten an der IT-Verkabelung MÜSSEN sorgfältig und fachkundig erfolgen. Gleichzeitig MÜSSEN alle relevanten Normen beachtet werden.
+Die entscheidenden Kriterien für eine fachgerechte Ausführung der IT-Verkabelung MÜSSEN vom Auftraggeber in allen Phasen überprüft werden.
+Bei Anlieferung des Materials MUSS geprüft werden, ob die richtigen Kabel und Anschlusskomponenten geliefert wurden.
+Bei der Verlegung von IT-Kabeln MUSS besondere Sorgfalt darauf gelegt werden, dass die Montage keine Beschädigungen hervorruft und dass die Kabelwege so gewählt sind, dass Beschädigungen der verlegten Kabel durch die normale Nutzung des Gebäudes ausgeschlossen sind.
+Zudem MUSS generell darauf geachtet werden, dass IT-Kabel getrennt von der elektrotechnischen Verkabelung geführt werden.
+
+
+3.2 Standard-Anforderungen
+
+INF.4.A4 Anforderungsanalyse für die IT-Verkabelung
+Grundsätzlich SOLLTE eine Analyse der Anforderungen, die Einfluss auf eine zukunftssichere, bedarfsgerechte und wirtschaftliche Ausführung der IT-Verkabelung haben, durchgeführt werden.
+In ihr SOLLTE zunächst die kurzfristig geplante Nutzung durch die Anwender in der Institution und darauf aufbauend die längerfristige Entwicklung der IT-Nutzung abgeschätzt werden.
+Darüber hinaus MÜSSEN die Schutzziele der Verfügbarkeit, Integrität und Vertraulichkeit bei der Anforderungsanalyse für die IT-Verkabelung mit betrachtet werden.
+
+INF.4.A5 Abnahme der IT-Verkabelung [Leiter Haustechnik]
+Die IT-Verkabelung SOLLTE einem Abnahmeprozess unterzogen werden.
+Diese SOLLTE erst dann erfolgen, wenn alle durchzuführenden Aufgaben abgeschlossen sind, der Ausführende die Maßnahme zur Abnahme gemeldet hat und sich bei den Kontrollen durch den Auftraggeber keine inakzeptablen Mängel gezeigt haben.
+Der Abnahmetermin SOLLTE zeitlich so gewählt werden, dass die Kontrollen zur Abnahme in ausreichender Zeit vorbereitet werden können.
+Bei der Abnahme MÜSSEN die Aspekte der Informationssicherheit kontrolliert werden.
+Für das Abnahmeprotokoll SOLLTE eine Checkliste vorbereitet werden.
+Die Checkliste SOLLTE auch Punkte zu allgemeinen Anforderungen an die Betriebsräume enthalten.
+Das Abnahmeprotokoll MUSS von den Teilnehmern und Verantwortlichen unterzeichnet werden.
+
+INF.4.A6 Laufende Fortschreibung und Revision der Netzdokumentation
+Die Dokumentation der IT-Verkabelung SOLLTE als ein elementarer Bestandteil einer jeden Veränderung im Netz betrachtet und behandelt werden.
+Hierbei SOLLTEN alle von der Änderung betroffenen Dokumentationsbereiche leicht erfasst und angepasst werden können.
+Außerdem SOLLTE geprüft werden, ob der Einsatz eines Dokumentenmanagements für die Netzdokumentation zweckmäßig ist.
+
+INF.4.A7 Entfernen und Deaktivieren nicht mehr benötigter IT-Verkabelung [Leiter Haustechnik]
+Wenn IT-Verkabelung nicht mehr benötigt wird, SOLLTE sie fachgerecht und vollständig entfernt werden.
+IT-Verkabelung, die mit der vorhandenen Technik sinnvoll als Reserve weiter genutzt werden kann, SOLLTE in einem betriebsfähigen Zustand erhalten bleiben.
+Grundsätzlich SOLLTE eine Übersicht über nicht mehr benötigte Kabel aufgestellt werden und anhand dieser Dokumentation die Deaktivierung oder der Abbau/Ausbau der Kabel belegt werden.
+Anschließend MUSS die Dokumentation, in der der Bestand der IT-Verkabelung aufgeführt ist, aktualisiert werden.
+
+INF.4.A8 Brandabschottung von Trassen [Leiter Haustechnik]
+Zur Vermeidung von Kabelbränden SOLLTEN Trassen über eine ausreichende Be- und Entlüftung verfügen.
+Die brandschutztechnischen Auflagen MÜSSEN eingehalten werden.
+Darüber hinaus SOLLTE nach Abschluss der Installationsarbeiten die Brandabschottung in regelmäßigen Abständen kontrolliert werden.
+
+INF.4.A9 Dokumentation und Kennzeichnung der IT-Verkabelung
+Eine Institution SOLLTE sicherstellen, dass sie für ihre IT-Verkabelung eine interne und eine externe Dokumentation besitzt.
+Die interne Dokumentation MUSS alle Aufzeichnungen, die die Errichtung und den Betrieb der IT-Verkabelung betreffen, enthalten.
+Die interne Dokumentation SOLLTE so umfangreich angefertigt und gepflegt werden, dass der Betrieb und die zukünftige Weiterentwicklung der IT-Netze bestmöglich unterstützt werden.
+Die externe Dokumentation der Verkabelung SOLLTE so sparsam wie möglich ausfallen.
+
+INF.4.A10 Neutrale Dokumentation in den Verteilern
+In jedem Verteiler SOLLTE sich eine Dokumentation befinden, die den derzeitigen Stand von Rangierungen und Leitungsbelegungen wiedergibt.
+Diese Dokumentation SOLLTE möglichst neutral gehalten werden.
+Nur bestehende und genutzte Verbindungen SOLLTEN darin aufgeführt sein.
+Es SOLLTEN, soweit nicht ausdrücklich vorgeschrieben, keine Hinweise auf die Nutzungsart der Leitungen gegeben werden.
+Alle weitergehenden Informationen MÜSSEN in einer Revisionsdokumentation aufgeführt werden.
+
+INF.4.A11 Kontrolle bestehender Verbindungen
+Alle Verteiler und Zugdosen der Verkabelung SOLLTEN regelmäßig einer (zumindest stichprobenartigen) Sichtprüfung unterzogen werden.
+Neben der reinen Sichtkontrolle SOLLTE zusätzlich eine funktionale Kontrolle durchgeführt werden.
+Alle Unregelmäßigkeiten, die bei Sichtkontrollen oder funktionalen Kontrollen festgestellt werden, MÜSSEN unverzüglich dokumentiert und den zuständigen Organisationseinheiten gemeldet werden.
+
+
+3.3 Anforderungen bei erhöhtem Schutzbedarf
+
+INF.4.A12 Redundanzen für die Verkabelung (A)
+Es SOLLTE geprüft werden, ob zumindest für wichtige Gebäude eine redundante, über unabhängige Trassen geführte primäre IT-Verkabelung geschaffen werden soll.
+Ebenso SOLLTE geprüft werden, ob die Anschlüsse an IT- oder TK-Provider redundant ausgelegt werden sollen.
+Bei hohen oder sehr hohen Verfügbarkeitsanforderungen SOLLTE überlegt werden, in den relevanten Gebäuden die Sekundär- und Tertiärverkabelung redundant auszulegen.
+Dabei SOLLTE die Sekundärverkabelung über mindestens zwei Steigeschächte geführt werden, die sich in verschiedenen Brandabschnitten des Gebäudes befinden.
+Wird eine redundante Verkabelung verwendet, SOLLTE deren Funktionsfähigkeit regelmäßig geprüft werden.
+
+INF.4.A13 Materielle Sicherung der IT-Verkabelung (IA)
+In Räumen mit Publikumsverkehr oder in unübersichtlichen Bereichen eines Gebäudes SOLLTEN Leitungen und Verteiler zusätzlich gegen unbefugte Zugriffe gesichert werden.
+In jedem Fall SOLLTE die Zahl der Stellen, an denen das verlegte Kabel zugänglich ist, auf ein Mindestmaß reduziert und die Länge der vor unberechtigtem Zugriff zu schützenden Verbindungen möglichst klein gehalten werden.
+
+INF.4.A14 Verhinderung von Ausgleichsströmen auf Schirmungen (A)
+Die Stromversorgung der IT-Komponenten SOLLTE so gewählt sein, dass Störungen durch Ausgleichsströme auf den Schirmungen von Datenleitungen verhindert werden.
+Je nach Netzform SOLLTEN außerdem Vorkehrungen gegen Einstrahlungen von außen, Abstrahlung durch die Leitung sowie zur Erkennung von Ausgleichsströmen getroffen werden.
+
+INF.4.A15 Nutzung von Schranksystemen (IA)
+Zur Verbesserung der Betriebssicherheit von aktiven und passiven Netzkomponenten SOLLTEN diese Geräte in Schranksystemen eingebaut oder aufgestellt werden.

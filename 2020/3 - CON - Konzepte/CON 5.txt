@@ -1,0 +1,73 @@
+3.1 Basis-Anforderungen
+
+CON.5.A1 Festlegung benötigter Sicherheitsfunktionen der Individualsoftware [IT-Betrieb] (B)
+Der Fachverantwortliche MUSS bereits bei der Anforderungserhebung und -dokumentation die erforderlichen Sicherheitsfunktionen für die Individualsoftware definieren.
+Hierzu MÜSSEN die mit der Individualsoftware verarbeiteten Informationen und deren Schutzbedarf sowie die damit verbundenen Geschäftsprozesse betrachtet werden.
+Vom IT-Betrieb MÜSSEN die Sicherheitsfunktionen zur Integration in die IT-betriebliche Infrastruktur definiert werden.
+Die Sicherheitsfunktionen MÜSSEN geeignet dokumentiert werden.
+
+CON.5.A2 ENTFALLEN (B)
+Diese Anforderung ist entfallen.
+
+CON.5.A3 Sichere Installation von Individualsoftware [IT-Betrieb] (B)
+Es MUSS eine Installationsanweisung erstellt werden, die alle benötigten Anwendungskomponenten (einschließlich erforderlicher Bibliotheken), die Installationsreihenfolge und die Konfiguration der Anwendungsmodule enthält.
+Der IT-Betrieb MUSS die Installationsanweisung auf die IT-betrieblichen Strukturen der Institution anpassen.
+Ebenso MUSS der IT-Betrieb die Individualsoftware gemäß der Installationsanweisung installieren.
+Bei Änderungen in der Anwendung und bei funktionalen Updates MUSS die Installationsanweisung aktualisiert werden.
+
+CON.5.A4 Heranführen von Benutzerinnen und Benutzern an Individualsoftware (B)
+Alle Benutzer der Individualsoftware, darunter auch die zuständigen Administratoren, MÜSSEN an die korrekte Nutzung und Administration der Anwendung einschließlich der Sicherheitsfunktionen herangeführt werden.
+Hierzu SOLLTEN Richtlinien und Arbeitsanweisungen zur Nutzung und Administration der Anwendung, Schulungen und Einweisungen, Handbücher und Online-Hilfen sowie eine Benutzerunterstützung durch Schlüsselanwender angeboten werden.
+
+CON.5.A5 ENTFALLEN (B)
+Diese Anforderung ist entfallen.
+
+
+3.2 Standard-Anforderungen
+
+CON.5.A6 Dokumentation der Anforderungen an die Individualsoftware (S)
+Alle relevanten Anforderungen an die Individualsoftware SOLLTEN umfassend dokumentiert werden.
+Diese Dokumentation SOLLTE bei Änderungen an der Individualsoftware sowie bei funktionalen Updates aktualisiert werden.
+
+CON.5.A7 ENTFALLEN (S)
+Diese Anforderung ist entfallen.
+
+CON.5.A8 Geeignete Steuerung der Anwendungsentwicklung (S)
+Bei der Entwicklung von Individualsoftware SOLLTE ein geeignetes Steuerungs- und Projektmanagementmodell verwendet werden.
+Dabei SOLLTE insbesondere berücksichtigt werden, dass das benötigte Personal ausreichend qualifiziert ist und alle relevanten Phasen während des Lebenszyklus der Software abgedeckt werden.
+Außerdem SOLLTE es ein geeignetes Entwicklungsmodell, ein Risikomanagement sowie Qualitätsziele enthalten.
+
+CON.5.A9 Außerbetriebnahme von Individualsoftware (S)
+Die Außerbetriebnahme von Individualsoftware SOLLTE durch den IT-Betrieb geplant werden.
+Der Fachverantwortliche SOLLTE für alle Daten mit dem IT-Betrieb klären, ob diese migriert, archiviert oder gelöscht werden.
+Nicht mehr benötigte Daten SOLLTEN sicher gelöscht werden.
+Die Außerbetriebnahme von Individualsoftware sowie der zugehörigen IT-Systeme und Datenträger SOLLTE vom IT-Betrieb nachvollziehbar dokumentiert werden.
+
+CON.5.A10 ENTFALLEN (S)
+Diese Anforderung ist entfallen.
+
+CON.5.A11 Geeignete und rechtskonforme Beschaffung [Beschaffer] (S)
+Wird Individualsoftware beschafft, SOLLTEN die bestehenden rechtlichen und organisatorischen Vorgaben vom Beschaffer berücksichtigt werden.
+Werden bei der Beschaffung, Entwicklung oder dem Betrieb einer Anwendung Dienstleister einbezogen, SOLLTEN in den Verträgen die relevanten Sicherheitsaspekte behandelt werden.
+In der Institution SOLLTEN definierte Prozesse und festgelegte Ansprechpartner existieren, die sicherstellen, dass die jeweiligen Rahmenbedingungen berücksichtigt werden.
+Es SOLLTE geklärt werden, welche Rolle Zertifizierungen bei der Entscheidung zur Vergabe spielen.
+
+
+3.3 Anforderungen bei erhöhtem Schutzbedarf
+
+CON.5.A12 Treuhänderische Hinterlegung (H)
+Für institutionskritische Anwendungen SOLLTE geprüft werden, ob diese gegen Ausfall des Herstellers abgesichert werden sollten.
+Dafür SOLLTEN nicht zum Lieferumfang der Anwendung gehörende Materialien und Informationen treuhänderisch hinterlegt werden, etwa bei einer Escrow-Agentur.
+Dazu SOLLTEN dokumentierter Code, Konstruktionspläne, Schlüssel oder Passwörter gehören.
+In diesem Fall SOLLTEN die Pflichten der Escrow-Agentur zur Hinterlegung und Herausgabe vertraglich geregelt werden.
+Es SOLLTE geklärt werden, wann das Hinterlegte an wen herausgegeben werden darf.
+
+CON.5.A13 Entwicklung eines Redundanzkonzeptes für Anwendungen [IT-Betrieb, Notfallbeauftragter] (H)
+Es SOLLTE ein Redundanzkonzept vom IT-Betrieb in Abstimmung mit dem Fachverantwortlichen erstellt werden.
+Dieses SOLLTE folgende Aspekte beinhalten:
+• Planung eines eingeschränkten IT-Betriebs sowie der Wiederherstellung im Notfall (Notfallvorsorgekonzeption),
+• Redundanz auf Anwendungsebene mittels Loadbalancing oder Anwendungsclustern beziehungsweise Cloud-Services,
+• Möglichkeiten, die Anwendung auf andere IT-Systeme zu übertragen.
+Ergänzend SOLLTE das Redundanzkonzept auch Gebäude, Räume, IT-Systeme und Kommunikationsverbindungen einbeziehen, die für den Anwendungsbetrieb benötigt werden.
+Das Redundanzkonzept SOLLTE zwischen dem IT-Betrieb und dem Notfallbeauftragten mit Hinsicht auf das Notfallkonzept abgestimmt werden.
+Die Maßnahmen aus dem Redundanzkonzept SOLLTEN regelmäßig getestet und geübt werden.

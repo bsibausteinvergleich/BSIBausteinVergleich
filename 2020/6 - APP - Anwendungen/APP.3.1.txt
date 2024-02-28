@@ -1,0 +1,176 @@
+3.1 Basis-Anforderungen
+
+APP.3.1.A1 Authentisierung bei Webanwendungen [Entwickler] (B)
+Der IT-Betrieb und die Entwickler von Webanwendungen MÜSSEN sicherstellen, dass sich Benutzer gegenüber der Anwendung geeignet authentisieren, wenn diese auf geschützte Ressourcen zugreifen wollen.
+Dafür MUSS eine geeignete Authentisierungsmethode ausgewählt und der Auswahlprozess dokumentiert werden.
+Die Zugangsdaten MÜSSEN angemessen geschützt werden.
+Es MUSS eine zentrale Authentisierungskomponente verwendet werden, die möglichst mit etablierten Standardkomponenten umgesetzt wurde.
+Die Komponente MUSS die Benutzer dazu zwingen, sichere Passwörter gemäß einer Passwort-Richtlinie zu benutzen.
+Speichert eine Webanwendung Authentisierungsdaten auf einem Client, MUSS der Benutzer explizit zustimmen („Opt-In“) und auf die Risiken der Funktion hingewiesen werden.
+In der Webanwendung MÜSSEN Grenzwerte für fehlgeschlagene Anmeldeversuche definiert sein.
+Alle angebotenen Authentisierungsverfahren der Webanwendung MÜSSEN das gleiche Sicherheitsniveau aufweisen.
+Zudem MÜSSEN Benutzer sofort informiert werden, wenn ihr Passwort zurückgesetzt wurde.
+
+APP.3.1.A2 Zugriffskontrolle bei Webanwendungen [Entwickler] (B)
+Es MUSS durch die Entwickler einer Webanwendung mittels einer Autorisierungskomponente sichergestellt werden, dass Benutzer nur Aktionen durchführen können, zu denen sie berechtigt sind.
+Jeder Zugriff auf geschützte Inhalte und Funktionen MUSS kontrolliert werden, bevor er ausgeführt wird.
+Sollte es nicht möglich sein, Zugriffsrechte zuzuweisen, MUSS dafür ein zusätzliches Sicherheitsprodukt eingesetzt werden.
+Es MÜSSEN alle von der Webanwendung verwalteten Ressourcen von der Autorisierungskomponente berücksichtigt werden.
+Die Benutzer MÜSSEN serverseitig und zentral auf einem vertrauenswürdigen IT-System autorisiert werden.
+Ist die Zugriffskontrolle fehlerhaft, MÜSSEN Zugriffe abgelehnt werden.
+Auch MUSS es eine Zugriffskontrolle bei URL-Aufrufen und Objekt-Referenzen geben.
+Ebenso MUSS der Zugriff auf Dateien durch die Benutzer mit restriktiven Dateisystemberechtigungen beschränkt werden.
+Es MUSS zudem ein sicherer Umgang mit temporären Dateien vorgesehen werden.
+
+APP.3.1.A3 Sicheres Session-Management [Entwickler] (B)
+Entwickler einer Webanwendung MÜSSEN sicherstellen, dass Session-IDs geeignet geschützt werden.
+Session-IDs MÜSSEN zufällig und mit ausreichender Entropie erzeugt werden.
+Falls das Framework der Webanwendung Session-IDs generieren kann, MUSS diese Funktion des Frameworks von den Entwicklern verwendet werden.
+Sicherheitsrelevante Konfigurationsmöglichkeiten des Frameworks MÜSSEN berücksichtigt werden.
+Die Session-ID MUSS ausreichend geschützt werden, wenn sie übertragen und vom Client gespeichert wird.
+Eine Webanwendung MUSS den Benutzern die Möglichkeit geben, eine bestehende Sitzung explizit zu beenden.
+Nachdem sich der Benutzer angemeldet hat, MUSS eine bereits bestehende Session-ID durch eine neue ersetzt werden.
+Sitzungen MÜSSEN eine maximale Gültigkeitsdauer besitzen (Timeout).
+Inaktive Sitzungen MÜSSEN automatisch nach einer bestimmten Zeit ungültig werden.
+Nachdem die Sitzung ungültig ist, MÜSSEN alle Sitzungsdaten sowohl server- als auch clientseitig ungültig und gelöscht sein.
+
+APP.3.1.A4 Kontrolliertes Einbinden von Daten und Inhalten bei Webanwendungen [Entwickler] (B)
+Entwickler MÜSSEN sicherstellen, dass eine Webanwendung ausschließlich vorgesehene Daten und Inhalte einbindet und an den Benutzer ausliefert.
+Falls eine Webanwendung eine Upload-Funktion für Dateien anbietet, MUSS diese Funktion durch den IT-Betrieb so weit wie möglich eingeschränkt werden.
+Auch Zugriffs- und Ausführungsrechte MÜSSEN in diesem Fall restriktiv gesetzt werden.
+Zudem MUSS sichergestellt werden, dass ein Benutzer Dateien nur im vorgegebenen Pfad speichern kann.
+Die Entwickler MÜSSEN sicherstellen, dass der Benutzer den Ablageort der Uploads nicht beeinflussen kann.
+Die Ziele der Weiterleitungsfunktion einer Webanwendung MÜSSEN ausreichend eingeschränkt werden, sodass Benutzer ausschließlich auf vertrauenswürdige Webseiten weitergeleitet werden.
+Verlässt ein Benutzer die Vertrauensdomäne, MUSS ihn die Webanwendung darüber informieren.
+
+APP.3.1.A5 Protokollierung sicherheitsrelevanter Ereignisse von Webanwendungen [Entwickler] (B)
+Entwickler MÜSSEN sicherstellen, dass eine Webanwendung sicherheitsrelevante Ereignisse mit den erforderlichen Merkmalen nachvollziehbar protokolliert.
+Die sicherheitsrelevanten Protokollierungsdaten MÜSSEN regelmäßig durch den IT-Betrieb ausgewertet werden.
+Bei der Auswertung der Protokollierungsdaten MUSS sichergestellt werden, dass Schadcode in Protokoll-Einträgen vom Auswertungsprogramm nicht interpretiert wird.
+
+APP.3.1.A6 ENTFALLEN (B)
+Diese Anforderung ist entfallen.
+
+APP.3.1.A7 Schutz vor unerlaubter automatisierter Nutzung von Webanwendungen [Entwickler] (B)
+Die Entwickler einer Webanwendung und deren Betreiber MÜSSEN sicherstellen, dass die Anwendung vor automatisierten Zugriffen geschützt wird.
+Dabei MUSS jedoch berücksichtigt werden, wie sich die Schutzmechanismen auf die Nutzungsmöglichkeiten berechtigter Benutzer auswirken.
+Wenn die Webanwendung RSS-Feeds oder andere Funktionen enthält, die explizit für die automatisierte Nutzung vorgesehen sind, MUSS dies ebenfalls bei der Konfi-
+guration der Schutzmechanismen berücksichtigt werden.
+
+APP.3.1.A14 Schutz vertraulicher Daten [Entwickler] (B)
+Entwickler MÜSSEN sicherstellen, dass die Daten vom Client zum Server nur mit der HTTP-Post-Methode übertragen werden.
+Entwickler MÜSSEN sicherstellen, dass die Webanwendung durch Direktiven gewährleistet, dass clientseitig keine schützenswerten Daten zwischengespeichert werden.
+Weiterhin MÜSSEN Entwickler sicherstellen, dass in Formularen keine vertraulichen Formulardaten im Klartext angezeigt werden.
+Die Webanwendung SOLLTE verhindern, dass vertrauliche Daten vom Webbrowser unerwartet gespeichert werden.
+Zugangsdaten der Webanwendung MÜSSEN serverseitig mithilfe von sicheren kryptografischen Algorithmen vor unbefugtem Zugriff geschützt werden (Salted Hash).
+Ebenso MÜSSEN die Dateien mit den Quelltexten der Webanwendung vor unerlaubten Abrufen geschützt werden.
+
+APP.3.1.A16 Umfassende Eingabevalidierung und Ausgabekodierung [Entwickler] (B)
+Alle an eine Webanwendung übergebenen Daten MÜSSEN von den Entwicklern als potenziell gefährlich behandelt und geeignet gefiltert werden.
+Alle Eingabedaten sowie Datenströme und Sekundärdaten wie z. B. Session-IDs MÜSSEN validiert werden.
+Serverseitig SOLLTEN die Daten auf einem vertrauenswürdigen IT-System geprüft werden.
+Fehleingaben SOLLTEN möglichst nicht automatisch behandelt werden (Sanitizing).
+Lässt es sich jedoch nicht vermeiden, MUSS Sanitizing sicher umgesetzt werden.
+Ausgabedaten MÜSSEN so kodiert werden, dass schadhafter Code auf dem Zielsystem nicht interpretiert oder ausgeführt wird.
+
+APP.3.1.A19 Schutz vor SQL-Injection [Entwickler] (B)
+Werden Daten an ein Datenbank-System weitergeleitet, MÜSSEN die Entwickler Stored Procedures bzw. Prepared SQL Statements einsetzen, wenn dies von der Einsatzumgebung unterstützt wird.
+Wenn weder Stored Procedures noch Prepared SQL Statements eingesetzt werden können, MÜSSEN die SQL-Queries separat abgesichert werden.
+
+
+3.2 Standard-Anforderungen
+
+APP.3.1.A8 Systemarchitektur einer Webanwendung [Beschaffer, Entwickler] (S)
+Bereits in der Entwurfsphase einer Webanwendung SOLLTE der Beschaffer Sicherheitsaspekte beachten.
+Auch SOLLTE darauf geachtet werden, dass die Architektur der Webanwendung die Geschäftslogik der Institution exakt erfasst und korrekt umsetzt.
+In der Systemarchitektur SOLLTE der IT-Betrieb vorsehen, dass die Serverdienste durch jeweils separate IT-Systeme voneinander getrennt sind.
+Auch SOLLTEN jeweils eigene Benutzerkonten für die unterschiedlichen Serverprozesse der Systemkomponenten verwendet werden.
+Dabei SOLLTEN die Rechte dieser Dienstkonten auf Betriebssystemebene soweit eingeschränkt werden, dass nur auf die erforderlichen Ressourcen und Dateien des Betriebssystems zugegriffen werden kann.
+Die Softwarearchitektur der Webanwendung SOLLTE mit allen Bestandteilen und Abhängigkeiten von den Entwicklern dokumentiert werden.
+Die Dokumentation SOLLTE bereits während des Projektverlaufs aktualisiert und angepasst werden.
+Die Dokumentation SOLLTE so gestaltet sein, dass Entscheidungen nachvollziehbar sind und sie schon in der Entwicklungsphase benutzt werden kann.
+Es SOLLTEN in der Dokumentation alle für den Betrieb notwendigen Komponenten, die nicht Bestandteil der Webanwendung sind, als solche gekennzeichnet werden.
+Ebenso SOLLTE daraus hervorgehen, welche Komponenten welche Sicherheitsmechanismen umsetzen, wie die Webanwendung in eine bestehende Infrastruktur integriert wird und welche kryptografischen Funktionen und Verfahren eingesetzt werden.
+
+APP.3.1.A9 Beschaffung, Entwicklung und Erweiterung von Webanwendungen [Entwickler, Beschaffer] (S)
+Wenn Produkte für Webanwendungen beschafft werden, SOLLTE vom Beschaffer ein Anforderungskatalog erstellt werden.
+Um verschiedene Produkte miteinander vergleichen zu können, SOLLTE eine Bewertungsskala entwickelt werden.
+Wird die eigentliche Webanwendung oder eine Erweiterung dazu selbst entwickelt, SOLLTEN die Entwickler ein geeignetes Vorgehensmodell benutzen.
+Dabei SOLLTEN vor der Inbetriebnahme alle Phasen des Modells durchlaufen werden.
+Für die Entwicklung SOLLTEN zudem Programmierrichtlinien vorgegeben werden, die dabei helfen, ein einheitliches Sicherheitsniveau zu etablieren.
+Wenn die Sicherheitsmechanismen einer Webanwendung entworfen und entwickelt werden, SOLLTEN diese möglichst künftige Standards und Angriffstechniken berücksichtigen.
+Bei der Anwendungsentwicklung SOLLTEN die Entwicklungs-, Test- und Produktivsysteme voneinander getrennt sein.
+Falls die Webanwendung von einem Dienstleister entwickelt wird, SOLLTE der Beschaffer sicherstellen, dass der Dienstleister die nötigen Sicherheitsanforderungen bei der Entwicklung umsetzt und der Auftraggeber jederzeit auf den Quelltext zugreifen kann.
+
+APP.3.1.A10 ENTFALLEN (S)
+Diese Anforderung ist entfallen.
+
+APP.3.1.A11 Sichere Anbindung von Hintergrundsystemen (S)
+Hintergrundsysteme von Webanwendungen, auf denen Funktionalitäten und Daten ausgelagert werden, SOLLTEN ausreichend geschützt werden.
+Der Zugriff auf Hintergrundsysteme SOLLTE ausschließlich über definierte Schnittstellen und von definierten Systemen aus möglich sein.
+Bei der Kommunikation über Standort- und Netzgrenzen hinweg SOLLTE der Datenverkehr authentisiert und verschlüsselt werden.
+Zugriffe der Webanwendung auf Hintergrundsysteme SOLLTEN zudem mit minimalen Rechten erfolgen.
+Beim Einsatz eines Enterprise Service Bus (ESB) SOLLTE ein eigenes logisches Netzsegment für den ESB vorhanden sein.
+Der Zugriff auf den ESB SOLLTE ausschließlich durch die angeschlossenen Anwendungen und Dienste möglich sein.
+Alle Zugriffe auf den ESB SOLLTEN authentisiert und bei der Kommunikation über Standort- und Netzgrenzen hinweg verschlüsselt sein.
+
+APP.3.1.A12 Sichere Konfiguration von Webanwendungen (S)
+Eine Webanwendung SOLLTE so konfiguriert sein, dass auf ihre Ressourcen und Funktionen ausschließlich über die vorgesehenen, abgesicherten Kommunikationspfade zugegriffen werden kann.
+Der Zugriff auf nicht benötigte Ressourcen und Funktionen SOLLTE daher eingeschränkt werden.
+Folgendes SOLLTE bei der Konfiguration von Webanwendungen berücksichtigt werden:
+• Deaktivierung nicht benötigter HTTP-Methoden,
+• Zeichenkodierungskonfiguration,
+• Festlegung von Grenzwerten für Zugriffsversuche sowie
+• Administration einer Webanwendung.
+
+APP.3.1.A13 Restriktive Herausgabe sicherheitsrelevanter Informationen (S)
+Webseiten und Rückantworten von Webanwendungen SOLLTEN keine Informationen enthalten, die einem Angreifer Hinweise darauf geben, wie er Sicherheitsmechanismen umgehen kann.
+Konfigurationsdateien der Webanwendung SOLLTEN außerhalb des Web-Root-Verzeichnisses gespeichert werden.
+
+APP.3.1.A15 Verifikation essenzieller Änderungen [Entwickler] (S)
+Sollen wichtige Einträge geändert werden, SOLLTEN die Entwickler sicherstellen, dass die Änderungen durch die Eingabe eines Passworts erneut verifiziert werden.
+Falls dies nicht möglich ist, SOLLTE die Anwendung auf andere geeignete Weise sicherstellen, dass sich der Benutzer authentisiert.
+Die Benutzer SOLLTEN über Änderungen mithilfe von Kommunikationswegen außerhalb der Web-Anwendung informiert werden.
+
+APP.3.1.A17 Fehlerbehandlung [Entwickler] (S)
+Treten während des Betriebs einer Webanwendung Fehler auf, SOLLTEN Entwickler diese so behandeln, dass die Webanwendung weiter in einem konsistenten Zustand bleibt.
+Das heißt:
+• Fehlermeldungen SOLLTEN protokolliert werden,
+• eine veranlasste Aktion SOLLTE im Fehlerfall abgebrochen werden und
+• in der Folge SOLLTE der Zugriff auf die angeforderte Ressource oder Funktion abgewiesen werden.
+Zuvor reservierte Ressourcen SOLLTEN im Rahmen der Fehlerbehandlung wieder freigegeben werden.
+Auch SOLLTE der Fehler möglichst von der Webanwendung selbst behandelt werden.
+
+APP.3.1.A18 ENTFALLEN (S)
+Diese Anforderung ist entfallen.
+
+APP.3.1.A21 Sichere HTTP-Konfiguration bei Webanwendungen [Entwickler] (S)
+Zum Schutz vor Clickjacking, Cross-Site-Scripting und anderen Angriffen SOLLTEN die Entwickler sowie der IT-Betrieb geeignete HTTP-Response-Header setzen.
+Dazu SOLLTEN mindestens die folgenden Direktiven verwendet werden: Content-Security-Policy, möglicherweise X-FRAME-OPTIONS, Strict-Transport-Security, X-XSS-Protection, Content-Type, X-Content-Type-Options sowie Cache-Control.
+Cookies SOLLTEN grundsätzlich mit den Attributen secure und httponly gesetzt werden.
+
+APP.3.1.A22 Überprüfung von Webanwendungen (S)
+Webanwendungen SOLLTEN regelmäßig auf Sicherheitsprobleme hin überprüft werden.
+Auch SOLLTEN regelmäßig Revisionen durchgeführt werden.
+Die Ergebnisse SOLLTEN nachvollziehbar dokumentiert, ausreichend geschützt und vertraulich behandelt werden.
+Abweichungen SOLLTE nachgegangen werden.
+Die Ergebnisse SOLLTEN dem ISB vorgelegt werden.
+
+APP.3.1.A23 Verhinderung von Cross-Site-Request-Forgery [Entwickler] (S)
+Die Entwickler einer Webanwendung SOLLTEN diese mit Sicherheitsmechanismen ausstatten, die es ermöglichen, beabsichtigte Seitenaufrufe des Benutzers von unbeabsichtigt weitergeleiteten Befehlen Dritter zu unterscheiden.
+Mindestens SOLLTE dabei geprüft werden, ob neben der Session-ID ein geheimes Token für den Zugriff auf geschützte Ressourcen und Funktionen benötigt wird.
+
+
+3.3 Anforderungen bei erhöhtem Schutzbedarf
+
+APP.3.1.A20 Einsatz von Web Application Firewalls (H)
+Institutionen SOLLTEN auf Web Application Firewalls (WAF) zurückgreifen.
+Wird eine WAF eingesetzt, SOLLTE die Konfiguration auf die zu schützende Webanwendung angepasst werden.
+Die Konfiguration der WAF SOLLTE nach jedem Update der Webanwendung geprüft werden.
+
+APP.3.1.A24 Verhinderung der Blockade von Ressourcen [Entwickler] (H)
+Zum Schutz vor Denial-of-Service (DoS)-Angriffen SOLLTEN ressourcenintensive Operationen vermieden und besonders abgesichert werden.
+Ebenso SOLLTE ein möglicher Überlauf von Protokollierungsdaten bei Webanwendungen überwacht und verhindert werden.
+
+APP.3.1.A25 Kryptografische Sicherung vertraulicher Daten [Entwickler] (H)
+Entwickler und Betreiber einer Webanwendung SOLLTEN sicherstellen, dass vertrauliche Daten einer Webanwendung durch sichere, kryptografische Algorithmen geschützt werden.

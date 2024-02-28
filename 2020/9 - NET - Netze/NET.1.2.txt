@@ -1,0 +1,211 @@
+3.1 Basis-Anforderungen
+
+NET.1.2.A1 Planung des Netzmanagements (B)
+Die Netzmanagement-Infrastruktur MUSS geeignet geplant werden.
+Dabei SOLLTEN alle in der Sicherheitsrichtlinie und Anforderungsspezifikation genannten Punkte sowie das Rollen- und Berechtigungskonzept berücksichtigt werden.
+Es MÜSSEN mindestens folgende Themen berücksichtigt werden:
+• zu trennende Bereiche für das Netzmanagement,
+• Zugriffsmöglichkeiten auf die Server für das Management,
+• Kommunikation für den Zugriff auf das Management,
+• eingesetzte Protokolle, z. B. IPv4 und IPv6,
+• Anforderungen an Management-Werkzeuge,
+• Schnittstellen, um erfasste Ereignis- oder Alarmmeldungen weiterzuleiten,
+• Protokollierung, inklusive erforderlicher Schnittstellen zu einer zentralen Protokollierungslösung,
+• Reporting und Schnittstellen zu übergreifenden Lösungen sowie
+• korrespondierende Anforderungen an die einzubindenden Netzkomponenten.
+
+NET.1.2.A2 Anforderungsspezifikation für das Netzmanagement [Leiter IT] (B)
+Ausgehend von NET.1.2.A1 Planung des Netzmanagements MÜSSEN Anforderungen an die Netzmanagement-Infrastruktur und -Prozesse spezifiziert werden.
+Dabei MÜSSEN alle wesentlichen Elemente für das Netzmanagement berücksichtigt werden.
+Auch SOLLTE die Richtlinie für das Netzmanagement beachtet werden.
+
+NET.1.2.A3 Rollen- und Berechtigungskonzept für das Netzmanagement (B)
+Es MUSS ein Rollen- und Berechtigungskonzept für das Netzmanagement erstellt, umgesetzt und gepflegt werden.
+Das Konzept MUSS die speziellen Tätigkeiten und den zugehörigen Zugriff auf Informationen im Netzmanagement abbilden.
+
+NET.1.2.A4 Grundlegende Authentisierung für den Netzmanagement-Zugriff [Leiter IT, Informationssicherheitsbeauftragter (ISB)] (B)
+Für den Management-Zugriff auf Netzkomponenten und auf Managementinformationen MUSS eine geeignete Authentisierung verwendet werden.
+Dafür MÜSSEN die Vorgaben der Institution für die Authentisierungsgüte und den Umgang mit den Authentisierungsinformationen umgesetzt werden.
+Auch MÜSSEN alle Default-Passwörter auf den Netzkomponenten geändert werden.
+Die neuen Passwörter MÜSSEN ausreichend stark sein.
+
+NET.1.2.A5 Einspielen von Updates und Patches (B)
+Die verantwortlichen Mitarbeiter MÜSSEN sich regelmäßig über bekannt gewordene Schwachstellen der eingesetzten Netzmanagement-Lösungen informieren und sicherheitsrelevante Updates und Patches so schnell wie möglich einspielen.
+Nicht sicherheitsrelevante Updates DÜRFEN NICHT die Sicherheit und Stabilität der Netzmanagement-Lösung beeinträchtigen.
+
+NET.1.2.A6 Regelmäßige Datensicherung (B)
+Alle eingesetzten Netzmanagement-Lösungen MÜSSEN ins Datensicherungskonzept der Institution eingebunden werden (siehe CON.3 Datensicherungskonzept).
+Dabei MÜSSEN alle spezifischen Daten für das Netzmanagement berücksichtigt werden.
+Es MÜSSEN mindestens die Systemdaten für die Einbindung der zu verwaltenden Komponenten bzw. Objekte, Ereignismeldungen, Statistikdaten sowie vorgehaltene Daten für das Konfigurationsmanagement gesichert werden.
+
+NET.1.2.A7 Grundlegende Protokollierung von Ereignissen (B)
+Die Netzmanagement-Lösung MUSS in das Protokollierungskonzept der Institution eingebunden werden (siehe OPS.1.1.5 Protokollierung).
+Darüber hinaus MÜSSEN mindestens folgende Ereignisse protokolliert werden: unautorisierte Zugriffe bzw. Zugriffsversuche, Leistungs- oder Verfügbarkeitsschwankungen des Netzes, Fehler in automatischen Prozessen (z. B. bei der Konfigurationsverteilung) sowie eingeschränkte Erreichbarkeit von Netzkomponenten.
+
+NET.1.2.A8 Zeit-Synchronisation (B)
+Alle Komponenten des Netzmanagements, inklusive der eingebundenen Netzkomponenten, MÜSSEN eine synchrone Uhrzeit nutzen.
+Die Uhrzeit MUSS an jedem Standort innerhalb des lokalen Netzes mittels NTP-Service synchronisiert werden.
+Ist ein separates Managementnetz eingerichtet, MUSS eine NTP-Instanz in diesem Managementnetz positioniert werden.
+
+NET.1.2.A9 Absicherung der Netzmanagement-Kommunikation (B)
+Erfolgt die Netzmanagement-Kommunikation über die produktive Infrastruktur, MÜSSEN dafür sichere Protokolle verwendet werden.
+Ist dies nicht möglich, MUSS ein eigens dafür vorgesehenes Administrationsnetz (Out-of-Band-Management) verwendet werden (siehe NET.1.1 Netzarchitektur und -design).
+
+NET.1.2.A10 Beschränkung der SNMP-Kommunikation (B)
+Grundsätzlich DÜRFEN im Netzmanagement KEINE unsicheren Versionen des Simple Network Management Protocol (SNMP) eingesetzt werden.
+Werden dennoch unsichere Protokolle verwendet und nicht über andere sichere Netzprotokolle (z. B. VPN oder TLS) abgesichert, MUSS ein separates Managementnetz genutzt werden.
+Grundsätzlich SOLLTE über SNMP NUR mit den minimal erforderlichen Zugriffsrechten zugegriffen werden.
+Die Zugangsberechtigung SOLLTE auf dedizierte Management-Server eingeschränkt werden.
+
+
+3.2 Standard-Anforderungen
+
+NET.1.2.A11 Festlegung einer Sicherheitsrichtlinie für das Netzmanagement [Informationssicherheitsbeauftragter (ISB)] (S)
+Für das Netzmanagement SOLLTE eine Sicherheitsrichtlinie erstellt und nachhaltig gepflegt werden.
+Die Richtlinie SOLLTE allen Personen, die am Netzmanagement beteiligt sind, bekannt sein.
+Die Sicherheitsrichtlinie SOLLTE zudem grundlegend für ihre Arbeit sein.
+Es SOLLTE regelmäßig und nachvollziehbar überprüft werden, dass die in der Richtlinie geforderten Inhalte umgesetzt werden.
+Die Ergebnisse SOLLTEN sinnvoll dokumentiert werden.
+Die Sicherheitsrichtlinie SOLLTE festlegen, welche Bereiche des Netzmanagements über zentrale Management-Werkzeuge und -Dienste realisiert werden.
+Auch SOLLTE sie definieren, inwieweit Aufgaben im Netzmanagement der Institution automatisiert realisiert werden sollen.
+Darüber hinaus SOLLTEN Rahmenbedingungen und Vorgaben für die Netztrennung, die Zugriffskontrolle, die Protokollierung sowie für den Schutz der Kommunikation, für das eingesetzte Netzmanagement-Werkzeug und für die operativen Grundregeln des Netzmanagements spezifiziert werden.
+
+NET.1.2.A12 Ist-Aufnahme und Dokumentation des Netzmanagements (S)
+Es SOLLTE eine Dokumentation erstellt werden, die beschreibt, wie die Management-Infrastruktur des Netzes aufgebaut ist.
+Darin SOLLTEN die initiale Ist-Aufnahme sowie alle durchgeführten Änderungen im Netzmanagement enthalten sein.
+Insbesondere SOLLTE dokumentiert werden, welche Netzkomponenten mit welchen Management-Werkzeugen verwaltet werden.
+Außerdem SOLLTEN alle für das Netzmanagement benutzten IT-Arbeitsplätze und -Endgeräte sowie alle Informationsbestände, Management-Daten und Informationen über den Betrieb des Netzmanagements erfasst werden.
+Letztlich SOLLTEN sämtliche Schnittstellen zu Anwendungen und Diensten außerhalb des Netzmanagements dokumentiert werden.
+Der so dokumentierte Ist-Zustand der Management-Infrastruktur SOLLTE mit der Dokumentation der Netz-Infrastruktur abgeglichen werden (siehe Baustein NET.1.1 Netz-Architektur- und Design).
+Die Dokumentation SOLLTE vollständig und immer aktuell sein.
+
+NET.1.2.A13 Erstellung eines Netzmanagement-Konzepts [Leiter IT] (S)
+Ausgehend von der Sicherheitsrichtlinie für das Netzmanagement SOLLTE ein Netzmanagement-Konzept erstellt und nachhaltig gepflegt werden.
+Dabei SOLLTEN mindestens folgende Aspekte bedarfsgerecht berücksichtigt werden:
+• Methoden, Techniken und Werkzeuge für das Netzmanagement,
+• Absicherung des Zugangs und der Kommunikation,
+• Netztrennung, insbesondere Zuordnung von Netzmanagement-Komponenten zu Sicherheitszonen,
+• Umfang des Monitorings und der Alarmierung je Netzkomponente,
+• Protokollierung,
+• Automatisierung, insbesondere zentrale Verteilung von Konfigurationsdateien auf Switches,
+• Meldeketten bei Störungen und Sicherheitsvorfällen,
+• Bereitstellung von Netzmanagement-Informationen für andere Betriebsbereiche sowie
+• Einbindung des Netzmanagements in die Notfallplanung.
+
+NET.1.2.A14 Fein- und Umsetzungsplanung (S)
+Es SOLLTE eine Fein- und Umsetzungsplanung für die Netzmanagement-Infrastruktur erstellt werden.
+Dabei SOLLTEN alle in der Sicherheitsrichtlinie und im Netzmanagement-Konzept adressierten Punkte berücksichtigt werden.
+
+NET.1.2.A15 Konzept für den sicheren Betrieb der Netzmanagement-Infrastruktur (S)
+Ausgehend von den Sicherheitsrichtlinien und dem Netzmanagement-Konzept SOLLTE ein Konzept für den sicheren Betrieb der Netzmanagement-Infrastruktur erstellt werden.
+Darin SOLLTE der Anwendungs- und Systembetrieb für die Netzmanagement-Werkzeuge berücksichtigt werden.
+Auch SOLLTE geprüft werden, wie sich die Leistungen anderer operativer Einheiten einbinden und steuern lassen.
+
+NET.1.2.A16 Einrichtung und Konfiguration von Netzmanagement-Lösungen (S)
+Lösungen für das Netzmanagement SOLLTEN anhand der Sicherheitsrichtlinie, der spezifizierten Anforderungen (siehe NET1.2.A2 Anforderungsspezifikation für das Netzmanagement) und der Fein- und Umsetzungsplanung aufgebaut, sicher konfiguriert und in Betrieb genommen werden.
+Danach SOLLTEN die spezifischen Prozesse für das Netzmanagement eingerichtet werden.
+
+NET.1.2.A17 Regelmäßiger Soll-Ist-Vergleich (S)
+Es SOLLTE regelmäßig und nachvollziehbar geprüft werden, inwieweit die Netzmanagement-Lösung dem Sollzustand entspricht.
+Dabei SOLLTE geprüft werden, ob die bestehende Lösung noch die Sicherheitsrichtlinie und Anforderungsspezifikation erfüllt.
+Auch SOLLTE geprüft werden, inwieweit die umgesetzte Management-Struktur und die genutzten Prozesse dem aktuellen Stand entsprechen.
+Weiter SOLLTE verglichen werden, ob die Management-Infrastruktur aktuell ist.
+
+NET.1.2.A18 Schulungen für Management-Lösungen [Vorgesetzte] (S)
+Für die eingesetzten Netzmanagement-Lösungen SOLLTEN Schulungs- und Trainingsmaßnahmen konzipiert und durchgeführt werden.
+Die Maßnahmen SOLLTEN die individuellen Gegebenheiten im Configuration-, Availability- und Capacity-Management sowie typische Situationen im Fehlermanagement abdecken.
+Die Schulungen und Trainings SOLLTEN regelmäßig wiederholt werden, mindestens jedoch, wenn sich größere technische oder organisatorische Änderungen innerhalb der Netzmanagement-Lösung ergeben.
+
+NET.1.2.A19 Starke Authentisierung des Management-Zugriffs (S)
+Für den administrativen Zugriff auf Netzkomponenten SOLLTE eine als sicher geltende Authentisierungsmethode verwendet werden.
+Die administrativen Zugänge SOLLTEN über einen zentralen Authentisierungsserver mittels personalisierter Konten über entsprechend sichere Protokolle authentisiert werden.
+
+NET.1.2.A20 Absicherung des Zugangs zu Netzmanagement-Lösungen (S)
+Der Zugriff auf zentrale Netzmanagement-Lösungen und Management-Informationen SOLLTE durch eine als sicher geltende Authentisierungsmethode geschützt werden.
+Die Zugänge SOLLTEN über einen zentralen Authentisierungsserver mittels personalisierter Konten authentisiert werden.
+Falls von einem Netz außerhalb der Managementnetze auf Netzmanagement-Werkzeuge zugegriffen wird, MÜSSEN als sicher geltende Authentisierungs- und Verschlüsselungsmethoden realisiert werden.
+
+NET.1.2.A21 Entkopplung der Netzmanagement-Kommunikation (S)
+Direkte Management-Zugriffe eines Administrators von einem IT-System außerhalb der Managementnetze auf eine Netzkomponente SOLLTEN vermieden werden.
+Ist ein solcher Zugriff ohne zentrales Management-Werkzeug notwendig, SOLLTE die Kommunikation entkoppelt werden.
+Solche Sprungserver SOLLTEN im Management-Netz integriert und in einem getrennten Zugangssegment positioniert sein.
+
+NET.1.2.A22 Beschränkung der Management-Funktionen (S)
+Es SOLLTEN NUR die benötigten Management-Funktionen aktiviert werden.
+
+NET.1.2.A23 Protokollierung der administrativen Zugriffe (S)
+Im Rahmen des Netzmanagements SOLLTEN die Sitzungsdaten aller administrativen Zugriffe protokolliert und gespeichert werden.
+Dabei SOLLTEN die datenschutzrechtlichen Bestimmungen eingehalten werden.
+Die Protokollierungsdaten SOLLTEN in der Datensicherung ausreichend und gesetzeskonform geschützt werden.
+Darüber hinaus SOLLTE festgelegt werden, ob und in welchem Umfang Sitzungsdaten für forensische Analysen zu archivieren sind.
+Wenn Daten archiviert werden, SOLLTE darauf geachtet werden, dass dies gesetzeskonform und revisionssicher durchgeführt wird.
+
+NET.1.2.A24 Zentrale Konfigurationsverwaltung für Netzkomponenten (S)
+Software bzw. Firmware und Konfigurationsdaten für Netzkomponenten SOLLTEN automatisch über das Netz verteilt und ohne Betriebsunterbrechung installiert und aktiviert werden können.
+Die dafür benötigten Informationen SOLLTEN an zentraler Stelle sicher verfügbar sein sowie in die Versionsverwaltung und die Datensicherung eingebunden werden.
+Die zentrale Konfigurationsverwaltung SOLLTE nachhaltig gepflegt und regelmäßig auditiert werden.
+
+NET.1.2.A25 Statusüberwachung der Netzkomponenten (S)
+Die grundlegenden Performance- und Verfügbarkeitsparameter der zentralen Netzkomponenten SOLLTEN kontinuierlich überwacht werden.
+Dafür SOLLTEN vorab die jeweiligen Schwellwerte ermittelt werden (Baselining).
+
+NET.1.2.A26 Umfassende Protokollierung, Alarmierung und Logging von Ereignissen (S)
+Wichtige Ereignisse auf Netzkomponenten und auf den Netzmanagement-Werkzeugen SOLLTEN automatisch an ein zentrales Management-System übermittelt und dort protokolliert werden.
+Das zuständige IT-Personal SOLLTE zusätzlich automatisch benachrichtigt werden.
+Das Alarming und Logging SOLLTE mindestens folgende Punkte beinhalten:
+• Ausfall bzw. Nichterreichbarkeit von Netz- oder Management-Komponenten,
+• Hardware-Fehlfunktionen,
+• fehlerhafte Anmeldeversuche sowie
+• kritische Zustände oder Überlastung von IT-Systemen.
+Ereignismeldungen bzw. Logging-Daten SOLLTEN einem zentralen Management-System entweder kontinuierlich oder gebündelt übermittelt werden.
+Alarmmeldungen SOLLTEN sofort wenn sie auftreten übermittelt werden.
+
+NET.1.2.A27 Einbindung des Netzmanagements in die Notfallplanung (S)
+Die Netzmanagement-Lösungen SOLLTEN in die Notfallplanung der Institution eingebunden werden.
+Dazu SOLLTEN die Netzmanagement-Werkzeuge und die Konfigurationen der Netzkomponenten gesichert und in die Wiederanlaufpläne integriert sein.
+
+NET.1.2.A28 Platzierung der Management-Clients für das In-Band-Management (S)
+Für die Administration sowohl der internen als auch der externen IT-Systeme SOLLTEN dedizierte Management-Clients eingesetzt werden.
+Dafür SOLLTE mindestens ein Management-Client am äußeren Netzbereich (für die Administration am Internet anliegender IT-Systeme) und ein weiterer im internen Bereich (für die Administration interner IT-Systeme) platziert werden.
+
+NET.1.2.A29 Einsatz von VLANs in der Management-Zone (S)
+Werden Managementnetze durch VLANs getrennt, SOLLTE darauf geachtet werden, dass der äußere Paketfilter sowie die daran angeschlossenen Geräte in einem eigenen Teilnetz stehen.
+Zudem SOLLTE sichergestellt werden, dass das ALG dabei nicht umgangen wird.
+
+
+3.3 Anforderungen bei erhöhtem Schutzbedarf
+
+NET.1.2.A30 Hochverfügbare Realisierung der Management-Lösung (H)
+Zentrale Management-Lösungen SOLLTEN hochverfügbar betrieben werden.
+Dazu SOLLTEN die Server bzw. Werkzeuge inklusive der Netzanbindungen redundant ausgelegt sein.
+Auch die einzelnen Komponenten SOLLTEN hochverfügbar bereitgestellt werden.
+
+NET.1.2.A31 Grundsätzliche Nutzung von sicheren Protokollen (H)
+Für das Netzmanagement SOLLTEN ausschließlich sichere Protokolle benutzt werden.
+Es SOLLTEN alle Sicherheitsfunktionen dieser Protokolle verwendet werden.
+
+NET.1.2.A32 Physische Trennung des Managementnetzes (H)
+Das Managementnetz SOLLTE physisch von den produktiven Netzen getrennt werden.
+
+NET.1.2.A33 Physische Trennung von Management-Segmenten [Leiter Netze] (H)
+Es SOLLTEN physisch getrennte Sicherheitszonen mindestens für das Management von LAN-Komponenten, Sicherheitskomponenten und Komponenten zur Außenanbindung eingerichtet werden.
+
+NET.1.2.A34 Protokollierung von Inhalten administrativer Sitzungen (H)
+Ergänzend zur Protokollierung von Sitzungsdaten SOLLTEN auch die Inhalte von administrativen Zugriffen protokolliert werden.
+Alternativ SOLLTE nach dem Vier-Augen-Prinzip vorgegangen werden.
+Auch die protokollierten Inhalte der administrativen Sitzungen SOLLTEN in der Datensicherung ausreichend und gesetzeskonform geschützt werden.
+
+NET.1.2.A35 Festlegungen zur Beweissicherung (H)
+Es SOLLTEN Vorgehensweisen zur Beweissicherung und zu forensischen Untersuchungen im Rahmen des Netzmanagements festgelegt und dokumentiert werden.
+Die erhobenen Protokollierungsdaten SOLLTEN für forensische Analysen gesetzeskonform und revisionssicher archiviert werden.
+
+NET.1.2.A36 Einbindung der Protokollierung des Netzmanagements in eine SIEM-Lösung (H)
+Die Protokollierung des Netzmanagements SOLLTE in eine Security-Information-and-Event-Management (SIEM)-Lösung eingebunden werden.
+Dazu SOLLTEN die Anforderungskataloge zur Auswahl von Netzmanagement-Lösungen hinsichtlich der erforderlichen Unterstützung von Schnittstellen und Übergabeformaten angepasst werden (siehe NET.1.2.A2 Anforderungsspezifikation für das Netzmanagement).
+
+NET.1.2.A37 Standort übergreifende Zeitsynchronisation (H)
+Die Zeitsynchronisation SOLLTE über alle Standorte der Institution sichergestellt werden.
+Dafür SOLLTE eine gemeinsame Referenzzeit benutzt werden.
+
+NET.1.2.A38 Festlegung von Notbetriebsformen für die Netzmanagement-Infrastruktur (H)
+Für eine schnelle Wiederherstellung der Sollzustände von Software bzw. Firmware sowie der Konfiguration der Komponenten in der Netzmanagement-Infrastruktur SOLLTEN hinreichend gute Ersatzlösungen festgelegt werden.

@@ -1,0 +1,34 @@
+3.1 Basis-Anforderungen
+
+SYS.3.2.4.A1 Auswahl von Android-basierten Geräten (B)
+Bei der Auswahl von Android-basierten Geräten MUSS sichergestellt sein, dass der Hersteller regelmäßig Sicherheitsupdates für dieses Gerät bereitstellt.
+Die Geräte MÜSSEN mit einer aktuellen Version von Android ausgeliefert werden oder unmittelbar auf diese aktualisiert werden können.
+
+
+3.2 Standard-Anforderungen
+
+SYS.3.2.4.A2 Deaktivieren der Entwickler-Optionen (S)
+In allen Android-basierten Geräten SOLLTEN die Entwickleroptionen deaktiviert sein.
+
+SYS.3.2.4.A3 Einsatz des Multi-User- und Gäste-Modus (S)
+Es SOLLTE geregelt sein, ob der Multi-User- und Gäste-Modus verwendet werden darf oder eventuell sogar muss.
+Ein Benutzer auf dem Android-basierten Gerät SOLLTE einer natürlichen Person entsprechen.
+
+SYS.3.2.4.A4 Regelung und Konfiguration von Cloud-Print (S)
+Cloud-Print SOLLTE nur dann erlaubt sein, wenn sichergestellt ist, dass der Benutzer nur genehmigte Drucker auswählen kann.
+
+SYS.3.2.4.A5 Erweiterte Sicherheitseinstellungen (S)
+Es SOLLTEN sich nur freigegebene Sicherheits-Apps als Geräteadministrator oder „Trust Agents“ eintragen lassen.
+Dies SOLLTE regelmäßig überprüft werden.
+Weiterhin SOLLTEN es die Einstellungen für „Zugriff auf Nutzungsdaten und Zugriff auf Benachrichtigungen“ nur erlaubten Apps ermöglichen, auf diese schützenswerten Daten zuzugreifen.
+
+
+3.3 Anforderungen bei erhöhtem Schutzbedarf
+
+SYS.3.2.4.A6 Einsatz eines Produkts zum Schutz vor Schadsoftware (H)
+Es SOLLTE auf Android-basierten Geräten eine Software zum Schutz vor Schadsoftware installiert sein.
+Die Software SOLLTE immer aktuell sein.
+Es SOLLTE eine Software eingesetzt werden, die in unabhängigen Tests als „sehr gut“ bewertet wurde.
+
+SYS.3.2.4.A7 Verwendung einer Firewall (H)
+Auf Android-basierten Geräten SOLLTE eine Firewall installiert und aktiviert sein.

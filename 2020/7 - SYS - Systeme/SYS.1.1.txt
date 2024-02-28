@@ -1,0 +1,85 @@
+3.1 Basis-Anforderungen
+
+ORP.2.A1 Geregelte Einarbeitung neuer Mitarbeiter [Vorgesetzte] (B)
+Die Personalabteilung sowie die Vorgesetzten MÜSSEN dafür sorgen, dass neue Mitarbeiter zu Beginn ihrer Beschäftigung in ihre neuen Aufgaben eingearbeitet werden.
+Sie MÜSSEN über bestehende Regelungen, Handlungsanweisungen und Verfahrensweisen informiert werden.
+Eine Checkliste kann hierbei hilfreich sein und SOLLTE etabliert werden.
+Alle Mitarbeiter MÜSSEN über Regelungen zur Informationssicherheit und ihre spezifischen Auswirkungen auf einen Geschäftsprozess oder auf das jeweilige Arbeitsumfeld unterrichtet werden.
+Mitarbeiter MÜSSEN kontinuierlich über neue Regelungen informiert werden.
+Alle Mitarbeiter MÜSSEN dazu verpflichtet werden, einschlägige Gesetze, Vorschriften und interne Regelungen einzuhalten.
+Außerdem MÜSSEN alle Mitarbeiter darauf hingewiesen werden, dass alle während der Arbeit erhaltenen Informationen ausschließlich zum internen Gebrauch bestimmt sind, solange sie nicht anders gekennzeichnet sind.
+
+ORP.2.A2 Geregelte Verfahrensweise beim Weggang von Mitarbeitern [Vorgesetzte, IT-Betrieb] (B)
+Verlässt ein Mitarbeiter die Institution, MUSS eine rechtzeitige Einweisung des Nachfolgers gewährleistet werden.
+Dies SOLLTE idealerweise durch den ausscheidenden Mitarbeiter erfolgen.
+Ist eine direkte Übergabe nicht möglich, MUSS vom ausscheidenden Mitarbeiter eine ausführliche Dokumentation angefertigt werden.
+Außerdem MÜSSEN von ausscheidenden Mitarbeitern alle im Rahmen ihrer Tätigkeit erhaltenen Unterlagen, Schlüssel und Geräte sowie Ausweise und Zutrittsberechtigungen eingezogen werden.
+Vor der Verabschiedung MUSS noch einmal auf Verschwiegenheitsverpflichtungen hingewiesen werden.
+Weiterhin MÜSSEN Notfall- und andere Ablaufpläne aktualisiert werden.
+Alle betroffenen Stellen innerhalb der Institution, wie z. B. das Sicherheitspersonal oder die IT-Abteilung, MÜSSEN über das Ausscheiden des Mitarbeiters informiert werden.
+Um alle damit verbundenen Aufgaben zu erledigen, SOLLTE auch hier eine Checkliste angelegt werden.
+
+ORP.2.A3 Festlegung von Vertretungsregelungen [Vorgesetzte] (B)
+Die Vorgesetzten MÜSSEN dafür sorgen, dass im laufenden Betrieb Vertretungsregelungen umgesetzt werden.
+Dafür MUSS sichergestellt werden, dass es für alle wesentlichen Geschäftsprozesse und Aufgaben praktikable Vertretungsregelungen gibt.
+Bei diesen Regelungen MUSS der Aufgabenumfang der Vertretung im Vorfeld klar definiert werden.
+Es MUSS sichergestellt werden, dass die Vertretung über das dafür nötige Wissen verfügt.
+Ist dies nicht der Fall, MUSS überprüft werden, wie der Vertreter zu schulen ist oder ob es ausreicht, den aktuellen Verfahrens- oder Projektstand ausreichend zu dokumentieren.
+Ist es im Ausnahmefall nicht möglich für einzelne Mitarbeiter einen kompetenten Vertreter zu benennen oder zu schulen, MUSS frühzeitig entschieden werden, ob externes Personal dafür hinzugezogen werden kann.
+
+ORP.2.A4 Festlegung von Regelungen für den Einsatz von Fremdpersonal (B)
+Wird externes Personal beschäftigt, MUSS dieses grundsätzlich wie alle eigenen Mitarbeiter dazu verpflichtet werden, geltende Gesetze, Vorschriften und interne Regelungen einzuhalten.
+Fremdpersonal, das kurzfristig oder einmalig eingesetzt wird, MUSS in sicherheitsrelevanten Bereichen beaufsichtigt werden.
+Bei längerfristig beschäftigtem Fremdpersonal MUSS dieses wie die eigenen Mitarbeiter in seine Aufgaben eingewiesen werden.
+Auch für diese Mitarbeiter MUSS eine Vertretungsregelung eingeführt werden.
+Verlässt das Fremdpersonal die Institution, MÜSSEN Arbeitsergebnisse wie bei eigenem Personal geregelt übergeben und eventuell ausgehändigte Zugangsberechtigungen zurückgegeben werden.
+
+ORP.2.A5 Vertraulichkeitsvereinbarungen für den Einsatz von Fremdpersonal (B)
+Bevor externe Personen Zugang und Zugriff zu vertraulichen Informationen erhalten, MÜSSEN mit ihnen Vertraulichkeitsvereinbarungen geschlossen werden.
+In diesen Vertraulichkeitsvereinbarungen MÜSSEN alle wichtigen Aspekte zum Schutz von institutionsinternen Informationen berücksichtigt werden.
+
+
+3.2 Standard-Anforderungen
+
+ORP.2.A6 Überprüfung von Kandidaten bei der Auswahl von Personal (S)
+Werden neue Mitarbeiter ausgewählt, SOLLTEN die erforderlichen Qualifikationen und Fähigkeiten genau formuliert sein.
+Anschließend SOLLTE geprüft werden, ob diese bei den Bewerbern tatsächlich vorhanden sind.
+Es SOLLTE besonders darauf geachtet werden, dass keine Interessenkonflikte auftreten.
+Um nach einem Stellenwechsel Interessenkonflikte zu vermeiden, SOLLTEN Konkurrenzverbote und Karenzzeiten vereinbart werden.
+
+ORP.2.A7 Überprüfung der Vertrauenswürdigkeit von Mitarbeitern (S)
+Neue Mitarbeiter SOLLTEN auf ihre Vertrauenswürdigkeit hin überprüft werden, bevor sie eingestellt werden.
+Deshalb SOLLTEN alle an der Personalauswahl Beteiligten soweit möglich kontrollieren, ob die Angaben der Bewerberinnen und Bewerber, die relevant für die Einschätzung ihrer Vertrauenswürdigkeit sind, glaubhaft sind.
+Insbesondere SOLLTE kritisch geprüft werden, ob der vorgelegte Lebenslauf korrekt, plausibel und vollständig ist.
+Dabei SOLLTEN kritisch erscheinende Daten überprüft werden, etwa indem dezidiert nachfragt wird oder weitere Nachweise verlangt werden.
+
+ORP.2.A8 Aufgaben und Zuständigkeiten von Mitarbeitern [Informationssicherheitsbeauftragter (ISB)] (S)
+Die Aufgaben und Zuständigkeiten von Mitarbeitern SOLLTEN in geeigneter Weise dokumentiert sein.
+Der Informationssicherheitsbeauftragte (ISB) SOLLTE dafür sorgen, dass alle Mitarbeiter ihre Aufgaben und Zuständigkeiten im Sicherheitsprozess kennen.
+Insbesondere SOLLTE vereinbart sein, dass jeder Mitarbeiter auch außerhalb der Arbeitszeit und außerhalb des Betriebsgeländes für die Informationssicherheit der Institution zuständig ist.
+
+ORP.2.A9 Schulung von Mitarbeitern (S)
+Die Mitarbeiter SOLLTEN regelmäßig geschult werden, damit sie in Bezug auf die ihnen übertragenen Tätigkeiten immer auf dem aktuellen Stand sind.
+In allen Bereichen SOLLTE sichergestellt werden, dass kein Mitarbeiter basierend auf einem veralteten Wissensstand seiner Arbeit nachgeht.
+Weiterhin SOLLTE den Mitarbeitern während ihrer Beschäftigung die Möglichkeit gegeben werden, sich im Rahmen ihres Tätigkeitsfeldes weiterzubilden.
+Alle Mitarbeiter SOLLTEN in die Nutzung von Geräten, Anwendungen und Aktivitäten eingewiesen sein, die zur sicheren Verarbeitung von Informationen dienen.
+Darüber hinaus SOLLTEN alle Mitarbeiter regelmäßig im Bereich der Informationssicherheit geschult und über alltägliche Risiken und mögliche Gegenmaßnahmen unterrichtet werden.
+Die Mitarbeiter SOLLTEN darüber hinaus angehalten werden, Regelungen zur Informationssicherheit eigenverantwortlich umzusetzen.
+Bei größerem Schulungsbedarf SOLLTEN einzelne Mitarbeiter gesondert geschult und innerhalb des Tätigkeitsbereichs als Multiplikatoren für die übrigen Mitarbeiter eingesetzt werden.
+
+ORP.2.A10 Vermeidung von Störungen des Betriebsklimas (S)
+Es SOLLTEN auch aus Sicht der Informationssicherheit Maßnahmen ergriffen werden, um für ein positives Betriebsklima zu sorgen.
+
+
+3.3 Anforderungen bei erhöhtem Schutzbedarf
+
+ORP.2.A11 Analyse der Sicherheitskultur (H)
+Die für die Institution ausgewählten Sicherheitsmaßnahmen SOLLTEN sich immer an der Institution und ihren Mitarbeitern orientieren.
+Dabei SOLLTE, unter Einhaltung der rechtlichen Rahmenbedingungen, analysiert werden, wie genau sich die Mitarbeiter aus Sicherheitssicht verhalten.
+Darauf aufbauend SOLLTE untersucht werden, an welcher Stelle die personelle und organisatorische Sicherheit noch verbessert werden kann.
+
+ORP.2.A12 Benennung einer Vertrauensperson (H)
+Für die Mitarbeiter SOLLTE eine Vertrauensperson als Ansprechpartner benannt werden.
+
+ORP.2.A13 Sicherheitsüberprüfung (H)
+Im Hochsicherheitsbereich SOLLTE eine zusätzliche Sicherheitsüberprüfung zusätzlich zur grundlegenden Überprüfung der Vertrauenswürdigkeit von Mitarbeitern durchgeführt werden.
