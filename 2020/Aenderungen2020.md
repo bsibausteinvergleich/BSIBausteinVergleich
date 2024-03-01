@@ -291,8 +291,13 @@ _zu:_\
 Die Institutionsleitung MUSS die Sicherheitskampagnen und Schulungsmaßnahmen für die Mitarbeiter unterstützen.
 
 #### ORP.3.A2
+_Ersetzt durch:_
+In jeder Institution MUSS es Ansprechpartner für Sicherheitsfragen geben, die sowohl scheinbar einfache wie auch komplexe oder technische Fragen beantworten können.
+Die Ansprechpartner MÜSSEN allen Mitarbeitern der Institution bekannt sein.
+Diesbezügliche Informationen MÜSSEN in der Institution für alle verfügbar und leicht zugänglich sein.
 
 #### ORP.3.A3
+
 
 #### ORP.3.A4
 
