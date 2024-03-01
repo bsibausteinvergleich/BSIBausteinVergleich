@@ -319,14 +319,83 @@ Für die Planung einer Schulung SOLLTE der Online-Kurs des BSI zum IT-Grundschut
 Es SOLLTE geprüft werden, ob die Informationssicherheitsbeauftragten sich zu einem BSI IT-Grundschutz-Praktiker qualifizieren lassen sollten.
 
 #### ORP.3.A8
+Keine Änderungen
+
+### Anforderungen bei erhöhtem Schutzbedarf
 
 #### ORP.3.A9
+_Geändert:_\
+~~Besonders exponierte Personen wie Funktionsträger sowie die Mitarbeiter in besonders exponierten Institutionen oder Organisationsbereichen (...)~~\
+_zu:_\
+Besonders exponierte Personen
+
+
+## Änderungen ORP.1
+
+### Basis-Anforderungen
+
+#### ORP.4.A1
+
+#### ORP.4.A2
+
+#### ORP.4.A3
+
+#### ORP.4.A4
+
+#### ORP.4.A5
+
+#### ORP.4.A6
+
+#### ORP.4.A7
+
+#### ORP.4.A8
+
+#### ORP.4.A9
+
+#### ORP.4.A10
+
+#### ORP.4.A11
+
+#### ORP.4.A12
+
+#### ORP.4.A13
+
+#### ORP.4.A14
+
+#### ORP.4.A15
+
+#### ORP.4.A16
+
+#### ORP.4.A17
+
+#### ORP.4.A18
+
+#### ORP.4.A19
+
+#### ORP.4.A20
+
+#### ORP.4.A21
+
+
+
+
+
+
+
+
+
 
 ////////////////
 Formatierungshilfen:
+
 
 _Geändert:_\
 ~~~~\
 _zu:_\
 
+
+
+## Änderungen ORP.1
+
+### Basis-Anforderungen
 /////////////////
