@@ -285,6 +285,11 @@ Im Hochsicherheitsbereich SOLLTE eine zusätzliche Sicherheitsüberprüfung zus�
 #### ORP.3.A1
 "Management" _ersetzt durch_ "Institutsleitung"
 
+_Geändert:_\
+~~Die Institutionsleitung MUSS die Sicherheitskampagnen und Schulungsmaßnahmen für die Mitarbeiter nachdrücklich und aktiv unterstützen.~~\
+_zu:_\
+Die Institutionsleitung MUSS die Sicherheitskampagnen und Schulungsmaßnahmen für die Mitarbeiter unterstützen.
+
 #### ORP.3.A2
 
 #### ORP.3.A3
