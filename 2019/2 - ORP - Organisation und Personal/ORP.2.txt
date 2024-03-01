@@ -73,7 +73,8 @@ Es SOLLTEN, auch aus Sicht der Informationssicherheit, Maßnahmen ergriffen werd
 3.3 Anforderungen bei erhöhtem Schutzbedarf
 
 ORP.2.A11 Analyse der Sicherheitskultur (CIA)
-Die für die Institution ausgewählten Sicherheitsmaßnahmen SOLLTEN sich immer an der Institution und ihren Mitarbeitern orientieren. Dabei SOLLTE, unter Beibehaltung der rechtlichen Rahmenbedingungen, analysiert werden, wie genau sich die Mitarbeiter aus Sicherheitssicht verhalten.
+Die für die Institution ausgewählten Sicherheitsmaßnahmen SOLLTEN sich immer an der Institution und ihren Mitarbeitern orientieren.
+Dabei SOLLTE, unter Beibehaltung der rechtlichen Rahmenbedingungen, analysiert werden, wie genau sich die Mitarbeiter aus Sicherheitssicht verhalten.
 Darauf aufbauend SOLLTE untersucht werden, an welcher Stelle die personelle und organisatorische Sicherheit noch verbessert werden kann.
 
 ORP.2.A12 Benennung separater Ansprechpartner (CIA)
