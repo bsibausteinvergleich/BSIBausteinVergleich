@@ -9,11 +9,9 @@ Führungskräfte MÜSSEN die Sicherheitsvorgaben umsetzen.
 Hierüber hinaus MÜSSEN sie ihre Mitarbeiter auf deren Einhaltung hinweisen.
 
 ORP.3.A2 Ansprechpartner zu Sicherheitsfragen (B)
-In jeder Institution MUSS es Ansprechpartner für Sicherheitsfragen geben, die sowohl scheinbar einfache wie auch komplexe oder technische Fragen beantwosicheren Umgang mit IT [Vorgesetzte, Personalabteilung, IT-Betrieb] (B)
-Alle Mitarbeiter und externen Benutzer MÜSSEN in den sicheren Umgang mit IT-, ICS- und IoT-Komponenten eingewiesen und sensibilisiert werden, soweit dies für ihre Arbeitszusammenhänge relevant ist.
-Dafür MÜSSEN verbindliche, verständliche und aktuelle Richtlinien zur Nutzung der jeweiligen Komponenten zur Verfügung stehen.
-Werden IT-, ICS- oder IoT-Systeme oder -Dienste in einer Weise benutzt, die den Interessen der Institution widersprechen, MUSS dies kommuniziert werden.
-
+In jeder Institution MUSS es Ansprechpartner für Sicherheitsfragen geben, die sowohl scheinbar einfache wie auch komplexe oder technische Fragen beantworten können.
+Die Ansprechpartner MÜSSEN allen Mitarbeitern der Institution bekannt sein.
+Diesbezügliche Informationen MÜSSEN in der Institution für alle verfügbar und leicht zugänglich sein.
 
 3.2 Standard-Anforderungen
 
