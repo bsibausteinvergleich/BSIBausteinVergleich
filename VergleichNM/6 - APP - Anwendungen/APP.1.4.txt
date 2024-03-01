@@ -1,14 +1,13 @@
 3.1 Basis-Anforderungen
 
-
-APP.1.4.A1 Anforderungsanalyse für Apps [Fachverantwortliche]
-Vor der Installation und Nutzung einer App MUSS klar definiert sein, welche Geschäftsprozesse die App unterstützen und an welche IT-Komponenten der Institution sie angebunden werden soll.
+APP.1.4.A1 Anforderungsanalyse für die Nutzung von Apps [Fachverantwortliche] (B)
+Bevor eine App installiert und genutzt wird, MUSS unter Einbeziehung der jeweiligen Fachverantwortlichen klar definiert werden, welche Geschäftsprozesse die App unterstützen und an welche IT-Komponenten der Institution sie angebunden werden soll.
 Ferner MÜSSEN Sicherheitsanforderungen für die App festgelegt werden.
 Außerdem MÜSSEN Schutzbedarf und die rechtlichen Rahmenbedingungen der zu verarbeitenden Daten betrachtet werden.
 In der Anforderungsanalyse MÜSSEN insbesondere Risiken betrachtet werden, die sich aus der mobilen Nutzung ergeben.
-Die Institution MUSS prüfen, ob ihre Kontroll- und Einflussmöglichkeiten auf die Betriebssystemumgebung mobiler Endgeräte für die sichere Nutzung ausreichend sind.
+Die Institution MUSS prüfen, ob ihre Kontroll- und Einflussmöglichkeiten auf die Betriebssystemumgebung mobiler Endgeräte ausreichend sind, um sie sicher nutzen zu können.
 
-APP.1.4.A2 Regelungen für die Verwendung von mobilen Endgeräten und App
+APP.1.4.A2 Regelungen für die Verwendung von mobilen Endgeräten und Apps [Benutzer] (B)
 Da für mobile Endgeräte oft nicht alle sicherheitsrelevanten Aspekte technisch gelöst werden können, MUSS für die Mitarbeiter eine Richtlinie für die Nutzung von Apps erstellt werden.
 Diese MUSS mindestens regeln,
 • welche Daten auf den Geräten verarbeitet werden dürfen (auch: inwieweit eine private Nutzung gestattet ist),
@@ -17,61 +16,62 @@ Diese MUSS mindestens regeln,
 • was zu tun ist, wenn ein Gerät verloren geht.
 Diese Vorgaben MÜSSEN mit den etablierten Regelungen der Institution abgestimmt werden.
 
-APP.1.4.A3 Sichere Quellen für Apps [Benutzer]
+APP.1.4.A3 Verwendung sicherer Quellen für Apps [Benutzer] (B)
 Es MUSS sichergestellt werden, dass Apps nur aus sicheren und vertrauenswürdigen Quellen bezogen werden können.
 Es DÜRFEN NUR vertrauenswürdige App Stores verwendet werden.
 Interne Apps der Institution und Apps, die schutzbedürftige Informationen verarbeiten, SOLLTEN über einen institutionseigenen App Store oder via MDM verteilt werden.
 
-APP.1.4.A4 Test und Freigabe von Apps [Fachverantwortliche, Datenschutzbeauftragter]
+APP.1.4.A4 Test und Freigabe von Apps [Datenschutzbeauftragter, Fachverantwortliche] (B)
 Es MUSS sichergestellt werden, dass sich die App in den vorhandenen Betrieb integrieren lässt und alle Anforderungen der fachlichen Bereiche, der Informationssicherheit und des Datenschutzes eingehalten werden.
 Bevor eine neue App bzw. eine neue Version einer App eingesetzt wird, SOLLTE diese getestet und danach ausdrücklich freigegeben werden.
 Für alle Bereiche SOLLTEN entsprechende Tests entwickelt sowie Freigabekriterien definiert werden.
-Die Ergebnisse der Tests SOLLTEN dokumentiert werden und dienen als Basis für die Freigabe der App.
-Es SOLLTE insbesondere darauf geachtet werden, dass die Tests auf allen in der Institution verwendeten Geräten und Betriebssystemumgebungen durchgeführt werden und die Freigabekriterien erfüllt sind.
+Die Ergebnisse der Tests SOLLTEN dokumentiert werden und als Basis für die Freigabe der App dienen.
+Es SOLLTE insbesondere darauf geachtet werden, dass die Tests auf allen in der Institution verwendeten Gerätemodellen und Betriebssystemumgebungen durchgeführt werden.
+Die Freigabekriterien SOLLTEN bei allen erfüllt sein.
 
-APP.1.4.A5 Minimierung und Kontrolle von App-Berechtigungen [Fachverantwortliche]
+APP.1.4.A5 Minimierung und Kontrolle von App-Berechtigungen [Fachverantwortliche] (B)
 Bevor eine App in einer Institution eingeführt wird, MUSS sichergestellt werden, dass sie nur die minimal benötigten App-Berechtigungen für ihre Funktion erhält.
 Nicht unbedingt notwendige Berechtigungen MÜSSEN hinterfragt und gegebenenfalls unterbunden werden.
 Sicherheitsrelevante Berechtigungseinstellungen MÜSSEN so fixiert werden, dass sie nicht durch Benutzer oder Apps geändert werden können.
-Wo dies technisch nicht möglich ist, MÜSSEN diese regelmäßig geprüft und erneut gesetzt werden.
+Wo dies technisch nicht möglich ist, MÜSSEN die Berechtigungseinstellungen regelmäßig geprüft und erneut gesetzt werden.
 
-APP.1.4.A6 Patchmanagement für Apps
+APP.1.4.A6 Patchmanagement für Apps (B)
 Updates für Apps MÜSSEN zeitnah eingespielt werden.
-Falls die Institution ein System für Mobile Device Management (MDM) einsetzt, MÜSSEN verfügbare Updates damit gesteuert werden.
+Falls die Institution ein System für MDM einsetzt, MÜSSEN verfügbare Updates damit gesteuert werden.
 Für jeden Patch MUSS bewertet werden, wie er sich auf die Sicherheit auswirkt.
 Danach SOLLTE er entsprechend priorisiert werden.
-Wenn keine Patches zur Verfügung stehen, MÜSSEN geeignete Gegenmaßnahmen getroffen werden, wenn bei Apps Schwachstellen bekannt sind.
+Wenn keine Patches zur Verfügung stehen, MÜSSEN geeignete Gegenmaßnahmen ergriffen werden, wenn bei Apps Schwachstellen bekannt sind.
 Ist dies nicht möglich, DÜRFEN Apps mit bekannten offenen Schwachstellen NICHT verwendet werden.
 
-APP.1.4.A7 Sichere Speicherung lokaler App-Daten
-Wenn Apps auf interne Dokumente der Institution zugreifen können, MUSS die lokale Datenhaltung der App angemessen abgesichert sein.
-Zugriffsschlüssel MÜSSEN verschlüsselt abgelegt werden.
-Es MUSS sichergestellt werden, dass vertrauliche Daten nicht vom Betriebssystem an anderen Ablageorten zwischengespeichert werden.
+APP.1.4.A7 Sichere Speicherung lokaler App-Daten (B)
+Wenn Apps auf interne Dokumente der Institution zugreifen können, MUSS sichergestellt sein, dass die lokale Datenhaltung der App angemessen abgesichert ist.
+Insbesondere MÜSSEN Zugriffsschlüssel verschlüsselt abgelegt werden.
+Außerdem DÜRFEN vertrauliche Daten NICHT vom Betriebssystem an anderen Ablageorten zwischengespeichert werden.
 
-APP.1.4.A8 Verhinderung von Datenabfluss
+APP.1.4.A8 Verhinderung von Datenabfluss (B)
 Um zu verhindern, dass Apps ungewollt vertrauliche Daten versenden oder aus den gesendeten Daten Benutzerprofile erstellt werden, MUSS die App-Kommunikation geeignet eingeschränkt werden.
 Dazu SOLLTE die Kommunikation im Rahmen des Test- und Freigabeverfahrens analysiert werden.
-Weiterhin SOLLTE überprüft werden, ob eine App ungewollte Log- oder Hilfsdateien schreibt, die möglicherweise vertrauliche Informationen enthalten.
+Weiterhin SOLLTE überprüft werden, ob eine App ungewollte Protokollierungs- oder Hilfsdateien schreibt, die möglicherweise vertrauliche Informationen enthalten.
 
 
 3.2 Standard-Anforderungen
 
-APP.1.4.A9 Sichere Anbindung an Backend-Systeme [Fachverantwortliche]
+APP.1.4.A9 Sichere Anbindung an Backend-Systeme [Fachverantwortliche] (S)
 Die Verbindung zwischen App und Backend-Systemen SOLLTE durch kryptografische Maßnahmen abgesichert werden.
 Hierbei MUSS überprüft werden, ob die vom Betriebssystem angebotenen Verfahren für die App ausreichend sicher sind oder ob eventuell eigene Methoden auf Applikationsebene implementiert werden müssen.
-Wenn eine App auf Backend-Systeme zugreift, MUSS dafür ein eigenes Dienstekonto verwendet werden.
+Wenn eine App über ein Benutzerkonto auf ein Backend-Systeme zugreift, MUSS dafür ein dediziertes Dienstekonto verwendet werden.
 
-APP.1.4.A10 Sichere Authentisierung von Apps
+APP.1.4.A10 Sichere Authentisierung von Apps (S)
 Bevor eine App auf die IT-Systeme einer Institution zugreifen darf, SOLLTE sie sich am Backend-System authentisieren.
 In diesem Fall MÜSSEN angemessene und sichere Authentisierungsmechanismen verwendet werden.
-Die App MUSS die Authentisierungsparameter (z. B. Benutzername, Passwort, Zertifikat) mit einem sicheren Protokoll übertragen.
+Die App MUSS die Authentisierungsparameter wie z. B. Benutzername, Passwort oder Zertifikat mit einem sicheren Protokoll übertragen.
 Wenn Mitarbeiter mobile Endgeräte verlieren, SOLLTE sichergestellt sein, dass kein Unbefugter auf die Apps und damit auf Informationen der Institution zugreifen kann.
 
-APP.1.4.A11 Zentrales Management von Apps
+APP.1.4.A11 Zentrales Management von Apps (S)
 Es SOLLTE eine MDM-Lösung etabliert werden.
 Es SOLLTE über Prüfmechanismen und Whitelists sichergestellt werden, dass nur geprüfte und freigegebene Apps verwendet werden können.
 
-APP.1.4.A12 Sichere Deinstallation von Apps
+APP.1.4.A12 Sichere Deinstallation von Apps (S)
 Wenn Apps deinstalliert werden, SOLLTEN auch alle von der App generierten Dateien gelöscht werden.
 Dabei SOLLTEN ebenso vom Betriebssystem zwischengespeicherte Daten mit Bezug zur App gelöscht werden, etwa Caches.
 Außerdem SOLLTEN auch Daten gelöscht werden, die auf externen Systemen, beispielsweise beim App-Anbieter, gespeichert wurden.
@@ -79,16 +79,16 @@ Außerdem SOLLTEN auch Daten gelöscht werden, die auf externen Systemen, beispi
 
 3.3 Anforderungen bei erhöhtem Schutzbedarf
 
-APP.1.4.A13 Entwicklung von Fallback-Lösungen für Apps [Fachverantwortliche] (A)
-Für alle mit Apps abgebildeten Geschäftsprozesse SOLLTE im Falle einer Störung oder anderen Hinderungsgründen eine Alternativlösung bereitstehen.
+APP.1.4.A13 Entwicklung von Fallback-Lösungen für Apps [Fachverantwortliche] (H)
+Für alle mit Apps abgebildeten Geschäftsprozesse SOLLTE im Falle einer Störung oder bei anderen Problemen eine Alternative bereitstehen.
 Dabei SOLLTE im Vorfeld überlegt werden, wie lang die maximal tolerierbare Ausfallzeit einer App ist und wie sich die betroffenen Geschäftsprozesse anderweitig abbilden lassen, beispielsweise durch ein zentrales Webportal.
 
-APP.1.4.A14 Unterstützung zusätzlicher Authentisierungsmerkmale bei Apps (CI)
-Es SOLLTE für die Authentisierung in der App ein zweiter Faktor benutzt werden.
+APP.1.4.A14 Unterstützung zusätzlicher Authentisierungsmerkmale bei Apps (H)
+Es SOLLTE für die Authentisierung der Benutzer in der App ein zweiter Faktor benutzt werden.
 Hierbei SOLLTE darauf geachtet werden, dass eventuell benötigte Sensoren oder Schnittstellen in allen verwendeten Geräten vorhanden sind.
 Zusätzlich SOLLTE bei biometrischen Verfahren berücksichtigt werden, wie resistent die Authentisierung gegen mögliche Fälschungsversuche ist.
 
-APP.1.4.A15 Durchführung von Penetrationstests für Apps (CIA)
+APP.1.4.A15 Durchführung von Penetrationstests für Apps (H)
 Bevor eine App für den Einsatz freigegeben wird, SOLLTE ein Penetrationstest durchgeführt werden.
 Dabei SOLLTEN alle Kommunikationsschnittstellen zu Backend-Systemen sowie die lokale Speicherung von Daten auf mögliche Sicherheitslücken untersucht werden.
 Die Penetrationstests SOLLTEN regelmäßig und zusätzlich bei größeren Änderungen an der App wiederholt werden.

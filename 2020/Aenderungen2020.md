@@ -283,6 +283,7 @@ Im Hochsicherheitsbereich SOLLTE eine zusätzliche Sicherheitsüberprüfung zus�
 ### Basis-Anforderungen
 
 #### ORP.3.A1
+"Management" _ersetzt durch_ "Institutsleitung"
 
 #### ORP.3.A2
 
