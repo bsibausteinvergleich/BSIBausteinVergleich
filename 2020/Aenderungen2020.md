@@ -426,18 +426,36 @@ Bei erfolglosen Anmeldeversuchen SOLLTE das System keinen Hinweis darauf geben, 
 ### Standard-Anforderungen
 
 #### ORP.4.A10
+_Geändert:_\
+~~Benutzerkonten mit weitreichenden Berechtigungen SOLLTEN mit mindestens zwei Authentisierungsmerkmalen geschützt werden.~~\
+_zu:_\
+Benutzerkennungen mit weitreichenden Berechtigungen SOLLTEN mit einer Mehr-Faktor-Authentisierung, z. B. mit kryptografischen Zertifikaten, Chipkarten oder Token geschützt werden.
 
 #### ORP.4.A11
+Keine inhaltlichen Änderungen
 
 #### ORP.4.A12
+_Geändert:_\
+~~Authentisierungsinformationen SOLLTEN kryptografisch sicher geschützt übertragen und gespeichert werden.~~\
+_zu:_\
+Authentisierungsinformationen MÜSSEN kryptografisch sicher übertragen und gespeichert werden.
 
 #### ORP.4.A13
+Keine inhaltlichen Änderungen
 
 #### ORP.4.A14
+Keine inhaltlichen Änderungen
 
 #### ORP.4.A15
+Keine inhaltlichen Änderungen
 
 #### ORP.4.A16
+_Geändert:_\
+~~ORP.4.A16 Richtlinien für die Zugriffs- und Zugangskontrolle [Administrator]~~\
+_zu:_\
+ORP.4.A16 Richtlinien für die Zugriffs- und Zugangskontrolle [IT-Betrieb] (S)
+
+_Geändert:_ ~~"Netze"~~ _zu:_ "Datennetze"
 
 #### ORP.4.A17
 
