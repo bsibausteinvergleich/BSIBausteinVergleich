@@ -1,134 +1,160 @@
 3.1 Basis-Anforderungen
 
-APP.5.1.A1 Sichere Installation von Groupware-Systemen (B)
-Der IT-Betrieb MUSS alle für ein Groupware-System benötigten Komponenten entsprechend der geplanten Systemlandschaft sicher installieren und konfigurieren.
-Nicht genutzte Komponenten des Groupware-Systems MÜSSEN deaktiviert werden.
 
-APP.5.1.A2 Sichere Konfiguration der Groupware-Clients (B)
-Die Institution MUSS eine Konfiguration für die Groupware-Clients vorgeben.
-Die Clients MÜSSEN den Benutzern vorkonfiguriert übergeben werden.
-Die Konfiguration MUSS Sicherheitsaspekte berücksichtigen.
-Die Institution MUSS die Benutzer darauf hinweisen, dass die Konfiguration nicht selbstständig geändert werden darf.
-Es MUSS verhindert oder untersagt werden, dass die Benutzer Passwörter im Klartext speichern.
-Bevor Dateianhänge ausgeführt werden, MÜSSEN sie von einem Schutzprogramm auf Schadsoftware überprüft werden.
-Groupware-Clients MÜSSEN so konfiguriert werden, dass sie eventuell vorhandenen HTML-Code in E-Mails nicht automatisch interpretieren.
-Vorschaufunktionen für Datei-Anhänge MÜSSEN so konfiguriert werden, dass sie Dateien nicht automatisch interpretieren.
-E-Mail-Filterregeln sowie die unkontrolliert, automatische Weiterleitung von E-Mails MÜSSEN beschränkt werden.
+APP.5.1.A1 Sichere Installation von Groupware-Systemen [Leiter IT]
+Alle für ein Groupware-System benötigten Komponenten (z. B. auch die Sicherheitsgateways) MÜSSEN entsprechend der geplanten Systemlandschaft sicher installiert und konfiguriert werden.
+Während das System installiert wird, MÜSSEN alle Passwörter sicher gewählt sein.
+Nicht genutzte Komponenten MÜSSEN deaktiviert werden.
+Auch MÜSSEN die Installationsquellen vor unbefugtem Zugriff geschützt werden.
 
-APP.5.1.A3 Sicherer Betrieb von Groupware-Systemen (B)
-Administratoren MÜSSEN sich regelmäßig über neu bekannt gewordene Schwachstellen der eingesetzten Groupware-Systeme informieren und sie zeitnah beheben.
-Der IT-Betrieb MUSS Schutzmechanismen gegen Denial-of-Service-Attacken (DoS) ergreifen.
-Die Kommunikation innerhalb des internen Netzes MUSS angemessen geschützt werden.
-Für die Kommunikation über öffentliche Datennetze MÜSSEN Groupware-Systeme eine sichere Transportverschlüsselung anbieten.
-Versenden Groupware-Syteme von sich aus Daten, SOLLTEN sie dafür ebenfalls eine sichere Transportverschlüsselung nutzen.
-Die Institution SOLLTE eine Richtlinie erstellen, in der alle in der jeweiligen Groupware erlaubten Protokolle und Dienste erfasst sind.
-Insbesondere MUSS der IT-Betrieb den E-Mailserver so einstellen, dass er nicht als Spam Relay missbraucht werden kann.
-Werden Nachrichten auf einem E-Mailserver gespeichert, MUSS der IT-Betrieb eine Größenbeschränkung für das serverseitige Postfach einrichten.
-Diese Größenbeschränkung MUSS geeignet festgelegt werden.
+APP.5.1.A2 Sichere Konfiguration der Groupware-Clients [Leiter IT, Benutzer]
+Die Groupware-Clients der Benutzer MÜSSEN durch den Administrator so vorkonfiguriert sein, dass sie, ohne dass der Benutzer etwas tun muss, maximal sicher sind.
+Die Benutzer MÜSSEN darauf hingewiesen werden, dass die Konfiguration nicht selbstständig geändert werden darf.
+Es MUSS zudem verhindert und untersagt sein, dass Passwörter im Klartext gespeichert werden.
+Werden Nachrichten auf einem Mailserver gespeichert und wird z. B. über Internet Message Access Protocol (IMAP) darauf zugegriffen, MUSS eine Größenbeschränkung für das serverseitige Postfach eingerichtet werden.
+Bevor Dateianhänge ausgeführt werden, MÜSSEN sie mit einem Schutzprogramm vor Schadsoftware überprüft werden.
+Es MÜSSEN sichere Einstellungen für E-Mails im HTML-Format, die Vorschaufunktionen und die E-Mail-Filterregeln sowie für die sichere automatische Weiterleitung von E-Mails gewählt werden.
 
-APP.5.1.A4 Datensicherung und Archivierung bei Groupware (B)
-Der IT-Betrieb MUSS die Daten der Groupware-Systeme regelmäßig sichern.
-Dafür MUSS die Institution regeln, wie die gesendeten und empfangenen E-Mails der E-Mail-Clients sowie die E-Mails auf den Servern gesichert werden.
-Auch SOLLTE die Institution eine dokumentierte Vorgehensweise festlegen, die beschreibt, wie E-Mails zu archivieren sind.
-Die Vorgehensweise SOLLTE regeln, wie, wann, wie lange und wo gesendete und empfangene E-Mails archiviert werden.
-Der IT-Betrieb SOLLTE planen und testen, wie archivierte E-Mails wieder eingespielt werden können.
+APP.5.1.A3 Sicherer Betrieb von Groupware-Systemen [Leiter IT, Informationssicherheitsbeauftragter (ISB)]
+Es MÜSSEN alle sicherheitsrelevanten Servicepacks, Updates und Patches für das jeweilige Softwareprodukt eingespielt werden.
+Administratoren MÜSSEN sich daher regelmäßig über neu bekannt gewordene Schwachstellen der eingesetzten Groupware-Systeme und der genutzten Betriebssysteme informieren und sie zeitnah schließen.
+Um Groupware-Systeme in der Institution abzusichern, MÜSSEN Schutzmechanismen gegen Denial-of-Service-(DoS)-Attacken ergriffen werden.
+Die lokale Kommunikation MUSS angemessen geschützt sein.
+Die Kommunikation über öffentliche Netze MUSS verschlüsselt sein.
+Außerdem MÜSSEN die Zugriffsrechte auf die lokal angeschlossenen Benutzer beschränkt werden.
+Es SOLLTE eine Richtlinie erstellt werden, die über die in der jeweiligen Groupware erlaubten Protokolle und Dienste informiert.
+Insbesondere der Mailserver MUSS so eingestellt werden, dass er nicht als Spam Relay missbraucht werden kann.
 
-APP.5.1.A7 Planung des sicheren Einsatzes von Groupware-Systemen (B)
-Bevor eine Institution Groupware-Systeme einführt, MUSS sie entscheiden, wofür die Groupware-Systeme genutzt und welche Informationen darauf verarbeitet werden.
-Die Institution MUSS jede benutzte Funktion einer Groupware einschließlich deren Sicherheitsaspekte planen.
-Sie MUSS festlegen, wie die Groupware-Clients auf die Server zugreifen sollen.
-Es SOLLTE darauf geachtet werden, dass die genutzten Groupware-Systeme ausreichend dimensioniert sind.
-Die Institution SOLLTE bei der Planung beschreiben, wie Daten ordnungsgemäß übertragen werden.
-Darüber hinaus MUSS sie regeln, ob und wie Groupware-Dienste privat genutzt werden dürfen.
-Die Institution SOLLTE regeln, wie Mitarbeiter mit Webmail-Anwendungen umgehen sollen.
-
-APP.5.1.A22 Spam- und Virenschutz auf dem E-Mailserver (B)
-Der IT-Betrieb MUSS auf dem zentralen E-Mailserver einen E-Mail-Scanner mit einem integrierten Virenschutzprogramm installieren, der eingehende und ausgehende E-Mails, insbesondere deren Anhänge, auf Spam-Merkmale und schädliche Inhalte überprüft.
-Die Institution MUSS festlegen, wie mit verschlüsselten E-Mails zu verfahren ist, wenn diese nicht durch den Scanner entschlüsselt werden können.
-Wenn ein E-Mail-Scanner genutzt wird, MÜSSEN darüber alle Mitarbeiter, der Datenschutzbeauftragte und die Personalvertretung informiert werden.
+APP.5.1.A4 Datensicherung Archivierung bei Groupware [Informationssicherheitsbeauftragter (ISB), Datenschutzbeauftragter, Benutzer]
+Bei einem Groupware-System MÜSSEN die Daten regelmäßig gesichert werden.
+Dafür MUSS geregelt werden, wie die gesendeten und empfangenen E-Mails der E-Mail-Clients und auf E-Mail-Servern gesichert werden.
+Auch SOLLTE eine dokumentierte Vorgehensweise erstellt werden, wie E-Mails zu archivieren sind.
+Dabei SOLLTE grundsätzlich geregelt sein, wie, wann und wo gesendete und empfangene E-Mails archiviert werden, beispielsweise ob zentral oder dezentral ggf. von den Benutzern selbst.
+Bei der Archivierung von E-Mails SOLLTEN z. B. zeitliche und organisatorische Sicherheitsaspekte beachtet werden.
+Der erforderliche Zeitraum SOLLTE überprüft, die Archivierung geplant und zudem überlegt werden, wie sich die E-Mails wieder einspielen lassen.
 
 
 3.2 Standard-Anforderungen
 
-APP.5.1.A5 ENTFALLEN (S)
-Diese Anforderung ist entfallen.
+APP.5.1.A5 Festlegung der Kommunikationspartner [Leiter Organisation, Leiter IT, Informationssicherheitsbeauftragter (ISB), Datenschutzbeauftragter]
+Es SOLLTE festgelegt werden, welche Kommunikationspartner welche Informationen erhalten dürfen.
+Sollen Informationen an einen Kommunikationspartner außerhalb der eigenen Institution übertragen werden, SOLLTE sichergestellt werden, dass der Empfänger berechtigt ist, diese Informationen weiterzuverarbeiten.
+Alle Informationen SOLLTEN entsprechend ihrer strategischen Bedeutung für die Institution klassifiziert werden.
+Die Kommunikationspartner SOLLTEN darauf hingewiesen werden, dass die übermittelten Daten nur zu dem Zweck benutzt werden dürfen, zu dem sie weitergegeben wurden.
+Auch aus Datenschutzgründen (Bundesdatenschutzgesetz (BDSG), Weitergabekontrolle) SOLLTE eine Übersicht erstellt werden, welche Empfänger berechtigt sind, Informationen, insbesondere personenbezogene Daten, zu erhalten.
+Bei zu übermittelnden Daten SOLLTE ersichtlich sein, welche Kommunikationspartner Informationen erhalten haben bzw. erhalten werden.
 
-APP.5.1.A6 Festlegung von Vertretungsregelungen bei E-Mail-Nutzung [Vorgesetzte] (S)
-Die Institution SOLLTE Vertretungsregelungen für die Bearbeitung von E-Mails aufstellen und dokumentieren.
-Dabei MÜSSEN datenschutzrechtliche Aspekte berücksichtigt werden.
+APP.5.1.A6 Vertretungsregelungen bei E-Mail-Nutzung [Vorgesetzte, Informationssicherheitsbeauftragter (ISB), Benutzer]
+Für die E-Mail-Bearbeitung SOLLTE für jeden Mitarbeiter jederzeit ein geeigneter Vertreter benannt sein.
+Vertreter SOLLTEN auf das Postfach des Vertretenden zugreifen können.
+Alternativ SOLLTEN die E-Mails an den Vertreter weitergeleitet werden.
 Werden E-Mails weitergeleitet, SOLLTEN die vertretenen Benutzer mindestens darüber informiert werden.
-Die Institution SOLLTE für Autoreply-Funktionen in E-Mail-Programmen spezielle Regelungen etablieren.
-Die Regelungen SOLLTEN beschreiben, wie diese Funktionen sicher gesteuert werden können.
-Wenn Mitarbeiter die Autoreply-Funktionen nutzen, SOLLTEN keine internen Informationen weitergegeben werden.
+Um die Vertreterregelungsprozesse zu unterstützen, SOLLTEN für Autoreply-Funktionen in E-Mail-Programmen spezielle Regelungen etabliert werden, mit denen diese Funktionen sicher gesteuert werden können.
+Wenn Mitarbeiter die Autoreply-Funktionen benutzen, SOLLTEN KEINE internen Informationen weitergegeben werden.
 
-APP.5.1.A8 Festlegung einer Sicherheitsrichtlinie für Groupware (S)
-Die Institution SOLLTE Sicherheitsrichtlinien für Groupware-Systeme und -Anwendungen auf Basis der gemachten Planung erstellen und regelmäßig aktualisieren.
-Sie SOLLTE alle Benutzer und Administratoren über neue oder veränderte Sicherheitsvorgaben für Groupware-Systeme informieren.
-Die Groupware-Sicherheitsrichtlinien SOLLTEN konform zu den geltenden übergeordneten Sicherheitsrichtlinien der Institution sein.
-Die Institution SOLLTE prüfen, ob die Sicherheitsrichtlinien korrekt angewendet werden.
-Sie SOLLTE jeweils eine Groupware-Sicherheitsrichtlinie für Administratoren und eine für Benutzer erstellen.
-Die Groupware-Sicherheitsrichtlinie für Benutzer SOLLTE vorgeben,
-• wie sich die Kommunikation absichern lässt,
-• welche Benutzerzugriffsrechte es gibt,
-• wie Informationen an Kommunikationspartner weitergegeben werden sollen,
-• wie sich übermittelte Informationen absichern lassen,
-• wie mit Datei-Anhängen umgegangen werden soll und
-• wie E-Mails im HTML-Format behandelt werden sollen.
-Die Groupware-Sicherheitsrichtlinie für Administratoren SOLLTE die Einstellungsoptionen der Groupware-Systeme beinhalten, außerdem die Vorgaben für mögliche Zugriffe von anderen Servern auf einen Groupware-Server.
-Auch Angaben zu berechtigten Zugriffspunkten, von denen aus auf einen Groupware-Server zugegriffen werden darf, SOLLTEN in der Richtlinie enthalten sein.
-Die Groupware-Sicherheitsrichtlinien SOLLTEN den Umgang mit Newsgroups und Mailinglisten regeln.
+APP.5.1.A7 Planung des sicheren Einsatzes von Groupware-Systemen [Leiter IT, Informationssicherheitsbeauftragter (ISB)]
+Bevor eine Institution ein Groupware-System einführt, SOLLTE entschieden werden, wofür es genutzt wird und welche Informationscluster zukünftig auf dem Groupware-System verarbeitet werden sollen.
+Es SOLLTE entschieden werden, ob ein eigener Groupware-Server in der Institution eingesetzt oder ein Provider genutzt werden soll.
+Auch SOLLTE ermittelt werden, wie die Groupware-Clients auf die Server zugreifen.
+Für jede benutzte Funktion einer Groupware SOLLTE eine eigene Planung durchgeführt werden, bei der auch deren Sicherheitsaspekte berücksichtigt werden.
+Bei der Planung SOLLTE auch festgelegt werden, welche Daten unter welchen Rahmenbedingungen über Groupware-Dienste übermittelt werden dürfen und wie sich dies auf den Schutzbedarf auswirkt.
+Es SOLLTE ebenso beschrieben werden, wie ein ordnungsgemäßer Dateitransfer gewährleistet werden kann, z. B. durch organisatorische Regelungen oder technische Maßnahmen.
+Darüber hinaus SOLLTE auch geregelt werden, ob und wie Groupware-Dienste privat benutzt werden dürfen.
+Auch SOLLTEN Institutionen regeln, wie Mitarbeiter mit Webmail umgehen sollen.
 
-APP.5.1.A9 ENTFALLEN (S)
-Diese Anforderung ist entfallen.
+APP.5.1.A8 Festlegung einer Sicherheitsrichtlinie für Groupware [Leiter IT, Informationssicherheitsbeauftragter (ISB), Benutzer]
+Es SOLLTE eine Sicherheitsrichtlinie für Groupware-Systeme und -Anwendungen erstellt und regelmäßig aktualisiert werden.
+Alle Benutzer und Administratoren SOLLTEN über neue oder veränderte Sicherheitsvorgaben für Groupware-Systeme informiert werden.
+Die Groupware-Sicherheitsrichtlinie SOLLTE konform zu den geltenden übergeordneten Sicherheitsrichtlinien der Institution sein.
+Es SOLLTE geprüft werden, ob die Sicherheitsrichtlinien korrekt angewendet werden.
+Es SOLLTE eine Sicherheitsrichtlinie für Benutzer und eine für Administratoren erstellt werden.
+Für die Benutzer SOLLTE darin angegeben werden, wie sich die Kommunikation absichern lässt (z. B. für die Netz- oder E-Mail-Kommunikation), welche Benutzerzugriffsrechte es gibt (z. B. auf Groupware-Server oder -Datenbanken), wie Informationen an Kommunikationspartner weitergegeben werden sollen und wie sich übermittelte Informationen absichern lassen (z. B. Signaturen/Verschlüsselungen).
+Die zu regelnden Inhalte für Administratoren SOLLTEN darüber hinaus die Einstellungsoptionen der Groupware-Komponenten beinhalten, außerdem die Vorgaben für mögliche Zugriffe von anderen Servern auf einen Groupware-Server und Angaben zum berechtigten Zugriffspunkt, von dem aus auf einen Groupware-Server zugegriffen werden darf.
 
-APP.5.1.A10 ENTFALLEN (S)
-Diese Anforderung ist entfallen.
+APP.5.1.A9 Sichere Administration von Groupware-Systemen [Leiter IT]
+Administrative Zugänge sowie die dazugehörigen Aufgaben SOLLTEN abhängig ihrer Zuständigkeit getrennt werden.
+Um ein Groupware-System reibungslos zu betreiben, SOLLTEN Administratoren ernannt und geschult werden.
+Alle Administrationsaufgaben im Bereich Groupware und die vergebenen Berechtigungen SOLLTEN ausreichend dokumentiert werden.
+An Administratoren SOLLTEN nur die für die jeweiligen Aufgaben notwendigen Berechtigungen vergeben werden.
+Nachdem alle Groupware-Komponenten installiert wurden, SOLLTEN sie sicher konfiguriert werden.
+Es SOLLTE darauf geachtet werden, dass die genutzten Groupware-Systeme ausreichend dimensioniert sind.
+Auch SOLLTEN vertrauenswürdige Groupware-Dokumentationen bei der Administration berücksichtigt werden.
+Es SOLLTE regelmäßig überprüft werden, ob die vorhandenen Dokumentationen aktuell sind.
 
-APP.5.1.A11 ENTFALLEN (S)
-Diese Anforderung ist entfallen.
+APP.5.1.A10 Schulung zur Systemarchitektur und Sicherheit von Groupware-Systemen für Administratoren [Leiter IT, Informationssicherheitsbeauftragter (ISB)]
+Um ein Groupware-System korrekt und sicher administrieren zu können, SOLLTEN die verantwortlichen Administratoren geschult werden.
+Für die Schulungen SOLLTE überlegt werden, einen Schulungsplan festzulegen.
+Die Administratoren SOLLTEN in allen sicherheitsrelevanten Bereichen des Groupware-Systems ausgebildet werden.
+Weitere Schulungsschwerpunkte SOLLTEN sein:
+• Überblick über Lösungen für Kommunikationssicherheit (z. B. Verschlüsselung, VPN),
+• Protokollierung,
+• Sichern und Verwalten von Konfigurationsdaten,
+• Datensicherung,
+• Incident Handling sowie
+• Disaster-Recovery-Maßnahmen.
 
-APP.5.1.A12 Schulung zu Sicherheitsmechanismen von Groupware-Clients für Benutzer (S)
-Die Institution SOLLTE die Benutzer über potenzielles Fehlverhalten im Bezug auf Groupware aufklären.
-Dies SOLLTE zusätzlich zur allgemeinen Schulung und Sensibilisierung geschehen.
-Sie SOLLTE auch davor warnen, an E-Mail-Kettenbriefen teilzunehmen oder zu viele Mailinglisten zu abonnieren.
-Darüber hinaus SOLLTE die Institution die Benutzer auf die Gefahren hinweisen, die beim Öffnen von unerwarteten E-Mail-Anhängen drohen können.
-Sie SOLLTE Benutzer auch davor warnen, die HTML-Darstellung bei unerwarteten E-Mails zu aktivieren.
+APP.5.1.A11 Berechtigungsverwaltung für Groupware-Systeme [Leiter IT, Informationssicherheitsbeauftragter (ISB)]
+Die vergebenen Berechtigungen, vor allem die privilegierten, SOLLTEN regelmäßig mit dem Berechtigungskonzept abgeglichen und zeitnah angepasst werden, wenn sich die Aufgaben der Benutzer und der Administratoren ändern.
+Es SOLLTE ein Berechtigungskonzept erstellt werden, das alle Groupware-Komponenten umfasst.
+Berechtigungen SOLLTEN möglichst restriktiv vergeben werden.
+Administrative Tätigkeiten auf Betriebssystemebene und Groupware-Anwendungsebene SOLLTEN soweit wie möglich voneinander getrennt werden.
+Auch innerhalb der Administration SOLLTEN Rollen und Verantwortlichkeiten getrennt werden.
 
-APP.5.1.A13 ENTFALLEN (S)
-Diese Anforderung ist entfallen.
+APP.5.1.A12 Schulung zu Sicherheitsmechanismen von Groupware-Clients für Benutzer [Leiter IT, Informationssicherheitsbeauftragter (ISB)]
+Es SOLLTEN alle Benutzer für die Arbeit mit dem Groupware-Client geschult und eingewiesen werden.
+Dabei SOLLTE den Benutzern gezeigt werden, welche Sicherheitsmechanismen verfügbar sind und wie sie eingesetzt werden können.
+Wer Groupware nutzt, SOLLTE für Gefährdungen und einzuhaltende Sicherheitsmaßnahmen sensibilisiert werden.
+Die Benutzer SOLLTEN über potenzielles Fehlverhalten belehrt werden.
+Sie SOLLTEN auch davor gewarnt werden, an E-Mail-Kettenbriefen teilzunehmen und viele Mailinglisten zu abonnieren.
 
-APP.5.1.A14 ENTFALLEN (S)
-Diese Anforderung ist entfallen.
+APP.5.1.A13 Verifizierung der zu übertragenden Daten vor Weitergabe und Beseitigung von Restinformationen [Leiter IT, Benutzer]
+Bevor eine Datei per E-Mail über einen Groupware-Dienst verschickt wird, SOLLTE überprüft werden, ob diese Restinformationen enthält, die nicht veröffentlicht werden dürfen.
+Alle Benutzer SOLLTEN über die Gefahren von Rest- und Zusatzinformationen in Dateien sensibilisiert werden.
+Um diese Gefahren zu minimieren, SOLLTEN Dateienstichprobenhaft auf enthaltene Restinformationen überprüft werden.
+Alle Zusatzinformationen (Dateieigenschaften) von Dateien in Standardsoftwareformaten SOLLTEN ermittelt, überprüft und falls erforderlich angepasst werden, bevor sie weitergegeben werden.
+Ebenso SOLLTE darauf geachtet werden, dass die Dateien keine sogenannten Slack Bytes enthalten.
 
-APP.5.1.A15 ENTFALLEN (S)
-Diese Anforderung ist entfallen.
+APP.5.1.A14 Vermeidung problematischer Dateiformate [Benutzer]
+Es SOLLTE vorgegeben werden, wie mit E-Mails im HTML-Format, mit anderen Dateiformaten und Dateianhängen umzugehen ist.
+Für HTML-formatierte E-Mails SOLLTE eine Richtlinie erstellt werden, die auf entsprechende Inhalte von Benutzerschulungen, Weiterleitungseinstellungen, Umwandlungsoptionen (z. B. in Textformate), Benutzerhinweise sowie auf mögliche sichere und gesonderte Arbeitsplätze eingeht.
 
-APP.5.1.A16 Umgang mit SPAM durch Benutzer [Benutzer] (S)
+APP.5.1.A15 Protokollierung von Groupware-Systemen [Leiter IT]
+Es SOLLTEN alle sicherheitsrelevanten Ereignisse von Groupware-Systemen protokolliert werden.
+Dafür SOLLTE ein geeignetes Protokollierungskonzept erstellt werden.
+Der Zugriff auf die Protokolldaten SOLLTE eingeschränkt werden.
+Wichtige Systemereignisse wie Änderungen, Fehler und Störungen an Hardware, Betriebssystem, Treibern, Diensten und sonstiger Software SOLLTEN protokolliert und regelmäßig ausgewertet werden.
+
+APP.5.1.A16 Umgang mit SPAM [Leiter IT, Informationssicherheitsbeauftragter (ISB), Benutzer]
 Grundsätzlich SOLLTEN alle Benutzer unerwünschte E-Mails ignorieren und löschen.
-Benutzer SOLLTEN auf unerwünschte E-Mails nicht antworten und Links in diesen E-Mails nicht folgen.
-Falls die Institution E-Mail-Filterprogramme einführen möchte, SOLLTE das mit dem Datenschutzbeauftragten, der Personalvertretung und den Benutzern abgestimmt werden.
+Es SOLLTE auf unerwünschte E-Mails NICHT geantwortet, Links in der E-Mail NICHT gefolgt oder ein Anhang NICHT ausgeführt werden.
+Falls die Institution E-Mail-Filterprogramme einführen möchte, SOLLTE das mit dem Datenschutzbeauftragten, der Personalvertretung und den Benutzern abgesprochen werden.
+Für Newsgroups und Mailinglisten SOLLTEN Regelungen erstellt werden.
 
-APP.5.1.A17 Auswahl eines Groupware- oder E-Mail-Providers (S)
-Falls die Institution einen Dienstleister mit dem Betrieb eines Groupware-Servers beauftragen möchte, SOLLTE sie die funktionalen Aspekte identifizieren und mit dem möglichen Provider abstimmen.
-Sie SOLLTE sicherstellen, dass der Groupware- oder E-Mail-Provider alle erforderlichen Sicherheitsmechanismen umsetzt und seine Server auf einem für die Institution angemessenem Sicherheitsniveau betreibt.
-Die Institution SOLLTE mit dem Dienstleister Vereinbarungen zu SLAs treffen.
+APP.5.1.A17 Auswahl eines Groupware- oder Mail-Providers [Vorgesetzte, Datenschutzbeauftragter]
+Soll kein eigener Groupware-Server betrieben werden, sondern ein Dienstleister für den Betrieb des Groupware-Servers beauftragt werden, SOLLTEN die funktionalen Aspekte identifiziert und mit dem möglichen Provider abgestimmt werden.
+Auch SOLLTE sichergestellt werden, dass der Groupware- oder Mail-Provider alle erforderlichen Sicherheitsmechanismen umsetzt und dass seine Server sicher betrieben werden.
 Benötigte interne Anforderungen SOLLTEN unter der Betrachtung von juristischen Aspekten schriftlich fixiert werden.
-Es SOLLTEN alle Mitarbeiter darüber informiert werden, was zu beachten ist, wenn sie externe Groupware-Dienste nutzen.
+Es SOLLTEN alle Mitarbeiter darüber informiert werden, was dabei zu beachten ist, wenn sie externe Groupware-Dienste benutzen.
 
-APP.5.1.A18 Erweiterter Spamschutz auf dem E-Mailserver (S)
-Die E-Mail-Server einer Institution SOLLTEN eingehende E-Mails mittels des Sender Policy Framework (SPF) und mit Hilfe von DomainKeys überprüfen.
-Die Institution SOLLTE selbst DomainKeys und SPF einsetzen, um von ihr versendete E-Mails zu authentisieren.
-Die Institution SOLLTE Domain-based Message Authentication, Reporting and Conformance (DMARC) nutzen, um festzulegen, wie von ihr versendete E-Mails durch den empfangenden E-Mail-Server überprüft werden sollen.
+APP.5.1.A18 Spam- und Virenschutz durch Einsatz eines E-Mail-Scanners auf dem Mailserver [Informationssicherheitsbeauftragter (ISB)]
+Auf dem zentralen Mailserver SOLLTE ein E-Mail-Scanner mit einem integrierten speicherresistenten Virenschutzprogramm installiert werden, der eingehende und ausgehende E-Mails, insbesondere deren Anhänge, auf SpamMerkmale und schädliche Inhalte überprüft.
+Da verschlüsselte E-Mails nicht automatisch überprüft werden können, SOLLTE auch festgelegt werden, wie mit solchen E-Mails zu verfahren ist.
+Wenn ein E-Mail-Scanner genutzt wird, SOLLTEN darüber alle Mitarbeiter, der Datenschutzbeauftragte und die Personalvertretung informiert werden.
 
-APP.5.1.A19 ENTFALLEN (S)
-Diese Anforderung ist entfallen.
+APP.5.1.A19 Verschlüsselung von Groupware [Leiter IT, Informationssicherheitsbeauftragter (ISB), Benutzer]
+Daten, die durch Groupware-Systeme übermittelt werden, SOLLTEN mithilfe geeigneter Schutzmechanismen abgesichert werden.
+So SOLLTE mit Verschlüsselungsverfahren und digitalen Signaturen die Integrität und Vertraulichkeit elektronisch übermittelter Informationen sichergestellt werden, beispielsweise durch eine TLS-Verbindungsverschlüsselung.
 
 
 3.3 Anforderungen bei erhöhtem Schutzbedarf
 
-APP.5.1.A20 ENTFALLEN (H)
-Diese Anforderung ist entfallen.
+APP.5.1.A20 Erstellen eines Notfallplans für den Ausfall von Groupware-Systemen [Notfallbeauftragter, Leiter IT, Informationssicherheitsbeauftragter (ISB)] (A)
+Es SOLLTE ein Konzept entworfen werden, wie die Folgen eines Ausfalls minimiert werden können und was bei einem Ausfall zu tun ist.
+Die Notfallplanung für das eingesetzte Groupware-System SOLLTE den existierenden Notfallplan der Institution berücksichtigen.
+Wichtige Aufgaben, um das Groupware-System aufrechtzuerhalten bzw. wieder in Betrieb nehmen zu können, SOLLTEN so beschrieben sein, dass sie von entsprechend geschultem Personal durchgeführt werden können.
+Es SOLLTE ein Wiederanlaufplan für das Groupware-System erstellt werden, der beschreibt, wie die Systeme nach einem Ausfall wieder geregelt hochzufahren sind.
+Notfallübungen zur Systemwiederherstellung SOLLTEN regelmäßig durchgeführt werden, wobei auch alle Aspekte eines Systemausfalls bzw. einer Kompromittierung zu berücksichtigen sind.
 
-APP.5.1.A21 Ende-zu-Ende-Verschlüsselung (H)
-Die Institution SOLLTE eine Ende-zu-Ende-Verschlüsselung einsetzen.
-Es SOLLTEN nur Protokolle zur Verschlüsselung genutzt werden, die dem aktuellen Stand der Technik entsprechen.
+APP.5.1.A21 Ende-zu-Ende Verschlüsselung (CI)
+Um schutzbedürftige Informationen über alle Kommunikationspartner hinweg vertraulich zu halten, SOLLTE eine Ende-zu-Ende-Verschlüsselung eingesetzt werden.
+Es SOLLTEN nur Protokolle zur Verschlüsselung genutzt werden, die dem heutigen Stand der Technik entsprechen (siehe CON.1 Kryptokonzept).
