@@ -76,8 +76,7 @@ Authentisierungsdaten SOLLTEN durch das IT-System bzw. die IT-Anwendungen bei de
 gegen Ausspähung, Veränderung und Zerstörung geschützt werden.
 
 ORP.4.A14 Kontrolle der Wirksamkeit der Benutzertrennung am IT-System [Administrator]
-In angemessenen Zeitabständen SOLLTE überprüft werden, ob die Benutzer von IT-Systemen sich regelmäßig nach
-Aufgabenerfüllung abmelden und nicht mehrere Benutzer unter der gleichen Kennung arbeiten.
+In angemessenen Zeitabständen SOLLTE überprüft werden, ob die Benutzer von IT-Systemen sich regelmäßig nach Aufgabenerfüllung abmelden und nicht mehrere Benutzer unter der gleichen Kennung arbeiten.
 
 ORP.4.A15 Vorgehensweise und Konzeption der Prozesse beim Identitäts- und Berechtigungsmanagement
 [Leiter IT]
