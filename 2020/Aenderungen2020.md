@@ -296,6 +296,8 @@ Keine inhaltlichen Änderungen
 #### ORP.3.A3
 _Entfallen_
 
+### Standard-Anforderungen
+
 #### ORP.3.A4
 Keine inhaltlichen Änderungen
 
@@ -332,25 +334,96 @@ Besonders exponierte Personen
 
 ## Änderungen ORP.1
 
+Die Rolle "Leiter IT" wurde in allen Anforderungen der ORP.4 durch "IT-Betrieb" ersetzt.
+
 ### Basis-Anforderungen
 
 #### ORP.4.A1
+_Geändert:_\
+~~ORP.4.A1 Regelung für die Einrichtung von Benutzern und Benutzergruppen [Administrator, Leiter IT] Es MUSS geregelt werden, wie Benutzer und Benutzergruppen einzurichten sind. Alle Benutzer und Benutzergruppen DÜRFEN NUR über separate administrative Rollen eingerichtet werden.~~\
+_zu:_\
+ORP.4.A1 Regelung für die Einrichtung und Löschung von Benutzern und Benutzergruppen [IT-Betrieb] (B) Es MUSS geregelt werden, wie Benutzerkennungen und Benutzergruppen einzurichten und zu löschen sind.
+Alle Benutzer und Benutzergruppen DÜRFEN NUR über separate administrative Rollen eingerichtet und gelöscht werden.
 
 #### ORP.4.A2
+Keine Änderungen
 
 #### ORP.4.A3
+_Geändert:_\
+~~Es MUSS eine Dokumentation der zugelassenen Benutzer, angelegten Benutzergruppen und Rechteprofile erfolgen.~~\
+_zu:_\
+Es MUSS dokumentiert werden, welche Benutzerkennungen, angelegte Benutzergruppen und Rechteprofile zugelassen und angelegt wurden.
 
 #### ORP.4.A4
+_Geändert:_\
+~~Es MÜSSEN die für den IT-Einsatz relevanten Aufgaben und Funktionen definiert werden. Auch MUSS festgelegt werden, welche Aufgaben und Funktionen nicht miteinander vereinbar sind. Diese Trennungen MÜSSEN umgesetzt werden. Sie SOLLTEN dokumentiert werden.~~\
+_zu:_\
+Die von der Institution definierten unvereinbaren Aufgaben und Funktionen (siehe Baustein ORP.1 Organisation) MÜSSEN durch das Identitäts- und Berechtigungsmanagement getrennt werden.
 
 #### ORP.4.A5
+_Geändert:_\
+~~Es MUSS festgelegt werden, welche Zutrittsberechtigungen an welche Personen im Rahmen ihrer Funktion vergeben werden. Werden Zutrittsmittel wie Chipkarten verwendet, so MUSS die Ausgabe bzw. der Entzug dokumentiert werden.~~\
+_zu:_\
+Es MUSS festgelegt werden, welche Zutrittsberechtigungen an welche Personen im Rahmen ihrer Funktion vergeben bzw. ihnen entzogen werden.
+Die Ausgabe bzw. der Entzug von verwendeten Zutrittsmittel wie Chipkarten MUSS dokumentiert werden.
+Wenn Zutrittsmittel kompromittiert wurden, MÜSSEN sie ausgewechselt werden.
 
 #### ORP.4.A6
+_Ergänzt:_\
+Wenn Zugangsmittel kompromittiert wurden, MÜSSEN sie ausgewechselt werden.
 
 #### ORP.4.A7
+_Geändert:_\
+~~Werden Zugangsmittel wie Chipkarten verwendet, so MUSS die Ausgabe bzw. der Entzug dokumentiert werden. Die Zugriffsrechte SOLLTEN auf den korrekten Umgang mit den Zugangsmitteln geschult werden.~~\
+_zu:_\
+Werden im Rahmen der Zugriffskontrolle Chipkarten oder Token verwendet, so MUSS die Ausgabe bzw. der Entzug dokumentiert werden.
+Die Anwender SOLLTEN auf den korrekten Umgang mit Chipkarten oder Token geschult werden.
 
 #### ORP.4.A8
+_Geändert_:_\
+~~Die Institution MUSS den Passwortgebrauch verbindlich regeln. Dabei MUSS festgelegt werden, dass nur Passwörter mit ausreichender Länge und Komplexität verwendet werden. Die Passwörter SOLLTEN in angemessenen Zeitabständen geändert werden. Die Passwörter MÜSSEN sofort gewechselt, sobald sie unautorisierten Personen bekannt geworden sind oder der Verdacht darauf besteht. Passwörter MÜSSEN geheim gehalten werden. Standard-passwörter MÜSSEN durch ausreichend starke Passwörter ersetzt und vordefinierte Logins geändert werden. Es SOLLTE überprüft werden, dass die mögliche Passwortlänge auch im vollen Umfang von dem IT-System geprüft wird. Bei erfolglosen Anmeldeversuchen SOLLTE das System keinen Hinweis darauf geben, ob Passwort oder Benutzerkennung falsch sind.~~\
+_zu:_\
+Die Institution MUSS den Passwortgebrauch verbindlich regeln (siehe auch ORP.4.A22 Regelung zur Passwortqualität und ORP.4.A23 Regelung für Passwort-verarbeitende Anwendungen und IT-Systeme).
+Dabei MUSS geprüft werden, ob Passwörter als alleiniges Authentisierungsverfahren eingesetzt werden sollen, oder ob andere Authentisierungsmerkmale bzw. -verfahren zusätzlich zu oder anstelle von Passwörtern verwendet werden können.
+Passwörter DÜRFEN NICHT mehrfach verwendet werden.
+Für jedes IT-System bzw. jede Anwendung MUSS ein eigenständiges Passwort verwendet werden.
+Passwörter, die leicht zu erraten sind oder in gängigen Passwortlisten geführt werden, DÜRFEN NICHT verwendet werden.
+Passwörter MÜSSEN geheim gehalten werden.
+Sie DÜRFEN NUR dem Benutzer persönlich bekannt sein.
+Passwörter DÜRFEN NUR unbeobachtet eingegeben werden.
+Passwörter DÜRFEN NICHT auf programmierbaren Funktionstasten von Tastaturen oder Mäusen gespeichert werden.
+Ein Passwort DARF NUR für eine Hinterlegung für einen Notfall schriftlich fixiert werden.
+Es MUSS dann sicher aufbewahrt werden.
+Die Nutzung eines Passwort-Managers SOLLTE geprüft werden.
+Ein Passwort MUSS gewechselt werden, wenn es unautorisierten Personen bekannt geworden ist oder der Verdacht dazu besteht.
 
 #### ORP.4.A9
+_Geändert:_\
+~~Vorkonfigurierte Zugangsmittel MÜSSEN vor dem produktiven Einsatz geändert werden.~~\
+_zu:_\
+Vorkonfigurierte Authentisierungsmittel MÜSSEN vor dem produktiven Einsatz geändert werden.
+
+#### NEU:ORP.4.A22
+ORP.4.A22 Regelung zur Passwortqualität [IT-Betrieb] (B)
+In Abhängigkeit von Einsatzzweck und Schutzbedarf MÜSSEN sichere Passwörter geeigneter Qualität gewählt werden.
+Das Passwort MUSS so komplex sein, dass es nicht leicht zu erraten ist.
+Das Passwort DARF NICHT zu kompliziert sein, damit der Benutzer in der Lage ist, das Passwort mit vertretbarem Aufwand regelmäßig zu verwenden.
+
+#### NEU: ORP.4.A.23
+ORP.4.A23 Regelung für Passwort-verarbeitende Anwendungen und IT-Systeme [IT-Betrieb] (B)
+IT-Systeme oder Anwendungen SOLLTEN NUR mit einem validen Grund zum Wechsel des Passworts auffordern.
+Reine zeitgesteuerte Wechsel SOLLTEN vermieden werden.
+Es MÜSSEN Maßnahmen ergriffen werden, um die Kompromittierung von Passwörtern zu erkennen.
+Ist dies nicht möglich, so SOLLTE geprüft werden, ob die Nachteile eines zeitgesteuerten Passwortwechsels in Kauf genommen werden können und Passwörter in gewissen Abständen gewechselt werden.
+Standardpasswörter MÜSSEN durch ausreichend starke Passwörter ersetzt und vordefinierte Kennungen MÜSSEN geändert werden.
+Es SOLLTE überprüft werden, dass die mögliche Passwortlänge auch im vollen Umfang von verarbeitenden IT-Systemen geprüft wird.
+Nach einem Passwortwechsel DÜRFEN alte Passwörter NICHT mehr genutzt werden.
+Passwörter MÜSSEN so sicher wie möglich gespeichert werden.
+Bei der Authentisierung in vernetzten Systemen DÜRFEN Passwörter NICHT unverschlüsselt über unsichere Netze übertragen werden.
+Wenn Passwörter in einem Intranet übertragen werden, SOLLTEN sie verschlüsselt werden.
+Bei erfolglosen Anmeldeversuchen SOLLTE das System keinen Hinweis darauf geben, ob Passwort oder Benutzerkennung falsch sind.
+
+### Standard-Anforderungen
 
 #### ORP.4.A10
 
@@ -375,14 +448,6 @@ Besonders exponierte Personen
 #### ORP.4.A20
 
 #### ORP.4.A21
-
-
-
-
-
-
-
-
 
 
 ////////////////
