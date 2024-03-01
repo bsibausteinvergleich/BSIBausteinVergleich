@@ -458,15 +458,34 @@ ORP.4.A16 Richtlinien für die Zugriffs- und Zugangskontrolle [IT-Betrieb] (S)
 _Geändert:_ ~~"Netze"~~ _zu:_ "Datennetze"
 
 #### ORP.4.A17
+_Geändert:_\
+~~Das ausgewählte Identitäts- und Berechtigungsmanagement-System SOLLTE den Grundsatz der Funktionstrennung realisieren können.~~\
+_zu:_\
+Das ausgewählte Identitäts- und Berechtigungsmanagement-System SOLLTE den Grundsatz der Funktionstrennung unterstützen.
 
 #### ORP.4.A18
+_Geändert:_\
+~~ORP.4.A18 Einsatz eines zentralen Authentifizierungsdienstes [Leiter IT]~~\
+_zu:_\
+ORP.4.A18 Einsatz eines zentralen Authentisierungsdienstes [IT-Betrieb] (S)
 
 #### ORP.4.A19
+Keine inhaltlichen Änderungen
+
+### Anforderungen bei erhöhtem Schutzbedarf
 
 #### ORP.4.A20
+_Geändert:_\
+~~Für Notfälle SOLLTE ein Berechtigungskonzept vorhanden sein und es SOLLTEN Notfallberechtigungen existieren.~~\
+_zu:_\
+Es SOLLTEN Vorkehrungen getroffen werden, um bei einem ausgefallenen Identitäts- und Berechtigungsmanagement-System weiterhin arbeitsfähig zu sein.
+Insbesondere SOLLTE das im Notfallkonzept vorgesehene Berechtigungskonzept weiterhin anwendbar sein, wenn das Identitäts- und Berechtigungsmanagement-System ausgefallen ist.
 
 #### ORP.4.A21
-
+_Ersetzt:_\
+~~"Zwei- oder Mehr-Faktor-Authentisierung"~~\
+_durch:_\
+"Mehr-Faktor-Authentisierung"
 
 ////////////////
 Formatierungshilfen:
