@@ -403,7 +403,7 @@ _Geändert:_\
 _zu:_\
 Vorkonfigurierte Authentisierungsmittel MÜSSEN vor dem produktiven Einsatz geändert werden.
 
-#### NEU:ORP.4.A22
+#### NEU: ORP.4.A22
 ORP.4.A22 Regelung zur Passwortqualität [IT-Betrieb] (B)
 In Abhängigkeit von Einsatzzweck und Schutzbedarf MÜSSEN sichere Passwörter geeigneter Qualität gewählt werden.
 Das Passwort MUSS so komplex sein, dass es nicht leicht zu erraten ist.
