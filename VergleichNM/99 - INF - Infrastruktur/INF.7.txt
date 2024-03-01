@@ -1,0 +1,53 @@
+3.1 Basis-Anforderungen
+
+
+INF.7.A1 Geeignete Auswahl und Nutzung eines Büroraumes [Mitarbeiter, Vorgesetzte]
+Es DÜRFEN NUR geeignete Räume als Büroraume genutzt werden.
+Auch MÜSSEN die Büroräume für den Schutzbedarf bzw. das Schutzniveau der dort verarbeiteten Informationen angemessen ausgewählt und ausgestattet sein.
+So MÜSSEN Büroräume mit Publikumsverkehr in nicht sicherheitsrelevanten Bereichen liegen.
+Für den Arbeitsplatz und für die Einrichtung eines Büroraumes MUSS die Arbeitsstättenverordnung umgesetzt werden.
+
+INF.7.A2 Geschlossene Fenster und abgeschlossene Türen [Mitarbeiter]
+Wenn Mitarbeiter ihre Büroräume verlassen, MÜSSEN alle Fenster geschlossen werden.
+Befinden sich vertrauliche Informationen in dem Büroraum, SOLLTEN beim Verlassen die Türen abgeschlossen werden.
+Dies SOLLTE insbesondere in Bereichen mit Publikumsverkehr beachtet werden.
+Die entsprechenden Vorgaben SOLLTEN in einer geeigneten Anweisung festgehalten werden.
+Alle Mitarbeiter SOLLTEN dazu verpflichtet werden, die Anweisung umzusetzen.
+Zusätzlich MUSS regelmäßig geprüft werden, ob beim Verlassen die Fenster geschlossen und, wenn notwendig, die Türen abgeschlossen werden.
+Ebenso MUSS darauf geachtet werden, dass Brand- und Rauchschutztüren tatsächlich geschlossen werden.
+
+
+3.2 Standard-Anforderungen
+
+INF.7.A3 Fliegende Verkabelung
+Die Stromanschlüsse und Zugänge zum Datennetz im Büroraum SOLLTEN sich in der Nähe des Ortes befinden, wo die IT-Geräte aufgestellt sind.
+Verkabelungen, die über den Boden verlaufen, SOLLTEN mit einem Kabelschacht abgedeckt werden.
+
+INF.7.A4 Zutrittsregelungen und -kontrolle
+Es SOLLTE gewährleistet werden, dass Unberechtigte die Büroräume nicht betreten können.
+Dafür SOLLTE ein Sicherheitskonzept erstellt und umgesetzt werden.
+Zudem SOLLTE regelmäßig überprüft werden, ob die ergriffenen Maßnahmen wirksam sind.
+
+INF.7.A5 Ergonomischer Arbeitsplatz [Leiter Haustechnik]
+Die Arbeitsplätze aller Mitarbeiter SOLLTEN ergonomisch eingerichtet sein.
+Vor allem die Bildschirme SOLLTEN so aufgestellt werden, dass ein ergonomisches und ungestörtes Arbeiten möglich ist.
+Dabei SOLLTE beachtet werden, dass Bildschirme nicht durch Unbefugte eingesehen werden können.
+Die Bildschirmarbeitsschutzverordnung (BildscharbV) SOLLTE umgesetzt werden.
+Alle Arbeitsplätze SOLLTEN für eine möglichst fehlerfreie Bedienung der IT individuell verstellbar sein.
+
+INF.7.A6 Aufgeräumter Arbeitsplatz [Mitarbeiter]
+Jeder Mitarbeiter SOLLTE dazu angehalten werden, seinen Arbeitsplatz aufgeräumt zu hinterlassen.
+Benutzer SOLLTEN dafür sorgen, dass Unbefugte keinen Zugang zu IT-Anwendungen erhalten oder vertrauliche Informationen einsehen können.
+Alle Mitarbeiter SOLLTEN sorgfältig ihre Arbeitsplätze überprüfen und sicherstellen, dass keine vertraulichen Informationen frei zugänglich sind.
+Vorgesetzte SOLLTEN sporadisch Arbeitsplätze daraufhin überprüfen, ob dort schutzbedürftige Informationen offen zugreifbar sind.
+
+INF.7.A7 Geeignete Aufbewahrung dienstlicher Unterlagen und Datenträger [Mitarbeiter, Leiter Haustechnik]
+Die Mitarbeiter SOLLTEN angewiesen werden, vertrauliche Dokumente und Datenträger verschlossen aufzubewahren, wenn sie nicht verwendet werden.
+Dafür SOLLTEN geeignete Behältnisse in den Büroräumen oder in deren Umfeld aufgestellt werden.
+
+
+3.3 Anforderungen bei erhöhtem Schutzbedarf
+
+INF.7.A8 Einsatz von Diebstahlsicherungen [Mitarbeiter, Leiter IT] (CIA)
+Wenn der Zutritt zu den Räumen nicht geeignet beschränkt werden kann, SOLLTEN für alle IT-Systeme Diebstahlsicherungen eingesetzt werden.
+In Bereichen mit Publikumsverkehr SOLLTEN generell Diebstahlsicherungen benutzt werden.
