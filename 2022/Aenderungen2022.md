@@ -110,7 +110,8 @@ Entfallen
 
 #### CON.3.A4
 
-##### Geändert:
+<details>
+<summary>Geändert:</summary>
 
 CON.3.A4 Erstellung von Datensicherungsplänen [IT-Betrieb] (B)
 
@@ -119,20 +120,22 @@ Der IT-Betrieb MUSS Datensicherungspläne je IT-System oder Gruppe von IT-System
 Diese MÜSSEN festlegen, welche Anforderungen für die Datensicherung mindestens einzuhalten sind.
 
 Die Datensicherungpläne MÜSSEN mindestens eine kurze Beschreibung dazu enthalten:
+</details>
 
-
-##### Hinzugefügt:
+<details>  
+<summary>Hinzugefügt:</summary>
 
 • in welcher Reihenfolge IT-System und Anwendungen wiederhergestellt werden,
 
 • wie lange Datensicherungen aufbewahrt werden,
 
 • wie die Datensicherungen vor unbefugtem Zugriff und Überschreiben gesichert werden,
-
+</details>
 
 #### CON.3.A5
 
-##### Geändert:
+<details>
+  <summary>XGeändert:V
 
 CON.3.A5 Regelmäßige Datensicherung [IT-Betrieb, Mitarbeiter] (B)
 
@@ -141,11 +144,12 @@ Regelmäßige Datensicherungen MÜSSEN gemäß den Datensicherungsplänen erstel
 Alle Mitarbeiter MÜSSEN über die Regelungen zur Datensicherung informiert sein.
 
 Auch MÜSSEN sie darüber informiert werden, welche Aufgaben sie bei der Erstellung von Datensicherungen haben.
-
+</details>
 
 #### CON.3.A12 ist jetzt Basis-Anforderung anstatt Standard-Anforderung
 
-##### Geändert:
+<details> 
+  <summary>Geändert:</summary>
 
 CON.3.A12 Sichere Aufbewahrung der Speichermedien für die Datensicherungen [IT-Betrieb] (B)
 
@@ -154,7 +158,7 @@ Die Speichermedien für die Datensicherung MÜSSEN räumlich getrennt von den ge
 Sie SOLLTEN in einem anderen Brandabschnitt aufbewahrt werden.
 
 Der Aufbewahrungsort SOLLTE so klimatisiert sein, dass die Datenträger entsprechend der zeitlichen Vorgaben des Datensicherungskonzepts aufbewahrt werden können.
-
+</details>
 
 
 ### CON.6
@@ -206,43 +210,49 @@ Keine inhaltlichen Änderungen.
 
 #### OPS 1.1.5.A6
 
-##### Geändert:
+<details> 
+  <summary>Geändert:</summary>
 
 Alle gesammelten sicherheitsrelevanten Protokollierungsdaten SOLLTEN an einer zentralen Stelle gespeichert werden.
-
+</details>
 
 ### OPS 1.1.6.
 
 #### OPS 1.1.6.A11
 
-##### Geändert:
+<details> 
+  <summary>Geändert:</summary>
 
 OPS.1.1.6.A11 Verwendung von anonymisierten oder pseudonymisierten Testdaten [Datenschutzbeauftragter,Tester] (B)
 
 Wenn Produktivdaten für Software-Tests verwendet werden, die schützenswerte Informationen enthalten, dann MÜSSEN diese Testdaten angemessen geschützt werden.
 
 Enthalten diese Daten personenbezogene Informationen, dann MÜSSEN diese Daten mindestens pseudonymisiert werden.
+</details>
 
-##### Hinzugefügt:
+<details>
+  <summary>Hinzugefügt:</summary>
 
 Falls möglich, SOLLTEN die Testdaten mit Personenbezug vollständig anonymisiert werden.
-
+</details>
 
 #### OPS 1.1.6.A6
 
-##### Geändert:
+<details>
+  <summary>Geändert:</summary>
 
 Die Software-Tester SOLLTEN über die durchzuführenden Testarten und die zu testenden Bereiche einer Software vom Fachverantwortlichen informiert werden.
-
+</details>
 
 #### OPS 1.1.6.A7
 
-##### Geändert:
+<details> 
+  <summary>Geändert:</summary>
 
 Wird Individualsoftware auf Quellcode-Ebene überprüft, dann SOLLTEN die Tester über ausreichendes Fachwissen über die zu testenden Programmiersprache und die Entwicklungsumgebung verfügen.
 
 Der Quellcode SOLLTE NICHT ausschließlich von Testern überprüft werden, die auch an der Erstellung des Quellcodes beteiligt waren.
-
+</details>
 
 ### OPS 1.1.7 Der Baustein wurde neu hinzugefügt.
 
