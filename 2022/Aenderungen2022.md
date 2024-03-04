@@ -215,6 +215,13 @@ Keine inhaltlichen Änderungen.
 
 ### OPS 1.1.5
 
+<details> 
+  <summary>
+
+   ##### Änderungen
+    
+  </summary>
+
 #### OPS 1.1.5.A6
 
 <details> 
@@ -223,7 +230,16 @@ Keine inhaltlichen Änderungen.
 Alle gesammelten sicherheitsrelevanten Protokollierungsdaten SOLLTEN an einer zentralen Stelle gespeichert werden.
 </details>
 
+</details>
+
 ### OPS 1.1.6.
+
+<details> 
+  <summary>
+
+   ##### Änderungen
+    
+  </summary>
 
 #### OPS 1.1.6.A11
 
@@ -261,6 +277,8 @@ Wird Individualsoftware auf Quellcode-Ebene überprüft, dann SOLLTEN die Tester
 Der Quellcode SOLLTE NICHT ausschließlich von Testern überprüft werden, die auch an der Erstellung des Quellcodes beteiligt waren.
 </details>
 
+</details>
+
 ### OPS 1.1.7 Der Baustein wurde neu hinzugefügt.
 
 
@@ -275,6 +293,13 @@ Keine inhaltlichen Änderungen.
 
 
 ### OPS 1.2.5
+
+<details> 
+  <summary>
+
+   ##### Änderungen
+    
+  </summary>
 
 #### OPS 1.2.5.A2
 
@@ -310,6 +335,8 @@ Der Zugriff auf Sprungserver SOLLTE nur von vertrauenswürdigen IT-Systemen aus 
   <summary>Hinzugefügt:</summary>
 
 Die Netzkommunikation der Administrationssysteme SOLLTE so eingeschränkt werden, dass nur Verbindungen zu IT-Systemen möglich sind, die administriert werden sollen.
+</details>
+
 </details>
 
 ### OPS 1.2.6
@@ -374,6 +401,13 @@ Keine Inhaltlichen Änderungen
 
 
 ### APP 3.1
+
+<details> 
+  <summary>
+
+   ##### Änderungen
+    
+  </summary>
 
 #### APP 3.1.A1
 
@@ -479,6 +513,8 @@ Die Konfiguration der eingesetzten WAF SOLLTE auf die zu schützende Webanwendun
 Nach jedem Update der Webanwendung oder des Webservices SOLLTE die Konfiguration der WAF geprüft werden.
 </details>
 
+</details>
+
 ### APP 3.2
 
 Keine inhaltlichen Veränderungen.
@@ -491,14 +527,22 @@ Keine inhaltlichen Veränderungen.
 
 ### APP 3.4
 
+<details> 
+  <summary>
+
+   ##### Änderungen
+    
+  </summary>
+
 #### APP 3.4.A1
 
-<details> 
-  <summary>Geändert:</summary>
+##### Geändert:
 
 Soll IPv6 unter Samba eingesetzt werden, MUSS auch dies sorgfältig geplant werden.
 
 Zudem MUSS in einer betriebsnahen Testumgebung überprüft werden, ob die Integration fehlerfrei funktioniert.
+
+
 </details>
 
 ### APP 3.6
@@ -513,16 +557,23 @@ Keine inhaltlichen Veränderungen.
 
 ### APP 4.3
 
+<details> 
+  <summary>
+
+   ##### Änderungen
+    
+  </summary>
+
 #### APP 4.3.A25
 
-<details> 
-  <summary>Geändert:</summary>
+##### Geändert:
 
 APP.4.3.A25 Sicherheitsprüfungen von Datenbanksystemen (H)
 
 Datenbanksysteme SOLLTEN regelmäßig mithilfe von Sicherheitsprüfungen kontrolliert werden.
 
 Bei den Sicherheitsprüfungen SOLLTEN die systemischen und herstellerspezifischen Aspekte der eingesetzten Datenbank-Infrastruktur (z. B. Verzeichnisdienste) sowie des eingesetzten Datenbankmanagementsystems betrachtet werden.
+
 </details>
 
 ### APP 4.4
@@ -547,10 +598,16 @@ Keine inhaltlichen Änderungen
 
 ### APP 6
 
+<details> 
+  <summary>
+
+   ##### Änderungen
+    
+  </summary>
+
 #### APP 6.A8
 
-<details> 
-  <summary>Geändert:</summary>
+##### Geändert:
 
 Hierzu SOLLTE der IT-Betrieb
 
@@ -561,6 +618,7 @@ Hierzu SOLLTEN die Konfigurationsdateien gesichert werden.
 Alternativ SOLLTE geeignet dokumentiert werden, wie die Software konfiguriert wird.
 
 Diese Regelung SOLLTE in das Datensicherungskonzept der Institution integriert werden.
+
 </details>
 
 ### APP 7
@@ -576,6 +634,13 @@ Keine inhaltlichen Änderungen
 
 
 ### SYS 1.1
+
+<details> 
+  <summary>
+
+   ##### Änderungen
+    
+  </summary>
 
 #### SYS 1.1.A1
 
@@ -620,7 +685,7 @@ Nicht benötigtes Schlüsselmaterial SOLLTE entfernt werden.
 
 Anforderung ist neu hingefüt.
 
-
+</details>
 
 ### SYS 1.2.2
 
@@ -634,12 +699,19 @@ Keine inhaltlichen Änderungen.
 
 ### SYS 1.5
 
+<details> 
+  <summary>
+
+   ##### Änderungen
+    
+  </summary>
+
 #### SYS 1.5.A17
 
-<details> 
-  <summary>Inhalte entfallen:</summary>
+##### Inhalte entfallen:
 
 *Auch SOLLTE überwacht werden, ob die virtuellen Netze den jeweiligen virtuellen IT-Systemen korrekt zugeordnet sind.*
+
 </details>
 
 ### SYS 1.6
@@ -650,6 +722,13 @@ Baustein komplett neu hinzugefügt.
 ### SYS 1.7
 
 In den Anforderungen des Bausteins wird anstatt von MVS- , von z/OS- gesprochen.
+
+<details> 
+  <summary>
+
+   ##### Änderungen
+    
+  </summary>
 
 #### SYS 1.7.A1
 
@@ -696,7 +775,7 @@ SDSF (System Display and Search Facility) und ähnliche Funktionen sowie die Pri
 
 Passwörter von realen Usern und Guest-Usern SOLLTEN mittels RACF für z/VM verschlüsselt werden.
 </details>
-
+</details>details>
 
 ### SYS 1.8
 
@@ -704,6 +783,13 @@ Keine inhaltlichen Veränderungen.
 
 
 ### SYS 2.1
+
+<details> 
+  <summary>
+
+   ##### Änderungen
+    
+  </summary>
 
 #### SYS 2.1.A34
 
@@ -739,6 +825,7 @@ Es SOLLTE über eine Ausführungskontrolle sichergestellt werden, dass nur expli
 
 *Dabei SOLLTEN insbesondere sicherheitskritische Anwendungen berücksichtigt werden, die mit Daten aus unsicheren Quellen arbeiten (z.B. Webbrowser und Bürokommunikations-Anwendungen).*
 </details>
+</details>
 
 ### SYS 2.2.2
 
@@ -746,6 +833,13 @@ Keine inhaltlichen Änderungen.
 
 
 ### SYS 2.2.3
+
+<details> 
+  <summary>
+
+   ##### Änderungen
+    
+  </summary>
 
 #### SYS 2.2.3.A4
 
@@ -779,6 +873,7 @@ Sofern nicht gleich- oder höherwertige Maßnahmen, wie z. B. Ausführungskontro
 *Ist dies nicht möglich, SOLLTE der Schutz des Local Credential Store LSA aktiviert werden (PPL, Protected Mode Light).*
 
 *Die Netzanmeldung von lokalen Konten SOLLTE verboten werden.*
+</details>
 </details>
 
 ### SYS 2.3
@@ -875,10 +970,16 @@ Keine inhaltlichen Änderungen.
 
 ### INF 2
 
+<details> 
+  <summary>
+
+   ##### Änderungen
+    
+  </summary>
+
 #### INF 2.A23
 
-<details> 
-  <summary>Geändert:</summary>
+##### Geändert:
 
 Trassen SOLLTEN hinsichtlich Anordnung und Dimensionierung so ausgelegt sein, dass eine Trennung der Spannungsebenen sowie eine sinnvolle Verteilung von Kabeln auf den Trassen möglich sind und dass auch für zukünftige Bedarfsmehrung ausreichend Platz zur Verfügung steht.
 </details>
