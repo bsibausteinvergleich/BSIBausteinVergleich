@@ -91,8 +91,7 @@ CON.1.A13 Anforderungen an die Betriebssystem-Sicherheit beim Einsatz von Krypto
 Das Zusammenwirken von Betriebssystem und Kryptomodulen SOLLTE gewährleisten, dass
 • die installierten Kryptomodule nicht unbemerkt abgeschaltet oder umgangen werden können,
 • die angewendeten oder gespeicherten Schlüssel nicht kompromittiert werden können,
-• die zu schützenden Daten nur mit Wissen und unter Kontrolle des Benutzers auch unverschlüsselt auf Datenträ-
-gern abgespeichert werden bzw. das informationsverarbeitende System verlassen können und
+• die zu schützenden Daten nur mit Wissen und unter Kontrolle des Benutzers auch unverschlüsselt auf Datenträgern abgespeichert werden bzw. das informationsverarbeitende System verlassen können und
 • Manipulationsversuche am Kryptomodul erkannt werden.
 
 CON.1.A14 Schulung von Benutzern und Administratoren [Vorgesetzte, Fachverantwortliche, Leiter IT] (H)
