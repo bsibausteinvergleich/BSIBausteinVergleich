@@ -56,8 +56,16 @@ Keine inhaltlichen Änderungen.
 
 ### Änderungen CON.3
 
-#### CON.3.A1
+<details>
+<summary>
+  
+#### CON.3
+  
+##### Geändert
 
+</summary>
+
+#### CON.3.A1
 <details>
 <summary>Geändert:</summary>
 
@@ -160,6 +168,7 @@ Sie SOLLTEN in einem anderen Brandabschnitt aufbewahrt werden.
 Der Aufbewahrungsort SOLLTE so klimatisiert sein, dass die Datenträger entsprechend der zeitlichen Vorgaben des Datensicherungskonzepts aufbewahrt werden können.
 </details>
 
+</details>
 
 ### CON.6
 
