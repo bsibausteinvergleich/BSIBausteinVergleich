@@ -796,28 +796,28 @@ Um die Vertraulichkeit und Integrität der gesicherten Daten zu gewährleisten, 
 #### CON.4.A1
 _Geändert:_\
 ~~Bei der Installation von Standardsoftware MUSS sichergestellt werden, dass es sich dabei um ein originales unverändertes Softwareprogramm handelt.
-
 Dazu MUSS es entweder von Originaldatenträgern oder von geprüften identischen Kopien des originalen Installationsprogramms installiert werden.
-
 Der Zugriff auf die Installationsroutinen MUSS auf berechtigte Mitarbeiter eingeschränkt werden.
-
 Die Originaldatenträger oder das Installationsprogramm MÜSSEN auf Schadsoftware überprüft werden.
-
 Von den Installationsdateien SOLLTEN Sicherungskopien angelegt und geprüft werden.~~\
 _zu:_\
 Bei der Installation von Standardsoftware MUSS sichergestellt werden, dass es sich dabei um ein originales unverändertes Softwareprogramm handelt.
-
 Dazu MUSS es entweder von Originaldatenträgern oder von geprüften identischen Kopien des originalen Installationsprogramms installiert werden.
-
 Der Zugriff auf die Installationsroutinen MUSS auf berechtigte Mitarbeiter eingeschränkt werden.
-
 Die Originaldatenträger oder das Installationsprogramm MÜSSEN auf Schadsoftware überprüft werden.
-
 Von den Installationsdateien SOLLTEN Sicherungskopien angelegt und geprüft werden.
 
 #### CON.4.A2
+_Geändert:_\
+~~Für die ausgewählte Standardsoftware MUSS eine Installationsanweisung erstellt werden.~~\
+_zu:_\
+Für jede ausgewählte Standardsoftware MUSS eine Installationsanweisung erstellt werden.
 
 #### CON.4.A3
+_Geändert:_\
+~~Freigegebene Standardsoftware MUSS so installiert und konfiguriert werden, dass dabei die entsprechenden Installationsanweisungen (siehe CON.4.A2 Entwicklung der Installationsanweisungen für Standardsoftware) eingehalten werden.~~\
+_zu:_\
+Freigegebene Standardsoftware MUSS so installiert und konfiguriert werden, dass dabei die entsprechenden Installationsanweisungen eingehalten werden.
 
 #### CON.4.A4
 
