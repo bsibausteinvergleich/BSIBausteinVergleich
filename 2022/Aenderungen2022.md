@@ -58,7 +58,7 @@ Keine inhaltlichen Änderungen.
 
 #### CON.3.A1
 <details>
-<summary>##### Geändert:</summary>
+#####<summary>Geändert:</summary>
 
 Dazu MÜSSEN die Fachverantwortlichen für die Anwendungen ihre Anforderungen an die Datensicherung definieren.
 
