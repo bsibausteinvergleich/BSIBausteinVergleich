@@ -571,10 +571,16 @@ Der IT-Betrieb MUSS sicherstellen, dass auf verschlüsselt gespeicherte Daten au
 ### Standard-Anforderungen
 
 #### CON.1.A3
+_Keine inhaltlichen Änderungen._
 
 #### CON.1.A4
+_Geändert:_\
+~~CON.1.A4 Geeignetes Schlüsselmanagement [IT-Betrieb, Fachverantwortliche]~~\
+_zu:_\
+CON.1.A4 Geeignetes Schlüsselmanagement (S)
 
 #### CON.1.A5
+_Entfallen:_ Auf Produkte mit unkontrollierbarer Schlüsselablage SOLLTE generell verzichtet werden.
 
 #### CON.1.A6
 
