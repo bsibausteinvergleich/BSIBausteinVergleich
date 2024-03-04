@@ -494,8 +494,18 @@ _durch:_\
 ### Basis-Anforderungen
 
 #### ORP.5.A1
+"Sicherheitsmanagement" _ersetzt durch_ "Informationssicherheitsmanagement"
 
 #### ORP.5.A2
+_Geändert:_\
+~~Führungskräfte, welche die rechtliche Verantwortung für die Institution vor Ort tragen (...)~~\
+_zu:_\
+Führungskräfte, die eine rechtliche Verantwortung für die Institution tragen (...)
+
+_Geändert:_\
+~~Wenn Verstöße gegen relevante Anforderungen erkannt werden, MÜSSEN sachgerechte Korrekturmaßnahmen ergriffen werden, um die Abweichungen zu beheben.~~\
+_zu:_\
+Wenn solche Verstöße erkannt werden, MÜSSEN diese sachgerecht Korrekturmaßnahmen ergriffen werden, um die Abweichungen zu beheben.
 
 #### ORP.5.A3
 
