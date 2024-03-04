@@ -59,7 +59,7 @@ Keine inhaltlichen Änderungen.
 <details>
 <summary>
   
-##### Geändert
+##### Änderungen
 
 </summary>
 
