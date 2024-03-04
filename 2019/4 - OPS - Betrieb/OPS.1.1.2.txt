@@ -60,12 +60,9 @@ Zwischen den Verantwortlichen für die System- und Fachanwendungsadministration 
 Wenn administrativ in den Anwendungsbetrieb eingegriffen wird (z. B. Versionswechsel, Wartungsfenster), SOLLTE das im Vorfeld mit dem Fachbereich abgestimmt sein und die Bedürfnisse des Fachbereichs berücksichtigen.
 
 OPS.1.1.2.A9 Ausreichende Ressourcen für den IT-Betrieb
-Es SOLLTEN ausreichende Personal- und Sachressourcen bereitgestellt werden, um die anfallenden administrativen
-Aufgaben ordnungsgemäß zu bewältigen.
-Dabei SOLLTE berücksichtigt werden, dass auch für unvorhersehbare Tätigkeiten entsprechende Kapazitäten vorhanden sein müssen, insbesondere, um sicherheitsrelevante Ereignisse
-zu behandeln und aufzuklären.
-Die Ressourcenplanung SOLLTE in regelmäßigen Zyklen, z. B. jährlich, geprüft und den aktuellen Erfordernissen an-
-gepasst werden.
+Es SOLLTEN ausreichende Personal- und Sachressourcen bereitgestellt werden, um die anfallenden administrativen Aufgaben ordnungsgemäß zu bewältigen.
+Dabei SOLLTE berücksichtigt werden, dass auch für unvorhersehbare Tätigkeiten entsprechende Kapazitäten vorhanden sein müssen, insbesondere, um sicherheitsrelevante Ereignisse zu behandeln und aufzuklären.
+Die Ressourcenplanung SOLLTE in regelmäßigen Zyklen, z. B. jährlich, geprüft und den aktuellen Erfordernissen angepasst werden.
 
 OPS.1.1.2.A10 Fortbildung und Information [Leiter Personal]
 Für die eingesetzten Administratoren SOLLTEN geeignete Fort- und Weiterbildungsmaßnahmen ergriffen werden, damit sie immer auf dem aktuellen Stand der Technik sind.
@@ -96,8 +93,7 @@ Die Durchführung der Fernwartung SOLLTE ausreichend protokolliert werden.
 3.3 Anforderungen bei erhöhtem Schutzbedarf
 
 OPS.1.1.2.A14 Sicherheitsüberprüfung von Administratoren (CIA)
-Im Hochsicherheitsbereich SOLLTE eine zusätzliche Sicherheitsüberprüfung durchgeführt werden, um die Vertrau-
-enswürdigkeit von Mitarbeitern zu bestätigen.
+Im Hochsicherheitsbereich SOLLTE eine zusätzliche Sicherheitsüberprüfung durchgeführt werden, um die Vertrauenswürdigkeit von Mitarbeitern zu bestätigen.
 
 OPS.1.1.2.A15 Aufteilung von Administrationstätigkeiten (CI)
 Es SOLLTEN unterschiedliche Administrationsrollen für Teilaufgaben eingerichtet werden.
