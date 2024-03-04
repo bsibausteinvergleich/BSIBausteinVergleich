@@ -45,8 +45,8 @@ Angepasst, um der „SOLLTE“-Priorisierung zu entsprechen:\
 Es SOLLTE entschieden werden, ob das Sicherheitskonzept aus einem oder aus mehreren Teilkonzepten bestehen soll, die sukzessive erstellt werden, um zunächst in ausgewählten Bereichen das erforderliche Sicherheitsniveau herzustellen.
 
 #### ISMS.1.A11
-_Gestrichen:_\
-~~Die Leitungsebene SOLLTE regelmäßig über den Stand der Informationssicherheit informiert werden, vor allem über die aktuelle Gefährdungslage, Wirksamkeit und Effizienz des Sicherheitsprozesses um das weitere Vorgehen im Sicherheitsprozess steuern zu können.~~
+_Satzteil gestrichen:_\
+(Die Leitungsebene SOLLTE regelmäßig über den Stand der Informationssicherheit informiert werden, vor allem über die aktuelle Gefährdungslage, Wirksamkeit und Effizienz des Sicherheitsprozesses) ~~um das weitere Vorgehen im Sicherheitsprozess steuern zu können.~~
 
 #### ISMS.1.A12
 Keine inhaltlichen Änderungen.

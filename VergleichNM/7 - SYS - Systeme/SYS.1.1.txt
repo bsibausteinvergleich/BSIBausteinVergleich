@@ -1,209 +1,85 @@
 3.1 Basis-Anforderungen
 
+ORP.2.A1 Geregelte Einarbeitung neuer Mitarbeiter [Vorgesetzte] (B)
+Die Personalabteilung sowie die Vorgesetzten MÜSSEN dafür sorgen, dass neue Mitarbeiter zu Beginn ihrer Beschäftigung in ihre neuen Aufgaben eingearbeitet werden.
+Sie MÜSSEN über bestehende Regelungen, Handlungsanweisungen und Verfahrensweisen informiert werden.
+Eine Checkliste kann hierbei hilfreich sein und SOLLTE etabliert werden.
+Alle Mitarbeiter MÜSSEN über Regelungen zur Informationssicherheit und ihre spezifischen Auswirkungen auf einen Geschäftsprozess oder auf das jeweilige Arbeitsumfeld unterrichtet werden.
+Mitarbeiter MÜSSEN kontinuierlich über neue Regelungen informiert werden.
+Alle Mitarbeiter MÜSSEN dazu verpflichtet werden, einschlägige Gesetze, Vorschriften und interne Regelungen einzuhalten.
+Außerdem MÜSSEN alle Mitarbeiter darauf hingewiesen werden, dass alle während der Arbeit erhaltenen Informationen ausschließlich zum internen Gebrauch bestimmt sind, solange sie nicht anders gekennzeichnet sind.
 
+ORP.2.A2 Geregelte Verfahrensweise beim Weggang von Mitarbeitern [Vorgesetzte, IT-Betrieb] (B)
+Verlässt ein Mitarbeiter die Institution, MUSS eine rechtzeitige Einweisung des Nachfolgers gewährleistet werden.
+Dies SOLLTE idealerweise durch den ausscheidenden Mitarbeiter erfolgen.
+Ist eine direkte Übergabe nicht möglich, MUSS vom ausscheidenden Mitarbeiter eine ausführliche Dokumentation angefertigt werden.
+Außerdem MÜSSEN von ausscheidenden Mitarbeitern alle im Rahmen ihrer Tätigkeit erhaltenen Unterlagen, Schlüssel und Geräte sowie Ausweise und Zutrittsberechtigungen eingezogen werden.
+Vor der Verabschiedung MUSS noch einmal auf Verschwiegenheitsverpflichtungen hingewiesen werden.
+Weiterhin MÜSSEN Notfall- und andere Ablaufpläne aktualisiert werden.
+Alle betroffenen Stellen innerhalb der Institution, wie z. B. das Sicherheitspersonal oder die IT-Abteilung, MÜSSEN über das Ausscheiden des Mitarbeiters informiert werden.
+Um alle damit verbundenen Aufgaben zu erledigen, SOLLTE auch hier eine Checkliste angelegt werden.
 
-SYS.1.1.A1 Geeignete Aufstellung [Haustechnik]
-Server MÜSSEN an Orten betrieben werden, zu denen nur berechtigte Personen Zutritt haben.
-Server MÜSSEN daher in Rechenzentren, Rechnerräumen oder abschließbaren Serverschränken aufgestellt beziehungsweise eingebaut werden, siehe hierzu die entsprechenden Bausteine.
-Es MUSS geregelt werden, wer Zutritt zu den Räumen beziehungsweise physischen Zugang auf die Server selbst erhält.
-Server DÜRFEN NICHT als Arbeitsplatzrechner genutzt werden.
-Es MUSS gewährleistet werden, dass nur dafür vorgesehene Wechselspeicher und sonstige Geräte an die Server angeschlossen werden können.
-Es MUSS auf eine geeignete räumliche Trennung der Systeme, die gesichert werden sollen, von den sichernden Systemen, etwa Backup-Servern in unterschiedlichen Brandabschnitten, geachtet werden, um die Auswirkungen bei einem physischen Schaden zu begrenzen.
+ORP.2.A3 Festlegung von Vertretungsregelungen [Vorgesetzte] (B)
+Die Vorgesetzten MÜSSEN dafür sorgen, dass im laufenden Betrieb Vertretungsregelungen umgesetzt werden.
+Dafür MUSS sichergestellt werden, dass es für alle wesentlichen Geschäftsprozesse und Aufgaben praktikable Vertretungsregelungen gibt.
+Bei diesen Regelungen MUSS der Aufgabenumfang der Vertretung im Vorfeld klar definiert werden.
+Es MUSS sichergestellt werden, dass die Vertretung über das dafür nötige Wissen verfügt.
+Ist dies nicht der Fall, MUSS überprüft werden, wie der Vertreter zu schulen ist oder ob es ausreicht, den aktuellen Verfahrens- oder Projektstand ausreichend zu dokumentieren.
+Ist es im Ausnahmefall nicht möglich für einzelne Mitarbeiter einen kompetenten Vertreter zu benennen oder zu schulen, MUSS frühzeitig entschieden werden, ob externes Personal dafür hinzugezogen werden kann.
 
-SYS.1.1.A2 Benutzerauthentisierung
-Um den Server zu nutzen, MÜSSEN sich die Benutzer gegenüber dem IT-System authentisieren.
-Sollen hierfür die Benutzer und Administratoren Passwörter verwenden, MÜSSEN sichere Passwörter benutzt werden.
-Hierfür SOLLTE es eine Passwort-Richtlinie geben.
-Diese Passwörter MÜSSEN komplex genug sein, geheim gehalten und regelmäßig gewechselt werden.
+ORP.2.A4 Festlegung von Regelungen für den Einsatz von Fremdpersonal (B)
+Wird externes Personal beschäftigt, MUSS dieses grundsätzlich wie alle eigenen Mitarbeiter dazu verpflichtet werden, geltende Gesetze, Vorschriften und interne Regelungen einzuhalten.
+Fremdpersonal, das kurzfristig oder einmalig eingesetzt wird, MUSS in sicherheitsrelevanten Bereichen beaufsichtigt werden.
+Bei längerfristig beschäftigtem Fremdpersonal MUSS dieses wie die eigenen Mitarbeiter in seine Aufgaben eingewiesen werden.
+Auch für diese Mitarbeiter MUSS eine Vertretungsregelung eingeführt werden.
+Verlässt das Fremdpersonal die Institution, MÜSSEN Arbeitsergebnisse wie bei eigenem Personal geregelt übergeben und eventuell ausgehändigte Zugangsberechtigungen zurückgegeben werden.
 
-SYS.1.1.A3 Restriktive Rechtevergabe
-Zugriffsrechte auf Dateien, die auf Servern gespeichert sind, MÜSSEN restriktiv vergeben werden.
-Jeder Benutzer DARF nur auf die Dateien Zugriffsrechte erhalten, die er für seine Aufgabenerfüllung benötigt.
-Das Zugriffsrecht selbst wiederum MUSS auf die notwendige Zugriffsart beschränkt sein, so ist es zum Beispiel in den seltensten Fällen notwendig, ein Schreibrecht auf Programmdateien zu vergeben.
-Es SOLLTE regelmäßig überprüft werden, ob die Berechtigungen, insbesondere für Systemverzeichnisse und -dateien, den Vorgaben der Sicherheitsrichtlinie entsprechen.
-Auf Systemdateien SOLLTEN möglichst nur die Systemadministratoren Zugriff haben.
-Der Kreis der zugriffsberechtigten Administratoren SOLLTE möglichst klein gehalten werden.
-Auch System-Verzeichnisse SOLLTEN nur die notwendigen Privilegien für die Benutzer zur Verfügung stellen.
-
-SYS.1.1.A4 Rollentrennung
-Es MUSS sichergestellt werden, dass Kennungen mit Administratorrechten nur für Administrationsaufgaben verwendet werden.
-Für alle Administratoren MÜSSEN zusätzliche Benutzer-Kennungen eingerichtet werden, die nur über die eingeschränkten Rechte verfügen, die die Administratoren zur Aufgabenerfüllung außerhalb der Administration benötigen.
-Für Arbeiten, die nicht der Administration dienen, MÜSSEN die Administratoren ausschließlich diese Benutzer-Kennungen verwenden.
-Über die notwendigen Benutzer-Kennungen hinaus SOLLTEN keine weiteren Benutzer auf dem Server angelegt werden.
-
-SYS.1.1.A5 Schutz der Administrationsschnittstellen
-Abhängig von der genutzten Zugangsart (lokal, remote oder zentrales Systemmanagement) MÜSSEN geeignete Sicherheitsvorkehrungen getroffen werden.
-Die zur Administration verwendeten Methoden MÜSSEN in der Sicherheitsrichtlinie festgelegt werden.
-Die Administration MUSS entsprechend der Sicherheitsrichtlinie durchgeführt werden.
-Für die Anmeldung von Benutzern und Diensten am System MÜSSEN Authentisierungsverfahren eingesetzt werden, die dem Schutzbedarf der Server angemessen sind.
-Dies SOLLTE in besonderem Maße für administrative Zugänge berücksichtigt werden.
-Soweit möglich, SOLLTE dabei auf zentrale, netzbasierte Authentisierungsdienste zurückgegriffen werden.
-Die Administration MUSS über sichere Protokolle erfolgen. Es SOLLTE überlegt werden, alternativ ein eigenes Administrationsnetz einzurichten.
-
-SYS.1.1.A6 Deaktivierung nicht benötigter Dienste und Kennungen
-Alle nicht benötigten Dienste und Anwendungen MÜSSEN von Servern deaktiviert oder deinstalliert werden, vor allem Netzdienste.
-Auch alle nicht benötigte Funktionen in der Firmware MÜSSEN deaktiviert werden.
-Nicht benötigte Benutzerkennungen MÜSSEN entweder gelöscht oder zumindest so deaktiviert werden, dass unter diesen Kennungen keine Anmeldungen am System möglich sind.
-Vorhandene Standard-Kennungen MÜSSEN soweit wie möglich geändert oder deaktiviert werden.
-Voreingestellte Passwörter von Standard-Kennungen MÜSSEN geändert werden.
-Auf Servern SOLLTE der Speicherplatz für die einzelnen Benutzer, aber auch für Anwendungen geeignet beschränkt werden.
-Die getroffenen Entscheidungen SOLLTEN so dokumentiert werden, dass nachvollzogen werden kann, welche Konfiguration und Softwareausstattung für die Server gewählt wurden.
-
-SYS.1.1.A7 Updates und Patches für Firmware, Betriebssystem und Anwendungen
-Administratoren MÜSSEN sich regelmäßig über bekannt gewordene Schwachstellen der Firmware, Betriebssysteme, eingesetzter Anwendungen und Dienste informieren.
-Die identifizierten Schwachstellen MÜSSEN so schnell wie möglich behoben werden, damit sie nicht durch Angreifer ausgenutzt werden können.
-Generell MUSS darauf geachtet werden, dass Patches und Updates nur aus vertrauenswürdigen Quellen bezogen werden.
-Solange keine entsprechenden Patches zur Verfügung stehen, MÜSSEN abhängig von der Schwere der Schwachstellen und Bedrohungen andere geeignete Maßnahmen zum Schutz des Systems getroffen werden.
-
-SYS.1.1.A8 Regelmäßige Datensicherung
-Datensicherungen MÜSSEN vor Installationen und umfangreichen Konfigurationsänderungen sowie außerdem in festgelegten Intervallen vorgenommen werden.
-Diese MÜSSEN es ermöglichen, die auf dem Server gespeicherten Daten wiederherzustellen.
-In virtuellen Umgebungen SOLLTE geprüft werden, ob die Systemsicherung unter Umständen durch Snapshot-Mechanismen der Virtualisierungsumgebung realisiert werden kann.
-
-SYS.1.1.A9 Einsatz von Viren-Schutzprogrammen
-In Abhängigkeit vom installierten Betriebssystem, dem bereitgestellten Dienst und von anderen vorhandenen Schutzmechanismen des Servers MUSS geprüft werden, ob Viren-Schutzprogramme eingesetzt werden sollen und können.
-Konkrete Aussagen, ob Viren-Schutz notwendig ist, sind in der Regel in den betriebssystemspezifischen Bausteinen des IT-Grundschutzes zu finden.
-Die entsprechenden Signaturen eines Viren-Schutzprogramms MÜSSEN regelmäßig aktualisiert werden.
-Neben Echtzeit- und On-Demand-Scans MUSS eine eingesetzte Lösung die Möglichkeit bieten, auch komprimierte Daten nach Schadprogrammen zu durchsuchen.
-
-SYS.1.1.A10 Protokollierung
-Es MUSS entschieden werden, welche Informationen durch die Server mindestens protokolliert werden sollen, wie lange die Protokolldaten aufbewahrt werden und wer unter welchen Voraussetzungen die Protokolldaten einsehen darf.
-Es MÜSSEN datenschutzrechtliche Vorgaben berücksichtigt werden.
-Generell MÜSSEN alle sicherheitsrelevanten Systemereignisse protokolliert werden.
-Diese umfassen mindestens:
-• Systemstarts und Reboots,
-• erfolgreiche und erfolglose Anmeldungen am System (Betriebssystem und Anwendungssoftware),
-• fehlgeschlagene Berechtigungsprüfungen,
-• blockierte Datenströme (Verstöße gegen ACLs oder Firewallregeln),
-• Einrichtung oder Änderungen von Benutzern, Gruppen und Berechtigungen,
-• sicherheitsrelevante Fehlermeldungen (z. B. Hardwaredefekte, Überschreitung von Kapazitätsgrenzen),
-• Warnmeldungen von Sicherheitssystemen (z. B. Virenschutz).
+ORP.2.A5 Vertraulichkeitsvereinbarungen für den Einsatz von Fremdpersonal (B)
+Bevor externe Personen Zugang und Zugriff zu vertraulichen Informationen erhalten, MÜSSEN mit ihnen Vertraulichkeitsvereinbarungen geschlossen werden.
+In diesen Vertraulichkeitsvereinbarungen MÜSSEN alle wichtigen Aspekte zum Schutz von institutionsinternen Informationen berücksichtigt werden.
 
 
 3.2 Standard-Anforderungen
 
-SYS.1.1.A11 Festlegung einer Sicherheitsrichtlinie für Server
-Ausgehend von der allgemeinen Sicherheitsrichtlinie der Institution SOLLTEN die Anforderungen an Server konkretisiert werden.
-Die Richtlinie SOLLTE allen Administratoren und anderen Personen, die an der Beschaffung und dem Betrieb der Server beteiligt sind, bekannt sein und Grundlage für deren Arbeit sein.
-Die Umsetzung der in der Richtlinie geforderten Inhalte SOLLTE regelmäßig überprüft und die Ergebnisse SOLLTEN sinnvoll dokumentiert werden.
+ORP.2.A6 Überprüfung von Kandidaten bei der Auswahl von Personal (S)
+Werden neue Mitarbeiter ausgewählt, SOLLTEN die erforderlichen Qualifikationen und Fähigkeiten genau formuliert sein.
+Anschließend SOLLTE geprüft werden, ob diese bei den Bewerbern tatsächlich vorhanden sind.
+Es SOLLTE besonders darauf geachtet werden, dass keine Interessenkonflikte auftreten.
+Um nach einem Stellenwechsel Interessenkonflikte zu vermeiden, SOLLTEN Konkurrenzverbote und Karenzzeiten vereinbart werden.
 
-SYS.1.1.A12 Planung des Server-Einsatzes
-Jedes Serversystem SOLLTE geeignet geplant werden, dabei sind mindestens folgende Punkte zu berücksichtigen:
-• Auswahl der Hardwareplattform, des Betriebssystems und der Anwendungssoftware
-• Dimensionierung der Hardware (Leistung, Speicher, Bandbreite, …)
-• Art und Anzahl der Kommunikationsschnittstellen
-• Leistungsaufnahme und Wärmelast, Platzbedarf und Bauform
-• Realisierung administrativer Zugänge (siehe SYS.1.1.A5 Schutz der Administrationsschnittstellen)
-• Zugriffe von Benutzern
-• Realisierung der Protokollierung (siehe SYS.1.1.A10 Protokollierung)
-• Realisierung der Systemaktualisierung (siehe SYS.1.1.A7 Updates und Patches für Betriebssystem und Anwendungen)
-• Einbindung ins System- und Netzmanagement, die Datensicherung und Schutzsysteme (Virenschutz, IDS u. a.)
-Alle Entscheidungen, die in der Planungsphase getroffen wurden, SOLLTEN so dokumentiert werden, dass sie zu einem späteren Zeitpunkt nachvollzogen werden können.
+ORP.2.A7 Überprüfung der Vertrauenswürdigkeit von Mitarbeitern (S)
+Neue Mitarbeiter SOLLTEN auf ihre Vertrauenswürdigkeit hin überprüft werden, bevor sie eingestellt werden.
+Deshalb SOLLTEN alle an der Personalauswahl Beteiligten soweit möglich kontrollieren, ob die Angaben der Bewerberinnen und Bewerber, die relevant für die Einschätzung ihrer Vertrauenswürdigkeit sind, glaubhaft sind.
+Insbesondere SOLLTE kritisch geprüft werden, ob der vorgelegte Lebenslauf korrekt, plausibel und vollständig ist.
+Dabei SOLLTEN kritisch erscheinende Daten überprüft werden, etwa indem dezidiert nachfragt wird oder weitere Nachweise verlangt werden.
 
-SYS.1.1.A13 Beschaffung von Servern
-Bevor ein oder mehrere Server beschafft werden, SOLLTE eine Anforderungsliste erstellt werden, anhand derer die am Markt erhältlichen Produkte bewertet werden.
+ORP.2.A8 Aufgaben und Zuständigkeiten von Mitarbeitern [Informationssicherheitsbeauftragter (ISB)] (S)
+Die Aufgaben und Zuständigkeiten von Mitarbeitern SOLLTEN in geeigneter Weise dokumentiert sein.
+Der Informationssicherheitsbeauftragte (ISB) SOLLTE dafür sorgen, dass alle Mitarbeiter ihre Aufgaben und Zuständigkeiten im Sicherheitsprozess kennen.
+Insbesondere SOLLTE vereinbart sein, dass jeder Mitarbeiter auch außerhalb der Arbeitszeit und außerhalb des Betriebsgeländes für die Informationssicherheit der Institution zuständig ist.
 
-SYS.1.1.A14 Erstellung eines Benutzer- und Administrationskonzepts
-Ablauf, Rahmenbedingungen und Anforderungen an administrative Aufgaben sowie die Aufgabentrennungen zwischen den verschiedenen Rollen der Benutzer des IT-Systems SOLLTEN in einem Benutzer- und Administrationskonzept festgeschrieben werden.
+ORP.2.A9 Schulung von Mitarbeitern (S)
+Die Mitarbeiter SOLLTEN regelmäßig geschult werden, damit sie in Bezug auf die ihnen übertragenen Tätigkeiten immer auf dem aktuellen Stand sind.
+In allen Bereichen SOLLTE sichergestellt werden, dass kein Mitarbeiter basierend auf einem veralteten Wissensstand seiner Arbeit nachgeht.
+Weiterhin SOLLTE den Mitarbeitern während ihrer Beschäftigung die Möglichkeit gegeben werden, sich im Rahmen ihres Tätigkeitsfeldes weiterzubilden.
+Alle Mitarbeiter SOLLTEN in die Nutzung von Geräten, Anwendungen und Aktivitäten eingewiesen sein, die zur sicheren Verarbeitung von Informationen dienen.
+Darüber hinaus SOLLTEN alle Mitarbeiter regelmäßig im Bereich der Informationssicherheit geschult und über alltägliche Risiken und mögliche Gegenmaßnahmen unterrichtet werden.
+Die Mitarbeiter SOLLTEN darüber hinaus angehalten werden, Regelungen zur Informationssicherheit eigenverantwortlich umzusetzen.
+Bei größerem Schulungsbedarf SOLLTEN einzelne Mitarbeiter gesondert geschult und innerhalb des Tätigkeitsbereichs als Multiplikatoren für die übrigen Mitarbeiter eingesetzt werden.
 
-SYS.1.1.A15 Unterbrechungsfreie und stabile Stromversorgung [Haustechnik]
-Jeder Server SOLLTE an eine unterbrechungsfreie Stromversorgung (USV) angeschlossen werden.
-Die USV SOLLTE hinsichtlich Leistung und Stützzeit ausreichend dimensioniert sein.
-Wenn Änderungen an den Verbrauchern durchgeführt wurden, SOLLTE erneut geprüft werden, ob die Stützzeit ausreichend ist.
-Sowohl für die USV-Geräte als auch die Server SOLLTE ein Überspannungsschutz vorhanden sein.
-Die tatsächliche Kapazität der Batterie und damit die Stützzeit der USV SOLLTE regelmäßig getestet werden.
-Die USV SOLLTE regelmäßig gewartet werden.
-Die USV SOLLTE in ein vorhandenes System- und Netzmanagement eingebunden werden.
-
-SYS.1.1.A16 Sichere Installation und Grundkonfiguration von Servern
-Server SOLLTEN so aufgesetzt werden, dass bei der Installation ausschließlich die benötigten Dienste ausgewählt werden.
-Installationen auf einem Server SOLLTEN nur von autorisierten Personen (Administratoren oder vertraglich gebundene Dienstleister) nach einem definierten Installationsprozess durchgeführt werden.
-System- und Anwendungssoftware SOLLTE aus vertrauenswürdigen Installationsquellen bezogen werden.
-Für sich wiederholende Installationen SOLLTEN geeignete Installations-Templates erstellt und angewendet werden.
-Alle Installationsschritte SOLLTEN so dokumentiert werden, dass die Installation durch einen sachkundigen Dritten anhand der Dokumentation nachvollzogen und wiederholt werden kann.
-Die Grundeinstellungen von Servern SOLLTEN überprüft und nötigenfalls entsprechend den Vorgaben der Sicherheitsrichtlinie angepasst werden.
-Erst nachdem die Installation und die Konfiguration abgeschlossen sind, SOLLTE der Server mit dem Internet verbunden werden.
-
-SYS.1.1.A17 Einsatzfreigabe
-Bevor das Serversystem im produktiven Betrieb eingesetzt und bevor es an ein produktives Netz angeschlossen wird, SOLLTE eine Einsatzfreigabe erfolgen.
-Diese SOLLTE geeignet dokumentiert werden.
-Für die Einsatzfreigabe SOLLTEN die Installations- und Konfigurationsdokumentation und die Funktionsfähigkeit des Systems in einem Test geprüft werden.
-Sie SOLLTE durch eine in der Institution dafür autorisierte Stelle erfolgen.
-
-SYS.1.1.A18 Verschlüsselung der Kommunikationsverbindungen
-Für alle vom Server angebotenen und genutzten Netzdienste SOLLTE geprüft werden, ob mit vertretbarem Aufwand eine Verschlüsselung der Kommunikationsverbindungen möglich und praktikabel ist.
-Ist dies mit vertretbarem Aufwand möglich, SOLLTE die Verschlüsselung aktiviert werden.
-
-SYS.1.1.A19 Einrichtung lokaler Paketfilter
-Vorhandene lokale Paketfilter SOLLTEN über ein Regelwerk so ausgestaltet werden, dass die eingehende und ausgehende Kommunikation auf die erforderlichen Kommunikationspartner, Kommunikationsprotokolle bzw. Ports und Schnittstellen beschränkt wird.
-
-SYS.1.1.A20 Beschränkung des Zugangs über Netze
-Generell SOLLTE das gesamte Netz einer Institution durch ein entsprechendes Sicherheitsgateway gegen unbefugte Zugänge geschützt sein. Server, die Dienste nach außen hin anbieten, SOLLTEN in einer Demilitarisierten Zone (DMZ) aufgestellt werden.
-Server SOLLTEN möglichst nicht im selben IP-Subnetz wie die Clients platziert werden. Server SOLLTEN zumindest durch einen Router von den Clients getrennt sein.
-
-SYS.1.1.A21 Betriebsdokumentation
-Betriebliche Aufgaben, die an einem Server durchgeführt werden, SOLLTEN nachvollziehbar dokumentiert werden (Wer? Wann? Was?).
-Aus der Dokumentation SOLLTEN insbesondere Konfigurationsänderungen nachvollziehbar sein.
-Sicherheitsrelevante Aufgaben (wer ist z. B. befugt, neue Festplatten einzubauen) SOLLTEN dokumentiert werden.
-Alles, was automatisch dokumentiert werden kann, SOLLTE auch automatisch dokumentiert werden. Die Dokumentation SOLLTE gegen unbefugten Zugriff und Verlust geschützt werden.
-
-SYS.1.1.A22 Einbindung in die Notfallplanung
-Der Server SOLLTE im Notfallmanagementprozess berücksichtigt werden.
-Dazu SOLLTEN die Notfallanforderungen an das System ermittelt und geeignete Notfallmaßnahmen umgesetzt werden, z. B. indem Wiederanlaufpläne erstellt oder Passwörter und kryptografische Schlüssel sicher hinterlegt werden.
-
-SYS.1.1.A23 Systemüberwachung
-Das Serversystem SOLLTE in ein geeignetes Systemüberwachungs- bzw. Monitoringkonzept eingebunden werden, das den Systemzustand und die Funktionsfähigkeit des Systems und der darauf betriebenen Dienste laufend überwacht und Fehlerzustände sowie die Überschreitung definierter Grenzwerte an das Betriebspersonal meldet.
-
-SYS.1.1.A24 Sicherheitsprüfungen
-Serversysteme SOLLTEN regelmäßigen Sicherheitstests unterzogen werden, die die Einhaltung der Sicherheitsvorgaben überprüfen und ggf. vorhandene Schwachstellen identifizieren.
-Dies SOLLTE in besonderem Maße für Systeme mit externen Schnittstellen gelten.
-Angesichts mittelbarer Angriffe über infizierte Systeme im eigenen Netz SOLLTEN jedoch auch interne Serversysteme in festgelegten Zyklen entsprechend überprüft werden.
-Es SOLLTE geprüft werden, ob die Sicherheitsprüfungen dabei auch automatisiert, z. B. mittels geeigneter Skripte, realisiert werden können.
-
-SYS.1.1.A25 Geregelte Außerbetriebnahme eines Servers
-Bei der Außerbetriebnahme eines Servers SOLLTE sichergestellt werden, dass keine wichtigen Daten, die eventuell auf den verbauten Datenträgern gespeichert sind, verloren gehen und dass keine sensitiven Daten zurückbleiben.
-Es SOLLTE einen Überblick darüber geben, welche Daten wo auf dem Server gespeichert sind.
-Es SOLLTE außerdem sichergestellt sein, dass vom Server angebotene Dienste durch einen anderen Server übernommen wurden, wenn dies erforderlich ist.
-Es SOLLTE eine Checkliste erstellt werden, die bei der Außerbetriebnahme eines Servers abgearbeitet werden kann.
-Diese Checkliste SOLLTE mindestens Aspekte zur Datensicherung, Migration von Diensten und dem anschließenden sicheren Löschen aller Daten umfassen.
+ORP.2.A10 Vermeidung von Störungen des Betriebsklimas (S)
+Es SOLLTEN auch aus Sicht der Informationssicherheit Maßnahmen ergriffen werden, um für ein positives Betriebsklima zu sorgen.
 
 
 3.3 Anforderungen bei erhöhtem Schutzbedarf
 
-SYS.1.1.A26 Mehr-Faktor-Authentisierung (C)
-Bei höherem Schutzbedarf SOLLTE eine sichere Zwei- oder Mehr-Faktor-Authentisierung für den Zugang zum Server eingerichtet werden, z. B. mit kryptografischen Zertifikaten, Chipkarten oder Token.
-Vordringlich SOLLTEN alle administrativen Zugänge zum Server mit Mehr-Faktor-Authentisierung abgesichert werden.
+ORP.2.A11 Analyse der Sicherheitskultur (H)
+Die für die Institution ausgewählten Sicherheitsmaßnahmen SOLLTEN sich immer an der Institution und ihren Mitarbeitern orientieren.
+Dabei SOLLTE, unter Einhaltung der rechtlichen Rahmenbedingungen, analysiert werden, wie genau sich die Mitarbeiter aus Sicherheitssicht verhalten.
+Darauf aufbauend SOLLTE untersucht werden, an welcher Stelle die personelle und organisatorische Sicherheit noch verbessert werden kann.
 
-SYS.1.1.A27 Hostbasierte Angriffserkennung (IA)
-Mit dem Einsatz von hostbasierten Angriffserkennungssystemen (Host-based Intrusion Detection Systems, IDS bzw. Intrusion Prevention Systems, IPS) SOLLTE das Systemverhalten auf Anomalien und Missbrauch hin überwacht werden.
-Die eingesetzten IDS/IPS-Mechanismen SOLLTEN geeignet ausgewählt, konfiguriert und ausführlich getestet werden.
-Im Falle einer Angriffserkennung SOLLTE das Betriebspersonal in geeigneter Weise alarmiert werden.
-Über Betriebssystem-Mechanismen oder geeignete Zusatzprodukte SOLLTEN Veränderungen an Systemdateien und Konfigurationseinstellungen überprüft, eingeschränkt und gemeldet werden.
+ORP.2.A12 Benennung einer Vertrauensperson (H)
+Für die Mitarbeiter SOLLTE eine Vertrauensperson als Ansprechpartner benannt werden.
 
-SYS.1.1.A28 Redundanz (A)
-Serversysteme mit hohen Verfügbarkeitsanforderungen SOLLTEN gegen Ausfälle in geeigneter Weise geschützt sein.
-Hierzu SOLLTEN mindestens geeignete Redundanzen verfügbar sein und/oder Wartungsverträge mit den Lieferanten abgeschlossen werden.
-Es SOLLTE geprüft werden, ob bei sehr hohen Anforderungen Hochverfügbarkeitsarchitekturen mit automatischem Failover, gegebenenfalls über verschiedene Standorte hinweg, erforderlich sind.
-
-SYS.1.1.A29 Einrichtung einer Testumgebung (CIA)
-Um Veränderungen am System oder der Konfiguration testen zu können, ohne den Produktivbetrieb zu gefährden, SOLLTEN entsprechende Testsysteme vorgehalten oder bei Bedarf bereitgestellt werden (z. B. als virtuelle Images).
-Die Testsysteme SOLLTEN den Produktivsystemen weitestmöglich entsprechen (Softwareversionen, Konfiguration).
-Für Anwendungssysteme SOLLTEN geeignete Testdaten generiert werden, die keine vertraulichen oder personenbezogenen Inhalte der produktiven Daten umfassen.
-
-SYS.1.1.A30 Ein Dienst pro Server (CIA)
-Abhängig von der Bedrohungslage und dem Schutzbedarf der Dienste SOLLTE auf einem Server nur jeweils ein Dienst betrieben werden.
-
-SYS.1.1.A31 Application Whitelisting (CI)
-Es SOLLTE bei erhöhtem Schutzbedarf über Application Whitelisting sichergestellt werden, dass nur erlaubte Programme ausgeführt werden.
-Zum einen SOLLTEN vollständige Pfade bzw. Verzeichnisse festgelegt werden, aus denen dies möglich sein darf.
-Zum anderen SOLLTE alternativ einzelnen Anwendungen explizit die Ausführung gestattet werden.
-
-SYS.1.1.A32 Zusätzlicher Schutz der privilegierten Anmeldeinformationen (CI)
-Die Passwörter der administrativen Konten SOLLTEN in mehrere Teile geteilt und durch Anwendung des Vier-Augen-Prinzips zusätzlich geschützt werden.
-Auch administrative Konten SOLLTEN so eingerichtet werden, dass diese nach einer vorher festgelegten Anzahl fehlerhafter Anmeldeversuche gesperrt werden.
-
-SYS.1.1.A33 Aktive Verwaltung der Wurzelzertifikate (CI)
-Im Zuge der Beschaffung und Installation des Servers SOLLTE dokumentiert werden, welche Wurzelzertifikate für den Betrieb des Servers notwendig sind.
-Auf dem Server SOLLTEN lediglich die für den Betrieb notwendigen und vorab dokumentierten Wurzelzertifikate enthalten sein.
-Es SOLLTE regelmäßig überprüft werden, ob die vorhandenen Wurzelzertifikate noch den Vorgaben der Institution entsprechen.
-Es SOLLTEN alle auf dem IT-System vorhandenen Zertifikatsspeicher in die Prüfung einbezogen werden.
+ORP.2.A13 Sicherheitsüberprüfung (H)
+Im Hochsicherheitsbereich SOLLTE eine zusätzliche Sicherheitsüberprüfung zusätzlich zur grundlegenden Überprüfung der Vertrauenswürdigkeit von Mitarbeitern durchgeführt werden.
