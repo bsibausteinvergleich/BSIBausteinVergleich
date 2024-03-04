@@ -550,6 +550,47 @@ _Anforderung entfallen_
 #### ORP.5.A11
 _Anforderung entfallen_
 
+## Änderungen CON.1
+
+### Basis-Anforderungen
+
+#### CON.1.A1
+
+#### CON.1.A2
+
+#### CON.1.A3
+
+#### CON.1.A4
+
+#### CON.1.A5
+
+#### CON.1.A6
+
+#### CON.1.A7
+
+#### CON.1.A8
+
+#### CON.1.A9
+
+#### CON.1.A10
+
+#### CON.1.A11
+
+#### CON.1.A12
+
+#### CON.1.A13
+
+#### CON.1.A14
+
+#### CON.1.A15
+
+#### CON.1.A16
+
+#### CON.1.A17
+
+#### CON.1.A18
+
+
 
 ////////////////
 Formatierungshilfen:
