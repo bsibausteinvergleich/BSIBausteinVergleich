@@ -976,41 +976,61 @@ _Entfallen:_ ~~Zudem SOLLTEN die in OPS.2.1 Outsourcing für Kunden beschriebene
 ### Basis-Anforderungen
 
 #### CON.7.A1
+_Ergänzung:_ Die Umsetzung des Sicherheitskonzeptes MUSS regelmäßig überprüft werden.
 
 #### CON.7.A2
+_Keine inhaltlichen Änderungen._
 
 #### CON.7.A3
+_Keine inhaltlichen Änderungen._
 
 #### CON.7.A4
+_Keine inhaltlichen Änderungen._
 
 #### CON.7.A5
+_Keine inhaltlichen Änderungen._
 
 #### CON.7.A6
+_Keine inhaltlichen Änderungen._
 
 #### CON.7.A7
+_Keine inhaltlichen Änderungen._
 
 #### CON.7.A8
+_Keine inhaltlichen Änderungen._
 
 #### CON.7.A9
+_Keine inhaltlichen Änderungen._
 
 #### CON.7.A10
+_Keine inhaltlichen Änderungen._
 
 #### CON.7.A11
+_Keine inhaltlichen Änderungen._
 
 #### CON.7.A12
+_Entfallen:_ Insbesondere im Ausland können Dokumente und andere schutzbedürftige Datenträger nicht immer sicher entsorgt werden.
 
 #### CON.7.A13
+_Keine inhaltlichen Änderungen._
 
 #### CON.7.A14
+_Keine inhaltlichen Änderungen._
+
+### Anforderungen bei erhöhtem Schutzbedarf
 
 #### CON.7.A15
+_Änderung:_\
+Die Institution SOLLTE prüfen, ob die mitgeführten Informationen einen besonderen Schutzbedarf haben, und entsprechend abstrahlarme bzw. -sichere Datenträger und Clients einsetzen.
 
 #### CON.7.A16
+_Keine inhaltlichen Änderungen._
 
 #### CON.7.A17
+_Keine inhaltlichen Änderungen._
 
 #### CON.7.A18
-
+_Keine inhaltlichen Änderungen._
 
 
 ////////////////
