@@ -1135,33 +1135,50 @@ _Entfallen:_ Dies erfordert im Regelfall eine umfassende Hochverfügbarkeitsplan
 ### Basis-Anforderungen
 
 #### OPS.1.1.3.A1
+_Keine inhaltlichen Änderungen._
 
 #### OPS.1.1.3.A2
+_Keine inhaltlichen Änderungen._
 
 #### OPS.1.1.3.A3
+_Entfallen:_ (...) um den Vorgaben aus dem Konzept zum Patchmanagement gerecht zu werden.
+
+### Standard-Anforderungen
 
 #### OPS.1.1.3.A4
+_Keine inhaltlichen Änderungen._
 
 #### OPS.1.1.3.A5
+_Keine inhaltlichen Änderungen._
 
 #### OPS.1.1.3.A6
+_Keine inhaltlichen Änderungen._
 
 #### OPS.1.1.3.A7
+_Keine inhaltlichen Änderungen._
 
 #### OPS.1.1.3.A8
+_Keine inhaltlichen Änderungen._
 
 #### OPS.1.1.3.A9
+_Keine inhaltlichen Änderungen._
 
 #### OPS.1.1.3.A10
+_Keine inhaltlichen Änderungen._
 
 #### OPS.1.1.3.A11
+_Keine inhaltlichen Änderungen._
+
+### Anforderungen bei erhöhtem Schutzbedarf
 
 #### OPS.1.1.3.A12
+_Keine inhaltlichen Änderungen._
 
 #### OPS.1.1.3.A13
+_Keine inhaltlichen Änderungen._
 
 #### OPS.1.1.3.A14
-
+_Keine inhaltlichen Änderungen._
 
 ////////////////
 Formatierungshilfen:
