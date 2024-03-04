@@ -488,11 +488,32 @@ _durch:_\
 "Mehr-Faktor-Authentisierung"
 
 
+
 ## Änderungen ORP.5
 
 ### Basis-Anforderungen
 
-#### ORP.5.#### ORP.5.A
+#### ORP.5.A1
+
+#### ORP.5.A2
+
+#### ORP.5.A3
+
+#### ORP.5.A4
+
+#### ORP.5.A5
+
+#### ORP.5.A6
+
+#### ORP.5.A7
+
+#### ORP.5.A8
+
+#### ORP.5.A9
+
+#### ORP.5.A10
+
+#### ORP.5.A11
 
 
 
