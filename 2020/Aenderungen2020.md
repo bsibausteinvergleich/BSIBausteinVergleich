@@ -1082,32 +1082,52 @@ _Entfallen:_\
 Diese MÜSSEN sicherstellen, dass die Kommunikation nach dem Stand der Technik verschlüsselt ist.
 Jeder Anmeldevorgang über eine Administrationskennung (Login) MUSS protokolliert werden, sodass nachvollziehbar ist, wann, auf welchem Weg und unter welcher Nutzerkennung auf das System zugegriffen wurde.
 
+### Standard-Anforderungen
+
 #### OPS.1.1.2.A7
+_Keine inhaltlichen Änderungen._
 
 #### OPS.1.1.2.A8
+_Ergänzung:_\
+Dabei SOLLTEN die Bedürfnisse des Fachbereichs berücksichtigt werden.
 
 #### OPS.1.1.2.A9
+_Keine inhaltlichen Änderungen._
 
 #### OPS.1.1.2.A10
+_Keine inhaltlichen Änderungen._
 
 #### OPS.1.1.2.A11
+_Keine inhaltlichen Änderungen._
 
 #### OPS.1.1.2.A12
+_Keine inhaltlichen Änderungen._
 
 #### OPS.1.1.2.A13
+_Anforderung entfallen._#
+
+### Anforderungen bei erhöhtem Schutzbedarf
 
 #### OPS.1.1.2.A14
+_Keine inhaltlichen Änderungen._
 
 #### OPS.1.1.2.A15
+_Keine inhaltlichen Änderungen._
 
 #### OPS.1.1.2.A16
+_Änderung:_\
+Der Zugang zu administrativen Oberflächen oder Schnittstellen SOLLTE mit Filter- und Separierungsmaßnahmen technisch beschränkt werden.
+Oberflächen und Schnittstellen SOLLTEN für Personen außerhalb der zuständigen Administrationsteams nicht erreichbar sein.
+Auf IT-Systeme in anderen Schutzzonen SOLLTE ausschließlich über einen Sprungserver in der jeweiligen Sicherheitszone administrativ zugegriffen werden.
 
 #### OPS.1.1.2.A17
+_Keine inhaltlichen Änderungen._
 
 #### OPS.1.1.2.A18
+_Keine inhaltlichen Änderungen._
 
 #### OPS.1.1.2.A19
-
+_Entfallen:_ Dies erfordert im Regelfall eine umfassende Hochverfügbarkeitsplanung.
 
 
 ////////////////
