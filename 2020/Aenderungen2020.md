@@ -508,8 +508,18 @@ _zu:_\
 Wenn solche Verstöße erkannt werden, MÜSSEN diese sachgerecht Korrekturmaßnahmen ergriffen werden, um die Abweichungen zu beheben.
 
 #### ORP.5.A3
+Keine inhaltlichen Änderungen.
+
+### Standard-Anforderungen
 
 #### ORP.5.A4
+_Ergänzt_: "(...) basierend auf der Identifikation und Beachtung der rechtlichen Rahmenbedingungen, (...)
+
+
+_Geändert:_\
+~~Compliance Manager und ISB SOLLTEN regelmäßig zusammenarbeiten.~~\
+_zu:_\
+Compliance Manager und Informationssicherheitsbeauftragte (ISB) SOLLTEN sich regelmäßig austauschen.
 
 #### ORP.5.A5
 
