@@ -4,7 +4,7 @@
 ---
 
 
-## Änderungen ISMS.1
+## ISMS
 
 Keine inhaltlichen Änderungen.
 
@@ -42,7 +42,7 @@ Keine inhaltlichen Änderungen.
 ---
 
 
-## Änderungen CON
+## CON
 
 ### CON.1
 
