@@ -970,6 +970,49 @@ _Keine inhaltlichen Änderungen._
 #### CON.6.A11
 _Entfallen:_ ~~Zudem SOLLTEN die in OPS.2.1 Outsourcing für Kunden beschriebenen generellen Anforderungen an Dienstleister und deren Mitarbeiter umgesetzt werden.~~
 
+
+## Änderungen CON.7
+
+### Basis-Anforderungen
+
+#### CON.7.A1
+
+#### CON.7.A2
+
+#### CON.7.A3
+
+#### CON.7.A4
+
+#### CON.7.A5
+
+#### CON.7.A6
+
+#### CON.7.A7
+
+#### CON.7.A8
+
+#### CON.7.A9
+
+#### CON.7.A10
+
+#### CON.7.A11
+
+#### CON.7.A12
+
+#### CON.7.A13
+
+#### CON.7.A14
+
+#### CON.7.A15
+
+#### CON.7.A16
+
+#### CON.7.A17
+
+#### CON.7.A18
+
+
+
 ////////////////
 Formatierungshilfen:
 
