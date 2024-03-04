@@ -555,8 +555,20 @@ _Anforderung entfallen_
 ### Basis-Anforderungen
 
 #### CON.1.A1
+_Keine inhaltlichen Änderungen._
 
 #### CON.1.A2
+_Geändert:_\
+~~In Datensicherungen MÜSSEN kryptografische Schlüssel derart gespeichert bzw. aufbewahrt werden, dass Unbefugte nicht darauf zugreifen können.~~\
+_zu:_\
+In Datensicherungen MÜSSEN kryptografische Schlüssel vom IT-Betrieb derart gespeichert bzw. aufbewahrt werden, dass Unbefugte nicht darauf zugreifen können.
+
+_Geändert:_\
+~~Es MUSS sichergestellt sein, dass auf verschlüsselt gespeicherte Daten auch nach längeren Zeiträumen noch zugegriffen werden kann.~~\
+_zu:_\
+Der IT-Betrieb MUSS sicherstellen, dass auf verschlüsselt gespeicherte Daten auch nach längeren Zeiträumen noch zugegriffen werden kann.
+
+### Standard-Anforderungen
 
 #### CON.1.A3
 
