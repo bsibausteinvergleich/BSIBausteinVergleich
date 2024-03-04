@@ -818,24 +818,46 @@ _Geändert:_\
 _zu:_\
 Freigegebene Standardsoftware MUSS so installiert und konfiguriert werden, dass dabei die entsprechenden Installationsanweisungen eingehalten werden.
 
+### Standard-Anforderungen
+
 #### CON.4.A4
+_Keine inhaltlichen Änderungen._
 
 #### CON.4.A5
+_Geändert:_\
+~~Vor der Beschaffung einer Standardsoftware SOLLTE ein Anforderungskatalog erstellt werden, der neben funktionalen auch Sicherheitsanforderungen umfasst.~~\
+_zu:_\
+Wird Standardsoftware beschafft, SOLLTE zuvor ein Anforderungskatalog erstellt werden, der neben funktionalen Anforderungen auch Sicherheitsanforderungen umfasst.
 
 #### CON.4.A6
+_Keine inhaltlichen Änderungen._
 
 #### CON.4.A7
+_Keine inhaltlichen Änderungen._
 
 #### CON.4.A8
+_Geändert:_\
+~~Lizenzpflichtige Standardsoftware-Produkte, die auf IT-Systemen der Institution eingesetzt werden, SOLLTEN lizenziert sein.~~\
+_zu:_\
+Lizenzpflichtige Standardsoftware-Produkte, die auf IT-Systemen der Institution eingesetzt werden, SOLLTEN korrekt lizenziert sein.
+Die Lizenzen SOLLTEN die tatsächliche Nutzeranzahl und den Einsatzzweck abdecken.
 
 #### CON.4.A9
+_Keine inhaltlichen Änderungen._
+
+### Anforderungen bei erhöhtem Schutzbedarf
 
 #### CON.4.A10
+_Keine inhaltlichen Änderungen._
 
 #### CON.4.A11
+_Geändert:_\
+~~Stehen mehrere Produkte zur Auswahl, SOLLTEN Sicherheitszertifikate insbesondere dann berücksichtigt werden,(...)~~\
+_zu:_\
+Stehen mehrere Produkte zur Auswahl, SOLLTEN insbesondere dann Sicherheitszertifikate berücksichtigt werden,(...)
 
 #### CON.4.A12
-
+_Keine inhaltlichen Änderungen._
 
 
 
