@@ -664,17 +664,54 @@ CON.2.A1 Umsetzung Standard-Datenschutzmodell (B)\
 Die gesetzlichen Bestimmungen zum Datenschutz (DSGVO, BDSG und LDSG) MÜSSEN eingehalten werden. Wird die SDM-Methodik nicht berücksichtigt, die Maßnahmen also nicht auf der Basis der Gewährleistungsziele systematisiert und mit dem Referenzmaßnahmen-Katalog des SDM abgeglichen, SOLLTE dies begründet und dokumentiert werden.
 
 
-## Änderungen CON.
+## Änderungen CON.3
 
 ### Basis-Anforderungen
 
 #### CON.3.A1
+_Geändert:_\
+~~Für jedes IT-System und eventuell für einzelne besonders wichtige IT-Anwendung MÜSSEN die relevanten Einflussfaktoren ermittelt werden, wie z. B. Änderungsvolumen, Änderungszeitpunkte, Verfügbarkeitsanforderungen, Integritätsbedarf.
+Dazu SOLLTEN die Administratoren und die Verantwortlichen der einzelnen IT-Anwendungen befragt werden.~~\
+_zu:_\
+Der IT-Betrieb MUSS für jedes IT-System und darauf ausgeführten Anwendungen die Rahmenbedingungen für die Datensicherung erheben.
+Dazu MUSS der IT-Betrieb die Fachverantwortlichen für die Anwendungen und die Verantwortlichen für die jeweiligen IT-Systeme befragen.
+Der IT-Betrieb MUSS mindestens die nachfolgenden Rahmenbedingungen berücksichtigen:
+• Speichervolumen,
+• Änderungsvolumen,
+• Änderungszeitpunkte,
+• Verfügbarkeitsanforderungen,
+• Integritätsbedarf sowie
+• rechtliche Anforderungen.
+
+_Geändert:_\
+~~Neue Anforderungen MÜSSEN zeitnah in einem aktualisierten Datensicherungskonzept berücksichtigt werden.~~\
+_zu:_\
+Neue Anforderungen MÜSSEN zeitnah berücksichtigt werden.
 
 #### CON.3.A2
+_Geändert:_\
+~~Für jedes IT-System und für jede Datenart MUSS ein Verfahren festgelegt werden, wie die Daten zu sichern sind.~~\
+_zu:_\
+Der IT-Betrieb MUSS für jedes IT-System ein Verfahren festlegen, das definiert, welche Daten des IT-Systems wie gesichert werden.
+
+_Geändert:_\
+~~Weiterhin MÜSSEN die Verantwortlichkeiten für die Datensicherungen festgelegt werden.~~\
+_zu:_\
+Dies MUSS wiederum auf Basis der erhobenen Einflussfaktoren und in Abstimmung mit den jeweiligen Fachverantwortlichen der Anwendungen geschehen.
 
 #### CON.3.A3
+_Anforderung entfallen._
 
 #### CON.3.A4
+_Geändert:_\
+~~Es MUSS ein Minimaldatensicherungskonzept erstellt werden, das festgelegt, welche Anforderungen für die Datensicherung mindestens einzuhalten sind.Dazu zählen kurze Beschreibungen, wie die Datensicherung erstellt und wiederhergestellt werden kann, welche Parameter gewählt wurden und welche Hard- und Software eingesetzt wird.~~\
+_zu:_\
+Der IT-Betrieb MUSS ein Minimaldatensicherungskonzept auf Basis der festgelegten Verfahrensweise für die Datensicherung erstellen.Dieses MUSS festlegen, welche Anforderungen für die Datensicherung mindestens vom IT-Betrieb einzuhalten sind.
+Das Minimaldatensicherungskonzept MUSS mindestens eine kurze Beschreibung dazu enthalten,
+• welche IT-Systeme und welche darauf befindlichen Daten durch welche Datensicherung gesichert werden,
+• wie die Datensicherungen erstellt und wiederhergestellt werden können,
+• welche Parameter zu wählen sind sowie
+• welche Hard- und Software eingesetzt wird.
 
 #### CON.3.A5
 
