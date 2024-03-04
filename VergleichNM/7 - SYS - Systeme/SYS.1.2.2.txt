@@ -1,87 +1,87 @@
 3.1 Basis-Anforderungen
 
-SYS.1.2.2.A1 Planung von Windows Server 2012 (B)
-Der Einsatz von Windows Server 2012 MUSS vor der Installation sorgfältig geplant werden.
+
+
+SYS.1.2.2.A1 Planung von Windows Server 2012
+Der Einsatz von Windows Server 2012 (R2) MUSS vor der Installation sorgfältig geplant werden.
 Die Anforderungen an die Hardware MÜSSEN vor der Beschaffung geprüft werden.
-Es MUSS eine begründete und dokumentierte Entscheidung für eine geeignete Edition des Windows Server 2012 getroffen werden.
-Der Einsatzzweck des Servers sowie die Einbindung ins Active Directory MÜSSEN dabei spezifiziert werden.
+Es MUSS eine begründete und dokumentierte Entscheidung für eine geeignete Edition des Windows Server 2012 (R2) getroffen werden.
+Der Einsatzzweck des Servers MUSS dabei spezifiziert werden, inkl. einer geplanten Einbindung ins Active Directory.
 Die Nutzung von ins Betriebssystem integrierten Cloud-Diensten MUSS grundsätzlich abgewogen und geplant werden.
 Wenn nicht benötigt, MUSS die Einrichtung von Microsoft-Konten auf dem Server blockiert werden.
 
-SYS.1.2.2.A2 Sichere Installation von Windows Server 2012 (B)
-Das Installationsmedium MUSS aus einer verlässlichen Quelle bezogen werden.
+SYS.1.2.2.A2 Sichere Installation von Windows Server 2012
+Das Installationsmedium MUSS aus einer nachweislich integren Quelle bezogen werden.
 Es DÜRFEN KEINE anderen als die benötigten Serverrollen und Features bzw. Funktionen installiert werden.
 Wenn vom Funktionsumfang her ausreichend, MUSS die Server-Core-Variante installiert werden.
 Andernfalls MUSS begründet werden, warum die Server-Core-Variante nicht genügt.
 Der Server MUSS im Rahmen der Installation zunächst auf einen aktuellen Patch-Stand gebracht werden.
 
-SYS.1.2.2.A3 Sichere Administration von Windows Server 2012 (B)
-Lokale Administrationskonten MÜSSEN mit einzigartigen, sicheren Passwörter abgesichert werden.
-Alle Administratoren, die für das Server-System zuständig sind, MÜSSEN in den sicherheitsrelevanten Aspekten der Administra-
-tion von Windows Server 2012 geschult sein.
+SYS.1.2.2.A3 Sichere Administration von Windows Server 2012
+Lokale Administrationskonten MÜSSEN einzigartige, sichere Passwörter besitzen.
+Alle Administratoren, die für das Serversystem zuständig sind, MÜSSEN in den sicherheitsrelevanten Aspekten der Administration von Windows Server 2012 bzw. R2 geschult sein.
 Sie DÜRFEN administrative Rechte NICHT einsetzen, wo diese nicht zwingend erforderlich sind.
 Browser auf dem Server DÜRFEN NICHT zum Surfen im Web verwendet werden.
 
 
 3.2 Standard-Anforderungen
 
-SYS.1.2.2.A4 Sichere Konfiguration von Windows Server 2012 (S)
-Mehrere wesentliche Funktionen bzw. Rollen SOLLTEN NICHT durch einen einzigen Server erfüllt, sondern geeignet aufgeteilt werden.
+SYS.1.2.2.A4 Sichere Konfiguration von Windows Server 2012
+Es SOLLTEN NICHT mehrere wesentliche Funktionen bzw. Rollen durch einen einzigen Server erfüllt werden.
 Vor Inbetriebnahme SOLLTE das System grundlegend gehärtet werden.
-Dafür SOLLTEN funktionsspezifische und institutionsweite Sicherheitsvorlagen erstellt und gepflegt werden, die auf die Server ausgerollt werden.
-Die Einstellungen SOLLTEN sowohl anfangs als auch bei jeder Änderung vor einer erneuten Inbetriebnahme getestet werden.
+Dafür SOLLTEN funktionsspezifische institutionsweite Sicherheitsvorlagen erstellt und gepflegt werden, die auf die Serversysteme ausgerollt werden.
+Die Einstellungen SOLLTEN anfangs und bei Änderungen vor Inbetriebnahme getestet werden.
 Der Internet Explorer SOLLTE auf dem Server nur in der Enhanced Security Configuration und im Enhanced Protected Mode genutzt werden.
 
-SYS.1.2.2.A5 Schutz vor Schadsoftware auf Windows Server 2012 (S)
+SYS.1.2.2.A5 Schutz vor Schadsoftware
 Außer bei IT-Systemen mit Windows Server 2012, die als Stand-alone-Gerät ohne Netzanschluss und Wechselmedien betrieben werden, SOLLTE vor dem ersten Verbinden mit dem Netz oder Wechselmedien ein Virenschutzprogramm installiert werden.
 Die Signaturen SOLLTEN regelmäßig aktualisiert werden.
 Zudem SOLLTEN regelmäßig alle Festplatten vollständig gescannt werden.
 Es SOLLTEN Alarme für die zuständigen Administratoren bei Virenfunden konfiguriert sein.
 
-SYS.1.2.2.A6 Sichere Authentisierung und Autorisierung in Windows Server 2012 (S)
+SYS.1.2.2.A6 Sichere Authentisierung und Autorisierung in Windows Server 2012
 In Windows Server 2012 R2 SOLLTEN alle Benutzer Mitglieder der Sicherheitsgruppe „Geschützte Nutzer“ sein.
 Konten für Dienste und Computer SOLLTEN NICHT Mitglied von „Geschützte Nutzer“ sein.
-Dienste-Konten in Windows Server 2012 SOLLTEN Mitglieder der Gruppe „Managed Service Account“ sein.
+Dienste-Konten in Windows Server 2012 (R2) SOLLTEN Mitglieder der Gruppe „Managed Service Account“ sein, damit die Passwörter der Dienste regelmäßig und vollautomatisch gemäß der AD-Richtlinien gewechselt werden.
 Der PPL-Schutz des Local Credential Store LSA SOLLTE aktiviert werden.
 Der Einsatz dynamischer Zugriffsregeln auf Ressourcen SOLLTE bevorzugt werden.
-Die Administratoren von Windows Server 2012 SOLLTEN auf ihren eigenen Clients mit beschränkten Rechten arbeiten.
+Die Administratoren von Windows Server 2012 (R2) SOLLTEN auf ihren eigenen Clients mit beschränkten Rechten arbeiten.
 
-SYS.1.2.2.A7 Prüfung der Sicherheitskonfiguration von Windows Server 2012 (S)
-Die Sicherheitskonfiguration von Windows Server 2012 SOLLTE mittels geeigneter Tools regelmäßig überprüft, dokumentiert und verbessert werden.
+SYS.1.2.2.A7 Sicherheitsprüfung von Windows Server 2012
+Die Sicherheitskonfiguration von Windows Server 2012 (R2) SOLLTE mittels geeigneter Tools regelmäßig überprüft, dokumentiert und verbessert werden.
 
-SYS.1.2.2.A8 Schutz der Systemintegrität (S)
+SYS.1.2.2.A8 Schutz der Systemintegrität
 Secure Boot SOLLTE aktiv sein.
 AppLocker SOLLTE aktiviert und möglichst strikt konfiguriert sein.
 Die Auswirkungen von Änderungen SOLLTEN vorab getestet werden.
 
-SYS.1.2.2.A9 Lokale Kommunikationsfilterung (S)
+SYS.1.2.2.A9 Lokale Kommunikationsfilterung
 Die lokale Firewall SOLLTE für eingehenden und ausgehenden Netzverkehr aktiviert und möglichst strikt eingestellt sein.
 Die Identität von Remote-Systemen und die Integrität der Verbindungen mit diesen SOLLTE kryptografisch abgesichert sein.
 
 
 3.3 Anforderungen bei erhöhtem Schutzbedarf
 
-SYS.1.2.2.A10 Festplattenverschlüsselung bei Windows Server 2012 (H)
-Bei Systemen mit Windows Server 2012 SOLLTEN die Datenträger mit BitLocker oder einem gleichwertigen Produkt verschlüsselt werden.
+SYS.1.2.2.A10 Festplattenverschlüsselung bei Windows Server 2012 (C)
+Bei Systemen mit Windows Server 2012 (R2) SOLLTEN die Datenträger mit BitLocker oder einem anderen Produkt verschlüsselt werden.
 Dies SOLLTE auch für virtuelle Maschinen mit produktiven Daten gelten.
 Bei höherem Schutzbedarf SOLLTE nicht nur das TPM allein als Schlüsselschutz dienen.
-Das Wiederherstellungspasswort SOLLTE im Active Directory oder einem anderen geeigneten, sicheren Ort gespeichert werden.
-Bei sehr hohen Anforderungen an die Vertraulichkeit oder Abstreitbarkeit SOLLTE eine Full Volume Encryption erfolgen.
+Das Wiederherstellungspasswort SOLLTE im Active Directory oder einem anderen geeigneten sicheren Ort gespeichert werden.
+Bei sehr hohen Vertraulichkeitsoder Abstreitbarkeitsanforderungen SOLLTE eine Full Volume Encryption erfolgen.
 
-
-SYS.1.2.2.A11 Angriffserkennung bei Windows Server 2012 (H)
-Sicherheitsrelevante Ereignisse in Windows Server 2012 SOLLTEN an einem zentralen Punkt gesammelt und ausgewertet werden.
+SYS.1.2.2.A11 Angriffserkennung bei Windows Server 2012 (CIA)
+Sicherheitsrelevante Ereignisse in Windows Server 2012 (R2) SOLLTEN an einem zentralen Punkt gesammelt und ausgewertet werden.
 Verschlüsselte Partitionen SOLLTEN nach einer definierten Anzahl von Entschlüsselungsversuchen gesperrt werden.
 
-SYS.1.2.2.A12 Redundanz und Hochverfügbarkeit bei Windows Server 2012 (H)
-Es SOLLTE geprüft werden, welche Verfügbarkeitsanforderungen durch Betriebssystemfunktionen wie Distributed File System (DFS), ReFS, Failover Cluster und Network Load Balancing bzw. NIC-Teaming (LBFO) erfüllt oder unterstützt werden können.
+SYS.1.2.2.A12 Redundanz und Hochverfügbarkeit (A)
+Es SOLLTE geprüft werden, welche Verfügbarkeitsanforderungen durch Betriebssystemfunktionen wie Distributed File System (DFS), ReFS, Failover Cluster und Network Load Balancing bzw. NIC-Teaming (LBFO) umgesetzt oder unterstützt werden können.
 Für Außenstellen SOLLTE BranchCache aktiviert werden.
 
-SYS.1.2.2.A13 Starke Authentifizierung bei Windows Server 2012 (H)
-Es SOLLTE ein rollenbasiertes Administrationsmodell für die Administration unterschiedlicher Serverfunktionen entworfen und umgesetzt werden.
-Für kritische Dienste SOLLTE eine Zwei-Faktor-Authentisierung implementiert sein.
+SYS.1.2.2.A13 Starke Authentifizierung bei Windows Server 2012 (CI)
+Es SOLLTE ein rollenbasiertes Administrations-Modell für die Administration unterschiedlicher Serverfunktionen entworfen und umgesetzt werden.
+Für kritische Dienste SOLLTE eine Zwei-Faktor-Authentifizierung implementiert sein.
 
-SYS.1.2.2.A14 Herunterfahren verschlüsselter Server und virtueller Maschinen (H)
+SYS.1.2.2.A14 Herunterfahren verschlüsselter Server und virtueller Maschinen (CI)
 Um die verschlüsselten Daten auch im Betrieb zu schützen, SOLLTEN nicht benötigte Server (inkl. virtuelle Maschinen) immer heruntergefahren oder in den Ruhezustand versetzt werden.
 Dies SOLLTE möglichst automatisiert erfolgen.
-Die Entschlüsselung der Daten SOLLTE einen interaktiven Schritt erfordern oder zumindest im Sicherheitsprotokoll festgehalten werden.
+Die Entschlüsselung der Daten SOLLTE einen interaktiven Schritt erfordern oder sie SOLLTE zumindest im Sicherheitsprotokoll festgehalten werden.

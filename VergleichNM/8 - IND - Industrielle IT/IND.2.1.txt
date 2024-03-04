@@ -1,89 +1,91 @@
 3.1 Basis-Anforderungen
 
-IND.2.1.A1 Einschränkung des Zugriffs für Konfigurations- und Wartungsschnittstellen [ICS-Administrator] (B)
+
+
+IND.2.1.A1 Einschränkung des Zugriffs für Konfigurations- und Wartungsschnittstellen [ICS-Administrator]
 Es MUSS sichergestellt werden, dass nur berechtigte Mitarbeiter auf Konfigurations- und Wartungsschnittstellen von ICS-Komponenten zugreifen können.
 Die Konfiguration der ICS-Komponente DARF NUR nach einer Freigabe oder nach einer Authentisierung geändert werden.
 Standardmäßig eingerichtete bzw. herstellerseitig gesetzte Passwörter MÜSSEN gewechselt werden.
 Der Wechsel MUSS dokumentiert und das Passwort sicher hinterlegt werden.
 Standardmäßig eingerichtete bzw. herstellerseitig gesetzte Benutzerkonten SOLLTEN gewechselt werden.
 
-IND.2.1.A2 Nutzung sicherer Protokolle für die Konfiguration und Wartung [Wartungspersonal, ICS-Administrator] (B)
-Für die Konfiguration und Wartung von ICS-Komponenten MÜSSEN sichere Protokolle genutzt werden.
+IND.2.1.A2 Nutzung sicherer Protokolle für die Konfiguration und Wartung [ICS-Administrator, Wartungspersonal]
+Für die Konfiguration und Wartung von ICS-Komponenten MÜSSEN sichere Protokolle benutzt werden.
 Die Daten DÜRFEN NICHT ungeschützt übertragen werden.
 
-IND.2.1.A3 Protokollierung [ICS-Administrator] (B)
+IND.2.1.A3 Protokollierung [ICS-Administrator]
 Es MUSS festgelegt werden:
-• welche Daten und Ereignisse protokolliert werden sollen,
+• welche Daten/Ereignisse protokolliert werden sollen,
 • wie lange die Protokolldaten aufbewahrt werden und
 • wer diese einsehen darf.
 Generell MÜSSEN alle sicherheitsrelevanten Systemereignisse protokolliert und bei Bedarf ausgewertet werden.
 
-IND.2.1.A4 Deaktivierung nicht genutzter Dienste, Funktionen und Schnittstellen [Wartungspersonal, ICS-Administrator] (B)
+IND.2.1.A4 Deaktivierung nicht genutzter Dienste, Funktionen und Schnittstellen [ICS-Administrator, Wartungspersonal]
 Alle nicht genutzten Dienste, Funktionen und Schnittstellen der ICS-Komponenten MÜSSEN deaktiviert oder deinstalliert werden.
 
-IND.2.1.A5 Deaktivierung nicht genutzter Benutzerkonten [ICS-Administrator] (B)
-Nicht genutzte und unnötige Benutzerkonten MÜSSEN deaktiviert werden.
+IND.2.1.A5 Deaktivierung nicht benutzter Benutzerkonten [ICS-Administrator]
+Nicht benutzte und unnötige Benutzerkonten MÜSSEN deaktiviert werden.
 
-IND.2.1.A6 Netzsegmentierung [ICS-Administrator] (B)
+IND.2.1.A6 Netzsegmentierung [ICS-Administrator]
 ICS-Komponenten MÜSSEN von der Office-IT getrennt werden.
-Sind ICS-Komponenten von anderen Diensten im Netz abhängig, SOLLTE dies ausreichend dokumentiert werden.
+Sind ICS-Komponenten von anderen Diensten im Netz abhängig, SOLLTE das ausreichend dokumentiert werden.
 ICS-Komponenten SOLLTEN so wenig wie möglich mit anderen ICS-Komponenten kommunizieren.
 
-IND.2.1.A7 Backups [Leitstellen-Operator] (B)
-Von Programmen und Daten MÜSSEN regelmäßig und nach Systemänderungen Backups erstellt werden.
 
 3.2 Standard-Anforderungen
 
-IND.2.1.A8 Schutz vor Schadsoftware [ICS-Administrator] (S)
+IND.2.1.A7 Backups [Leitstelle/Operator]
+Von Programmen und Daten MÜSSEN regelmäßig und nach Systemänderungen Backups erstellt werden.
+
+IND.2.1.A8 Schutz vor Schadsoftware [ICS-Administrator]
 ICS-Komponenten SOLLTEN durch geeignete Mechanismen vor Schadprogrammen geschützt werden.
 Wird dafür ein Virenschutzprogramm benutzt, SOLLTEN das Programm und die Virensignaturen immer auf dem aktuellen Stand sein.
-Wenn die Ressourcen auf der ICS-Komponente nicht ausreichend sind oder die Echtzeitanforderung durch den Einsatz von Virenschutzprogrammen gefährdet werden könnte, SOLLTEN alternative Maßnahmen ergriffen werden, wie z. B. die Abschottung der Komponente oder des Produktionsnetzes.
+Wenn die Ressourcen auf der ICS-Komponente nicht ausreichend sind oder die Echtzeitanforderung durch den Einsatz von Virenschutzprogrammen gefährdet werden könnte, SOLLTEN alternative Maßnahmen, wie z. B. die Abschottung der Komponente oder des Produktionsnetzes, ergriffen werden.
 
-IND.2.1.A9 Dokumentation der Kommunikationsbeziehungen [ICS-Administrator] (S)
-Es SOLLTE dokumentiert werden, mit welchen Systemen die ICS-Komponenten welche Daten austauschen.
+IND.2.1.A9 Dokumentation der Kommunikationsbeziehungen [ICS-Administrator]
+Es SOLLTE dokumentiert werden, mit welchen Systemen eine ICS-Komponente welche Daten austauscht.
 Außerdem SOLLTEN die Kommunikationsverbindungen neu integrierter ICS-Komponenten dokumentiert werden.
 
-IND.2.1.A10 Systemdokumentation [Leitstellen-Operator, ICS-Administrator] (S)
+IND.2.1.A10 Systemdokumentation [Leitstelle/Operator, ICS-Administrator]
 Es SOLLTE eine erweiterte Systemdokumentation erstellt werden.
-Darin SOLLTEN Besonderheiten im Betrieb, wie z. B. Sicherung, Regelwartungsmaßnahmen, Austausch und Wiederherstellung von Komponenten oder Leistungen Dritter, sowie die Möglichkeiten zur Systemverwaltung, wie z. B. Fernzugriffe, festgehalten werden.
+Darin SOLLTEN Besonderheiten im Betrieb (z. B. Sicherung, Regelwartungsmaßnahmen, Austausch und Wiederherstellung von Komponenten, Leistungen Dritter) und die Möglichkeiten zur Systemverwaltung (z. B. Fernzugriff) festgehalten werden.
 Außerdem SOLLTE dokumentiert werden, wenn ICS-Komponenten verändert wurden.
 Es SOLLTE sichergestellt sein, dass nur berechtigte Mitarbeiter auf die Systemdokumentation zugreifen können.
 Auch SOLLTE die Dokumentation im Störungsfall noch verfügbar sein.
 
-IND.2.1.A11 Wartung der ICS-Komponenten [Leitstellen-Operator, Wartungspersonal, ICS-Administrator] (S)
+IND.2.1.A11 Wartung der ICS-Komponenten [Wartungspersonal, ICS-Administrator, Leitstelle/Operator]
 Bei der Wartung einer ICS-Komponente SOLLTEN immer die aktuellen und freigegebenen Sicherheitsupdates eingespielt werden.
-Updates für das Betriebssystem SOLLTEN erst nach Freigabe durch den Hersteller einer Komponente installiert werden.
-Alternativ SOLLTE die Aktualisierung in einer Testumgebung getestet werden, bevor sie in einer produktiven Komponente eingesetzt wird.
-Für kritische Sicherheitsupdates SOLLTE die ICS-Komponente kurzfristig gewartet werden.
+Updates für das Betriebssystem SOLLTEN erst nach Freigabe durch den Hersteller einer Komponente installiert werden oder die Aktualisierung SOLLTE in einer Testumgebung getestet werden, bevor diese in einer produktiven Komponente eingesetzt wird.
+Für kritische Sicherheitsupdates SOLLTE kurzfristig eine Wartung durchgeführt werden.
 
-IND.2.1.A12 Beschaffung von ICS-Komponenten [Leitstellen-Operator, ICS-Administrator] (S)
+IND.2.1.A12 Beschaffung von ICS-Komponenten [Leitstelle/Operator, ICS-Administrator]
 Für ICS-Komponenten SOLLTEN einheitliche und dem Schutzbedarf angemessene Anforderungen an die Informationssicherheit definiert werden.
 Diese SOLLTEN berücksichtigt werden, wenn neue ICS-Komponenten beschafft werden.
 
-IND.2.1.A13 Geeignete Inbetriebnahme der ICS-Komponenten [ICS-Administrator] (S)
+IND.2.1.A13 Geeignete Inbetriebnahme der ICS-Komponenten [ICS-Administrator]
 Bevor ICS-Komponenten in Betrieb genommen werden, SOLLTEN sie dem aktuellen intern freigegebenen Firmware-, Software- und Patch-Stand entsprechen.
 Neue ICS-Komponenten SOLLTEN in die bestehenden Betriebs-, Überwachungs- und Informationssicherheitsmanagement-Prozesse eingebunden werden.
 Das SOLLTE insbesondere
 • die Änderungs- und Berechtigungsverwaltung,
 • das Schwachstellenmanagement,
 • den Schutz vor Schadsoftware,
-• die betriebliche Überwachung und Notfallplanung sowie
+• die betriebliche Überwachung sowie Notfallplanung und
 • die regelmäßige Sicherheitsüberprüfung der Systeme
 umfassen.
 
-IND.2.1.A14 Aussonderung von ICS-Komponenten [ICS-Administrator] (S)
+IND.2.1.A14 Aussonderung von ICS-Komponenten [ICS-Administrator]
 Bei der Aussonderung von alten oder defekten ICS-Komponenten SOLLTEN alle schützenswerten Daten sicher gelöscht werden.
 Es SOLLTE insbesondere sichergestellt sein, dass alle Zugangsdaten nachhaltig entfernt wurden.
 
-IND.2.1.A15 Zentrale Systemprotokollierung und -überwachung [ICS-Administrator] (S)
+IND.2.1.A15 Zentrale Systemprotokollierung und -überwachung [ICS-Administrator]
 Alle ICS-Komponenten SOLLTEN ihre Protokollierungsdaten an ein zentrales System übermitteln.
 Die protokollierten Daten SOLLTEN regelmäßig ausgewertet werden.
 Bei sicherheitskritischen Ereignissen SOLLTE eine automatische Alarmierung erfolgen.
 
-IND.2.1.A16 Schutz externer Schnittstellen [ICS-Administrator] (S)
-Von außen erreichbare Schnittstellen SOLLTEN vor Missbrauch geschützt werden.
+IND.2.1.A16 Schutz externer Schnittstellen [ICS-Administrator]
+Von außen erreichbare Schnittstellen, z. B. Netzschnittstellen, USB-Ports oder serielle Anschlüsse, SOLLTEN vor Missbrauch geschützt werden.
 
-IND.2.1.A17 Nutzung sicherer Protokolle für die Übertragung von Informationen [ICS-Administrator] (S)
+IND.2.1.A17 Nutzung sicherer Protokolle für die Übertragung von Informationen [ICS-Administrator]
 Mess- oder Steuerdaten SOLLTEN vor unberechtigten Zugriffen oder Veränderungen geschützt werden.
 Bei Anwendungen mit Echtzeitanforderungen SOLLTE geprüft werden, ob dies notwendig und umsetzbar ist.
 Werden Mess- oder Steuerdaten über öffentliche Netze übertragen, SOLLTEN sie angemessen geschützt werden.
@@ -91,15 +93,15 @@ Werden Mess- oder Steuerdaten über öffentliche Netze übertragen, SOLLTEN sie 
 
 3.3 Anforderungen bei erhöhtem Schutzbedarf
 
-IND.2.1.A18 Kommunikation im Störfall [Leitstellen-Operator, ICS-Administrator] (H)
+IND.2.1.A18 Kommunikation im Störfall [ICS-Administrator, Leitstelle/Operator] (A)
 Es SOLLTE alternative und unabhängige Kommunikationsmöglichkeiten geben, die bei einem Störfall benutzt werden können, um handlungsfähig zu bleiben.
 
-IND.2.1.A19 Security-Tests [ICS-Administrator] (H)
+IND.2.1.A19 Security-Tests [ICS-Administrator] (CIA)
 Mithilfe von regelmäßigen Security-Tests SOLLTE geprüft werden, ob die technischen Sicherheitsmaßnahmen noch effektiv umgesetzt sind.
-Die ICS-Komponenten SOLLTEN nicht im laufenden Anlagenbetrieb getestet werden.
+Die Security-Tests SOLLTEN nicht im laufenden Anlagenbetrieb erfolgen.
 Die Tests SOLLTEN auf die Wartungszeiten geplant werden.
 Die Ergebnisse SOLLTEN dokumentiert werden.
 Erkannte Risiken SOLLTEN bewertet und behandelt werden.
 
-IND.2.1.A20 Vertrauenswürdiger Code [ICS-Administrator] (H)
+IND.2.1.A20 Vertrauenswürdiger Code [ICS-Administrator] (IA)
 Firmware-Updates oder neue Steuerungsprogramme SOLLTEN nur eingespielt werden, wenn vorher ihre Integrität und Authentizität überprüft wurde.
