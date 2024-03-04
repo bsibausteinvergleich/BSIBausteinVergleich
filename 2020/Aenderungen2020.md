@@ -535,14 +535,20 @@ Alle internen und externen Mitarbeiter SOLLTEN in den sicheren Umgang mit der In
 
 #### ORP.5.A7
 _Anforderung entfallen_
+
 #### ORP.5.A8
+_Keine inhaltlichen Änderungen_
+
+### Anforderungen bei erhöhtem Schutzbedarf
 
 #### ORP.5.A9
+_Anforderung entfallen_
 
 #### ORP.5.A10
+_Anforderung entfallen_
 
 #### ORP.5.A11
-
+_Anforderung entfallen_
 
 
 ////////////////
