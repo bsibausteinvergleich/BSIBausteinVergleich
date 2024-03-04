@@ -789,6 +789,37 @@ _zu:_\
 Um die Vertraulichkeit und Integrität der gesicherten Daten zu gewährleisten, SOLLTE der IT-Betrieb alle Datensicherungen verschlüsseln.
 
 
+## Änderungen CON.4
+
+### Basis-Anforderungen
+
+#### CON.4.A1
+
+#### CON.4.A2
+
+#### CON.4.A3
+
+#### CON.4.A4
+
+#### CON.4.A5
+
+#### CON.4.A6
+
+#### CON.4.A7
+
+#### CON.4.A8
+
+#### CON.4.A9
+
+#### CON.4.A10
+
+#### CON.4.A11
+
+#### CON.4.A12
+
+
+
+
 ////////////////
 Formatierungshilfen:
 
