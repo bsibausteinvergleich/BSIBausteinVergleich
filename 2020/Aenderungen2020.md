@@ -1130,6 +1130,39 @@ _Keine inhaltlichen Änderungen._
 _Entfallen:_ Dies erfordert im Regelfall eine umfassende Hochverfügbarkeitsplanung.
 
 
+## Änderungen OPS.1.1.3
+
+### Basis-Anforderungen
+
+#### OPS.1.1.3.A1
+
+#### OPS.1.1.3.A2
+
+#### OPS.1.1.3.A3
+
+#### OPS.1.1.3.A4
+
+#### OPS.1.1.3.A5
+
+#### OPS.1.1.3.A6
+
+#### OPS.1.1.3.A7
+
+#### OPS.1.1.3.A8
+
+#### OPS.1.1.3.A9
+
+#### OPS.1.1.3.A10
+
+#### OPS.1.1.3.A11
+
+#### OPS.1.1.3.A12
+
+#### OPS.1.1.3.A13
+
+#### OPS.1.1.3.A14
+
+
 ////////////////
 Formatierungshilfen:
 
