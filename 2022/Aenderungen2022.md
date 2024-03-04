@@ -57,8 +57,8 @@ Keine inhaltlichen Änderungen.
 ### Änderungen CON.3
 
 #### CON.3.A1
-
-##### Geändert:
+<details>
+<summary>##### Geändert:</summary>
 
 Dazu MÜSSEN die Fachverantwortlichen für die Anwendungen ihre Anforderungen an die Datensicherung definieren.
 
@@ -77,7 +77,7 @@ Der IT-Betrieb MUSS mindestens die nachfolgenden Rahmenbedingungen mit den Fachv
 • Zuständigkeiten für die Datensicherung.
 
 Die Einflussfaktoren MÜSSEN nachvollziehbar und auf geeignete Weise festgehalten werden.
-
+</details>
 
 #### CON.3.A2
 
