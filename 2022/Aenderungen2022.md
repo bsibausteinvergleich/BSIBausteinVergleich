@@ -83,22 +83,25 @@ Die Einflussfaktoren MÜSSEN nachvollziehbar und auf geeignete Weise festgehalte
 
 #### CON.3.A2
 
-##### Geändert:
+<details>
+  <summary>Geändert:</summary>
 
 CON.3.A2 Festlegung der Verfahrensweisen für die Datensicherung [Fachverantwortliche, IT-Betrieb] (B)
 
 Der IT-Betrieb MUSS Verfahren festlegen, wie die Daten gesichert werden.
 
 Dies MUSS wiederum auf Basis der erhobenen Einflussfaktoren und in Abstimmung mit den jeweiligen Fachverantwortlichen geschehen.
+</details>
 
-##### Hinzugefügt:
+<details>
+<summary>Hinzugefügt:</summary>
 
 Datensicherungen MÜSSEN immer auf separaten Speichermedien für die Datensicherung gespeichert werden.
 
 Besonders schützenswerte Speichermedien für die Datensicherung SOLLTEN nur während der Datensicherung und Datenwiederherstellung mit dem Netz der Institution oder dem Ursprungssystem verbunden werden.
 
 In virtuellen Umgebungen sowie für Storage-Systeme SOLLTE geprüft werden, ob das IT-System ergänzend durch Snapshot-Mechanismen gesichert werden kann, um hierdurch mehrere schnell wiederherstellbare Zwischenversionen zwischen den vollständigen Datensicherungen zu erstellen.
-
+</details>
 
 #### CON.3.A3
 
