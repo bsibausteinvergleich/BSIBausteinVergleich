@@ -860,6 +860,29 @@ Stehen mehrere Produkte zur Auswahl, SOLLTEN insbesondere dann Sicherheitszertif
 _Keine inhaltlichen Änderungen._
 
 
+## Änderungen CON.5
+
+### Basis-Anforderungen
+
+#### CON.5.A
+
+#### CON.5.A
+
+#### CON.5.A
+
+#### CON.5.A
+
+#### CON.5.A
+
+#### CON.5.A
+
+#### CON.5.A
+
+#### CON.5.A
+
+#### CON.5.A
+
+#### CON.5.A
 
 ////////////////
 Formatierungshilfen:
