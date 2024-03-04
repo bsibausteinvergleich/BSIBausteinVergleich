@@ -794,6 +794,26 @@ Um die Vertraulichkeit und Integrität der gesicherten Daten zu gewährleisten, 
 ### Basis-Anforderungen
 
 #### CON.4.A1
+_Geändert:_\
+~~Bei der Installation von Standardsoftware MUSS sichergestellt werden, dass es sich dabei um ein originales unverändertes Softwareprogramm handelt.
+
+Dazu MUSS es entweder von Originaldatenträgern oder von geprüften identischen Kopien des originalen Installationsprogramms installiert werden.
+
+Der Zugriff auf die Installationsroutinen MUSS auf berechtigte Mitarbeiter eingeschränkt werden.
+
+Die Originaldatenträger oder das Installationsprogramm MÜSSEN auf Schadsoftware überprüft werden.
+
+Von den Installationsdateien SOLLTEN Sicherungskopien angelegt und geprüft werden.~~\
+_zu:_\
+Bei der Installation von Standardsoftware MUSS sichergestellt werden, dass es sich dabei um ein originales unverändertes Softwareprogramm handelt.
+
+Dazu MUSS es entweder von Originaldatenträgern oder von geprüften identischen Kopien des originalen Installationsprogramms installiert werden.
+
+Der Zugriff auf die Installationsroutinen MUSS auf berechtigte Mitarbeiter eingeschränkt werden.
+
+Die Originaldatenträger oder das Installationsprogramm MÜSSEN auf Schadsoftware überprüft werden.
+
+Von den Installationsdateien SOLLTEN Sicherungskopien angelegt und geprüft werden.
 
 #### CON.4.A2
 
