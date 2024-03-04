@@ -140,7 +140,7 @@ Vor der ersten Inbetriebnahme der Geräte SOLLTEN geeignete Prüf- und Genehmigu
 Keine inhaltlichen Änderungen.
 
 #### ORP.1.A9
-Diese Anforderung ist entfallen.
+_Anforderung entfallen._
 
 #### ORP.1.A10
 Keine inhaltlichen Änderungen.
@@ -294,7 +294,7 @@ Die Institutionsleitung MUSS die Sicherheitskampagnen und Schulungsmaßnahmen f�
 Keine inhaltlichen Änderungen
 
 #### ORP.3.A3
-_Entfallen_
+_Anforderung entfallen_
 
 ### Standard-Anforderungen
 
@@ -522,11 +522,19 @@ _zu:_\
 Compliance Manager und Informationssicherheitsbeauftragte (ISB) SOLLTEN sich regelmäßig austauschen.
 
 #### ORP.5.A5
+_Geändert:_\
+~~Es SOLLTE eine Übersicht über alle erteilten Ausnahmegenehmigungen geben.~~\
+_zu:_\
+Es SOLLTE eine Übersicht über alle erteilten Ausnahmegenehmigungen erstellt und gepflegt werden.
 
 #### ORP.5.A6
+_Geändert:_\
+~~Alle Mitarbeiter und alle externen IT-Benutzer SOLLTEN in den sicheren Umgang mit der IT der Institution eingewiesen werden.~~\
+_zu:_\
+Alle internen und externen Mitarbeiter SOLLTEN in den sicheren Umgang mit der Informationstechnik der Institution eingewiesen werden.
 
 #### ORP.5.A7
-
+_Anforderung entfallen_
 #### ORP.5.A8
 
 #### ORP.5.A9
