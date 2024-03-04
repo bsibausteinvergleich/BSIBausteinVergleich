@@ -657,13 +657,42 @@ CON.1.A18 Kryptografische Ersatzmodule [IT-Betrieb] (H)
 
 #### CON.2.A1
 _Ersetzt:_\
-~~CON.2.A1 Umsetzung Standard-Datenschutzmodell\~~
+~~CON.2.A1 Umsetzung Standard-Datenschutzmodell~~\
 ~~Es MUSS geprüft werden, ob das Standard-Datenschutzmodell angewendet wird. Eine etwaige Nichtberücksichtigung des vollständigen Schutzziele-Katalogs und eine Nichtanwendung der SDM-Methodik sowie der Referenzmaßnahmen MÜSSEN begründet werden.~~\
 _durch:_\
-CON.2.A1 Umsetzung Standard-Datenschutzmodell (B)
+CON.2.A1 Umsetzung Standard-Datenschutzmodell (B)\
 Die gesetzlichen Bestimmungen zum Datenschutz (DSGVO, BDSG und LDSG) MÜSSEN eingehalten werden. Wird die SDM-Methodik nicht berücksichtigt, die Maßnahmen also nicht auf der Basis der Gewährleistungsziele systematisiert und mit dem Referenzmaßnahmen-Katalog des SDM abgeglichen, SOLLTE dies begründet und dokumentiert werden.
 
 
+## Änderungen CON.
+
+### Basis-Anforderungen
+
+#### CON.3.A1
+
+#### CON.3.A2
+
+#### CON.3.A3
+
+#### CON.3.A4
+
+#### CON.3.A5
+
+#### CON.3.A6
+
+#### CON.3.A7
+
+#### CON.3.A8
+
+#### CON.3.A9
+
+#### CON.3.A10
+
+#### CON.3.A11
+
+#### CON.3.A12
+
+#### CON.3.A13
 
 ////////////////
 Formatierungshilfen:
