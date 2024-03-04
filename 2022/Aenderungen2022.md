@@ -135,7 +135,7 @@ Die Datensicherungpläne MÜSSEN mindestens eine kurze Beschreibung dazu enthalt
 #### CON.3.A5
 
 <details>
-  <summary>XGeändert:V
+  <summary>Geändert:</summary>
 
 CON.3.A5 Regelmäßige Datensicherung [IT-Betrieb, Mitarbeiter] (B)
 
@@ -271,35 +271,39 @@ Keine inhaltlichen Änderungen.
 
 #### OPS 1.2.5.A2
 
-##### Geändert:
+<details> 
+  <summary>Geändert:</summary>
 
 Wird per Fernwartung auf Desktop-Umgebungen von Clients zugegriffen, MUSS der Benutzer des IT-Systems diesem Zugriff explizit zustimmen.
-
+</details>
 
 #### OPS 1.2.5.A24
 
-##### Geändert:
+<details> 
+  <summary>Geändert:</summary>
 
 Die Fernwartungsfunktionen SOLLTEN nur aus einem getrennten Managementnetz erreichbar sein.
-
+</details>
 
 #### OPS 1.2.5.A25
 
-##### Geändert:
+<details> 
+  <summary>Geändert:</summary>
 
 OPS.1.2.5.A25 Entkopplung der Kommunikation bei der Fernwartung (S)
 
 Direkte Fernwartungszugriffe eines Administrators von einem Fernwartungs-Client außerhalb der Managementnetze auf ein IT-System SOLLTEN vermieden werden.
 
 Der Zugriff auf Sprungserver SOLLTE nur von vertrauenswürdigen IT-Systemen aus möglich sein.
-
+</details>
 
 #### OPS 1.2.5.A14
 
-##### Hinzugefügt:
+<details> 
+  <summary>Hinzugefügt:</summary>
 
 Die Netzkommunikation der Administrationssysteme SOLLTE so eingeschränkt werden, dass nur Verbindungen zu IT-Systemen möglich sind, die administriert werden sollen.
-
+</details>
 
 ### OPS 1.2.6
 
@@ -366,25 +370,28 @@ Keine Inhaltlichen Änderungen
 
 #### APP 3.1.A1
 
-##### Geändert:
+<details> 
+  <summary>Geändert:</summary>
 
 APP.3.1.A1 Authentisierung (B)
 
 Der IT-Betrieb MUSS Webanwendungen und Webservices so konfigurieren, dass sich Benutzer gegenüber der Webanwendung oder dem Webservice authentisieren müssen, wenn diese auf geschützte Ressourcen zugreifen wollen.
-
+</details>
 
 #### APP 3.1.A4
 
-##### Geändert:
+<details> 
+  <summary>Geändert:</summary>
 
 APP.3.1.A4 Kontrolliertes Einbinden von Dateien und Inhalten (B)
 
 Falls eine Webanwendung oder ein Webservice eine Upload-Funktion für Dateien anbietet, MUSS diese Funktion durch den IT-Betrieb so weit wie möglich eingeschränkt werden.
-
+</details>
 
 #### APP 3.1.A7
 
-##### Geändert:
+<details> 
+  <summary>Geändert:</summary>
 
 APP.3.1.A7 Schutz vor unerlaubter automatisierter Nutzung (B)
 
@@ -393,31 +400,34 @@ Der IT-Betrieb MUSS sicherstellen, dass Webanwendungen und Webservices vor unber
 Dabei MUSS jedoch berücksichtigt werden, wie sich die Schutzmechanismen auf die Nutzungsmöglichkeiten berechtigter Benutzer auswirken.
 
 Wenn die Webanwendung RSS-Feeds oder andere Funktionen enthält, die explizit für die automatisierte Nutzung vorgesehen sind, MUSS dies ebenfalls bei der Konfiguration der Schutzmechanismen berücksichtigt werden.
-
+</details>
 
 #### APP 3.1.A14
 
-##### Geändert:
+<details> 
+  <summary>Geändert:</summary>
 
 Der IT-Betrieb MUSS sicherstellen, dass Zugangsdaten zur Webanwendung oder zum Webservice serverseitig mithilfe von sicheren kryptografischen Algorithmen vor unbefugtem Zugriff geschützt werden.
 
 Die Dateien mit den Quelltexten der Webanwendung oder des Webservices MÜSSEN vor unerlaubten Abrufen geschützt werden.
-
+</details>
 
 #### APP 3.1.A8
 
-##### Geändert:
+<details> 
+  <summary>Geändert:</summary>
 
 APP.3.1.A8 Systemarchitektur [Beschaffungsstelle] (S)
 
 Sicherheitsaspekte SOLLTEN bereits während der Planung von Webanwendungen und Webservices betrachtet werden.
 
 Auch SOLLTE darauf geachtet werden, dass die Architektur der Webanwendung oder des Webservice die Geschäftslogik der Institution exakt erfasst und korrekt umsetzt.
-
+</details>
 
 #### APP 3.1.A9
 
-##### Geändert:
+<details> 
+  <summary>Geändert:</summary>
 
 APP.3.1.A9 Beschaffung von Webanwendungen und Webservices (S)
 
@@ -430,34 +440,37 @@ Zusätzlich zu den allgemeinen Aspekten der Beschaffung von Software SOLLTE die 
 • Schutzmechanismen vor verbreiteten Angriffen auf Webanwendungen und Webservices sowie
 
 • Zugriff auf den Quelltext der Webanwendung oder des Webservices.
-
+</details>
 
 #### APP 3.1.A12
 
-##### Geändert:
+<details> 
+  <summary>Geändert:</summary>
 
 APP.3.1.A12 Sichere Konfiguration (S)
 
 Webanwendungen und Webservices SOLLTEN so konfiguriert sein, dass auf ihre Ressourcen und Funktionen ausschließlich über die vorgesehenen, abgesicherten Kommunikationspfade zugegriffen werden kann.
 
 Folgendes SOLLTE bei der Konfiguration von Webanwendungen und Webservices umgesetzt werden:
-
+</details>
 
 #### APP 3.1.A22
 
-##### Geändert:
+<details> 
+  <summary>Geändert:</summary>
 
 Webanwendungen und Webservices SOLLTEN regelmäßig auf Sicherheitsprobleme hin überprüft werden.
-
+</details>
 
 #### APP 3.1.A20
 
-##### Geändert:
+<details> 
+  <summary>Geändert:</summary>
 
 Die Konfiguration der eingesetzten WAF SOLLTE auf die zu schützende Webanwendung oder den Webservice angepasst werden.
 
 Nach jedem Update der Webanwendung oder des Webservices SOLLTE die Konfiguration der WAF geprüft werden.
-
+</details>
 
 ### APP 3.2
 
@@ -473,12 +486,13 @@ Keine inhaltlichen Veränderungen.
 
 #### APP 3.4.A1
 
-##### Geändert:
+<details> 
+  <summary>Geändert:</summary>
 
 Soll IPv6 unter Samba eingesetzt werden, MUSS auch dies sorgfältig geplant werden.
 
 Zudem MUSS in einer betriebsnahen Testumgebung überprüft werden, ob die Integration fehlerfrei funktioniert.
-
+</details>
 
 ### APP 3.6
 
@@ -494,14 +508,15 @@ Keine inhaltlichen Veränderungen.
 
 #### APP 4.3.A25
 
-##### Geändert:
+<details> 
+  <summary>Geändert:</summary>
 
 APP.4.3.A25 Sicherheitsprüfungen von Datenbanksystemen (H)
 
 Datenbanksysteme SOLLTEN regelmäßig mithilfe von Sicherheitsprüfungen kontrolliert werden.
 
 Bei den Sicherheitsprüfungen SOLLTEN die systemischen und herstellerspezifischen Aspekte der eingesetzten Datenbank-Infrastruktur (z. B. Verzeichnisdienste) sowie des eingesetzten Datenbankmanagementsystems betrachtet werden.
-
+</details>
 
 ### APP 4.4
 
@@ -527,7 +542,8 @@ Keine inhaltlichen Änderungen
 
 #### APP 6.A8
 
-##### Geändert:
+<details> 
+  <summary>Geändert:</summary>
 
 Hierzu SOLLTE der IT-Betrieb
 
@@ -538,7 +554,7 @@ Hierzu SOLLTEN die Konfigurationsdateien gesichert werden.
 Alternativ SOLLTE geeignet dokumentiert werden, wie die Software konfiguriert wird.
 
 Diese Regelung SOLLTE in das Datensicherungskonzept der Institution integriert werden.
-
+</details>
 
 ### APP 7
 
@@ -556,14 +572,15 @@ Keine inhaltlichen Änderungen
 
 #### SYS 1.1.A1
 
-##### Geändert:
+<details> 
+  <summary>Geändert:</summary>
 
 • administrative Zugänge (siehe SYS.1.1.A5 Schutz von Schnittstellen),
 
 • Protokollierung (siehe SYS.1.1.A10 Protokollierung),
 
 • Aktualisierung von Betriebssystem und Anwendungen sowie
-
+</details>
 
 #### SYS 1.1.A37 
 
@@ -572,7 +589,8 @@ Anforderung neu hinzugefügt.
 
 #### SYS 1.1.A31
 
-##### Geändert:
+<details> 
+  <summary>Geändert:</summary>
 
 SYS.1.1.A31 Einsatz von Ausführungskontrolle (H)
 
@@ -581,14 +599,15 @@ Es SOLLTE über eine Ausführungskontrolle sichergestellt werden, dass nur expli
 Die Regeln SOLLTEN so eng wie möglich gefasst werden.
 
 Falls Pfade und Hashes nicht explizit angegeben werden können, SOLLTEN alternativ auch zertifikatsbasierte oder Pfad-Regeln genutzt werden.
-
+</details>
 
 #### SYS 1.1.A36
 
-##### Geändert:
+<details> 
+  <summary>Geändert:</summary>
 
 Nicht benötigtes Schlüsselmaterial SOLLTE entfernt werden.
-
+</details>
 
 #### SYS 1.1.A38
 
@@ -610,10 +629,11 @@ Keine inhaltlichen Änderungen.
 
 #### SYS 1.5.A17
 
-##### Inhalte Entfallen:
+<details> 
+  <summary>Inhalte entfallen:</summary>
 
 *Auch SOLLTE überwacht werden, ob die virtuellen Netze den jeweiligen virtuellen IT-Systemen korrekt zugeordnet sind.*
-
+</details>
 
 ### SYS 1.6
 
@@ -626,43 +646,49 @@ In den Anforderungen des Bausteins wird anstatt von MVS- , von z/OS- gesprochen.
 
 #### SYS 1.7.A1
 
-##### Geändert:
+<details> 
+  <summary>Geändert:</summary>
 
 Zugänge über Webserver und andere Fernzugänge MÜSSEN durch Verschlüsselung geschützt werden.
+</details>
 
-
-##### Hinzugefügt:
+<details> 
+  <summary>Hinzugefügt:</summary>
 
 Nicht benötigte Webserver und Fernzugänge MÜSSEN deaktiviert werden, wenn sie nicht benötigt werden.
-
+</details>
 
 #### SYS 1.7.A6
 
-##### Geändert:
-
+<details> 
+  <summary>Geändert:</summary>
+  
 Die RSF-Kommunikation MUSS über Proxy-Server und zusätzlich über gesicherte Verbindungen (wie TLS) stattfinden.
-
+</details>
 
 #### SYS 1.7.A8
 
-##### Hinzugefügt:
+<details> 
+  <summary>Hinzugefügt:</summary>
 
 Falls RACF PassTickets verwendet werden, MUSS der Enhanced PassTicket Algorithmus aktiviert werden.
-
+</details>
 
 #### SYS 1.7.A22
 
-##### Geändert:
+<details> 
+  <summary>Geändert:</summary>
 
 SDSF (System Display and Search Facility) und ähnliche Funktionen sowie die Prioritäten-Steuerung für Jobs SOLLTEN mittels RACF vor unberechtigtem Zugriff geschützt werden.
-
+</details>
 
 #### SYS 1.7.A23
 
-##### Hinzugefügt:
+<details> 
+  <summary>Hinzugefügt:</summary>
 
 Passwörter von realen Usern und Guest-Usern SOLLTEN mittels RACF für z/VM verschlüsselt werden.
-
+</details>
 
 
 ### SYS 1.8
@@ -679,28 +705,33 @@ Anforderung wurde komplett neu hinzugefügt.
 
 #### SYS 2.1.A31
 
-##### Geändert:
+<details> 
+  <summary>Geändert:</summary>
 
 Es SOLLTE eine Strategie zur Paketfilter-Implementierung gewählt werden, die nur benötigte Netzkommunikation explizit erlaubt.
-
+</details>
 
 #### SYS 2.1.A33
 
-##### Geändert:
+<details> 
+  <summary>Geändert:</summary>
 
 SYS.2.1.A33 Einsatz von Ausführungskontrolle (H)
 
 Es SOLLTE über eine Ausführungskontrolle sichergestellt werden, dass nur explizit erlaubte Programme und Skripte ausgeführt werden können.
-
+</details>
 
 #### SYS 2.1.A34 Anforderung ist entfallen.
 
-Ehemals *SYS.2.1.A34 Kapselung von sicherheitskritischen Anwendungen und Betriebssystemkomponenten (H)*
+<details> 
+  <summary>Ehemals:</summary>
+  
+*SYS.2.1.A34 Kapselung von sicherheitskritischen Anwendungen und Betriebssystemkomponenten (H)*
 
 *Um sowohl den Zugriff eines Angreifers auf das Betriebssystem oder andere Anwendungen als auch den Zugriff vom Betriebssystem auf besonders schützenswerte Dateien zu verhindern, SOLLTEN Anwendungen und Betriebssystemkomponenten (wie beispielsweise Authentisierung oder Zertifikatsüberprüfung) besonders gekapselt bzw. anderen Anwendungen und Betriebssystemkomponenten gegenüber isoliert werden.*
 
 *Dabei SOLLTEN insbesondere sicherheitskritische Anwendungen berücksichtigt werden, die mit Daten aus unsicheren Quellen arbeiten (z.B. Webbrowser und Bürokommunikations-Anwendungen).*
-
+</details>
 
 ### SYS 2.2.2
 
@@ -711,23 +742,26 @@ Keine inhaltlichen Änderungen.
 
 #### SYS 2.2.3.A4
 
-##### Geändert:
+<details> 
+  <summary>Geändert:</summary>
 
 Diese können nur unter Windows 10 Enterprise mit der Einstellung des Telemetrielevels 0 (Security) stark reduziert werden.
 
 Wenn diese Einstellung nicht wirksam umgesetzt werden kann, dann MUSS durch geeignete Maßnahmen, etwa auf Netzebene, sichergestellt werden, dass diese Daten nicht an den Hersteller übertragen werden.
-
+</details>
 
 #### SYS 2.2.3.A5
 
-##### Geändert:
+<details> 
+  <summary>Geändert:</summary>
 
 Sofern nicht gleich- oder höherwertige Maßnahmen, wie z. B. Ausführungskontrolle, zum Schutz des IT-Systems vor einer Infektion mit Schadsoftware getroffen wurden, MUSS eine spezialisierte Komponente zum Schutz vor Schadsoftware auf Windows 10-Clients eingesetzt werden.
-
+</details>
 
 #### SYS 2.2.3.A11 entfallen
 
-Ehemals
+<details> 
+  <summary>Ehemals:</summary>
 
 *SYS.2.2.3.A11 Schutz der Anmeldeinformationen unter Windows 10 (S)*
 
@@ -738,7 +772,7 @@ Ehemals
 *Ist dies nicht möglich, SOLLTE der Schutz des Local Credential Store LSA aktiviert werden (PPL, Protected Mode Light).*
 
 *Die Netzanmeldung von lokalen Konten SOLLTE verboten werden.*
-
+</details>
 
 ### SYS 2.3
 
@@ -836,10 +870,11 @@ Keine inhaltlichen Änderungen.
 
 #### INF 2.A23
 
-##### Geändert:
+<details> 
+  <summary>Geändert:</summary>
 
 Trassen SOLLTEN hinsichtlich Anordnung und Dimensionierung so ausgelegt sein, dass eine Trennung der Spannungsebenen sowie eine sinnvolle Verteilung von Kabeln auf den Trassen möglich sind und dass auch für zukünftige Bedarfsmehrung ausreichend Platz zur Verfügung steht.
-
+</details>
 
 ### INF 5
 
