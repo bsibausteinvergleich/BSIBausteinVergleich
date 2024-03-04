@@ -929,6 +929,32 @@ _Änderung:_\
 Das Redundanzkonzept SOLLTE zwischen dem IT-Betrieb und dem Notfallbeauftragten mit Hinsicht auf das Notfallkonzept abgestimmt werden.
 
 
+## Änderungen CON.6
+
+### Basis-Anforderungen
+
+#### CON.6.A1
+
+#### CON.6.A2
+
+#### CON.6.A3
+
+#### CON.6.A4
+
+#### CON.6.A5
+
+#### CON.6.A6
+
+#### CON.6.A7
+
+#### CON.6.A8
+
+#### CON.6.A9
+
+#### CON.6.A10
+
+#### CON.6.A11
+
 
 ////////////////
 Formatierungshilfen:
