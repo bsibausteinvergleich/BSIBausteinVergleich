@@ -1,107 +1,110 @@
 3.1 Basis-Anforderungen
 
-INF.1.A1 Planung der Gebäudeabsicherung [Planer] (B)
-Je nach der (geplanten) Nutzung eines Gebäudes und dem Schutzbedarf der dort betriebenen Geschäftsprozesse MUSS festgelegt werden, wie das Gebäude abzusichern ist.
+
+
+INF.1.A1 Planung der Gebäudeabsicherung [Planer, Informationssicherheitsbeauftragter (ISB)]
+Ausgehend von der geplanten oder vorhandenen Nutzung eines Gebäudes und dem Schutzbedarf der dort betriebenen Geschäftsprozesse MUSS festgelegt werden, wie das Gebäude abzusichern ist.
 Bei einem Gebäude MÜSSEN viele verschiedene Sicherheitsaspekte zum Schutz von Personen im Gebäude, dem Schutz der Wirtschaftsgüter und der IT beachtet werden, von Brandschutz über Elektrik bis hin zur Zutrittskontrolle.
 Die Sicherheitsanforderungen aus den verschiedenen Bereichen MÜSSEN miteinander abgestimmt werden.
 
-INF.1.A2 Angepasste Aufteilung der Stromkreise (B)
+INF.1.A2 Angepasste Aufteilung der Stromkreise
 Es MUSS regelmäßig überprüft werden, ob die Absicherung und Auslegung der Stromkreise noch den tatsächlichen Bedürfnissen genügen.
 
-INF.1.A3 Einhaltung von Brandschutzvorschriften (B)
+INF.1.A3 Einhaltung von Brandschutzvorschriften
 Die bestehenden Brandschutzvorschriften sowie die Auflagen der Bauaufsicht MÜSSEN eingehalten werden.
-Die Fluchtwege MÜSSEN vorschriftsmäßig ausgeschildert und freigehalten werden.
-Bei der Brandschutzplanung SOLLTE die örtliche Feuerwehr hinzugezogen werden.
-Es MUSS ein IT-bezogenes Brandschutzkonzept erstellt und umgesetzt werden, das die fehlenden IT bezogenen Anforderungen aus der Bauordnung zum Brandschutz enthält.
+Die Fluchtwege MÜSSEN vorschriftsmäßig ausgeschildert und offen gehalten werden.
+Die örtliche Feuerwehr SOLLTE bei der Brandschutzplanung hinzugezogen werden.
+Die aus der Bauordnung erwachsenden Vorschriften zum Brandschutz sind für die Anforderungen des Brandschutzes der IT nicht ausreichend.
+Daher MUSS ein IT-bezogenes Brandschutzkonzept erstellt und umgesetzt werden.
 Unnötige Brandlasten MÜSSEN vermieden werden.
+Dazu gehört die regelmäßige Entsorgung von Altpapier und Verpackungsabfällen.
 Es MUSS einen Brandschutzbeauftragten oder eine mit dem Aufgabengebiet betraute Person geben, die auch entsprechend geschult ist.
 
-INF.1.A4 Branderkennung in Gebäuden [Planer] (B)
+INF.1.A4 Branderkennung in Gebäuden [Planer]
 Gebäude MÜSSEN mit einer ausreichenden Anzahl von Rauchmeldern ausgestattet sein.
 Bei größeren Gebäuden SOLLTE eine Brandmeldezentrale (BMZ) eingesetzt werden, auf die alle Melder aufgeschaltet sind.
-Bei Rauchdetektion MUSS eine Alarmierung im Gebäude ausgelöst werden.
-Diese MUSS sicherstellen, dass alle im Gebäude anwesenden Personen diese wahrnehmen können.
+Bei Rauchdetektion MUSS eine Alarmierung im Gebäude ausgelöst werden, bei der sichergestellt ist, dass alle im Gebäude anwesenden Personen diese wahrnehmen können.
 Die Funktionsfähigkeit aller Rauchmelder bzw. aller Komponenten einer Brandmeldeanlage MUSS regelmäßig überprüft werden.
 Es MUSS regelmäßig kontrolliert werden, dass die Fluchtwege benutzbar und frei von Hindernissen sind, damit das Gebäude in einer Gefahrensituation schnell geräumt werden kann.
 
-INF.1.A5 Handfeuerlöscher (B)
+INF.1.A5 Handfeuerlöscher
 Zur Sofortbekämpfung von Bränden MÜSSEN Handfeuerlöscher in der jeweils geeigneten Brandklasse (DIN EN 3 Tragbare Feuerlöscher) in ausreichender Zahl und Größe im Gebäude zur Verfügung stehen.
 Die Handfeuerlöscher MÜSSEN regelmäßig geprüft und gewartet werden.
-Die Mitarbeiter SOLLTEN in die Benutzung der Handfeuerlöscher eingewiesen werden.
+Die Mitarbeiter SOLLTEN in die Benutzung der Handfeuerlöscher eingewiesen worden sein.
 
-INF.1.A6 Geschlossene Fenster und Türen [Mitarbeiter] (B)
-Fenster und nach außen öffnende Türen, etwa von Balkonen oder Terrassen, MÜSSEN zu Zeiten, in denen ein Raum nicht besetzt ist, geschlossen werden.
-Dafür MUSS es eine entsprechende Anweisung geben.
-Es MUSS regelmäßig überprüft werden, ob die Fenster und Türen nach Verlassen des Gebäudes verschlossen sind.
+INF.1.A6 Geschlossene Fenster und Türen [Mitarbeiter]
+Fenster und nach außen gehende Türen (Balkone, Terrassen) MÜSSEN in Zeiten, in denen ein Raum nicht besetzt ist, geschlossen werden.
+Hierfür MUSS es eine entsprechende Anweisung geben.
+Es MUSS regelmäßig überprüft werden, ob die Fenster und Türen nach Verlassen der Räume verschlossen sind.
 Brand- und Rauchschutztüren DÜRFEN NICHT dauerhaft offen gehalten werden.
 
-INF.1.A7 Zutrittsregelung und -kontrolle [Leiter Organisation] (B)
+INF.1.A7 Zutrittsregelung und -kontrolle [Leiter Organisation]
 Der Zutritt zu schutzbedürftigen Gebäudeteilen und Räumen MUSS geregelt und kontrolliert werden.
 Es SOLLTE ein Konzept für die Zutrittskontrolle existieren.
 Die Zahl der zutrittsberechtigten Personen SOLLTE für jeden Bereich auf ein Mindestmaß reduziert werden.
-Weitere Personen DÜRFEN erst Zutritt erhalten, nachdem geprüft wurde, ob dies notwendig ist.
+Weitere Personen DÜRFEN erst nach vorheriger Prüfung der Notwendigkeit Zutritt erhalten.
 Alle erteilten Zutrittsberechtigungen SOLLTEN dokumentiert werden.
 Die Zutrittskontrollmaßnahmen MÜSSEN regelmäßig auf ihre Wirksamkeit überprüft werden.
 
-INF.1.A8 Rauchverbot (B)
-Für Räume mit IT oder Datenträgern, in denen Brände oder Verschmutzungen zu hohen Schäden führen können, wie Serverräume, Datenträger- oder Belegarchive, MUSS ein Rauchverbot erlassen werden.
-Es MUSS regelmäßig kontrolliert werden, dass bei der Einrichtung oder Duldung von Raucherzonen der Zutrittsschutz nicht ausgehebelt wird.
+INF.1.A8 Rauchverbot [Mitarbeiter]
+Für Räume mit IT oder Datenträgern (Serverraum, Datenträgerarchiv, aber auch Belegarchiv), in denen Brände oder Verschmutzungen zu hohen Schäden führen können, MUSS ein Rauchverbot erlassen werden.
+Es MUSS regelmäßig kontrolliert werden, dass bei Einrichtung oder Duldung von Raucherzonen der Zutrittsschutz nicht ausgehebelt wird.
 
 
 3.2 Standard-Anforderungen
 
-INF.1.A9 Sicherheitskonzept für die Gebäudenutzung [Planer, Informationssicherheitsbeauftragter (ISB)] (S)
+INF.1.A9 Sicherheitskonzept für die Gebäudenutzung [Planer, Informationssicherheitsbeauftragter (ISB)]
 Es SOLLTE ein Sicherheitskonzept für die Gebäudenutzung geben.
 Das Sicherheitskonzept für das Gebäude SOLLTE mit dem Gesamt-Sicherheitskonzept der Institution abgestimmt sein.
 Es SOLLTE regelmäßig aktualisiert werden.
 Schützenswerte Räume oder Gebäudeteile SOLLTEN nicht in exponierten oder besonders gefährdeten Bereichen untergebracht sein.
 
-INF.1.A10 Einhaltung einschlägiger Normen und Vorschriften [Errichterfirma, Bauleiter] (S)
-Bei der Planung, der Errichtung und dem Umbau von Gebäuden sowie beim Einbau von technischen Einrichtungen SOLLTEN alle relevanten Normen und Vorschriften berücksichtigt werden.
+INF.1.A10 Einhaltung einschlägiger Normen und Vorschriften [Errichterfirma, Bauleiter]
+Bei Planung, Errichtung und Umbau von Gebäuden sowie beim Einbau von technischen Einrichtungen SOLLTEN alle relevanten Normen und Vorschriften berücksichtigt werden.
 
-INF.1.A11 Abgeschlossene Türen [Mitarbeiter] (S)
-Mitarbeiter SOLLTEN angewiesen werden, ihr Büro abzuschließen oder ihre Arbeitsunterlagen wegzuschließen, wenn sie den Raum verlassen und der Raum für unberechtigte Personen zugänglich ist.
+INF.1.A11 Abgeschlossene Türen [Mitarbeiter]
+Mitarbeiter SOLLTEN angewiesen werden, bei Abwesenheit ihr Büro zu verschließen oder ihre Arbeitsunterlagen wegzuschließen.
 Es SOLLTE sporadisch überprüft werden, ob dies umgesetzt wird.
 
-INF.1.A12 Schlüsselverwaltung (S)
-Für alle Schlüssel des Gebäudes SOLLTE ein Schließplan vorliegen.
+INF.1.A12 Schlüsselverwaltung
+Für alle Schlüssel des Gebäudes (von Etagen, Fluren und Räumen) SOLLTE ein Schließplan vorliegen.
 Die Herstellung, Aufbewahrung, Verwaltung und Ausgabe von Schlüsseln SOLLTE zentral geregelt sein.
 Reserveschlüssel SOLLTEN vorgehalten und gesichert, aber für Notfälle griffbereit aufbewahrt werden.
 Nicht ausgegebene Schlüssel SOLLTEN sicher aufbewahrt werden.
 Jede Schlüsselausgabe SOLLTE dokumentiert werden.
 
-INF.1.A13 Regelungen für Zutritt zu Verteilern (S)
+INF.1.A13 Regelungen für Zutritt zu Verteilern
 Der Zutritt zu den Verteilern aller Versorgungseinrichtungen in einem Gebäude SOLLTE im Bedarfsfall schnell möglich sein.
 Der Zutritt zu Verteilern SOLLTE auf einen engen Kreis von Berechtigten beschränkt sein.
 
-INF.1.A14 Blitzschutzeinrichtungen (S)
+INF.1.A14 Blitzschutzeinrichtungen
 Es SOLLTE eine Blitzschutzanlage nach geltender Norm installiert sein.
 Es SOLLTE ein umfassendes Blitz- und Überspannungsschutzkonzept vorhanden sein.
 Die Fangeinrichtungen bei Gebäuden mit umfangreicher IT-Ausstattung SOLLTEN mindestens der Schutzklasse II gemäß DIN EN 62305 „Blitzschutz“ entsprechen.
 Die Blitzschutzanlage SOLLTE regelmäßig geprüft und gewartet werden.
 
-INF.1.A15 Lagepläne der Versorgungsleitungen (S)
+INF.1.A15 Lagepläne der Versorgungsleitungen
 Es SOLLTEN aktuelle Lagepläne aller Versorgungsleitungen existieren.
 Es SOLLTE geregelt sein, wer die Lagepläne aller Versorgungsleitungen führt und aktualisiert.
 Die Pläne SOLLTEN so aufbewahrt werden, dass ausschließlich berechtigte Personen darauf zugreifen können, sie aber im Bedarfsfall schnell verfügbar sind.
 
-INF.1.A16 Vermeidung von Lagehinweisen auf schützenswerte Gebäudeteile (S)
+INF.1.A16 Vermeidung von Lagehinweisen auf schützenswerte Gebäudeteile
 Lagehinweise auf schutzwürdige Bereiche SOLLTEN vermieden werden.
 Schutzwürdige Gebäudebereiche SOLLTEN von außen nicht leicht einsehbar sein.
 
-INF.1.A17 Baulicher Rauchschutz [Planer] (S)
+INF.1.A17 Baulicher Rauchschutz [Planer]
 Der bauliche Rauchschutz SOLLTE nach Installations- und Umbauarbeiten überprüft werden.
-Es SOLLTE regelmäßig überprüft werden, ob die Rauchschutz-Komponenten noch funktionieren.
+Die Funktionsfähigkeit der Rauchschutz-Komponenten SOLLTE regelmäßig überprüft werden.
 
-INF.1.A18 Brandschutzbegehungen (S)
-Brandschutzbegehungen SOLLTEN regelmäßig, d. h. mindestens ein- bis zweimal im Jahr stattfinden.
+INF.1.A18 Brandschutzbegehungen
+Brandschutzbegehungen SOLLTEN regelmäßig– mindestens ein- bis zweimal im Jahr – stattfinden.
 Bei Brandschutzbegehungen festgestellte Mängel SOLLTEN unverzüglich behoben werden.
 
-INF.1.A19 Frühzeitige Information des Brandschutzbeauftragten (S)
+INF.1.A19 Frühzeitige Information des Brandschutzbeauftragten
 Der Brandschutzbeauftragte SOLLTE über Arbeiten an Leitungstrassen, Fluren, Flucht- und Rettungswegen informiert werden.
 Er SOLLTE die ordnungsgemäße Ausführung von Brandschutzmaßnahmen kontrollieren.
 
-INF.1.A20 Alarmierungsplan und Brandschutzübungen (S)
+INF.1.A20 Alarmierungsplan und Brandschutzübungen
 Es SOLLTE ein Alarmierungsplan für die im Brandfall zu ergreifenden Maßnahmen erstellt werden.
 Er SOLLTE periodisch aktualisiert werden.
 Brandschutzübungen SOLLTEN regelmäßig durchgeführt werden.
@@ -110,69 +113,68 @@ Der Alarmierungsplan SOLLTE in regelmäßigen Abständen überprüft und aktuali
 
 3.3 Anforderungen bei erhöhtem Schutzbedarf
 
-INF.1.A21 Unabhängige elektrische Versorgungsstränge (H)
-Die IT-Systeme SOLLTEN über zwei voneinander unabhängige Versorgungsstränge gespeist werden.
+INF.1.A21 Unabhängige elektrische Versorgungsstränge (A)
+Die IT SOLLTE über zwei voneinander unabhängige Versorgungsstränge gespeist werden.
 
-INF.1.A22 Sichere Türen und Fenster (H)
+INF.1.A22 Sichere Türen und Fenster (CIA)
 Türen und Fenster SOLLTEN anhand der Schutzziele des zu sichernden Bereichs und dem Schutzbedarf der Institution sowie der passenden Klassifizierung in den einschlägigen Normen ausgewählt werden.
 Alle raumumschließenden Sicherungsmaßnahmen durch Fenster, Türen und Wände SOLLTEN in Bezug auf Einbruch, Brand und Rauch gleichwertig und angemessen sein.
 Es SOLLTE regelmäßig überprüft werden, dass die Sicherheitstüren und -fenster funktionstüchtig sind.
 
-INF.1.A23 Bildung von Sicherheitszonen [Planer] (H)
+INF.1.A23 Bildung von Sicherheitszonen [Planer] (C)
 Räume ähnlichen Schutzbedarfs SOLLTEN in Zonen zusammengefasst werden, um vergleichbare Risiken einheitlich behandeln und Kosten für erforderliche Sicherheitsmaßnahmen reduzieren zu können.
 Es SOLLTE ein Sicherheitszonenkonzept für Gebäude und Grundstück entwickelt und dokumentiert werden.
 
-INF.1.A24 Selbsttätige Entwässerung (H)
-Alle von Wasser gefährdeten Bereiche SOLLTEN mit einer selbsttätigen Entwässerung ausgestattet sein.
-Es SOLLTE regelmäßig geprüft werden, ob die aktiven und passiven Entwässerungseinrichtungen noch funktionieren.
+INF.1.A24 Selbsttätige Entwässerung (A)
+Alle wassergefährdeten Bereiche SOLLTEN mit einer selbsttätigen Entwässerung ausgestattet sein.
+Die Funktionstüchtigkeit aktiver und passiver Entwässerungseinrichtungen SOLLTE regelmäßig geprüft werden.
 
-INF.1.A25 Geeignete Standortauswahl [Institutionsleitung] (H)
-Wird ein Gebäudestandort geplant oder ausgewählt, SOLLTE geprüft werden, welche Umfeldbedingungen Einfluss auf die Informationssicherheit haben könnten.
+INF.1.A25 Geeignete Standortauswahl [Institutionsleitung] (A)
+Bei Auswahl oder Planung eines Gebäudestandortes SOLLTE geprüft werden, welche Umfeldbedingungen Einfluss auf die Informationssicherheit haben könnten.
 Es SOLLTE eine Übersicht über standortbedingte Gefährdungen geben.
-Diesen Gefährdungen SOLLTE mit zusätzlichen kompensierenden Maßnahmen entgegengewirkt werden.
+Diesen Gefährdungen SOLLTE mit zusätzlichen kompensierenden Maßnahmen begegnet werden.
 
-INF.1.A26 Pförtner- oder Sicherheitsdienst (H)
+INF.1.A26 Pförtner- oder Sicherheitsdienst (CIA)
 Die Aufgaben des Pförtner- bzw. Sicherheitsdienstes SOLLTEN klar dokumentiert sein.
 Die Pförtner SOLLTEN alle Personenbewegungen an der Pforte und an allen anderen Eingängen beobachten bzw. kontrollieren.
-Alle Mitarbeiter und Besucher SOLLTEN sich bei den Pförtnern ausweisen können.
+Alle Mitarbeiter und Besucher SOLLTEN sich bei den Pförtnern legitimieren.
 Besucher SOLLTEN zu den Besuchten begleitet bzw. an der Pforte abgeholt werden.
 Die Pförtner SOLLTEN rechtzeitig darüber informiert werden, wenn sich Zutrittsberechtigungen ändern.
 
-INF.1.A27 Einbruchschutz (H)
-Es SOLLTEN ausreichende und den örtlichen Gegebenheiten angepasste Maßnahmen zum Einbruchschutz umgesetzt werden.
-Bei der Planung, der Umsetzung und im Betrieb SOLLTE beim Einbruchschutz darauf geachtet werden, dass er gleichwertig und durchgängig ist.
-Er SOLLTE regelmäßig durch eine fachkundige Person begutachtet werden.
-Die Regelungen zum Einbruchschutz SOLLTEN den Mitarbeitern bekannt sein.
+INF.1.A27 Einbruchsschutz (CIA)
+Es SOLLTEN ausreichende und den örtlichen Gegebenheiten angepasste Maßnahmen zum Einbruchsschutz umgesetzt werden.
+Gleichwertigkeit und Durchgängigkeit des Einbruchsschutzes bei der Planung, der Umsetzung und im Betrieb SOLLTEN regelmäßig durch eine fachkundige Person begutachtet werden.
+Die Regelungen zum Einbruchsschutz SOLLTEN den Mitarbeitern bekannt sein.
 
-INF.1.A28 Klimatisierung durch raumlufttechnische Anlagen (H)
-In größeren Gebäuden SOLLTE die Luftversorgung durch raumlufttechnische RLT-Anlagen geleistet werden.
+INF.1.A28 Klimatisierung für Menschen (IA)
+In größeren Gebäuden SOLLTE die Luftversorgung durch raumlufttechnische (RLT-)Anlagen geleistet werden.
 Die RLT-Anlagen SOLLTEN auf die tatsächliche Nutzung des Gebäudes ausgelegt sein.
 RLT-Anlagen SOLLTEN regelmäßig gewartet werden.
 
-INF.1.A29 Organisatorische Vorgaben für die Gebäudereinigung (H)
+INF.1.A29 Organisatorische Vorgaben für die Gebäudereinigung (CIA)
 Es SOLLTE kontrolliert werden, ob die Mitarbeiter der beauftragten Reinigungsfirma die ausgegebenen Schlüssel bzw. Ausweise vertragsgemäß verwenden.
 Die Reinigungskräfte SOLLTEN über den Umgang mit der IT ausreichend informiert sein.
 Reinigungskräfte SOLLTEN in besonders sensitiven Bereichen bei der Arbeit beaufsichtigt werden.
 
-INF.1.A30 Auswahl eines geeigneten Gebäudes (H)
+INF.1.A30 Auswahl eines geeigneten Gebäudes (CIA)
 Bei der Auswahl eines geeigneten Gebäudes SOLLTE geprüft werden, ob alle für die spätere Nutzung relevanten Sicherheitsanforderungen auch umgesetzt werden können.
-Für jedes Gebäude SOLLTEN im Vorfeld die vorhandenen Gefährdungen und die erforderlichen Schaden vorbeugenden oder reduzierenden Maßnahmen dokumentiert werden.
+Für jedes Gebäude SOLLTEN im Vorfeld die vorhandenen Gefährdungen und die erforderlichen schadensvorbeugenden oder -reduzierenden Maßnahmen dokumentiert werden.
 
-INF.1.A31 Auszug aus Gebäuden [Innerer Dienst] (H)
-Im Vorfeld des Auszugs SOLLTE ein Bestandsverzeichnis aller für die Informationssicherheit relevanten Objekte wie Hardware, Software, Datenträger, Ordner oder Schriftstücke erstellt werden.
+INF.1.A31 Auszug aus Gebäuden [Innerer Dienst] (C)
+Im Vorfeld des Auszugs SOLLTE ein Bestandsverzeichnis aller für die Informationssicherheit relevanten Dinge (Hardware, Software, Datenträger, Ordner, Schriftstücke etc.) erstellt werden.
 Nach dem Auszug SOLLTEN alle Räume nach zurückgelassenen Dingen durchsucht werden.
 
-INF.1.A32 Brandschott-Kataster (H)
+INF.1.A32 Brandschott-Kataster (A)
 Es SOLLTE ein Brandschott-Kataster geführt werden.
 In diesem SOLLTEN alle Arten von Schotten individuell aufgenommen werden.
 Nach Arbeiten an Brandschotten SOLLTEN die Änderungen im Kataster spätestens nach vier Wochen eingetragen werden.
 
-INF.1.A33 Anordnung schützenswerter Gebäudeteile (H)
+INF.1.A33 Anordnung schützenswerter Gebäudeteile (CIA)
 Schützenswerte Räume oder Gebäudeteile SOLLTEN NICHT in exponierten oder besonders gefährdeten Bereichen untergebracht sein.
 Falls sich schützenswerte Räume in exponierter Lage befinden, SOLLTEN ausreichende Maßnahmen ergriffen werden, sie zu sichern.
 Dies SOLLTE dokumentiert werden.
 
-INF.1.A34 Gefahrenmeldeanlage (H)
+INF.1.A34 Gefahrenmeldeanlage (A)
 Es SOLLTE eine den Räumlichkeiten und den Risiken angemessene Gefahrenmeldeanlage geben.
 Die Gefahrenmeldeanlage SOLLTE regelmäßig gewartet bzw. geprüft werden.
 Es SOLLTE geprüft werden, ob die Empfänger von Gefahrenmeldungen in der Lage sind, technisch und personell angemessen auf den Alarm zu reagieren.

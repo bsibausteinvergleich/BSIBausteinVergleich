@@ -1,81 +1,80 @@
 3.1 Basis-Anforderungen
 
-CON.4.A1 Sicherstellen der Integrität von Standardsoftware (B)
-Bei der Installation von Standardsoftware MÜSSEN originale und unveränderte Softwareprogramme verwendet werden.
-Dazu MUSS sie entweder von Originaldatenträgern oder von geprüften identischen Kopien des originalen Installationsprogramms installiert werden.
-Das Installationsprogramm MUSS auf Schadsoftware überprüft werden.
-Von den Installationsdateien SOLLTEN im Rahmen des Datensicherungskonzepts Sicherungskopien angelegt werden.
+CON.4.A1 Sicherstellen der Integrität von Standardsoftware
+Bei der Installation von Standardsoftware MUSS sichergestellt werden, dass es sich dabei um ein originales unverändertes Softwareprogramm handelt.
+Dazu MUSS es entweder von Originaldatenträgern oder von geprüften identischen Kopien des originalen Installationsprogramms installiert werden.
+Der Zugriff auf die Installationsroutinen MUSS auf berechtigte Mitarbeiter eingeschränkt werden.
+Die Originaldatenträger oder das Installationsprogramm MÜSSEN auf Schadsoftware überprüft werden.
+Von den Installationsdateien SOLLTEN Sicherungskopien angelegt und geprüft werden.
 
-CON.4.A2 Entwicklung der Installationsanweisung für Standardsoftware (B)
-Für jede ausgewählte Standardsoftware MUSS eine Installationsanweisung erstellt werden.
+CON.4.A2 Entwicklung der Installationsanweisung für Standardsoftware
+Für die ausgewählte Standardsoftware MUSS eine Installationsanweisung erstellt werden.
 Auch MÜSSEN geeignete Parameter für die Konfiguration sowie organisatorische Rahmenbedingungen für die Installation der Software vorgegeben werden.
 
-CON.4.A3 Sichere Installation und Konfiguration von Standardsoftware (B)
-Freigegebene Standardsoftware MUSS so installiert und konfiguriert werden, dass dabei die entsprechenden Installationsanweisungen eingehalten werden.
-Wird von diesen Anweisungen abgewichen, MUSS dies durch den Vorgesetzten genehmigt werden.
-Alle Installationen DÜRFEN NUR vom IT-Betrieb durchgeführt werden.
-Dabei MUSS sichergestellt sein, dass ausschließlich die benötigten Programmfunktionen installiert werden.
+CON.4.A3 Sichere Installation und Konfiguration von Standardsoftware
+Freigegebene Standardsoftware MUSS so installiert und konfiguriert werden, dass dabei die entsprechenden Installationsanweisungen (siehe CON.4.A2 Entwicklung der Installationsanweisungen für Standardsoftware) eingehalten werden.
+Wird von diesen Anweisungen abgewichen, MUSS das durch den Vorgesetzten genehmigt werden.
+Alle Installationen MÜSSEN vom IT-Betrieb durchgeführt werden.
+Dabei MUSS sichergestellt sein, dass lediglich die benötigten Programmfunktionen installiert werden.
 Die Software MUSS so konfiguriert werden, dass sie die Sicherheitsrichtlinien der Institution erfüllt.
 Nicht benötigte Dienste und Funktionen MÜSSEN deinstalliert werden.
 Falls dies nicht möglich ist, MÜSSEN sie abgeschaltet werden.
-Bevor und nachdem Standardsoftware installiert wurde, SOLLTEN von allen beteiligten IT-Systemen Datensicherungen erstellt werden.
+Bevor und nachdem Standardsoftware installiert wurde, SOLLTEN von allen beteiligten IT-Systemen Datensicherungen durchgeführt werden.
 
 
 3.2 Standard-Anforderungen
 
-CON.4.A4 Festlegung der Verantwortlichkeiten im Bereich Standardsoftware [Fachabteilung] (S)
+CON.4.A4 Festlegung der Verantwortlichkeiten im Bereich Standardsoftware [Fachabteilung]
 Für die Einführung einer Standardsoftware SOLLTEN Verantwortliche benannt werden.
-Dabei SOLLTE mindestens festgelegt werden, wer einen Anforderungskatalog erstellt, das Produkt auswählt, es testet und freigibt.
-Außerdem SOLLTE bestimmt werden, wer letztlich für die Installation verantwortlich ist.
+Dabei SOLLTE mindestens festgelegt werden, wer einen Anforderungskatalog erstellt, das Produkt auswählt, es testet und freigibt und wer letztlich für die Installation verantwortlich ist.
 Zusätzlich SOLLTE ein Einführungs- und Freigabeprozess definiert werden.
 Für den Betrieb von Standardsoftware SOLLTEN technische und fachliche Produktverantwortliche benannt werden.
 
-CON.4.A5 Erstellung eines Anforderungskatalogs für Standardsoftware [Fachabteilung] (S)
-Wird Standardsoftware beschafft, SOLLTE zuvor ein Anforderungskatalog erstellt werden, der neben funktionalen Anforderungen auch Sicherheitsanforderungen umfasst.
+CON.4.A5 Erstellung eines Anforderungskatalogs für Standardsoftware [Fachabteilung]
+Vor der Beschaffung einer Standardsoftware SOLLTE ein Anforderungskatalog erstellt werden, der neben funktionalen auch Sicherheitsanforderungen umfasst.
 Dazu SOLLTEN auch die Programmanforderungen der Fach- und IT-Abteilungen erhoben werden.
 Der fertige Anforderungskatalog SOLLTE mit allen betroffenen Fachabteilungen abgestimmt werden.
 
-CON.4.A6 Auswahl einer geeigneten Standardsoftware [Fachabteilung, Beschaffungsstelle] (S)
-Anhand des Anforderungskatalogs SOLLTEN die am Markt erhältlichen Produkte gesichtet und mithilfe einer Bewertungsskala miteinander verglichen werden (siehe CON4.A5 Erstellung eines Anforderungskatalogs für Stan-dardsoftware).
+CON.4.A6 Auswahl einer geeigneten Standardsoftware [Fachabteilung, Beschaffungsstelle]
+Anhand des Anforderungskatalogs (siehe CON.4..A5 Erstellung eines Anforderungskatalogs für Standardsoftware) SOLLTEN die am Markt erhältlichen Produkte gesichtet und mithilfe einer Bewertungsskala miteinander verglichen werden.
 Danach SOLLTE untersucht werden, ob die Produkte aus der engeren Wahl die Anforderungen der Institution auch wirklich erfüllen.
-Gibt es mehrere Produktalternativen, SOLLTE auch der zusätzliche Aufwand berücksichtigt werden, z. B. für Schulungen oder für die Migration.
-Letztlich SOLLTE die Beschaffungsstelle gemeinsam mit dem Leiter der anfordernden Fachabteilung und des IT-Betriebs anhand der Bewertungen und Testergebnisse ein geeignetes Softwareprodukt auswählen.
+Gibt es mehrere Produktalternativen, SOLLTEN auch zusätzliche Aufwände berücksichtigt werden, z. B. für Schulungen oder für die Migration.
+Letztlich SOLLTE die Beschaffungsstelle gemeinsam mit dem Leiter der anfordernden Fachabteilung und des IT-Betriebs anhand der Bewertungen und Testergebnissen ein geeignetes Softwareprodukt auswählen.
 
-CON.4.A7 Überprüfung der Lieferung von Standardsoftware [Fachabteilung] (S)
+CON.4.A7 Überprüfung der Lieferung von Standardsoftware [Fachabteilung]
 Es SOLLTE überprüft werden, ob neue Softwareprodukte vollständig und korrekt geliefert wurden.
 Dabei SOLLTE mindestens kontrolliert werden, ob die Lieferung bestellt wurde, für wen sie bestimmt ist und ob alle notwendigen Komponenten vorhanden sind.
-Auch reine Download-Software inklusive zugehöriger Lizenzdateien oder -schlüssel SOLLTE entsprechend geprüft werden.
-Die Ergebnisse der Überprüfung SOLLTEN dokumentiert werden.
+Auch reine Download-Software inklusive zugehöriger Lizenzdateien oder -schlüsseln SOLLTE entsprechend geprüft werden.
+Die Ergebnisse der Überprüfung SOLLTEN dokumentiert werden. 
 Danach SOLLTEN alle gelieferten Produkte und Lizenzinformationen mit eindeutigen Identifizierungsmerkmalen versehen und in ein Bestandsverzeichnis übernommen werden.
 
-CON.4.A8 Lizenzverwaltung und Versionskontrolle von Standardsoftware (S)
-Lizenzpflichtige Standardsoftware-Produkte, die auf IT-Systemen der Institution eingesetzt werden, SOLLTEN korrekt lizenziert sein.
-Die Lizenzen SOLLTEN die tatsächliche Nutzeranzahl und den Einsatzzweck abdecken.
+CON.4.A8 Lizenzverwaltung und Versionskontrolle von Standardsoftware
+Lizenzpflichtige Standardsoftware-Produkte, die auf IT-Systemen der Institution eingesetzt werden, SOLLTEN lizenziert sein.
 Um das sicherzustellen, SOLLTEN die installierten Programmversionen und die Lizenzen regelmäßig kontrolliert werden.
-Dafür SOLLTEN entsprechende Listen, Datenbanken oder spezielle Lizenzverwaltungsprogramme verwendet werden.
-Die Bestandslisten für die Lizenzen SOLLTEN immer auf dem aktuellen Stand sein.
+Dafür SOLLTEN entsprechende Listen, Datenbanken oder spezielle Lizenzverwaltungsprogramme verwendet werden. Die Bestandslisten für die Lizenzen SOLLTEN immer auf dem aktuellen Stand sein.
 Darüber hinaus SOLLTEN die verschiedenen Konfigurationen der installierten Standardsoftware dokumentiert werden.
 
-CON.4.A9 Deinstallation von Standardsoftware (S)
-Wird Standardsoftware deinstalliert, SOLLTEN alle Dateien entfernt werden, die für den Betrieb der Software auf dem IT-System angelegt worden sind.
+CON.4.A9 Deinstallation von Standardsoftware
+Bei der Deinstallation von Standardsoftware SOLLTEN alle Dateien entfernt werden, die für den Betrieb der Software auf dem IT-System angelegt worden sind.
 Auch SOLLTEN alle Einträge in Systemdateien, die für das Produkt vorgenommen wurden, gelöscht werden.
 Um Standardsoftware wieder vollständig deinstallieren zu können, SOLLTEN die während der Installation durchgeführten Systemänderungen entweder manuell oder mit entsprechenden Programmen dokumentiert werden.
 
 
 3.3 Anforderungen bei erhöhtem Schutzbedarf
 
-CON.4.A10 Implementierung zusätzlicher Sicherheitsfunktionen (H)
+CON.4.A10 Implementierung zusätzlicher Sicherheitsfunktionen (CIA)
 Es SOLLTE geprüft werden, ob sich die Sicherheitsfunktionen der betriebenen Standardsoftware für einen erhöhten Schutzbedarf eignen.
 Ist das nicht der Fall, SOLLTEN geeignete Funktionen implementiert werden, um den Betrieb abzusichern.
 Grundsätzlich SOLLTE ein erhöhter Schutzbedarf jedoch bereits bedacht werden, wenn die Anforderungen definiert werden und das Produkt ausgewählt wird.
 
-CON.4.A11 Nutzung zertifizierter Standardsoftware (H)
+
+CON.4.A11 Nutzung zertifizierter Standardsoftware (CIA)
 Bei der Beschaffung von Standardsoftware SOLLTE festgelegt werden, ob eine Zusicherung des Herstellers, Vertreibers oder Anbieters über implementierte Sicherheitsfunktionen als ausreichend vertrauenswürdig anerkannt werden kann.
 Ist dies nicht der Fall, SOLLTE eine Zertifizierung der Anwendung nach Common Criteria als Entscheidungskriterium in Betracht gezogen werden.
-Stehen mehrere Produkte zur Auswahl, SOLLTEN insbesondere dann Sicherheitszertifikate berücksichtigt werden, wenn der evaluierte Funktionsumfang die Mindestfunktionalität (weitestgehend) umfasst und die Mechanismenstärke dem Schutzbedarf entspricht.
-Gibt es auf dem Markt kein geeignetes und zertifiziertes Produkt, SOLLTE die Einsatzumgebung der Standardsoftware entsprechend einem hohen Schutzbedarf abgesichert sein.
+Stehen mehrere Produkte zur Auswahl, SOLLTEN Sicherheitszertifikate insbesondere dann berücksichtigt werden, wenn der evaluierte Funktionsumfang die Mindestfunktionalität (weitestgehend) umfasst und die Mechanismenstärke dem Schutzbedarf entspricht.
+Gibt es auf dem Markt keingeeignetes und zertifiziertes Produkt, SOLLTE die Einsatzumgebung der Standardsoftware entsprechend einem hohen Schutzbedarf abgesichert sein.
 
-CON.4.A12 Einsatz von Verschlüsselung, Checksummen oder digitalen Signaturen (H)
+CON.4.A12 Einsatz von Verschlüsselung, Checksummen oder digitalen Signaturen (CI)
 Wenn Daten mit erhöhtem Schutzbedarf übertragen oder gespeichert werden, SOLLTEN sie vorher verschlüsselt werden.
 Gibt es in einer Standardsoftware eine integrierte Verschlüsselungsfunktion, SOLLTE geprüft werden, ob diese ausreichend sicher ist.
 Das SOLLTE besonders bei älteren Produktversionen überprüft werden.
