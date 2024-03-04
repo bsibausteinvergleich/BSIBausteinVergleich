@@ -1036,8 +1036,53 @@ _Keine inhaltlichen Änderungen._
 ## NEU CON.8
 _Die Anforderungen CON.8.A1 bis CON.8.A19 wurden hinzugefügt._
 
+
 ## NEU CON.9
 _Die Anforderungen CON.9.A1 bis CON.9.A8 wurden hinzugefügt._
+
+
+## Änderungen OPS.1.1.2
+
+### Basis-Anforderungen
+
+#### OPS.1.1.2.A1
+
+#### OPS.1.1.2.A2
+
+#### OPS.1.1.2.A3
+
+#### OPS.1.1.2.A4
+
+#### OPS.1.1.2.A5
+
+#### OPS.1.1.2.A6
+
+#### OPS.1.1.2.A7
+
+#### OPS.1.1.2.A8
+
+#### OPS.1.1.2.A9
+
+#### OPS.1.1.2.A10
+
+#### OPS.1.1.2.A11
+
+#### OPS.1.1.2.A12
+
+#### OPS.1.1.2.A13
+
+#### OPS.1.1.2.A14
+
+#### OPS.1.1.2.A15
+
+#### OPS.1.1.2.A16
+
+#### OPS.1.1.2.A17
+
+#### OPS.1.1.2.A18
+
+#### OPS.1.1.2.A19
+
 
 
 ////////////////
