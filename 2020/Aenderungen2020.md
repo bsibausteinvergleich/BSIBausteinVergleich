@@ -1033,6 +1033,13 @@ _Keine inhaltlichen Änderungen._
 _Keine inhaltlichen Änderungen._
 
 
+## NEU CON.8
+_Die Anforderungen CON.8.A1 bis CON.8.A19 wurden hinzugefügt._
+
+## NEU CON.9
+_Die Anforderungen CON.9.A1 bis CON.9.A8 wurden hinzugefügt._
+
+
 ////////////////
 Formatierungshilfen:
 
