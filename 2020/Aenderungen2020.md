@@ -934,27 +934,41 @@ Das Redundanzkonzept SOLLTE zwischen dem IT-Betrieb und dem Notfallbeauftragten 
 ### Basis-Anforderungen
 
 #### CON.6.A1
+_Keine inhaltlichen Änderungen._
 
 #### CON.6.A2
+_Keine inhaltlichen Änderungen._
+
+### Standard-Anforderungen
 
 #### CON.6.A3
+_Keine inhaltlichen Änderungen._
 
 #### CON.6.A4
+_Keine inhaltlichen Änderungen._
 
 #### CON.6.A5
+_Keine inhaltlichen Änderungen._
 
 #### CON.6.A6
+_Entfallen:_ ~~Dabei SOLLTE nach den Anforderungen des Bausteins ORP.3 Sensibilisierung und Schulung vorgegangen werden.~~
 
 #### CON.6.A7
+_Keine inhaltlichen Änderungen._
 
 #### CON.6.A8
+_Keine inhaltlichen Änderungen._
+
+### Anforderungen bei erhöhtem Schutzbedarf
 
 #### CON.6.A9
+_Keine inhaltlichen Änderungen._
 
 #### CON.6.A10
+_Keine inhaltlichen Änderungen._
 
 #### CON.6.A11
-
+_Entfallen:_ ~~Zudem SOLLTEN die in OPS.2.1 Outsourcing für Kunden beschriebenen generellen Anforderungen an Dienstleister und deren Mitarbeiter umgesetzt werden.~~
 
 ////////////////
 Formatierungshilfen:
