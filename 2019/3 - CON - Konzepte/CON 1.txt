@@ -1,3 +1,17 @@
+3.1 Basis-Anforderungen
+
+CON.1.A1 Auswahl geeigneter kryptografischer Verfahren [Fachverantwortliche]
+Es MÜSSEN geeignete kryptografische Verfahren ausgewählt werden.
+Dabei MUSS sichergestellt sein, dass etablierte Algorithmen verwendet werden, die von der Fachwelt intensiv untersucht wurden und von denen keine Sicherheitslücken bekannt sind.
+Ebenso MÜSSEN aktuell empfohlene Schlüssellängen eingesetzt werden.
+
+CON.1.A2 Datensicherung bei Einsatz kryptografischer Verfahren [IT-Betrieb]
+In Datensicherungen MÜSSEN kryptografische Schlüssel derart gespeichert bzw. aufbewahrt werden, dass Unbefugte nicht darauf zugreifen können.
+Langlebige kryptografische Schlüssel MÜSSEN außerhalb der eingesetzten ITSysteme aufbewahrt werden.
+Bei einer Langzeitspeicherung verschlüsselter Daten SOLLTE regelmäßig geprüft werden, ob die verwendeten kryptografischen Algorithmen und die Schlüssellängen noch dem Stand der Technik entsprechen.
+Es MUSS sichergestellt sein, dass auf verschlüsselt gespeicherte Daten auch nach längeren Zeiträumen noch zugegriffen werden kann. Verwendete Kryptoprodukte SOLLTEN archiviert werden.
+Die Konfigurationsdaten von Kryptoprodukten SOLLTEN gesichert werden.
+
 3.2 Standard-Anforderungen
 
 CON.1.A3 Verschlüsselung der Kommunikationsverbindungen
