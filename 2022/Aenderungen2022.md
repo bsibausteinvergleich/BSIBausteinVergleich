@@ -680,11 +680,11 @@ Es SOLLTE über eine Ausführungskontrolle sichergestellt werden, dass nur expli
 
 #### SYS 2.1.A34 Anforderung ist entfallen.
 
-Ehemals *SYS.2.1.A34 Kapselung von sicherheitskritischen Anwendungen und Betriebssystemkomponenten (H)
+Ehemals *SYS.2.1.A34 Kapselung von sicherheitskritischen Anwendungen und Betriebssystemkomponenten (H)*
 
-Um sowohl den Zugriff eines Angreifers auf das Betriebssystem oder andere Anwendungen als auch den Zugriff vom Betriebssystem auf besonders schützenswerte Dateien zu verhindern, SOLLTEN Anwendungen und Betriebssystemkomponenten (wie beispielsweise Authentisierung oder Zertifikatsüberprüfung) besonders gekapselt bzw. anderen Anwendungen und Betriebssystemkomponenten gegenüber isoliert werden.
+*Um sowohl den Zugriff eines Angreifers auf das Betriebssystem oder andere Anwendungen als auch den Zugriff vom Betriebssystem auf besonders schützenswerte Dateien zu verhindern, SOLLTEN Anwendungen und Betriebssystemkomponenten (wie beispielsweise Authentisierung oder Zertifikatsüberprüfung) besonders gekapselt bzw. anderen Anwendungen und Betriebssystemkomponenten gegenüber isoliert werden.*
 
-Dabei SOLLTEN insbesondere sicherheitskritische Anwendungen berücksichtigt werden, die mit Daten aus unsicheren Quellen arbeiten (z.B. Webbrowser und Bürokommunikations-Anwendungen).*
+*Dabei SOLLTEN insbesondere sicherheitskritische Anwendungen berücksichtigt werden, die mit Daten aus unsicheren Quellen arbeiten (z.B. Webbrowser und Bürokommunikations-Anwendungen).*
 
 
 ### SYS 2.2.2
@@ -714,15 +714,15 @@ Sofern nicht gleich- oder höherwertige Maßnahmen, wie z. B. Ausführungskontro
 
 Ehemals
 
-*SYS.2.2.3.A11 Schutz der Anmeldeinformationen unter Windows 10 (S)
+*SYS.2.2.3.A11 Schutz der Anmeldeinformationen unter Windows 10 (S)*
 
-Sofern Windows 10 in der Enterprise-Version auf einem Hardware-System direkt (nativ) installiert ist, SOLLTE der Virtual Secure Mode (VSM) aktiviert werden.
+*Sofern Windows 10 in der Enterprise-Version auf einem Hardware-System direkt (nativ) installiert ist, SOLLTE der Virtual Secure Mode (VSM) aktiviert werden.*
 
-Zusätzlich SOLLTE der Windows Defender Credential Guard gegen Angriffe auf die im System gespeicherten Authentisierungstoken und -hashes aktiviert werden.
+*Zusätzlich SOLLTE der Windows Defender Credential Guard gegen Angriffe auf die im System gespeicherten Authentisierungstoken und -hashes aktiviert werden.*
 
-Ist dies nicht möglich, SOLLTE der Schutz des Local Credential Store LSA aktiviert werden (PPL, Protected Mode Light).
+*Ist dies nicht möglich, SOLLTE der Schutz des Local Credential Store LSA aktiviert werden (PPL, Protected Mode Light).*
 
-Die Netzanmeldung von lokalen Konten SOLLTE verboten werden.*
+*Die Netzanmeldung von lokalen Konten SOLLTE verboten werden.*
 
 
 ### SYS 2.3
