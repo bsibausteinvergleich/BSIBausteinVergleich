@@ -36,7 +36,8 @@ Es MÜSSEN regelmäßig Datensicherungen und Rücksicherungsübungen durchgefüh
 3.2 Standard-Anforderungen
 
 CON.5.A6 Umfassende Dokumentation der Anforderungen an die Anwendung
-Die relevanten Anforderungen an die Anwendung SOLLTEN dokumentiert werden. Diese Dokumentation SOLLTE bei Änderungen an der Anwendung sowie funktionalen Updates fortgeschrieben werden.
+Die relevanten Anforderungen an die Anwendung SOLLTEN dokumentiert werden.
+Diese Dokumentation SOLLTE bei Änderungen an der Anwendung sowie funktionalen Updates fortgeschrieben werden.
 
 CON.5.A7 Erstellung eines Mandantenkonzeptes [Leiter IT]
 Es SOLLTE mit einem Mandantenkonzept sichergestellt werden, dass Anwendungen und Daten verschiedener Kunden sauber getrennt betrieben werden.
