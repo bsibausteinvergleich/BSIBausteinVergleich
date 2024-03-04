@@ -1,74 +1,91 @@
 3.1 Basis-Anforderungen
 
-CON.3.A1 Erhebung der Einflussfaktoren der Datensicherung [IT-Betrieb, Fachverantwortliche]
-Für jedes IT-System und eventuell für einzelne besonders wichtige IT-Anwendung MÜSSEN die relevanten Einflussfaktoren ermittelt werden, wie z. B. Änderungsvolumen, Änderungszeitpunkte, Verfügbarkeitsanforderungen, Integritätsbedarf.
-Dazu SOLLTEN die Administratoren und die Verantwortlichen der einzelnen IT-Anwendungen befragt werden.
+CON.3.A1 Erhebung der Einflussfaktoren für Datensicherungen [Fachverantwortliche, IT-Betrieb] (B)
+Der IT-Betrieb MUSS für jedes IT-System und darauf ausgeführten Anwendungen die Rahmenbedingungen für die Datensicherung erheben.
+Dazu MUSS der IT-Betrieb die Fachverantwortlichen für die Anwendungen und die Verantwortlichen für die jeweiligen IT-Systeme befragen.
+Der IT-Betrieb MUSS mindestens die nachfolgenden Rahmenbedingungen berücksichtigen:
+• Speichervolumen,
+• Änderungsvolumen,
+• Änderungszeitpunkte,
+• Verfügbarkeitsanforderungen,
+• Integritätsbedarf sowie
+• rechtliche Anforderungen.
 Die Ergebnisse MÜSSEN nachvollziehbar und auf geeignete Weise festgehalten werden.
-Neue Anforderungen MÜSSEN zeitnah in einem aktualisierten Datensicherungskonzept berücksichtigt werden.
+Neue Anforderungen MÜSSEN zeitnah berücksichtigt werden.
 
-CON.3.A2 Festlegung der Verfahrensweise für die Datensicherung [IT-Betrieb, Fachverantwortliche]
-Für jedes IT-System und für jede Datenart MUSS ein Verfahren festgelegt werden, wie die Daten zu sichern sind.
+CON.3.A2 Festlegung der Verfahrensweise für die Datensicherung [Fachverantwortliche, IT-Betrieb] (B)
+Der IT-Betrieb MUSS für jedes IT-System ein Verfahren festlegen, das definiert, welche Daten des IT-Systems wie gesichert werden.
 Dazu MÜSSEN Art, Häufigkeit und Zeitpunkte der Datensicherungen bestimmt werden.
-Weiterhin MÜSSEN die Verantwortlichkeiten für die Datensicherungen festgelegt werden.
-Auch MUSS definiert sein, welche Speichermedien benutzt werden und wie die Transport- und Aufbewahrungsmodalitäten auszusehen haben.
+Dies MUSS wiederum auf Basis der erhobenen Einflussfaktoren und in Abstimmung mit den jeweiligen Fachverantwortlichen der Anwendungen geschehen.
+Auch MUSS definiert sein, welche Speichermedien benutzt werden und wie die Transport- und Aufbewahrungsmodalitäten ausgestaltet sein müssen.
 
-CON.3.A3 Ermittlung von rechtlichen Einflussfaktoren auf die Datensicherung
-Die rechtlichen Anforderungen an die Datensicherung MÜSSEN ermittelt und in das Minimal- bzw. in das Datensicherungskonzept einfließen.
+CON.3.A3 ENTFALLEN (B)
+Diese Anforderung ist entfallen.
 
-CON.3.A4 Erstellung eines Minimaldatensicherungskonzeptes
-Es MUSS ein Minimaldatensicherungskonzept erstellt werden, das festgelegt, welche Anforderungen für die Datensicherung mindestens einzuhalten sind.
-Dazu zählen kurze Beschreibungen, wie die Datensicherung erstellt und wiederhergestellt werden kann, welche Parameter gewählt wurden und welche Hard- und Software eingesetzt wird.
+CON.3.A4 Erstellung eines Minimaldatensicherungskonzeptes [IT-Betrieb] (B)
+Der IT-Betrieb MUSS ein Minimaldatensicherungskonzept auf Basis der festgelegten Verfahrensweise für die Datensicherung erstellen.
+Dieses MUSS festlegen, welche Anforderungen für die Datensicherung mindestens vom IT-Betrieb einzuhalten sind.
+Das Minimaldatensicherungskonzept MUSS mindestens eine kurze Beschreibung dazu enthalten,
+• welche IT-Systeme und welche darauf befindlichen Daten durch welche Datensicherung gesichert werden,
+• wie die Datensicherungen erstellt und wiederhergestellt werden können,
+• welche Parameter zu wählen sind sowie
+• welche Hard- und Software eingesetzt wird.
 
-CON.3.A5 Regelmäßige Datensicherung [IT-Betrieb]
-Es MÜSSEN regelmäßige Datensicherungen durchgeführt werden.
-Dabei MÜSSEN mindestens die Daten regelmäßig gesichert werden, die nicht aus anderen Informationen ableitbar sind.
+CON.3.A5 Regelmäßige Datensicherung [IT-Betrieb] (B)
+Der IT-Betrieb MUSS regelmäßige Datensicherungen gemäß dem (Minimal-)Datensicherungskonzept erstellen.
 Die erstellten Datensicherungen MÜSSEN in geeigneter Weise vor dem Zugriff Dritter geschützt werden.
-Es MUSS regelmäßig getestet werden, ob die Datensicherung auch wie gewünscht funktioniert, vor allem, ob gesicherte Daten problemlos zurückgespielt werden können.
+Es MUSS regelmäßig getestet werden, ob die Datensicherung wie gewünscht funktioniert, vor allem, ob gesicherte Daten problemlos und in angemessener Zeit zurückgespielt werden können.
 
 
 3.2 Standard-Anforderungen
 
-CON.3.A6 Entwicklung eines Datensicherungskonzepts [Leiter IT, Fachverantwortliche]
-Es SOLLTE ein Datensicherungskonzept erstellt werden.
-Dieses SOLLTE mit allen Verantwortlichen abgestimmt werden.
-Darin SOLLTEN sämtliche zu berücksichtigenden IT-Systeme aufgeführt werden.
-Die Mitarbeiter SOLLTEN über den sie betreffenden Teil des Datensicherungskonzepts unterrichtet werden.
+CON.3.A6 Entwicklung eines Datensicherungskonzepts [Fachverantwortliche, IT-Betrieb] (S)
+Der IT-Betrieb SOLLTE ein Datensicherungskonzept auf Basis des Minimaldatenkonzepts erstellen.
+Dieses SOLLTE mindestens die nachfolgenden Punkte umfassen:
+• Definitionen zu wesentlichen Aspekten der Datensicherung (z. B. zu differenzierende Datenarten),
+• Gefährdungslage,
+• Einflussfaktoren je IT-Systeme,
+• Datensicherungsplan je IT-Systeme sowie
+• relevante Ergebnisse des Notfallmanagements/BCM, insbesondere die Recovery Point Objective (RPO) je IT-System.
+Der IT-Betrieb SOLLTE das Datensicherungskonzept mit den jeweiligen Fachverantwortlichen der betreffenden Anwendungen abstimmen.
+Die Mitarbeiter SOLLTEN über den Teil des Datensicherungskonzepts unterrichtet werden, der sie betrifft.
 Es SOLLTE regelmäßig kontrolliert werden, ob das Datensicherungskonzept korrekt umgesetzt wird.
 
-CON.3.A7 Beschaffung eines geeigneten Datensicherungssystems [Leiter IT, IT-Betrieb]
-Bevor ein Datensicherungssystem beschafft wird, SOLLTE eine Anforderungsliste erstellt werden, nach der die am Markt erhältlichen Produkte bewertet werden.
-Die angeschafften Datensicherungssysteme SOLLTEN die Anforderungen des Sicherheits- und des Datensicherungskonzepts erfüllen.
+CON.3.A7 Beschaffung eines geeigneten Datensicherungssystems [Leiter IT] (S)
+Bevor ein Datensicherungssystem beschafft wird, SOLLTE der Leiter IT eine Anforderungsliste erstellen, nach der die am Markt erhältlichen Produkte bewertet werden.
+Die angeschafften Datensicherungssysteme SOLLTEN die Anforderungen des Datensicherungskonzepts und der gesamten Sicherheitskonzeption der Institution erfüllen.
 
-CON.3.A8 Funktionstests und Überprüfung der Wiederherstellbarkeit [IT-Betrieb]
-Es SOLLTE regelmäßig getestet werden, ob die Datensicherung auch wie gewünscht funktioniert, und vor allem, ob gesicherte Daten problemlos und in angemessener Zeit zurückgespielt werden können.
+CON.3.A8 ENTFALLEN (S)
+Diese Anforderung ist entfallen.
 
-CON.3.A9 Voraussetzungen für die Online-Datensicherung [Leiter IT, IT-Betrieb]
+CON.3.A9 Voraussetzungen für die Online-Datensicherung [IT-Betrieb, Leiter IT] (S)
 Wenn für die Datensicherung ein Online-Speicher genutzt werden soll, SOLLTEN mindestens folgende Punkte geregelt werden:
 • Gestaltung des Vertrages,
 • Ort der Datenspeicherung,
-• Vereinbarungen zur Dienstgüte (SLA),
+• Vereinbarungen zur Dienstgüte (SLA), insbesondere in Hinsicht auf die Verfügbarkeit,
 • geeignete Authentisierungsmethoden,
-• Verschlüsselung der Daten und
+• Verschlüsselung der Daten auf dem Online-Speicher sowie
 • Verschlüsselung auf dem Transportweg.
 
-CON.3.A10 Verpflichtung der Mitarbeiter zur Datensicherung
+CON.3.A10 Verpflichtung der Mitarbeiter zur Datensicherung (S)
 Alle Mitarbeiter SOLLTEN über die Regelungen zur Datensicherung informiert sein.
-Auch SOLLTEN sie darüber informiert werden, welche Aufgaben sie bei der Erstellung von Datensicherungen haben, und zu ihrer Durchführung verpflichtet werden.
+Auch SOLLTEN sie darüber informiert werden, welche Aufgaben sie bei der Erstellung von Datensicherungen haben.
+Die Mitarbeiter SOLLTEN dazu verpflichtet werden, Datensicherungen durchzuführen.
 
-CON.3.A11 Sicherungskopie der eingesetzten Software [IT-Betrieb]
-Von eingesetzten Softwareprogrammen SOLLTEN Sicherungskopien angefertigt werden, sofern das rechtlich erlaubt und technisch möglich ist.
+CON.3.A11 Sicherungskopie der eingesetzten Software [IT-Betrieb] (S)
+Der IT-Betrieb SOLLTE Sicherungskopien von eingesetzten Softwareprogrammen anfertigen, sofern das rechtlich erlaubt und technisch möglich ist.
 Dabei SOLLTEN alle notwendigen Pakete und Informationen vorhanden sein, um die Software im Notfall wieder installieren zu können.
 Auch SOLLTEN die originalen Installationsquellen sowie die Lizenznummern an einem geeigneten Ort sicher aufbewahrt werden.
 
-CON.3.A12 Geeignete Aufbewahrung der Backup-Datenträger [IT-Betrieb]
-Die Backup-Datenträger SOLLTEN vor unbefugtem Zugriff geschützt werden.
-Sie SOLLTEN räumlich von den Quellsystemen getrennt werden.
-Der Aufbewahrungsort SOLLTE so klimatisiert sein, dass die Datenträger längerfristig aufbewahrt werden können.
+CON.3.A12 Geeignete Aufbewahrung der Backup-Datenträger [IT-Betrieb] (S)
+Der IT-Betrieb SOLLTE die Backup-Datenträger geeignet aufbewahren, sodass diese vor unbefugtem Zugriff geschützt werden.
+Sie SOLLTEN räumlich getrennt von den gesicherten IT-Systemen aufbewahrt werden.
+Der Aufbewahrungsort SOLLTE so klimatisiert sein, dass die Datenträger entsprechend der zeitlichen Vorgaben des Datensicherungskonzepts aufbewahrt werden können.
 
 
 3.3 Anforderungen bei erhöhtem Schutzbedarf
 
-CON.3.A13 Einsatz kryptografischer Verfahren bei der Datensicherung [IT-Betrieb] (CI)
-Um die Vertraulichkeit und Integrität der gesicherten Daten zu gewährleisten, SOLLTEN alle Daten verschlüsselt werden.
+CON.3.A13 Einsatz kryptografischer Verfahren bei der Datensicherung [IT-Betrieb] (H)
+Um die Vertraulichkeit und Integrität der gesicherten Daten zu gewährleisten, SOLLTE der IT-Betrieb alle Datensicherungen verschlüsseln.
 Es SOLLTE sichergestellt werden, dass sich die verschlüsselten Daten auch nach längerer Zeit wieder einspielen lassen.
 Verwendete kryptografische Schlüssel SOLLTEN mit einer getrennten Datensicherung geschützt werden.

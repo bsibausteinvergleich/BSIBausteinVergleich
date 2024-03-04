@@ -487,6 +487,15 @@ _Ersetzt:_\
 _durch:_\
 "Mehr-Faktor-Authentisierung"
 
+
+## Änderungen ORP.5
+
+### Basis-Anforderungen
+
+#### ORP.5.#### ORP.5.A
+
+
+
 ////////////////
 Formatierungshilfen:
 
