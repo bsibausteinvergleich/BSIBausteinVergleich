@@ -583,32 +583,72 @@ CON.1.A4 Geeignetes Schlüsselmanagement (S)
 _Entfallen:_ Auf Produkte mit unkontrollierbarer Schlüsselablage SOLLTE generell verzichtet werden.
 
 #### CON.1.A6
+_Geändert:_\
+~~Es SOLLTE festgelegt werden, für welche Aufgaben kryptografische Verfahren eingesetzt werden sollen.~~\
+_zu:_\
+Es SOLLTE festgelegt werden, für welche Geschäftsprozesse oder Fachverfahren kryptografische Verfahren eingesetzt werden sollen.
+
+_Geändert:_\
+~~Diese SOLLTEN kryptografisch abgesichert werden.~~\
+_zu:_\
+Diese SOLLTEN durch den IT-Betrieb geeignet kryptografisch abgesichert werden.
+
+### Anforderungen bei erhöhtem Schutzbedarf
 
 #### CON.1.A7
+_Keine inhaltlichen Änderungen._
 
 #### CON.1.A8
+_Keine inhaltlichen Änderungen._
 
 #### CON.1.A9
+_Ergänzt:_ Auf Produkte mit unkontrollierbarer Schlüsselablage SOLLTE generell verzichtet werden.
 
 #### CON.1.A10
+_Keine inhaltlichen Änderungen._
 
 #### CON.1.A11
+_Keine inhaltlichen Änderungen._
 
 #### CON.1.A12
+_Keine inhaltlichen Änderungen._
 
 #### CON.1.A13
+_Keine inhaltlichen Änderungen._
 
 #### CON.1.A14
+_Geändert:_\
+~~Es SOLLTEN Schulungen durchgeführt werden, in denen Benutzern und Administratoren der Umgang mit den von ihnen zu bedienenden Kryptomodulen vermittelt wird.~~\
+_zu:_\
+Es SOLLTE Schulungen geben, in denen Benutzern und Administratoren der Umgang mit den für sie relevanten Kryptomodulen vermittelt wird.
+
+_Geändert:_\
+~~Außerdem SOLLTEN sie auf die Gefahren hingewiesen werden, wenn diese Sicherheitseinstellungen aus Bequemlichkeit umgangen oder deaktiviert werden. ~~\
+_zu:_\
+Außerdem SOLLTEN sie auf die Gefahren hingewiesen werden, die drohen, wenn diese Sicherheitseinstellungen aus Bequemlichkeit umgangen oder deaktiviert werden.
+
+_Geändert:_\
+~~Administratoren SOLLTEN zudem lernen, wie sie mit Hilfsmitteln zur Untersuchung kryptografischer Einstellungen umgehen müssen.~~\
+_zu:_\
+Die Administratoren SOLLTEN zudem gezielt dazu geschult werden, wie die Kryptomodule zu administrieren sind.
 
 #### CON.1.A15
+_Satz gekürzt:_ Es SOLLTE ein Prozess etabliert werden, der im Falle eines geschwächten kryptografischen Verfahrens herangezogen werden kann, ~~um die Informationssicherheit der Institution zu gewährleisten~~.
 
 #### CON.1.A16
+_Geändert:_\
+~~Es SOLLTE verhindert werden, dass~~(...)\
+_zu:_\
+Der Leiter IT SOLLTE sicherstellen, dass nicht (...)
 
 #### CON.1.A17
+_Keine inhaltlichen Änderungen._
 
 #### CON.1.A18
-
-
+_Geändert:_\
+~~CON.1.A18 Kryptografische Ersatzmodule [Leiter IT] (CIA)~~\
+_zu:_\
+CON.1.A18 Kryptografische Ersatzmodule [IT-Betrieb] (H)
 
 ////////////////
 Formatierungshilfen:
