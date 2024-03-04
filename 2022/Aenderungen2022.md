@@ -59,8 +59,6 @@ Keine inhaltlichen Änderungen.
 <details>
 <summary>
   
-#### CON.3
-  
 ##### Geändert
 
 </summary>
