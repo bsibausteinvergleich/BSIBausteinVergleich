@@ -1046,16 +1046,41 @@ _Die Anforderungen CON.9.A1 bis CON.9.A8 wurden hinzugefügt._
 ### Basis-Anforderungen
 
 #### OPS.1.1.2.A1
+_Änderung:_\
+(...) der von ihnen betreuten IT-Systeme, Anwendungen und Plattformen (...)
+
+_Entfallen:_ (...) und über ausreichende Englischkenntnisse zum Verständnis typischer IT-Dokumentationen verfügen.
+
+_Änderung:_\
+Administrative Rollen MÜSSEN von kontrollierenden Rollen (z. B. Revision) getrennt werden.
+
+_Entfallen:_\
+Diese Anforderungen MÜSSEN auch dann erfüllt werden, wenn administrative Aufgaben an Dritte übertragen werden.
 
 #### OPS.1.1.2.A2
+_Keine inhaltlichen Änderungen._
 
 #### OPS.1.1.2.A3
+_Keine inhaltlichen Änderungen._
 
 #### OPS.1.1.2.A4
+_Keine inhaltlichen Änderungen._
 
 #### OPS.1.1.2.A5
+_Änderung:_\
+OPS.1.1.2.A5 Nachweisbarkeit von administrativen Tätigkeiten (B)\
+Die Institution MUSS jederzeit nachweisen können, welcher Administrator welche Aktion durchgeführt hat.
+Dazu SOLLTE jeder Administrator über eine eigene Benutzerkennung verfügen.
+Auch Vertreter von Administratoren SOLLTEN eigene Benutzerkennungen erhalten.
+Jeder Anmeldevorgang über eine Administrationskennung (Login) MUSS protokolliert werden.
 
 #### OPS.1.1.2.A6
+_Änderung:_\
+Aktionen und Tätigkeiten, für die keine erhöhten Berechtigungen erforderlich sind, DÜRFEN NICHT mit administrativen Berechtigungen durchgeführt werden.
+
+_Entfallen:_\
+Diese MÜSSEN sicherstellen, dass die Kommunikation nach dem Stand der Technik verschlüsselt ist.
+Jeder Anmeldevorgang über eine Administrationskennung (Login) MUSS protokolliert werden, sodass nachvollziehbar ist, wann, auf welchem Weg und unter welcher Nutzerkennung auf das System zugegriffen wurde.
 
 #### OPS.1.1.2.A7
 
