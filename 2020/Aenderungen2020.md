@@ -743,18 +743,51 @@ Der IT-Betrieb SOLLTE das Datensicherungskonzept mit den jeweiligen Fachverantwo
 Die Mitarbeiter SOLLTEN über den Teil des Datensicherungskonzepts unterrichtet werden, der sie betrifft.
 
 #### CON.3.A7
+_Geändert:_\
+~~CON.3.A7 Beschaffung eines geeigneten Datensicherungssystems [Leiter IT, IT-Betrieb]\
+Bevor ein Datensicherungssystem beschafft wird, SOLLTE eine Anforderungsliste erstellt werden, nach der die am Markt erhältlichen Produkte bewertet werden.
+Die angeschafften Datensicherungssysteme SOLLTEN die Anforderungen des Sicherheits- und des Datensicherungskonzepts erfüllen.~~\
+_zu:_\
+CON.3.A7 Beschaffung eines geeigneten Datensicherungssystems [Leiter IT] (S)\
+Bevor ein Datensicherungssystem beschafft wird, SOLLTE der Leiter IT eine Anforderungsliste erstellen, nach der die am Markt erhältlichen Produkte bewertet werden.
+Die angeschafften Datensicherungssysteme SOLLTEN die Anforderungen des Datensicherungskonzepts und der gesamten Sicherheitskonzeption der Institution erfüllen.
 
 #### CON.3.A8
+_Anforderung entfallen_
 
 #### CON.3.A9
+_Ergänzt:_\
+• (Vereinbarungen zur Dienstgüte (SLA),) insbesondere in Hinsicht auf die Verfügbarkeit,\
+_Ergänzt:_\
+• (Verschlüsselung der Daten) auf dem Online-Speicher sowie
 
 #### CON.3.A10
+_Keine inhaltlichen Änderungen._
 
 #### CON.3.A11
+_Geändert:_\
+~~Von eingesetzten Softwareprogrammen SOLLTEN Sicherungskopien angefertigt werden,(...)~~\
+_zu:_\
+Der IT-Betrieb SOLLTE Sicherungskopien von eingesetzten Softwareprogrammen anfertigen,(...)
 
 #### CON.3.A12
+_Geändert:_\
+~~Die Backup-Datenträger SOLLTEN vor unbefugtem Zugriff geschützt werden.
+Sie SOLLTEN räumlich von den Quellsystemen getrennt werden.
+Der Aufbewahrungsort SOLLTE so klimatisiert sein, dass die Datenträger längerfristig aufbewahrt werden können.~~\
+_zu:_\
+Der IT-Betrieb SOLLTE die Backup-Datenträger geeignet aufbewahren, sodass diese vor unbefugtem Zugriff geschützt werden.
+Sie SOLLTEN räumlich getrennt von den gesicherten IT-Systemen aufbewahrt werden.
+Der Aufbewahrungsort SOLLTE so klimatisiert sein, dass die Datenträger entsprechend der zeitlichen Vorgaben des Datensicherungskonzepts aufbewahrt werden können.
+
+### Anforderungen bei erhöhtem Schutzbedarf
 
 #### CON.3.A13
+_Geändert:_\
+~~Um die Vertraulichkeit und Integrität der gesicherten Daten zu gewährleisten, SOLLTEN alle Daten verschlüsselt werden.~~\
+_zu:_\
+Um die Vertraulichkeit und Integrität der gesicherten Daten zu gewährleisten, SOLLTE der IT-Betrieb alle Datensicherungen verschlüsseln.
+
 
 ////////////////
 Formatierungshilfen:
