@@ -64,6 +64,7 @@ Keine inhaltlichen Änderungen.
 
 </summary>
 
+<div>
 Dazu MÜSSEN die Fachverantwortlichen für die Anwendungen ihre Anforderungen an die Datensicherung definieren.
 
 Der IT-Betrieb MUSS mindestens die nachfolgenden Rahmenbedingungen mit den Fachverantwortlichen abstimmen:
@@ -81,6 +82,7 @@ Der IT-Betrieb MUSS mindestens die nachfolgenden Rahmenbedingungen mit den Fachv
 • Zuständigkeiten für die Datensicherung.
 
 Die Einflussfaktoren MÜSSEN nachvollziehbar und auf geeignete Weise festgehalten werden.
+</div>
 </details>
 
 #### CON.3.A2
