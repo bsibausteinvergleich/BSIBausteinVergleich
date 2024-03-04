@@ -675,12 +675,12 @@ Dazu SOLLTEN die Administratoren und die Verantwortlichen der einzelnen IT-Anwen
 _zu:_\
 Der IT-Betrieb MUSS für jedes IT-System und darauf ausgeführten Anwendungen die Rahmenbedingungen für die Datensicherung erheben.
 Dazu MUSS der IT-Betrieb die Fachverantwortlichen für die Anwendungen und die Verantwortlichen für die jeweiligen IT-Systeme befragen.
-Der IT-Betrieb MUSS mindestens die nachfolgenden Rahmenbedingungen berücksichtigen:
-• Speichervolumen,
-• Änderungsvolumen,
-• Änderungszeitpunkte,
-• Verfügbarkeitsanforderungen,
-• Integritätsbedarf sowie
+Der IT-Betrieb MUSS mindestens die nachfolgenden Rahmenbedingungen berücksichtigen:\
+• Speichervolumen,\
+• Änderungsvolumen,\
+• Änderungszeitpunkte,\
+• Verfügbarkeitsanforderungen,\
+• Integritätsbedarf sowie\
 • rechtliche Anforderungen.
 
 _Geändert:_\
@@ -707,15 +707,40 @@ _Geändert:_\
 ~~Es MUSS ein Minimaldatensicherungskonzept erstellt werden, das festgelegt, welche Anforderungen für die Datensicherung mindestens einzuhalten sind.Dazu zählen kurze Beschreibungen, wie die Datensicherung erstellt und wiederhergestellt werden kann, welche Parameter gewählt wurden und welche Hard- und Software eingesetzt wird.~~\
 _zu:_\
 Der IT-Betrieb MUSS ein Minimaldatensicherungskonzept auf Basis der festgelegten Verfahrensweise für die Datensicherung erstellen.Dieses MUSS festlegen, welche Anforderungen für die Datensicherung mindestens vom IT-Betrieb einzuhalten sind.
-Das Minimaldatensicherungskonzept MUSS mindestens eine kurze Beschreibung dazu enthalten,
-• welche IT-Systeme und welche darauf befindlichen Daten durch welche Datensicherung gesichert werden,
-• wie die Datensicherungen erstellt und wiederhergestellt werden können,
-• welche Parameter zu wählen sind sowie
+Das Minimaldatensicherungskonzept MUSS mindestens eine kurze Beschreibung dazu enthalten,\
+• welche IT-Systeme und welche darauf befindlichen Daten durch welche Datensicherung gesichert werden,\
+• wie die Datensicherungen erstellt und wiederhergestellt werden können,\
+• welche Parameter zu wählen sind sowie\
 • welche Hard- und Software eingesetzt wird.
 
 #### CON.3.A5
+_Geändert:_\
+~~Es MÜSSEN regelmäßige Datensicherungen durchgeführt werden. Dabei MÜSSEN mindestens die Daten regelmäßig gesichert werden, die nicht aus anderen Informationen ableitbar sind.~~\
+_zu:_\
+Der IT-Betrieb MUSS regelmäßige Datensicherungen gemäß dem (Minimal-)Datensicherungskonzept erstellen.
+Die erstellten Datensicherungen MÜSSEN in geeigneter Weise vor dem Zugriff Dritter geschützt werden.
+Es MUSS regelmäßig getestet werden, ob die Datensicherung wie gewünscht funktioniert, vor allem, ob gesicherte Daten problemlos und in angemessener Zeit zurückgespielt werden können.
+
+### Standard-Anforderungen
 
 #### CON.3.A6
+_Geändert:_\
+~~CON.3.A6 Entwicklung eines Datensicherungskonzepts [Leiter IT, Fachverantwortliche]\
+Es SOLLTE ein Datensicherungskonzept erstellt werden.
+Dieses SOLLTE mit allen Verantwortlichen abgestimmt werden.
+Darin SOLLTEN sämtliche zu berücksichtigenden IT-Systeme aufgeführt werden.
+Die Mitarbeiter SOLLTEN über den sie betreffenden Teil des Datensicherungskonzepts unterrichtet werden.~~\
+_zu:_\
+CON.3.A6 Entwicklung eines Datensicherungskonzepts [Fachverantwortliche, IT-Betrieb] (S)\
+Der IT-Betrieb SOLLTE ein Datensicherungskonzept auf Basis des Minimaldatenkonzepts erstellen.
+Dieses SOLLTE mindestens die nachfolgenden Punkte umfassen:\
+• Definitionen zu wesentlichen Aspekten der Datensicherung (z. B. zu differenzierende Datenarten),\
+• Gefährdungslage,\
+• Einflussfaktoren je IT-Systeme,\
+• Datensicherungsplan je IT-Systeme sowie\
+• relevante Ergebnisse des Notfallmanagements/BCM, insbesondere die Recovery Point Objective (RPO) je IT-System.\
+Der IT-Betrieb SOLLTE das Datensicherungskonzept mit den jeweiligen Fachverantwortlichen der betreffenden Anwendungen abstimmen.
+Die Mitarbeiter SOLLTEN über den Teil des Datensicherungskonzepts unterrichtet werden, der sie betrifft.
 
 #### CON.3.A7
 
