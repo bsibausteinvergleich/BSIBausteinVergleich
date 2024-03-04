@@ -44,17 +44,17 @@ Keine inhaltlichen Änderungen.
 
 ## Änderungen CON
 
-### Änderungen CON.1
+### CON.1
 
 Keine inhaltlichen Änderungen.
 
 
-### Änderungen CON.2
+### CON.2
 
 Keine inhaltlichen Änderungen.
 
 
-### Änderungen CON.3
+### CON.3
 
 <details>
 <summary>
