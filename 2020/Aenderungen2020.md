@@ -862,30 +862,78 @@ _Keine inhaltlichen Änderungen._
 
 ## Änderungen CON.5
 
+_Die Begriffe_ "Anwendung" _bzw._ "Fachanwendung" _wurden durch_ "Individualsoftware" _ersetzt._
+
 ### Basis-Anforderungen
 
-#### CON.5.A
+#### CON.5.A1
+_Änderung:_\
+CON.5.A1 Festlegung benötigter Sicherheitsfunktionen der Individualsoftware [IT-Betrieb] (B)
+Der Fachverantwortliche MUSS bereits bei der Anforderungserhebung und -dokumentation die erforderlichen Sicherheitsfunktionen für die Individualsoftware definieren.
+Hierzu MÜSSEN die mit der Individualsoftware verarbeiteten Informationen und deren Schutzbedarf sowie die damit verbundenen Geschäftsprozesse betrachtet werden.
+Vom IT-Betrieb MÜSSEN die Sicherheitsfunktionen zur Integration in die IT-betriebliche Infrastruktur definiert werden.
 
-#### CON.5.A
+#### CON.5.A2
+_Anforderung entfallen_
 
-#### CON.5.A
+#### CON.5.A3
+_Änderung:_\
+CON.5.A3 Sichere Installation von Individualsoftware [IT-Betrieb] (B)
+Es MUSS eine Installationsanweisung erstellt werden, die alle benötigten Anwendungskomponenten (einschließlich erforderlicher Bibliotheken), die Installationsreihenfolge und die Konfiguration der Anwendungsmodule enthält.
+Der IT-Betrieb MUSS die Installationsanweisung auf die IT-betrieblichen Strukturen der Institution anpassen.
+Ebenso MUSS der IT-Betrieb die Individualsoftware gemäß der Installationsanweisung installieren.
+Bei Änderungen in der Anwendung und bei funktionalen Updates MUSS die Installationsanweisung aktualisiert werden.
 
-#### CON.5.A
+#### CON.5.A4
+_Änderung:_\
+CON.5.A4 Heranführen von Benutzerinnen und Benutzern an Individualsoftware (B)
+Alle Benutzer der Individualsoftware, darunter auch die zuständigen Administratoren, MÜSSEN an die korrekte Nutzung und Administration der Anwendung einschließlich der Sicherheitsfunktionen herangeführt werden.
 
-#### CON.5.A
+#### CON.5.A5
+_Anforderung entfallen_
 
-#### CON.5.A
+### Standard-Anforderungen
 
-#### CON.5.A
+#### CON.5.A6
+_Keine inhaltlichen Änderungen._
 
-#### CON.5.A
+#### CON.5.A7
+_Anforderung entfallen_
 
-#### CON.5.A
+#### CON.5.A8
+_Keine inhaltlichen Änderungen._
 
-#### CON.5.A
+#### CON.5.A9
+_Änderung:_\
+Der Fachverantwortliche SOLLTE für alle Daten mit dem IT-Betrieb klären, ob diese migriert, archiviert oder gelöscht werden.
+Nicht mehr benötigte Daten SOLLTEN sicher gelöscht werden.
+Die Außerbetriebnahme von Individualsoftware sowie der zugehörigen IT-Systeme und Datenträger SOLLTE vom IT-Betrieb nachvollziehbar dokumentiert werden.
+
+#### CON.5.A10
+_Anforderung entfallen_
+
+#### CON.5.A11
+_Diese Anforderung wurde aus dem erhöhten Schutzbedarf in die Standard-Anforderungen verschoben._
+
+### Anforderungen bei erhöhtem Schutzbedarf
+
+#### CON.5.A12
+_Keine inhaltlichen Änderungen._
+
+#### CON.5.A13
+_Änderung:_\
+CON.5.A13 Entwicklung eines Redundanzkonzeptes für Anwendungen [IT-Betrieb, Notfallbeauftragter] (H)
+Es SOLLTE ein Redundanzkonzept vom IT-Betrieb in Abstimmung mit dem Fachverantwortlichen erstellt werden.
+
+_Änderung:_\
+Das Redundanzkonzept SOLLTE zwischen dem IT-Betrieb und dem Notfallbeauftragten mit Hinsicht auf das Notfallkonzept abgestimmt werden.
+
+
 
 ////////////////
 Formatierungshilfen:
+
+_Änderung:_\
 
 
 _Geändert:_\
