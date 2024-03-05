@@ -1521,47 +1521,72 @@ _Diese Anforderung wurde ergänzt._
 
 
 ## Änderungen OPS.2.2
+_In diesen Anforderungen wurde der Begriff_ "Institution" _weitestgehend durch_ "Cloud-Kunde" _ersetzt._
 
 ### Basis-Anforderungen
 
 #### OPS.2.2.A1
+_Keine inhaltlichen Änderungen._
 
 #### OPS.2.2.A2
+_Keine inhaltlichen Änderungen._
 
 #### OPS.2.2.A3
+_Keine inhaltlichen Änderungen._
 
 #### OPS.2.2.A4
+_Keine inhaltlichen Änderungen._
+
+### Standard-Anforderungen
 
 #### OPS.2.2.A5
+_Keine inhaltlichen Änderungen._
 
 #### OPS.2.2.A6
+_Keine inhaltlichen Änderungen._
 
 #### OPS.2.2.A7
+_Keine inhaltlichen Änderungen._
 
 #### OPS.2.2.A8
+_Keine inhaltlichen Änderungen._
 
 #### OPS.2.2.A9
+_Keine inhaltlichen Änderungen._
 
 #### OPS.2.2.A10
+_Keine inhaltlichen Änderungen._
 
 #### OPS.2.2.A11
+_Ergänzung:_ Für die genutzten Cloud-Dienste SOLLTE durch den Cloud-Kunden ein Notfallkonzept erstellt werden.
 
 #### OPS.2.2.A12
+_Ergänzung:_ Alle für die eingesetzten Cloud-Dienste erstellten Dokumentationen und Richtlinien SOLLTEN durch den Cloud-Kunden regelmäßig aktualisiert werden.
+
+_Änderung:_ Auch SOLLTEN sich der Cloud-Diensteanbieter und der Cloud-Kunde nach Möglichkeit regelmäßig abstimmen.
 
 #### OPS.2.2.A13
+_Keine inhaltlichen Änderungen._
 
 #### OPS.2.2.A14
+_Ergänzung:_ (...) oder die Fachaufgaben des Cloud-Kunden (...)
+
+### Anforderungen bei erhöhtem Schutzbedarf
 
 #### OPS.2.2.A15
+_Keine inhaltlichen Änderungen._
 
 #### OPS.2.2.A16
+_Keine inhaltlichen Änderungen._
 
 #### OPS.2.2.A17
+_Keine inhaltlichen Änderungen._
 
 #### OPS.2.2.A18
+_Keine inhaltlichen Änderungen._
 
 #### OPS.2.2.A19
-
+_Keine inhaltlichen Änderungen._
 
 
 
