@@ -2068,6 +2068,41 @@ Die im IS-Revisionsbericht festgestellten Abweichungen SOLLTEN in einer angemess
 _Keine inhaltlichen Änderungen._
 
 
+## Änderungen DER.4
+
+### Basis-Anforderungen
+
+#### DER.4.A1
+
+#### DER.4.A2
+
+#### DER.4.A3
+
+#### DER.4.A4
+
+#### DER.4.A5
+
+#### DER.4.A6
+
+#### DER.4.A7
+
+#### DER.4.A8
+
+#### DER.4.A9
+
+#### DER.4.A10
+
+#### DER.4.A11
+
+#### DER.4.A12
+
+#### DER.4.A13
+
+#### DER.4.A14
+
+#### DER.4.A15
+
+#### DER.4.A16
 
 
 
