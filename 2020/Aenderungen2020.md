@@ -1180,6 +1180,41 @@ _Keine inhaltlichen Änderungen._
 #### OPS.1.1.3.A14
 _Keine inhaltlichen Änderungen._
 
+
+## Änderungen OPS.1.1.4
+
+### Basis-Anforderungen
+
+#### OPS.1.1.4.A1
+
+#### OPS.1.1.4.A2
+
+#### OPS.1.1.4.A3
+
+#### OPS.1.1.4.A4
+
+#### OPS.1.1.4.A5
+
+#### OPS.1.1.4.A6
+
+#### OPS.1.1.4.A7
+
+#### OPS.1.1.4.A8
+
+#### OPS.1.1.4.A9
+
+#### OPS.1.1.4.A10
+
+#### OPS.1.1.4.A11
+
+#### OPS.1.1.4.A12
+
+#### OPS.1.1.4.A13
+
+#### OPS.1.1.4.A14
+
+#### OPS.1.1.4.A15
+
 ////////////////
 Formatierungshilfen:
 
