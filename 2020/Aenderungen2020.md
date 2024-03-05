@@ -1341,6 +1341,57 @@ _Geändert:_ ~~"Testlandschaft" und "Qualitätsmanagement-Umgebung"~~ _zu:_ "Tes
 #### OPS.1.1.6.A14
 _Keine inhaltlichen Änderungen._
 
+
+## Änderungen OPS.1.2.2
+
+### Basis-Anforderungen
+
+#### OPS.1.2.2.A1
+
+#### OPS.1.2.2.A2
+
+#### OPS.1.2.2.A3
+
+#### OPS.1.2.2.A4
+
+#### OPS.1.2.2.A5
+
+#### OPS.1.2.2.A6
+
+#### OPS.1.2.2.A7
+
+#### OPS.1.2.2.A8
+
+#### OPS.1.2.2.A9
+
+#### OPS.1.2.2.A10
+
+#### OPS.1.2.2.A11
+
+#### OPS.1.2.2.A12
+
+#### OPS.1.2.2.A13
+
+#### OPS.1.2.2.A14
+
+#### OPS.1.2.2.A15
+
+#### OPS.1.2.2.A16
+
+#### OPS.1.2.2.A17
+
+#### OPS.1.2.2.A18
+
+#### OPS.1.2.2.A19
+
+#### OPS.1.2.2.A20
+
+#### OPS.1.2.2.A21
+
+#### OPS.1.2.2.A22
+
+
+
 ////////////////
 Formatierungshilfen:
 
