@@ -1713,6 +1713,55 @@ _Keine inhaltlichen Änderungen._
 _Keine inhaltlichen Änderungen._
 
 
+## Änderungen DER.2.1
+
+### Basis-Anforderungen
+
+#### DER.2.1.A1
+
+#### DER.2.1.A2
+
+#### DER.2.1.A3
+
+#### DER.2.1.A4
+
+#### DER.2.1.A5
+
+#### DER.2.1.A6
+
+#### DER.2.1.A7
+
+#### DER.2.1.A8
+
+#### DER.2.1.A9
+
+#### DER.2.1.A10
+
+#### DER.2.1.A11
+
+#### DER.2.1.A12
+
+#### DER.2.1.A13
+
+#### DER.2.1.A14
+
+#### DER.2.1.A15
+
+#### DER.2.1.A16
+
+#### DER.2.1.A17
+
+#### DER.2.1.A18
+
+#### DER.2.1.A19
+
+#### DER.2.1.A20
+
+#### DER.2.1.A21
+
+#### DER.2.1.A22
+
+
 
 
 
