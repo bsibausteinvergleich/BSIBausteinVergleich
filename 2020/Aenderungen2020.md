@@ -1598,36 +1598,56 @@ _Diese Anforderungen sind entfallen._
 ### Basis-Anforderungen
 
 #### OPS.3.1.A1
+_Keine inhaltlichen Änderungen._
+
+### Standard-Anforderungen
 
 #### OPS.3.1.A2
+_Keine inhaltlichen Änderungen._
 
 #### OPS.3.1.A3
+_Keine inhaltlichen Änderungen._
 
 #### OPS.3.1.A4
+_Keine inhaltlichen Änderungen._
 
 #### OPS.3.1.A5
+_Keine inhaltlichen Änderungen._
 
 #### OPS.3.1.A6
+_Keine inhaltlichen Änderungen._
 
 #### OPS.3.1.A7
+_Änderung:_ "Mandantenkonzept" _ersetzt durch_ "Mandantentrennungskonzept"
 
 #### OPS.3.1.A8
+_Keine inhaltlichen Änderungen._
 
 #### OPS.3.1.A9
+_Keine inhaltlichen Änderungen._
 
 #### OPS.3.1.A10
+_Keine inhaltlichen Änderungen._
 
 #### OPS.3.1.A11
+_Keine inhaltlichen Änderungen._
 
 #### OPS.3.1.A12
+_Keine inhaltlichen Änderungen._
 
 #### OPS.3.1.A13
+_Keine inhaltlichen Änderungen._
 
 #### OPS.3.1.A14
+_Keine inhaltlichen Änderungen._
 
 #### OPS.3.1.A15
+_Keine inhaltlichen Änderungen._
+
+### Anforderungen bei erhöhtem Schutzbedarf
 
 #### OPS.3.1.A16
+_Keine inhaltlichen Änderungen._
 
 
 
