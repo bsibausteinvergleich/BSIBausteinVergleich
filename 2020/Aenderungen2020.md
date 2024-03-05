@@ -1986,6 +1986,62 @@ _Keine inhaltlichen Änderungen._
 _Keine inhaltlichen Änderungen._
 
 
+## Änderungen DER.3.2
+
+### Basis-Anforderungen
+
+#### DER.3.2.A1
+
+#### DER.3.2.A2
+
+#### DER.3.2.A3
+
+#### DER.3.2.A4
+
+#### DER.3.2.A5
+
+#### DER.3.2.A6
+
+#### DER.3.2.A7
+
+#### DER.3.2.A8
+
+#### DER.3.2.A9
+
+#### DER.3.2.A10
+
+#### DER.3.2.A11
+
+#### DER.3.2.A12
+
+#### DER.3.2.A13
+
+#### DER.3.2.A14
+
+#### DER.3.2.A15
+
+#### DER.3.2.A16
+
+#### DER.3.2.A17
+
+#### DER.3.2.A18
+
+#### DER.3.2.A19
+
+#### DER.3.2.A20
+
+#### DER.3.2.A21
+
+#### DER.3.2.A22
+
+#### DER.3.2.A23
+
+
+
+
+
+
+
 ////////////////
 Formatierungshilfen:
 
