@@ -1458,6 +1458,49 @@ _Keine inhaltlichen Änderungen._
 _Keine inhaltlichen Änderungen._
 
 
+## NEU OPS.1.2.5
+
+### OPS.1.2.5.A1 - OPS.1.2.5.A23 sind in 2020 ergänzt worden.
+
+
+## Änderungen OPS.2.1
+
+### Basis-Anforderungen
+
+#### OPS.2.1.A1
+
+#### OPS.2.1.A2
+
+#### OPS.2.1.A3
+
+#### OPS.2.1.A4
+
+#### OPS.2.1.A5
+
+#### OPS.2.1.A6
+
+#### OPS.2.1.A7
+
+#### OPS.2.1.A8
+
+#### OPS.2.1.A9
+
+#### OPS.2.1.A10
+
+#### OPS.2.1.A11
+
+#### OPS.2.1.A12
+
+#### OPS.2.1.A13
+
+#### OPS.2.1.A14
+
+#### OPS.2.1.A15
+
+#### OPS.2.1.A16
+
+
+
 ////////////////
 Formatierungshilfen:
 
