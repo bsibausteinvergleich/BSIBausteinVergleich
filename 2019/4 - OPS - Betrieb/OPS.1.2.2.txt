@@ -70,8 +70,6 @@ Die Administrationsrichtlinie SOLLTE folgende Punkte enthalten:
 • Regelung zur Datensicherung,
 • Regelungen zur Protokollierung,
 • Trennung von Produzenten und Konsumenten (OAIS-Modell).
-4 IT-Grundschutz-Kompendium: Stand Februar 2019
-OPS.1.2.2 OPS.1.2: Weiterführende Aufgaben
 
 OPS.1.2.2.A11 Einweisung in die Administration und Bedienung des Archivsystems [Leiter IT, IT-Betrieb, Benutzer]
 Die verantwortlichen IT-Betriebe und die Benutzer SOLLTEN für ihren Aufgabenbereich geschult werden.
