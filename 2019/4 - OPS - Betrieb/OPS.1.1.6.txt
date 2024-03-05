@@ -1,6 +1,5 @@
 3.1 Basis-Anforderungen
 
-
 OPS.1.1.6.A1 Planung der Software-Tests
 Bevor die Software-Tests durchgeführt werden können, MÜSSEN die Rahmenbedingungen dafür innerhalb der Institution entsprechend der Schutzbedarfe, Organisationseinheiten, technischen Möglichkeiten und Test-Umgebungen festlegt sein. 
 Die Software-Tests MÜSSEN auf den Angaben des Pflichtenhefts basieren.
