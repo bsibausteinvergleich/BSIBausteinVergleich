@@ -1242,31 +1242,48 @@ _Keine inhaltlichen Änderungen._
 ### Basis-Anforderungen
 
 #### OPS.1.1.5.A1
+_Keine inhaltlichen Änderungen._
 
 #### OPS.1.1.5.A2
+_Keine inhaltlichen Änderungen._
 
 #### OPS.1.1.5.A3
+_Keine inhaltlichen Änderungen._
 
 #### OPS.1.1.5.A4
+_Keine inhaltlichen Änderungen._
 
 #### OPS.1.1.5.A5
+_Keine inhaltlichen Änderungen._
+
+### Standard-Anforderungen
 
 #### OPS.1.1.5.A6
+_Änderung:_\
+Die Protokollierungsinfrastruktur SOLLTE ausreichend dimensioniert sein.
+Die Möglichkeit einer Skalierung im Sinne einer erweiterten Protokollierung SOLLTE berücksichtigt werden.
 
 #### OPS.1.1.5.A7
+_Keine inhaltlichen Änderungen._
 
 #### OPS.1.1.5.A8
+_Keine inhaltlichen Änderungen._
 
 #### OPS.1.1.5.A9
+_Änderung:_\
+(...) ~~mithilfe einer Protokollierungsanwendung~~ (...)
 
 #### OPS.1.1.5.A10
+_Keine inhaltlichen Änderungen._
 
 #### OPS.1.1.5.A11
+_Keine inhaltlichen Änderungen._
 
 #### OPS.1.1.5.A12
+_Keine inhaltlichen Änderungen._
 
 #### OPS.1.1.5.A13
-
+_Keine inhaltlichen Änderungen._
 
 
 
