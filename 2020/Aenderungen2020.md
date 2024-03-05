@@ -1231,8 +1231,10 @@ _Keine inhaltlichen Änderungen._
 _Keine inhaltlichen Änderungen._
 
 #### OPS.1.1.4.A14
+_Keine inhaltlichen Änderungen._
 
 #### OPS.1.1.4.A15
+_Keine inhaltlichen Änderungen._
 
 ////////////////
 Formatierungshilfen:
