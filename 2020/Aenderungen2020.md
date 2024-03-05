@@ -1718,48 +1718,77 @@ _Keine inhaltlichen Änderungen._
 ### Basis-Anforderungen
 
 #### DER.2.1.A1
+_Keine inhaltlichen Änderungen._
 
 #### DER.2.1.A2
+_Keine inhaltlichen Änderungen._
 
 #### DER.2.1.A3
+_Keine inhaltlichen Änderungen._
 
 #### DER.2.1.A4
+_Keine inhaltlichen Änderungen._
 
 #### DER.2.1.A5
+_Keine inhaltlichen Änderungen._
 
 #### DER.2.1.A6
+_Änderung:_\
+Nach einem Angriff MÜSSEN alle Zugangsdaten auf den betroffenen Komponenten geändert werden, bevor sie wieder in Betrieb genommen werden.
+
+### Standard-Anforderungen
 
 #### DER.2.1.A7
+_Keine inhaltlichen Änderungen._
 
 #### DER.2.1.A8
+_Ergänzung:_ Gegebenenfalls SOLLTE das Sicherheitsvorfall-Team neu zusammengestellt werden.
 
 #### DER.2.1.A9
+_Keine inhaltlichen Änderungen._
 
 #### DER.2.1.A10
+_Keine inhaltlichen Änderungen._
 
 #### DER.2.1.A11
+_Keine inhaltlichen Änderungen._
 
 #### DER.2.1.A12
+_Keine inhaltlichen Änderungen._
 
 #### DER.2.1.A13
+_Keine inhaltlichen Änderungen._
 
 #### DER.2.1.A14
+_Ergänzung:_ (...) wie z. B. Ticket-Systeme (...)
 
 #### DER.2.1.A15
+_Keine inhaltlichen Änderungen._
 
 #### DER.2.1.A16
+_Keine inhaltlichen Änderungen._
 
 #### DER.2.1.A17
+_Keine inhaltlichen Änderungen._
 
 #### DER.2.1.A18
+_Keine inhaltlichen Änderungen._
+
+### Anforderungen bei erhöhtem Schutzbedarf
 
 #### DER.2.1.A19
+_Keine inhaltlichen Änderungen._
 
 #### DER.2.1.A20
+_Keine inhaltlichen Änderungen._
 
 #### DER.2.1.A21
+_Keine inhaltlichen Änderungen._
 
 #### DER.2.1.A22
+_Änderung:_\
+Es SOLLTEN die Messgrößen ausgewertet werden, die anfallen, wenn Sicherheitsvorfälle aufgenommen, gemeldet und eskaliert werden, z. B. die Zeiträume von der Erstmeldung bis zur verbindlichen Bestätigung eines Sicherheitsvorfalls.
+
 
 
 
