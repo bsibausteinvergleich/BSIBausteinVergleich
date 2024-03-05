@@ -101,7 +101,8 @@ Werden bei einer ausgewählten Stichprobe Abweichungen zum dokumentierten Status
 Während der Vor-Ort-Prüfung SOLLTEN die IS-Revisoren niemals aktiv in IT-Systeme eingreifen und auch keine Handlungsanweisungen zu Änderungen am Revisionsgegenstand erteilen.
 Alle wesentlichen Sachverhalte und Angaben über Quellen-, Auskunfts- und Vorlage-Ersuchen sowie durchgeführte Besprechungen SOLLTEN schriftlich festgehalten werden.
 In einem Abschlussgespräch SOLLTE das IS-Revisionsteam den Ansprechpartnern der geprüften Institution wesentliche Feststellungen kurz darstellen.
-Dabei SOLLTE das IS-Revisionsteam die Feststellungen nicht konkret bewerten, sondern Hinweise auf etwaige Mängel und den weiteren Verfahrensgang geben. Auch dieses Abschlussgespräch SOLLTE protokolliert werden.
+Dabei SOLLTE das IS-Revisionsteam die Feststellungen nicht konkret bewerten, sondern Hinweise auf etwaige Mängel und den weiteren Verfahrensgang geben.
+Auch dieses Abschlussgespräch SOLLTE protokolliert werden.
 
 DER.3.2.A18 Durchführung von Interviews [IS-Revisionsteam]
 Interviews SOLLTEN strukturiert erfolgen. Fragen SOLLTEN knapp, präzise und leicht verständlich formuliert werden.
