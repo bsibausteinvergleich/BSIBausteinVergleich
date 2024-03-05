@@ -6,9 +6,8 @@ Es MÜSSEN beide Outsourcing-Parteien auf die Einhaltung von IT-Grundschutz oder
 Es MÜSSEN alle Schnittstellen zwischen dem Outsourcing-Dienstleister und -Kunden identifiziert und entsprechende Sicherheitsanforderungen dafür definiert werden.
 Es MUSS in den Sicherheitsanforderungen festgelegt sein, welche Berechtigungen (Zutrittsrechte, Zugangsrechte, Zugriffsrechte) jeweils gegenseitig eingerichtet werden.
 
+
 3.2 Standard-Anforderungen
-Gemeinsam mit den Basis-Anforderungen entsprechen die folgenden Anforderungen dem Stand der Technik für den Baustein OPS.2.1 Outsourcing für Kunden.
-Sie SOLLTEN grundsätzlich umgesetzt werden.
 
 OPS.2.1.A2 Rechtzeitige Beteiligung der Personalvertretung [Leiter Organisation]
 Die Personalvertretung SOLLTE rechtzeitig über ein Outsourcing-Vorhaben informiert werden.
