@@ -99,7 +99,8 @@ Nach der Prüfung SOLLTE das Auditteam ein Abschlussgespräch führen, in dem ku
 Das Gespräch SOLLTE protokolliert werden.
 
 DER.3.1.A18 Durchführung von Interviews [Auditteam]
-Interviews SOLLTEN strukturiert erfolgen. Fragen SOLLTEN knapp, präzise und leicht verständlich formuliert werden.
+Interviews SOLLTEN strukturiert erfolgen.
+Fragen SOLLTEN knapp, präzise und leicht verständlich formuliert werden.
 Zudem SOLLTEN geeignete Fragetechniken eingesetzt werden.
 
 DER.3.1.A19 Überprüfung des Risikobehandlungsplans [Auditteam]
