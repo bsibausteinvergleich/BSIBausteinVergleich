@@ -1186,30 +1186,49 @@ _Keine inhaltlichen Änderungen._
 ### Basis-Anforderungen
 
 #### OPS.1.1.4.A1
+_Ergänzung:_\
+(Das Konzept SOLLTE nachvollziehbar dokumentiert) und aktuell gehalten werden.
 
 #### OPS.1.1.4.A2
+_Keine inhaltlichen Änderungen._
 
 #### OPS.1.1.4.A3
+_Keine inhaltlichen Änderungen._
 
 #### OPS.1.1.4.A4
+_Änderung:_\
+An das Produkt für Gateways und IT-Systeme zum Datenaustausch MÜSSEN die gleichen Forderungen wie an Endgeräte gestellt werden (siehe OPS.1.1.4.A3 Auswahl eines Virenschutzprogramms für Endgeräte).
 
 #### OPS.1.1.4.A5
+_Keine inhaltlichen Änderungen._
 
 #### OPS.1.1.4.A6
+_Keine inhaltlichen Änderungen._
 
 #### OPS.1.1.4.A7
+_Keine inhaltlichen Änderungen._
+
+### Standard-Anforderungen
 
 #### OPS.1.1.4.A8
+_Keine inhaltlichen Änderungen._
 
 #### OPS.1.1.4.A9
+_Keine inhaltlichen Änderungen._
+
+### Anforderungen bei erhöhtem Schutzbedarf
 
 #### OPS.1.1.4.A10
+_Keine inhaltlichen Änderungen._
 
 #### OPS.1.1.4.A11
+_Keine inhaltlichen Änderungen._
 
 #### OPS.1.1.4.A12
+_Keine inhaltlichen Änderungen._
 
 #### OPS.1.1.4.A13
+_Keine inhaltlichen Änderungen._
 
 #### OPS.1.1.4.A14
 
@@ -1220,6 +1239,7 @@ Formatierungshilfen:
 
 _Änderung:_\
 
+_Ergänzung:_\
 
 _Geändert:_\
 ~~~~\
