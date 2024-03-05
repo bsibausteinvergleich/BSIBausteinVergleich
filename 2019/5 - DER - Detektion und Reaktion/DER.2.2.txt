@@ -1,6 +1,5 @@
 3.1 Basis-Anforderungen
 
-
 DER.2.2.A1 Prüfung rechtlicher und regulatorischer Rahmenbedingungen zur Erfassung und Auswertbarkeit [Datenschutzbeauftragter, Institutionsleitung]
 Werden Daten für forensische Untersuchungen erfasst und ausgewertet, MÜSSEN alle rechtlichen und regulatorischen Rahmenbedingungen identifiziert und eingehalten werden, siehe ORP.5 Compliance Management (Anforderungsmanagement).
 Auch DARF NICHT gegen interne Regelungen und Mitarbeitervereinbarungen verstoßen werden.
