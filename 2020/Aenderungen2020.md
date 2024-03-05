@@ -1347,48 +1347,74 @@ _Keine inhaltlichen Änderungen._
 ### Basis-Anforderungen
 
 #### OPS.1.2.2.A1
+_Keine inhaltlichen Änderungen._
 
 #### OPS.1.2.2.A2
+_Änderung:_ "Management" _zu_ "Institutionsleitung"
 
 #### OPS.1.2.2.A3
+_Keine inhaltlichen Änderungen._
 
 #### OPS.1.2.2.A4
+_Keine inhaltlichen Änderungen._
 
 #### OPS.1.2.2.A5
+_Keine inhaltlichen Änderungen._
 
 #### OPS.1.2.2.A6
+_Änderung:_ Mittlere und große Archive SOLLTEN über redundante Indexdatenbanken verfügen.
 
 #### OPS.1.2.2.A7
+_Keine inhaltlichen Änderungen._
 
 #### OPS.1.2.2.A8
+_Keine inhaltlichen Änderungen._
 
 #### OPS.1.2.2.A9
+_Keine inhaltlichen Änderungen._
+
+### Standard-Anforderungen
 
 #### OPS.1.2.2.A10
+_Keine inhaltlichen Änderungen._
 
 #### OPS.1.2.2.A11
+_Keine inhaltlichen Änderungen._
 
 #### OPS.1.2.2.A12
+_Änderung:_ Die auf den Archivmedien vorhandene freie Speicherkapazität SOLLTE kontinuierlich überwacht werden.
 
 #### OPS.1.2.2.A13
+_Keine inhaltlichen Änderungen._
 
 #### OPS.1.2.2.A14
+_Keine inhaltlichen Änderungen._
 
 #### OPS.1.2.2.A15
+_Keine inhaltlichen Änderungen._
 
 #### OPS.1.2.2.A16
+_Ergänzung:_\
+Wenn Archivdaten in neue Formate konvertiert werden, SOLLTE geprüft werden, ob die Daten aufgrund rechtlicher Anforderungen zusätzlich in ihren ursprünglichen Formaten zu archivieren sind.
 
-#### OPS.1.2.2.A17
+#### NEU OPS.1.2.2.A17
+_Anforderung hinzugefügt_
 
-#### OPS.1.2.2.A18
+#### NEU OPS.1.2.2.A18
+_Anforderung hinzugefügt_
 
-#### OPS.1.2.2.A19
+#### NEU OPS.1.2.2.A19
+_Anforderung hinzugefügt_
 
-#### OPS.1.2.2.A20
+### Anforderungen bei erhöhtem Schutzbedarf
 
-#### OPS.1.2.2.A21
+#### NEU OPS.1.2.2.A20
+_Anforderung hinzugefügt_
 
-#### OPS.1.2.2.A22
+#### NEU OPS.1.2.2.A21
+_Anforderung hinzugefügt_
+
+
 
 
 
