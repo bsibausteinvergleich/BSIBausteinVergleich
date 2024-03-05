@@ -51,7 +51,8 @@ Technische und organisatorische Telearbeitsregelungen zur Aufgabenbewältigung,
 
 OPS.1.2.4.A9 Betreuungs- und Wartungskonzept für Telearbeitsplätze [IT-Betrieb, Leiter IT, Telearbeiter] (S)
 Für Telearbeitsplätze SOLLTE ein spezielles Betreuungs- und Wartungskonzept erstellt werden.
-Darin SOLLTEN folgende Aspekte geregelt werden: Ansprechpartner für den Benutzerservice, Wartungstermine, Fernwartung, Transport der IT-Geräte und Einführung von Standard-Telearbeitsrechnern. Damit die Telearbeiter einsatzfähig bleiben, SOLLTEN für sie Ansprechpartner für Hard- und Softwareprobleme benannt werden.
+Darin SOLLTEN folgende Aspekte geregelt werden: Ansprechpartner für den Benutzerservice, Wartungstermine, Fernwartung, Transport der IT-Geräte und Einführung von Standard-Telearbeitsrechnern.
+Damit die Telearbeiter einsatzfähig bleiben, SOLLTEN für sie Ansprechpartner für Hard- und Softwareprobleme benannt werden.
 
 OPS.1.2.4.A10 Durchführung einer Anforderungsanalyse für den Telearbeitsplatz [IT-Betrieb, Leiter IT] (S)
 Bevor ein Telearbeitsplatz eingerichtet wird, SOLLTE eine Anforderungsanalyse durchgeführt werden.
