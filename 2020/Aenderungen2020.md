@@ -1589,6 +1589,48 @@ _Keine inhaltlichen Änderungen._
 _Keine inhaltlichen Änderungen._
 
 
+## Änderungen OPS.2.4
+_Diese Anforderungen sind entfallen._
+
+
+## Änderungen OPS.3.1
+
+### Basis-Anforderungen
+
+#### OPS.3.1.A1
+
+#### OPS.3.1.A2
+
+#### OPS.3.1.A3
+
+#### OPS.3.1.A4
+
+#### OPS.3.1.A5
+
+#### OPS.3.1.A6
+
+#### OPS.3.1.A7
+
+#### OPS.3.1.A8
+
+#### OPS.3.1.A9
+
+#### OPS.3.1.A10
+
+#### OPS.3.1.A11
+
+#### OPS.3.1.A12
+
+#### OPS.3.1.A13
+
+#### OPS.3.1.A14
+
+#### OPS.3.1.A15
+
+#### OPS.3.1.A16
+
+
+
 
 ////////////////
 Formatierungshilfen:
