@@ -1468,36 +1468,59 @@ _Keine inhaltlichen Änderungen._
 ### Basis-Anforderungen
 
 #### OPS.2.1.A1
+_Keine inhaltlichen Änderungen._
+
+### Standard-Anforderungen
 
 #### OPS.2.1.A2
+_Keine inhaltlichen Änderungen._
 
 #### OPS.2.1.A3
+_Keine inhaltlichen Änderungen._
 
 #### OPS.2.1.A4
+_Keine inhaltlichen Änderungen._
 
 #### OPS.2.1.A5
+_Keine inhaltlichen Änderungen._
 
 #### OPS.2.1.A6
+_Keine inhaltlichen Änderungen._
 
 #### OPS.2.1.A7
+_Keine inhaltlichen Änderungen._
 
 #### OPS.2.1.A8
+_Keine inhaltlichen Änderungen._
 
 #### OPS.2.1.A9
+_Keine inhaltlichen Änderungen._
 
 #### OPS.2.1.A10
+_Keine inhaltlichen Änderungen._
 
 #### OPS.2.1.A11
+_Keine inhaltlichen Änderungen._
 
 #### OPS.2.1.A12
+_Keine inhaltlichen Änderungen._
 
-#### OPS.2.1.A13
+#### NEU OPS.2.1.A13
+_Diese Anforderung wurde ergänzt._
 
 #### OPS.2.1.A14
+_Diese Anforderung wurde ergänzt._
 
 #### OPS.2.1.A15
+_Diese Anforderung wurde ergänzt._
+
+### Anforderungen bei erhöhtem Schutzbedarf
 
 #### OPS.2.1.A16
+_Diese Anforderung wurde ergänzt._
+
+
+
 
 
 
