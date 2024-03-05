@@ -1,6 +1,5 @@
 3.1 Basis-Anforderungen
 
-
 OPS.1.1.4.A1 Erstellung eines Konzepts für den Schutz vor Schadprogrammen
 Es MUSS ein Konzept erstellt werden, welche IT-Systeme vor Schadprogrammen geschützt werden müssen.
 Außerdem MUSS festgehalten werden, wie der Schutz zu erfolgen hat.
