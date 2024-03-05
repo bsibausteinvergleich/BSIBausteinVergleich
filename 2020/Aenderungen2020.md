@@ -1851,24 +1851,38 @@ _Keine inhaltlichen Änderungen._
 ### Basis-Anforderungen
 
 #### DER.2.3.A1
+_Keine inhaltlichen Änderungen._
 
 #### DER.2.3.A2
+_Keine inhaltlichen Änderungen._
 
 #### DER.2.3.A3
+_Keine inhaltlichen Änderungen._
 
 #### DER.2.3.A4
+_Keine inhaltlichen Änderungen._
 
 #### DER.2.3.A5
+_Keine inhaltlichen Änderungen._
 
 #### DER.2.3.A6
+_Keine inhaltlichen Änderungen._
+
+### Standard-Anforderungen
 
 #### DER.2.3.A7
+_Keine inhaltlichen Änderungen._
 
 #### DER.2.3.A8
+_Keine inhaltlichen Änderungen._
+
+### Anforderungen bei erhöhtem Schutzbedarf
 
 #### DER.2.3.A9
+_Keine inhaltlichen Änderungen._
 
 #### DER.2.3.A10
+_Keine inhaltlichen Änderungen._
 
 
 
