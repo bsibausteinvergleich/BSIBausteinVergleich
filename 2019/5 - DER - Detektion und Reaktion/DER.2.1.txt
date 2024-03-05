@@ -1,6 +1,5 @@
 3.1 Basis-Anforderungen
 
-
 DER.2.1.A1 Definition eines Sicherheitsvorfalls [Leiter IT]
 In einer Institution MUSS klar definiert sein, was ein Sicherheitsvorfall ist.
 Ein Sicherheitsvorfall MUSS so weit wie möglich von Störungen im Tagesbetrieb abgegrenzt sein.
@@ -135,10 +134,8 @@ Dabei SOLLTEN sowohl die in Reaktionen auf Sicherheitsvorfälle involvierten als
 Es SOLLTE geprüft werden, ob neue Entwicklungen im Incident Management und in der Forensik existieren und in die jeweiligen Dokumente und in die Abläufe eingebracht werden können.
 Werden Hilfsmittel und Checklisten, z. B. für Service-Desk-Mitarbeiter, eingesetzt, SOLLTE geprüft werden, ob diese um erforderliche relevante Fragestellungen und Informationen zu erweitern sind.
 
+
 3.3 Anforderungen bei erhöhtem Schutzbedarf
-Im Folgenden sind für den Baustein DER.2.1 Behandlung von Sicherheitsvorfällen exemplarische Vorschläge für Anforderungen aufgeführt, die über das dem Stand der Technik entsprechende Schutzniveau hinausgehen und BEI ERHÖHTEM SCHUTZBEDARF in Betracht gezogen werden SOLLTEN.
-Die konkrete Festlegung erfolgt im Rahmen einer Risikoanalyse.
-Die jeweils in Klammern angegebenen Buchstaben zeigen an, welche Grundwerte durch die Anforderung vorrangig geschützt werden (C = Vertraulichkeit, I = Integrität, A = Verfügbarkeit).
 
 DER.2.1.A19 Festlegung von Prioritäten für die Behandlung von Sicherheitsvorfällen (CIA)
 Um die Ursachen von Sicherheitsvorfällen und die entstandenen Schäden effizient und in einer sinnvollen Reihenfolge beheben zu können, SOLLTEN die Prioritäten vorab festgelegt und regelmäßig aktualisiert werden.
