@@ -1991,16 +1991,24 @@ _Keine inhaltlichen Änderungen._
 ### Basis-Anforderungen
 
 #### DER.3.2.A1
+_Keine inhaltlichen Änderungen._
 
 #### DER.3.2.A2
+_Keine inhaltlichen Änderungen._
 
 #### DER.3.2.A3
+_Keine inhaltlichen Änderungen._
 
 #### DER.3.2.A4
+_Änderung:_\
+Wenn die Institution nicht nach ISO 27001 auf Basis von IT-Grundschutz zertifiziert ist, MÜSSEN der Verantwortliche für die IS-Revision und die Institutionsleitung sicherstellen, dass mindestens alle drei Jahre eine IS-Kurz- oder Querschnitts-Revision durchgeführt wird.
 
 #### DER.3.2.A5
+_Keine inhaltlichen Änderungen._
 
 #### DER.3.2.A6
+_Entfallen:_\
+Die Institutionsleitung MUSS das IS-Revisionsverfahren initiieren.
 
 #### DER.3.2.A7
 
@@ -2045,6 +2053,11 @@ _Keine inhaltlichen Änderungen._
 ////////////////
 Formatierungshilfen:
 
+
+
+_Entfallen:_\
+
+_Änderung:_\
 
 _Ergänzung:_\
 
