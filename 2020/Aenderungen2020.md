@@ -1790,6 +1790,41 @@ _Änderung:_\
 Es SOLLTEN die Messgrößen ausgewertet werden, die anfallen, wenn Sicherheitsvorfälle aufgenommen, gemeldet und eskaliert werden, z. B. die Zeiträume von der Erstmeldung bis zur verbindlichen Bestätigung eines Sicherheitsvorfalls.
 
 
+## Änderungen DER.2.2
+
+### Basis-Anforderungen
+
+#### DER.2.2.A1
+
+#### DER.2.2.A2
+
+#### DER.2.2.A3
+
+#### DER.2.2.A4
+
+#### DER.2.2.A5
+
+#### DER.2.2.A6
+
+#### DER.2.2.A7
+
+#### DER.2.2.A8
+
+#### DER.2.2.A9
+
+#### DER.2.2.A10
+
+#### DER.2.2.A11
+
+#### DER.2.2.A12
+
+#### DER.2.2.A13
+
+#### DER.2.2.A14
+
+#### DER.2.2.A15
+
+
 
 
 
