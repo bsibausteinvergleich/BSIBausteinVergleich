@@ -27,10 +27,6 @@ Es MUSS über den gesamten Archivierungszeitraum hinweg sichergestellt werden, d
 • die gespeicherten Daten auch zukünftig lesbar und so reproduzierbar sind, sodass Semantik und Beweiskraftbeibehalten werden können,
 • das benutzte Dateisystem auf dem Speichermedium von allen beteiligten Komponenten verarbeitet werdenkann,
 • die Speichermedien jederzeit technisch einwandfrei gelesen werden können und
-IT-Grundschutz-Kompendium: Stand Februar 2019 3
-
-
-OPS.1.2: Weiterführende Aufgaben OPS.1.2.2
 • die verwendeten kryptografischen Verfahren zur Verschlüsselung und zum Beweiswerterhalt mittels digitaler Signatur, Siegel, Zeitstempel oder technischen Beweisdaten (Evidence Records) dem Stand der Technik entsprechen.
 
 OPS.1.2.2.A6 Schutz der Integrität der Indexdatenbank von Archivsystemen [Leiter IT, IT-Betrieb]
