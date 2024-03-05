@@ -1,6 +1,5 @@
 3.1 Basis-Anforderungen
 
-
 OPS.2.1.A1 Festlegung der Sicherheitsanforderungen für Outsourcing-Vorhaben [ISB Outsourcing-Kunde]
 Alle Sicherheitsanforderungen für ein Outsourcing-Vorhaben MÜSSEN auf Basis der Outsourcing-Strategie festgelegt sein.
 Es MÜSSEN beide Outsourcing-Parteien auf die Einhaltung von IT-Grundschutz oder einem vergleichbaren Schutzniveau vertraglich verpflichtet sein.
