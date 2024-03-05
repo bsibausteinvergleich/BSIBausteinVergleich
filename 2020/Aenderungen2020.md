@@ -1520,6 +1520,47 @@ _Diese Anforderung wurde ergänzt._
 _Diese Anforderung wurde ergänzt._
 
 
+## Änderungen OPS.2.2
+
+### Basis-Anforderungen
+
+#### OPS.2.2.A1
+
+#### OPS.2.2.A2
+
+#### OPS.2.2.A3
+
+#### OPS.2.2.A4
+
+#### OPS.2.2.A5
+
+#### OPS.2.2.A6
+
+#### OPS.2.2.A7
+
+#### OPS.2.2.A8
+
+#### OPS.2.2.A9
+
+#### OPS.2.2.A10
+
+#### OPS.2.2.A11
+
+#### OPS.2.2.A12
+
+#### OPS.2.2.A13
+
+#### OPS.2.2.A14
+
+#### OPS.2.2.A15
+
+#### OPS.2.2.A16
+
+#### OPS.2.2.A17
+
+#### OPS.2.2.A18
+
+#### OPS.2.2.A19
 
 
 
