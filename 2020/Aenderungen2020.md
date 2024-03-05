@@ -1795,34 +1795,55 @@ Es SOLLTEN die Messgrößen ausgewertet werden, die anfallen, wenn Sicherheitsvo
 ### Basis-Anforderungen
 
 #### DER.2.2.A1
+_Entfallen:_\
+Im Einzelfall kann es jedoch notwendig sein, das Interesse der Institution gegen das der Mitarbeiter abzuwägen.
 
 #### DER.2.2.A2
+_Keine inhaltlichen Änderungen._
 
 #### DER.2.2.A3
+_Keine inhaltlichen Änderungen._
+
+### Standard-Anforderungen
 
 #### DER.2.2.A4
+_Keine inhaltlichen Änderungen._
 
 #### DER.2.2.A5
+_Keine inhaltlichen Änderungen._
 
 #### DER.2.2.A6
+_Keine inhaltlichen Änderungen._
 
 #### DER.2.2.A7
+_Keine inhaltlichen Änderungen._
 
 #### DER.2.2.A8
+_Keine inhaltlichen Änderungen._
 
 #### DER.2.2.A9
+_Keine inhaltlichen Änderungen._
 
 #### DER.2.2.A10
+_Änderung:_\
+Es SOLLTEN schriftlich dokumentierte kryptografische Prüfsummen von den Datenträgern angelegt werden.
 
 #### DER.2.2.A11
+_Keine inhaltlichen Änderungen._
 
 #### DER.2.2.A12
+_Keine inhaltlichen Änderungen._
+
+### Anforderungen bei erhöhtem Schutzbedarf
 
 #### DER.2.2.A13
+_Keine inhaltlichen Änderungen._
 
 #### DER.2.2.A14
+_Keine inhaltlichen Änderungen._
 
 #### DER.2.2.A15
+_Keine inhaltlichen Änderungen._
 
 
 
