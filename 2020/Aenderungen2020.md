@@ -1890,67 +1890,105 @@ _Keine inhaltlichen Änderungen._
 ### Basis-Anforderungen
 
 #### DER.3.1.A1
+_Änderung:_\
+Der Verantwortliche MUSS sicherstellen, dass die Ergebnisse der Audits und Revisionen dazu verwendet werden, um die Sicherheitsmaßnahmen zu verbessern.
 
 #### DER.3.1.A2
+_Keine inhaltlichen Änderungen._
 
 #### DER.3.1.A3
+_Keine inhaltlichen Änderungen._
 
 #### DER.3.1.A4
+_Keine inhaltlichen Änderungen._
+
+### Standard-Anforderungen
 
 #### DER.3.1.A5
+_Keine inhaltlichen Änderungen._
 
 #### DER.3.1.A6
+_Änderung:_ Die Institution SOLLTE eine einheitliche Prüfungsgrundlage für Audits festlegen.
 
 #### DER.3.1.A7
+_Änderung:_\
+Der ISB SOLLTE ein Auditprogramm für mehrere Jahre aufstellen, das alle durchzuführenden Audits und Revisionen erfasst.
+
+_Änderung:_\
+Der ISB SOLLTE Reserven für unvorhergesehene Ereignisse in der jährlichen Ressourcenplanung vorsehen.
 
 #### DER.3.1.A8
+_Änderung:_\
+Der ISB SOLLTE eine oder mehrere Revisionslisten pflegen, die den aktuellen Stand der Revisionsobjekte sowie die geplanten Revisionen dokumentieren.
 
 #### DER.3.1.A9
+_Keine inhaltlichen Änderungen._
 
 #### DER.3.1.A10
+_Keine inhaltlichen Änderungen._
 
 #### DER.3.1.A11
+_Änderung:_ Das Auditteam SOLLTE klare Regelungen (...)
+_Änderung:_ Das Auditteam SOLLTE durch geeignete Maßnahmen (...)
 
 #### DER.3.1.A12
+_Keine inhaltlichen Änderungen._
 
 #### DER.3.1.A13
+_Keine inhaltlichen Änderungen._
 
 #### DER.3.1.A14
+_Änderung:_"Maßnahmen" _ersetz durch_ "Anforderungen"
 
 #### DER.3.1.A15
+_Keine inhaltlichen Änderungen._
 
 #### DER.3.1.A16
+_Keine inhaltlichen Änderungen._
 
 #### DER.3.1.A17
+_Keine inhaltlichen Änderungen._
 
 #### DER.3.1.A18
+_Keine inhaltlichen Änderungen._
 
 #### DER.3.1.A19
+_Keine inhaltlichen Änderungen._
 
 #### DER.3.1.A20
+_Keine inhaltlichen Änderungen._
 
 #### DER.3.1.A21
+_Keine inhaltlichen Änderungen._
 
 #### DER.3.1.A22
+_Entfallen:_\
+Die Ergebnisse des Audits SOLLTEN den Verantwortlichen in einer Präsentation erläutert werden.
 
 #### DER.3.1.A23
+_Keine inhaltlichen Änderungen._
 
 #### DER.3.1.A24
+_Keine inhaltlichen Änderungen._
 
 #### DER.3.1.A25
+_Keine inhaltlichen Änderungen._
 
 #### DER.3.1.A26
+_Keine inhaltlichen Änderungen._
 
 #### DER.3.1.A27
+_Keine inhaltlichen Änderungen._
+
+### Anforderungen bei erhöhtem Schutzbedarf
 
 #### DER.3.1.A28
-
+_Keine inhaltlichen Änderungen._
 
 
 ////////////////
 Formatierungshilfen:
 
-_Änderung:_\
 
 _Ergänzung:_\
 
