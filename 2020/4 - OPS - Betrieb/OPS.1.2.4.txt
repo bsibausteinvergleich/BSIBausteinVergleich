@@ -46,8 +46,7 @@ Dabei SOLLTE auch geklärt werden, ob eine private Nutzung generell erlaubt oder
 
 OPS.1.2.4.A8 Informationsfluss zwischen Telearbeiter und Institution [Vorgesetzte, Telearbeiter] (S)
 Es SOLLTE ein regelmäßiger innerbetrieblicher Informationsaustausch zwischen den Telearbeitern, den Arbeitskollegen und der Institution gewährleistet sein.
-Alle Telearbeiter SOLLTEN zeitnah über geänderte Sicherheitsanforderungen und andere sicherheitsrelevante Aspekte informiert werden. Allen Kollegen des jeweiligen Telearbeiters
-SOLLTE bekannt sein, wann und wo dieser erreicht werden kann.
+Alle Telearbeiter SOLLTEN zeitnah über geänderte Sicherheitsanforderungen und andere sicherheitsrelevante Aspekte informiert werden. Allen Kollegen des jeweiligen Telearbeiters SOLLTE bekannt sein, wann und wo dieser erreicht werden kann.
 Technische und organisatorische Telearbeitsregelungen zur Aufgabenbewältigung, zu Sicherheitsvorfällen und sonstigen Problemen SOLLTEN geregelt und an den Telearbeiter kommuniziert werden.
 
 OPS.1.2.4.A9 Betreuungs- und Wartungskonzept für Telearbeitsplätze [IT-Betrieb, Leiter IT, Telearbeiter] (S)
