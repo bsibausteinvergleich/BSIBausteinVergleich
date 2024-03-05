@@ -1,6 +1,5 @@
 3.1 Basis-Anforderungen
 
-
 DER.3.2.A1 Benennung von Verantwortlichen für die IS-Revision
 Die Institution MUSS einen Verantwortlichen für die IS-Revision benennen. Dieser MUSS die IS-Revisionen planen, initiieren und die Ergebnisse nachverfolgen.
 
