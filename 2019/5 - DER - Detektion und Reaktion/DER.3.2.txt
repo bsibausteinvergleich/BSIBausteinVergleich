@@ -23,7 +23,8 @@ Diese SOLLTE dann durch eine jährliche Detailplanung konkretisiert werden.
 DER.3.2.A5 Auswahl eines geeigneten IS-Revisionsteams
 Es MUSS ein aus mindestens zwei IS-Revisoren bestehendes Team zusammengestellt oder beauftragt werden.
 Dem IS-Revisionsteam MUSS ein uneingeschränktes Informations- und Einsichtnahmerecht für seine Tätigkeit eingeräumt werden.
-Bei eigenen IS-Revisionsteams MÜSSEN die einzelnen IS-Revisoren unparteilich sein. Die Mitglieder eines IS-Revisionsteams DÜRFEN NICHT an der Planung oder Umsetzung des ISMS beteiligt sein oder gewesen sein.
+Bei eigenen IS-Revisionsteams MÜSSEN die einzelnen IS-Revisoren unparteilich sein.
+Die Mitglieder eines IS-Revisionsteams DÜRFEN NICHT an der Planung oder Umsetzung des ISMS beteiligt sein oder gewesen sein.
 
 DER.3.2.A6 Vorbereitung einer IS-Revision [Institutionsleitung]
 Die Institutionsleitung MUSS das IS-Revisionsverfahren initiieren.
