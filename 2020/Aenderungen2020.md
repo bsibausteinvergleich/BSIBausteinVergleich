@@ -2011,38 +2011,61 @@ _Entfallen:_\
 Die Institutionsleitung MUSS das IS-Revisionsverfahren initiieren.
 
 #### DER.3.2.A7
+_Keine inhaltlichen Änderungen._
 
 #### DER.3.2.A8
+_Keine inhaltlichen Änderungen._
+
+### Standard-Anforderungen
 
 #### DER.3.2.A9
+_Änderung:_\
+Der Informationssicherheitsbeauftragte SOLLTE sicherstellen, dass IS-Revisionen ein Teil des Sicherheitsprozesses sind.
 
 #### DER.3.2.A10
+_Keine inhaltlichen Änderungen._
 
 #### DER.3.2.A11
+_Keine inhaltlichen Änderungen._
 
 #### DER.3.2.A12
+_Keine inhaltlichen Änderungen._
 
 #### DER.3.2.A13
+_Keine inhaltlichen Änderungen._
 
 #### DER.3.2.A14
+_Keine inhaltlichen Änderungen._
 
 #### DER.3.2.A15
+_Keine inhaltlichen Änderungen._
 
 #### DER.3.2.A16
+_Keine inhaltlichen Änderungen._
 
 #### DER.3.2.A17
+_Keine inhaltlichen Änderungen._
 
 #### DER.3.2.A18
+_Keine inhaltlichen Änderungen._
 
 #### DER.3.2.A19
+_Keine inhaltlichen Änderungen._
 
 #### DER.3.2.A20
+_Keine inhaltlichen Änderungen._
 
 #### DER.3.2.A21
+_Keine inhaltlichen Änderungen._
 
 #### DER.3.2.A22
+_Änderung:_\
+Die im IS-Revisionsbericht festgestellten Abweichungen SOLLTEN in einer angemessenen Zeit durch den ISB korrigiert werden.
+
+### Anforderungen bei erhöhtem Schutzbedarf
 
 #### DER.3.2.A23
+_Keine inhaltlichen Änderungen._
 
 
 
