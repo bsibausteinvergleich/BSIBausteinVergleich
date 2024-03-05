@@ -25,8 +25,6 @@ Festgestellte Abweichungen MÜSSEN, wenn das möglich ist, sofort korrigiert wer
 Die jeweiligen Revisionen MÜSSEN mit einer Änderungsverfolgung dokumentiert werden.
 
 3.2 Standard-Anforderungen
-Gemeinsam mit den Basis-Anforderungen entsprechen die folgenden Anforderungen dem Stand der Technik für den Baustein DER.3.1 Audits und Revisionen.
-Sie SOLLTEN grundsätzlich umgesetzt werden.
 
 DER.3.1.A5 Integration in den Informationssicherheitsprozess
 Es SOLLTEN eine Richtlinie zur internen ISMS-Auditierung und eine Richtlinie zur Lenkung von Korrekturmaßnahmen erstellt werden.
