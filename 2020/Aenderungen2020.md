@@ -2070,39 +2070,60 @@ _Keine inhaltlichen Änderungen._
 
 ## Änderungen DER.4
 
-### Basis-Anforderungen
+### Standard-Anforderungen
 
 #### DER.4.A1
+_Keine inhaltlichen Änderungen._
 
 #### DER.4.A2
+_Änderung:_\
+DER.4.A2 Integration von Notfallmanagement und Informationssicherheitsmanagement [Informationssicherheitsbeauftragter (ISB)] (S)
+
+### Anforderungen bei erhöhtem Schutzbedarf
 
 #### DER.4.A3
+_Keine inhaltlichen Änderungen._
 
 #### DER.4.A4
+_Keine inhaltlichen Änderungen._
 
 #### DER.4.A5
+_Keine inhaltlichen Änderungen._
 
 #### DER.4.A6
+_Keine inhaltlichen Änderungen._
 
 #### DER.4.A7
+_Keine inhaltlichen Änderungen._
 
 #### DER.4.A8
+_Keine inhaltlichen Änderungen._
 
 #### DER.4.A9
+_Ergänzung:_ (...) und Fachaufgaben (...)
 
 #### DER.4.A10
+_Keine inhaltlichen Änderungen._
 
-#### DER.4.A11
+#### ENTFALLEN: DER.4.A11
+_Diese Anforderung ist entfallen._
 
 #### DER.4.A12
+_Keine inhaltlichen Änderungen._
 
 #### DER.4.A13
+_Keine inhaltlichen Änderungen._
 
 #### DER.4.A14
+_Ergänzung:_\
+Die Überprüfungen SOLLTEN so geplant werden, dass kein relevanter Teil ausgelassen wird.
 
 #### DER.4.A15
+_Änderung:_\
+Diese Messgrößen SOLLTEN regelmäßig ermittelt und mit geeigneten vorangegangenen Werten, mindestens aber mit den Vorjahreswerten, verglichen werden.
 
 #### DER.4.A16
+_Keine inhaltlichen Änderungen._
 
 
 
