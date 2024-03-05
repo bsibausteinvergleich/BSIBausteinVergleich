@@ -4,7 +4,8 @@ OPS.1.2.4.A1 Regelungen für Telearbeit [Vorgesetzte, Personalabteilung]
 Alle relevanten Aspekte der Telearbeit MÜSSEN geregelt werden.
 Zu Informationszwecken MÜSSEN den Telearbeitern die geltenden Regelungen oder ein dafür vorgesehenes Merkblatt ausgehändigt werden, das die zu beachtenden Sicherheitsmaßnahmen erläutert.
 Alle strittigen Punkte MÜSSEN entweder durch Betriebsvereinbarungen oderdurch zusätzlich zum Arbeitsvertrag getroffene individuelle Vereinbarungen zwischen dem Telearbeiter und Arbeitgeber geregelt werden.
-Für jeden Telearbeiter MUSS ein Vertreter benannt werden. Der Vertretungsfall SOLLTE regelmäßig geprobt werden.
+Für jeden Telearbeiter MUSS ein Vertreter benannt werden.
+Der Vertretungsfall SOLLTE regelmäßig geprobt werden.
 Die Regelungen MÜSSEN regelmäßig aktualisiert werden.
 
 OPS.1.2.4.A2 Sicherheitstechnische Anforderungen an den Telearbeitsrechner [Leiter IT, IT-Betrieb]
