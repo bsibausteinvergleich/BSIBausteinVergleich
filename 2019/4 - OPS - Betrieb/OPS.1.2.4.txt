@@ -1,6 +1,5 @@
 3.1 Basis-Anforderungen
 
-
 OPS.1.2.4.A1 Regelungen für Telearbeit [Vorgesetzte, Personalabteilung]
 Alle relevanten Aspekte der Telearbeit MÜSSEN geregelt werden.
 Zu Informationszwecken MÜSSEN den Telearbeitern die geltenden Regelungen oder ein dafür vorgesehenes Merkblatt ausgehändigt werden, das die zu beachtenden Sicherheitsmaßnahmen erläutert.
