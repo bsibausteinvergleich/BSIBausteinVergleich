@@ -1286,6 +1286,38 @@ _Keine inhaltlichen Änderungen._
 _Keine inhaltlichen Änderungen._
 
 
+## Änderungen OPS.1.1.6
+
+### Basis-Anforderungen
+
+#### OPS.1.1.6.A
+
+#### OPS.1.1.6.A
+
+#### OPS.1.1.6.A
+
+#### OPS.1.1.6.A
+
+#### OPS.1.1.6.A
+
+#### OPS.1.1.6.A
+
+#### OPS.1.1.6.A
+
+#### OPS.1.1.6.A
+
+#### OPS.1.1.6.A
+
+#### OPS.1.1.6.A
+
+#### OPS.1.1.6.A
+
+#### OPS.1.1.6.A
+
+#### OPS.1.1.6.A
+
+#### OPS.1.1.6.A
+
 
 ////////////////
 Formatierungshilfen:
