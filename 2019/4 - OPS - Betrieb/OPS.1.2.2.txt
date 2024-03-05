@@ -12,8 +12,7 @@ Die Ergebnisse MÜSSEN in einem Archivierungskonzept erfasst werden.
 Das Management MUSS in diesen Prozess einbezogen werden.
 Das Archivierungskonzept MUSS regelmäßig an die aktuellen Gegebenheiten der Institution angepasst werden.
 
-OPS.1.2.2.A3 Geeignete Aufstellung von Archivsystemen und Lagerung von Archivmedien [Leiter IT, IT-
-Betrieb]
+OPS.1.2.2.A3 Geeignete Aufstellung von Archivsystemen und Lagerung von Archivmedien [Leiter IT, IT-Betrieb]
 Da Archivsysteme schützenswerte Daten einer Institution zentral aufbewahren, MÜSSEN deren IT-Komponenten in gesicherten Räumen aufgestellt werden. 
 Es MUSS sichergestellt sein, dass nur berechtigte Personen die Räume betreten dürfen.
 Damit Archivspeichermedien langfristig aufbewahrt werden können, MÜSSEN sie geeignet gelagert werden.
