@@ -1650,6 +1650,48 @@ _Keine inhaltlichen Änderungen._
 _Keine inhaltlichen Änderungen._
 
 
+## Änderungen DER.1
+
+### Basis-Anforderungen
+
+#### DER.1.A1
+
+#### DER.1.A2
+
+#### DER.1.A3
+
+#### DER.1.A4
+
+#### DER.1.A5
+
+#### DER.1.A6
+
+#### DER.1.A7
+
+#### DER.1.A8
+
+#### DER.1.A9
+
+#### DER.1.A10
+
+#### DER.1.A11
+
+#### DER.1.A12
+
+#### DER.1.A13
+
+#### DER.1.A14
+
+#### DER.1.A15
+
+#### DER.1.A16
+
+#### DER.1.A17
+
+#### DER.1.A18
+
+
+
 
 
 ////////////////
