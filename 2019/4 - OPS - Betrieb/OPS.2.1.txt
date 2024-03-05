@@ -61,7 +61,8 @@ OPS.2.1.A10 Vereinbarung über Datenaustausch zwischen den Outsourcing-Partnern 
 Für den regelmäßigen Datenaustausch mit festen Kommunikationspartnern SOLLTEN die erforderlichen Sicherheitsmaßnahmen vereinbart werden.
 Datenformate und Vorgehensweisen zum sicheren Datenaustausch SOLLTEN festgelegt werden.
 Ansprechpartner sowohl für organisatorische als auch technische Probleme und insbesondere für sicherheitsrelevante Ereignisse beim Datenaustausch mit Dritten SOLLTEN benannt werden.
-Verfügbarkeiten und Reaktionszeiten beim Datenaustausch mit Dritten SOLLTEN vereinbart werden. Es SOLLTE festgelegt werden,welche ausgetauschten Daten zu welchen Zwecken genutzt werden dürfen.
+Verfügbarkeiten und Reaktionszeiten beim Datenaustausch mit Dritten SOLLTEN vereinbart werden.
+Es SOLLTE festgelegt werden,welche ausgetauschten Daten zu welchen Zwecken genutzt werden dürfen.
 
 OPS.2.1.A11 Planung und Aufrechterhaltung der Informationssicherheit im laufenden Outsourcing-Betrieb [ISB Outsourcing-Kunde]
 Es SOLLTE ein Betriebskonzept für das Outsourcing-Vorhaben erstellt werden, das auch die Sicherheitsaspekte berücksichtigt.
