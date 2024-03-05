@@ -1276,6 +1276,8 @@ _Änderung:_\
 #### OPS.1.1.5.A10
 _Keine inhaltlichen Änderungen._
 
+### Anforderungen bei erhöhtem Schutzbedarf
+
 #### OPS.1.1.5.A11
 _Keine inhaltlichen Änderungen._
 
@@ -1290,34 +1292,54 @@ _Keine inhaltlichen Änderungen._
 
 ### Basis-Anforderungen
 
-#### OPS.1.1.6.A
+#### OPS.1.1.6.A1
+_Ergänzung:_\ (...) und diese möglichst vollständig abdecken.
 
-#### OPS.1.1.6.A
+#### OPS.1.1.6.A2
+_Keine inhaltlichen Änderungen._
 
-#### OPS.1.1.6.A
+#### OPS.1.1.6.A3
+_Keine inhaltlichen Änderungen._
 
-#### OPS.1.1.6.A
+#### OPS.1.1.6.A4
+_Keine inhaltlichen Änderungen._
 
-#### OPS.1.1.6.A
+#### OPS.1.1.6.A5
+_Änderung:_\
+Insbesondere MÜSSEN sicherheitsspezifische Software-Tests durchgeführt werden, wenn die Anwendung sicherheitskritische Funktionen mitbringt.
+Die durchgeführten Testfälle, sowie die Testergebnisse, MÜSSEN dokumentiert werden.
 
-#### OPS.1.1.6.A
+### Standard-Anforderungen
 
-#### OPS.1.1.6.A
+#### OPS.1.1.6.A6
+_Keine inhaltlichen Änderungen._
 
-#### OPS.1.1.6.A
+#### OPS.1.1.6.A7
+_Ergänzung:_\
+Darüber hinaus SOLLTE eine entsprechende Rollentrennung erfolgen, sodass Quellcode nicht ausschließlich von Testern überprüft wird, die an der Erstellung des Quellcodes beteiligt waren.
 
-#### OPS.1.1.6.A
+#### OPS.1.1.6.A8
+_Keine inhaltlichen Änderungen._
 
-#### OPS.1.1.6.A
+#### OPS.1.1.6.A9
+_Keine inhaltlichen Änderungen._
 
-#### OPS.1.1.6.A
+#### OPS.1.1.6.A10
+_Keine inhaltlichen Änderungen._
 
-#### OPS.1.1.6.A
+#### OPS.1.1.6.A11
+_Keine inhaltlichen Änderungen._
 
-#### OPS.1.1.6.A
+#### OPS.1.1.6.A12
+_Keine inhaltlichen Änderungen._
 
-#### OPS.1.1.6.A
+#### OPS.1.1.6.A13
+_Geändert:_ ~~"Testlandschaft" und "Qualitätsmanagement-Umgebung"~~ _zu:_ "Test- und Qualitätsmanagement-Umgebung"
 
+### Anforderungen bei erhöhtem Schutzbedarf
+
+#### OPS.1.1.6.A14
+_Keine inhaltlichen Änderungen._
 
 ////////////////
 Formatierungshilfen:
