@@ -1423,26 +1423,39 @@ _OPS.1.2.3 ist vollständig entfallen._
 
 ### Basis-Anforderungen
 
-#### OPS.1.2.4.A
+#### OPS.1.2.4.A1
+_Keine inhaltlichen Änderungen._
 
-#### OPS.1.2.4.A
+#### OPS.1.2.4.A2
+_Änderung:_\
+Alle Zugangsmöglichkeiten auf die Server der Institution sowie alle Zugriffsrechte auf die darauf gespeicherten Informationen MÜSSEN auf das notwendige Mindestmaß beschränkt sein.
 
-#### OPS.1.2.4.A
+#### OPS.1.2.4.A3
+_Keine inhaltlichen Änderungen._
 
-#### OPS.1.2.4.A
+#### OPS.1.2.4.A4
+_Änderung:_\
+Alle Daten, die bei der Telearbeit erstellt und bearbeitet werden, MÜSSEN zeitnah gesichert werden.
 
-#### OPS.1.2.4.A
+#### OPS.1.2.4.A5
+_Keine inhaltlichen Änderungen._
 
-#### OPS.1.2.4.A
+### Standard-Anforderungen
 
-#### OPS.1.2.4.A
+#### OPS.1.2.4.A6
+_Keine inhaltlichen Änderungen._
 
-#### OPS.1.2.4.A
+#### OPS.1.2.4.A7
+_Keine inhaltlichen Änderungen._
 
-#### OPS.1.2.4.A
+#### OPS.1.2.4.A8
+_Keine inhaltlichen Änderungen._
 
-#### OPS.1.2.4.A
+#### OPS.1.2.4.A9
+_Keine inhaltlichen Änderungen._
 
+#### OPS.1.2.4.A10
+_Keine inhaltlichen Änderungen._
 
 
 ////////////////
