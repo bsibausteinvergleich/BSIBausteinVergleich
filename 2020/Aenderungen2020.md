@@ -1415,6 +1415,33 @@ _Anforderung hinzugefügt_
 _Anforderung hinzugefügt_
 
 
+## Änderungen OPS.1.2.3
+_OPS.1.2.3 ist vollständig entfallen._
+
+
+## Änderungen OPS.1.2.4
+
+### Basis-Anforderungen
+
+#### OPS.1.2.4.A
+
+#### OPS.1.2.4.A
+
+#### OPS.1.2.4.A
+
+#### OPS.1.2.4.A
+
+#### OPS.1.2.4.A
+
+#### OPS.1.2.4.A
+
+#### OPS.1.2.4.A
+
+#### OPS.1.2.4.A
+
+#### OPS.1.2.4.A
+
+#### OPS.1.2.4.A
 
 
 
