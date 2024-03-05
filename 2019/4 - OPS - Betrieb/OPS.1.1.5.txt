@@ -1,6 +1,5 @@
 3.1 Basis-Anforderungen
 
-
 OPS.1.1.5.A1 Erstellung einer Sicherheitsrichtlinie für die Protokollierung [Informationssicherheitsbeauftragter (ISB), Fachverantwortliche]
 Ausgehend von der allgemeinen Sicherheitsrichtlinie der Institution, MUSS eine spezifische Sicherheitsrichtlinie erstellt werden, in der nachvollziehbar Anforderungen und Vorgaben beschrieben sind, wie die Protokollierung sicher geplant, aufgebaut und betrieben werden soll.
 In der Richtlinie MUSS geregelt werden, wie, wo und was protokolliert werden soll.
