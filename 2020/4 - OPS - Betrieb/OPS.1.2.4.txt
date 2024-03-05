@@ -41,7 +41,8 @@ Das Sicherheitskonzept zur Telearbeit SOLLTE auf das übergreifende Sicherheitsk
 
 OPS.1.2.4.A7 Regelung der Nutzung von Kommunikationsmöglichkeiten bei Telearbeit [IT-Betrieb, Telearbeiter] (S)
 Es SOLLTE klar geregelt werden, welche Kommunikationsmöglichkeiten bei der Telearbeit unter welchen Rahmenbedingungen genutzt werden dürfen.
-Die dienstliche und private Nutzung von Internetdiensten bei der Telearbeit SOLLTE geregelt werden. Dabei SOLLTE auch geklärt werden, ob eine private Nutzung generell erlaubt oder unterbunden wird.
+Die dienstliche und private Nutzung von Internetdiensten bei der Telearbeit SOLLTE geregelt werden.
+Dabei SOLLTE auch geklärt werden, ob eine private Nutzung generell erlaubt oder unterbunden wird.
 
 OPS.1.2.4.A8 Informationsfluss zwischen Telearbeiter und Institution [Vorgesetzte, Telearbeiter] (S)
 Es SOLLTE ein regelmäßiger innerbetrieblicher Informationsaustausch zwischen den Telearbeitern, den Arbeitskollegen und der Institution gewährleistet sein.
