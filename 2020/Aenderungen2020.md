@@ -1846,6 +1846,30 @@ _Keine inhaltlichen Änderungen._
 _Keine inhaltlichen Änderungen._
 
 
+## Änderungen DER.2.3
+
+### Basis-Anforderungen
+
+#### DER.2.3.A1
+
+#### DER.2.3.A2
+
+#### DER.2.3.A3
+
+#### DER.2.3.A4
+
+#### DER.2.3.A5
+
+#### DER.2.3.A6
+
+#### DER.2.3.A7
+
+#### DER.2.3.A8
+
+#### DER.2.3.A9
+
+#### DER.2.3.A10
+
 
 
 
