@@ -1,6 +1,5 @@
 3.1 Basis-Anforderungen
 
-
 OPS.1.2.2.A1 Ermittlung von Einflussfaktoren für die elektronische Archivierung
 [Informationssicherheitsbeauftragter (ISB)]
 Bevor entschieden wird, welche Verfahren und Produkte für die elektronische Archivierung eingesetzt werden, MÜSSEN die technischen, rechtlichen und organisatorischen Einflussfaktoren ermittelt und dokumentiert werden.
