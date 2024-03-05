@@ -40,8 +40,6 @@ Außerdem MÜSSEN sie regelmäßig aktualisiert werden.
 Es MUSS sichergestellt sein, dass die Schadcodescanner automatisch sicherheitsrelevante Ereignisse an die Verantwortlichen melden und die Meldungen auch ausgewertet und untersucht werden.
 
 3.2 Standard-Anforderungen
-Gemeinsam mit den Basis-Anforderungen entsprechen die folgenden Anforderungen dem Stand der Technik für den Baustein DER.1 Detektion von sicherheitsrelevanten Ereignissen.
-Sie SOLLTEN grundsätzlich umgesetzt werden.
 
 DER.1.A6 Kontinuierliche Überwachung und Auswertung von Protokolldaten [Benutzer]
 Alle Protokolldaten SOLLTEN möglichst permanent aktiv überwacht und ausgewertet werden.
