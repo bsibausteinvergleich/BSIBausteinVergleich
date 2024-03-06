@@ -3022,54 +3022,83 @@ _Keine inhaltlichen Änderungen._
 ### Basis-Anforderungen
 
 #### APP.4.3.A1
+_Keine inhaltlichen Änderungen._
 
 #### APP.4.3.A2
+_Keine inhaltlichen Änderungen._
 
 #### APP.4.3.A3
+_Keine inhaltlichen Änderungen._
 
 #### APP.4.3.A4
+_Keine inhaltlichen Änderungen._
 
 #### APP.4.3.A5
+_Keine inhaltlichen Änderungen._
 
 #### APP.4.3.A6
+_Keine inhaltlichen Änderungen._
 
 #### APP.4.3.A7
+_Keine inhaltlichen Änderungen._
 
 #### APP.4.3.A8
+_Keine inhaltlichen Änderungen._
 
 #### APP.4.3.A9
+_Keine inhaltlichen Änderungen._
+
+### Standard-Anforderungen
 
 #### APP.4.3.A10
+_Keine inhaltlichen Änderungen._
 
 #### APP.4.3.A11
+_Keine inhaltlichen Änderungen._
 
 #### APP.4.3.A12
+_Keine inhaltlichen Änderungen._
 
 #### APP.4.3.A13
+_Keine inhaltlichen Änderungen._
 
 #### APP.4.3.A14
+_Keine inhaltlichen Änderungen._
 
 #### APP.4.3.A15
+_Keine inhaltlichen Änderungen._
 
 #### APP.4.3.A16
+_Keine inhaltlichen Änderungen._
 
 #### APP.4.3.A17
+_Keine inhaltlichen Änderungen._
 
 #### APP.4.3.A18
+_Keine inhaltlichen Änderungen._
 
 #### APP.4.3.A19
+_Keine inhaltlichen Änderungen._
 
 #### APP.4.3.A20
+_Keine inhaltlichen Änderungen._
+
+### Anforderungen bei erhöhtem Schutzbedarf
 
 #### APP.4.3.A21
+_Keine inhaltlichen Änderungen._
 
 #### APP.4.3.A22
+_Keine inhaltlichen Änderungen._
 
 #### APP.4.3.A23
+_Keine inhaltlichen Änderungen._
 
 #### APP.4.3.A24
+_Keine inhaltlichen Änderungen._
 
 #### APP.4.3.A25
+_Keine inhaltlichen Änderungen._
 
 
 
