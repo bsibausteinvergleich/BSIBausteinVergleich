@@ -1,6 +1,5 @@
 3.1 Basis-Anforderungen
 
-
 APP.3.2.A1 Sichere Konfiguration eines Webservers
 Nachdem ein Webserver installiert wurde, MUSS eine sichere Grundkonfiguration vorgenommen werden.
 Dazu MUSS beispielsweise der Webserver-Prozess einem Benutzerkonto mit minimalen Rechten zugewiesen werden.
