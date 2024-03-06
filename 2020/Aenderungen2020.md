@@ -2914,6 +2914,74 @@ _Keine inhaltlichen Änderungen._
 _Keine inhaltlichen Änderungen._
 
 
+## Änderungen APP.4.2
+
+### Basis-Anforderungen
+
+#### APP.4.2.A1
+
+#### APP.4.2.A2
+
+#### APP.4.2.A3
+
+#### APP.4.2.A4
+
+#### APP.4.2.A5
+
+#### APP.4.2.A6
+
+#### APP.4.2.A7
+
+#### APP.4.2.A8
+
+#### APP.4.2.A9
+
+#### APP.4.2.A10
+
+#### APP.4.2.A11
+
+#### APP.4.2.A12
+
+#### APP.4.2.A13
+
+#### APP.4.2.A14
+
+#### APP.4.2.A15
+
+#### APP.4.2.A16
+
+#### APP.4.2.A17
+
+#### APP.4.2.A18
+
+#### APP.4.2.A19
+
+#### APP.4.2.A20
+
+#### APP.4.2.A21
+
+#### APP.4.2.A22
+
+#### APP.4.2.A23
+
+#### APP.4.2.A24
+
+#### APP.4.2.A25
+
+#### APP.4.2.A26
+
+#### APP.4.2.A27
+
+#### APP.4.2.A28
+
+#### APP.4.2.A29
+
+#### APP.4.2.A30
+
+#### APP.4.2.A31
+
+#### APP.4.2.A32
+
 
 
 
