@@ -1,6 +1,5 @@
 3.1 Basis-Anforderungen
 
-
 APP.1.1.A1 Sicherstellen der Integrität von Office-Produkten
 Bei der Installation von Office-Produkten MUSS sichergestellt werden, dass ausschließlich unveränderte Kopien der freigegebenen Originalsoftware verwendet werden.
 Updates MÜSSEN ausschließlich aus sicheren Quellen bezogen werden.
