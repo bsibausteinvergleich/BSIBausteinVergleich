@@ -139,8 +139,7 @@ Der Notfallplan SOLLTE die nötigen Meldewege, Reaktionswege, Ressourcen und Rea
 Auf Basis eines Koordinationsplans zum Wiederanlauf SOLLTEN alle von der Datenbank abhängigen IT-Systeme vorab ermittelt und berücksichtigt werden.
 
 APP.4.3.A23 Archivierung (H)
-Ist es erforderlich, Daten eines Datenbanksystems zu archivieren, SOLLTE ein entsprechendes Archivierungskonzept
-erstellt werden.
+Ist es erforderlich, Daten eines Datenbanksystems zu archivieren, SOLLTE ein entsprechendes Archivierungskonzept erstellt werden.
 Es SOLLTE sichergestellt sein, dass die Datenbestände zu einem späteren Zeitpunkt wieder vollständig und konsistent verfügbar sind.
 Im Archivierungskonzept SOLLTEN sowohl die Intervalle der Archivierung als auch die Vorhaltefristen der archivierten Daten festgelegt werden.
 Zusätzlich SOLLTE dokumentiert werden, mit welcher Technik die Datenbanken archiviert wurden.
