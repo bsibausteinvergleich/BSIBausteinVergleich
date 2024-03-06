@@ -182,7 +182,8 @@ Im Notfallkonzept SOLLTEN folgende Punkte beschrieben und definiert werden:
 Das Notfallkonzept SOLLTE regelmäßig aktualisiert werden.
 
 APP.4.2.A29 Einrichten eines Notfallbenutzers
-Es SOLLTEN Benutzer-IDs für Notfallbenutzer angelegt werden. Die eingerichteten IDs und Berechtigungen SOLLTEN stark kontrolliert und genau dokumentiert werden. Außerdem SOLLTEN alle von Notfallbenutzern durchgeführten Aktivitäten protokolliert werden.
+Es SOLLTEN Benutzer-IDs für Notfallbenutzer angelegt werden.
+Die eingerichteten IDs und Berechtigungen SOLLTEN stark kontrolliert und genau dokumentiert werden. Außerdem SOLLTEN alle von Notfallbenutzern durchgeführten Aktivitäten protokolliert werden.
 
 APP.4.2.A30 Implementierung eines kontinuierlichen Monitorings der Sicherheitseinstellungen
 Es SOLLTE ständig überwacht werden, ob alle Sicherheitseinstellungen des SAP-ERP-Systems korrekt sind.
@@ -191,7 +192,8 @@ Das SAP-Monitoring SOLLTE in die allgemeine Systemüberwachung der Institution 
 
 APP.4.2.A31 Konfiguration von SAP Single-Sign-On
 Sind mehrere SAP-ERP-Systeme vorhanden, SOLLTEN die Benutzer auf die Systeme mit SAP Single-Sign-On (SAP SSO) zugreifen.
-Es SOLLTE in der Planungsphase entschieden werden, zwischen welchen SAP-ERP-Systemen der SSO-Mechanismus benutzt wird. Das SSO SOLLTE sicher konfiguriert und betrieben werden.
+Es SOLLTE in der Planungsphase entschieden werden, zwischen welchen SAP-ERP-Systemen der SSO-Mechanismus benutzt wird.
+Das SSO SOLLTE sicher konfiguriert und betrieben werden.
 
 
 3.3 Anforderungen bei erhöhtem Schutzbedarf
