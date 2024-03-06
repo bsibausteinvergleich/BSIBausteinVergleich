@@ -2405,30 +2405,46 @@ _Keine inhaltlichen Änderungen._
 ### Basis-Anforderungen
 
 #### APP.2.3.A1
+_Keine inhaltlichen Änderungen._
 
 #### APP.2.3.A2
+_Keine inhaltlichen Änderungen._
 
 #### APP.2.3.A3
+_Keine inhaltlichen Änderungen._
 
 #### APP.2.3.A4
+_Keine inhaltlichen Änderungen._
 
 #### APP.2.3.A5
+_Keine inhaltlichen Änderungen._
 
 #### APP.2.3.A6
+_Keine inhaltlichen Änderungen._
+
+### Standard-Anforderungen
 
 #### APP.2.3.A7
+_Keine inhaltlichen Änderungen._
 
 #### APP.2.3.A8
+_Keine inhaltlichen Änderungen._
 
 #### APP.2.3.A9
+_Keine inhaltlichen Änderungen._
 
 #### APP.2.3.A10
+_Keine inhaltlichen Änderungen._
 
 #### APP.2.3.A11
+_Keine inhaltlichen Änderungen._
 
 #### APP.2.3.A12
+_Ergänzung:_\
+Dabei SOLLTEN institutionsinterne Vorgaben beachtet werden.
 
 #### APP.2.3.A13
+_Keine inhaltlichen Änderungen._
 
 
 
