@@ -3235,7 +3235,6 @@ Der IT-Betrieb MUSS auf dem zentralen E-Mailserver einen E-Mail-Scanner mit eine
 Die Institution MUSS festlegen, wie mit verschlüsselten E-Mails zu verfahren ist, wenn diese nicht durch den Scanner entschlüsselt werden können.
 Wenn ein E-Mail-Scanner genutzt wird, MÜSSEN darüber alle Mitarbeiter, der Datenschutzbeauftragte und die Personalvertretung informiert werden.
 
-
 ### Standard-Anforderungen
 
 ### APP.5.1.A5 ENTFALLEN
@@ -3323,6 +3322,112 @@ _Diese Anforderung ist entfallen._
 _Keine inhaltlichen Änderungen._
 
 
+## Änderungen APP.5.2
+
+### Basis-Anforderungen
+
+#### APP.5.2.A1
+_Entfallen:_\
+• Absicherung der Zugangsports der Server-/Client-Komponenten,
+• Vertraulichkeit, Integrität und Verfügbarkeit,
+• Integration der Server- und Client-Systeme in die hierfür vorgesehenen Netzsegmente.
+
+#### APP.5.2.A2
+_Keine inhaltlichen Änderungen._
+
+#### APP.5.2.A3
+_Änderung:_\
+Zusätzlich zum allgemeinen Berechtigungskonzept MUSS die Institution ein Berichtigungskonzept für die Systeme der Microsoft Exchange-Infrastruktur erstellen, geeignet dokumentieren und anwenden.
+Der IT-Betrieb MUSS serverseitige Benutzerprofile für einen rechnerunabhängigen Zugriff der Benutzer auf Microsoft Exchange-Daten verwenden.
+Er MUSS die Standard-NTFS-Berechtigungen für das Microsoft Exchange-Verzeichnis so anpassen, dass nur autorisierte Administratoren und Systemkonten auf die Daten in diesem Verzeichnis zugreifen können.
+
+#### APP.5.2.A4 ENTFALLEN
+_Diese Anforderung ist entfallen._
+
+#### APP.5.2.A5
+_Ergänzung:_\
+Dabei MÜSSEN insbesondere die Exchange-Server-Datenbanken gesichert werden.
+Gelöschte Exchange-Objekte SOLLTEN erst nach einiger Zeit aus der Datenbank entfernt werden.
+
+#### APP.5.2.A6 ENTFALLEN
+_Diese Anforderung ist entfallen._
+
+#### APP.5.2.A7
+_Änderung:_\
+Der IT-Betrieb SOLLTE alle Migrationsschritte gründlich planen und dokumentieren.
+Der IT-Betrieb SOLLTE dabei Postfächer, Objekte, Sicherheitsrichtlinien, Active-Directory-Konzepte sowie die Anbindung an andere E-Mail-Systeme berücksichtigen.
+Außerdem SOLLTE er Funktionsunterschiede zwischen verschiedenen Versionen von Microsoft Exchange beachten.
+Das neue System SOLLTE, bevor es installiert wird, in einem separaten Testnetz geprüft werden.
+
+#### APP.5.2.A8 ENTFALLEN
+_Diese Anforderung ist entfallen._
+
+#### APP.5.2.A9
+_Änderung:_\
+Der IT-Betrieb SOLLTE Microsoft Exchange-Server entsprechend der Vorgaben aus der Sicherheitsrichtlinie installieren und konfigurieren.
+Konnektoren SOLLTEN sicher konfiguriert werden.
+Der IT-Betrieb SOLLTE die Protokollierung des Microsoft Exchange-Systems aktivieren.
+Für vorhandene benutzerspezifische Anpassungen SOLLTE ein entsprechendes Konzept erstellt werden.
+Bei der Verwendung von funktionalen Erweiterungen SOLLTE sichergestellt sein, dass die definierten Anforderungen an die Schutzziele Vertraulichkeit, Integrität und Verfügbarkeit weiterhin erfüllt sind.
+
+#### APP.5.2.A10
+_Änderung:_\
+APP.5.2.A10 Sichere Konfiguration von Outlook (S)\
+Der IT-Betrieb SOLLTE für jeden Benutzer ein eigenes Outlook-Profil mit benutzerspezifischen Einstellungen anlegen.
+Die Benutzer SOLLTEN nur ausgewählte Einstellungen selbst verändern können.
+Dateianhänge SOLLTEN NICHT automatisch aus E-Mails heraus geöffnet werden können.
+Vorschaufenster und die Autovorschau SOLLTEN deaktiviert werden.
+Der IT-Betrieb SOLLTE Outlook so konfigurieren, dass nur notwendige Informationen an andere Benutzer übermittelt werden.
+Der IT-Betrieb SOLLTE die Benutzer darüber informieren, welche Informationen automatisiert an andere Benutzer übermittelt werden.
+Lesebestätigungen und Informationen, die auf die interne Struktur der Institution schließen lassen, SOLLTEN NICHT an externe Anwender übermittelt werden.
+
+#### APP.5.2.A11
+_Änderung:_\
+Der IT-Betrieb SOLLTE nachvollziehbar entscheiden, mit welchen Schutzmechanismen die Kommunikation zwischen Microsoft Exchange-Systemen abgesichert wird.
+Insbesondere SOLLTE der IT-Betrieb festlegen, wie die Kommunikation zu folgenden Schnittstellen abgesichert wird:
+• Administrationsschnittstellen,
+• Client-Server-Kommunikation,
+• vorhandene Web-based-Distributed-Authoring-and-Versioning-(WebDAV)-Schnittstellen,
+• Server-Server-Kommunikation und
+• Public-Key-Infrastruktur, auf der die E-Mail-Verschlüsselung von Microsoft Outlook basiert.
+
+#### APP.5.2.A12
+_Änderung:_\
+APP.5.2.A12 Einsatz von Outlook Anywhere, MAPI over HTTP und Outlook Web App (S)\
+Der IT-Betrieb SOLLTE Outlook Anywhere, MAPI over HTTP und die Outlook Web App entsprechend den Sicherheitsanforderungen der Institution konfigurieren.
+Der Zugriff auf Microsoft Exchange über das Internet SOLLTE auf die notwendigen Benutzer beschränkt werden.
+
+#### APP.5.2.A13 ENTFALLEN
+_Diese Anforderung ist entfallen._
+
+#### APP.5.2.A14
+_Änderung:_\
+Zusätzlich zum allgemeinen Schulungs- und Sensibilisierungsprogramm SOLLTE die Institution ein Schulungskonzept erarbeiten, das auf die besonderen Gefahren und Sicherheitsmaßnahmen bei Outlook eingeht.
+Die Institution SOLLTE die Benutzer von Outlook regelmäßig entsprechend dem Konzept schulen.
+
+#### APP.5.2.A15
+_Keine inhaltlichen Änderungen._
+
+#### APP.5.2.A16 ENTFALLEN
+_Diese Anforderung ist entfallen._
+
+#### NEU:APP.5.2.A19
+APP.5.2.A19 Erstellung einer Sicherheitsrichtlinie für Microsoft Exchange (S)\
+Die Institution SOLLTE eine Sicherheitsrichtlinie für den Einsatz von Microsoft Exchange erstellen.
+Sie SOLLTE die Sicherheitsrichtlinie allen relevanten Mitarbeitern bekannt machen.
+Die Sicherheitsrichtlinie SOLLTE mindestens folgende Aspekte regeln:
+• Festgelegte Sicherheitseinstellungen,
+• Regelungen darüber, welche Einstellungen durch die Benutzer selber geändert werden dürfen,
+• Umgang mit Abwesenheitsbenachrichtigungen sowie
+• festgelegte Administratoren.
+
+### Anforderungen bei erhöhtem Schutzbedarf
+
+#### APP.5.2.A17
+_Keine inhaltlichen Änderungen._
+
+#### APP.5.2.A18 ENTFALLEN
+_Diese Anforderung ist entfallen._
 
 
 
@@ -3341,12 +3446,9 @@ _Ergänzung:_\
 _Geändert:_\
 ~~~~\
 _zu:_\
-
 (Aktualisiert: Basis-Anforderung)
 _Diese Anforderung ist entfallen._
+_Keine inhaltlichen Änderungen._
 
 
-## Änderungen ORP.1
-
-### Basis-Anforderungen
 /////////////////
