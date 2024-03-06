@@ -1,7 +1,5 @@
 3.1 Basis-Anforderungen
 
- 
-
 APP.4.2.A1 Sichere Konfiguration des SAP-ABAP-Stacks
 Der SAP-ABAP-Stack MUSS sicher konfiguriert werden.
 Dazu MÜSSEN die jeweiligen Profilparameter gesetzt werden, z. B. für die Passwortsicherheit, Authentisierung und Verschlüsselung.
