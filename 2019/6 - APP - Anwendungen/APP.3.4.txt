@@ -19,8 +19,8 @@ Samba MUSS so konfiguriert werden, dass Verbindungen nur von sicheren Hosts und 
 Dabei MUSS nach jeder Änderung überprüft werden, ob die Syntax noch korrekt ist.
 Zusätzliche Softwaremodule wie SWAT DÜRFEN NICHT installiert werden.
 
+
 3.2 Standard-Anforderungen
-Gemeinsam mit den Basis-Anforderungen entsprechen die folgenden Anforderungen dem Stand der Technik für den Baustein APP.3.4 Samba. Sie SOLLTEN grundsätzlich umgesetzt werden.
 
 APP.3.4.A3 Sichere Konfiguration des Betriebssystems für einen Samba-Server
 Datenbanken im Trivial-Database-(TDB)-Format SOLLTEN NICHT auf einer Partition gespeichert werden, die ReiserFS als Dateisystem benutzt.
