@@ -1,5 +1,4 @@
 3.1 Basis-Anforderungen
- 
 
 APP.2.2.A1 Planung des Active Directory [Fachverantwortliche]
 Es MUSS ein geeignetes, möglichst hohes Domain Functional Level gewählt.
