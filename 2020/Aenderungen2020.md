@@ -2131,36 +2131,59 @@ _Keine inhaltlichen Änderungen._
 ### Basis-Anforderungen
 
 #### APP.1.1.A1
+_Keine inhaltlichen Änderungen._
 
 #### APP.1.1.A2
+_Keine inhaltlichen Änderungen._
 
 #### APP.1.1.A3
+_Keine inhaltlichen Änderungen._
 
 #### APP.1.1.A4
+_Keine inhaltlichen Änderungen._
+
+### Standard-Anforderungen
 
 #### APP.1.1.A5
+3.2 Standard-Anforderungen
 
 #### APP.1.1.A6
+_Keine inhaltlichen Änderungen._
 
 #### APP.1.1.A7
+_Ergänzung:_\
+Die Standardkonfiguration SOLLTE explizit freigegeben werden.
 
 #### APP.1.1.A8
+_Entfallen:_\
+Darüber hinaus SOLLTEN die verschiedenen Konfigurationen der installierten Office-Produkte dokumentiert werden.
 
 #### APP.1.1.A9
+_Keine inhaltlichen Änderungen._
 
 #### APP.1.1.A10
+_Keine inhaltlichen Änderungen._
 
 #### APP.1.1.A11
+_Keine inhaltlichen Änderungen._
 
 #### APP.1.1.A12
+_Keine inhaltlichen Änderungen._
 
 #### APP.1.1.A13
+_Änderung:_\
+Es SOLLTE eine Liste vertrauenswürdiger Orte definiert werden, von denen Inhalte unmittelbar geöffnet und bearbeitet werden können.
 
 #### APP.1.1.A14
+_Keine inhaltlichen Änderungen._
+
+### Anforderungen bei erhöhtem Schutzbedarf
 
 #### APP.1.1.A15
+_Keine inhaltlichen Änderungen._
 
 #### APP.1.1.A16
+_Keine inhaltlichen Änderungen._
 
 
 
