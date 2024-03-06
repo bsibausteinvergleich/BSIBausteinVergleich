@@ -2779,36 +2779,64 @@ Daten SOLLTEN zudem zwischen unabhängigen Fileservern repliziert werden, die si
 ### Basis-Anforderungen
 
 #### APP.3.4.A1
+_Ergänzung:_\
+Je nach Betriebssystem der Clients und anderen vorhandenen Schutzmechanismen MUSS der Samba-Server in das Konzept zum Schutz vor Schadprogrammen der Institution einbezogen werden (siehe OPS.1.1.4 Schutz vor Schadprogrammen).
 
 #### APP.3.4.A2
+_Entfallen:_\
+(...) und dass es sich nur mit sicheren Netzadressen verbindet.
 
+### Standard-Anforderungen
 
 #### APP.3.4.A3
-
+_Änderung:_\
+Samba SOLLTE so konfiguriert werden, dass nur benötigte Netzports geöffnet werden.
+Falls dies nicht möglich ist, SOLLTEN die Ports, über die der Samba-Server nicht erreichbar sein soll, mit einem lokalen Paketfilter geblockt werden.
 
 #### APP.3.4.A4
+_Änderung:_\
+APP.3.4.A4 Vermeidung der NTFS-Eigenschaften auf einem Samba-Server (S)
 
 #### APP.3.4.A5
+_Geändert:_\
+~~Linux~~\
+_zu:_\
+(...) Unix (...)
 
 #### APP.3.4.A6
+_Geändert:_\
+~~Linux~~\
+_zu:_\
+(...) Unix (...)
 
 #### APP.3.4.A7
+_Entfallen:_\
+Wird Samba als primärer AD DC verwendet, SOLLTE der DNS-Dienst auf dem Samba-Server installiert und sorgfältig konfiguriert werden.
 
 #### APP.3.4.A8
+_Keine inhaltlichen Änderungen._
 
 #### APP.3.4.A9
+_Keine inhaltlichen Änderungen._
 
 #### APP.3.4.A10
-
-#### APP.3.4.A11
+_Änderung:_\
+Sofern IPv6 eingesetzt wird, SOLLTEN erforderliche Besonderheiten berücksichtigt werden.
 
 #### APP.3.4.A12
+_Keine inhaltlichen Änderungen._
 
 #### APP.3.4.A13
+_Entfallen:_\
+Die Konfigurationsdaten, Statusinformationen und Systemdateien SOLLTEN kompatibel zueinander sein.
 
-#### APP.3.4.A14
+#### APP.3.4.A14 ENTFALLEN
+_Diese Anforderung ist entfallen._
+
+### Anforderungen bei erhöhtem Schutzbedarf
 
 #### APP.3.4.A15
+_Keine inhaltlichen Änderungen._
 
 
 
@@ -2817,15 +2845,11 @@ Daten SOLLTEN zudem zwischen unabhängigen Fileservern repliziert werden, die si
 ////////////////
 Formatierungshilfen:
 
-
-
 _Entfallen:_\
-
 _Änderung:_\
 (...)  (...)
 _Ergänzung:_\
 (...)  (...)
-
 _Geändert:_\
 ~~~~\
 _zu:_\
