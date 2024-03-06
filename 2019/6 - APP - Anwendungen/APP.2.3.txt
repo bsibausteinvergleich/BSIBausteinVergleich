@@ -45,7 +45,8 @@ APP.2.3.A7 Schulung von Administratoren von OpenLDAP
 Es SOLLTEN alle Administratoren zu OpenLDAP und den zugehörigen Sicherheitsthemen geschult werden.
 
 APP.2.3.A8 Einschränkungen von Attributen bei OpenLDAP
-Anhand von Overlays SOLLTEN die Attribute in OpenLDAP eingeschränkt werden. OpenLDAP SOLLTE so angepasst werden, dass Werte im Verzeichnisdienst nur einem bestimmten regulären Ausdruck entsprechen.
+Anhand von Overlays SOLLTEN die Attribute in OpenLDAP eingeschränkt werden.
+OpenLDAP SOLLTE so angepasst werden, dass Werte im Verzeichnisdienst nur einem bestimmten regulären Ausdruck entsprechen.
 Zudem SOLLTE mit Hilfe von Overlays sichergestellt werden, dass ausgesuchte Werte nur einmal im Verzeichnisbaum vorhanden sind.
 Solche Restriktionen SOLLTEN ausschließlich auf Nutzerdaten angewendet werden.
 
