@@ -72,9 +72,6 @@ Wenn die Webanwendung RSS-Feeds oder andere Funktionen, die explizit für die au
 APP.3.1.A8 Systemarchitektur einer Webanwendung
 Bereits in der Entwurfsphase einer Webanwendung SOLLTEN Sicherheitsaspekte beachtet werden.
 Auch SOLLTE darauf geachtet werden, dass die Architektur der Webanwendung die Geschäftslogik der Institution exakt erfasst und korrekt umsetzt.
-4 IT-Grundschutz-Kompendium: Stand Februar 2019
-
-APP.3.1 APP.3: Netzbasierte Dienste
 In der Systemarchitektur SOLLTE vorgesehen werden, die Serverdienste durch jeweils separate IT-Systeme voneinander zu trennen.
 Auch SOLLTEN jeweils eigene Benutzerkonten für die unterschiedlichen Serverprozesse der Systemkomponenten verwendet werden.
 Dabei SOLLTEN die Rechte dieser Dienstkonten auf Betriebssystemebene soweit eingeschränkt werden, dass nur auf die erforderlichen Ressourcen und Dateien des Betriebssystems zugegriffen werden kann.
