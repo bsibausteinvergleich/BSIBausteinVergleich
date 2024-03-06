@@ -2694,33 +2694,84 @@ _Diese Anforderung ist entfallen._
 
 ### Basis-Anforderungen
 
-#### APP.3.3.A1
+#### APP.3.3.A1 ENTFALLEN
+_Diese Anforderung ist entfallen._
 
 #### APP.3.3.A2
-
+_Entfallen:_\
+Die RAID-Level MÜSSEN dem Stand der Technik entsprechen.
 
 #### APP.3.3.A3
+_Änderung:_\
+Alle Daten MÜSSEN durch ein Viren-Schutzprogramm auf Schadsoftware untersucht werden, bevor sie auf dem Fileserver abgelegt werden.
 
-#### APP.3.3.A4
+#### APP.3.3.A4 ENTFALLEN
+_Diese Anforderung ist entfallen._
 
 #### APP.3.3.A5
+_Keine inhaltlichen Änderungen._
+
+#### APP.3.3.A15 (Aktualisiert: Basis-Anforderung)
+
+APP.3.3.A15 Planung von Fileservern (B)\
+Bevor eine Institution einen Fileserver einführt, SOLLTE sie entscheiden, wofür die Fileserver genutzt und welche Informationen darauf verarbeitet werden.
+Die Institution SOLLTE jede benutzte Funktion eines Fileservers einschließlich deren Sicherheitsaspekte planen.
+Arbeitsplatzrechner DÜRFEN NICHT als Fileserver eingesetzt werden.
+Der Speicherplatz des Fileservers MUSS ausreichend dimensioniert sein.
+Auch ausreichende Speicherreserven SOLLTEN vorgehalten werden.
+Es SOLLTE ausschließlich Speicher verwendet werden, der für einen Dauerbetrieb ausgelegt ist.
+Die Geschwindigkeit und die Anbindung der Speicher MUSS für den Einsatzzweck angemessen sein.
 
 #### APP.3.3.A6
+_Ergänzung:_\
+(...) und die Software hierzu ausgewählt wird (...)
+
+_Ergänzung:_\
+Anhand dieser Liste SOLLTEN dann die am Markt erhältlichen Produkte und Software bewertet werden.
+Die Fileserver-Software SOLLTE geeignet ausgewählt werden.
+Der Fileserver-Dienst SOLLTE den Einsatzzweck des Fileservers unterstützen, z. B. Einbindung von Netzlaufwerken in den Clients, Streaming von Multimedia-Inhalten, Übertragung von Boot-Images von festplattenlosen IT-Systemen oder ausschließliche Dateiübertragung über FTP.
 
 #### APP.3.3.A7
+_Ergänzung:_\
+Das Dateisystem SOLLTE den Anforderungen der Institution entsprechen.
+
+_Entfallen:_\
+Es SOLLTE ein Dateisystem ausgewählt werden, das eine festgelegte Overhead-Grenze nicht überschreitet.
+Für Hochverfügbarkeitslösungen SOLLTEN verteilte Dateisysteme verwendet werden.
 
 #### APP.3.3.A8
+_Ergänzung:_\
+Die Dateien SOLLTEN NUR strukturiert auf den Fileserver abgelegt werden.
 
 #### APP.3.3.A9
+_Entfallen:_\
+Es SOLLTEN alle Speicherressourcen des Fileservers katalogisiert werden, z. B. Festplatten, Flash-Speicher, Bandlaufwerke.
 
-#### APP.3.3.A10
+_Änderung:_\
+Es sollten mindestens nicht-autorisierte Zugriffsversuche auf Dateien und Änderungen von Zugriffsrechten protokolliert werden.
+
+#### APP.3.3.A10 ENTFALLEN
+_Diese Anforderung ist entfallen._
 
 #### APP.3.3.A11
+_Änderung:_\
+APP.3.3.A11 Einsatz von Speicherbeschränkungen (S)
+
+#### APP.3.3.A14 (Aktualisiert: Basis-Anforderung)
+APP.3.3.A14 Einsatz von Error-Correction-Codes (S)\
+Der IT-Betrieb SOLLTE ein fehlererkennendes bzw. fehlerkorrigierendes Dateisystem einsetzen.
+Hierfür SOLLTE genügend Speicherplatz vorgehalten werden.
+Der IT-Betrieb SOLLTE beachten, dass, je nach eingesetztem Verfahren, Fehler nur mit einer gewissen Wahrscheinlichkeit erkannt und auch nur in begrenzter Größenordnung behoben werden können.
+
+### Anforderungen bei erhöhtem Schutzbedarf
 
 #### APP.3.3.A12
+_Änderung:_\
+Falls Hardwareverschlüsselung eingesetzt wird, SOLLTEN Produkte verwendet werden, deren Verschlüsselungsfunktion zertifiziert wurde.
 
 #### APP.3.3.A13
-
+_Änderung:_\
+Daten SOLLTEN zudem zwischen unabhängigen Fileservern repliziert werden, die sich zudem an unabhängigen Standorten befinden.
 
 
 
@@ -2741,6 +2792,7 @@ _Geändert:_\
 _zu:_\
 
 (Aktualisiert: Basis-Anforderung)
+_Diese Anforderung ist entfallen._
 
 
 ## Änderungen ORP.1
