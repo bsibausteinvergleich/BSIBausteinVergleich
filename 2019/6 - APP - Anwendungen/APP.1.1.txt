@@ -95,7 +95,8 @@ Die Mitarbeiter SOLLTEN darauf hingewiesen werden, wie diese Sicherheitsmechanis
 3.3 Anforderungen bei erhöhtem Schutzbedarf
 
 APP.1.1.A15 Einsatz von Verschlüsselung und Digitalen Signaturen (CI)
-Daten mit erhöhtem Schutzbedarf SOLLTEN vor einer Übertragung oder Speicherung verschlüsselt werden, um die Vertraulichkeit sicherzustellen. Vor der Nutzung eines in ein Office-Produkt integrierten Verschlüsselungsverfahrens SOLLTE geprüft werden, ob es einen ausreichenden Schutz bietet, das gilt besonders für ältere Produktversionen.
+Daten mit erhöhtem Schutzbedarf SOLLTEN vor einer Übertragung oder Speicherung verschlüsselt werden, um die Vertraulichkeit sicherzustellen.
+Vor der Nutzung eines in ein Office-Produkt integrierten Verschlüsselungsverfahrens SOLLTE geprüft werden, ob es einen ausreichenden Schutz bietet, das gilt besonders für ältere Produktversionen.
 Die IT-Systeme von Absender und Empfänger SOLLTEN den Zugriffsschutz auf die verwendete Methode zur Verschlüsselung gewährleisten.
 Benutzer SOLLTEN im Umgang mit den Verschlüsselungsfunktionen geschult und sensibilisiert werden.
 Zusätzlich SOLLTE ein Verfahren eingesetzt werden, mit dem Makros und Dokumente digital signiert werden können.
