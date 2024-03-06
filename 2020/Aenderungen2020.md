@@ -2643,13 +2643,12 @@ Sogenannter Mixed Content DARF NICHT verwendet werden.
 ### Standard-Anforderungen
 
 #### APP.3.2.A8
+_Keine inhaltlichen Änderungen._
 
 #### APP.3.2.A9
+_Keine inhaltlichen Änderungen._
 
 #### APP.3.2.A10
-
-
-
 
 #### APP.3.2.A12
 
