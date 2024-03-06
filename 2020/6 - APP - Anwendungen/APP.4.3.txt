@@ -39,8 +39,7 @@ Insbesondere bei privilegierten Datenbankaccounts und Dienstkonten SOLLTE ein P
 APP.4.3.A7 Zeitnahes Einspielen von Sicherheitsupdates (B)
 Vorhandene Sicherheitsupdates für das Datenbankmanagementsystem und das Betriebssystem MÜSSEN zeitnah installiert werden.
 Vorab MUSS auf einem Testsystem überprüft werden, ob die Sicherheitsupdates kompatibel sind und keine Fehler verursachen.
-Bevor ein Patch eingespielt wird, MUSS das Datenbanksystem gesichert werden
-(siehe APP.4.3.A9 Datensicherung eines Datenbanksystems).
+Bevor ein Patch eingespielt wird, MUSS das Datenbanksystem gesichert werden (siehe APP.4.3.A9 Datensicherung eines Datenbanksystems).
 Zusätzlich MUSS eine verantwortliche Rolle definiert werden, die sich regelmäßig über bekannte Sicherheitslücken des Datenbankmanagementsystems sowie über verfügbare Sicherheitsupdates informiert.
 Des Weiteren MUSS geprüft werden, ob die Update-Intervalle des Datenbankmanagementsystems auf die Update-Zyklen des Herstellers abgestimmt werden können.
 Das Ergebnis SOLLTE nachvollziehbar dokumentiert werden.
