@@ -2595,6 +2595,7 @@ Bei kritischen Diensten und Anwendungen SOLLTE geprüft werden, ob eine Zusammen
 
 #### NEU: APP.3.1.A25
 APP.3.1.A25 Kryptografische Sicherung vertraulicher Daten [Entwickler] (H)
+
 Entwickler und Betreiber einer Webanwendung SOLLTEN sicherstellen, dass vertrauliche Daten einer Webanwendung durch sichere, kryptografische Algorithmen geschützt werden.
 
 
