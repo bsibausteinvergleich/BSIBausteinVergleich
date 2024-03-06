@@ -2634,13 +2634,22 @@ _Diese Anforderung ist entfallen._
 #### APP.3.2.A7
 _Keine inhaltlichen Änderungen._
 
+#### APP.3.2.A11 (Aktualisiert: Basis-Anforderung)
+Der Webserver MUSS für alle Verbindungen durch nicht vertrauenswürdige Netze eine sichere Verschlüsselung über TLS anbieten (HTTPS).
+Falls es aus Kompatibilitätsgründen erforderlich ist, veraltete Verfahren zu verwenden, SOLLTEN diese auf so wenige Fälle wie möglich beschränkt werden.
+Wenn eine HTTPS-Verbindung genutzt wird, DÜRFEN alle Inhalte NUR über HTTPS verfügbar sein.
+Sogenannter Mixed Content DARF NICHT verwendet werden.
+
+### Standard-Anforderungen
+
 #### APP.3.2.A8
 
 #### APP.3.2.A9
 
 #### APP.3.2.A10
 
-#### APP.3.2.A11
+
+
 
 #### APP.3.2.A12
 
