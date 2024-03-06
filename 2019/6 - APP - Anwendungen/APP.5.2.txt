@@ -1,7 +1,5 @@
 3.1 Basis-Anforderungen
 
-
-
 APP.5.2.A1 Planung des Einsatzes von Microsoft Exchange und Outlook [Leiter IT, Informationssicherheitsbeauftragter (ISB)] (I)
 Bevor Microsoft Exchange und Outlook eingesetzt werden können, MUSS der Einsatz von Microsoft Exchange und Outlook sorgfältig geplant werden.
 Dabei MÜSSEN mindestens folgende Punkte beachtet werden:
