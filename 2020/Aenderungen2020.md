@@ -3210,6 +3210,7 @@ Werden Nachrichten auf einem E-Mailserver gespeichert, MUSS der IT-Betrieb eine 
 Diese Größenbeschränkung MUSS geeignet festgelegt werden.
 
 #### APP.5.1.A4
+_Änderung:_\
 Der IT-Betrieb MUSS die Daten der Groupware-Systeme regelmäßig sichern.
 Dafür MUSS die Institution regeln, wie die gesendeten und empfangenen E-Mails der E-Mail-Clients sowie die E-Mails auf den Servern gesichert werden.
 Auch SOLLTE die Institution eine dokumentierte Vorgehensweise festlegen, die beschreibt, wie E-Mails zu archivieren sind.
@@ -3217,6 +3218,7 @@ Die Vorgehensweise SOLLTE regeln, wie, wann, wie lange und wo gesendete und empf
 Der IT-Betrieb SOLLTE planen und testen, wie archivierte E-Mails wieder eingespielt werden können.
 
 #### APP.5.1.A7 (Aktualisiert: Basis-Anforderung)
+_Änderung:_\
 APP.5.1.A7 Planung des sicheren Einsatzes von Groupware-Systemen (B)
 Bevor eine Institution Groupware-Systeme einführt, MUSS sie entscheiden, wofür die Groupware-Systeme genutzt und welche Informationen darauf verarbeitet werden.
 Die Institution MUSS jede benutzte Funktion einer Groupware einschließlich deren Sicherheitsaspekte planen.
@@ -3227,6 +3229,7 @@ Darüber hinaus MUSS sie regeln, ob und wie Groupware-Dienste privat genutzt wer
 Die Institution SOLLTE regeln, wie Mitarbeiter mit Webmail-Anwendungen umgehen sollen.
 
 #### APP.5.1.A22 (Aktualisiert: Basis-Anforderung)
+_Änderung:_\
 APP.5.1.A22 Spam- und Virenschutz auf dem E-Mailserver (B)
 Der IT-Betrieb MUSS auf dem zentralen E-Mailserver einen E-Mail-Scanner mit einem integrierten Virenschutzprogramm installieren, der eingehende und ausgehende E-Mails, insbesondere deren Anhänge, auf Spam-Merkmale und schädliche Inhalte überprüft.
 Die Institution MUSS festlegen, wie mit verschlüsselten E-Mails zu verfahren ist, wenn diese nicht durch den Scanner entschlüsselt werden können.
@@ -3235,13 +3238,93 @@ Wenn ein E-Mail-Scanner genutzt wird, MÜSSEN darüber alle Mitarbeiter, der Dat
 
 ### Standard-Anforderungen
 
-#### APP.5.1.A
+### APP.5.1.A5 ENTFALLEN
+_Diese Anforderung ist entfallen._
 
-#### APP.5.1.A
+#### APP.5.1.A6
+_Änderung:_\
+Die Institution SOLLTE Vertretungsregelungen für die Bearbeitung von E-Mails aufstellen und dokumentieren.
+Dabei MÜSSEN datenschutzrechtliche Aspekte berücksichtigt werden.
+Werden E-Mails weitergeleitet, SOLLTEN die vertretenen Benutzer mindestens darüber informiert werden.
+Die Institution SOLLTE für Autoreply-Funktionen in E-Mail-Programmen spezielle Regelungen etablieren.
+Die Regelungen SOLLTEN beschreiben, wie diese Funktionen sicher gesteuert werden können.
+Wenn Mitarbeiter die Autoreply-Funktionen nutzen, SOLLTEN keine internen Informationen weitergegeben werden.
 
-#### APP.5.1.A
+#### APP.5.1.A8
+_Änderung:_\
+Die Institution SOLLTE Sicherheitsrichtlinien für Groupware-Systeme und -Anwendungen auf Basis der gemachten Planung erstellen und regelmäßig aktualisieren.
+Sie SOLLTE alle Benutzer und Administratoren über neue oder veränderte Sicherheitsvorgaben für Groupware-Systeme informieren.
+Die Groupware-Sicherheitsrichtlinien SOLLTEN konform zu den geltenden übergeordneten Sicherheitsrichtlinien der Institution sein.
+Die Institution SOLLTE prüfen, ob die Sicherheitsrichtlinien korrekt angewendet werden.
+Sie SOLLTE jeweils eine Groupware-Sicherheitsrichtlinie für Administratoren und eine für Benutzer erstellen.
+Die Groupware-Sicherheitsrichtlinie für Benutzer SOLLTE vorgeben,
+• wie sich die Kommunikation absichern lässt,
+• welche Benutzerzugriffsrechte es gibt,
+• wie Informationen an Kommunikationspartner weitergegeben werden sollen,
+• wie sich übermittelte Informationen absichern lassen,
+• wie mit Datei-Anhängen umgegangen werden soll und
+• wie E-Mails im HTML-Format behandelt werden sollen.
+Die Groupware-Sicherheitsrichtlinie für Administratoren SOLLTE die Einstellungsoptionen der Groupware-Systeme beinhalten, außerdem die Vorgaben für mögliche Zugriffe von anderen Servern auf einen Groupware-Server.
+Auch Angaben zu berechtigten Zugriffspunkten, von denen aus auf einen Groupware-Server zugegriffen werden darf, SOLLTEN in der Richtlinie enthalten sein.
+Die Groupware-Sicherheitsrichtlinien SOLLTEN den Umgang mit Newsgroups und Mailinglisten regeln.
 
-#### APP.5.1.A
+### APP.5.1.A9 ENTFALLEN
+_Diese Anforderung ist entfallen._
+
+### APP.5.1.A10 ENTFALLEN
+_Diese Anforderung ist entfallen._
+
+### APP.5.1.A11 ENTFALLEN
+_Diese Anforderung ist entfallen._
+
+#### APP.5.1.A12
+_Änderung:_\
+Die Institution SOLLTE die Benutzer über potenzielles Fehlverhalten im Bezug auf Groupware aufklären.
+Dies SOLLTE zusätzlich zur allgemeinen Schulung und Sensibilisierung geschehen.
+Sie SOLLTE auch davor warnen, an E-Mail-Kettenbriefen teilzunehmen oder zu viele Mailinglisten zu abonnieren.
+Darüber hinaus SOLLTE die Institution die Benutzer auf die Gefahren hinweisen, die beim Öffnen von unerwarteten E-Mail-Anhängen drohen können.
+Sie SOLLTE Benutzer auch davor warnen, die HTML-Darstellung bei unerwarteten E-Mails zu aktivieren.
+
+### APP.5.1.A13 ENTFALLEN
+_Diese Anforderung ist entfallen._
+
+### APP.5.1.A14 ENTFALLEN
+_Diese Anforderung ist entfallen._
+
+### APP.5.1.A15 ENTFALLEN
+_Diese Anforderung ist entfallen._
+
+#### APP.5.1.A16
+_Entfallen:_\
+(...) oder ein Anhang NICHT ausgeführt werden.
+
+_Entfallen:_\
+Für Newsgroups und Mailinglisten SOLLTEN Regelungen erstellt werden.
+
+#### APP.5.1.A17
+_Ergänzung:_\
+Die Institution SOLLTE mit dem Dienstleister Vereinbarungen zu SLAs treffen.
+
+#### APP.5.1.A18
+_Änderung:_\
+Die E-Mail-Server einer Institution SOLLTEN eingehende E-Mails mittels des Sender Policy Framework (SPF) und mit Hilfe von DomainKeys überprüfen.
+Die Institution SOLLTE selbst DomainKeys und SPF einsetzen, um von ihr versendete E-Mails zu authentisieren.
+Die Institution SOLLTE Domain-based Message Authentication, Reporting and Conformance (DMARC) nutzen, um festzulegen, wie von ihr versendete E-Mails durch den empfangenden E-Mail-Server überprüft werden sollen.
+
+#### APP.5.1.A19 ENTFALLEN
+_Diese Anforderung ist entfallen._
+
+### Anforderungen bei erhöhtem Schutzbedarf
+
+#### APP.5.1.A20 ENTFALLEN
+_Diese Anforderung ist entfallen._
+
+#### APP.5.1.A21
+_Keine inhaltlichen Änderungen._
+
+
+
+
 
 
 
