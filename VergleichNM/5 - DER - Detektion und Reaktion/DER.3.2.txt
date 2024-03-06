@@ -1,8 +1,8 @@
 3.1 Basis-Anforderungen
 
-
 DER.3.2.A1 Benennung von Verantwortlichen für die IS-Revision
-Die Institution MUSS einen Verantwortlichen für die IS-Revision benennen. Dieser MUSS die IS-Revisionen planen, initiieren und die Ergebnisse nachverfolgen.
+Die Institution MUSS einen Verantwortlichen für die IS-Revision benennen.
+Dieser MUSS die IS-Revisionen planen, initiieren und die Ergebnisse nachverfolgen.
 
 DER.3.2.A2 Erstellung eines IS-Revisionshandbuches
 Es MUSS ein IS-Revisionshandbuch erstellt werden, das die angestrebten Ziele, einzuhaltende gesetzliche Vorgaben, Informationen über die Organisation und Ressourcen und die Rahmenbedingungen enthält.
@@ -23,7 +23,8 @@ Diese SOLLTE dann durch eine jährliche Detailplanung konkretisiert werden.
 DER.3.2.A5 Auswahl eines geeigneten IS-Revisionsteams
 Es MUSS ein aus mindestens zwei IS-Revisoren bestehendes Team zusammengestellt oder beauftragt werden.
 Dem IS-Revisionsteam MUSS ein uneingeschränktes Informations- und Einsichtnahmerecht für seine Tätigkeit eingeräumt werden.
-Bei eigenen IS-Revisionsteams MÜSSEN die einzelnen IS-Revisoren unparteilich sein. Die Mitglieder eines IS-Revisionsteams DÜRFEN NICHT an der Planung oder Umsetzung des ISMS beteiligt sein oder gewesen sein.
+Bei eigenen IS-Revisionsteams MÜSSEN die einzelnen IS-Revisoren unparteilich sein.
+Die Mitglieder eines IS-Revisionsteams DÜRFEN NICHT an der Planung oder Umsetzung des ISMS beteiligt sein oder gewesen sein.
 
 DER.3.2.A6 Vorbereitung einer IS-Revision [Institutionsleitung]
 Die Institutionsleitung MUSS das IS-Revisionsverfahren initiieren.
@@ -100,7 +101,8 @@ Werden bei einer ausgewählten Stichprobe Abweichungen zum dokumentierten Status
 Während der Vor-Ort-Prüfung SOLLTEN die IS-Revisoren niemals aktiv in IT-Systeme eingreifen und auch keine Handlungsanweisungen zu Änderungen am Revisionsgegenstand erteilen.
 Alle wesentlichen Sachverhalte und Angaben über Quellen-, Auskunfts- und Vorlage-Ersuchen sowie durchgeführte Besprechungen SOLLTEN schriftlich festgehalten werden.
 In einem Abschlussgespräch SOLLTE das IS-Revisionsteam den Ansprechpartnern der geprüften Institution wesentliche Feststellungen kurz darstellen.
-Dabei SOLLTE das IS-Revisionsteam die Feststellungen nicht konkret bewerten, sondern Hinweise auf etwaige Mängel und den weiteren Verfahrensgang geben. Auch dieses Abschlussgespräch SOLLTE protokolliert werden.
+Dabei SOLLTE das IS-Revisionsteam die Feststellungen nicht konkret bewerten, sondern Hinweise auf etwaige Mängel und den weiteren Verfahrensgang geben.
+Auch dieses Abschlussgespräch SOLLTE protokolliert werden.
 
 DER.3.2.A18 Durchführung von Interviews [IS-Revisionsteam]
 Interviews SOLLTEN strukturiert erfolgen. Fragen SOLLTEN knapp, präzise und leicht verständlich formuliert werden.

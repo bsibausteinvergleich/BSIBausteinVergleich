@@ -1,6 +1,5 @@
 3.1 Basis-Anforderungen
 
-
 OPS.1.1.3.A1 Konzept für das Patch- und Änderungsmanagement [Administrator, Fachverantwortliche]
 Wenn Änderungen an IT-Komponenten, Software oder Konfigurationsdaten umgesetzt werden sollen, MUSS es dafür Vorgaben geben, die auch Sicherheitsaspekte berücksichtigen.
 Alle Patches und Änderungen MÜSSEN geeignet geplant, genehmigt und dokumentiert werden.
@@ -35,8 +34,7 @@ Nachdem eine Änderungsanforderung akzeptiert wurde, SOLLTE sie priorisiert und 
 Dabei SOLLTE sichergestellt sein, dass für die jeweiligen Prioritäten auch die benötigten Ressourcen verfügbar sind.
 
 OPS.1.1.3.A6 Abstimmung von Änderungsanforderungen [Änderungsmanager]
-Wenn eine Änderung umgesetzt wird, SOLLTE der zugehörige Abstimmungsprozess alle relevanten Zielgruppen
-berücksichtigen.
+Wenn eine Änderung umgesetzt wird, SOLLTE der zugehörige Abstimmungsprozess alle relevanten Zielgruppen berücksichtigen.
 Die von der Änderung betroffenen Zielgruppen SOLLTEN sich nachweisbar dazu äußern können.
 Auch SOLLTE es ein festgelegtes Verfahren geben, durch das wichtige Änderungsanforderungen beschleunigt werden können.
 

@@ -1,6 +1,5 @@
 3.1 Basis-Anforderungen
 
-
 OPS.1.1.4.A1 Erstellung eines Konzepts für den Schutz vor Schadprogrammen
 Es MUSS ein Konzept erstellt werden, welche IT-Systeme vor Schadprogrammen geschützt werden müssen.
 Außerdem MUSS festgehalten werden, wie der Schutz zu erfolgen hat.
@@ -33,8 +32,6 @@ Bei Schutzprogrammen, die speziell für Desktop-Virtualisierung optimiert sind, 
 OPS.1.1.4.A6 Aktualisierung der eingesetzten Viren-Schutzprogramme und Signaturen
 Auf den damit ausgestatteten IT-Systemen MÜSSEN die Scan-Engine des Viren-Schutzprogramms sowie die Signaturen für die Schadprogramme regelmäßig aktualisiert werden.
 Die Häufigkeit von qualitätsgesicherten Signatur-Updates MUSS dabei den Empfehlungen des Herstellers entsprechen.
-
-OPS.1.1.4
 Ein Update auf neue Programmversionen SOLLTE zeitnah nach Veröffentlichung erfolgen.
 Bei jedem Programmupdate des Viren-Schutzprogramms SOLLTE die Änderungsdokumentation des Herstellers auf relevante Änderungen hin überprüft werden.
 Nachdem das Update installiert wurde, MÜSSEN die Konfigurationseinstellungen überprüft und mit den dokumentierten Vorgaben abgeglichen werden.

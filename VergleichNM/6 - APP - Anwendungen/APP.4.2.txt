@@ -1,7 +1,5 @@
 3.1 Basis-Anforderungen
 
- 
-
 APP.4.2.A1 Sichere Konfiguration des SAP-ABAP-Stacks
 Der SAP-ABAP-Stack MUSS sicher konfiguriert werden.
 Dazu MÜSSEN die jeweiligen Profilparameter gesetzt werden, z. B. für die Passwortsicherheit, Authentisierung und Verschlüsselung.
@@ -61,7 +59,8 @@ Es MÜSSEN für alle RFC-Verbindungen einheitliche Verwaltungsrichtlinien erstel
 Dazu SOLLTEN die benötigten RFC-Verbindungen definiert und dokumentiert werden.
 Verbindungen mit hinterlegtem Passwort SOLLTEN nicht von niedriger privilegierten auf höher privilegierte Systeme (z. B. von Dev nach Prod) konfiguriert sein.
 Nicht mehr benutzte RFC-Verbindungen MÜSSEN gelöscht werden.
-Alle RFC-Gateways MÜSSEN sicher administriert werden. Dazu MÜSSEN geeignete Profilparameter gesetzt werden, z. B. gw/monitor, gw/reg_no_conn_info und snc/permit_insecure_start. Alle Verbindungen über ein Gateway MÜSSEN unter dem Sicherheitsaspekt analysiert und bewertet werden.
+Alle RFC-Gateways MÜSSEN sicher administriert werden.
+Dazu MÜSSEN geeignete Profilparameter gesetzt werden, z. B. gw/monitor, gw/reg_no_conn_info und snc/permit_insecure_start. Alle Verbindungen über ein Gateway MÜSSEN unter dem Sicherheitsaspekt analysiert und bewertet werden.
 Außerdem MUSS die Protokollierung aktiv sein.
 Es MÜSSEN Zugriffssteuerungslisten (ACLs) definiert werden.
 
@@ -125,4 +124,79 @@ APP.4.2.A17 Umsetzung von Sicherheitsanforderungen für das Betriebssystem Unix
 Für die SAP-ERP-Systemverzeichnisse unter Unix SOLLTEN Zugriffsberechtigungen festgelegt werden.
 Auch SOLLTEN die Passwörter der systemspezifischen Benutzer <sid>adm und <db><sid> geändert werden.
 Nach der Installation SOLLTE der Benutzer <db><sid> gesperrt werden.
-IT-Grundschutz-Kompendium: Stand Februar 2019 5
+
+APP.4.2.A18 Abschaltung von unsicherer Kommunikation
+Die Kommunikation mit und zwischen SAP-ERP-Systemen SOLLTE mit SNC abgesichert werden.
+Sofern Datenbank und SAP-Applikationsserver auf verschiedenen Systemen betrieben werden, SOLLTE die Datenbankverbindung in geeigneter Weise verschlüsselt werden.
+Die internen Dienste des SAP-Applikationsservers SOLLTEN NUR mittels TLS miteinander kommunizieren.
+
+APP.4.2.A19 Definition der Sicherheitsrichtlinien für Benutzer
+Für die jeweiligen Benutzer und Benutzergruppen SOLLTEN spezifische Sicherheitsrichtlinien für Passwörter und Anmelderestriktionen erstellt werden.
+So SOLLTEN beispielsweise Benutzer mit kritischen Berechtigungen durch starke Passwortregeln abgesichert sein (Transaktion SECPOL).
+Die Sicherheitsrichtlinien SOLLTEN den Benutzern korrekt zugeordnet und regelmäßig überprüft werden.
+
+APP.4.2.A20 Sichere SAP-GUI-Einstellungen
+Die SAP GUI SOLLTE auf allen Clients installiert und regelmäßig aktualisiert werden.
+Auch SOLLTEN SAP GUI ACLs aktiviert sowie angemessene Administrationsregeln verteilt und aktiviert werden.
+
+APP.4.2.A21 Konfiguration des Security Audit Logs
+Das Security Audit Log (SAL) SOLLTE durch geeignete Filtereinstellungen so konfiguriert werden, dass sicherheitskritische Ereignisse korrekt protokolliert werden.
+Zudem SOLLTEN passende Profilparameter für das SAL gesetzt werden.
+
+APP.4.2.A22 Schutz des Spools im SAP-ERP-System [Entwickler]
+Es SOLLTE sichergestellt sein, dass auf Daten der sequenziellen Datenverarbeitung (Spool, Druck) nur eingeschränkt zugegriffen werden kann.
+Auch SOLLTE verhindert werden, dass unberechtigte Benutzer auf die vom SAP-Spoolsystem benutzte Datenablage TemSe zugreifen können.
+Die hierfür vergebenen Berechtigungen SOLLTEN regelmäßig überprüft werden.
+
+APP.4.2.A23 Schutz der SAP-Hintergrundverarbeitung [Entwickler]
+Die SAP-Hintergrundverarbeitung SOLLTE vor unberechtigten Zugriffen geschützt werden.
+Dafür SOLLTEN für Batch-Jobs verschiedene Systembenutzer-Kennungen nach ihren Funktionsbereichen definiert und angelegt werden.
+Dialogbenutzer SOLLTEN dafür grundsätzlich NICHT zugelassen werden.
+
+APP.4.2.A24 Aktivierung und Absicherung des Internet Communication Frameworks (ICF)
+Es SOLLTE darauf geachtet werden, dass nur notwendige ICF-Dienste aktiviert werden.
+Alle ICF-Dienste, die unter einem ICF-Objekt sind, SOLLTEN nur einzeln aktiviert werden.
+ICF-Berechtigungen SOLLTEN restriktiv vergeben werden und die Kommunikation SOLLTE verschlüsselt erfolgen.
+
+APP.4.2.A25 Sichere Konfiguration des SAP Web Dispatchers
+Der SAP Web Dispatcher SOLLTE nicht der erste Einstiegspunkt aus dem Internet zum SAP-ERP-System sein.
+Der SAP Web Dispatcher SOLLTE auf dem aktuellen Stand sein.
+Er SOLLTE sicher konfiguriert sein.
+
+APP.4.2.A26 Schutz des kundeneigenen Codes im SAP-ERP-System
+Es SOLLTE ein Custom-Code-Managementprozess definiert werden, damit kundeneigener Code ausgetauscht oder entfernt wird, falls er durch SAP-Standard-Code ersetzt werden kann oder er nicht mehr benutzt wird.
+Ferner SOLLTEN die Anforderungen aus dem Baustein APP.4.6 SAP ABAP-Programmierung berücksichtigt werden.
+
+APP.4.2.A27 Audit des SAP-ERP-Systems [Fachabteilung]
+Damit sichergestellt ist, dass alle internen und externen Richtlinien und Vorgaben eingehalten werden, SOLLTEN alle SAP-ERP-Systeme regelmäßig auditiert werden.
+Dafür SOLLTE der Security Optimization Service im SAP Solution Manager benutzt werden.
+Die Ergebnisse des Audits SOLLTEN ausgewertet und dokumentiert werden.
+
+APP.4.2.A28 Erstellung eines Notfallkonzeptes [Notfallbeauftragter]
+Für SAP-ERP-Systeme SOLLTE ein Notfallkonzept erstellt und betrieben werden.
+Es SOLLTE die Geschäftsaktivitäten absichern und mit den Vorgaben aus dem Krisenmanagement oder dem Business-Continuity-Management übereinstimmen.
+Im Notfallkonzept SOLLTEN folgende Punkte beschrieben und definiert werden:
+• Detektion von und Reaktion auf Zwischenfälle,
+• Datensicherungs- und Wiederherstellungskonzept sowie
+• Notfalladministration.
+Das Notfallkonzept SOLLTE regelmäßig aktualisiert werden.
+
+APP.4.2.A29 Einrichten eines Notfallbenutzers
+Es SOLLTEN Benutzer-IDs für Notfallbenutzer angelegt werden. Die eingerichteten IDs und Berechtigungen SOLLTEN stark kontrolliert und genau dokumentiert werden. Außerdem SOLLTEN alle von Notfallbenutzern durchgeführten Aktivitäten protokolliert werden.
+
+APP.4.2.A30 Implementierung eines kontinuierlichen Monitorings der Sicherheitseinstellungen
+Es SOLLTE ständig überwacht werden, ob alle Sicherheitseinstellungen des SAP-ERP-Systems korrekt sind.
+Außerdem SOLLTE überwacht werden, ob alle Patches und Updates ordnungsgemäß eingespielt wurden.
+Das SAP-Monitoring SOLLTE in die allgemeine Systemüberwachung der Institution integriert werden.
+
+APP.4.2.A31 Konfiguration von SAP Single-Sign-On
+Sind mehrere SAP-ERP-Systeme vorhanden, SOLLTEN die Benutzer auf die Systeme mit SAP Single-Sign-On (SAP SSO) zugreifen.
+Es SOLLTE in der Planungsphase entschieden werden, zwischen welchen SAP-ERP-Systemen der SSO-Mechanismus benutzt wird. Das SSO SOLLTE sicher konfiguriert und betrieben werden.
+
+
+3.3 Anforderungen bei erhöhtem Schutzbedarf
+
+APP.4.2.A32 Echtzeiterfassung und Alarmierung von irregulären Vorgängen (CIA)
+Die wichtigsten Sicherheitsaufzeichnungsfunktionen der SAP-ERP-Systeme (Security Audit Log, System Log etc.) SOLLTEN kontinuierlich überwacht werden.
+Bei verdächtigen Vorgängen SOLLTE automatisch ein verantwortlicher Mitarbeiter alarmiert werden.
+Um SAP-spezifische Sicherheitsvorfälle analysieren und Falschmeldungen von echten Sicherheitsvorfällen abgrenzen zu können, SOLLTEN entweder Mitarbeiter geschult oder entsprechende Serviceleistungen von Drittanbietern genutzt werden.

@@ -1,6 +1,5 @@
 3.1 Basis-Anforderungen
 
-
 OPS.1.2.2.A1 Ermittlung von Einflussfaktoren für die elektronische Archivierung
 [Informationssicherheitsbeauftragter (ISB)]
 Bevor entschieden wird, welche Verfahren und Produkte für die elektronische Archivierung eingesetzt werden, MÜSSEN die technischen, rechtlichen und organisatorischen Einflussfaktoren ermittelt und dokumentiert werden.
@@ -13,8 +12,7 @@ Die Ergebnisse MÜSSEN in einem Archivierungskonzept erfasst werden.
 Das Management MUSS in diesen Prozess einbezogen werden.
 Das Archivierungskonzept MUSS regelmäßig an die aktuellen Gegebenheiten der Institution angepasst werden.
 
-OPS.1.2.2.A3 Geeignete Aufstellung von Archivsystemen und Lagerung von Archivmedien [Leiter IT, IT-
-Betrieb]
+OPS.1.2.2.A3 Geeignete Aufstellung von Archivsystemen und Lagerung von Archivmedien [Leiter IT, IT-Betrieb]
 Da Archivsysteme schützenswerte Daten einer Institution zentral aufbewahren, MÜSSEN deren IT-Komponenten in gesicherten Räumen aufgestellt werden. 
 Es MUSS sichergestellt sein, dass nur berechtigte Personen die Räume betreten dürfen.
 Damit Archivspeichermedien langfristig aufbewahrt werden können, MÜSSEN sie geeignet gelagert werden.
@@ -29,10 +27,6 @@ Es MUSS über den gesamten Archivierungszeitraum hinweg sichergestellt werden, d
 • die gespeicherten Daten auch zukünftig lesbar und so reproduzierbar sind, sodass Semantik und Beweiskraftbeibehalten werden können,
 • das benutzte Dateisystem auf dem Speichermedium von allen beteiligten Komponenten verarbeitet werdenkann,
 • die Speichermedien jederzeit technisch einwandfrei gelesen werden können und
-IT-Grundschutz-Kompendium: Stand Februar 2019 3
-
-
-OPS.1.2: Weiterführende Aufgaben OPS.1.2.2
 • die verwendeten kryptografischen Verfahren zur Verschlüsselung und zum Beweiswerterhalt mittels digitaler Signatur, Siegel, Zeitstempel oder technischen Beweisdaten (Evidence Records) dem Stand der Technik entsprechen.
 
 OPS.1.2.2.A6 Schutz der Integrität der Indexdatenbank von Archivsystemen [Leiter IT, IT-Betrieb]
@@ -76,8 +70,6 @@ Die Administrationsrichtlinie SOLLTE folgende Punkte enthalten:
 • Regelung zur Datensicherung,
 • Regelungen zur Protokollierung,
 • Trennung von Produzenten und Konsumenten (OAIS-Modell).
-4 IT-Grundschutz-Kompendium: Stand Februar 2019
-OPS.1.2.2 OPS.1.2: Weiterführende Aufgaben
 
 OPS.1.2.2.A11 Einweisung in die Administration und Bedienung des Archivsystems [Leiter IT, IT-Betrieb, Benutzer]
 Die verantwortlichen IT-Betriebe und die Benutzer SOLLTEN für ihren Aufgabenbereich geschult werden.

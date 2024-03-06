@@ -1,6 +1,5 @@
 3.1 Basis-Anforderungen
 
-
 OPS.2.2.A1 Erstellung einer Cloud-Nutzungs-Strategie [ISB, Datenschutzbeauftragter, Institutionsleitung, Fachverantwortliche]
 Es MUSS eine Cloud-Nutzungs-Strategie erstellt werden. Darin MÜSSEN Ziele, Chancen und Risiken definiert werden, die die Institution mit der Cloud-Nutzung verbindet.
 Zudem MÜSSEN die rechtlichen und organisatorischen Rahmenbedingungen sowie die technischen Anforderungen untersucht werden, die sich aus der Nutzung von Cloud-Diensten ergeben.

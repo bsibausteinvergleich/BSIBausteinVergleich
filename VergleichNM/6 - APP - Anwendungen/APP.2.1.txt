@@ -1,5 +1,4 @@
 3.1 Basis-Anforderungen
- 
 
 APP.2.1.A1 Erstellung einer Sicherheitsrichtlinie für Verzeichnisdienste
 Es MUSS eine Sicherheitsrichtlinie für den Verzeichnisdienst erstellt werden.

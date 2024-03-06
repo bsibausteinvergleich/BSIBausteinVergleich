@@ -1,15 +1,13 @@
 3.1 Basis-Anforderungen
 
-
 OPS.2.1.A1 Festlegung der Sicherheitsanforderungen für Outsourcing-Vorhaben [ISB Outsourcing-Kunde]
 Alle Sicherheitsanforderungen für ein Outsourcing-Vorhaben MÜSSEN auf Basis der Outsourcing-Strategie festgelegt sein.
 Es MÜSSEN beide Outsourcing-Parteien auf die Einhaltung von IT-Grundschutz oder einem vergleichbaren Schutzniveau vertraglich verpflichtet sein.
 Es MÜSSEN alle Schnittstellen zwischen dem Outsourcing-Dienstleister und -Kunden identifiziert und entsprechende Sicherheitsanforderungen dafür definiert werden.
 Es MUSS in den Sicherheitsanforderungen festgelegt sein, welche Berechtigungen (Zutrittsrechte, Zugangsrechte, Zugriffsrechte) jeweils gegenseitig eingerichtet werden.
 
+
 3.2 Standard-Anforderungen
-Gemeinsam mit den Basis-Anforderungen entsprechen die folgenden Anforderungen dem Stand der Technik für den Baustein OPS.2.1 Outsourcing für Kunden.
-Sie SOLLTEN grundsätzlich umgesetzt werden.
 
 OPS.2.1.A2 Rechtzeitige Beteiligung der Personalvertretung [Leiter Organisation]
 Die Personalvertretung SOLLTE rechtzeitig über ein Outsourcing-Vorhaben informiert werden.
@@ -63,7 +61,8 @@ OPS.2.1.A10 Vereinbarung über Datenaustausch zwischen den Outsourcing-Partnern 
 Für den regelmäßigen Datenaustausch mit festen Kommunikationspartnern SOLLTEN die erforderlichen Sicherheitsmaßnahmen vereinbart werden.
 Datenformate und Vorgehensweisen zum sicheren Datenaustausch SOLLTEN festgelegt werden.
 Ansprechpartner sowohl für organisatorische als auch technische Probleme und insbesondere für sicherheitsrelevante Ereignisse beim Datenaustausch mit Dritten SOLLTEN benannt werden.
-Verfügbarkeiten und Reaktionszeiten beim Datenaustausch mit Dritten SOLLTEN vereinbart werden. Es SOLLTE festgelegt werden,welche ausgetauschten Daten zu welchen Zwecken genutzt werden dürfen.
+Verfügbarkeiten und Reaktionszeiten beim Datenaustausch mit Dritten SOLLTEN vereinbart werden.
+Es SOLLTE festgelegt werden,welche ausgetauschten Daten zu welchen Zwecken genutzt werden dürfen.
 
 OPS.2.1.A11 Planung und Aufrechterhaltung der Informationssicherheit im laufenden Outsourcing-Betrieb [ISB Outsourcing-Kunde]
 Es SOLLTE ein Betriebskonzept für das Outsourcing-Vorhaben erstellt werden, das auch die Sicherheitsaspekte berücksichtigt.

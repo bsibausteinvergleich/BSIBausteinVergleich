@@ -1,6 +1,5 @@
 3.1 Basis-Anforderungen
 
-
 APP.3.1.A1 Authentisierung bei Webanwendungen [Entwickler]
 Um auf geschützte Ressourcen einer Webanwendung zugreifen zu können, MÜSSEN sich Benutzer gegenüber der Anwendung authentisieren.
 Dafür MUSS eine geeignete Authentisierungsmethode ausgewählt und der Auswahlprozess dokumentiert werden.
@@ -67,16 +66,12 @@ Webanwendungen MÜSSEN durch geeignete Schutzmechanismen vor automatisierten Zug
 Dabei MUSS jedoch berücksichtigt werden, wie sich die Schutzmechanismen auf die Nutzungsmöglichkeiten berechtigter Benutzer auswirken.
 Wenn die Webanwendung RSS-Feeds oder andere Funktionen, die explizit für die automatisierte Nutzung vorgesehen sind, enthält, MUSS dies ebenfalls bei der Konfiguration der Schutzmechanismen berücksichtigt werden.
 
+
 3.2 Standard-Anforderungen
-Gemeinsam mit den Basis-Anforderungen entsprechen die folgenden Anforderungen dem Stand der Technik für den Baustein APP.3.1 Webanwendungen.
-Sie SOLLTEN grundsätzlich umgesetzt werden.
 
 APP.3.1.A8 Systemarchitektur einer Webanwendung
 Bereits in der Entwurfsphase einer Webanwendung SOLLTEN Sicherheitsaspekte beachtet werden.
 Auch SOLLTE darauf geachtet werden, dass die Architektur der Webanwendung die Geschäftslogik der Institution exakt erfasst und korrekt umsetzt.
-4 IT-Grundschutz-Kompendium: Stand Februar 2019
-
-APP.3.1 APP.3: Netzbasierte Dienste
 In der Systemarchitektur SOLLTE vorgesehen werden, die Serverdienste durch jeweils separate IT-Systeme voneinander zu trennen.
 Auch SOLLTEN jeweils eigene Benutzerkonten für die unterschiedlichen Serverprozesse der Systemkomponenten verwendet werden.
 Dabei SOLLTEN die Rechte dieser Dienstkonten auf Betriebssystemebene soweit eingeschränkt werden, dass nur auf die erforderlichen Ressourcen und Dateien des Betriebssystems zugegriffen werden kann.

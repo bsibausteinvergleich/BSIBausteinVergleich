@@ -1,6 +1,5 @@
 3.1 Basis-Anforderungen
 
-
 APP.1.2.A1 Verwendung von Sandboxing
 Der eingesetzte Web-Browser MUSS sicherstellen, dass jede Instanz und jeder Verarbeitungsprozess nur auf die eigenen Ressourcen zugreifen kann (Sandboxing).
 Web-Seiten MÜSSEN als eigenständige Prozesse oder mindestens als eigene Threads voneinander isolierten werden.

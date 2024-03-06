@@ -1,6 +1,5 @@
 3.1 Basis-Anforderungen
 
-
 DER.2.2.A1 Prüfung rechtlicher und regulatorischer Rahmenbedingungen zur Erfassung und Auswertbarkeit [Datenschutzbeauftragter, Institutionsleitung]
 Werden Daten für forensische Untersuchungen erfasst und ausgewertet, MÜSSEN alle rechtlichen und regulatorischen Rahmenbedingungen identifiziert und eingehalten werden, siehe ORP.5 Compliance Management (Anforderungsmanagement).
 Auch DARF NICHT gegen interne Regelungen und Mitarbeitervereinbarungen verstoßen werden.
@@ -66,7 +65,8 @@ Auch SOLLTE dokumentiert werden, welche Methoden eingesetzt wurden und warum sic
 DER.2.2.A12 Sichere Verwahrung von Originaldatenträgern und Beweismitteln [Ermittler, Ermittlungsleiter]
 Alle sichergestellten Originaldatenträger SOLLTEN physisch so gelagert werden, dass nur ermittelnde und namentlich bekannte Mitarbeiter darauf zugreifen können.
 Wenn Originaldatenträger und Beweismittel eingelagert werden, SOLLTE festgelegt werden, wie lange sie aufzubewahren sind.
-Nachdem die Frist abgelaufen ist, SOLLTE geprüft werden, ob die Datenträger und Beweise noch weiter aufbewahrt werden müssen. Nach der Aufbewahrungsfrist SOLLTEN Beweismittel sicher gelöscht oder vernichtet und Originaldatenträger zurückgegeben werden.
+Nachdem die Frist abgelaufen ist, SOLLTE geprüft werden, ob die Datenträger und Beweise noch weiter aufbewahrt werden müssen.
+Nach der Aufbewahrungsfrist SOLLTEN Beweismittel sicher gelöscht oder vernichtet und Originaldatenträger zurückgegeben werden.
 
 
 3.3 Anforderungen bei erhöhtem Schutzbedarf

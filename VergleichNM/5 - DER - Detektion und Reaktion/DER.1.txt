@@ -1,6 +1,5 @@
 3.1 Basis-Anforderungen
 
-
 DER.1.A1 Erstellung einer Sicherheitsrichtlinie für die Detektion von sicherheitsrelevanten Ereignissen [Informationssicherheitsbeauftragter (ISB)]
 Ausgehend von der allgemeinen Sicherheitsrichtlinie der Institution MUSS eine spezifische Sicherheitsrichtlinie erstellt werden, in der nachvollziehbar Anforderungen und Vorgaben beschrieben sind, wie die Detektion von sicherheitsrelevanten Ereignissen sicher geplant, aufgebaut und betrieben werden kann.
 Die Richtlinie MUSS allen im Bereich Detektion verantwortlichen Mitarbeitern bekannt und grundlegend für ihre Arbeit sein.
@@ -41,8 +40,6 @@ Außerdem MÜSSEN sie regelmäßig aktualisiert werden.
 Es MUSS sichergestellt sein, dass die Schadcodescanner automatisch sicherheitsrelevante Ereignisse an die Verantwortlichen melden und die Meldungen auch ausgewertet und untersucht werden.
 
 3.2 Standard-Anforderungen
-Gemeinsam mit den Basis-Anforderungen entsprechen die folgenden Anforderungen dem Stand der Technik für den Baustein DER.1 Detektion von sicherheitsrelevanten Ereignissen.
-Sie SOLLTEN grundsätzlich umgesetzt werden.
 
 DER.1.A6 Kontinuierliche Überwachung und Auswertung von Protokolldaten [Benutzer]
 Alle Protokolldaten SOLLTEN möglichst permanent aktiv überwacht und ausgewertet werden.
@@ -99,7 +96,8 @@ DER.1.A15 Zentrale Detektion und Echtzeitüberprüfung von Ereignismeldungen (CI
 Es SOLLTEN zentrale Komponenten eingesetzt werden, um sicherheitsrelevante Ereignisse zu erkennen und auszuwerten.
 Zentrale automatisierte Analysen mit Softwaremitteln SOLLTEN dazu eingesetzt werden, um alle in der Systemumgebung anfallenden Ereignisse aufzuzeichnen, in Bezug zueinander zu setzen und sicherheitsrelevante Vorgänge sichtbar zu machen.
 Alle eingelieferten Daten SOLLTEN lückenlos in der Protokollverwaltung einsehbar und auswertbar sein.
-Die tatsächlichen Daten SOLLTEN möglichst permanent ausgewertet werden. Werden definierte Schwellwerten überschritten, SOLLTE automatisch alarmiert werden.
+Die tatsächlichen Daten SOLLTEN möglichst permanent ausgewertet werden.
+Werden definierte Schwellwerten überschritten, SOLLTE automatisch alarmiert werden.
 Durch das Personal SOLLTE sichergestellt werden, dass bei einem Alarm unverzüglich eine qualifizierte und dem Bedarf entsprechende Reaktion eingeleitet wird.
 In diesem Zusammenhang SOLLTE auch der betroffene Mitarbeiter sofort informiert werden.
 Die Systemverantwortlichen SOLLTEN regelmäßig die Analyseparameter auditieren und, falls erforderlich, anpassen.

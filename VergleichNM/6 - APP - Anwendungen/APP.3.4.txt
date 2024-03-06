@@ -1,5 +1,4 @@
 3.1 Basis-Anforderungen
-  
 
 APP.3.4.A1 Planung des Einsatzes eines Samba-Servers [Leiter IT]
 Die Einführung eines Samba-Servers MUSS sorgfältig geplant und geregelt werden.
@@ -16,12 +15,12 @@ Hierfür MÜSSEN unter anderem Einstellungen für die Zugriffskontrollen, aber a
 Es MUSS sichergestellt werden, dass die Zugriffsberechtigungen für jeden Benutzer individuell bestimmt werden.
 Generell MUSS sichergestellt werden, dass nur ausgewählten Benutzern und Benutzergruppen erlaubt wird, sich mit dem Samba-Dienst zu verbinden und dass Benutzer nur auf die Informationen innerhalb ihrer Freigaben zugreifen können.
 Samba MUSS so konfiguriert werden, dass Verbindungen nur von sicheren Hosts und Netzen entgegengenommen werden und dass es sich nur mit sicheren Netzadressen verbindet.
-Änderungen an der Konfiguration SOLLTEN sorgfältig dokumentiert werden, sodass zu jeder Zeit nachvollzogen werden kann, wer aus welchem Grund was geändert hat. 
+Änderungen an der Konfiguration SOLLTEN sorgfältig dokumentiert werden, sodass zu jeder Zeit nachvollzogen werden kann, wer aus welchem Grund was geändert hat.
 Dabei MUSS nach jeder Änderung überprüft werden, ob die Syntax noch korrekt ist.
 Zusätzliche Softwaremodule wie SWAT DÜRFEN NICHT installiert werden.
 
+
 3.2 Standard-Anforderungen
-Gemeinsam mit den Basis-Anforderungen entsprechen die folgenden Anforderungen dem Stand der Technik für den Baustein APP.3.4 Samba. Sie SOLLTEN grundsätzlich umgesetzt werden.
 
 APP.3.4.A3 Sichere Konfiguration des Betriebssystems für einen Samba-Server
 Datenbanken im Trivial-Database-(TDB)-Format SOLLTEN NICHT auf einer Partition gespeichert werden, die ReiserFS als Dateisystem benutzt.
@@ -47,7 +46,8 @@ APP.3.4.A6 Sichere Konfiguration von Winbind unter Samba
 Der Einsatz von Winbind SOLLTE sorgfältig geplant und geregelt werden.
 Für jeden Windows-Domänenbenutzer SOLLTE im Betriebssystem des Servers ein Benutzerkonto mit allen Gruppenmitgliedschaften vorhanden sein.
 Falls das nicht möglich ist, SOLLTE Winbind eingesetzt werden.
-Dabei SOLLTE Winbind Domänen-Benutzernamen in eindeutige Linux-Benutzernamen umsetzen. Hierbei SOLLTE beachtet werden, dass Kollisionen zwischen lokalen Linux-Benutzern und Domänen-Benutzern verhindert werden.
+Dabei SOLLTE Winbind Domänen-Benutzernamen in eindeutige Linux-Benutzernamen umsetzen.
+Hierbei SOLLTE beachtet werden, dass Kollisionen zwischen lokalen Linux-Benutzern und Domänen-Benutzern verhindert werden.
 Des Weiteren SOLLTEN die PAM (Pluggable Authentication Modules) eingebunden werden.
 
 APP.3.4.A7 Sichere Konfiguration von DNS unter Samba
