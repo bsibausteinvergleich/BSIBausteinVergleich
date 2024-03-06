@@ -3176,6 +3176,77 @@ _Keine inhaltlichen Änderungen._
 _Keine inhaltlichen Änderungen._
 
 
+## Änderungen APP.5.1
+
+### Basis-Anforderungen
+
+#### APP.5.1.A1
+_Änderung:_\
+Der IT-Betrieb MUSS alle für ein Groupware-System benötigten Komponenten entsprechend der geplanten Systemlandschaft sicher installieren und konfigurieren.
+Nicht genutzte Komponenten des Groupware-Systems MÜSSEN deaktiviert werden.
+
+#### APP.5.1.A2
+_Änderung:_\
+Die Institution MUSS eine Konfiguration für die Groupware-Clients vorgeben.
+Die Clients MÜSSEN den Benutzern vorkonfiguriert übergeben werden.
+Die Konfiguration MUSS Sicherheitsaspekte berücksichtigen.
+Die Institution MUSS die Benutzer darauf hinweisen, dass die Konfiguration nicht selbstständig geändert werden darf.
+Es MUSS verhindert oder untersagt werden, dass die Benutzer Passwörter im Klartext speichern.
+Bevor Dateianhänge ausgeführt werden, MÜSSEN sie von einem Schutzprogramm auf Schadsoftware überprüft werden.
+Groupware-Clients MÜSSEN so konfiguriert werden, dass sie eventuell vorhandenen HTML-Code in E-Mails nicht automatisch interpretieren.
+Vorschaufunktionen für Datei-Anhänge MÜSSEN so konfiguriert werden, dass sie Dateien nicht automatisch interpretieren.
+E-Mail-Filterregeln sowie die unkontrolliert, automatische Weiterleitung von E-Mails MÜSSEN beschränkt werden.
+
+#### APP.5.1.A3
+_Änderung:_\
+Administratoren MÜSSEN sich regelmäßig über neu bekannt gewordene Schwachstellen der eingesetzten Groupware-Systeme informieren und sie zeitnah beheben.
+Der IT-Betrieb MUSS Schutzmechanismen gegen Denial-of-Service-Attacken (DoS) ergreifen.
+Die Kommunikation innerhalb des internen Netzes MUSS angemessen geschützt werden.
+Für die Kommunikation über öffentliche Datennetze MÜSSEN Groupware-Systeme eine sichere Transportverschlüsselung anbieten.
+Versenden Groupware-Syteme von sich aus Daten, SOLLTEN sie dafür ebenfalls eine sichere Transportverschlüsselung nutzen.
+Die Institution SOLLTE eine Richtlinie erstellen, in der alle in der jeweiligen Groupware erlaubten Protokolle und Dienste erfasst sind.
+Insbesondere MUSS der IT-Betrieb den E-Mailserver so einstellen, dass er nicht als Spam Relay missbraucht werden kann.
+Werden Nachrichten auf einem E-Mailserver gespeichert, MUSS der IT-Betrieb eine Größenbeschränkung für das serverseitige Postfach einrichten.
+Diese Größenbeschränkung MUSS geeignet festgelegt werden.
+
+#### APP.5.1.A4
+Der IT-Betrieb MUSS die Daten der Groupware-Systeme regelmäßig sichern.
+Dafür MUSS die Institution regeln, wie die gesendeten und empfangenen E-Mails der E-Mail-Clients sowie die E-Mails auf den Servern gesichert werden.
+Auch SOLLTE die Institution eine dokumentierte Vorgehensweise festlegen, die beschreibt, wie E-Mails zu archivieren sind.
+Die Vorgehensweise SOLLTE regeln, wie, wann, wie lange und wo gesendete und empfangene E-Mails archiviert werden.
+Der IT-Betrieb SOLLTE planen und testen, wie archivierte E-Mails wieder eingespielt werden können.
+
+#### APP.5.1.A7 (Aktualisiert: Basis-Anforderung)
+APP.5.1.A7 Planung des sicheren Einsatzes von Groupware-Systemen (B)
+Bevor eine Institution Groupware-Systeme einführt, MUSS sie entscheiden, wofür die Groupware-Systeme genutzt und welche Informationen darauf verarbeitet werden.
+Die Institution MUSS jede benutzte Funktion einer Groupware einschließlich deren Sicherheitsaspekte planen.
+Sie MUSS festlegen, wie die Groupware-Clients auf die Server zugreifen sollen.
+Es SOLLTE darauf geachtet werden, dass die genutzten Groupware-Systeme ausreichend dimensioniert sind.
+Die Institution SOLLTE bei der Planung beschreiben, wie Daten ordnungsgemäß übertragen werden.
+Darüber hinaus MUSS sie regeln, ob und wie Groupware-Dienste privat genutzt werden dürfen.
+Die Institution SOLLTE regeln, wie Mitarbeiter mit Webmail-Anwendungen umgehen sollen.
+
+#### APP.5.1.A22 (Aktualisiert: Basis-Anforderung)
+APP.5.1.A22 Spam- und Virenschutz auf dem E-Mailserver (B)
+Der IT-Betrieb MUSS auf dem zentralen E-Mailserver einen E-Mail-Scanner mit einem integrierten Virenschutzprogramm installieren, der eingehende und ausgehende E-Mails, insbesondere deren Anhänge, auf Spam-Merkmale und schädliche Inhalte überprüft.
+Die Institution MUSS festlegen, wie mit verschlüsselten E-Mails zu verfahren ist, wenn diese nicht durch den Scanner entschlüsselt werden können.
+Wenn ein E-Mail-Scanner genutzt wird, MÜSSEN darüber alle Mitarbeiter, der Datenschutzbeauftragte und die Personalvertretung informiert werden.
+
+
+### Standard-Anforderungen
+
+#### APP.5.1.A
+
+#### APP.5.1.A
+
+#### APP.5.1.A
+
+#### APP.5.1.A
+
+
+
+
+
 ////////////////
 Formatierungshilfen:
 
