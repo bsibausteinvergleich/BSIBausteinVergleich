@@ -74,9 +74,9 @@ Wenn die Hardware dimensioniert wird, SOLLTE das erwartete Wachstum für den gep
 
 APP.4.3.A12 Einheitlicher Konfigurationsstandard von Datenbankmanagementsystemen [Leiter IT] (S)
 Für alle eingesetzten Datenbankmanagementsysteme SOLLTE ein einheitlicher Konfigurationsstandard definiert werden.
-Alle Datenbankmanagementsysteme SOLLTEN nach diesem Standard konfiguriert und einheitlich betrieben werden.
+Alle Datenbankmanagementsysteme SOLLTEN nach diesem Standard konfiguriert und einheitlich betrieben werden.
 Falls es bei einer Installation notwendig ist, vom Konfigurationsstandard abzuweichen, SOLLTEN alle Schritte vom ISB freigegeben und nachvollziehbar dokumentiert werden.
-Der Konfigurationsstandard SOLLTE regelmäßig überprüft und, falls erforderlich, angepasst werden.
+Der Konfigurationsstandard SOLLTE regelmäßig überprüft und, falls erforderlich, angepasst werden.
 
 APP.4.3.A13 Restriktive Handhabung von Datenbank-Links (S)
 Es SOLLTE sichergestellt sein, dass nur Verantwortliche dazu berechtigt sind, Datenbank-Links (DB-Links) anzulegen.
