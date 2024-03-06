@@ -2346,6 +2346,42 @@ _Keine inhaltlichen Änderungen._
 _Keine inhaltlichen Änderungen._
 
 
+## Änderungen APP.2.2
+
+### Basis-Anforderungen
+
+#### APP.2.2.A1
+
+#### APP.2.2.A2
+
+#### APP.2.2.A3
+
+#### APP.2.2.A4
+
+#### APP.2.2.A5
+
+#### APP.2.2.A6
+
+#### APP.2.2.A7
+
+#### APP.2.2.A8
+
+#### APP.2.2.A9
+
+#### APP.2.2.A10
+
+#### APP.2.2.A11
+
+#### APP.2.2.A12
+
+#### APP.2.2.A13
+
+#### APP.2.2.A14
+
+#### APP.2.2.A15
+
+
+
 
 
 
