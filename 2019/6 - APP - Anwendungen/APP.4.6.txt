@@ -1,6 +1,5 @@
 3.1 Basis-Anforderungen
 
-
 APP.4.6.A1 Absicherung von Reports mit Berechtigungsprüfungen [Entwickler]
 Es MUSS sichergestellt sein, dass nur berechtigte Benutzer selbst programmierte Auswertungen (Reports) starten können.
 Deswegen MUSS jeder Report explizite zum Kontext passende Berechtigungsprüfungen durchführen.
