@@ -59,7 +59,8 @@ Es MÜSSEN für alle RFC-Verbindungen einheitliche Verwaltungsrichtlinien erstel
 Dazu SOLLTEN die benötigten RFC-Verbindungen definiert und dokumentiert werden.
 Verbindungen mit hinterlegtem Passwort SOLLTEN nicht von niedriger privilegierten auf höher privilegierte Systeme (z. B. von Dev nach Prod) konfiguriert sein.
 Nicht mehr benutzte RFC-Verbindungen MÜSSEN gelöscht werden.
-Alle RFC-Gateways MÜSSEN sicher administriert werden. Dazu MÜSSEN geeignete Profilparameter gesetzt werden, z. B. gw/monitor, gw/reg_no_conn_info und snc/permit_insecure_start. Alle Verbindungen über ein Gateway MÜSSEN unter dem Sicherheitsaspekt analysiert und bewertet werden.
+Alle RFC-Gateways MÜSSEN sicher administriert werden.
+Dazu MÜSSEN geeignete Profilparameter gesetzt werden, z. B. gw/monitor, gw/reg_no_conn_info und snc/permit_insecure_start. Alle Verbindungen über ein Gateway MÜSSEN unter dem Sicherheitsaspekt analysiert und bewertet werden.
 Außerdem MUSS die Protokollierung aktiv sein.
 Es MÜSSEN Zugriffssteuerungslisten (ACLs) definiert werden.
 
