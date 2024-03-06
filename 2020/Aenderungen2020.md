@@ -2447,7 +2447,59 @@ Dabei SOLLTEN institutionsinterne Vorgaben beachtet werden.
 _Keine inhaltlichen Änderungen._
 
 
+## Änderungen APP.3.1
 
+### Basis-Anforderungen
+
+#### APP.3.1.A1
+
+#### APP.3.1.A2
+
+#### APP.3.1.A3
+
+#### APP.3.1.A4
+
+#### APP.3.1.A5
+
+#### APP.3.1.A6
+
+#### APP.3.1.A7
+
+#### APP.3.1.A8
+
+#### APP.3.1.A9
+
+#### APP.3.1.A10
+
+#### APP.3.1.A11
+
+#### APP.3.1.A12
+
+#### APP.3.1.A13
+
+#### APP.3.1.A14
+
+#### APP.3.1.A15
+
+#### APP.3.1.A16
+
+#### APP.3.1.A17
+
+#### APP.3.1.A18
+
+#### APP.3.1.A19
+
+#### APP.3.1.A20
+
+#### APP.3.1.A21
+
+#### APP.3.1.A22
+
+#### APP.3.1.A23
+
+#### APP.3.1.A24
+
+#### APP.3.1.A25
 
 
 
