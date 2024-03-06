@@ -1,6 +1,5 @@
 3.1 Basis-Anforderungen
 
-
 APP.3.3.A1 Geeignete Aufstellung [Haustechnik]
 Fileserver DÜRFEN NICHT in Büroräumen oder als Arbeitsplatzrechner betrieben werden.
 Sie MÜSSEN an Orten aufgestellt werden, zu denen nur berechtigte Personen Zutritt haben.
@@ -21,7 +20,8 @@ In einem RAID SOLLTEN Hotspare-Festplatten vorgehalten werden.
 
 APP.3.3.A3 Einsatz von Antiviren-Programmen
 Je nach Betriebssystem und anderen vorhandenen Schutzmechanismen MUSS der Fileserver in das Konzept zum Schutz vor Schadprogrammen der Institution einbezogen werden.
-Das eingesetzte Antiviren-Programm MUSS die über den Fileserver freigegebenen Dateien regelmäßig überprüfen. Neben Echtzeit- und On-Demand-Scans MUSS die eingesetzte Lösung auch komprimierte Dateien nach Schadprogrammen durchsuchen können.
+Das eingesetzte Antiviren-Programm MUSS die über den Fileserver freigegebenen Dateien regelmäßig überprüfen.
+Neben Echtzeit- und On-Demand-Scans MUSS die eingesetzte Lösung auch komprimierte Dateien nach Schadprogrammen durchsuchen können.
 Darüber hinaus SOLLTE sie auch verschlüsselte Dateien prüfen können.
 Alle Daten MÜSSEN durch die Antiviren-Lösung auf Schadsoftware untersucht werden, bevor sie auf dem Speichermedium abgelegt werden.
 Sowohl die Virensignaturen als auch die Antiviren-Software selbst MÜSSEN laufend aktualisiert werden.
@@ -39,7 +39,7 @@ Zugriffsrechte auf die vom Fileserver verwalteten Dateien MÜSSEN restriktiv ver
 Es MUSS sichergestellt sein, dass jeder Benutzer nur auf die Daten zugreifen kann, die er benötigt, um seine Aufgaben zu erfüllen.
 Systemverzeichnisse und -dateien DÜRFEN NICHT für unbefugte Benutzer freigegeben werden.
 Es MUSS regelmäßig überprüft werden, ob die Zugriffsberechtigungen noch aktuell sind und der Sicherheitsrichtlinie entsprechen.
-Zudem MUSS es einen definierten Prozess geben, um Berechtigungen neu einzurichten, zu ändern oder zu entziehen. 
+Zudem MUSS es einen definierten Prozess geben, um Berechtigungen neu einzurichten, zu ändern oder zu entziehen.
 Alle Zugriffsrechte MÜSSEN nachvollziehbar dokumentiert werden.
 
 3.2 Standard-Anforderungen
@@ -60,7 +60,8 @@ Für Hochverfügbarkeitslösungen SOLLTEN verteilte Dateisysteme verwendet werde
 APP.3.3.A8 Strukturierte Datenhaltung [Benutzer]
 Es SOLLTE eine Struktur festgelegt werden, nach der Daten abzulegen sind.
 Benutzer SOLLTEN regelmäßig über die geforderte strukturierte Datenhaltung informiert werden.
-Es SOLLTE schriftlich festgelegt werden, welche Daten lokal und welche auf dem Fileserver gespeichert werden dürfen. Programm- und Arbeitsdaten SOLLTEN getrennt gespeichert werden.
+Es SOLLTE schriftlich festgelegt werden, welche Daten lokal und welche auf dem Fileserver gespeichert werden dürfen.
+Programm- und Arbeitsdaten SOLLTEN getrennt gespeichert werden.
 Es SOLLTE regelmäßig überprüft werden, ob die Vorgaben zur strukturierten Datenhaltung eingehalten werden.
 
 APP.3.3.A9 Sicheres Speichermanagement
