@@ -46,7 +46,8 @@ APP.3.4.A6 Sichere Konfiguration von Winbind unter Samba
 Der Einsatz von Winbind SOLLTE sorgfältig geplant und geregelt werden.
 Für jeden Windows-Domänenbenutzer SOLLTE im Betriebssystem des Servers ein Benutzerkonto mit allen Gruppenmitgliedschaften vorhanden sein.
 Falls das nicht möglich ist, SOLLTE Winbind eingesetzt werden.
-Dabei SOLLTE Winbind Domänen-Benutzernamen in eindeutige Linux-Benutzernamen umsetzen. Hierbei SOLLTE beachtet werden, dass Kollisionen zwischen lokalen Linux-Benutzern und Domänen-Benutzern verhindert werden.
+Dabei SOLLTE Winbind Domänen-Benutzernamen in eindeutige Linux-Benutzernamen umsetzen.
+Hierbei SOLLTE beachtet werden, dass Kollisionen zwischen lokalen Linux-Benutzern und Domänen-Benutzern verhindert werden.
 Des Weiteren SOLLTEN die PAM (Pluggable Authentication Modules) eingebunden werden.
 
 APP.3.4.A7 Sichere Konfiguration von DNS unter Samba
