@@ -2452,55 +2452,150 @@ _Keine inhaltlichen Änderungen._
 ### Basis-Anforderungen
 
 #### APP.3.1.A1
+_Änderung:_\
+Der IT-Betrieb und die Entwickler von Webanwendungen MÜSSEN sicherstellen, dass sich Benutzer gegenüber der Anwendung geeignet authentisieren, wenn diese auf geschützte Ressourcen zugreifen wollen.
+
+_Änderung:_\
+Die Zugangsdaten MÜSSEN angemessen geschützt werden.
+
+_Entfallen:_\
+Um sicherzugehen, dass eine gültige Sitzung (Session-ID) nicht von einem Angreifer übernommen wurde, MÜSSEN sich bei kritischen Funktionen die Benutzer erneut authentisieren.
 
 #### APP.3.1.A2
+_Ergänzung:_\
+(...) durch die Entwickler einer Webanwendung (...)
+
+_Entfallen:_\
+Allen Benutzern MÜSSEN restriktive Zugriffsrechte ordnungsgemäß zugewiesen werden.
+Wenn Mitarbeiter für eine Webanwendung Zugriffsrechte erhalten oder sich diese verändern, MÜSSEN die Verantwortlichen dies prüfen, bestätigen und nachvollziehbar dokumentieren.
+Die Dokumentation der vergebenen Zugriffsrechte MUSS immer auf dem aktuellen Stand sein.
+Auch MUSS es ein geregeltes Verfahren geben, um Benutzern Zugriffsrechte wieder zu entziehen.
 
 #### APP.3.1.A3
+_Ergänzung:_\
+(...) Entwickler einer Webanwendung MÜSSEN sicherstellen (...)
 
 #### APP.3.1.A4
+_Ergänzung:_\
+(...) durch den IT-Betrieb (...)
+
+_Ergänzung:_\
+(...) Die Entwickler MÜSSEN sicherstellen, (...)
 
 #### APP.3.1.A5
+_Ergänzung:_\
+(...) Entwickler MÜSSEN sicherstellen, (...)
 
-#### APP.3.1.A6
+_Änderung:_\
+Die sicherheitsrelevanten Protokollierungsdaten MÜSSEN regelmäßig durch den IT-Betrieb ausgewertet werden.
+
+_Entfallen:_\
+Bei der Protokollierung und beim Umgang mit den Protokollierungsdaten MÜSSEN die gesetzlichen Vorgaben eingehalten werden.
+
+#### ENTFALLEN: APP.3.1.A6
+_Diese Anforderung ist entfallen._
 
 #### APP.3.1.A7
+_Ergänzung:_\
+(...) Die Entwickler einer Webanwendung und deren Betreiber MÜSSEN sicherstellen, (...)
+
+#### APP.3.1.A14 (Aktualisiert: Basis-Anforderung)
+Entwickler MÜSSEN sicherstellen, dass die Daten vom Client zum Server nur mit der HTTP-Post-Methode übertragen werden.
+Entwickler MÜSSEN sicherstellen, dass die Webanwendung durch Direktiven gewährleistet, dass clientseitig keine schützenswerten Daten zwischengespeichert werden.
+Weiterhin MÜSSEN Entwickler sicherstellen, dass in Formularen keine vertraulichen Formulardaten im Klartext angezeigt werden.
+Die Webanwendung SOLLTE verhindern, dass vertrauliche Daten vom Webbrowser unerwartet gespeichert werden.
+Zugangsdaten der Webanwendung MÜSSEN serverseitig mithilfe von sicheren kryptografischen Algorithmen vor unbefugtem Zugriff geschützt werden (Salted Hash).
+Ebenso MÜSSEN die Dateien mit den Quelltexten der Webanwendung vor unerlaubten Abrufen geschützt werden.
+
+#### APP.3.1.A16 (Aktualisiert: Basis-Anforderung)
+Alle an eine Webanwendung übergebenen Daten MÜSSEN von den Entwicklern als potenziell gefährlich behandelt und geeignet gefiltert werden.
+Alle Eingabedaten sowie Datenströme und Sekundärdaten wie z. B. Session-IDs MÜSSEN validiert werden.
+Serverseitig SOLLTEN die Daten auf einem vertrauenswürdigen IT-System geprüft werden.
+Fehleingaben SOLLTEN möglichst nicht automatisch behandelt werden (Sanitizing).
+Lässt es sich jedoch nicht vermeiden, MUSS Sanitizing sicher umgesetzt werden.
+Ausgabedaten MÜSSEN so kodiert werden, dass schadhafter Code auf dem Zielsystem nicht interpretiert oder ausgeführt wird.
+
+#### APP.3.1.A19 (Aktualisiert: Basis-Anforderung)
+Werden Daten an ein Datenbank-System weitergeleitet, MÜSSEN die Entwickler Stored Procedures bzw. Prepared SQL Statements einsetzen, wenn dies von der Einsatzumgebung unterstützt wird.
+Wenn weder Stored Procedures noch Prepared SQL Statements eingesetzt werden können, MÜSSEN die SQL-Queries separat abgesichert werden.
+
+### Standard-Anforderungen
 
 #### APP.3.1.A8
+_Ergänzung:_\
+(...) der Beschaffer (...)
+
+_Änderung:_\
+In der Systemarchitektur SOLLTE der IT-Betrieb vorsehen, dass die Serverdienste durch jeweils separate IT-Systeme voneinander getrennt sind.
+
+_Entfallen:_\
+Die Netzarchitektur SOLLTE einen mehrschichtigen Ansatz verfolgen (Multi-Tier-Architektur).
+Dabei SOLLTEN mindestens die Sicherheitszonen Webschicht, Anwendungsschicht und Datenschicht berücksichtigt werden.
+Aus diesen Zonen SOLLTE NICHT auf Systeme im Intranet zugegriffen werden können.
 
 #### APP.3.1.A9
 
-#### APP.3.1.A10
+#### APP.3.1.A10 ENTFALLEN
+_Diese Anforderung ist entfallen._
 
 #### APP.3.1.A11
+_Entfallen:_\
+Der Datenverkehr zwischen den Benutzern und der Webanwendung bzw. den Anwendungen und weiteren Diensten sowie den Hintergrundsystemen SOLLTE durch Sicherheitsgateways reglementiert werden.
+
+_Entfallen:_\
+Beim Einsatz eines Enterprise Service Bus (ESB) muss sichergestellt werden, dass sich alle Dienste gegenüber dem ESB authentisieren, bevor ihnen ein Zugriff erlaubt wird.
+
+_Änderung:_\
+Beim Einsatz eines Enterprise Service Bus (ESB) SOLLTE ein eigenes logisches Netzsegment für den ESB vorhanden sein.
 
 #### APP.3.1.A12
+_Keine inhaltlichen Änderungen._
 
 #### APP.3.1.A13
-
-#### APP.3.1.A14
+_Entfallen:_\
+Dazu SOLLTE sichergestellt werden,dass:
+• nur neutrale Fehlermeldungen ausgegeben werden,
+• keine sicherheitsrelevanten Kommentare oder Produkt- und Versionsangaben preisgegeben werden,
+• nur eingeschränkt auf sicherheitsrelevante Dokumentation zugegriffen werden kann
+• nicht benötigte Dateien regelmäßig gelöscht werden,
+• externe Suchmaschinen die Webanwendung geeignet erfassen sowie
+• auf absolute lokale Pfadangaben verzichtet wird.
+Die Webanwendung SOLLTE NICHT aus unsicheren Netzen administriert werden.
+Administrationszugänge SOLLTEN auf vertrauenswürdige separate Netzsegmente und IT-Systeme beschränkt werden.
 
 #### APP.3.1.A15
-
-#### APP.3.1.A16
+_Ergänzung:_\
+Falls dies nicht möglich ist, SOLLTE die Anwendung auf andere geeignete Weise sicherstellen, dass sich der Benutzer authentisiert.
 
 #### APP.3.1.A17
+_Keine inhaltlichen Änderungen._
 
-#### APP.3.1.A18
-
-#### APP.3.1.A19
-
-#### APP.3.1.A20
+#### APP.3.1.A18 ENTFALLEN
+_Diese Anforderung ist entfallen._
 
 #### APP.3.1.A21
+_Änderung:_\
+Zum Schutz vor Clickjacking, Cross-Site-Scripting und anderen Angriffen SOLLTEN die Entwickler sowie der IT-Betrieb geeignete HTTP-Response-Header setzen.
+Dazu SOLLTEN mindestens die folgenden Direktiven verwendet werden: Content-Security-Policy, möglicherweise X-FRAME-OPTIONS, Strict-Transport-Security, X-XSS-Protection, Content-Type, X-Content-Type-Options sowie Cache-Control.
+Cookies SOLLTEN grundsätzlich mit den Attributen secure und httponly gesetzt werden.
 
 #### APP.3.1.A22
+_Keine inhaltlichen Änderungen._
 
 #### APP.3.1.A23
+_Änderung:_\
+Die Entwickler einer Webanwendung SOLLTEN diese mit Sicherheitsmechanismen ausstatten (...)
+
+### Anforderungen bei erhöhtem Schutzbedarf
 
 #### APP.3.1.A24
+_Entfallen:_\
+SOAP-Nachrichten SOLLTEN anhand eines entsprechenden XML-Schemas validiert werden.
+Bei kritischen Diensten und Anwendungen SOLLTE geprüft werden, ob eine Zusammenarbeit mit DDoS-Mitigation-Dienstleistern sinnvoll ist.
 
-#### APP.3.1.A25
-
+#### NEU: APP.3.1.A25
+APP.3.1.A25 Kryptografische Sicherung vertraulicher Daten [Entwickler] (H)
+Entwickler und Betreiber einer Webanwendung SOLLTEN sicherstellen, dass vertrauliche Daten einer Webanwendung durch sichere, kryptografische Algorithmen geschützt werden.
 
 
 
@@ -2514,6 +2609,7 @@ _Entfallen:_\
 _Änderung:_\
 (...)  (...)
 _Ergänzung:_\
+(...)  (...)
 
 _Geändert:_\
 ~~~~\
