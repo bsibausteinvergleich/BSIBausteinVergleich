@@ -2649,22 +2649,45 @@ _Keine inhaltlichen Änderungen._
 _Keine inhaltlichen Änderungen._
 
 #### APP.3.2.A10
+_Entfallen:_\
+Bei allen angebotenen Produkten SOLLTE die Basisinstallation sicher gestaltet werden.
+Der Dienstleister SOLLTE seine Kunden über die Risiken von zusätzlichen Anwendungen und Erweiterungen (Plug-ins) informieren.
+Darüber hinaus SOLLTE er sich dazu verpflichten, regelmäßig auf vorhandene Updates der genutzten Programme hinzuweisen.
 
 #### APP.3.2.A12
+_Änderung:_\
+Aus den HTTP-Informationen und den angezeigten Fehlermeldungen SOLLTEN weder der Name noch die verwendete Version des Webservers ersichtlich sein.
+Fehlermeldungen SOLLTEN keine Details zu Systeminformationen oder Konfigurationen ausgeben.
+Der IT-Betrieb SOLLTE sicherstellen, dass der Webserver ausschließlich allgemeine Fehlermeldungen ausgibt, die den Benutzer darauf hinweisen, dass ein Fehler aufgetreten ist.
+Die Fehlermeldung SOLLTE ein eindeutiges Merkmal enthalten, das es Administratoren ermöglicht, den Fehler nachzuvollziehen.
+Bei unerwarteten Fehlern SOLLTE sichergestellt sein, dass der Webserver nicht in einem Zustand verbleibt, in dem er anfällig für Angriffe ist.
 
 #### APP.3.2.A13
+_Keine inhaltlichen Änderungen._
 
 #### APP.3.2.A14
-
-#### APP.3.2.A15
+_Keine inhaltlichen Änderungen._
 
 #### APP.3.2.A16
+_Keine inhaltlichen Änderungen._
+
+#### NEU: APP.3.2.A20
+APP.3.2.A20 Benennung von Ansprechpartnern [Fachverantwortliche, Leiter IT] (S)\
+Bei umfangreichen Webangeboten SOLLTE die Institution einen Ansprechpartner für die Webangebote bestimmen.
+Es SOLLTEN Prozesse, Vorgehensweisen und Verantwortliche für Probleme oder Sicherheitsvorfälle benannt werden.
+Die Institution SOLLTE eine Kontaktmöglichkeit auf ihrer Webseite veröffentlichen, über die Externe Sicherheitsprobleme an die Institution melden können.
+Für die Behandlung von externen Sicherheitsmeldungen SOLLTE die Institution Prozesse definieren.
+
+### Anforderungen bei erhöhtem Schutzbedarf
 
 #### APP.3.2.A17
+_Keine inhaltlichen Änderungen._
 
 #### APP.3.2.A18
+_Keine inhaltlichen Änderungen._
 
-#### APP.3.2.A19
+#### APP.3.2.A19 ENTFALLEN
+_Diese Anforderung ist entfallen._
 
 
 
