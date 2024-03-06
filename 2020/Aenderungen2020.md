@@ -2844,48 +2844,74 @@ _Keine inhaltlichen Änderungen._
 ### Basis-Anforderungen
 
 #### APP.3.6.A1
+_Keine inhaltlichen Änderungen._
 
 #### APP.3.6.A2
+_Keine inhaltlichen Änderungen._
 
 #### APP.3.6.A3
+_Keine inhaltlichen Änderungen._
 
 #### APP.3.6.A4
+_Keine inhaltlichen Änderungen._
 
-#### APP.3.6.A5
+#### APP.3.6.A5 ENTFALLEN
+_Diese Anforderung ist entfallen._
 
 #### APP.3.6.A6
+_Keine inhaltlichen Änderungen._
 
 #### APP.3.6.A7
+_Keine inhaltlichen Änderungen._
 
 #### APP.3.6.A8
+_Keine inhaltlichen Änderungen._
 
 #### APP.3.6.A9
+_Keine inhaltlichen Änderungen._
+
+### Standard-Anforderungen
 
 #### APP.3.6.A10
+_Keine inhaltlichen Änderungen._
 
 #### APP.3.6.A11
+_Keine inhaltlichen Änderungen._
 
 #### APP.3.6.A12
+_Keine inhaltlichen Änderungen._
 
 #### APP.3.6.A13
+_Keine inhaltlichen Änderungen._
 
 #### APP.3.6.A14
+_Keine inhaltlichen Änderungen._
 
 #### APP.3.6.A15
+_Keine inhaltlichen Änderungen._
 
 #### APP.3.6.A16
+_Keine inhaltlichen Änderungen._
 
 #### APP.3.6.A17
+_Keine inhaltlichen Änderungen._
 
 #### APP.3.6.A18
+_Keine inhaltlichen Änderungen._
 
 #### APP.3.6.A19
+_Keine inhaltlichen Änderungen._
+
+### Anforderungen bei erhöhtem Schutzbedarf
 
 #### APP.3.6.A20
+_Keine inhaltlichen Änderungen._
 
 #### APP.3.6.A21
+_Keine inhaltlichen Änderungen._
 
 #### APP.3.6.A22
+_Keine inhaltlichen Änderungen._
 
 
 
