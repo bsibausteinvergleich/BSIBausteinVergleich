@@ -42,9 +42,8 @@ Es MUSS regelmäßig überprüft werden, ob die Zugriffsberechtigungen noch aktu
 Zudem MUSS es einen definierten Prozess geben, um Berechtigungen neu einzurichten, zu ändern oder zu entziehen.
 Alle Zugriffsrechte MÜSSEN nachvollziehbar dokumentiert werden.
 
+
 3.2 Standard-Anforderungen
-Gemeinsam mit den Basis-Anforderungen entsprechen die folgenden Anforderungen dem Stand der Technik für den Baustein APP.3.3 Fileserver.
-Sie SOLLTEN grundsätzlich umgesetzt werden.
 
 APP.3.3.A6 Beschaffung eines Fileservers
 Bevor ein Fileserver beschafft wird, SOLLTE eine Anforderungsliste erstellt werden, anhand derer die am Markt erhältlichen Produkte bewertet werden.
