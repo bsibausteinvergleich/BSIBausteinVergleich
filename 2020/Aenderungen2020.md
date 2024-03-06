@@ -2774,6 +2774,45 @@ _Änderung:_\
 Daten SOLLTEN zudem zwischen unabhängigen Fileservern repliziert werden, die sich zudem an unabhängigen Standorten befinden.
 
 
+## Änderungen APP.3.4
+
+### Basis-Anforderungen
+
+#### APP.3.4.A1
+
+#### APP.3.4.A2
+
+
+#### APP.3.4.A3
+
+
+#### APP.3.4.A4
+
+#### APP.3.4.A5
+
+#### APP.3.4.A6
+
+#### APP.3.4.A7
+
+#### APP.3.4.A8
+
+#### APP.3.4.A9
+
+#### APP.3.4.A10
+
+#### APP.3.4.A11
+
+#### APP.3.4.A12
+
+#### APP.3.4.A13
+
+#### APP.3.4.A14
+
+#### APP.3.4.A15
+
+
+
+
 
 ////////////////
 Formatierungshilfen:
