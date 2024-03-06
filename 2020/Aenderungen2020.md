@@ -2400,6 +2400,37 @@ _Keine inhaltlichen Änderungen._
 _Keine inhaltlichen Änderungen._
 
 
+## Änderungen APP.2.3
+
+### Basis-Anforderungen
+
+#### APP.2.3.A1
+
+#### APP.2.3.A2
+
+#### APP.2.3.A3
+
+#### APP.2.3.A4
+
+#### APP.2.3.A5
+
+#### APP.2.3.A6
+
+#### APP.2.3.A7
+
+#### APP.2.3.A8
+
+#### APP.2.3.A9
+
+#### APP.2.3.A10
+
+#### APP.2.3.A11
+
+#### APP.2.3.A12
+
+#### APP.2.3.A13
+
+
 
 
 
