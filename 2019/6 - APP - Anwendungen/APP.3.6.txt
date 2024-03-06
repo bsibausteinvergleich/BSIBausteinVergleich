@@ -1,7 +1,5 @@
 3.1 Basis-Anforderungen
 
- 
-
 APP.3.6.A1 Planung des DNS-Einsatzes
 Da eine funktionierende Namensauflösung eine Grundvoraussetzung für viele Anwendungen und damit für einen reibungslosen Betrieb ist, MÜSSEN DNS-Server sorgfältig geplant werden.
 Dabei MUSS zunächst festgelegt werden, wie der Netzdienst DNS aufgebaut werden soll und welche Domain-Informationen schützenswert sind.
