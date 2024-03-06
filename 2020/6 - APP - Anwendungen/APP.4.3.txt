@@ -1,121 +1,195 @@
 3.1 Basis-Anforderungen
-Die folgenden Anforderungen MÜSSEN für den Baustein APP.4.3 Relationale Datenbanksysteme vorrangig erfüllt
-werden:
+
 APP.4.3.A1 Erstellung einer Sicherheitsrichtlinie für Datenbanksysteme (B)
-Ausgehend von der allgemeinen Sicherheitsrichtlinie der Institution MUSS eine spezifische Sicherheitsrichtlinie für
-Datenbanksysteme erstellt werden. Darin MÜSSEN nachvollziehbar Anforderungen und Vorgaben beschrieben
-sein, wie Datenbanksysteme sicher betrieben werden sollen. Die Richtlinie MUSS allen im Bereich Datenbanksysteme verantwortlichen Mitarbeitern bekannt sein. Sie MUSS grundlegend für ihre Arbeit sein. Wird die Richtlinie
-verändert oder wird von den Anforderungen abgewichen, MUSS dies mit dem ISB abgestimmt und dokumentiert
-werden. Es MUSS regelmäßig überprüft werden, ob die Richtlinie noch korrekt umgesetzt ist. Die Ergebnisse MÜSSEN sinnvoll dokumentiert werden.
+Ausgehend von der allgemeinen Sicherheitsrichtlinie der Institution MUSS eine spezifische Sicherheitsrichtlinie für Datenbanksysteme erstellt werden.
+Darin MÜSSEN nachvollziehbar Anforderungen und Vorgaben beschrieben sein, wie Datenbanksysteme sicher betrieben werden sollen.
+Die Richtlinie MUSS allen im Bereich Datenbanksysteme verantwortlichen Mitarbeitern bekannt sein.
+Sie MUSS grundlegend für ihre Arbeit sein.
+Wird die Richtlinie verändert oder wird von den Anforderungen abgewichen, MUSS dies mit dem ISB abgestimmt und dokumentiert werden.
+Es MUSS regelmäßig überprüft werden, ob die Richtlinie noch korrekt umgesetzt ist.
+Die
+Ergebnisse MÜSSEN sinnvoll dokumentiert werden.
+
 APP.4.3.A2 Installation des Datenbankmanagementsystems (B)
 Es MUSS sichergestellt sein, dass die Installationspakete des Datenbankmanagementsystems aus sicheren Quellen
-stammen. Bereits veröffentlichte Patches MÜSSEN eingespielt werden, bevor das DBMS betrieben wird.
-IT-Grundschutz-Kompendium: Stand Februar 2020 3
-APP.4: Business-Anwendungen APP.4.3
+stammen.
+Bereits veröffentlichte Patches MÜSSEN eingespielt werden, bevor das DBMS betrieben wird.
+
+
 APP.4.3.A3 Basishärtung des Datenbankmanagementsystems (B)
-Das Datenbankmanagementsystem MUSS gehärtet werden. Hierfür MUSS eine Checkliste mit den durchzuführenden Schritten zusammengestellt und abgearbeitet werden. Auch MÜSSEN alle Passwörter entsprechend den internen Anforderungen der Institution geändert werden. Alle Passwörter MÜSSEN verschlüsselt gespeichert werden.
+Das Datenbankmanagementsystem MUSS gehärtet werden.
+Hierfür MUSS eine Checkliste mit den durchzuführenden Schritten zusammengestellt und abgearbeitet werden.
+Auch MÜSSEN alle Passwörter entsprechend den internen Anforderungen der Institution geändert werden. Alle Passwörter MÜSSEN verschlüsselt gespeichert werden.
 Die Basishärtung MUSS regelmäßig überprüft und, falls erforderlich, angepasst werden.
+
 APP.4.3.A4 Geregeltes Anlegen neuer Datenbanken (B)
-Neue Datenbanken MÜSSEN nach einem definierten Prozess angelegt werden. Wenn eine neue Datenbank angelegt wird, MÜSSEN Grundinformationen zur Datenbank nachvollziehbar dokumentiert werden.
+Neue Datenbanken MÜSSEN nach einem definierten Prozess angelegt werden.
+Wenn eine neue Datenbank angelegt wird, MÜSSEN Grundinformationen zur Datenbank nachvollziehbar dokumentiert werden.
+
 APP.4.3.A5 Benutzer- und Berechtigungskonzept (B)
 Das Benutzer- und Berechtigungskonzept der Institution MUSS um die für Datenbankmanagementsysteme notwendigen Berechtigungen für Rollen, Profile und Benutzergruppen erweitert werden (siehe ORP.4 Identitäts- und
 Berechtigungsmanagement).
 Es MUSS ein Prozess etabliert werden, der regelt, wie Datenbankbenutzer und deren Berechtigungen angelegt,
-genehmigt, eingerichtet, modifiziert und wieder entzogen bzw. gelöscht werden. Dabei DÜRFEN immer NUR so
+genehmigt, eingerichtet, modifiziert und wieder entzogen bzw. gelöscht werden.
+Dabei DÜRFEN immer NUR so
 viele Zugriffsrechte vergeben werden, wie für die jeweiligen Aufgaben erforderlich sind (Need-to-know-Prinzip).
-Alle Änderungen SOLLTEN dokumentiert werden. Die eingerichteten Benutzer und die ihnen zugeordneten Berechtigungen MÜSSEN regelmäßig überprüft und, falls erforderlich, angepasst werden.
+Alle Änderungen SOLLTEN dokumentiert werden.
+Die eingerichteten Benutzer und die ihnen zugeordneten Berechtigungen MÜSSEN regelmäßig überprüft und, falls erforderlich, angepasst werden.
+
 APP.4.3.A6 Passwortänderung [Fachverantwortliche] (B)
 Alle Passwörter der Datenbankbenutzer MÜSSEN der Passwortrichtlinie der Institution entsprechen (siehe ORP.4
-Identitäts- und Berechtigungsmanagement). Es MUSS gewährleistet sein, dass die Passwörter beim geringsten Verdacht eines Sicherheitsvorfalles geändert werden. Insbesondere bei privilegierten Datenbankaccounts und Dienstkonten SOLLTE ein Passwortwechsel sorgfältig geplant und gegebenenfalls mit den Anwendungsverantwortlichen
+Identitäts- und Berechtigungsmanagement).
+Es MUSS gewährleistet sein, dass die Passwörter beim geringsten Verdacht eines Sicherheitsvorfalles geändert werden.
+Insbesondere bei privilegierten Datenbankaccounts und Dienstkonten SOLLTE ein Passwortwechsel sorgfältig geplant und gegebenenfalls mit den Anwendungsverantwortlichen
 abgestimmt werden.
+
 APP.4.3.A7 Zeitnahes Einspielen von Sicherheitsupdates (B)
 Vorhandene Sicherheitsupdates für das Datenbankmanagementsystem und das Betriebssystem MÜSSEN zeitnah
-installiert werden. Vorab MUSS auf einem Testsystem überprüft werden, ob die Sicherheitsupdates kompatibel sind
-und keine Fehler verursachen. Bevor ein Patch eingespielt wird, MUSS das Datenbanksystem gesichert werden
+installiert werden.
+Vorab MUSS auf einem Testsystem überprüft werden, ob die Sicherheitsupdates kompatibel sind
+und keine Fehler verursachen.
+Bevor ein Patch eingespielt wird, MUSS das Datenbanksystem gesichert werden
 (siehe APP.4.3.A9 Datensicherung eines Datenbanksystems).
 Zusätzlich MUSS eine verantwortliche Rolle definiert werden, die sich regelmäßig über bekannte Sicherheitslücken
-des Datenbankmanagementsystems sowie über verfügbare Sicherheitsupdates informiert. Des Weiteren MUSS geprüft werden, ob die Update-Intervalle des Datenbankmanagementsystems auf die Update-Zyklen des Herstellers
-abgestimmt werden können. Das Ergebnis SOLLTE nachvollziehbar dokumentiert werden.
+des Datenbankmanagementsystems sowie über verfügbare Sicherheitsupdates informiert.
+Des Weiteren MUSS geprüft werden, ob die Update-Intervalle des Datenbankmanagementsystems auf die Update-Zyklen des Herstellers
+abgestimmt werden können.
+Das Ergebnis SOLLTE nachvollziehbar dokumentiert werden.
+
 APP.4.3.A8 Datenbank-Protokollierung (B)
 Sicherheitsrelevante Ereignisse des Datenbanksystems MÜSSEN mit einem eindeutigen Zeitstempel protokolliert
-werden. Dabei MÜSSEN sich Art und Umfang der Protokollierung am Schutzbedarf der zu verarbeitenden Informationen orientieren. Zusätzlich MUSS geprüft werden, ob die Protokollierung der Fachanwendungen zusammen mit
-der Protokollierung der Datenbank alle erforderlichen Informationen abdeckt, um betriebs- und sicherheitsrelevante Veränderungen an der Datenbankinfrastruktur und den Anwendungen zu erkennen. Es SOLLTE so protokolliert werden, dass die Protokolldateien nicht nachträglich verändert werden können.
+werden.
+Dabei MÜSSEN sich Art und Umfang der Protokollierung am Schutzbedarf der zu verarbeitenden Informationen orientieren.
+Zusätzlich MUSS geprüft werden, ob die Protokollierung der Fachanwendungen zusammen mit
+der Protokollierung der Datenbank alle erforderlichen Informationen abdeckt, um betriebs- und sicherheitsrelevante Veränderungen an der Datenbankinfrastruktur und den Anwendungen zu erkennen.
+Es SOLLTE so protokolliert werden, dass die Protokolldateien nicht nachträglich verändert werden können.
+
 APP.4.3.A9 Datensicherung eines Datenbanksystems (B)
-Es MÜSSEN regelmäßig Systemsicherungen des DBMS und der Daten durchgeführt werden. Auch bevor eine Datenbank neu erzeugt wird, MUSS das Datenbanksystem gesichert werden. Hierfür SOLLTEN die dafür zulässigen
+Es MÜSSEN regelmäßig Systemsicherungen des DBMS und der Daten durchgeführt werden.
+Auch bevor eine Datenbank neu erzeugt wird, MUSS das Datenbanksystem gesichert werden.
+Hierfür SOLLTEN die dafür zulässigen
 Dienstprogramme benutzt werden.
-Alle Transaktionen SOLLTEN so gesichert werden, dass sie jederzeit wiederherstellbar sind. Wenn die Datensicherung die verfügbaren Kapazitäten übersteigt, SOLLTE ein erweitertes Konzept erstellt werden, um die Datenbank
-zu sichern, z. B. eine inkrementelle Sicherung. Abhängig vom Schutzbedarf der Daten SOLLTEN die Wiederherstellungsparameter vorgegeben werden (siehe CON.3 Datensicherungskonzept).
-4 IT-Grundschutz-Kompendium: Stand Februar 2020
-APP.4.3 APP.4: Business-Anwendungen
+Alle Transaktionen SOLLTEN so gesichert werden, dass sie jederzeit wiederherstellbar sind.
+Wenn die Datensicherung die verfügbaren Kapazitäten übersteigt, SOLLTE ein erweitertes Konzept erstellt werden, um die Datenbank
+zu sichern, z. B. eine inkrementelle Sicherung.
+Abhängig vom Schutzbedarf der Daten SOLLTEN die Wiederherstellungsparameter vorgegeben werden (siehe CON.3 Datensicherungskonzept).
+
+
 3.2 Standard-Anforderungen
-Gemeinsam mit den Basis-Anforderungen entsprechen die folgenden Anforderungen dem Stand der Technik für
-den Baustein APP.4.3 Relationale Datenbanksysteme. Sie SOLLTEN grundsätzlich erfüllt werden.
+
 APP.4.3.A10 Auswahl geeigneter Datenbankmanagementsysteme (S)
 Bevor Datenbankmanagementsysteme beschafft werden, SOLLTEN Anforderungen an das DBMS definiert und in
-einem Anforderungskatalog dokumentiert werden. Danach SOLLTEN alle infrage kommenden Datenbankmanagementsysteme anhand dieses Katalogs bewertet werden. Die Ergebnisse SOLLTEN dokumentiert werden.
+einem Anforderungskatalog dokumentiert werden.
+Danach SOLLTEN alle infrage kommenden Datenbankmanagementsysteme anhand dieses Katalogs bewertet werden.
+Die Ergebnisse SOLLTEN dokumentiert werden.
+
 APP.4.3.A11 Ausreichende Dimensionierung der Hardware [Leiter IT, Fachverantwortliche] (S)
-Datenbankmanagementsysteme SOLLTEN auf ausreichend dimensionierter Hardware installiert werden. Die Hardware SOLLTE über genügend Reserven verfügen, um auch eventuell steigenden Anforderungen gerecht zu werden.
+Datenbankmanagementsysteme SOLLTEN auf ausreichend dimensionierter Hardware installiert werden.
+Die Hardware SOLLTE über genügend Reserven verfügen, um auch eventuell steigenden Anforderungen gerecht zu werden.
 Zeichnen sich trotzdem während des Betriebs Ressourcenengpässe ab, SOLLTEN diese frühzeitig behoben werden.
 Wenn die Hardware dimensioniert wird, SOLLTE das erwartete Wachstum für den geplanten Einsatzzeitraum berücksichtigt werden.
+
 APP.4.3.A12 Einheitlicher Konfigurationsstandard von Datenbankmanagementsystemen [Leiter IT] (S)
 Für alle eingesetzten Datenbankmanagementsysteme SOLLTE ein einheitlicher Konfigurationsstandard definiert
-werden. Alle Datenbankmanagementsysteme SOLLTEN nach diesem Standard konfiguriert und einheitlich betrieben werden. Falls es bei einer Installation notwendig ist, vom Konfigurationsstandard abzuweichen, SOLLTEN alle
-Schritte vom ISB freigegeben und nachvollziehbar dokumentiert werden. Der Konfigurationsstandard SOLLTE regelmäßig überprüft und, falls erforderlich, angepasst werden.
+werden.
+Alle Datenbankmanagementsysteme SOLLTEN nach diesem Standard konfiguriert und einheitlich betrieben werden.
+Falls es bei einer Installation notwendig ist, vom Konfigurationsstandard abzuweichen, SOLLTEN alle
+Schritte vom ISB freigegeben und nachvollziehbar dokumentiert werden.
+Der Konfigurationsstandard SOLLTE regelmäßig überprüft und, falls erforderlich, angepasst werden.
+
 APP.4.3.A13 Restriktive Handhabung von Datenbank-Links (S)
-Es SOLLTE sichergestellt sein, dass nur Verantwortliche dazu berechtigt sind, Datenbank-Links (DB-Links) anzulegen. Werden solche Links angelegt, MÜSSEN so genannte Private DB-Links vor Public DB-Links bevorzugt angelegt
-werden. Alle von den Verantwortlichen angelegten DB-Links SOLLTEN dokumentiert und regelmäßig überprüft
-werden. Zudem SOLLTEN DB-Links mitberücksichtigt werden, wenn das Datenbanksystem gesichert wird (siehe
+Es SOLLTE sichergestellt sein, dass nur Verantwortliche dazu berechtigt sind, Datenbank-Links (DB-Links) anzulegen.
+Werden solche Links angelegt, MÜSSEN so genannte Private DB-Links vor Public DB-Links bevorzugt angelegt
+werden.
+Alle von den Verantwortlichen angelegten DB-Links SOLLTEN dokumentiert und regelmäßig überprüft
+werden.
+Zudem SOLLTEN DB-Links mitberücksichtigt werden, wenn das Datenbanksystem gesichert wird (siehe
 APP.4.3.A9 Datensicherung eines Datenbanksystems).
+
 APP.4.3.A14 Überprüfung der Datensicherung eines Datenbanksystems (S)
-Die vorgenommenen Datensicherungen SOLLTEN regelmäßig daraufhin überprüft werden, ob die Integrität der Sicherungsdateien noch gewährleistet ist. Die verantwortlichen Mitarbeiter SOLLTEN zudem regelmäßig üben, wie
+Die vorgenommenen Datensicherungen SOLLTEN regelmäßig daraufhin überprüft werden, ob die Integrität der Sicherungsdateien noch gewährleistet ist.
+Die verantwortlichen Mitarbeiter SOLLTEN zudem regelmäßig üben, wie
 sich Datenbanken im Notfall schnell wiederherstellen lassen.
+
 APP.4.3.A15 Schulung der Datenbankadministratoren [Vorgesetzte, Leiter IT] (S)
-Es SOLLTE gewährleistet sein, dass nur ausreichend geschulte Mitarbeiter das Datenbankmanagementsystem administrieren. Es SOLLTE ein Schulungsplan erstellt werden, mit dem sichergestellt wird, dass Datenbankverantwortliche rechtzeitig zu Themen der Informationssicherheit und Performance sowie zu den Funktionen neuer Versionen
+Es SOLLTE gewährleistet sein, dass nur ausreichend geschulte Mitarbeiter das Datenbankmanagementsystem administrieren.
+Es SOLLTE ein Schulungsplan erstellt werden, mit dem sichergestellt wird, dass Datenbankverantwortliche rechtzeitig zu Themen der Informationssicherheit und Performance sowie zu den Funktionen neuer Versionen
 des Datenbankmanagementsystems geschult werden.
+
 APP.4.3.A16 Verschlüsselung der Datenbankanbindung (S)
-Das Datenbankmanagementsystem SOLLTE so konfiguriert werden, dass Datenbankverbindungen immer verschlüsselt werden. Die dazu eingesetzten kryptografischen Verfahren und Protokolle SOLLTEN den internen Vorgaben der Institution entsprechen (siehe CON.1 Kryptokonzept).
+Das Datenbankmanagementsystem SOLLTE so konfiguriert werden, dass Datenbankverbindungen immer verschlüsselt werden.
+Die dazu eingesetzten kryptografischen Verfahren und Protokolle SOLLTEN den internen Vorgaben der Institution entsprechen (siehe CON.1 Kryptokonzept).
+
 APP.4.3.A17 Datenübernahme oder Migration [Fachverantwortliche] (S)
-Es SOLLTE vorab definiert werden, wie initial oder regelmäßig Daten in eine Datenbank übernommen werden sollen. Nachdem Daten übernommen wurden, SOLLTE geprüft werden, ob sie vollständig und unverändert sind.
+Es SOLLTE vorab definiert werden, wie initial oder regelmäßig Daten in eine Datenbank übernommen werden sollen.
+Nachdem Daten übernommen wurden, SOLLTE geprüft werden, ob sie vollständig und unverändert sind.
+
 APP.4.3.A18 Überwachung des Datenbankmanagementsystems (S)
 Es SOLLTEN Parameter, Ereignisse und Betriebszustände des Datenbankmanagementsystems definiert werden, die
-für den sicheren Betrieb kritisch sind. Diese SOLLTEN mithilfe eines Monitoring-Systems überwacht werden. Für
-IT-Grundschutz-Kompendium: Stand Februar 2020 5
-APP.4: Business-Anwendungen APP.4.3
-alle kritischen Parameter und Ereignisse SOLLTEN Schwellwerte festgelegt werden. Wenn diese Werte überschritten
-werden, MUSS geeignet reagiert werden. Es MÜSSEN z. B. die zuständigen Mitarbeiter alarmiert werden. Anwendungsspezifische Parameter, Ereignisse und deren Schwellwerte SOLLTEN mit den Verantwortlichen für die Fachanwendungen abgestimmt werden (siehe auch APP.4.3.A11 Ausreichende Dimensionierung der Hardware).
+für den sicheren Betrieb kritisch sind.
+Diese SOLLTEN mithilfe eines Monitoring-Systems überwacht werden.
+Für
+alle kritischen Parameter und Ereignisse SOLLTEN Schwellwerte festgelegt werden.
+Wenn diese Werte überschritten
+werden, MUSS geeignet reagiert werden.
+Es MÜSSEN z. B. die zuständigen Mitarbeiter alarmiert werden.
+Anwendungsspezifische Parameter, Ereignisse und deren Schwellwerte SOLLTEN mit den Verantwortlichen für die Fachanwendungen abgestimmt werden (siehe auch APP.4.3.A11 Ausreichende Dimensionierung der Hardware).
+
 APP.4.3.A19 Schutz vor schädlichen Datenbank-Skripten [Entwickler] (S)
 Werden Datenbank-Skripte entwickelt, SOLLTEN dafür verpflichtende Qualitätskriterien definiert werden (siehe
-CON.8 Software-Entwicklung). Datenbank-Skripte SOLLTEN ausführlichen Funktionstests auf gesonderten Testsystemen unterzogen werden, bevor sie produktiv eingesetzt werden. Die Ergebnisse SOLLTEN dokumentiert werden.
+CON.8 Software-Entwicklung).
+Datenbank-Skripte SOLLTEN ausführlichen Funktionstests auf gesonderten Testsystemen unterzogen werden, bevor sie produktiv eingesetzt werden.
+Die Ergebnisse SOLLTEN dokumentiert werden.
+
 APP.4.3.A20 Regelmäßige Audits (S)
-Bei allen Komponenten des Datenbanksystems SOLLTE regelmäßig überprüft werden, ob alle festgelegten Sicherheitsmaßnahmen umgesetzt und diese korrekt konfiguriert sind. Dabei SOLLTE geprüft werden, ob der dokumentierte Stand dem Ist-Zustand entspricht und ob die Konfiguration des Datenbankmanagementsystems der dokumentierten Standardkonfiguration entspricht. Zudem SOLLTE geprüft werden, ob alle Datenbank-Skripte benötigt
-werden und ob sie dem Qualitätsstandard der Institution genügen. Zusätzlich SOLLTEN die Protokolldateien des
+Bei allen Komponenten des Datenbanksystems SOLLTE regelmäßig überprüft werden, ob alle festgelegten Sicherheitsmaßnahmen umgesetzt und diese korrekt konfiguriert sind.
+Dabei SOLLTE geprüft werden, ob der dokumentierte Stand dem Ist-Zustand entspricht und ob die Konfiguration des Datenbankmanagementsystems der dokumentierten Standardkonfiguration entspricht.
+Zudem SOLLTE geprüft werden, ob alle Datenbank-Skripte benötigt
+werden und ob sie dem Qualitätsstandard der Institution genügen.
+Zusätzlich SOLLTEN die Protokolldateien des
 Datenbanksystems und des Betriebssystems nach Auffälligkeiten untersucht werden (siehe DER.1 Detektion von
-sicherheitsrelevanten Ereignissen). Die Auditergebnisse SOLLTEN nachvollziehbar dokumentiert und mit dem SollZustand abgeglichen werden. Abweichungen SOLLTE nachgegangen werden.
+sicherheitsrelevanten Ereignissen).
+Die Auditergebnisse SOLLTEN nachvollziehbar dokumentiert und mit dem SollZustand abgeglichen werden.
+Abweichungen SOLLTE nachgegangen werden.
 3.3 Anforderungen bei erhöhtem Schutzbedarf
-Im Folgenden sind für den Baustein APP.4.3 Relationale Datenbanksysteme exemplarische Vorschläge für Anforderungen aufgeführt, die über das dem Stand der Technik entsprechende Schutzniveau hinausgehen und BEI ERHÖHTEM SCHUTZBEDARF in Betracht gezogen werden SOLLTEN. Die konkrete Festlegung erfolgt im Rahmen einer Risikoanalyse.
+Im Folgenden sind für den Baustein APP.4.3 Relationale Datenbanksysteme exemplarische Vorschläge für Anforderungen aufgeführt, die über das dem Stand der Technik entsprechende Schutzniveau hinausgehen und BEI ERHÖHTEM SCHUTZBEDARF in Betracht gezogen werden SOLLTEN.
+Die konkrete Festlegung erfolgt im Rahmen einer Risikoanalyse.
+
 APP.4.3.A21 Einsatz von Datenbank Security Tools (H)
-Es SOLLTEN Informationssicherheitsprodukte für Datenbanken eingesetzt werden. Die eingesetzten Produkte SOLLTEN folgende Funktionen bereitstellen:
+Es SOLLTEN Informationssicherheitsprodukte für Datenbanken eingesetzt werden.
+Die eingesetzten Produkte SOLLTEN folgende Funktionen bereitstellen:
 • Erstellung einer Übersicht über alle Datenbanksysteme,
 • erweiterte Konfigurationsmöglichkeiten und Rechtemanagement der Datenbanken,
 • Erkennung und Unterbindung von möglichen Angriffen (z. B. Brute Force Angriffe auf ein Benutzerkonto, SQLInjection) und
 • Auditfunktionen (z. B. Überprüfung von Konfigurationsvorgaben).
+
 APP.4.3.A22 Notfallvorsorge (H)
-Für das Datenbankmanagementsystem SOLLTE ein Notfallplan erstellt werden, der festlegt, wie ein Notbetrieb realisiert werden kann und welche Ressourcen dafür nötig sind. Zusätzlich SOLLTE der Notfallplan definieren, wie aus
-dem Notbetrieb der Regelbetrieb wiederhergestellt werden kann. Der Notfallplan SOLLTE die nötigen Meldewege,
-Reaktionswege, Ressourcen und Reaktionszeiten der Fachverantwortlichen festlegen. Auf Basis eines Koordinationsplans zum Wiederanlauf SOLLTEN alle von der Datenbank abhängigen IT-Systeme vorab ermittelt und berücksichtigt werden.
+Für das Datenbankmanagementsystem SOLLTE ein Notfallplan erstellt werden, der festlegt, wie ein Notbetrieb realisiert werden kann und welche Ressourcen dafür nötig sind.
+Zusätzlich SOLLTE der Notfallplan definieren, wie aus
+dem Notbetrieb der Regelbetrieb wiederhergestellt werden kann.
+Der Notfallplan SOLLTE die nötigen Meldewege,
+Reaktionswege, Ressourcen und Reaktionszeiten der Fachverantwortlichen festlegen.
+Auf Basis eines Koordinationsplans zum Wiederanlauf SOLLTEN alle von der Datenbank abhängigen IT-Systeme vorab ermittelt und berücksichtigt werden.
+
 APP.4.3.A23 Archivierung (H)
 Ist es erforderlich, Daten eines Datenbanksystems zu archivieren, SOLLTE ein entsprechendes Archivierungskonzept
-erstellt werden. Es SOLLTE sichergestellt sein, dass die Datenbestände zu einem späteren Zeitpunkt wieder vollständig und konsistent verfügbar sind.
-Im Archivierungskonzept SOLLTEN sowohl die Intervalle der Archivierung als auch die Vorhaltefristen der archivierten Daten festgelegt werden. Zusätzlich SOLLTE dokumentiert werden, mit welcher Technik die Datenbanken archiviert wurden. Mit den archivierten Daten SOLLTEN regelmäßig Wiederherstellungstests durchgeführt werden. Die
+erstellt werden.
+Es SOLLTE sichergestellt sein, dass die Datenbestände zu einem späteren Zeitpunkt wieder vollständig und konsistent verfügbar sind.
+Im Archivierungskonzept SOLLTEN sowohl die Intervalle der Archivierung als auch die Vorhaltefristen der archivierten Daten festgelegt werden.
+Zusätzlich SOLLTE dokumentiert werden, mit welcher Technik die Datenbanken archiviert wurden.
+Mit den archivierten Daten SOLLTEN regelmäßig Wiederherstellungstests durchgeführt werden.
+Die
 Ergebnisse SOLLTEN dokumentiert werden.
-6 IT-Grundschutz-Kompendium: Stand Februar 2020
-APP.4.3 APP.4: Business-Anwendungen
+
 APP.4.3.A24 Datenverschlüsselung in der Datenbank (H)
-Die Daten in den Datenbanken SOLLTEN verschlüsselt werden. Dabei SOLLTEN vorher unter anderem folgende Faktoren betrachtet werden:
+Die Daten in den Datenbanken SOLLTEN verschlüsselt werden.
+Dabei SOLLTEN vorher unter anderem folgende Faktoren betrachtet werden:
 • Einfluss auf die Performance,
 • Schlüsselverwaltungsprozesse und -verfahren, einschließlich separater Schlüsselaufbewahrung und -sicherung,
 • Einfluss auf Backup-Recovery-Konzepte,
 • funktionale Auswirkungen auf die Datenbank, beispielsweise Sortiermöglichkeiten.
+
 APP.4.3.A25 Sicherheitsüberprüfungen von Datenbanksystemen (H)
-Datenbanksysteme SOLLTEN regelmäßig mithilfe von Sicherheitsüberprüfungen kontrolliert werden. Bei den Sicherheitsüberprüfungen SOLLTEN die systemischen und herstellerspezifischen Aspekte der eingesetzten Datenbank-Infrastruktur (z. B. Verzeichnisdienste) sowie des eingesetzten Datenbankmanagementsystems betrachtet
+Datenbanksysteme SOLLTEN regelmäßig mithilfe von Sicherheitsüberprüfungen kontrolliert werden.
+Bei den Sicherheitsüberprüfungen SOLLTEN die systemischen und herstellerspezifischen Aspekte der eingesetzten Datenbank-Infrastruktur (z. B. Verzeichnisdienste) sowie des eingesetzten Datenbankmanagementsystems betrachtet
 werden.
