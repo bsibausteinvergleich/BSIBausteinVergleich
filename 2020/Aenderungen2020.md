@@ -2238,34 +2238,54 @@ _Keine inhaltlichen Änderungen._
 ### Basis-Anforderungen
 
 #### APP.1.4.A1
+_Änderung:_\
+(...) unter Einbeziehung der jeweiligen Fachverantwortlichen (...)
 
 #### APP.1.4.A2
+_Keine inhaltlichen Änderungen._
 
 #### APP.1.4.A3
+_Keine inhaltlichen Änderungen._
 
 #### APP.1.4.A4
+_Keine inhaltlichen Änderungen._
 
 #### APP.1.4.A5
+_Keine inhaltlichen Änderungen._
 
 #### APP.1.4.A6
+_Keine inhaltlichen Änderungen._
 
 #### APP.1.4.A7
+_Keine inhaltlichen Änderungen._
 
 #### APP.1.4.A8
+_Keine inhaltlichen Änderungen._
+
+### Standard-Anforderungen
 
 #### APP.1.4.A9
+_Keine inhaltlichen Änderungen._
 
 #### APP.1.4.A10
+_Keine inhaltlichen Änderungen._
 
 #### APP.1.4.A11
+_Keine inhaltlichen Änderungen._
 
 #### APP.1.4.A12
+_Keine inhaltlichen Änderungen._
+
+### Anforderungen bei erhöhtem Schutzbedarf
 
 #### APP.1.4.A13
+_Keine inhaltlichen Änderungen._
 
 #### APP.1.4.A14
+_Keine inhaltlichen Änderungen._
 
 #### APP.1.4.A15
+_Keine inhaltlichen Änderungen._
 
 
 
@@ -2279,7 +2299,7 @@ Formatierungshilfen:
 _Entfallen:_\
 
 _Änderung:_\
-
+(...)  (...)
 _Ergänzung:_\
 
 _Geändert:_\
