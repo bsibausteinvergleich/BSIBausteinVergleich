@@ -1,6 +1,5 @@
 3.1 Basis-Anforderungen
 
-
 APP.1.4.A1 Anforderungsanalyse für Apps [Fachverantwortliche]
 Vor der Installation und Nutzung einer App MUSS klar definiert sein, welche Geschäftsprozesse die App unterstützen und an welche IT-Komponenten der Institution sie angebunden werden soll.
 Ferner MÜSSEN Sicherheitsanforderungen für die App festgelegt werden.
