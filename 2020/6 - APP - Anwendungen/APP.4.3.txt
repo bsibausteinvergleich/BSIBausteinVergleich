@@ -52,7 +52,7 @@ Es SOLLTE so protokolliert werden, dass die Protokolldateien nicht nachträglic
 
 APP.4.3.A9 Datensicherung eines Datenbanksystems (B)
 Es MÜSSEN regelmäßig Systemsicherungen des DBMS und der Daten durchgeführt werden.
-Auch bevor eine Datenbank neu erzeugt wird, MUSS das Datenbanksystem gesichert werden.
+Auch bevor eine Datenbank neu erzeugt wird, MUSS das Datenbanksystem gesichert werden.
 Hierfür SOLLTEN die dafür zulässigen Dienstprogramme benutzt werden.
 Alle Transaktionen SOLLTEN so gesichert werden, dass sie jederzeit wiederherstellbar sind.
 Wenn die Datensicherung die verfügbaren Kapazitäten übersteigt, SOLLTE ein erweitertes Konzept erstellt werden, um die Datenbank zu sichern, z. B. eine inkrementelle Sicherung.
