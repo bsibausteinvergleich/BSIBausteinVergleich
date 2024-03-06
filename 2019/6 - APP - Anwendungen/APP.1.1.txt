@@ -82,7 +82,8 @@ Um Dokumente für Dritte zur Sichtung oder Bearbeitung freizugeben, SOLLTEN spez
 
 APP.1.1.A13 Verwendung von Viewer-Funktionen [Benutzer]
 Daten aus potenziell unsicheren Quellen wie dem Internet oder Anhänge von E-Mail-Nachrichten SOLLTEN automatisch in einem geschützten Modus geöffnet werden, in dem sie nicht unmittelbar bearbeitet werden können.
-Nur eine allgemeine Navigation SOLLTE ermöglicht werden. Diese Funktion SOLLTE NICHT durch den Benutzer deaktivierbar sein.
+Nur eine allgemeine Navigation SOLLTE ermöglicht werden.
+Diese Funktion SOLLTE NICHT durch den Benutzer deaktivierbar sein.
 Es SOLLTEN entsprechende Viewer-Anwendungen verwendet werden, wenn diese verfügbar sind.
 Es kann eine Liste vertrauenswürdiger Orte definiert werden, von denen Inhalte unmittelbar geöffnet und bearbeitet werden können.
 
