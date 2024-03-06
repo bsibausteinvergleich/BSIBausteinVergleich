@@ -1,7 +1,5 @@
 3.1 Basis-Anforderungen
 
-
-
 APP.4.3.A1 Erstellung einer Sicherheitsrichtlinie für Datenbanksysteme
 Ausgehend von der allgemeinen Sicherheitsrichtlinie der Institution MUSS eine spezifische Sicherheitsrichtlinie für Datenbanksysteme erstellt werden, in der nachvollziehbar Anforderungen und Vorgaben beschrieben sind, wie Datenbanksysteme sicher betrieben werden können.
 Die Richtlinie MUSS allen im Bereich Datenbanksysteme verantwortlichen Mitarbeitern bekannt und grundlegend für ihre Arbeit sein.
