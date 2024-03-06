@@ -3101,7 +3101,53 @@ _Keine inhaltlichen Änderungen._
 _Keine inhaltlichen Änderungen._
 
 
+## Änderungen APP.4.6
 
+### Basis-Anforderungen
+
+#### APP.4.6.A1
+
+#### APP.4.6.A2
+
+#### APP.4.6.A3
+
+#### APP.4.6.A4
+
+#### APP.4.6.A5
+
+#### APP.4.6.A6
+
+#### APP.4.6.A7
+
+#### APP.4.6.A8
+
+#### APP.4.6.A9
+
+#### APP.4.6.A10
+
+#### APP.4.6.A11
+
+#### APP.4.6.A12
+
+#### APP.4.6.A13
+
+#### APP.4.6.A14
+
+#### APP.4.6.A15
+
+#### APP.4.6.A16
+
+#### APP.4.6.A17
+
+#### APP.4.6.A18
+
+#### APP.4.6.A19
+
+#### APP.4.6.A20
+
+#### APP.4.6.A21
+
+#### APP.4.6.A22
 
 
 ////////////////
