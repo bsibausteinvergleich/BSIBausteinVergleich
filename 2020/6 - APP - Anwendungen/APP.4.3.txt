@@ -55,7 +55,7 @@ Es MÜSSEN regelmäßig Systemsicherungen des DBMS und der Daten durchgeführt w
 Auch bevor eine Datenbank neu erzeugt wird, MUSS das Datenbanksystem gesichert werden.
 Hierfür SOLLTEN die dafür zulässigen Dienstprogramme benutzt werden.
 Alle Transaktionen SOLLTEN so gesichert werden, dass sie jederzeit wiederherstellbar sind.
-Wenn die Datensicherung die verfügbaren Kapazitäten übersteigt, SOLLTE ein erweitertes Konzept erstellt werden, um die Datenbank zu sichern, z. B. eine inkrementelle Sicherung.
+Wenn die Datensicherung die verfügbaren Kapazitäten übersteigt, SOLLTE ein erweitertes Konzept erstellt werden, um die Datenbank zu sichern, z. B. eine inkrementelle Sicherung.
 Abhängig vom Schutzbedarf der Daten SOLLTEN die Wiederherstellungsparameter vorgegeben werden (siehe CON.3 Datensicherungskonzept).
 
 
