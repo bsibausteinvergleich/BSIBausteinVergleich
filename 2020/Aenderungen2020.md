@@ -2126,6 +2126,43 @@ Diese Messgrößen SOLLTEN regelmäßig ermittelt und mit geeigneten vorangegang
 _Keine inhaltlichen Änderungen._
 
 
+## Änderungen APP.1.1
+
+### Basis-Anforderungen
+
+#### APP.1.1.A1
+
+#### APP.1.1.A2
+
+#### APP.1.1.A3
+
+#### APP.1.1.A4
+
+#### APP.1.1.A5
+
+#### APP.1.1.A6
+
+#### APP.1.1.A7
+
+#### APP.1.1.A8
+
+#### APP.1.1.A9
+
+#### APP.1.1.A10
+
+#### APP.1.1.A11
+
+#### APP.1.1.A12
+
+#### APP.1.1.A13
+
+#### APP.1.1.A14
+
+#### APP.1.1.A15
+
+#### APP.1.1.A16
+
+
 
 
 
