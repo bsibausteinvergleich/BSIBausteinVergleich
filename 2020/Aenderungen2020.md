@@ -2599,6 +2599,51 @@ APP.3.1.A25 Kryptografische Sicherung vertraulicher Daten [Entwickler] (H)
 Entwickler und Betreiber einer Webanwendung SOLLTEN sicherstellen, dass vertrauliche Daten einer Webanwendung durch sichere, kryptografische Algorithmen geschützt werden.
 
 
+## Änderungen APP.3.2
+
+### Basis-Anforderungen
+
+#### APP.3.2.A1
+
+#### APP.3.2.A2
+
+#### APP.3.2.A3
+
+#### APP.3.2.A4
+
+#### APP.3.2.A5
+
+#### APP.3.2.A6
+
+#### APP.3.2.A7
+
+#### APP.3.2.A8
+
+#### APP.3.2.A9
+
+#### APP.3.2.A10
+
+#### APP.3.2.A11
+
+#### APP.3.2.A12
+
+#### APP.3.2.A13
+
+#### APP.3.2.A14
+
+#### APP.3.2.A15
+
+#### APP.3.2.A16
+
+#### APP.3.2.A17
+
+#### APP.3.2.A18
+
+#### APP.3.2.A19
+
+
+
+
 
 ////////////////
 Formatierungshilfen:
