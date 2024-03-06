@@ -2604,18 +2604,35 @@ Entwickler und Betreiber einer Webanwendung SOLLTEN sicherstellen, dass vertraul
 ### Basis-Anforderungen
 
 #### APP.3.2.A1
+_Keine inhaltlichen Änderungen._
 
 #### APP.3.2.A2
+_Änderung:_\
+Der Webserver MUSS so konfiguriert sein, dass er nur Dateien ausliefert, die sich innerhalb des WWW-Wurzelverzeichnisses befinden.
+
+_Änderung:_\
+Der IT-Betrieb MUSS alle nicht benötigten Funktionen, die Verzeichnisse auflisten, deaktivieren.
+
+_Ergänzung:_\
+Insbesondere MUSS der IT-Betrieb sicherstellen, dass vertrauliche Dateien nicht in öffentlichen Verzeichnissen des Webservers liegen.
 
 #### APP.3.2.A3
+_Entfallen:_\
+Zudem MÜSSEN Dokumente von Restinformationen bereinigt werden.
+Abrufbare Dateien MÜSSEN auf einer separaten Partition der Festplatte gespeichert sein.
 
 #### APP.3.2.A4
+_Keine inhaltlichen Änderungen._
 
 #### APP.3.2.A5
+_Änderung:_\
+Wenn sich Clients mit Hilfe von Passwörtern am Webserver authentisieren, MÜSSEN diese kryptografisch gesichert und vor unbefugtem Zugriff geschützt gespeichert werden.
 
-#### APP.3.2.A6
+#### APP.3.2.A6 ENTFALLEN
+_Diese Anforderung ist entfallen._
 
 #### APP.3.2.A7
+_Keine inhaltlichen Änderungen._
 
 #### APP.3.2.A8
 
@@ -2661,6 +2678,7 @@ _Geändert:_\
 ~~~~\
 _zu:_\
 
+(Aktualisiert: Basis-Anforderung)
 
 
 ## Änderungen ORP.1
