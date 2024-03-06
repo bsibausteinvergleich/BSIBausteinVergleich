@@ -13,7 +13,6 @@ APP.4.3.A2 Installation des Datenbankmanagementsystems (B)
 Es MUSS sichergestellt sein, dass die Installationspakete des Datenbankmanagementsystems aus sicheren Quellen stammen.
 Bereits veröffentlichte Patches MÜSSEN eingespielt werden, bevor das DBMS betrieben wird.
 
-
 APP.4.3.A3 Basishärtung des Datenbankmanagementsystems (B)
 Das Datenbankmanagementsystem MUSS gehärtet werden.
 Hierfür MUSS eine Checkliste mit den durchzuführenden Schritten zusammengestellt und abgearbeitet werden.
@@ -33,9 +32,8 @@ Alle Änderungen SOLLTEN dokumentiert werden.
 Die eingerichteten Benutzer und die ihnen zugeordneten Berechtigungen MÜSSEN regelmäßig überprüft und, falls erforderlich, angepasst werden.
 
 APP.4.3.A6 Passwortänderung [Fachverantwortliche] (B)
-Alle Passwörter der Datenbankbenutzer MÜSSEN der Passwortrichtlinie der Institution entsprechen (siehe ORP.4
-Identitäts- und Berechtigungsmanagement).
-Es MUSS gewährleistet sein, dass die Passwörter beim geringsten Verdacht eines Sicherheitsvorfalles geändert werden.
+Alle Passwörter der Datenbankbenutzer MÜSSEN der Passwortrichtlinie der Institution entsprechen (siehe ORP.4 Identitäts- und Berechtigungsmanagement).
+Es MUSS gewährleistet sein, dass die Passwörter beim geringsten Verdacht eines Sicherheitsvorfalles geändert werden.
 Insbesondere bei privilegierten Datenbankaccounts und Dienstkonten SOLLTE ein Passwortwechsel sorgfältig geplant und gegebenenfalls mit den Anwendungsverantwortlichen abgestimmt werden.
 
 APP.4.3.A7 Zeitnahes Einspielen von Sicherheitsupdates (B)
