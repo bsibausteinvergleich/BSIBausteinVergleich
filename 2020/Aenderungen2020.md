@@ -2233,6 +2233,41 @@ _Keine inhaltlichen Änderungen._
 _Keine inhaltlichen Änderungen._
 
 
+## Änderungen APP.1.4
+
+### Basis-Anforderungen
+
+#### APP.1.4.A1
+
+#### APP.1.4.A2
+
+#### APP.1.4.A3
+
+#### APP.1.4.A4
+
+#### APP.1.4.A5
+
+#### APP.1.4.A6
+
+#### APP.1.4.A7
+
+#### APP.1.4.A8
+
+#### APP.1.4.A9
+
+#### APP.1.4.A10
+
+#### APP.1.4.A11
+
+#### APP.1.4.A12
+
+#### APP.1.4.A13
+
+#### APP.1.4.A14
+
+#### APP.1.4.A15
+
+
 
 
 
