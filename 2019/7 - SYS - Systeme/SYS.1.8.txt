@@ -1,7 +1,5 @@
 3.1 Basis-Anforderungen
 
-
-
 SYS.1.8.A1 Geeignete Aufstellung von Speichersystemen [Haustechnik, Leiter IT]
 Die IT-Komponenten MÜSSEN in gesicherten Räumen aufgestellt werden.
 Zu diesen Räumen DÜRFEN NUR Berechtigte Zutritt haben.
