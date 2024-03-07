@@ -242,7 +242,8 @@ Die USV SOLLTE regelmäßig gewartet werden.
 
 SYS.2.1.A40 Betriebsdokumentation (A)
 Die Durchführung betrieblicher Aufgaben an Clients SOLLTE nachvollziehbar dokumentiert werden (Wer? Wann? Was?), vor allem wenn dies Gruppen von Clients betrifft.
-Aus der Dokumentation SOLLTEN insbesondere Konfigurationsänderungen nachvollziehbar sein, auch sicherheitsrelevanten Aufgaben (wer ist z. B. befugt, neue Festplatten einzubauen) SOLLTEN dokumentiert werden. Alles, was automatisch dokumentiert werden kann, SOLLTE auch automatisch dokumentiert werden.
+Aus der Dokumentation SOLLTEN insbesondere Konfigurationsänderungen nachvollziehbar sein, auch sicherheitsrelevanten Aufgaben (wer ist z. B. befugt, neue Festplatten einzubauen) SOLLTEN dokumentiert werden.
+Alles, was automatisch dokumentiert werden kann, SOLLTE auch automatisch dokumentiert werden.
 Die Dokumentation SOLLTE gegen unbefugten Zugriff und Verlust geschützt werden.
 
 SYS.2.1.A41 Verhinderung der Überlastung der lokalen Festplatte (A)
