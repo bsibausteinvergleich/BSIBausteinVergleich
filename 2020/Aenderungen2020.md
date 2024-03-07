@@ -4779,7 +4779,36 @@ _Keine inhaltlichen Änderungen._
 
 ### Basis-Anforderungen
 
-#### SYS.3.3.A
+#### SYS.3.3.A1
+
+#### SYS.3.3.A2
+
+#### SYS.3.3.A3
+
+#### SYS.3.3.A4
+
+#### SYS.3.3.A5
+
+#### SYS.3.3.A6
+
+#### SYS.3.3.A7
+
+#### SYS.3.3.A8
+
+#### SYS.3.3.A9
+
+#### SYS.3.3.A10
+
+#### SYS.3.3.A11
+
+#### SYS.3.3.A12
+
+#### SYS.3.3.A13
+
+#### SYS.3.3.A14
+
+#### SYS.3.3.A15
+
 
 
 
