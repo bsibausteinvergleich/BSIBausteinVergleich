@@ -4204,89 +4204,132 @@ _Keine inhaltlichen Änderungen._
 
 ### Basis-Anforderungen
 
-#### SYS.2.2.2.A1
+#### SYS.2.2.3.A1
 _Keine inhaltlichen Änderungen._
 
-#### SYS.2.2.2.A2
+#### SYS.2.2.3.A2
 _Keine inhaltlichen Änderungen._
 
-#### SYS.2.2.2.A3 ENTFALLEN
+#### SYS.2.2.3.A3 ENTFALLEN
 _Diese Anforderung ist entfallen._
 
-#### SYS.2.2.2.A4
+#### SYS.2.2.3.A4
 _Änderung:_\
 Es MUSS durch geeignete Maßnahmen, etwa auf Netzebene, sichergestellt werden, dass Daten der Telemetriedienste nicht an Microsoft übertragen werden.
 
-#### SYS.2.2.2.A5
+#### SYS.2.2.3.A5
 _Diese Anforderung ist entfallen._
 
-#### SYS.2.2.2.A6
+#### SYS.2.2.3.A6
 _Diese Anforderung ist entfallen._
 
 ### Standard-Anforderungen
 
-#### SYS.2.2.2.A7
+#### SYS.2.2.3.A7
 _Keine inhaltlichen Änderungen._
 
-#### SYS.2.2.2.A8
+#### SYS.2.2.3.A8
 _Keine inhaltlichen Änderungen._
 
-#### SYS.2.2.2.A9
+#### SYS.2.2.3.A9
 _Keine inhaltlichen Änderungen._
 
-#### SYS.2.2.2.A10
+#### SYS.2.2.3.A10
 _Keine inhaltlichen Änderungen._
 
-#### SYS.2.2.2.A11
+#### SYS.2.2.3.A11
 _Änderung:_\
 Zusätzlich SOLLTE der Windows Defender Credential Guard gegen (...)
 
-#### SYS.2.2.2.A12
+#### SYS.2.2.3.A12
 _Keine inhaltlichen Änderungen._
 
-#### SYS.2.2.2.A13
+#### SYS.2.2.3.A13
 _Keine inhaltlichen Änderungen._
 
-#### SYS.2.2.2.A14
+#### SYS.2.2.3.A14
 _Keine inhaltlichen Änderungen._
 
-#### SYS.2.2.2.A15
+#### SYS.2.2.3.A15
 _Keine inhaltlichen Änderungen._
 
-#### SYS.2.2.2.A16
+#### SYS.2.2.3.A16
 _Keine inhaltlichen Änderungen._
 
-#### SYS.2.2.2.A17
+#### SYS.2.2.3.A17
 _Änderung:_\
 SYS.2.2.3.A17 Keine Speicherung von Daten zur automatischen Anmeldung (S)
 
-#### SYS.2.2.2.A18
+#### SYS.2.2.3.A18
 _Keine inhaltlichen Änderungen._
 
-#### SYS.2.2.2.A19
+#### SYS.2.2.3.A19
 _Keine inhaltlichen Änderungen._
 
-#### SYS.2.2.2.A20
+#### SYS.2.2.3.A20
 _Keine inhaltlichen Änderungen._
 
 ### Anforderungen bei erhöhtem Schutzbedarf
 
-#### SYS.2.2.2.A21
+#### SYS.2.2.3.A21
 _Keine inhaltlichen Änderungen._
 
-#### SYS.2.2.2.A22
+#### SYS.2.2.3.A22
 _Keine inhaltlichen Änderungen._
 
-#### SYS.2.2.2.A23
+#### SYS.2.2.3.A23
 _Keine inhaltlichen Änderungen._
 
-#### SYS.2.2.2.A24
+#### SYS.2.2.3.A24
 _Keine inhaltlichen Änderungen._
 
-#### SYS.2.2.2.A25
+#### SYS.2.2.3.A25
 _Keine inhaltlichen Änderungen._
 
 
+## Änderungen SYS.2.3
+
+### Basis-Anforderungen
+
+#### SYS.2.3.A1
+
+#### SYS.2.3.A2
+
+#### SYS.2.3.A3
+
+#### SYS.2.3.A4
+
+#### SYS.2.3.A5
+
+#### SYS.2.3.A6
+
+#### SYS.2.3.A7
+
+#### SYS.2.3.A8
+
+#### SYS.2.3.A9
+
+#### SYS.2.3.A10
+
+#### SYS.2.3.A11
+
+#### SYS.2.3.A12
+
+#### SYS.2.3.A13
+
+#### SYS.2.3.A14
+
+#### SYS.2.3.A15
+
+#### SYS.2.3.A16
+
+#### SYS.2.3.A17
+
+#### SYS.2.3.A18
+
+#### SYS.2.3.A19
+
+#### SYS.2.3.A20
 
 
 
