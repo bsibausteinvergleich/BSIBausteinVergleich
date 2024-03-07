@@ -99,7 +99,8 @@ Im Zweifelsfall oder bei einem schlechteren Schutz SOLLTEN biometrische Verfahre
 Die Benutzer SOLLTEN für die Fälschbarkeit von biometrischen Merkmalen sensibilisiert werden.
 
 SYS.3.2.1.A19 Verwendung von Sprachassistenten (S)
-Sprachassistenten SOLLTEN nur eingesetzt werden, wenn sie zwingend notwendig sind. Andernfalls SOLLTEN sie deaktiviert werden.
+Sprachassistenten SOLLTEN nur eingesetzt werden, wenn sie zwingend notwendig sind.
+Andernfalls SOLLTEN sie deaktiviert werden.
 Generell SOLLTE ein Sprachassistent nicht genutzt werden können, wenn das Gerät gesperrt ist.
 
 SYS.3.2.1.A20 Auswahl und Freigabe von Apps (S)
