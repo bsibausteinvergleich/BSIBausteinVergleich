@@ -4361,28 +4361,57 @@ _Keine inhaltlichen Änderungen._
 ### Basis-Anforderungen
 
 #### SYS.2.4.A1
+_Keine inhaltlichen Änderungen._
 
 #### SYS.2.4.A2
+_Keine inhaltlichen Änderungen._
 
 #### SYS.2.4.A3
+_Keine inhaltlichen Änderungen._
+
+### Standard-Anforderungen
 
 #### SYS.2.4.A4
+_Ergänzung:_\
+Es SOLLTE geprüft werden, ob ein institutioneller Wiederherstellungsschlüssel für FileVault verwendet werden soll.
 
 #### SYS.2.4.A5
+_Änderung:_\
+SYS.2.4.A5 Deaktivierung sicherheitskritischer Funktionen von macOS (S)
 
 #### SYS.2.4.A6
+_Keine inhaltlichen Änderungen._
 
 #### SYS.2.4.A7
+_Keine inhaltlichen Änderungen._
 
 #### SYS.2.4.A8
+_Ergänzung:_\
+(...) schützenswerte (...)
 
 #### SYS.2.4.A9
+_Keine inhaltlichen Änderungen._
 
 #### SYS.2.4.A10
+_Keine inhaltlichen Änderungen._
 
 #### SYS.2.4.A11
+_Keine inhaltlichen Änderungen._
+
+### Anforderungen bei erhöhtem Schutzbedarf
 
 #### SYS.2.4.A12
+_Ergänzung:_\
+Auf Macs mit T2-Sicherheitschip SOLLTE ein Firmware-Passwort über das Startsicherheitsdienstprogramm gesetzt werden.
+Die Option „Sicheres Starten: Volle Sicherheit“ SOLLTE aktiviert werden.
+Die Option „Starten von externen Medien nicht zulassen“ SOLLTE aktiviert werden.
+
+
+## Änderungen SYS.3.1
+
+### Basis-Anforderungen
+
+#### SYS.2.3.1.A
 
 
 
