@@ -4749,8 +4749,37 @@ _Diese Anforderung ist entfallen._
 
 ### Basis-Anforderungen
 
-#### SYS.3.2.4.A
+#### SYS.3.2.4.A1
+_Keine inhaltlichen Änderungen._
 
+### Standard-Anforderungen
+
+#### SYS.3.2.4.A2
+_Keine inhaltlichen Änderungen._
+
+#### SYS.3.2.4.A3
+_Keine inhaltlichen Änderungen._
+
+#### SYS.3.2.4.A4
+_Keine inhaltlichen Änderungen._
+
+#### SYS.3.2.4.A5
+_Keine inhaltlichen Änderungen._
+
+### Anforderungen bei erhöhtem Schutzbedarf
+
+#### SYS.3.2.4.A6
+_Keine inhaltlichen Änderungen._
+
+#### SYS.3.2.4.A7
+_Keine inhaltlichen Änderungen._
+
+
+## Änderungen SYS.3.3
+
+### Basis-Anforderungen
+
+#### SYS.3.3.A
 
 
 
