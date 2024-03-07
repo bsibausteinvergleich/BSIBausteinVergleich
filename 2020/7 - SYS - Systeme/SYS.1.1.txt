@@ -129,7 +129,8 @@ Für die Einsatzfreigabe SOLLTEN die Installations- und Konfigurationsdokumentat
 Die Einsatzfreigabe SOLLTE durch eine in der Institution dafür autorisierte Stelle erfolgen.
 
 SYS.1.1.A18 Verschlüsselung der Kommunikationsverbindungen (S)
-Für alle vom Server angebotenen und genutzten Netzdienste SOLLTE geprüft werden, ob mit vertretbarem Aufwand eine Verschlüsselung der Kommunikationsverbindungen möglich und praktikabel ist. Ist dies der Fall, SOLLTE die Verschlüsselung aktiviert werden.
+Für alle vom Server angebotenen und genutzten Netzdienste SOLLTE geprüft werden, ob mit vertretbarem Aufwand eine Verschlüsselung der Kommunikationsverbindungen möglich und praktikabel ist.
+Ist dies der Fall, SOLLTE die Verschlüsselung aktiviert werden.
 
 SYS.1.1.A19 Einrichtung lokaler Paketfilter (S)
 Vorhandene lokale Paketfilter SOLLTEN über ein Regelwerk so ausgestaltet werden, dass die eingehende und ausgehende Kommunikation auf die erforderlichen Kommunikationspartner, Kommunikationsprotokolle bzw. Ports und Schnittstellen beschränkt wird.
@@ -137,7 +138,8 @@ Vorhandene lokale Paketfilter SOLLTEN über ein Regelwerk so ausgestaltet werden
 SYS.1.1.A20 Beschränkung des Zugangs über Netze (S)
 Generell SOLLTE das gesamte Netz einer Institution durch ein entsprechendes Sicherheitsgateway gegen unbefugte Zugänge geschützt sein.
 Server, die Dienste nach außen hin anbieten, SOLLTEN in einer Demilitarisierten Zone (DMZ) aufgestellt werden.
-Server SOLLTEN möglichst nicht im selben IP-Subnetz wie die Clients platziert werden. Server SOLLTEN zumindest durch einen Router von den Clients getrennt sein.
+Server SOLLTEN möglichst nicht im selben IP-Subnetz wie die Clients platziert werden.
+Server SOLLTEN zumindest durch einen Router von den Clients getrennt sein.
 
 SYS.1.1.A21 Betriebsdokumentation für Server (S)
 Betriebliche Aufgaben, die an einem Server durchgeführt werden, SOLLTEN nachvollziehbar dokumentiert werden (Wer?, Wann?, Was?).
@@ -147,7 +149,8 @@ Alles, was automatisch dokumentiert werden kann, SOLLTE auch automatisch dokumen
 Die Dokumentation SOLLTE gegen unbefugten Zugriff und Verlust geschützt werden.
 
 SYS.1.1.A22 Einbindung in die Notfallplanung (S)
-Der Server SOLLTE im Notfallmanagementprozess berücksichtigt werden. Dazu SOLLTEN die Notfallanforderungen an das System ermittelt und geeignete Notfallmaßnahmen umgesetzt werden, z. B. indem Wiederanlaufpläne erstellt oder Passwörter und kryptografische Schlüssel sicher hinterlegt werden.
+Der Server SOLLTE im Notfallmanagementprozess berücksichtigt werden.
+Dazu SOLLTEN die Notfallanforderungen an das System ermittelt und geeignete Notfallmaßnahmen umgesetzt werden, z. B. indem Wiederanlaufpläne erstellt oder Passwörter und kryptografische Schlüssel sicher hinterlegt werden.
 
 SYS.1.1.A23 Systemüberwachung und Monitoring von Servern (S)
 Das Server-System SOLLTE in ein geeignetes Systemüberwachungs- bzw. Monitoringkonzept eingebunden werden, das den Systemzustand und die Funktionsfähigkeit des Systems und der darauf betriebenen Dienste laufend überwacht und Fehlerzustände sowie die Überschreitung definierter Grenzwerte an das Betriebspersonal meldet.
