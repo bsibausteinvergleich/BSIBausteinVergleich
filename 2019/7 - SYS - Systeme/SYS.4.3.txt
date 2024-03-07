@@ -1,6 +1,5 @@
 3.1 Basis-Anforderungen
 
-
 SYS.4.3.A1 Regelung des Einsatzes von eingebetteten Systemen [Leiter IT]
 Um eingebettete Systeme reibungslos zu betreiben, MÜSSEN Verantwortliche ernannt werden.
 Alle Benutzer und Administratoren MÜSSEN über Verhaltensregeln und Meldewege bei Ausfällen, Fehlfunktionen oder bei Verdacht auf einen Sicherheitsvorfall informiert sein.
