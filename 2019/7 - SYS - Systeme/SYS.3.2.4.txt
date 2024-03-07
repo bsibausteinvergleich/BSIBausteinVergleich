@@ -1,6 +1,5 @@
 3.1 Basis-Anforderungen
 
-
 SYS.3.2.4.A1 Auswahl von Endgeräten mit Android
 Bei der Auswahl eines Endgeräts mit Android MUSS sichergestellt sein, dass der Hersteller regelmäßig Sicherheitsupdates für dieses Gerät bereitstellt.
 Das Endgerät MUSS mit einer aktuellen Version von Android ausgeliefert werden oder unmittelbar auf diese aktualisiert werden können.
