@@ -62,7 +62,8 @@ Sie SOLLTEN die festgelegte Grundkonfiguration nicht umgehen oder ändern könne
 
 SYS.3.2.1.A10 Richtlinie für Mitarbeiter zur Benutzung von mobilen Geräten [Benutzer] (S)
 Es SOLLTE eine verbindliche Richtlinie für Mitarbeiter zur Benutzung von mobilen Geräten erstellt werden.
-Diese SOLLTE festlegen, wie mobile Geräte genutzt und gepflegt werden sollen. Darin SOLLTEN die Themen Aufbewahrung und Verlustmeldung behandelt werden.
+Diese SOLLTE festlegen, wie mobile Geräte genutzt und gepflegt werden sollen.
+Darin SOLLTEN die Themen Aufbewahrung und Verlustmeldung behandelt werden.
 Außerdem SOLLTE verboten werden, Verwaltungssoftware zu deinstallieren oder das Gerät zu rooten.
 
 SYS.3.2.1.A11 Verschlüsselung des Speichers (S)
