@@ -3900,6 +3900,66 @@ _Keine inhaltlichen Änderungen._
 _Keine inhaltlichen Änderungen._
 
 
+## Änderungen SYS.1.8
+
+### Basis-Anforderungen
+
+#### SYS.1.8.A1
+
+#### SYS.1.8.A2
+
+#### SYS.1.8.A3
+
+#### SYS.1.8.A4
+
+#### SYS.1.8.A5
+
+#### SYS.1.8.A6
+
+#### SYS.1.8.A7
+
+#### SYS.1.8.A8
+
+#### SYS.1.8.A9
+
+#### SYS.1.8.A10
+
+#### SYS.1.8.A11
+
+#### SYS.1.8.A12
+
+#### SYS.1.8.A13
+
+#### SYS.1.8.A14
+
+#### SYS.1.8.A15
+
+#### SYS.1.8.A16
+
+#### SYS.1.8.A17
+
+#### SYS.1.8.A18
+
+#### SYS.1.8.A19
+
+#### SYS.1.8.A20
+
+#### SYS.1.8.A21
+
+#### SYS.1.8.A22
+
+#### SYS.1.8.A23
+
+#### SYS.1.8.A24
+
+#### SYS.1.8.A25
+
+#### SYS.1.8.A26
+
+
+
+
+
 
 ////////////////
 Formatierungshilfen:
