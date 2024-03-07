@@ -4128,6 +4128,55 @@ _Ergänzung:_\
 (...), die den verwendeten Speicherplatz auf der lokalen Festplatte begrenzen.
 
 
+## Änderungen SYS.2.2.2
+
+### Basis-Anforderungen
+
+#### SYS.2.2.2.A1
+
+#### SYS.2.2.2.A2
+
+#### SYS.2.2.2.A3
+
+#### SYS.2.2.2.A4
+
+#### SYS.2.2.2.A5
+
+#### SYS.2.2.2.A6
+
+#### SYS.2.2.2.A7
+
+#### SYS.2.2.2.A8
+
+#### SYS.2.2.2.A9
+
+#### SYS.2.2.2.A10
+
+#### SYS.2.2.2.A11
+
+#### SYS.2.2.2.A12
+
+#### SYS.2.2.2.A13
+
+#### SYS.2.2.2.A14
+
+#### SYS.2.2.2.A15
+
+#### SYS.2.2.2.A16
+
+#### SYS.2.2.2.A17
+
+#### SYS.2.2.2.A18
+#### SYS.2.2.2.A19
+#### SYS.2.2.2.A20
+#### SYS.2.2.2.A21
+
+
+
+
+
+
+
 
 ////////////////
 Formatierungshilfen:
