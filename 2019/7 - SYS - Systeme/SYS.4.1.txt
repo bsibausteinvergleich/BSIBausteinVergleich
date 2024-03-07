@@ -1,7 +1,5 @@
 3.1 Basis-Anforderungen
 
-
-
 SYS.4.1.A1 Erstellung eines Basis-Konzepts für den Einsatz von Druckern, Kopierern und Multifunktionsgeräten [Leiter IT]
 Bevor Drucker, Kopierer und Multifunktionsgeräte beschafft werden, MUSS ein Basis-Konzept für den sicheren Einsatz entwickelt werden.
 Darin MUSS geregelt sein, wo die Geräte aufgestellt werden dürfen, wer darauf zugreifen darf und wie sie vor Angriffen geschützt werden sollen.
