@@ -3435,74 +3435,134 @@ _Diese Anforderung ist entfallen._
 ### Basis-Anforderungen
 
 #### SYS.1.1.A1
+_Entfallen:_\
+Server DÜRFEN NICHT als Arbeitsplatzrechner genutzt werden.
+Es MUSS gewährleistet werden, dass nur dafür vorgesehene Wechselspeicher und sonstige Geräte an die Server angeschlossen werden können.
 
 #### SYS.1.1.A2
+_Änderung:_\
+Für die Anmeldung von Benutzern und Diensten am Server MÜSSEN Authentisierungsverfahren eingesetzt werden, die dem Schutzbedarf der Server angemessen sind.
+Dies SOLLTE in besonderem Maße für administrative Zugänge berücksichtigt werden.
+Soweit möglich, SOLLTE dabei auf zentrale, netzbasierte Authentisierungsdienste zurückgegriffen werden. Verwendete Passwörter MÜSSEN sicher sein.
+Für sichere Passwörter SOLLTE es eine Passwort-Richtlinie geben.
 
 #### SYS.1.1.A3
+_Keine inhaltlichen Änderungen._
 
 #### SYS.1.1.A4
+_Keine inhaltlichen Änderungen._
 
 #### SYS.1.1.A5
+_Entfallen:_\
+Für die Anmeldung von Benutzern und Diensten am System MÜSSEN Authentisierungsverfahren eingesetzt werden, die dem Schutzbedarf der Server angemessen sind.
+Dies SOLLTE in besonderem Maße für administrative Zugänge berücksichtigt werden.
+Soweit möglich, SOLLTE dabei auf zentrale, netzbasierte Authentisierungsdienste zurückgegriffen werden.
+
+_Ergänzung:_\
+Es MUSS gewährleistet werden, dass nur dafür vorgesehene Wechselspeicher und sonstige Geräte an die Server angeschlossen werden können.
+Server DÜRFEN NICHT als Arbeitsplatzrechner genutzt werden.
 
 #### SYS.1.1.A6
+_Keine inhaltlichen Änderungen._
 
 #### SYS.1.1.A7
+_Keine inhaltlichen Änderungen._
 
 #### SYS.1.1.A8
+_Ergänzung:_\
+Es MUSS regelmäßig getestet werden, ob die Datensicherung wie gewünscht funktioniert, vor allem, ob gesicherte Daten problemlos zurückgespielt werden können.
 
 #### SYS.1.1.A9
+_Keine inhaltlichen Änderungen._
 
 #### SYS.1.1.A10
+_Ergänzung:_\
+Es SOLLTE geprüft werden, ob die Speicherung der jeweiligen Protokolldaten auf dem Server selbst ausreichend ist oder ob eine zentrale Speicherung erfolgen soll.
+
+### Standard-Anforderungen
 
 #### SYS.1.1.A11
+_Ergänzung:_\
+(...) in einer separaten Sicherheitsrichtlinie (...)
 
 #### SYS.1.1.A12
+_Keine inhaltlichen Änderungen._
 
 #### SYS.1.1.A13
+_Keine inhaltlichen Änderungen._
 
 #### SYS.1.1.A14
+_Keine inhaltlichen Änderungen._
 
 #### SYS.1.1.A15
+_Keine inhaltlichen Änderungen._
 
 #### SYS.1.1.A16
+_Entfallen:_\
+Server SOLLTEN so aufgesetzt werden, dass bei der Installation ausschließlich die benötigten Dienste ausgewählt werden.
 
 #### SYS.1.1.A17
+_Keine inhaltlichen Änderungen._
 
 #### SYS.1.1.A18
+_Keine inhaltlichen Änderungen._
 
 #### SYS.1.1.A19
+_Keine inhaltlichen Änderungen._
 
 #### SYS.1.1.A20
+_Keine inhaltlichen Änderungen._
 
 #### SYS.1.1.A21
+_Keine inhaltlichen Änderungen._
 
 #### SYS.1.1.A22
+_Keine inhaltlichen Änderungen._
 
 #### SYS.1.1.A23
+_Keine inhaltlichen Änderungen._
 
 #### SYS.1.1.A24
+_Keine inhaltlichen Änderungen._
 
 #### SYS.1.1.A25
+_Keine inhaltlichen Änderungen._
+
+### Anforderungen bei erhöhtem Schutzbedarf
 
 #### SYS.1.1.A26
+_Keine inhaltlichen Änderungen._
 
 #### SYS.1.1.A27
+_Keine inhaltlichen Änderungen._
 
 #### SYS.1.1.A28
+_Keine inhaltlichen Änderungen._
 
 #### SYS.1.1.A29
+_Keine inhaltlichen Änderungen._
 
 #### SYS.1.1.A30
+_Keine inhaltlichen Änderungen._
 
 #### SYS.1.1.A31
+_Keine inhaltlichen Änderungen._
 
 #### SYS.1.1.A32
+_Keine inhaltlichen Änderungen._
 
 #### SYS.1.1.A33
+_Keine inhaltlichen Änderungen._
 
-#### SYS.1.1.A34
+#### NEU SYS.1.1.A34
+_Ergänzung:_\
+SYS.1.1.A34 Festplattenverschlüsselung (H)
+Bei erhöhtem Schutzbedarf sollten die Datenträger des Servers mit einem als sicher geltenden Produkt bzw. Verfahren verschlüsselt werden.
+Dies SOLLTE auch für virtuelle Maschinen mit produktiven Daten gelten.
+Es SOLLTE nicht nur ein TPM allein als Schlüsselschutz dienen.
+Das Wiederherstellungspasswort SOLLTE an einem geeigneten sicheren Ort gespeichert werden.
+Bei sehr hohen Anforderungen an die Vertraulichkeit oder Abstreitbarkeit SOLLTE eine Full Volume Encryption erfolgen.
 
-#### SYS.1.1.A35
 
 
 
