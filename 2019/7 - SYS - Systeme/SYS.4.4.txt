@@ -1,6 +1,5 @@
 3.1 Basis-Anforderungen
 
-
 SYS.4.4.A1 Einsatzkriterien für IoT-Geräte
 IoT-Geräte MÜSSEN ein Minimum an Sicherheitskriterien erfüllen, damit sie in Institutionen eingesetzt werden können.
 Die Geräte MÜSSEN Update-Funktionen besitzen und der Hersteller MUSS einen Update-Prozess anbieten.
