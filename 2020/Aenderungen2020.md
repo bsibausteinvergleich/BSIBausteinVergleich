@@ -4576,50 +4576,88 @@ _Keine inhaltlichen Änderungen._
 ### Basis-Anforderungen
 
 #### SYS.3.2.2.A1
+_Keine inhaltlichen Änderungen._
 
 #### SYS.3.2.2.A2
+_Keine inhaltlichen Änderungen._
 
 #### SYS.3.2.2.A3
+_Keine inhaltlichen Änderungen._
 
 #### SYS.3.2.2.A4
+_Keine inhaltlichen Änderungen._
 
 #### SYS.3.2.2.A5
+_Keine inhaltlichen Änderungen._
 
 #### SYS.3.2.2.A6
-
-#### SYS.3.2.2.A7
-
-#### SYS.3.2.2.A8
-
-#### SYS.3.2.2.A9
-
-#### SYS.3.2.2.A10
-
-#### SYS.3.2.2.A11
-
-#### SYS.3.2.2.A12
-
-#### SYS.3.2.2.A13
-
-#### SYS.3.2.2.A14
-
-#### SYS.3.2.2.A15
-
-#### SYS.3.2.2.A16
-
-#### SYS.3.2.2.A17
-
-#### SYS.3.2.2.A18
-
-#### SYS.3.2.2.A19
+_Keine inhaltlichen Änderungen._
 
 #### SYS.3.2.2.A20
+_Keine inhaltlichen Änderungen._
+
+### Standard-Anforderungen
+
+#### SYS.3.2.2.A7
+_Keine inhaltlichen Änderungen._
+
+#### SYS.3.2.2.A8
+_Keine inhaltlichen Änderungen._
+
+#### SYS.3.2.2.A9
+_Keine inhaltlichen Änderungen._
+
+#### SYS.3.2.2.A10
+_Keine inhaltlichen Änderungen._
+
+#### SYS.3.2.2.A11
+_Keine inhaltlichen Änderungen._
+
+#### SYS.3.2.2.A12
+_Keine inhaltlichen Änderungen._
 
 #### SYS.3.2.2.A21
+_Keine inhaltlichen Änderungen._
 
 #### SYS.3.2.2.A22
+_Keine inhaltlichen Änderungen._
+
+### Anforderungen bei erhöhtem Schutzbedarf
+
+#### SYS.3.2.2.A13 ENTFALLEN
+_Diese Anforderung ist entfallen._
+
+#### SYS.3.2.2.A14
+_Entfallen:_\
+Dabei handelt es sich um einen externen Dienst, der Apps nach bestimmten Kriterien untersucht und die Ergebnisse als Service bereitstellt.
+
+#### SYS.3.2.2.A15 ENTFALLEN
+_Diese Anforderung ist entfallen._
+
+#### SYS.3.2.2.A16 ENTFALLEN
+_Diese Anforderung ist entfallen._
+
+#### SYS.3.2.2.A17
+_Keine inhaltlichen Änderungen._
+
+#### SYS.3.2.2.A18 ENTFALLEN
+_Diese Anforderung ist entfallen._
+
+#### SYS.3.2.2.A19
+_Keine inhaltlichen Änderungen._
 
 #### SYS.3.2.2.A23
+_Keine inhaltlichen Änderungen._
+
+
+## Änderungen SYS.3.2.3
+
+### Basis-Anforderungen
+
+#### SYS.3.2.3.A
+
+
+
 
 
 ////////////////
