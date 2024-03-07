@@ -12,7 +12,8 @@ Es MUSS für die geplante Einsatzzeit des Betriebssystems Support angeboten werd
 Alle benötigten Anwendungsprogramme SOLLTEN direkt verfügbar sein, ohne dass diese aus Drittquellen bezogen werden müssen.
 Es SOLLTEN nur Anwendungsprogramme ausgewählt und installiert werden, für die Support angeboten wird.
 Betriebssystem und Anwendungsprogramme ohne regelmäßige Sicherheitsupdates SOLLTEN nicht eingesetzt werden.
-Es SOLLTE auf Distributionen mit einem Rolling-Release-Modell verzichtet werden. Distributionen, bei denen das Betriebssystem selber kompiliert wird, SOLLTEN nicht in Produktivumgebungen eingesetzt werden.
+Es SOLLTE auf Distributionen mit einem Rolling-Release-Modell verzichtet werden.
+Distributionen, bei denen das Betriebssystem selber kompiliert wird, SOLLTEN nicht in Produktivumgebungen eingesetzt werden.
 
 SYS.2.3.A3 Cloud- und Online-Inhalte [Benutzer]
 Nur zwingend notwendige Cloud- und Online-Dienste des Betriebssystems DÜRFEN genutzt werden.
