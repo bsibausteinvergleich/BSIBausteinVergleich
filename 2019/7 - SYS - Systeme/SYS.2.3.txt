@@ -1,7 +1,5 @@
 3.1 Basis-Anforderungen
 
-
-
 SYS.2.3.A1 Authentisierung von Administratoren und Benutzern [Benutzer]
 Um den Client zu nutzen, MÜSSEN sich die Benutzer gegenüber dem IT-System authentisieren.
 Administratoren DÜRFEN sich NICHT im Normalbetrieb als Root anmelden.
