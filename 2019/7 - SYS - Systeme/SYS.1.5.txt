@@ -1,7 +1,5 @@
 3.1 Basis-Anforderungen
 
-
-
 SYS.1.5.A1 Einspielen von Aktualisierungen und Sicherheitsupdates
 Host-Betriebssystem, Management-Software und Hardware-Firmware MÜSSEN regelmäßig aktualisiert werden.
 Vorhandene Sicherheitsupdates MÜSSEN zeitnah eingespielt werden.
