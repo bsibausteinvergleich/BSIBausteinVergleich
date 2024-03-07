@@ -1,7 +1,5 @@
 3.1 Basis-Anforderungen
 
-
-
 SYS.2.4.A1 Planung des sicheren Einsatzes von macOS
 Die Einführung von macOS MUSS sorgfältig geplant werden.
 Dabei MUSS ein Konzept zur Benutzerverwaltung, zur Administration sowie zur Protokollierung erstellt werden.
