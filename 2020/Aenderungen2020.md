@@ -4133,10 +4133,15 @@ _Ergänzung:_\
 ### Basis-Anforderungen
 
 #### SYS.2.2.2.A1
+_Keine inhaltlichen Änderungen._
 
 #### SYS.2.2.2.A2
+_Keine inhaltlichen Änderungen._
 
 #### SYS.2.2.2.A3
+_Keine inhaltlichen Änderungen._
+
+### Standard-Anforderungen
 
 #### SYS.2.2.2.A4
 
