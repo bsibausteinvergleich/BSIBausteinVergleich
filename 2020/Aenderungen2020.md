@@ -3776,6 +3776,128 @@ _Keine inhaltlichen Änderungen._
 _Keine inhaltlichen Änderungen._
 
 
+## Änderungen SYS.1.7
+
+### Basis-Anforderungen
+
+#### SYS.1.7.A1
+_Keine inhaltlichen Änderungen._
+
+#### SYS.1.7.A2
+_Keine inhaltlichen Änderungen._
+
+#### SYS.1.7.A3
+_Keine inhaltlichen Änderungen._
+
+#### SYS.1.7.A4
+_Keine inhaltlichen Änderungen._
+
+#### SYS.1.7.A5
+_Keine inhaltlichen Änderungen._
+
+#### SYS.1.7.A6
+_Keine inhaltlichen Änderungen._
+
+#### SYS.1.7.A7
+_Keine inhaltlichen Änderungen._
+
+#### SYS.1.7.A8
+_Keine inhaltlichen Änderungen._
+
+#### SYS.1.7.A9
+_Keine inhaltlichen Änderungen._
+
+#### SYS.1.7.A10
+_Keine inhaltlichen Änderungen._
+
+#### SYS.1.7.A11
+_Keine inhaltlichen Änderungen._
+
+### Standard-Anforderungen
+
+#### SYS.1.7.A12
+_Keine inhaltlichen Änderungen._
+
+#### SYS.1.7.A13
+_Keine inhaltlichen Änderungen._
+
+#### SYS.1.7.A14
+_Keine inhaltlichen Änderungen._
+
+#### SYS.1.7.A15
+_Keine inhaltlichen Änderungen._
+
+#### SYS.1.7.A16
+_Keine inhaltlichen Änderungen._
+
+#### SYS.1.7.A17
+_Keine inhaltlichen Änderungen._
+
+#### SYS.1.7.A18
+_Keine inhaltlichen Änderungen._
+
+#### SYS.1.7.A19
+_Keine inhaltlichen Änderungen._
+
+#### SYS.1.7.A20
+_Keine inhaltlichen Änderungen._
+
+#### SYS.1.7.A21
+_Keine inhaltlichen Änderungen._
+
+#### SYS.1.7.A22
+_Keine inhaltlichen Änderungen._
+
+#### SYS.1.7.A23
+_Keine inhaltlichen Änderungen._
+
+#### SYS.1.7.A24
+_Keine inhaltlichen Änderungen._
+
+#### SYS.1.7.A25
+_Keine inhaltlichen Änderungen._
+
+#### SYS.1.7.A26
+_Keine inhaltlichen Änderungen._
+
+#### SYS.1.7.A27
+_Keine inhaltlichen Änderungen._
+
+#### SYS.1.7.A28
+_Keine inhaltlichen Änderungen._
+
+#### SYS.1.7.A29
+_Keine inhaltlichen Änderungen._
+
+#### SYS.1.7.A30
+_Keine inhaltlichen Änderungen._
+
+#### SYS.1.7.A31
+_Entfallen:_\
+Für den Fall, dass alle Kennungen mit SPECIAL-Rechten gesperrt sind oder dass in einer Notsituation kein RACF-Administrator zur Verfügung steht, SOLLTE ein Not-User-Verfahren eingerichtet werden.
+
+### Anforderungen bei erhöhtem Schutzbedarf
+
+#### SYS.1.7.A32
+_Keine inhaltlichen Änderungen._
+
+#### SYS.1.7.A33
+_Keine inhaltlichen Änderungen._
+
+#### SYS.1.7.A34
+_Keine inhaltlichen Änderungen._
+
+#### SYS.1.7.A35
+_Keine inhaltlichen Änderungen._
+
+#### SYS.1.7.A36
+_Keine inhaltlichen Änderungen._
+
+#### SYS.1.7.A37
+_Keine inhaltlichen Änderungen._
+
+#### SYS.1.7.A38
+_Keine inhaltlichen Änderungen._
 
 
 
