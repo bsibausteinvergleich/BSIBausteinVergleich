@@ -1,6 +1,5 @@
 3.1 Basis-Anforderungen
 
-
 SYS.1.1.A1 Geeignete Aufstellung [Haustechnik] (B)
 Server MÜSSEN an Orten betrieben werden, zu denen nur berechtigte Personen Zutritt haben.
 Server MÜSSEN daher in Rechenzentren, Rechnerräumen oder abschließbaren Serverschränken aufgestellt beziehungsweise eingebaut werden (siehe hierzu die entsprechenden Bausteine der Schicht INF Infrastruktur).
@@ -126,7 +125,8 @@ Erst nachdem die Installation und die Konfiguration abgeschlossen sind, SOLLTE d
 SYS.1.1.A17 Einsatzfreigabe für Server (S)
 Bevor Server im produktiven Betrieb eingesetzt und bevor sie an ein produktives Netz angeschlossen werden, SOLLTE eine Einsatzfreigabe erfolgen.
 Diese SOLLTE geeignet dokumentiert werden.
-Für die Einsatzfreigabe SOLLTEN die Installations- und Konfigurationsdokumentation und die Funktionsfähigkeit des Servers in einem Test geprüft werden. Die Einsatzfreigabe SOLLTE durch eine in der Institution dafür autorisierte Stelle erfolgen.
+Für die Einsatzfreigabe SOLLTEN die Installations- und Konfigurationsdokumentation und die Funktionsfähigkeit des Servers in einem Test geprüft werden.
+Die Einsatzfreigabe SOLLTE durch eine in der Institution dafür autorisierte Stelle erfolgen.
 
 SYS.1.1.A18 Verschlüsselung der Kommunikationsverbindungen (S)
 Für alle vom Server angebotenen und genutzten Netzdienste SOLLTE geprüft werden, ob mit vertretbarem Aufwand eine Verschlüsselung der Kommunikationsverbindungen möglich und praktikabel ist. Ist dies der Fall, SOLLTE die Verschlüsselung aktiviert werden.
