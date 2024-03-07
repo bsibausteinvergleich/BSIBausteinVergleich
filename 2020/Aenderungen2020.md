@@ -4655,58 +4655,101 @@ _Keine inhaltlichen Änderungen._
 ### Basis-Anforderungen
 
 #### SYS.3.2.3.A1
+_Ergänzung:_\
+Außerdem MÜSSEN Jailbreaks organisatorisch untersagt und nach Möglichkeit technisch verhindert werden, etwa über eine Jailbreak-Erkennung durch das MDM.
 
 #### SYS.3.2.3.A2
+_Keine inhaltlichen Änderungen._
 
-#### SYS.3.2.3.A3
+#### SYS.3.2.3.A3 ENTFALLEN
+_Diese Anforderung ist entfallen._
 
-#### SYS.3.2.3.A4
+#### SYS.3.2.3.A4 ENTFALLEN
+_Diese Anforderung ist entfallen._
 
-#### SYS.3.2.3.A5
+#### SYS.3.2.3.A5 ENTFALLEN
+_Diese Anforderung ist entfallen._
 
-#### SYS.3.2.3.A6
+#### SYS.3.2.3.A6 ENTFALLEN
+_Diese Anforderung ist entfallen._
 
 #### SYS.3.2.3.A7
+_Keine inhaltlichen Änderungen._
 
-#### SYS.3.2.3.A8
+#### SYS.3.2.3.A8 ENTFALLEN
+_Diese Anforderung ist entfallen._
 
-#### SYS.3.2.3.A9
+### Standard-Anforderungen
+
+#### SYS.3.2.3.A9 ENTFALLEN
+_Diese Anforderung ist entfallen._
 
 #### SYS.3.2.3.A10
+_Keine inhaltlichen Änderungen._
 
 #### SYS.3.2.3.A11
+_Keine inhaltlichen Änderungen._
 
 #### SYS.3.2.3.A12
+_Änderung:_\
+SYS.3.2.3.A12 Verwendung von Apple-IDs (S)
+Werden Dienste verwendet, für die eine Apple-ID erforderlich ist, SOLLTE statt einer persönlichen Apple-ID des Benutzers eine anonymisierte Apple-ID verwendet werden.
+Falls möglich, SOLLTE der Apple Business Manager für Volumenlizenzen (früher Volume Purchase Program, VPP) sowie eine zentralisierte Installation von Apps verwendet werden.
 
 #### SYS.3.2.3.A13
+_Keine inhaltlichen Änderungen._
 
 #### SYS.3.2.3.A14
+_Keine inhaltlichen Änderungen._
 
 #### SYS.3.2.3.A15
+_Keine inhaltlichen Änderungen._
 
-#### SYS.3.2.3.A16
+#### SYS.3.2.3.A16 ENTFALLEN
+_Diese Anforderung ist entfallen._
 
 #### SYS.3.2.3.A17
+_Keine inhaltlichen Änderungen._
 
 #### SYS.3.2.3.A18
+_Keine inhaltlichen Änderungen._
 
-#### SYS.3.2.3.A19
+#### SYS.3.2.3.A19 ENTFALLEN
+_Diese Anforderung ist entfallen._
 
 #### SYS.3.2.3.A20
+_Keine inhaltlichen Änderungen._
 
 #### SYS.3.2.3.A21
+_Änderung:_\
+Wenn zusätzliche Apps von Drittanbietern eingesetzt werden (siehe SYS.3.2.3.A1 Strategie für die iOS-Nutzung), SOLLTE durch die Verantwortlichen der interne Software-Freigabeprozess bezüglich der Validierung und Freigabe von Anwendungen (Apps) aus dem Apple App Store ergänzt werden.
 
-#### SYS.3.2.3.A22
+### Anforderungen bei erhöhtem Schutzbedarf
+
+#### SYS.3.2.3.A22 ENTFALLEN
+_Diese Anforderung ist entfallen._
 
 #### SYS.3.2.3.A23
+_Keine inhaltlichen Änderungen._
 
-#### SYS.3.2.3.A24
+#### SYS.3.2.3.A24 ENTFALLEN
+_Diese Anforderung ist entfallen._
 
 #### SYS.3.2.3.A25
+_Keine inhaltlichen Änderungen._
 
 #### SYS.3.2.3.A26
+_Keine inhaltlichen Änderungen._
+
+#### SYS.3.2.3.A27 ENTFALLEN
+_Diese Anforderung ist entfallen._
 
 
+## Änderungen SYS.3.2.4
+
+### Basis-Anforderungen
+
+#### SYS.3.2.4.A
 
 
 
