@@ -4838,46 +4838,95 @@ _Dieser Baustein ist entfallen._
 ### Basis-Anforderungen
 
 #### SYS.4.1.A1
+_Keine inhaltlichen Änderungen._
 
 #### SYS.4.1.A2
+_Änderung:_\
+Diese MÜSSEN die Vorgaben des Identitäts- und Berechtigungsmanagement der Institution erfüllen. Das Passwort DARF NUR berechtigten Benutzern bekannt sein.
 
-#### SYS.4.1.A3
-
-#### SYS.4.1.A4
-
-#### SYS.4.1.A5
-
-#### SYS.4.1.A6
-
-#### SYS.4.1.A7
-
-#### SYS.4.1.A8
-
-#### SYS.4.1.A9
-
-#### SYS.4.1.A10
-
-#### SYS.4.1.A11
+#### SYS.4.1.A3 ENTFALLEN
+_Diese Anforderung ist entfallen._
 
 #### SYS.4.1.A12
+_Entfallen:_\
+Nicht benötigte, aber ausgedruckte Dokumente mit sensiblen Informationen MÜSSEN in geeigneter Weise entsorgt werden, z. B. in geeigneten Papiercontainern.
+Auch für Heimarbeitsplätze SOLLTEN geeignete Regelungen hierfür festgelegt werden.
 
-#### SYS.4.1.A13
+#### SYS.4.1.A13 ENTFALLEN
+_Diese Anforderung ist entfallen._
 
-#### SYS.4.1.A14
+#### NEU: SYS.4.1.A22
+SYS.4.1.A22 Ordnungsgemäße Entsorgung ausgedruckter Dokumente (B)\
+Nicht benötigte, aber ausgedruckte Dokumente mit institutionskritischen Informationen MÜSSEN in geeigneter Weise vernichtet werden, z. B. in geeigneten Papiercontainern.
+Sind Heimarbeitsplätze mit Druckern, Kopierern oder Multifunktionsgeräten ausgestattet, SOLLTE gewährleistet werden, dass die ausgedruckten Informationen auch direkt vor Ort geeignet vernichtet werden können.
+
+### Standard-Anforderungen
+
+#### SYS.4.1.A4
+_Ergänzung:_\
+Der ISB SOLLTE auf Basis des Sicherheitskonzepts eine Administrationsrichtlinie ausarbeiten.
+
+#### SYS.4.1.A5
+_Ergänzung:_\
+Für den sicheren Umgang mit Druckern und Multifunktionsgeräten SOLLTE eine Administrationsrichtlinie ausgearbeitet werden.
+
+#### SYS.4.1.A6 ENTFALLEN
+_Diese Anforderung ist entfallen._
+
+#### SYS.4.1.A7
+_Keine inhaltlichen Änderungen._
+
+#### SYS.4.1.A8 ENTFALLEN
+_Diese Anforderung ist entfallen._
+
+#### SYS.4.1.A9 ENTFALLEN
+_Diese Anforderung ist entfallen._
+
+#### SYS.4.1.A10 ENTFALLEN
+_Diese Anforderung ist entfallen._
+
+#### SYS.4.1.A11
+_Ergänzung:_\
+Netzdrucker und Multifunktionsgeräte SOLLTEN in einem eigenen Netzsegment, das von den Clients und Servern der Institution getrennt ist, betrieben werden.
 
 #### SYS.4.1.A15
-
-#### SYS.4.1.A16
+_Keine inhaltlichen Änderungen._
 
 #### SYS.4.1.A17
+_Keine inhaltlichen Änderungen._
 
 #### SYS.4.1.A18
+_Änderung:_\
+Alle Drucker und Multifunktionsgeräte SOLLTEN geeignet vom IT-Betrieb konfiguriert werden.
+Nicht benötigte Gerätefunktionen SOLLTEN abgeschaltet werden.
+Die Geräte SOLLTEN ausschließlich über verschlüsselte Protokolle wie HTTPS und SNMPv3 verwaltet werden.
+Sämtliche Protokolle, mit denen unverschlüsselt auf Drucker und Multifunktionsgeräte zugegriffen werden kann, SOLLTEN vom IT-Betrieb durch verschlüsselte ersetzt oder abgeschaltet werden.
+Das SOLLTE insbesondere für Protokolle umgesetzt werden, mit denen sich die Gerätekonfiguration verändern lässt, z. B. SNMP, Telnet und PJL. Der voreingestellte „SNMP Set Community Name“ SOLLTE geändert werden.
 
 #### SYS.4.1.A19
+_Keine inhaltlichen Änderungen._
+
+### Anforderungen bei erhöhtem Schutzbedarf
+
+#### SYS.4.1.A14
+_Keine inhaltlichen Änderungen._
+
+#### SYS.4.1.A16
+_Keine inhaltlichen Änderungen._
 
 #### SYS.4.1.A20
+_Entfallen:_\
+Alternativ SOLLTEN die Geräte so eingestellt werden, dass sich eingescannte Dokumente nur an eine fest eingetragene Adresse senden lassen.
 
 #### SYS.4.1.A21
+_Keine inhaltlichen Änderungen._
+
+
+## Änderungen SYS.4.3
+
+### Basis-Anforderungen
+
+#### SYS.4.3.A
 
 
 ////////////////
