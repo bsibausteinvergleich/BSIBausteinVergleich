@@ -1,7 +1,5 @@
 3.1 Basis-Anforderungen
 
-
-
 SYS.3.2.2.A1 Festlegung einer Strategie für das Mobile Device Management
 Es MUSS eine Strategie erarbeitet werden, die festlegt, wie Mitarbeiter mobile Endgeräte benutzen dürfen und wie die Geräte in die IT-Strukturen der Institution integriert sind.
 Grundlage ist dabei der Schutzbedarf der zu verarbeitenden Informationen.
