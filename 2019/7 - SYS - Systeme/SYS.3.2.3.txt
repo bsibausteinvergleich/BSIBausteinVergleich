@@ -1,7 +1,5 @@
 3.1 Basis-Anforderungen
 
-
-
 SYS.3.2.3.A1 Strategie für die iOS-Nutzung
 Wird ein MDM eingesetzt, so MÜSSEN die Geräte über das MDM verwaltet und konfiguriert werden.
 Hierzu MUSS eine Strategie zur iOS-Nutzung vorliegen, in der Aspekte wie Endgeräte-Auswahl oder Backup-Strategien festgelegt werden.
