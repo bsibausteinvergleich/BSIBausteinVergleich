@@ -42,7 +42,8 @@ SYS.3.2.2.A6 Protokollierung und Gerätestatus
 Das MDM MUSS alle sicherheitsrelevanten Ereignisse und Konfigurationsänderungen protokollieren.
 Die erhobenen Daten DÜRFEN NICHT von unbefugten Personen eingesehen werden und MÜSSEN unveränderbar gespeichert werden.
 Auch MÜSSEN bei der Protokollierung gesetzliche und interne Regelungen eingehalten werden.
-Die vom MDM erzeugten Protokolle MÜSSEN regelmäßig auf ungewöhnliche Einträge überprüft werden. Der Lebenszyklus, einschließlich Konfigurationshistorie, eines mobilen Endgerätes SOLLTE ausreichend protokolliert und zentral abrufbar sein.
+Die vom MDM erzeugten Protokolle MÜSSEN regelmäßig auf ungewöhnliche Einträge überprüft werden.
+Der Lebenszyklus, einschließlich Konfigurationshistorie, eines mobilen Endgerätes SOLLTE ausreichend protokolliert und zentral abrufbar sein.
 Bei Bedarf SOLLTE der aktuelle Status der verwalteten Endgeräte durch den Administrator ermittelt werden können (Device Audit).
 
 SYS.3.2.2.A20 Regelmäßige Überprüfung des MDM
