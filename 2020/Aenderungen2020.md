@@ -3564,6 +3564,39 @@ Das Wiederherstellungspasswort SOLLTE an einem geeigneten sicheren Ort gespeiche
 Bei sehr hohen Anforderungen an die Vertraulichkeit oder Abstreitbarkeit SOLLTE eine Full Volume Encryption erfolgen.
 
 
+## Änderungen SYS.1.2.2
+
+### Basis-Anforderungen
+
+#### SYS.1.2.2.A1
+
+#### SYS.1.2.2.A2
+
+
+#### SYS.1.2.2.A3
+
+#### SYS.1.2.2.A4
+
+#### SYS.1.2.2.A5
+
+#### SYS.1.2.2.A6
+
+#### SYS.1.2.2.A7
+
+#### SYS.1.2.2.A8
+
+#### SYS.1.2.2.A9
+
+#### SYS.1.2.2.A10
+
+#### SYS.1.2.2.A11
+
+#### SYS.1.2.2.A12
+
+#### SYS.1.2.2.A13
+
+#### SYS.1.2.2.A14
+
 
 
 
