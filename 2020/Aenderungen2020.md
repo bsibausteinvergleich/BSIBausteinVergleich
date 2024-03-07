@@ -4475,67 +4475,107 @@ _Keine inhaltlichen Änderungen._
 ### Basis-Anforderungen
 
 #### SYS.3.2.1.A1
+_Keine inhaltlichen Änderungen._
 
 #### SYS.3.2.1.A2
+_Änderung:_\
+(...) im Zusammenhang mit Smartphones und Tablets eine generelle Strategie (...)
 
 #### SYS.3.2.1.A3
+_Keine inhaltlichen Änderungen._
 
 #### SYS.3.2.1.A4
+_Keine inhaltlichen Änderungen._
 
 #### SYS.3.2.1.A5
+_Keine inhaltlichen Änderungen._
 
 #### SYS.3.2.1.A6
+_Ergänzung:_\
+(...) sowie Ortungs- und Gesundheits- bzw. Fitnessdaten (...)
 
 #### SYS.3.2.1.A7
+_Keine inhaltlichen Änderungen._
 
 #### SYS.3.2.1.A8
+_Keine inhaltlichen Änderungen._
+
+### Standard-Anforderungen
 
 #### SYS.3.2.1.A9
+_Keine inhaltlichen Änderungen._
 
 #### SYS.3.2.1.A10
+_Keine inhaltlichen Änderungen._
 
 #### SYS.3.2.1.A11
+_Keine inhaltlichen Änderungen._
 
 #### SYS.3.2.1.A12
+_Keine inhaltlichen Änderungen._
 
 #### SYS.3.2.1.A13
+_Keine inhaltlichen Änderungen._
 
 #### SYS.3.2.1.A14
+_Keine inhaltlichen Änderungen._
 
 #### SYS.3.2.1.A15
+_Keine inhaltlichen Änderungen._
 
 #### SYS.3.2.1.A16
+_Keine inhaltlichen Änderungen._
 
 #### SYS.3.2.1.A17
+_Keine inhaltlichen Änderungen._
 
 #### SYS.3.2.1.A18
+_Keine inhaltlichen Änderungen._
 
 #### SYS.3.2.1.A19
+_Keine inhaltlichen Änderungen._
 
 #### SYS.3.2.1.A20
+_Keine inhaltlichen Änderungen._
 
 #### SYS.3.2.1.A21
+_Keine inhaltlichen Änderungen._
 
 #### SYS.3.2.1.A22
-
-#### SYS.3.2.1.A23
-
-#### SYS.3.2.1.A24
-
-#### SYS.3.2.1.A25
-
-#### SYS.3.2.1.A26
-
-#### SYS.3.2.1.A27
+_Keine inhaltlichen Änderungen._
 
 #### SYS.3.2.1.A28
+_Keine inhaltlichen Änderungen._
+
+### Anforderungen bei erhöhtem Schutzbedarf
+
+#### SYS.3.2.1.A23
+_Keine inhaltlichen Änderungen._
+
+#### SYS.3.2.1.A24
+_Keine inhaltlichen Änderungen._
+
+#### SYS.3.2.1.A25
+_Keine inhaltlichen Änderungen._
+
+#### SYS.3.2.1.A26
+_Keine inhaltlichen Änderungen._
+
+#### SYS.3.2.1.A27
+_Keine inhaltlichen Änderungen._
 
 #### SYS.3.2.1.A29
+_Keine inhaltlichen Änderungen._
 
 #### SYS.3.2.1.A30
+_Keine inhaltlichen Änderungen._
 
 
+## Änderungen SYS.3.2.2
 
+### Basis-Anforderungen
+
+#### SYS.3.2.2.A
 
 ////////////////
 Formatierungshilfen:
