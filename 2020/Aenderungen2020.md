@@ -4411,7 +4411,42 @@ Die Option „Starten von externen Medien nicht zulassen“ SOLLTE aktiviert wer
 
 ### Basis-Anforderungen
 
-#### SYS.2.3.1.A
+#### SYS.2.3.1.A1
+
+#### SYS.2.3.1.A2
+
+#### SYS.2.3.1.A3
+
+#### SYS.2.3.1.A4
+
+#### SYS.2.3.1.A5
+
+#### SYS.2.3.1.A6
+
+#### SYS.2.3.1.A7
+
+#### SYS.2.3.1.A8
+
+#### SYS.2.3.1.A9
+
+#### SYS.2.3.1.A10
+
+#### SYS.2.3.1.A11
+
+#### SYS.2.3.1.A12
+
+#### SYS.2.3.1.A13
+
+#### SYS.2.3.1.A14
+
+#### SYS.2.3.1.A15
+
+#### SYS.2.3.1.A16
+
+#### SYS.2.3.1.A17
+
+#### SYS.2.3.1.A18
+
 
 
 
