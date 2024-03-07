@@ -136,7 +136,8 @@ SYS.1.1.A19 Einrichtung lokaler Paketfilter
 Vorhandene lokale Paketfilter SOLLTEN über ein Regelwerk so ausgestaltet werden, dass die eingehende und ausgehende Kommunikation auf die erforderlichen Kommunikationspartner, Kommunikationsprotokolle bzw. Ports und Schnittstellen beschränkt wird.
 
 SYS.1.1.A20 Beschränkung des Zugangs über Netze
-Generell SOLLTE das gesamte Netz einer Institution durch ein entsprechendes Sicherheitsgateway gegen unbefugte Zugänge geschützt sein. Server, die Dienste nach außen hin anbieten, SOLLTEN in einer Demilitarisierten Zone (DMZ) aufgestellt werden.
+Generell SOLLTE das gesamte Netz einer Institution durch ein entsprechendes Sicherheitsgateway gegen unbefugte Zugänge geschützt sein.
+Server, die Dienste nach außen hin anbieten, SOLLTEN in einer Demilitarisierten Zone (DMZ) aufgestellt werden.
 Server SOLLTEN möglichst nicht im selben IP-Subnetz wie die Clients platziert werden. Server SOLLTEN zumindest durch einen Router von den Clients getrennt sein.
 
 SYS.1.1.A21 Betriebsdokumentation
