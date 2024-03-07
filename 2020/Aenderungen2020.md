@@ -3989,6 +3989,91 @@ _Keine inhaltlichen Änderungen._
 _Keine inhaltlichen Änderungen._
 
 
+## Änderungen SYS.2.1
+
+### Basis-Anforderungen
+
+#### SYS.2.1.A1
+
+#### SYS.2.1.A2
+
+#### SYS.2.1.A3
+
+#### SYS.2.1.A4
+
+#### SYS.2.1.A5
+
+#### SYS.2.1.A6
+
+#### SYS.2.1.A7
+
+#### SYS.2.1.A8
+
+#### SYS.2.1.A9
+
+#### SYS.2.1.A10
+
+#### SYS.2.1.A11
+
+#### SYS.2.1.A12
+
+#### SYS.2.1.A13
+
+#### SYS.2.1.A14
+
+#### SYS.2.1.A15
+
+#### SYS.2.1.A16
+
+#### SYS.2.1.A17
+
+#### SYS.2.1.A18
+
+#### SYS.2.1.A19
+
+#### SYS.2.1.A20
+
+#### SYS.2.1.A21
+
+#### SYS.2.1.A22
+
+#### SYS.2.1.A23
+
+#### SYS.2.1.A24
+
+#### SYS.2.1.A25
+
+#### SYS.2.1.A26
+
+#### SYS.2.1.A27
+
+#### SYS.2.1.A28
+
+#### SYS.2.1.A29
+
+#### SYS.2.1.A30
+
+#### SYS.2.1.A31
+
+#### SYS.2.1.A32
+
+#### SYS.2.1.A33
+
+#### SYS.2.1.A34
+
+#### SYS.2.1.A35
+
+#### SYS.2.1.A36
+
+#### SYS.2.1.A37
+
+#### SYS.2.1.A38
+
+#### SYS.2.1.A39
+
+#### SYS.2.1.A40
+
+#### SYS.2.1.A41
 
 
 
