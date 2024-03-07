@@ -1,7 +1,5 @@
 3.1 Basis-Anforderungen
 
-
-
 SYS.3.1.A1 Regelungen zur mobilen Nutzung von Laptops
 Es MUSS klar geregelt werden, was Mitarbeiter beachten sollen, wenn sie Laptops mitnehmen.
 Es MUSS insbesondere festgelegt werden, welche Laptops außer Haus mitgenommen werden dürfen, wer sie mitnehmen darf und welche grundlegenden Sicherheitsmaßnahmen dabei zu beachten sind.
