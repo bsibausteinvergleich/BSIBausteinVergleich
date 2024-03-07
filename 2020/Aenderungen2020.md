@@ -3618,6 +3618,47 @@ _Keine inhaltlichen Änderungen._
 _Keine inhaltlichen Änderungen._
 
 
+## Änderungen SYS.1.3
+
+### Basis-Anforderungen
+
+#### SYS.1.3.A1
+
+#### SYS.1.3.A2
+
+#### SYS.1.3.A3
+
+#### SYS.1.3.A4
+
+#### SYS.1.3.A5
+
+#### SYS.1.3.A6
+
+#### SYS.1.3.A7
+
+#### SYS.1.3.A8
+
+#### SYS.1.3.A9
+
+#### SYS.1.3.A10
+
+#### SYS.1.3.A11
+
+#### SYS.1.3.A12
+
+#### SYS.1.3.A13
+
+#### SYS.1.3.A14
+
+#### SYS.1.3.A15
+
+#### SYS.1.3.A16
+
+#### SYS.1.3.A17
+
+
+
+
 
 
 ////////////////
