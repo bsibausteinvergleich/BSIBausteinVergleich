@@ -4144,37 +4144,60 @@ _Keine inhaltlichen Änderungen._
 ### Standard-Anforderungen
 
 #### SYS.2.2.2.A4
+_Keine inhaltlichen Änderungen._
 
 #### SYS.2.2.2.A5
+_Keine inhaltlichen Änderungen._
 
 #### SYS.2.2.2.A6
+_Keine inhaltlichen Änderungen._
 
 #### SYS.2.2.2.A7
+_Keine inhaltlichen Änderungen._
 
 #### SYS.2.2.2.A8
+_Keine inhaltlichen Änderungen._
 
 #### SYS.2.2.2.A9
+_Keine inhaltlichen Änderungen._
 
 #### SYS.2.2.2.A10
+_Keine inhaltlichen Änderungen._
 
 #### SYS.2.2.2.A11
+_Keine inhaltlichen Änderungen._
 
 #### SYS.2.2.2.A12
+_Keine inhaltlichen Änderungen._
 
 #### SYS.2.2.2.A13
+_Keine inhaltlichen Änderungen._
+
+### Anforderungen bei erhöhtem Schutzbedarf
 
 #### SYS.2.2.2.A14
+_Keine inhaltlichen Änderungen._
 
 #### SYS.2.2.2.A15
+_Keine inhaltlichen Änderungen._
 
 #### SYS.2.2.2.A16
+_Keine inhaltlichen Änderungen._
 
 #### SYS.2.2.2.A17
+_Keine inhaltlichen Änderungen._
 
 #### SYS.2.2.2.A18
+_Keine inhaltlichen Änderungen._
+
 #### SYS.2.2.2.A19
+_Keine inhaltlichen Änderungen._
+
 #### SYS.2.2.2.A20
+_Keine inhaltlichen Änderungen._
+
 #### SYS.2.2.2.A21
+_Keine inhaltlichen Änderungen._
 
 
 
