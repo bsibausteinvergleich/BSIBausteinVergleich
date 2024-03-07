@@ -4356,6 +4356,36 @@ _Keine inhaltlichen Änderungen._
 _Keine inhaltlichen Änderungen._
 
 
+## Änderungen SYS.2.4
+
+### Basis-Anforderungen
+
+#### SYS.2.4.A1
+
+#### SYS.2.4.A2
+
+#### SYS.2.4.A3
+
+#### SYS.2.4.A4
+
+#### SYS.2.4.A5
+
+#### SYS.2.4.A6
+
+#### SYS.2.4.A7
+
+#### SYS.2.4.A8
+
+#### SYS.2.4.A9
+
+#### SYS.2.4.A10
+
+#### SYS.2.4.A11
+
+#### SYS.2.4.A12
+
+
+
 
 ////////////////
 Formatierungshilfen:
