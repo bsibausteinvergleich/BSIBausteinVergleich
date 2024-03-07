@@ -87,7 +87,8 @@ Zudem SOLLTEN die wesentlichen Nachrichten herausgefiltert werden, um diese bess
 Sofern eine Speicherlösung durch einen externen Dienstleister betrieben wird, SOLLTE definiert und dokumentiert werden, wie die vertraglich vereinbarten SLAs überwacht werden.
 
 SYS.1.8.A14 Absicherung eines SANs durch Segmentierung
-Ein SAN SOLLTE segmentiert werden. Es SOLLTE ein Konzept erarbeitet werden, das die SAN-Ressourcen den jeweiligen Servern zuordnet.
+Ein SAN SOLLTE segmentiert werden.
+Es SOLLTE ein Konzept erarbeitet werden, das die SAN-Ressourcen den jeweiligen Servern zuordnet.
 Hierfür SOLLTE anhand der Sicherheitsanforderungen und des Administrationsaufwands entschieden werden, welche Segmentierung in welchem Einsatzszenario eingesetzt werden soll.
 Die aktuelle Ressourcenzuordnung SOLLTE mithilfe von Verwaltungswerkzeugen einfach und übersichtlich erkennbar sein.
 Weiterhin SOLLTE die aktuelle Zoning-Konfiguration dokumentiert werden.
