@@ -17,8 +17,7 @@ Der Server MUSS im Rahmen der Installation zunächst auf einen aktuellen Patch-S
 
 SYS.1.2.2.A3 Sichere Administration von Windows Server 2012 (B)
 Lokale Administrationskonten MÜSSEN mit einzigartigen, sicheren Passwörter abgesichert werden.
-Alle Administratoren, die für das Server-System zuständig sind, MÜSSEN in den sicherheitsrelevanten Aspekten der Administra-
-tion von Windows Server 2012 geschult sein.
+Alle Administratoren, die für das Server-System zuständig sind, MÜSSEN in den sicherheitsrelevanten Aspekten der Administration von Windows Server 2012 geschult sein.
 Sie DÜRFEN administrative Rechte NICHT einsetzen, wo diese nicht zwingend erforderlich sind.
 Browser auf dem Server DÜRFEN NICHT zum Surfen im Web verwendet werden.
 
