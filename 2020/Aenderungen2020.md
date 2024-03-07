@@ -3994,87 +3994,138 @@ _Keine inhaltlichen Änderungen._
 ### Basis-Anforderungen
 
 #### SYS.2.1.A1
+_Keine inhaltlichen Änderungen._
 
 #### SYS.2.1.A2
+_Keine inhaltlichen Änderungen._
 
 #### SYS.2.1.A3
+_Keine inhaltlichen Änderungen._
 
 #### SYS.2.1.A4
+_Entfallen:_\
+In den meisten Rechnersystemen können diese weitgehend automatisiert erfolgen.
+Es MÜSSEN Regelungen getroffen werden, welche lokal abgespeicherten Daten von wem wann gesichert werden.
 
 #### SYS.2.1.A5
+_Keine inhaltlichen Änderungen._
 
 #### SYS.2.1.A6
+_Keine inhaltlichen Änderungen._
 
 #### SYS.2.1.A7
+_Ergänzung:_\
+Es SOLLTE geprüft werden, ob die Speicherung der Protokolldaten auf den jeweiligen Clients selbst ausreichend ist oder ob eine zentrale Speicherung erfolgen soll.
 
 #### SYS.2.1.A8
+_Keine inhaltlichen Änderungen._
+
+### Standard-Anforderungen
 
 #### SYS.2.1.A9
+_Keine inhaltlichen Änderungen._
 
 #### SYS.2.1.A10
+_Keine inhaltlichen Änderungen._
 
 #### SYS.2.1.A11
+_Keine inhaltlichen Änderungen._
 
 #### SYS.2.1.A12
+_Keine inhaltlichen Änderungen._
 
 #### SYS.2.1.A13
+_Keine inhaltlichen Änderungen._
 
 #### SYS.2.1.A14
+_Keine inhaltlichen Änderungen._
 
 #### SYS.2.1.A15
+_Keine inhaltlichen Änderungen._
 
 #### SYS.2.1.A16
+_Keine inhaltlichen Änderungen._
 
 #### SYS.2.1.A17
+_Keine inhaltlichen Änderungen._
 
 #### SYS.2.1.A18
+_Keine inhaltlichen Änderungen._
 
 #### SYS.2.1.A19
+_Keine inhaltlichen Änderungen._
 
 #### SYS.2.1.A20
+_Keine inhaltlichen Änderungen._
 
 #### SYS.2.1.A21
+_Keine inhaltlichen Änderungen._
 
 #### SYS.2.1.A22
+_Entfallen:_\
+Wenn technisch möglich, SOLLTE die Bildschirmsperre nach längerer Inaktivität automatisch aktiviert bzw. der Benutzer automatisch abgemeldet werden.
 
 #### SYS.2.1.A23
+_Keine inhaltlichen Änderungen._
 
 #### SYS.2.1.A24
+_Keine inhaltlichen Änderungen._
 
 #### SYS.2.1.A25
+_Keine inhaltlichen Änderungen._
 
 #### SYS.2.1.A26
+_Keine inhaltlichen Änderungen._
 
 #### SYS.2.1.A27
+_Keine inhaltlichen Änderungen._
+
+### Anforderungen bei erhöhtem Schutzbedarf
 
 #### SYS.2.1.A28
+_Ergänzung:_\
+(...) ohne den Nutzen der Verschlüsselung zu untergraben.
 
 #### SYS.2.1.A29
+_Keine inhaltlichen Änderungen._
 
 #### SYS.2.1.A30
+_Keine inhaltlichen Änderungen._
 
 #### SYS.2.1.A31
+_Keine inhaltlichen Änderungen._
 
 #### SYS.2.1.A32
+_Keine inhaltlichen Änderungen._
 
 #### SYS.2.1.A33
+_Keine inhaltlichen Änderungen._
 
 #### SYS.2.1.A34
+_Ergänzung:_\
+(...) bzw. Daten aus unsicheren Quellen (...)
 
 #### SYS.2.1.A35
+_Keine inhaltlichen Änderungen._
 
 #### SYS.2.1.A36
+_Keine inhaltlichen Änderungen._
 
 #### SYS.2.1.A37
+_Keine inhaltlichen Änderungen._
 
 #### SYS.2.1.A38
+_Keine inhaltlichen Änderungen._
 
 #### SYS.2.1.A39
+_Keine inhaltlichen Änderungen._
 
 #### SYS.2.1.A40
+_Keine inhaltlichen Änderungen._
 
 #### SYS.2.1.A41
-
+_Ergänzung:_\
+(...), die den verwendeten Speicherplatz auf der lokalen Festplatte begrenzen.
 
 
 
