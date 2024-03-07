@@ -3678,6 +3678,66 @@ _Keine inhaltlichen Änderungen._
 _Keine inhaltlichen Änderungen._
 
 
+## Änderungen SYS.1.5
+
+### Basis-Anforderungen
+
+#### SYS.1.5.A1
+
+#### SYS.1.5.A2
+
+#### SYS.1.5.A3
+
+#### SYS.1.5.A4
+
+#### SYS.1.5.A5
+
+#### SYS.1.5.A6
+
+#### SYS.1.5.A7
+
+#### SYS.1.5.A8
+
+#### SYS.1.5.A9
+
+#### SYS.1.5.A10
+
+#### SYS.1.5.A11
+
+#### SYS.1.5.A12
+
+#### SYS.1.5.A13
+
+#### SYS.1.5.A14
+
+#### SYS.1.5.A15
+
+#### SYS.1.5.A16
+
+#### SYS.1.5.A17
+
+#### SYS.1.5.A18
+
+#### SYS.1.5.A19
+
+#### SYS.1.5.A20
+
+#### SYS.1.5.A21
+
+#### SYS.1.5.A22
+
+#### SYS.1.5.A23
+
+#### SYS.1.5.A24
+
+#### SYS.1.5.A25
+
+#### SYS.1.5.A26
+
+#### SYS.1.5.A27
+
+#### SYS.1.5.A28
+
 
 
 
