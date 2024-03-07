@@ -71,7 +71,8 @@ Bootloader und Kernel SOLLTEN durch selbstkontrolliertes Schlüsselmaterial sign
 
 SYS.1.3.A16 Zusätzliche Verhinderung der Ausbreitung bei der Ausnutzung von Schwachstellen (CI)
 Die Nutzung von Systemaufrufen SOLLTE insbesondere für exponierte Dienste und Anwendungen auf die unbedingt notwendigen Systemaufrufe beschränkt werden.
-Die Standardprofile bzw. -Regeln von z.B. SELinux, AppArmor SOLLTEN manuell überprüft und ggf. an die eigenen Sicherheitsrichtlinien angepasst werden. Falls erforderlich, SOLLTEN neue Regeln bzw. Profile erstellt werden.
+Die Standardprofile bzw. -Regeln von z.B. SELinux, AppArmor SOLLTEN manuell überprüft und ggf. an die eigenen Sicherheitsrichtlinien angepasst werden.
+Falls erforderlich, SOLLTEN neue Regeln bzw. Profile erstellt werden.
 
 SYS.1.3.A17 Zusätzlicher Schutz des Kernels (CI)
 Es SOLLTEN mit speziell gehärteten Kernels geeignete Schutzmechanismen wie Speicherschutz, Dateisystemabsicherung und rollenbasierte Zugriffskontrolle, die die Ausnutzung von Schwachstellen und die Ausbreitung im Betriebssystem verhindern sollen, genutzt werden.
