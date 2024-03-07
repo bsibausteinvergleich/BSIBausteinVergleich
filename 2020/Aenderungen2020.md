@@ -3905,56 +3905,88 @@ _Keine inhaltlichen Änderungen._
 ### Basis-Anforderungen
 
 #### SYS.1.8.A1
+_Keine inhaltlichen Änderungen._
 
 #### SYS.1.8.A2
+_Keine inhaltlichen Änderungen._
 
 #### SYS.1.8.A3
+_Keine inhaltlichen Änderungen._
 
 #### SYS.1.8.A4
+_Änderung:_\
+Es SOLLTEN als sicher geltende Protokolle eingesetzt werden.
+Sollten dennoch unsichere Protokolle verwendet werden, MUSS für die Administration ein eigenes Administrationsnetz genutzt werden.
 
 #### SYS.1.8.A5
+_Keine inhaltlichen Änderungen._
+
+### Standard-Anforderungen
 
 #### SYS.1.8.A6
+_Keine inhaltlichen Änderungen._
 
 #### SYS.1.8.A7
+_Keine inhaltlichen Änderungen._
 
 #### SYS.1.8.A8
+_Keine inhaltlichen Änderungen._
 
 #### SYS.1.8.A9
+_Keine inhaltlichen Änderungen._
 
 #### SYS.1.8.A10
+_Keine inhaltlichen Änderungen._
 
 #### SYS.1.8.A11
+_Keine inhaltlichen Änderungen._
 
 #### SYS.1.8.A12
+_Keine inhaltlichen Änderungen._
 
 #### SYS.1.8.A13
+_Keine inhaltlichen Änderungen._
 
 #### SYS.1.8.A14
+_Keine inhaltlichen Änderungen._
 
 #### SYS.1.8.A15
+_Keine inhaltlichen Änderungen._
 
 #### SYS.1.8.A16
+_Keine inhaltlichen Änderungen._
 
 #### SYS.1.8.A17
+_Keine inhaltlichen Änderungen._
 
 #### SYS.1.8.A18
+_Keine inhaltlichen Änderungen._
 
 #### SYS.1.8.A19
+_Keine inhaltlichen Änderungen._
 
 #### SYS.1.8.A20
+_Keine inhaltlichen Änderungen._
+
+### Anforderungen bei erhöhtem Schutzbedarf
 
 #### SYS.1.8.A21
+_Keine inhaltlichen Änderungen._
 
 #### SYS.1.8.A22
+_Keine inhaltlichen Änderungen._
 
 #### SYS.1.8.A23
+_Keine inhaltlichen Änderungen._
 
 #### SYS.1.8.A24
+_Keine inhaltlichen Änderungen._
 
 #### SYS.1.8.A25
+_Keine inhaltlichen Änderungen._
 
 #### SYS.1.8.A26
+_Keine inhaltlichen Änderungen._
 
 
 
