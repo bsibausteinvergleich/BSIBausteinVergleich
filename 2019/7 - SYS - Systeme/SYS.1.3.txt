@@ -55,7 +55,8 @@ In den Dateien "/etc/exports“ beziehungsweise "/etc/dfs/fstab“ SOLLTEN die m
 Die mountbaren Verzeichnisse SOLLTEN nur für bestimmte IT-Systeme sowie Benutzer unter Berücksichtigung der festgelegten Berechtigungsstruktur freigegeben werden.
 
 SYS.1.3.A12 Einsatz der Sicherheitsmechanismen von NIS
-NIS (Network Information Service) SOLLTE nur in einer sicheren Umgebung eingesetzt werden. In „/etc/passwd“, „/etc/group“ sowie allen anderen sicherheitsrelevanten Dateien SOLLTE der Eintrag „+::0:0:::“ nicht enthalten sein.
+NIS (Network Information Service) SOLLTE nur in einer sicheren Umgebung eingesetzt werden.
+In „/etc/passwd“, „/etc/group“ sowie allen anderen sicherheitsrelevanten Dateien SOLLTE der Eintrag „+::0:0:::“ nicht enthalten sein.
 Der Server-Prozess „ypserv“ SOLLTE nur Anfragen von vorher festgelegten Rechnern beantworten.
 
 
