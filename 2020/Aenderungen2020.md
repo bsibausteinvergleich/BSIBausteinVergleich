@@ -4990,55 +4990,106 @@ _Keine inhaltlichen Änderungen._
 ### Basis-Anforderungen
 
 #### SYS.4.4.A1
+_Keine inhaltlichen Änderungen._
 
 #### SYS.4.4.A2
+_Entfallen:_\
+Diese Passwörter MÜSSEN komplex genug sein, geheim gehalten und regelmäßig gewechselt werden.
+
+_Entfallen:_\
+Zusätzlich empfiehlt sich die Verwendung von alternativen Authentisierungsmechanismen, wie z. B. zertifikatsbasierte Authentisierung.
+
+_Ergänzung:_\
+Zudem MÜSSEN IoT-Gerate in das Identitäts- und Berechtigungsmanagement der Institution integriert werden.
 
 #### SYS.4.4.A3
+_Keine inhaltlichen Änderungen._
 
-#### SYS.4.4.A4
+#### SYS.4.4.A4 ENTFALLEN
+_Diese Anforderung ist entfallen._
 
 #### SYS.4.4.A5
+_Entfallen:_\
+• Signaturen auf Intrusion-Prevention-Systemen (IPS).
+
+_Änderung:_\
+• Die Konfiguration von Virtual Private Networks (VPNs) zwischen den Netzen mit IoT-Geräten und Sensor-Netzen und den Management-Netzen SOLLTE restriktiv erfolgen.
+
+### Standard-Anforderungen
 
 #### SYS.4.4.A6
+_Keine inhaltlichen Änderungen._
 
 #### SYS.4.4.A7
+_Entfallen:_\
+Dabei SOLLTEN Vorgaben zur Authentisierung, Update-Mechanismen und Netzanbindung definiert werden.
 
 #### SYS.4.4.A8
+_Entfallen:_\
+IoT-Geräte mit einem Cloud-Konzept SOLLTEN nicht beschafft werden.
 
 #### SYS.4.4.A9
+_Keine inhaltlichen Änderungen._
 
 #### SYS.4.4.A10
+_Änderung:_\
+Falls möglich, SOLLTEN IoT-Geräte erst mit Datennetzen verbunden werden, nachdem die Installation und die Konfiguration abgeschlossen sind.
 
 #### SYS.4.4.A11
+_Änderung:_\
+IoT-Geräte SOLLTEN nur Daten verschlüsselt übertragen.
 
 #### SYS.4.4.A12
+_Keine inhaltlichen Änderungen._
 
 #### SYS.4.4.A13
+_Entfallen:_\
+Dies gilt insbesondere für unsichere Dienste, wie z. B. Telnet oder SNMPv1/v2.
 
 #### SYS.4.4.A14
+_Keine inhaltlichen Änderungen._
 
 #### SYS.4.4.A15
+_Keine inhaltlichen Änderungen._
 
 #### SYS.4.4.A16
+_Keine inhaltlichen Änderungen._
 
 #### SYS.4.4.A17
+_Änderung:_\
+Es SOLLTE überwacht werden, ob die IoT-Geräte oder Sensor-Systeme nur mit IT-Systemen kommunizieren, die für den Betrieb der IoT-Geräte notwendig sind.
 
 #### SYS.4.4.A18
+_Keine inhaltlichen Änderungen._
 
 #### SYS.4.4.A19
+_Ergänzung:_\
+Der Zugriff auf die Administrationsschnittstellen von IoT-Geräten SOLLTE wie folgt eingeschränkt werden:
+• Nicht benötigte Administrationsschnittstellen SOLLTEN deaktiviert werden.
+• Netzbasierte Administrationsschnittstellen SOLLTEN auf berechtigte IT-Systeme bzw. Netzsegmente beschränkt werden.
+• Es SOLLTEN bevorzugt lokale Administrationsschnittstellen am IoT-Gerät oder Administrationsschnittstellen über lokale Netze verwendet werden.
 
 #### SYS.4.4.A20
+_Keine inhaltlichen Änderungen._
 
 #### SYS.4.4.A21
+_Keine inhaltlichen Änderungen._
 
 #### SYS.4.4.A22
+_Keine inhaltlichen Änderungen._
 
 #### SYS.4.4.A23
+_Keine inhaltlichen Änderungen._
 
 #### SYS.4.4.A24
+_Keine inhaltlichen Änderungen._
 
 
+## Änderungen SYS.4.5
 
+### Basis-Anforderungen
+
+#### SYS.4.5.A
 
 
 
