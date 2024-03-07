@@ -1,7 +1,5 @@
 3.1 Basis-Anforderungen
 
-
-
 SYS.3.2.1.A1 Festlegung einer Strategie für Smartphones und Tablets
 Bevor eine Institution Smartphones oder Tablets bereitstellt, betreibt oder einsetzt, MUSS die generelle Strategie im Hinblick auf die Nutzung und Kontrolle der Geräte festgelegt werden.
 Hierbei MUSS unter anderem festgelegt werden, wer auf welche Informationen der Institution zugreifen darf.
