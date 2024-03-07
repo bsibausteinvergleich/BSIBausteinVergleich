@@ -4829,13 +4829,55 @@ _Keine inhaltlichen Änderungen._
 _Keine inhaltlichen Änderungen._
 
 
-## Änderungen SYS.3.4
+## Änderungen SYS.3.4: ENTFALLEN
+_Dieser Baustein ist entfallen._
+
+
+## Änderungen SYS.4.1
 
 ### Basis-Anforderungen
 
-#### SYS.3.4.A
+#### SYS.4.1.A1
 
+#### SYS.4.1.A2
 
+#### SYS.4.1.A3
+
+#### SYS.4.1.A4
+
+#### SYS.4.1.A5
+
+#### SYS.4.1.A6
+
+#### SYS.4.1.A7
+
+#### SYS.4.1.A8
+
+#### SYS.4.1.A9
+
+#### SYS.4.1.A10
+
+#### SYS.4.1.A11
+
+#### SYS.4.1.A12
+
+#### SYS.4.1.A13
+
+#### SYS.4.1.A14
+
+#### SYS.4.1.A15
+
+#### SYS.4.1.A16
+
+#### SYS.4.1.A17
+
+#### SYS.4.1.A18
+
+#### SYS.4.1.A19
+
+#### SYS.4.1.A20
+
+#### SYS.4.1.A21
 
 
 ////////////////
