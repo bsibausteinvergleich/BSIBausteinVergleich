@@ -3683,60 +3683,97 @@ _Keine inhaltlichen Änderungen._
 ### Basis-Anforderungen
 
 #### SYS.1.5.A1
+_Keine inhaltlichen Änderungen._
 
 #### SYS.1.5.A2
+_Keine inhaltlichen Änderungen._
 
 #### SYS.1.5.A3
+_Keine inhaltlichen Änderungen._
 
 #### SYS.1.5.A4
+_Keine inhaltlichen Änderungen._
 
 #### SYS.1.5.A5
+_Änderung:_\
+(...) SOLLTEN als sicher geltende Protokolle eingesetzt werden.
+
+_Änderung:_\
+Sollte dennoch auf unsichere Protokolle zurückgegriffen werden, (...)
 
 #### SYS.1.5.A6
+_Keine inhaltlichen Änderungen._
 
 #### SYS.1.5.A7
+_Keine inhaltlichen Änderungen._
+
+### Standard-Anforderungen
 
 #### SYS.1.5.A8
+_Keine inhaltlichen Änderungen._
 
 #### SYS.1.5.A9
+_Entfallen:_\
+Dafür SOLLTE der Baustein NET.1.1 Netzarchitektur und -design berücksichtigt werden.
 
 #### SYS.1.5.A10
+_Keine inhaltlichen Änderungen._
 
 #### SYS.1.5.A11
+_Keine inhaltlichen Änderungen._
 
 #### SYS.1.5.A12
+_Keine inhaltlichen Änderungen._
 
 #### SYS.1.5.A13
+_Keine inhaltlichen Änderungen._
 
 #### SYS.1.5.A14
+_Keine inhaltlichen Änderungen._
 
 #### SYS.1.5.A15
+_Keine inhaltlichen Änderungen._
 
 #### SYS.1.5.A16
+_Keine inhaltlichen Änderungen._
 
 #### SYS.1.5.A17
+_Keine inhaltlichen Änderungen._
 
 #### SYS.1.5.A18
+_Keine inhaltlichen Änderungen._
 
 #### SYS.1.5.A19
+_Keine inhaltlichen Änderungen._
+
+### Anforderungen bei erhöhtem Schutzbedarf
 
 #### SYS.1.5.A20
+_Keine inhaltlichen Änderungen._
 
 #### SYS.1.5.A21
+_Keine inhaltlichen Änderungen._
 
 #### SYS.1.5.A22
+_Keine inhaltlichen Änderungen._
 
 #### SYS.1.5.A23
+_Keine inhaltlichen Änderungen._
 
 #### SYS.1.5.A24
+_Keine inhaltlichen Änderungen._
 
 #### SYS.1.5.A25
+_Keine inhaltlichen Änderungen._
 
 #### SYS.1.5.A26
+_Keine inhaltlichen Änderungen._
 
 #### SYS.1.5.A27
+_Keine inhaltlichen Änderungen._
 
 #### SYS.1.5.A28
+_Keine inhaltlichen Änderungen._
 
 
 
