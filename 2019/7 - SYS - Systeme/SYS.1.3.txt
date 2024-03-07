@@ -29,8 +29,6 @@ Anhand dieser Dokumentation SOLLTE der Quelltext jederzeit nachvollziehbar und r
 Alle weiteren Installationsschritte SOLLTEN dabei ebenfalls dokumentiert werden, damit sich die Konfiguration im Notfall schnell reproduzieren lässt.
 
 3.2 Standard-Anforderungen
-Gemeinsam mit den Basis-Anforderungen entsprechen die folgenden Anforderungen dem Stand der Technik für den Baustein SYS.1.3 Server unter Unix.
-Sie SOLLTEN grundsätzlich umgesetzt werden.
 
 SYS.1.3.A6 Verwaltung von Benutzern und Gruppen
 Zur Verwaltung von Benutzern und Gruppen SOLLTEN die entsprechenden Verwaltungswerkzeuge genutzt werden.
