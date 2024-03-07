@@ -1,7 +1,5 @@
 3.1 Basis-Anforderungen
 
-
-
 SYS.3.3.A1 Sicherheitsrichtlinien und Regelungen für die Mobiltelefon-Nutzung [Informationssicherheitsbeauftragter (ISB)]
 Werden Mobiltelefone für dienstliche Zwecke verwendet, MUSS eine Nutzungs- und Sicherheitsrichtlinie erstellt werden.
 Jedem Benutzer eines Mobiltelefons MUSS ein Exemplar der Sicherheitsrichtlinie ausgehändigt werden.
