@@ -21,8 +21,6 @@ Sollte der Mac von mehreren Anwendern genutzt werden, MUSS für jeden Anwender e
 Das Gast-Benutzerkonto MUSS deaktiviert werden.
 
 3.2 Standard-Anforderungen
-Gemeinsam mit den Basis-Anforderungen entsprechen die folgenden Anforderungen dem Stand der Technik für den Baustein SYS.2.4 Clients unter macOS.
-Sie SOLLTEN grundsätzlich umgesetzt werden.
 
 SYS.2.4.A4 Verwendung der Festplattenverschlüsselung
 Festplatten SOLLTEN insbesondere bei mobilen Macs (z. B. MacBooks) verschlüsselt werden.
