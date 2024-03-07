@@ -4411,43 +4411,70 @@ Die Option „Starten von externen Medien nicht zulassen“ SOLLTE aktiviert wer
 
 ### Basis-Anforderungen
 
-#### SYS.2.3.1.A1
+#### SYS.3.1.A1
+_Keine inhaltlichen Änderungen._
 
-#### SYS.2.3.1.A2
+#### SYS.3.1.A2
+_Keine inhaltlichen Änderungen._
 
-#### SYS.2.3.1.A3
+#### SYS.3.1.A3
+_Keine inhaltlichen Änderungen._
 
-#### SYS.2.3.1.A4
+#### SYS.3.1.A4
+_Keine inhaltlichen Änderungen._
 
-#### SYS.2.3.1.A5
+#### SYS.3.1.A5
+_Keine inhaltlichen Änderungen._
 
-#### SYS.2.3.1.A6
+### Standard-Anforderungen
 
-#### SYS.2.3.1.A7
+#### SYS.3.1.A6
+_Keine inhaltlichen Änderungen._
 
-#### SYS.2.3.1.A8
+#### SYS.3.1.A7
+_Keine inhaltlichen Änderungen._
 
-#### SYS.2.3.1.A9
+#### SYS.3.1.A8
+_Keine inhaltlichen Änderungen._
 
-#### SYS.2.3.1.A10
+#### SYS.3.1.A9
+_Keine inhaltlichen Änderungen._
 
-#### SYS.2.3.1.A11
+#### SYS.3.1.A10
+_Keine inhaltlichen Änderungen._
 
-#### SYS.2.3.1.A12
+#### SYS.3.1.A11
+_Keine inhaltlichen Änderungen._
 
-#### SYS.2.3.1.A13
+#### SYS.3.1.A12
+_Keine inhaltlichen Änderungen._
 
-#### SYS.2.3.1.A14
+#### SYS.3.1.A13
+_Keine inhaltlichen Änderungen._
 
-#### SYS.2.3.1.A15
+#### SYS.3.1.A14
+_Keine inhaltlichen Änderungen._
 
-#### SYS.2.3.1.A16
+#### SYS.3.1.A15 (Aktualisiert: Basis-Anforderung)
+_Keine inhaltlichen Änderungen._
 
-#### SYS.2.3.1.A17
+### Anforderungen bei erhöhtem Schutzbedarf
 
-#### SYS.2.3.1.A18
+#### SYS.3.1.A16
+_Keine inhaltlichen Änderungen._
+
+#### SYS.3.1.A17
+_Keine inhaltlichen Änderungen._
+
+#### SYS.3.1.A18
+_Keine inhaltlichen Änderungen._
 
 
+## Änderungen SYS.3.2.1
+
+### Basis-Anforderungen
+
+#### SYS.3.2.1.A
 
 
 
