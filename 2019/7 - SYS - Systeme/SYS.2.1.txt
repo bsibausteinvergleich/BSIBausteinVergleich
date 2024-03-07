@@ -1,7 +1,5 @@
 3.1 Basis-Anforderungen
 
-
-
 SYS.2.1.A1 Benutzerauthentisierung
 Um den Client zu nutzen, MÜSSEN sich die Benutzer gegenüber dem IT-System authentisieren.
 Sollen die Benutzer hierfür Passwörter verwenden, MÜSSEN sichere Passwörter benutzt werden.
