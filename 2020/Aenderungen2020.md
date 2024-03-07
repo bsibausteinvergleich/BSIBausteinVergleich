@@ -3623,38 +3623,59 @@ _Keine inhaltlichen Änderungen._
 ### Basis-Anforderungen
 
 #### SYS.1.3.A1
+_Keine inhaltlichen Änderungen._
 
 #### SYS.1.3.A2
+_Keine inhaltlichen Änderungen._
 
 #### SYS.1.3.A3
+_Keine inhaltlichen Änderungen._
 
 #### SYS.1.3.A4
+_Keine inhaltlichen Änderungen._
 
 #### SYS.1.3.A5
+_Keine inhaltlichen Änderungen._
+
+### Standard-Anforderungen
 
 #### SYS.1.3.A6
+_Keine inhaltlichen Änderungen._
 
-#### SYS.1.3.A7
+#### SYS.1.3.A7 ENTFALLEN
+_Diese Anforderung ist entfallen._
 
 #### SYS.1.3.A8
+_Keine inhaltlichen Änderungen._
 
 #### SYS.1.3.A9
+_Keine inhaltlichen Änderungen._
 
 #### SYS.1.3.A10
+_Keine inhaltlichen Änderungen._
 
 #### SYS.1.3.A11
+_Keine inhaltlichen Änderungen._
 
 #### SYS.1.3.A12
+_Keine inhaltlichen Änderungen._
 
-#### SYS.1.3.A13
+### Anforderungen bei erhöhtem Schutzbedarf
+
+#### SYS.1.3.A13 ENTFALLEN
+_Diese Anforderung ist entfallen._
 
 #### SYS.1.3.A14
+_Keine inhaltlichen Änderungen._
 
 #### SYS.1.3.A15
+_Keine inhaltlichen Änderungen._
 
 #### SYS.1.3.A16
+_Keine inhaltlichen Änderungen._
 
 #### SYS.1.3.A17
+_Keine inhaltlichen Änderungen._
 
 
 
