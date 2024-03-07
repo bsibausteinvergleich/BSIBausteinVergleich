@@ -11,9 +11,8 @@ Dies MUSS entsprechend auf allen Clients eingestellt werden.
 SYS.2.2.2.A3 Einsatz von Viren-Schutzprogrammen
 Sofern nicht gleich- oder höherwertige Maßnahmen zum Schutz des IT-Systems vor einer Infektion mit Schadsoftware getroffen wurden, MUSS ein Virenschutz-Programm auf Clients unter Windows 8 eingesetzt werden.
 
+
 3.2 Standard-Anforderungen
-Gemeinsam mit den Basis-Anforderungen entsprechen die folgenden Anforderungen dem Stand der Technik für den Baustein SYS.2.2.2 Clients unter Windows 8.1.
-Sie SOLLTEN grundsätzlich umgesetzt werden.
 
 SYS.2.2.2.A4 Beschaffung von Windows 8.1
 Die Anforderungen gemäß dem Windows Hardware Certification Requirement SOLLTEN bei der Beschaffung von Windows 8.1 bzw. der entsprechenden Hardware für das Windows 8.1-System berücksichtigt werden.
