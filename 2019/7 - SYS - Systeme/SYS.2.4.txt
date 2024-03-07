@@ -33,7 +33,8 @@ Heruntergeladene Daten SOLLTEN nicht automatisch geöffnet werden.
 Inhalte von optischen und anderen Medien SOLLTEN nicht automatisch ausgeführt werden.
 
 SYS.2.4.A6 Verwendung aktueller Hardware
-Bei der Beschaffung von neuen Macs SOLLTE auf aktuelle Modelle zurückgegriffen werden. Werden vorhandene Macs eingesetzt, SOLLTE überprüft werden, ob diese weiterhin von Apple mit Sicherheits-Updates versorgt werden.
+Bei der Beschaffung von neuen Macs SOLLTE auf aktuelle Modelle zurückgegriffen werden.
+Werden vorhandene Macs eingesetzt, SOLLTE überprüft werden, ob diese weiterhin von Apple mit Sicherheits-Updates versorgt werden.
 Werden die Macs nicht mehr durch Apple unterstützt, so SOLLTEN sie nicht mehr verwendet werden.
 
 SYS.2.4.A7 Zwei-Faktor-Authentisierung für Apple-ID [Benutzer]
