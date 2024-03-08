@@ -9,7 +9,7 @@ Aus Gründen der Lesbarkeit wird auf die Wiederholung der Umstellung auf geschle
 ---
 
 
-## Änderungen ISMS.1
+## ISMS.1
 
 Keine inhaltlichen Änderungen.
 
@@ -17,9 +17,16 @@ Keine inhaltlichen Änderungen.
 ---
 
 
-## Änderungen CON
+## CON
 
-### Änderungen CON.1
+### CON.1
+
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
 
 Der Baustein spricht jetzt an mehreren Stellen von *Informationen* statt von *Daten*.
 
@@ -250,8 +257,16 @@ Ehemals *Schulung von Benutzern und Administratoren*:
 
 #### CON.1.A20 vollständig neu hinzugefügt als Anforderung mit erhöhtem Schutzbedarf
 
+</details>
 
 ### CON.2
+
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
 
 #### CON.2.A1
 
@@ -259,6 +274,7 @@ Ehemals *Schulung von Benutzern und Administratoren*:
 
 Die gesetzlichen Bestimmungen zum Datenschutz (DSGVO, BDSG, die Datenschutzgesetze der Bundesländer und gegebenenfalls einschlägige bereichsspezifische Datenschutzregelungen) MÜSSEN eingehalten werden.
 
+</details>
 
 ### CON.3
 
@@ -299,10 +315,18 @@ Keine inhaltlichen Änderungen.
 
 ### ORP.1
 
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
+
 #### ORP.1.A17
 
 Die Anforderung wurde neu hinzugefügt.
 
+</details>
 
 ### ORP.2
 
@@ -335,6 +359,13 @@ Der Baustein wurde neu hinzugefügt.
 
 
 ### OPS.1.1.2
+
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
 
 #### OPS.1.1.2.A2
 
@@ -527,9 +558,17 @@ Anforderung mit erhöhtem Schutzbedarf wurde neu hinzugefügt.
 
 Anforderung mit erhöhtem Schutzbedarf wurde neu hinzugefügt.
 
+</details>
 
 
 ### OPS.1.1.3
+
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
 
 #### OPS.1.1.3.A15
 
@@ -554,6 +593,7 @@ Ehemals *Regelmäßige Suche nach Informationen zu Patches und Schwachstellen*:
 
 *Falls dies nicht möglich ist, SOLLTE sichergestellt sein, dass die entsprechende Hardware, relevanten Betriebssysteme, eingesetzten Anwendungen und Dienste nicht weiter verwendet werden.*
 
+</details>
 
 ### OPS.1.1.4
 
@@ -587,6 +627,13 @@ Keine inhaltlichen Änderungen.
 
 ### OPS.1.2.5
 
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
+
 #### OPS.1.2.5.A19
 
 ##### Geändert:
@@ -602,6 +649,7 @@ Keine inhaltlichen Änderungen.
 
 *Für Fernwartungszugänge SOLLTEN dedizierte Konten verwendet werden.*
 
+</details>
 
 ### OPS.1.2.6
 
@@ -684,6 +732,13 @@ Keine inhaltlichen Änderungen
 
 ### APP.1.2
 
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
+
 #### APP.1.2.A13
 
 ##### Neu:
@@ -712,6 +767,7 @@ Keine inhaltlichen Änderungen
 
 *Wird die Funktion dennoch genutzt, SOLLTEN die Benutzenden diese Daten löschen können.*
 
+</details>
 
 ### APP.1.4
 
@@ -724,6 +780,13 @@ Keine inhaltlichen Änderungen.
 
 
 ### APP.2.1
+
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
 
 #### APP.2.1.A2
 
@@ -853,8 +916,16 @@ Die Anforderung erhöhten Schutzbedarfs wurde neu hinzugefügt.
 
 Die Anforderung erhöhten Schutzbedarfs wurde neu hinzugefügt.
 
+</details>
 
 ### APP.2.2
+
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
 
 #### APP.2.2.A1
 
@@ -970,8 +1041,16 @@ Die Anforderung für erhöhten Schutzbedarf wurde neu hinzugefügt.
 
 Die Anforderung für erhöhten Schutzbedarf wurde neu hinzugefügt.
 
+</details>
 
 ### APP.2.3
+
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
 
 #### APP.2.3.A9
 
@@ -1004,6 +1083,7 @@ Die Anforderung für erhöhten Schutzbedarf wurde neu hinzugefügt.
 
 *Wird der slapd-Server als exklusiver Dienst auf einem dedizierten Server betrieben, SOLLTE dieser ausreichend gehärtet sein.*
 
+</details>
 
 ### APP.3.1
 
@@ -1022,12 +1102,20 @@ Keine inhaltlichen Änderungen.
 
 ### APP.3.4
 
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
+
 #### APP.3.4.A6
 
 ##### Entfallen:
 
 *Dabei SOLLTE Winbind Domänen-Benutzernamen in eindeutige Unix-Benutzernamen umsetzen.*
 
+</details>
 
 ### APP.3.6
 
@@ -1060,6 +1148,13 @@ Keine inhaltlihcen Änderungen.
 
 
 ### APP.5.3
+
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
 
 #### APP.5.3.A1
 
@@ -1107,6 +1202,7 @@ Keine inhaltlihcen Änderungen.
 
 *DMARC-Einträge SOLLTEN vorgeben, dass E-Mails im Fehlerfall abgewiesen werden.*
 
+</details>
 
 ### APP.5.4
 
@@ -1159,6 +1255,13 @@ Keine inhaltlichen Änderungen.
 
 ### IND.3.2
 
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
+
 #### IND.3.2.A1
 
 ##### Neu:
@@ -1172,6 +1275,7 @@ Keine inhaltlichen Änderungen.
 
 *Im industriellen Umfeld MUSS sichergestellt werden, dass Personen an oder in Anlagen und Maschinen weder direkt noch indirekt durch eine aktive Fernwartung gefährdet werden können.*
 
+</details>
 
 
 ---
@@ -1179,6 +1283,13 @@ Keine inhaltlichen Änderungen.
 ## SYS
 
 ### SYS.1.1
+
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
 
 #### SYS.1.1.A1
 
@@ -1219,11 +1330,13 @@ Grundlegend geändert, Inhalt nahezu vollständig neu.
 
 Anforderung neu als Standard-Anforderung hinzugekommen.
 
+<
 
 ### SYS.1.2.3
 
 Der Baustein wurde neu hinzugefügt.
 
+</details>
 
 ### SYS.1.3
 
@@ -1237,12 +1350,20 @@ Keine inhaltlichen Änderungen.
 
 ### SYS.1.6
 
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
+
 #### SYS.1.6.A6
 
 ##### Neu:
 
 *Die Quelle MUSS diesen Umgang mit Sicherheitsproblemen zusichern und einhalten.*
 
+</details>
 
 ### SYS.1.7
 
@@ -1261,6 +1382,13 @@ Der Baustein wurde neu hinzugefügt.
 
 ### SYS.2.1
 
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
+
 #### SYS.2.1.A11
 
 ##### Neu (aus entfallener Anforderung SYS.2.1.A14 übernommen):
@@ -1278,8 +1406,16 @@ Ehemals *Updates und Patches für Firmware, Betriebssystem und Anwendungen*.
 
 *Betriebssysteme, Anwendungsprogramme und Firmware, für die keine regelmäßigen Sicherheitsupdates angeboten werden, DÜRFEN NICHT eingesetzt werden.*
 
+</details>
 
 ### SYS.2.2.3
+
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
 
 Jetzt für alle Windows Client Betriebssysteme gültig, nicht mehr nur Windows 10.
 
@@ -1303,6 +1439,7 @@ Jetzt für alle Windows Client Betriebssysteme gültig, nicht mehr nur Windows 1
 
 Die Anforderung wurde neu hinzugefügt.
 
+</details>
 
 ### SYS.2.3
 
@@ -1361,6 +1498,13 @@ Keine inhaltlichen Änderungen.
 
 ### SYS.4.3
 
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
+
 #### SYS.4.3.A1
 
 ##### Entfallen:
@@ -1378,6 +1522,7 @@ Keine inhaltlichen Änderungen.
 
 *Ist dies nicht möglich, SOLLTE das System vernichtet werden.*
 
+</details>
 
 ### SYS.4.4
 
@@ -1385,6 +1530,13 @@ Keine inhaltlichen Änderungen.
 
 
 ### SYS.4.5
+
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
 
 #### SYS.4.5.A2
 
@@ -1415,6 +1567,7 @@ Keine inhaltlichen Änderungen.
 
 *Die Integrität der Daten SOLLTE regelmäßig überprüft werden.*
 
+</details>
 
 ---
 
@@ -1484,6 +1637,13 @@ Keine inhaltlichen Änderungen.
 
 ### INF.1
 
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
+
 #### INF.1.A1
 
 ##### Entfallen (verschoben zu INF.1.A9):
@@ -1497,6 +1657,7 @@ Keine inhaltlichen Änderungen.
 
 *Es MUSS ein IT-bezogenes Brandschutzkonzept erstellt und umgesetzt werden.*
 
+</details>
 
 ### INF.2
 
@@ -1530,6 +1691,13 @@ Keine inhaltlichen Änderungen.
 
 ### INF.10
 
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
+
 #### INF.10.A10 ist entfallen (verschoben zu ORP.1.A17)
 
 Ehemals *Mitführverbot von Mobiltelefonen*:
@@ -1538,6 +1706,7 @@ Ehemals *Mitführverbot von Mobiltelefonen*:
 
 *Falls erforderlich, SOLLTE dies durch Mobilfunk-Detektoren überprüft werden.*
 
+</details>
 
 ### INF.11
 
