@@ -5085,11 +5085,39 @@ _Keine inhaltlichen Änderungen._
 _Keine inhaltlichen Änderungen._
 
 
-## Änderungen SYS.4.5
+## NEU: SYS.4.5
 
 ### Basis-Anforderungen
 
-#### SYS.4.5.A
+#### NEU: SYS.4.5.A1
+
+#### NEU: SYS.4.5.A2
+
+#### NEU: SYS.4.5.A3
+
+#### NEU: SYS.4.5.A4
+
+#### NEU: SYS.4.5.A5
+
+#### NEU: SYS.4.5.A6
+
+#### NEU: SYS.4.5.A7
+
+#### NEU: SYS.4.5.A8
+
+#### NEU: SYS.4.5.A9
+
+#### NEU: SYS.4.5.A10
+
+#### NEU: SYS.4.5.A11
+
+#### NEU: SYS.4.5.A12
+
+#### NEU: SYS.4.5.A13
+
+#### NEU: SYS.4.5.A14
+
+#### NEU: SYS.4.5.A15
 
 
 
