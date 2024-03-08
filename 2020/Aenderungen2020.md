@@ -6034,6 +6034,47 @@ _Keine inhaltlichen Änderungen._
 _Keine inhaltlichen Änderungen._
 
 
+## Änderungen NET.4.2
+
+### Basis-Anforderungen
+
+#### NET.4.2.A1
+
+#### NET.4.2.A2
+
+#### NET.4.2.A3
+
+#### NET.4.2.A4
+
+#### NET.4.2.A5
+
+#### NET.4.2.A6
+
+#### NET.4.2.A7
+
+#### NET.4.2.A8
+
+#### NET.4.2.A9
+
+#### NET.4.2.A10
+
+#### NET.4.2.A11
+
+#### NET.4.2.A12
+
+#### NET.4.2.A13
+
+#### NET.4.2.A14
+
+#### NET.4.2.A15
+
+#### NET.4.2.A16
+
+
+
+
+
+
 
 ////////////////
 Formatierungshilfen:
