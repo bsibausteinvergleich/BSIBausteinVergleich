@@ -5175,6 +5175,47 @@ SYS.4.5.A16 Nutzung dedizierter Systeme zur Datenprüfung (H)\
 Die Institution SOLLTE dedizierte Systeme als Datenschleuse verwenden, bei denen Daten von einem Wechseldatenträger auf einen anderen übertragen werden und dabei auf Schadsoftware untersucht werden.
 
 
+## Änderungen IND.1
+
+### Basis-Anforderungen
+
+#### IND.1.A1
+
+#### IND.1.A2
+
+#### IND.1.A3
+
+#### IND.1.4
+
+#### IND.1.A5
+
+#### IND.1.A6
+
+#### IND.1.A7
+
+#### IND.1.A8
+
+#### IND.1.A9
+
+#### IND.1.A10
+
+#### IND.1.A11
+
+#### IND.1.A12
+
+#### IND.1.A13
+
+#### IND.1.A14
+
+#### IND.1.A15
+
+#### IND.1.A16
+
+#### IND.1.A17
+
+
+
+
 
 
 ////////////////
