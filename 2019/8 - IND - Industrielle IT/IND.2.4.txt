@@ -1,6 +1,5 @@
 3.1 Basis-Anforderungen
 
-
 IND.2.4.A1 Fernwartung durch Maschinen- und Anlagenbauer [ICS-Administrator]
 Für die Fernwartung einer Maschine SOLLTE es eine zentrale Richtlinie geben.
 Darin SOLLTE geregelt werden, wie die jeweiligen Fernwartungslösungen einzusetzen sind und wie Kommunikationsverbindungen geschützt werden.
