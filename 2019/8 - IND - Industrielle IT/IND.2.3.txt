@@ -1,6 +1,5 @@
 3.1 Basis-Anforderungen
 
-
 IND.2.3.A1 Installation von Sensoren [ICS-Administrator, Wartungspersonal]
 Sensoren MÜSSEN in geeigneter Weise installiert werden.
 Die Sensoren MÜSSEN ausreichend robust und zuverlässig unter den vorgesehenen Umgebungsbedingungen (Klima, Staub, Vibration, Korrosion etc.) messen können.
