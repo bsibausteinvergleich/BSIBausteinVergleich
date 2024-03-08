@@ -42,7 +42,8 @@ Informationen über den internen Konfigurations- und Betriebszustand MÜSSEN nac
 
 NET.3.2.A5 Restriktive Rechtevergabe (B)
 Es MUSS geregelt werden, wer auf die Firewall zugreifen darf.
-Dabei DÜRFEN immer NUR so viele Zugriffsrechte vergeben werden, wie für die jeweiligen Aufgaben erforderlich sind (Need-to-know-Prinzip). Unautorisierte Benutzerkonten MÜSSEN entfernt werden.
+Dabei DÜRFEN immer NUR so viele Zugriffsrechte vergeben werden, wie für die jeweiligen Aufgaben erforderlich sind (Need-to-know-Prinzip).
+Unautorisierte Benutzerkonten MÜSSEN entfernt werden.
 Es MUSS sichergestellt werden, dass mit Administrator-Rechten nur gearbeitet wird, wenn es notwendig ist.
 
 NET.3.2.A6 Schutz der Administrationsschnittstellen (B)
