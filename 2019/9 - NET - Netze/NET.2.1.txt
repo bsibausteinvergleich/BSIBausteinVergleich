@@ -1,7 +1,5 @@
 3.1 Basis-Anforderungen
 
-
-
 NET.2.1.A1 Festlegung einer Strategie für den Einsatz von WLANs [Leiter IT]
 Bevor in einer Institution WLANs eingesetzt werden, MUSS festgelegt sein, welche generelle Strategie die Institution im Hinblick auf die WLAN-Nutzung einnimmt.
 Insbesondere MUSS geklärt und festgelegt werden, in welchen Organisationseinheiten, für welche Anwendungen und zu welchem Zweck WLANs eingesetzt und welche Informationen hierüber übertragen werden dürfen.
