@@ -1,6 +1,5 @@
 3.1 Basis-Anforderungen
 
-
 INF.7.A1 Geeignete Auswahl und Nutzung eines Büroraumes [Mitarbeiter, Vorgesetzte]
 Es DÜRFEN NUR geeignete Räume als Büroraume genutzt werden.
 Auch MÜSSEN die Büroräume für den Schutzbedarf bzw. das Schutzniveau der dort verarbeiteten Informationen angemessen ausgewählt und ausgestattet sein.
