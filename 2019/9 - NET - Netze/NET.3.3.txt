@@ -11,7 +11,8 @@ Mit einem VPN-Dienstleister MÜSSEN Service Level Agreements (SLAs) ausgehandelt
 Es MUSS regelmäßig kontrolliert werden, ob der VPN-Dienstleister die vereinbaren SLAs einhält.
 
 NET.3.3.A3 Sichere Installation von VPN-Endgeräten
-Das zugrundeliegende Betriebssystem der VPN-Plattform MUSS sicher konfiguriert werden. Wird eine Appliance benutzt, MUSS es dafür einen gültigen Wartungsvertrag geben.
+Das zugrundeliegende Betriebssystem der VPN-Plattform MUSS sicher konfiguriert werden.
+Wird eine Appliance benutzt, MUSS es dafür einen gültigen Wartungsvertrag geben.
 Es MUSS sichergestellt werden, dass nur qualifiziertes Personal VPN-Komponenten installiert.
 Die Installation der VPN-Komponenten sowie eventuelle Abweichungen von den Planungsvorgaben SOLLTEN dokumentiert werden.
 Die Funktionalität und die gewählten Sicherheitsmechanismen des VPN MÜSSEN vor Inbetriebnahme geprüft werden.
