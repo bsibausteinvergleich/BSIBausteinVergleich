@@ -41,7 +41,8 @@ NET.1.1.A6 Endgeräte-Segmentierung im internen Netz
 Es DÜRFEN NUR Endgeräte in einem Sicherheitssegment positioniert werden, die einem ähnlichen Sicherheitsniveau entsprechen.
 
 NET.1.1.A7 Absicherung von schützenswerten Informationen
-Schützenswerte Informationen MÜSSEN über nach dem derzeitigen Stand der Technik über sichere Protokolle übertragen werden, falls nicht über vertrauenswürdige dedizierte Netzsegmente (z. B. innerhalb des Managementnetzes) kommuniziert wird. Können solche Protokolle nicht genutzt werden, MUSS nach Stand der Technik angemessen verschlüsselt und authentisiert werden (siehe NET.3.3 VPN).
+Schützenswerte Informationen MÜSSEN über nach dem derzeitigen Stand der Technik über sichere Protokolle übertragen werden, falls nicht über vertrauenswürdige dedizierte Netzsegmente (z. B. innerhalb des Managementnetzes) kommuniziert wird.
+Können solche Protokolle nicht genutzt werden, MUSS nach Stand der Technik angemessen verschlüsselt und authentisiert werden (siehe NET.3.3 VPN).
 
 NET.1.1.A8 Grundlegende Absicherung des Internetzugangs
 Der Internetzugang MUSS entsprechend NET.1.1.A4 Netztrennung in Sicherheitszonen gestaltet werden.
