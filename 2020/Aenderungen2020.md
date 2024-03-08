@@ -5352,28 +5352,122 @@ _Keine inhaltlichen Änderungen._
 ### Basis-Anforderungen
 
 #### IND.2.7.A1
+_Keine inhaltlichen Änderungen._
 
 #### IND.2.7.A2
+_Keine inhaltlichen Änderungen._
 
 #### IND.2.7.A3
+_Keine inhaltlichen Änderungen._
+
+### Standard-Anforderungen
 
 #### IND.2.7.A4
+_Keine inhaltlichen Änderungen._
 
 #### IND.2.7.A5
+_Keine inhaltlichen Änderungen._
 
 #### IND.2.7.A6
+_Keine inhaltlichen Änderungen._
 
 #### IND.2.7.A7
+_Keine inhaltlichen Änderungen._
 
 #### IND.2.7.A8
+_Keine inhaltlichen Änderungen._
 
 #### IND.2.7.A9
+_Keine inhaltlichen Änderungen._
 
 #### IND.2.7.A10
+_Keine inhaltlichen Änderungen._
 
 #### IND.2.7.A11
+_Keine inhaltlichen Änderungen._
+
+### Anforderungen bei erhöhtem Schutzbedarf
 
 #### IND.2.7.A12
+_Keine inhaltlichen Änderungen._
+
+
+## Änderungen NET.1.1
+
+### Basis-Anforderungen
+
+#### NET.1.1.A1
+
+#### NET.1.1.A2
+
+#### NET.1.1.A3
+
+#### NET.1.1.A4
+
+#### NET.1.1.A5
+
+#### NET.1.1.A6
+
+#### NET.1.1.A7
+
+#### NET.1.1.A8
+
+#### NET.1.1.A9
+
+#### NET.1.1.A10
+
+#### NET.1.1.A11
+
+#### NET.1.1.A12
+
+#### NET.1.1.A13
+
+#### NET.1.1.A14
+
+#### NET.1.1.A15
+
+#### NET.1.1.A16
+
+#### NET.1.1.A17
+
+#### NET.1.1.A18
+
+#### NET.1.1.A19
+
+#### NET.1.1.A20
+
+#### NET.1.1.A21
+
+#### NET.1.1.A22
+
+#### NET.1.1.A23
+
+#### NET.1.1.A24
+
+#### NET.1.1.A25
+
+#### NET.1.1.A26
+
+#### NET.1.1.A27
+
+#### NET.1.1.A28
+
+#### NET.1.1.A29
+
+#### NET.1.1.A30
+
+#### NET.1.1.A31
+
+#### NET.1.1.A32
+
+#### NET.1.1.A33
+
+#### NET.1.1.A34
+
+#### NET.1.1.A35
+
+#### NET.1.1.A36
+
 
 
 
