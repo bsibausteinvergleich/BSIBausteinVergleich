@@ -1,7 +1,5 @@
 3.1 Basis-Anforderungen
 
-
-
 INF.1.A1 Planung der Gebäudeabsicherung [Planer, Informationssicherheitsbeauftragter (ISB)]
 Ausgehend von der geplanten oder vorhandenen Nutzung eines Gebäudes und dem Schutzbedarf der dort betriebenen Geschäftsprozesse MUSS festgelegt werden, wie das Gebäude abzusichern ist.
 Bei einem Gebäude MÜSSEN viele verschiedene Sicherheitsaspekte zum Schutz von Personen im Gebäude, dem Schutz der Wirtschaftsgüter und der IT beachtet werden, von Brandschutz über Elektrik bis hin zur Zutrittskontrolle.
