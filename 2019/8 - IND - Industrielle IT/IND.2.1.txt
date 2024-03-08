@@ -1,7 +1,5 @@
 3.1 Basis-Anforderungen
 
-
-
 IND.2.1.A1 Einschränkung des Zugriffs für Konfigurations- und Wartungsschnittstellen [ICS-Administrator]
 Es MUSS sichergestellt werden, dass nur berechtigte Mitarbeiter auf Konfigurations- und Wartungsschnittstellen von ICS-Komponenten zugreifen können.
 Die Konfiguration der ICS-Komponente DARF NUR nach einer Freigabe oder nach einer Authentisierung geändert werden.
