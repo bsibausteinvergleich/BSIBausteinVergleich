@@ -80,7 +80,8 @@ Abweichungen SOLLTE nachgegangen werden.
 NET.2.1.A14 Regelmäßige Audits der WLAN-Komponenten
 Bei allen Komponenten der WLAN-Infrastruktur (Access Points, Distribution System, WLAN-Management-Lösung etc.) SOLLTE regelmäßig überprüft werden, ob alle festgelegten Sicherheitsmaßnahmen umgesetzt und diese korrekt konfiguriert sind.
 Öffentlich aufgestellte Access Points SOLLTEN regelmäßig stichprobenartig darauf geprüft werden, ob es gewaltsame Öffnungs- oder Manipulationsversuche gab.
-Die Auditergebnisse SOLLTEN nachvollziehbar dokumentiert und mit dem Soll-Zustand abgeglichen werden. Abweichungen SOLLTE nachgegangen werden.
+Die Auditergebnisse SOLLTEN nachvollziehbar dokumentiert und mit dem Soll-Zustand abgeglichen werden.
+Abweichungen SOLLTE nachgegangen werden.
 
 
 3.3 Anforderungen bei erhöhtem Schutzbedarf
