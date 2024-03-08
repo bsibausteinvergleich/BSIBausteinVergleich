@@ -1,6 +1,5 @@
 3.1 Basis-Anforderungen
 
-
 NET.1.2.A1 Planung des Netzmanagements
 Die Netzmanagement-Infrastruktur MUSS geeignet geplant werden.
 Hierbei SOLLTEN alle in der Sicherheitsrichtlinie und Anforderungsspezifikation adressierten Punkte sowie das Rollen- und Berechtigungskonzept berücksichtigt werden.
