@@ -23,7 +23,8 @@ Ausgehend von der Sicherheitsrichtlinie (siehe NET.1.1.A1 Sicherheitsrichtlinie 
 Aus den Anforderungen MÜSSEN sich alle wesentlichen Elemente für Netzarchitektur und -design ableiten lassen.
 
 NET.1.1.A4 Netztrennung in Sicherheitszonen
-Das Gesamtnetz MUSS in mindestens folgende drei Sicherheitszonen physisch separiert sein: internes Netz, demilitarisierte Zone (DMZ) und Außenanbindungen (inklusive Internetanbindung sowie Anbindung an andere nicht vertrauenswürdige Netze). Zonenübergänge MÜSSEN durch eine Firewall abgesichert werden.
+Das Gesamtnetz MUSS in mindestens folgende drei Sicherheitszonen physisch separiert sein: internes Netz, demilitarisierte Zone (DMZ) und Außenanbindungen (inklusive Internetanbindung sowie Anbindung an andere nicht vertrauenswürdige Netze).
+Zonenübergänge MÜSSEN durch eine Firewall abgesichert werden.
 Diese Kontrolle MUSS dem Prinzip der lokalen Kommunikation folgen, sodass von Firewalls ausschließlich erlaubte Kommunikation weitergeleitet wird (Whitelisting).
 Nicht vertrauenswürdige Netze (z. B. Internet) und vertrauenswürdige Netze (z. B. Intranet) MÜSSEN durch eine zweistufige Firewall-Struktur, bestehend aus zustandsbehafteten Paketfiltern (Firewall), getrennt werden.
 Um Internet und externe DMZ netztechnisch zu trennen, MUSS mindestens ein zustandsbehafteter Paketfilter (Firewall) eingesetzt werden.
