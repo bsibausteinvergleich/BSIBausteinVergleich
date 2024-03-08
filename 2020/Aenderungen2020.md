@@ -6157,72 +6157,114 @@ _Keine inhaltlichen Änderungen._
 ### Basis-Anforderungen
 
 #### INF.1.A1
+_Keine inhaltlichen Änderungen._
 
 #### INF.1.A2
+_Keine inhaltlichen Änderungen._
 
 #### INF.1.A3
+_Entfallen:_\
+Dazu gehört die regelmäßige Entsorgung von Altpapier und Verpackungsabfällen.
 
 #### INF.1.A4
+_Keine inhaltlichen Änderungen._
 
 #### INF.1.A5
+_Keine inhaltlichen Änderungen._
 
 #### INF.1.A6
+_Keine inhaltlichen Änderungen._
 
 #### INF.1.A7
+_Keine inhaltlichen Änderungen._
 
 #### INF.1.A8
+_Keine inhaltlichen Änderungen._
+
+### Standard-Anforderungen
 
 #### INF.1.A9
+_Keine inhaltlichen Änderungen._
 
 #### INF.1.A10
+_Keine inhaltlichen Änderungen._
 
 #### INF.1.A11
+_Ergänzung:_\
+(...)und der Raum für unberechtigte Personen zugänglich ist.
 
 #### INF.1.A12
+_Keine inhaltlichen Änderungen._
 
 #### INF.1.A13
+_Keine inhaltlichen Änderungen._
 
 #### INF.1.A14
+_Keine inhaltlichen Änderungen._
 
 #### INF.1.A15
+_Keine inhaltlichen Änderungen._
 
 #### INF.1.A16
+_Keine inhaltlichen Änderungen._
 
 #### INF.1.A17
+_Keine inhaltlichen Änderungen._
 
 #### INF.1.A18
+_Keine inhaltlichen Änderungen._
 
 #### INF.1.A19
+_Keine inhaltlichen Änderungen._
 
 #### INF.1.A20
+_Keine inhaltlichen Änderungen._
+
+### Anforderungen bei erhöhtem Schutzbedarf
 
 #### INF.1.A21
+_Keine inhaltlichen Änderungen._
 
 #### INF.1.A22
+_Keine inhaltlichen Änderungen._
 
 #### INF.1.A23
+_Keine inhaltlichen Änderungen._
 
 #### INF.1.A24
+_Keine inhaltlichen Änderungen._
 
 #### INF.1.A25
+_Keine inhaltlichen Änderungen._
 
 #### INF.1.A26
+_Keine inhaltlichen Änderungen._
 
 #### INF.1.A27
+_Änderung:_\
+Bei der Planung, der Umsetzung und im Betrieb SOLLTE beim Einbruchschutz darauf geachtet werden, dass er gleichwertig und durchgängig ist.
+Er SOLLTE regelmäßig durch eine fachkundige Person begutachtet werden.
 
 #### INF.1.A28
+_Keine inhaltlichen Änderungen._
 
 #### INF.1.A29
+_Keine inhaltlichen Änderungen._
 
 #### INF.1.A30
+_Keine inhaltlichen Änderungen._
 
 #### INF.1.A31
+_Keine inhaltlichen Änderungen._
 
 #### INF.1.A32
+_Keine inhaltlichen Änderungen._
 
 #### INF.1.A33
+_Keine inhaltlichen Änderungen._
 
 #### INF.1.A34
+_Keine inhaltlichen Änderungen._
 
 
 
