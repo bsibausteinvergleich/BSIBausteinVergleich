@@ -6536,7 +6536,35 @@ Bei Aufbau und Betrieb des Stromverteilnetzes SOLLTEN die empfohlenen Trennungsa
 
 ### Basis-Anforderungen
 
-#### INF.4.A
+#### INF.4.A1
+
+#### INF.4.A2
+
+#### INF.4.A3
+
+#### INF.4.A4
+
+#### INF.4.A5
+
+#### INF.4.A6
+
+#### INF.4.A7
+
+#### INF.4.A8
+
+#### INF.4.A9
+
+#### INF.4.A10
+
+#### INF.4.A11
+
+#### INF.4.A12
+
+#### INF.4.A13
+
+#### INF.4.A14
+
+#### INF.4.A15
 
 
 
