@@ -1,7 +1,5 @@
 3.1 Basis-Anforderungen
 
-
-
 IND.1.A1 Einbindung in die Sicherheitsorganisation
 Ein Informationssicherheits-Managementsystem (ISMS) für den Betrieb der OT-Infrastruktur MUSS entweder als selbständiges ISMS oder als Teil eines Gesamt-ISMS existieren und MUSS in seinem Geltungsbereich die Definition von Zielen und Werten, Prozessen, Rollen, Verantwortlichkeiten und Vorgaben für die OT explizit umfassen.
 Die Leitungsebene der Institution MUSS den Sicherheitsprozess initiieren, steuern und kontrollieren.
