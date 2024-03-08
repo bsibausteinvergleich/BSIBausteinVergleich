@@ -6267,6 +6267,34 @@ _Keine inhaltlichen Änderungen._
 _Keine inhaltlichen Änderungen._
 
 
+## Änderungen INF.10
+
+### Basis-Anforderungen
+
+#### INF.10.A1
+
+#### INF.10.A2
+
+#### INF.10.A3
+
+#### INF.10.A4
+
+#### INF.10.A5
+
+#### INF.10.A6
+
+#### INF.10.A7
+
+#### INF.10.A8
+
+#### INF.10.A9
+
+#### INF.10.A10
+
+
+
+
+
 
 ////////////////
 Formatierungshilfen:
