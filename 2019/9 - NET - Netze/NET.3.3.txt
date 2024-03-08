@@ -55,7 +55,8 @@ NET.3.3.A9 Geeignete Auswahl von VPN-Produkten
 Bei der Auswahl von VPN-Produkten SOLLTEN die Anforderungen der Institutionen an die Vernetzung unterschiedlicher Standorte und die Anbindung mobiler Mitarbeiter oder Telearbeiter berücksichtigt werden.
 
 NET.3.3.A10 Sicherer Betrieb eines VPN
-Für VPNs SOLLTE ein Betriebskonzept erstellt werden. Darin SOLLTEN die Aspekte Qualitätsmanagement, Überwachung, Wartung, Schulung und Autorisierung beachtet werden.
+Für VPNs SOLLTE ein Betriebskonzept erstellt werden.
+Darin SOLLTEN die Aspekte Qualitätsmanagement, Überwachung, Wartung, Schulung und Autorisierung beachtet werden.
 
 NET.3.3.A11 Sichere Anbindung eines externen Netzes
 Wird ein VPN benutzt, um ein externes Netz anzubinden, SOLLTEN dabei nach dem derzeitigen Stand der Technik sicherere Authentisierungs- und Verschlüsselungsverfahren mit ausreichender Schlüssellänge verwendet werden.
