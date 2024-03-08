@@ -1,4 +1,4 @@
-#Übersicht der Änderungen des IT-Grundschutz-Kompendiums von Version 2021 zu 2022
+#### Übersicht der Änderungen des IT-Grundschutz-Kompendiums von Version 2020 zu 2021
 
 ---
 
@@ -6,6 +6,13 @@
 ## ISMS 
 
 ### ISMS 1
+
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
 
 #### ISMS 1.A1
 
@@ -136,7 +143,7 @@ Neben den allgemeinen SOLLTE es auch zielgruppenorientierte Sicherheitsrichtlini
 
 Keine inhaltlichen Änderungen.
 
-
+</details>
 
 ---
 
@@ -145,6 +152,12 @@ Keine inhaltlichen Änderungen.
 
 ### ORP 1
 
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
 
 #### ORP 1.A1
 
@@ -281,9 +294,17 @@ Keine inhaltlichen Änderungen
 
 #### ORP 1.A16 Die Anforderung ist komplett neu hinzugefügt wurden.
 
+</details>
 
 
 ### ORP 2
+
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
 
 #### ORP 2.A1
 
@@ -447,9 +468,17 @@ Arbeiten Mitarbeiter mit nach dem Geheimschutz klassifizierten Verschlusssachen,
 
 Diesbezüglich SOLLTE der ISB den Geheimschutzbeauftragten bzw. Sicherheitsbevollmächtigten der Institution einbeziehen.
 
+</details>
 
 
 ### ORP 3
+
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
 
 #### ORP 3.A1
 
@@ -529,9 +558,17 @@ Der Informationssicherheitsbeauftragte SOLLTE sich regelmäßig mit der Personal
 
 Keine inhaltlichen Änderungen.
 
+</details>
 
 
 ### ORP 4
+
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
 
 #### ORP 4.A1
 
@@ -677,9 +714,17 @@ keine inhaltlichen Änderungen
 
 #### ORP 4.A24 Anforderung komplett neu hinzugefügt.
 
+</details>
 
 
 ### ORP 5
+
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
 
 #### ORP 5.A1
 
@@ -747,6 +792,7 @@ Keine inhaltlichen Änderungen.
 
 Keine inhaltlichen Änderungen.
 
+</details>
 
 
 ---
@@ -756,6 +802,13 @@ Keine inhaltlichen Änderungen.
 ## CON
 
 ### CON 1
+
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
 
 #### CON 1.A1
 
@@ -800,6 +853,7 @@ In der Sicherheitsrichtlinie SOLLTE geregelt werden, wer für den sicheren Betri
 
 Keine inhaltlichen Änderungen
 
+</details>
 
 
 ### CON 2
@@ -809,6 +863,13 @@ Keine inhaltlichen Änderungen
 
 
 ### CON 3
+
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
 
 #### CON 3.A1
 
@@ -820,6 +881,7 @@ Dazu MUSS der IT-Betrieb die Fachverantwortlichen für die Anwendungen und die Z
 
 Keine inhaltlichen Änderugen.
 
+</details>
 
 
 ### CON 4
@@ -835,6 +897,13 @@ Der Baustein "Entwicklung und Einsatz von Individualsoftware" ist entfallen. An 
 
 
 ### CON 6
+
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
 
 #### CON 6.A1
 
@@ -986,9 +1055,17 @@ Die Anfroderung wurde komplett neu hinzugefügt.
 
 DIe Anforderung wurde komplett neu hinzugefügt.
 
+</details>
 
 
 ### CON 7
+
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
 
 #### CON 7.A1-A10
 
@@ -1004,9 +1081,17 @@ Keine inhaltlichen Änderungen.
 
 Keine inhaltlichen Änderungen.
 
+</details>
 
 
 ### CON 8
+
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
 
 #### CON 8.A1 wurde von einer Basis Anforderung zu einer Standard Anforderung.
 
@@ -1243,9 +1328,17 @@ Keine inhaltlichen Änderungen.
 
 Keine inhaltlichen Änderungen.
 
+</details>
 
 
 ### CON 9
+
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
 
 #### CON 9.A1
 
@@ -1320,6 +1413,7 @@ Keine inhaltlichen Änderungen.
 
 DIe Anfordrung ist komplett neu hinzugefügt wurden.
 
+</details>
 
 
 ### CON 10
@@ -1335,6 +1429,13 @@ Der Baustein CON 10 ist komplett neu hinzugefügt wurden.
 ## OPS
 
 ### OPS 1.1.2
+
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
 
 #### OPS 1.1.2.A1 Die Anforderung ist komplett entfallen.
 
@@ -1434,9 +1535,17 @@ Die ANforderung ist komplett neu hinzugekommen.
 
 Keine inhaltlichen Änderungen.
 
+</details>
 
 
 ### OPS 1.1.3
+
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
 
 #### OPS 1.1.3.A1
 
@@ -1555,9 +1664,17 @@ Keine inhaltlichen Änderungen.
 
 *Wenn Institutionen Änderungen an der IT-Infrastruktur vornehmen, SOLLTE der Änderungsmanagementprozess darauf reagieren.*
 
+</details>
 
 
 ### OPS 1.1.4
+
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
 
 #### OPS 1.1.4.A1
 
@@ -1671,9 +1788,17 @@ Keine inhaltlichen Änderungen.
 
 *Nach der Installation von Schutzprogrammen SOLLTE die Konfiguration von externen Experten begutachtet werden.*
 
+</details>
 
 
 ### OPS 1.1.5
+
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
 
 #### OPS 1.1.5.A1
 
@@ -1773,9 +1898,17 @@ Es SOLLTE sichergestellt sein, dass die ausführenden Administratoren selbst kei
 
 Keine inhaltlichen Änderungen.
 
+</details>
 
 
 ### OPS 1.1.6
+
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
 
 #### OPS 1.1.6.A1
 
@@ -1928,6 +2061,7 @@ Keine inhaltlichen Änderungen.
 
 Die Anforderung wurde komplett neu hinzugefügt.
 
+</details>
 
 
 ### OPS 1.2.2
@@ -1937,6 +2071,13 @@ Keine inhaltlichen Änderungen.
 
 
 ### OPS 1.2.4
+
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
 
 #### OPS 1.2.4.A1
 
@@ -1988,9 +2129,17 @@ keine inhaltlichen Änderungen.
 
 Keine inhaltlichen Änderungen.
 
+</details>
 
 
 ### OPS 1.2.5
+
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
 
 #### OPS 1.2.5.A1
 
@@ -2069,6 +2218,7 @@ Keine inhaltlichen Änderungen.
 
 Keine inhaltlichen Änderungen.
 
+</details>
 
 
 ### OPS 2.1
@@ -2096,6 +2246,13 @@ Keine inhaltlichen Änderungen.
 ## DER
 
 ### DER 1
+
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
 
 #### DER 1.A1
 
@@ -2202,9 +2359,17 @@ Keine inhaltlichen Änderungen.
 
 Keine inhaltlichen Änderungen.
 
+</details>
 
 
 ### DER 2.1
+
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
 
 #### DER 2.1.A1-A4
 
@@ -2274,6 +2439,7 @@ Die Zuständigkeiten des Expertenteams SOLLTEN vorher mit denen des Sicherheitsv
 
 Keine inhaltlichen Änderungen.
 
+</details>
 
 
 ### DER 2.2
@@ -2289,6 +2455,13 @@ Keine inhaltlichen Änderungen.
 
 
 ### DER 3.1
+
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
 
 #### DER 3.1.A1-A27
 
@@ -2306,9 +2479,17 @@ Keine inhaltlichen Änderungen.
 
 *Diesbezüglich SOLLTE der ISB den Geheimschutzbeauftragten bzw. Sicherheitsbevollmächtigten der Institution einbeziehen.*
 
+</details>
 
 
 ### DER 3.2
+
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
 
 #### DER 3.2.A1-A22
 
@@ -2327,6 +2508,7 @@ Keine inhaltlichen Änderungen.
 
 *Diesbezüglich SOLLTE der ISB den Geheimschutzbeauftragten bzw. Sicherheitsbevollmächtigten seiner Institution einbeziehen.*
 
+</details>
 
 
 ### DER 4
@@ -2342,6 +2524,13 @@ Keine inhaltlichen Änderungen.
 ## APP
 
 ### APP 1.1
+
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
 
 #### APP 1.1.A1 Die Anforderung ist komplett entfallen.
 
@@ -2545,9 +2734,17 @@ Bevor ein in ein Office-Produkt integriertes Verschlüsselungsverfahren genutzt 
 
 *Es SOLLTE ein Verfahren ausgewählt werden, das dazu in der Lage ist, die Daten selbstständig zu korrigieren.*
 
+</details>
 
 
 ### APP 1.2
+
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
 
 #### APP 1.2.A1
 
@@ -2650,9 +2847,17 @@ Keine inhaltlichen Änderungen.
 
 Keine inhaltlichen Änderungen.
 
+</details>
 
 
 ### APP 1.4
+
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
 
 #### APP 1.4.A1
 
@@ -2827,6 +3032,7 @@ Keine inhaltlichen Änderungen.
 
 Die Anforderung wurde komplett neu hinzugefüt.
 
+</details>
 
 
 ### APP 2.1
@@ -2836,6 +3042,13 @@ Keine inhaltlichen Änderungen.
 
 
 ### APP 2.2
+
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
 
 #### APP 2.2.A1
 
@@ -2947,9 +3160,17 @@ Keine inhaltlichen Änderungen.
 
 Keine inhaltlichen Änderungen.
 
+</details>
 
 
 ### APP 2.3
+
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
 
 #### APP 2.3.A1
 
@@ -3055,9 +3276,17 @@ Keine inhaltlichen Änderungen.
 
 *Für die Wiederherstellung der Datenbestände SOLLTE ein geeignetes Werkzeug eingesetzt werden.*
 
+</details>
 
 
 ### APP 3.1
+
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
 
 #### APP 3.1.A1 Die Anforderung wurde komplett geändert.
 
@@ -3366,9 +3595,17 @@ Keine inhaltlichen Änderungen.
 
 *Entwickler und Betreiber einer Webanwendung SOLLTEN sicherstellen, dass vertrauliche Daten einer Webanwendung durch sichere, kryptografische Algorithmen geschützt werden*
 
+</details>
 
 
 ### APP 3.2
+
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
 
 #### APP 3.2.A1
 
@@ -3471,11 +3708,19 @@ Keine inhaltlichen Änderungen.
 
 Keine inhaltlichen Änderungen.
 
+</details>
 
 
 ### APP 3.3
 
 Die Institution wurde in diesem Baustein grundätzlich durch den IT-Betrieb ersetzt.
+
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
 
 #### APP 3.3.A2
 
@@ -3562,11 +3807,19 @@ Kein inhaltlichen Änderungen.
 
 Für hochverfügbare Fileserver SOLLTE eine angemessene Replikation der Daten auf mehreren Massenspeichern stattfinden.
 
+</details>
 
 
 ### APP 3.4
 
 Die Institution wurde in diesem Baustein grundätzlich durch den IT-Betrieb ersetzt.
+
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
 
 #### APP 3.4.A1
 
@@ -3665,9 +3918,17 @@ Keine inhaltlichen Änderungen.
 
 Keine inhaltlichen Änderungen.
 
+</details>
 
 
 ### APP 3.6
+
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
 
 #### APP 3.6.A1-A6
 
@@ -3783,9 +4044,17 @@ Keine inhaltichen Änderungen.
 
 Keine inhaltichen Änderungen.
 
+</details>
 
 
 ### APP 4.2
+
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
 
 #### APP 4.2.A1-A4
 
@@ -3858,9 +4127,17 @@ Keine inhaltichen Änderungen.
 
 Keine inhaltichen Änderungen.
 
+</details>
 
 
 ### APP 4.3
+
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
 
 #### APP 4.3.A1
 
@@ -4023,6 +4300,7 @@ Keine inhaltlichen Änderungen.
 
 Keine inhaltlichen Änderungen.
 
+</details>
 
 
 
@@ -4041,6 +4319,13 @@ Der Baustein ist komplett entfallen.
 
 
 ### APP 5.2
+
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
 
 #### APP 5.2.A1-A9
 
@@ -4119,6 +4404,7 @@ keine inhaltlichen Änderungen.
 
 Keine inhaltlichen Änderungen.
 
+</details>
 
 
 ### 5.3 
@@ -4143,6 +4429,13 @@ Der Baustein ist komplett neu hinzugefügt wurden.
 ## SYS
 
 ### SYS 1.1
+
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
 
 #### SYS 1.1.A1
 
@@ -4476,9 +4769,17 @@ Keine inhaltlichen Änderungen.
 
 Die ANforderung wurde komplett neu hinzugefügt.
 
+</details>
 
 
 ### SYS 1.2.2
+
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
 
 #### SYS 1.2.2.A1
 
@@ -4601,9 +4902,17 @@ Keine inhaltlichen Änderungen.
 
 Keine inhaltlichen Änderungen.
 
+</details>
 
 
 ### SYS 1.3
+
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
 
 #### SYS 1.3.A1 Die Anforderung ist komplett entfallen.
 
@@ -4727,9 +5036,17 @@ Keine inhaltlichen Änderungen.
 
 Keine inhaltlichen Änderungen.
 
+</details>
 
 
 ### SYS 1.5
+
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
 
 #### SYS 1.5.A1 Die Anforderung ist komplett entfallen.
 
@@ -4804,9 +5121,17 @@ Keine inhaltlichen Änderungen.
 
 Keine inhaltlichen Änderungen.
 
+</details>
 
 
 ### SYS 1.7
+
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
 
 #### SYS 1.7.A1-A9
 
@@ -4883,9 +5208,17 @@ Keine inhaltlichen Änderungen.
 
 Keine inhaltlichen Änderungen.
 
+</details>
 
 
 ### SYS 1.8
+
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
 
 #### SYS 1.8.A1
 
@@ -5022,9 +5355,17 @@ Keine inhaltlichen Änderungen.
 
 Keine inhaltlichen Änderungen.
 
+</details>
 
 
 ### SYS 2.1
+
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
 
 #### SYS 2.1.A1
 
@@ -5433,9 +5774,17 @@ Keine inhaltlichen Änderungen.
 
 Die Anforderung wurde komplett neu hinzugefügt.
 
+</details>
 
 
 ### SYS 2.2.2
+
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
 
 #### SYS 2.2.2.A1
 
@@ -5576,9 +5925,17 @@ Keine inhaltlichen Änderungen.
 
 Keine inhaltlichen Änderungen.
 
+</details>
 
 
 ### SYS 2.3
+
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
 
 #### SYS 2.3.A1
 
@@ -5683,9 +6040,17 @@ Keine inhaltlichen Änderungen.
 
 Keine inhaltlichen Änderungen.
 
+</details>
 
 
 ### SYS 2.4
+
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
 
 #### SYS 2.4.A1
 
@@ -5700,9 +6065,17 @@ Keine inhaltlichen Änderungen.
 
 Keine inhaltlichen Änderungen.
 
+</details>
 
 
 ### SYS 3.1
+
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
 
 #### SYS 3.1.A1
 
@@ -5835,9 +6208,17 @@ Keine inhaltlichen Änderungen.
 
 Keine inhaltlichen Änderungen.
 
+</details>
 
 
 ### SYS 3.2.1
+
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
 
 #### SYS 3.2.1.A1
 
@@ -6038,9 +6419,17 @@ Keine inhaltlichen Änderungen.
 
 Die Anforderung wurde komplett neu hinzugefügt.
 
+</details>
 
 
 ### SYS 3.2.2
+
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
 
 #### SYS 3.2.2.A1
 
@@ -6197,9 +6586,17 @@ Keine inhaltlichen Änderungen.
 
 Keine inhaltlichen Änderungen.
 
+</details>
 
 
 ### SYS 3.2.3
+
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
 
 #### SYS 3.2.3.A1-A9
 
@@ -6275,9 +6672,17 @@ Falls sicherzustellen ist, ob der Benutzer noch im Besitz des Gerätes ist, SOLL
 
 Falls die Frist ohne Zugriff verstricht, sollte das Konfigurationsprofil dieses Benutzers automatisch gelöscht werden.
 
+</details>
 
 
 ### SYS 3.2.4
+
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
 
 #### SYS 3.2.4.A1 Die Anforderung ist komplett entfallen.
 
@@ -6335,9 +6740,17 @@ Keine inhaltlichen Änderungen.
 
 *Auf Android-basierten Geräten SOLLTE eine Firewall installiert und aktiviert sein.*
 
+</details>
 
 
 ### SYS 3.3
+
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
 
 #### SYS 3.3.A1
 
@@ -6425,9 +6838,17 @@ Keine inhaltlichen Änderungen.
 
 Damit vertrauliche Informationen nicht abgehört werden können, SOLLTE dafür gesorgt werden, dass keine Mobiltelefone zu vertraulichen Besprechungen und Gesprächen in die entsprechenden Räume mitgenommen werden.
 
+</details>
 
 
 ### SYS 4.1
+
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
 
 #### SYS 4.1.A1
 
@@ -6556,9 +6977,17 @@ Keine inhaltlichen Änderungen
 
 Keine inhaltlichen Änderungen
 
+</details>
 
 
 ### SYS 4.3
+
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
 
 #### SYS 4.3.A1
 
@@ -6592,9 +7021,17 @@ Die Anforderungsliste SOLLTE mindestens folgende sicherheitsrelevante Aspekte um
 
 Keine inhaltlichen Änderungen
 
+</details>
 
 
 ### SYS 4.4
+
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
 
 #### SYS 4.4.A1
 
@@ -6746,9 +7183,17 @@ Alle eingesetzten IoT-Geräte SOLLTEN regelmäßig überprüft werden.
 
 Der Webserver SOLLTE, soweit möglich, NICHT unter einem privilegierten Konto betrieben werden.
 
+</details>
 
 
 ### SYS 4.5
+
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
 
 #### SYS 4.5.A1
 
@@ -6822,6 +7267,7 @@ Keine inhaltlichen Änderungen
 
 Keine inhaltlichen Änderungen
 
+</details>
 
 
 ---
@@ -6831,6 +7277,13 @@ Keine inhaltlichen Änderungen
 ## IND
 
 ### IND 1
+
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
 
 #### IND 1.A1
 
@@ -7063,9 +7516,17 @@ Keine inhaltlichen Änderungen.
 
 Die Anforderung wurde komplett neu hinzugefügt.
 
+</details>
 
 
 ### IND 2.1
+
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
 
 #### IND 2.1.A1
 
@@ -7240,9 +7701,17 @@ Keine inhaltlichen Änderungen.
 
 Keine inhaltlichen Änderungen.
 
+</details>
 
 
 ### IND 2.2
+
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
 
 #### IND 2.2.A1
 
@@ -7290,6 +7759,7 @@ Keine inhaltlichen Änderungen.
 
 Alle nicht benutzten Kommunikationsschnittstellen SOLLTEN deaktiviert werden.
 
+</details>
 
 
 ### IND 2.4
@@ -7322,6 +7792,13 @@ Sonst keine inhaltlichen Änderungen.
 ### NET 1.1
 
 Verantwortlich wurde durch Zuständig ersetzt.
+
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
 
 #### NET 1.1.A1
 
@@ -7387,9 +7864,17 @@ Authentisierte und vertrauenswürdige Netzzugriffe vom VPN-Gateway ins interne N
 
 Keine inhaltlichen Änderungen.
 
+</details>
 
 
 ### NET 1.2
+
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
 
 #### NET 1.2.A1
 
@@ -7567,9 +8052,18 @@ Keine inhaltlichen Änderungen.
 
 Keine inhaltlichen Änderungen.
 
+</details>
+
 
 
 ### NET 2.1
+
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
 
 #### NET 2.1.A1-A5
 
@@ -7615,9 +8109,17 @@ Werden die Inhalte der Richtlinie nicht umgesetzt, MUSS geeignet reagiert werden
 
 Keine inhaltlichen Änderungen.
 
+</details>
 
 
 ### NET 2.2
+
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
 
 #### NET 2.2.A1
 
@@ -7652,9 +8154,17 @@ Wird die WLAN-Schnittstelle über einen längeren Zeitraum nicht genutzt, MUSS d
 
 • Über öffentlich zugängliche WLANs DÜRFEN die Benutzer NUR über ein Virtual Private Network (VPN) auf interne Ressourcen der Institution zugreifen.
 
+</details>
 
 
 ### NET 3.1
+
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
 
 #### NET 3.1.A1
 
@@ -7745,9 +8255,17 @@ Außerdem SOLLTE geplant und vorbereitet werden, wie die identifizierten Fehler 
 
 Keine inhaltlichen Änderungen.
 
+</details>
 
 
 ### NET 3.2
+
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
 
 #### NET 3.2.A1
 
@@ -7895,9 +8413,17 @@ Die Anforderung wurde komplett neu hinzugefügt.
 
 Keine inhaltlichen Änderungen.
 
+</details>
 
 
 ### NET 3.3
+
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
 
 #### NET 3.3.A1
 
@@ -7945,9 +8471,18 @@ Keine inhaltlichen Änderungen.
 
 Keine inhaltlichen Änderungen.
 
+</details>
+
 
 
 ### NET 4.1
+
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
 
 #### NET 4.1.A1
 
@@ -8006,9 +8541,17 @@ Keine inhaltlichen Änderungen.
 
 Keine inhaltlichen Änderungen.
 
+</details>
 
 
 ### NET 4.2
+
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
 
 #### NET 4.2.A1
 
@@ -8103,6 +8646,7 @@ Mediendaten und Informationen zur Steuerung dieser Daten, die über das Real-Tim
 
 Die Nutzdaten SOLLTEN durch den Einsatz von Secure Real-Time Transport Protocol (SRTP) beziehungsweise Secure Real-Time Control Protocol (SRTCP) geschützt werden.
 
+</details>
 
 
 ### NET 4.3
@@ -8118,6 +8662,13 @@ Keine inhaltlichen Änderungen
 ## INF
 
 ### INF 1
+
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
 
 #### INF 1.A1
 
@@ -8334,9 +8885,17 @@ Hierbei SOLLTEN mindestens folgende Komponenten auf ihren Nutzen und ihre Umsetz
 
 • automatische Alarmierung.
 
+</details>
 
 
 ### INF 2
+
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
 
 #### INF 2.A1-A5
 
@@ -8465,6 +9024,7 @@ Keine inhaltlichen Änderungen.
 
 Keine inhaltlichen Änderungen.
 
+</details>
 
 
 ### INF 3
@@ -8480,6 +9040,13 @@ Der Baustein ist komplett entfallen.
 
 
 ### INF 5
+
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
 
 #### INF 5.A1-A6
 
@@ -8525,9 +9092,17 @@ Keine inhaltlichen Änderungen.
 
 Keine inhaltlichen Änderungen.
 
+</details>
 
 
 ### INF 6
+
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
 
 #### INF 6.A1-A3
 
@@ -8551,9 +9126,17 @@ Keine inhaltlichen Ánderungen.
 
 Keine inhaltlichen Ánderungen.
 
+</details>
 
 
 ### INF 7
+
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
 
 #### INF 7.A1
 
@@ -8591,6 +9174,7 @@ Keine inhaltlichen Änderungen.
 
 Keine inhaltlichen Änderungen.
 
+</details>
 
 
 ### INF 8
@@ -8601,6 +9185,13 @@ Keine inhaltlichen Änderungen.
 
 ### INF 9
 
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
+
 #### INF 9.A1-A11
 
 keine inhaltlichen Änderungen.
@@ -8610,9 +9201,17 @@ keine inhaltlichen Änderungen.
 
 Die ANforderung ist komplett neu hinzugefügt.
 
+</details>
 
 
 ### INF 10
+
+<details>
+<summary>
+  
+##### Änderungen
+
+</summary>
 
 #### INF 10.A1
 
@@ -8645,6 +9244,8 @@ Auf andere Netze SOLLTE nur restriktiv zugegriffen werden können.
 #### INF 10.A8-A10
 
 keine inhaltlichen Änderungen
+
+</details>
 
 
 
