@@ -209,45 +209,24 @@ Bei längerfristig beschäftigtem Fremdpersonal MUSS dieses wie die eigenen Mita
 ### Standard-Anforderungen
 
 #### ORP.2.A6
-Keine inhaltlichen Änderungen
+_Keine inhaltlichen Änderungen._
 
 #### ORP.2.A7
-_Änderung:_\
-~~Deshalb SOLLTEN alle Beteiligten bei der Personalauswahl mit der gebotenen Sorgfalt bemüht sein, Angaben der Bewerber/-innen, die relevant sind für die Einschätzung ihrer Vertrauenswürdigkeit, auf ihre Glaubhaftigkeit hin zu überprüfen, soweit dies möglich ist.~~\
-_zu:_\
-Deshalb SOLLTEN alle an der Personalauswahl Beteiligten soweit möglich kontrollieren, ob die Angaben der Bewerberinnen und Bewerber, die relevant für die Einschätzung ihrer Vertrauenswürdigkeit sind, glaubhaft sind.
+_Keine inhaltlichen Änderungen._
 
 #### ORP.2.A8
-_Änderung:_\
-~~Die Aufgaben und Zuständigkeiten von Mitarbeitern SOLLTEN in geeigneter Weise dokumentiert sein, beispielsweise durch Arbeitsverträge oder Vereinbarungen.~~\
-_zu:_\
-Die Aufgaben und Zuständigkeiten von Mitarbeitern SOLLTEN in geeigneter Weise dokumentiert sein.
-
-_Änderung:_\
-~~Der IT-Sicherheitsbeauftragte SOLLTE dafür sorgen, dass alle Mitarbeiter ihre Aufgaben und Zuständigkeiten im Sicherheitsprozess kennen.~~\
-_zu:_\
-Der Informationssicherheitsbeauftragte (ISB) SOLLTE dafür sorgen, dass alle Mitarbeiter ihre Aufgaben und Zuständigkeiten im Sicherheitsprozess kennen.
-
-_Änderung:_\
-~~Insbesondere SOLLTE vereinbart sein, dass jeder Mitarbeiter auch außerhalb der Arbeitszeit und außerhalb des Betriebsgeländes für die Informationssicherheit der Institution zuständig ist.~~\
-_zu:_\
-Insbesondere SOLLTE vereinbart sein, dass jeder Mitarbeiter auch außerhalb der Arbeitszeit und außerhalb des Betriebsgeländes für die Informationssicherheit der Institution zuständig ist.
+_Keine inhaltlichen Änderungen._
 
 #### ORP.2.A9
-_Änderung:_\
-~~Die Mitarbeiter SOLLTEN entsprechend ihrer Tätigkeit regelmäßig geschult werden, damit sie in Bezug auf die ihnen übertragenen Tätigkeiten immer auf dem aktuellen Stand sind.~~\
-_zu:_\
-Die Mitarbeiter SOLLTEN regelmäßig geschult werden, damit sie in Bezug auf die ihnen übertragenen Tätigkeiten immer auf dem aktuellen Stand sind.
+_Keine inhaltlichen Änderungen._
 
 #### ORP.2.A10
-Keine inhaltlichen Änderungen
+_Keine inhaltlichen Änderungen._
 
 ### Anforderungen bei erhöhtem Schutzbedarf
 
-
 #### ORP.2.A11
-Keine inhaltlichen Änderungen
-
+_Keine inhaltlichen Änderungen._
 #### ORP.2.A12
 _Änderung:_\
 ~~Zur Zufriedenheit der Mitarbeiter SOLLTE ein Verantwortlicher als vertrauenswürdiger Ansprechpartner benannt werden. Im Fall von größeren organisatorischen oder technischen Veränderungen SOLLTE die Benennung eines solchen Ansprechpartners geprüft werden.~~\
@@ -255,10 +234,7 @@ _zu:_\
 Für die Mitarbeiter SOLLTE eine Vertrauensperson als Ansprechpartner benannt werden.
 
 #### ORP.2.A13
-_Änderung:_\
-~~Im Hochsicherheitsbereich SOLLTE eine zusätzliche Sicherheitsüberprüfung zur grundlegenden Überprüfung der Vertrauenswürdigkeit von Mitarbeitern durchgeführt werden.~~\
-_zu:_\
-Im Hochsicherheitsbereich SOLLTE eine zusätzliche Sicherheitsüberprüfung zusätzlich zur grundlegenden Überprüfung der Vertrauenswürdigkeit von Mitarbeitern durchgeführt werden.
+_Keine inhaltlichen Änderungen._
 
 
 ## Änderungen ORP.3
@@ -268,13 +244,8 @@ Im Hochsicherheitsbereich SOLLTE eine zusätzliche Sicherheitsüberprüfung zus�
 #### ORP.3.A1
 "Management" _ersetzt durch_ "Institutsleitung"
 
-_Änderung:_\
-~~Die Institutionsleitung MUSS die Sicherheitskampagnen und Schulungsmaßnahmen für die Mitarbeiter nachdrücklich und aktiv unterstützen.~~\
-_zu:_\
-Die Institutionsleitung MUSS die Sicherheitskampagnen und Schulungsmaßnahmen für die Mitarbeiter unterstützen.
-
 #### ORP.3.A2
-Keine inhaltlichen Änderungen
+_Keine inhaltlichen Änderungen._
 
 #### ORP.3.A3
 _Anforderung entfallen_
@@ -282,10 +253,10 @@ _Anforderung entfallen_
 ### Standard-Anforderungen
 
 #### ORP.3.A4
-Keine inhaltlichen Änderungen
+_Keine inhaltlichen Änderungen._
 
 #### ORP.3.A5
-Keine inhaltlichen Änderungen
+_Keine inhaltlichen Änderungen._
 
 #### ORP.3.A6
 _Änderung:_\
@@ -414,8 +385,7 @@ _zu:_\
 Benutzerkennungen mit weitreichenden Berechtigungen SOLLTEN mit einer Mehr-Faktor-Authentisierung, z. B. mit kryptografischen Zertifikaten, Chipkarten oder Token geschützt werden.
 
 #### ORP.4.A11
-Keine inhaltlichen Änderungen
-
+_Keine inhaltlichen Änderungen._
 #### ORP.4.A12
 _Änderung:_\
 ~~Authentisierungsinformationen SOLLTEN kryptografisch sicher geschützt übertragen und gespeichert werden.~~\
@@ -423,14 +393,11 @@ _zu:_\
 Authentisierungsinformationen MÜSSEN kryptografisch sicher übertragen und gespeichert werden.
 
 #### ORP.4.A13
-Keine inhaltlichen Änderungen
-
+_Keine inhaltlichen Änderungen._
 #### ORP.4.A14
-Keine inhaltlichen Änderungen
-
+_Keine inhaltlichen Änderungen._
 #### ORP.4.A15
-Keine inhaltlichen Änderungen
-
+_Keine inhaltlichen Änderungen._
 #### ORP.4.A16
 _Änderung:_\
 ~~ORP.4.A16 Richtlinien für die Zugriffs- und Zugangskontrolle [Administrator]~~\
@@ -452,8 +419,7 @@ _zu:_\
 ORP.4.A18 Einsatz eines zentralen Authentisierungsdienstes [IT-Betrieb] (S)
 
 #### ORP.4.A19
-Keine inhaltlichen Änderungen
-
+_Keine inhaltlichen Änderungen._
 ### Anforderungen bei erhöhtem Schutzbedarf
 
 #### ORP.4.A20
