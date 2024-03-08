@@ -6312,60 +6312,156 @@ _Keine inhaltlichen Änderungen._
 ### Basis-Anforderungen
 
 #### INF.2.A1
+_Änderung:_\
+Wenn ein Rechenzentrum geplant wird oder geeignete Räumlichkeiten ausgewählt werden, MÜSSEN auch geeignete Sicherheitsmaßnahmen unter Berücksichtigung des Schutzbedarfs der IT-Komponenten (insbesondere der Verfügbarkeit) mit geplant werden.
+
+_Entfallen:_\
+Auch MUSS darauf geachtet werden, dass Versorgungsleitungen (z. B. für Wasser oder Gas) möglichst nicht in unmittelbarer Nähe von schutzbedürftigen Technikkomponenten verlaufen.
+Vorhandene Versorgungsleitungen MÜSSEN zumindest an den kritischen Stellen regelmäßig überprüft werden, ob sie noch dicht sind.
 
 #### INF.2.A2
+_Änderung:_\
+Die Brand- und Rauchabschnitte MÜSSEN über den baurechtlich vorgeschriebenen Rahmen hinaus auch Schutz für die darin befindlichen technischen Einrichtungen und deren Verfügbarkeit bieten.
+Es MUSS verhindert werden, dass sich Brand und Rauch ausbreiten.
 
 #### INF.2.A3
+_Ergänzung:_\
+Sie SOLLTE dazu vorzugsweise räumlich getrennt von der Leistungselektronik der USV platziert werden.
+
+_Entfallen:_\
+Um sicherzustellen, dass die USV die erforderliche Stützzeit bereitstellt, MUSS regelmäßig sowie zusätzlich, wenn sich bei den Verbrauchern etwas ändert, die tatsächliche Stützzeit ermittelt werden.
+Wenn IT-Geräte über eine USV versorgt werden, DÜRFEN diese NICHT über geschirmte Leitungen mit weiteren IT-Geräten verbunden werden.
 
 #### INF.2.A4
+_Änderung:_\
+Es MUSS geeignete Möglichkeiten geben, elektrische Verbraucher im Rechenzentrum spannungsfrei zu schalten.
+Dabei MUSS darauf geachtet werden, ob und wie eine vorhandene USV räumlich und funktional in die Stromversorgung eingebunden ist.
+Werden klassische Not-Aus-Schalter eingesetzt, MUSS darauf geachtet werden, dass darüber nicht das komplette Rechenzentrum abgeschaltet wird.
+Die Notabschaltung MUSS sinnvoll parzelliert und zielgerichtet erfolgen.
+Alle Not-Aus-Schalter MÜSSEN so geschützt sein, dass sie nicht unbeabsichtigt oder unbefugt betätigt werden können.
 
 #### INF.2.A5
+_Änderung:_\
+Die Parameter Temperatur und Feuchtigkeit MÜSSEN mindestens so aufgezeichnet werden, dass sich rückwirkend erkennen lässt, ob Grenzwerte überschritten wurden, und dass sie bei der Lokalisierung der Ursache der Abweichung sowie bei der Beseitigung der Ursache unterstützend genutzt werden können.
 
 #### INF.2.A6
+_Entfallen:_\
+Außerdem MUSS sichergestellt werden, dass Besucher und Fremdpersonal während aller Arbeiten im Rechenzentrum von der Zutrittskontrolle individuell erfasst sowie beaufsichtigt werden.
 
 #### INF.2.A7
+_Ergänzung:_\
+Sie MÜSSEN mit einem Sichtschutz versehen sein.
 
 #### INF.2.A8
+_Keine inhaltlichen Änderungen._
 
 #### INF.2.A9
+_Ergänzung:_\
+(...) oder durch technische (insbesondere durch eine flächendeckende Brandfrüherkennung, siehe INF.2.A17 Brandfrüherkennung) und organisatorische Maßnahmen (geschultes Personal und fallbezogene Reaktionspläne für Meldungen der Brandfrüherkennung) sichergestellt sein, dass unmittelbar (innerhalb von maximal 5 Minuten) auf Meldungen der Brandfrüherkennung reagiert wird.
+
+_Änderung:_\
+In Serverräumen und in einem Rechenzentrum ohne Lösch- oder Brandvermeidungsanlage MÜSSEN Handfeuerlöscher mit geeigneten Löschmitteln in ausreichender Zahl und Größe vorhanden sein.
+
+_Ergänzung:_\
+Es MUSS beachtet werden, dass darüber hinausgehende baurechtliche Anforderungen hinsichtlich der Ausstattung mit Handfeuerlöschern davon unberührt bleiben.
 
 #### INF.2.A10
+_Keine inhaltlichen Änderungen._
 
 #### INF.2.A11
+_Keine inhaltlichen Änderungen._
+
+#### INF.2.A17 (Aktualisiert: Basis-Anforderung)
+Durch eine gegebenenfalls installierte Brandfrüherkennung MUSS sichergestellt werden, dass Brandrauch frühestmöglich detektiert wird.
+Die Meldungen der Brandfrüherkennung MÜSSEN entweder an eine ständig besetzte Stelle geleitet werden, die eine Kontrolle und Schutzreaktion innerhalb weniger Minuten veranlassen kann.
+Alternativ MUSS eine automatische Schutzreaktion erfolgen.
+Um ein ausgewogenes Verhältnis zwischen Brandschutz und Verfügbarkeit zu erreichen, MUSS sichergestellt werden, dass sich einander Redundanz gebende Einrichtungen nicht gemeinsam im Wirkungsbereich der gleichen Spannungsfreischaltung befinden.
+
+#### NEU: INF.2.A29
+
+In einem Rechenzentrum DÜRFEN NUR solche Leitungen verlegt werden, die der unmittelbaren Versorgung der im Rechenzentrum aufgebauten Technik (in der Regel IT- und gegebenenfalls Kühltechnik) dienen.
+Ist es aus baulichen Gründen unabwendbar, Leitungen durch das Rechenzentrum zu führen, um andere Bereiche als die des Rechenzentrums zu versorgen, MUSS dies einschließlich Begründung dokumentiert werden.
+Solche Leitungen MÜSSEN geeignet eingehaust und überwacht werden.
+Es SOLLTE beachtet werden, dass durch Serverräume vorgenannte Leitungen geführt werden dürfen, ohne zu begründen, warum dies unabwendbar ist.
+Diese MÜSSEN aber genauso behandelt werden, wie für das Rechenzentrum beschrieben.
+Meldungen aus der Überwachung der Leitungen MÜSSEN unverzüglich hinsichtlich der Gefährdungsrelevanz geprüft und bewertet werden.
+Gegenmaßnahmen MÜSSEN entsprechend der erkannten Gefährdungsrelevanz zeitgerecht umgesetzt werden (siehe auch INF.2.A13 Planung und Installation von Gefahrenmeldeanlagen).
+
+### Standard-Anforderungen
 
 #### INF.2.A12
+_Ergänzung:_\
+• Maßnahmen zur Beweissicherung (bspw. Videoaufzeichnung) sowie
+• automatische Alarmierung.
 
 #### INF.2.A13
+_Keine inhaltlichen Änderungen._
 
 #### INF.2.A14
+_Ergänzung:_\
+Außerdem SOLLTE regelmäßig kontrolliert werden, ob die Vorräte noch verwendbar sind, vor allem um die sogenannte Dieselpest zu vermeiden.
+Nach Möglichkeit SOLLTE statt Diesel-Kraftstoff schwefelarmes Heizöl verwendet werden.
+Die Tankvorgänge von Brennstoffen MÜSSEN protokolliert werden.
+Aus dem Protokoll MUSS die Art des Brennstoffs, die genutzten Additive, das Tankdatum und die getankte Menge hervorgehen.
+Wenn für einen Serverraum auf den Einsatz einer NEA verzichtet wird, SOLLTE alternativ zur NEA eine USV mit einer dem Schutzbedarf angemessenen Autonomiezeit realisiert werden.
 
 #### INF.2.A15
+_Entfallen:_\
+Blitz- und Überspannungsschutzeinrichtungen SOLLTEN periodisch und nach bekannten Ereignissen geprüft und falls erforderlich ersetzt werden.
+Unabhängig von Umfang und Ausbau des Überspannungsschutzes SOLLTE beachtet werden, dass ein umfassender und durchgängiger Potenzialausgleich aller in den Überspannungsschutz einbezogenen elektrischen Betriebsmittel erforderlich ist.
+Bei Nachinstallationen SOLLTE darauf geachtet werden, dass der Potenzialausgleich mitgeführt wird.
 
 #### INF.2.A16
+_Änderung:_\
+(...) in IT-Betriebsbereichen (...)
 
-#### INF.2.A17
-
-#### INF.2.A18
+#### INF.2.A18 ENTFALLEN
+_Diese Anforderung ist entfallen._
 
 #### INF.2.A19
+_Keine inhaltlichen Änderungen._
 
 #### INF.2.A20
+_Keine inhaltlichen Änderungen._
+
+#### NEU: INF.2.A30
+INF.2.A30 Anlagen zur Erkennung, Löschung oder Vermeidung von Bränden [Haustechnik, Planer] (S)
+Ein Rechenzentrum SOLLTE über die Basis-Anforderung der Brandfrüherkennung mit den dort genannten Schutzreaktionen hinaus (siehe INF.2.A17 Brandfrüherkennung) mit einer automatischen Lösch- oder Brandvermeidungsanlage ausgestattet werden.
+Ein Serverraum SOLLTE mit einer Brandfrüherkennungsanlage (siehe INF.2.A17 Brandfrüherkennung) mit den dort genannten Schutzreaktionen ausgestattet werden.
+
+### Anforderungen bei erhöhtem Schutzbedarf
 
 #### INF.2.A21
+_Ergänzung:_\
+Der Schwenk auf das Notfallrechenzentrum SOLLTE regelmäßig getestet und geübt werden.
+Die Übertragungswege in das Ausweichrechenzentrum SOLLTEN geeignet abgesichert und entsprechend redundant ausgelegt sein.
 
 #### INF.2.A22
+_Keine inhaltlichen Änderungen._
 
 #### INF.2.A23
+_Entfallen:_\
+Für unterschiedliche Netzarten, z. B. Datennetz, Netz für Gefahrenmeldeanlagen und Stromnetz, SOLLTEN getrennte Kabel benutzt werden.
+Werden Kabel für verschiedene Netze gemeinsam geführt, SOLLTE sichergestellt sein, dass gegenseitige Störungen minimiert werden.
+
+_Ergänzung:_\
+Tragsysteme SOLLTEN hinsichtlich Brandbeanspruchung in einem dem Schutzbedarf genügenden Funktionserhalt ausgeführt werden.
 
 #### INF.2.A24
+_Keine inhaltlichen Änderungen._
 
 #### INF.2.A25
+_Keine inhaltlichen Änderungen._
 
 #### INF.2.A26
+_Keine inhaltlichen Änderungen._
 
 #### INF.2.A27
+_Änderung:_\
+Mit dem Personal des Rechenzentrums sowie des Serverraums SOLLTEN regelmäßige Alarmierungs- und Brandschutzübungen durchgeführt werden.
 
 #### INF.2.A28
+_Keine inhaltlichen Änderungen._
 
 
 
