@@ -5719,6 +5719,69 @@ _Keine inhaltlichen Änderungen._
 _Keine inhaltlichen Änderungen._
 
 
+## Änderungen NET.3.1
+
+### Basis-Anforderungen
+
+#### NET.3.1.A1
+
+#### NET.3.1.A2
+
+#### NET.3.1.A3
+
+#### NET.3.1.A4
+
+#### NET.3.1.A5
+
+#### NET.3.1.A6
+
+#### NET.3.1.A7
+
+#### NET.3.1.A8
+
+#### NET.3.1.A9
+
+#### NET.3.1.A10
+
+#### NET.3.1.A11
+
+#### NET.3.1.A12
+
+#### NET.3.1.A13
+
+#### NET.3.1.A14
+
+#### NET.3.1.A15
+
+#### NET.3.1.A16
+
+#### NET.3.1.A17
+
+#### NET.3.1.A18
+
+#### NET.3.1.A19
+
+#### NET.3.1.A20
+
+#### NET.3.1.A21
+
+#### NET.3.1.A22
+
+#### NET.3.1.A23
+
+#### NET.3.1.A24
+
+#### NET.3.1.A25
+
+#### NET.3.1.A26
+
+#### NET.3.1.A27
+
+#### NET.3.1.A28
+
+
+
+
 
 
 ////////////////
