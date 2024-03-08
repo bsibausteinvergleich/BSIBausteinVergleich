@@ -14,7 +14,8 @@ Dabei MÜSSEN die Anforderungen an die TK-Anlage, die Sicherheitsrichtlinie sowi
 Alle vereinbarten Leistungen MÜSSEN eindeutig schriftlich festgehalten werden.
 
 NET.4.1.A3 Änderung voreingestellter Passwörter (B)
-Standardpasswörter MÜSSEN durch ausreichend starke Passwörter ersetzt werden. Vordefinierte Logins MÜSSEN geändert werden.
+Standardpasswörter MÜSSEN durch ausreichend starke Passwörter ersetzt werden.
+Vordefinierte Logins MÜSSEN geändert werden.
 Die Änderungen MÜSSEN durchgeführt werden, bevor die TK-Anlage in Betrieb genommen wird.
 
 NET.4.1.A4 Absicherung von Remote-Zugängen (B)
