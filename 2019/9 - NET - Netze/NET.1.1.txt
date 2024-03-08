@@ -50,7 +50,8 @@ Der Internetverkehr MUSS über die Firewall-Struktur geführt werden.
 Die Datenflüsse MÜSSEN durch die Firewall-Struktur auf die benötigten Protokolle und Kommunikationsbeziehungen eingeschränkt werden.
 
 NET.1.1.A9 Grundlegende Absicherung der Kommunikation mit nicht vertrauenswürdigen Netzen
-Für jedes Netz MUSS festgelegt werden, inwieweit es als vertrauenswürdig einzustufen ist. Netze, die überhaupt nicht vertrauenswürdig sind, MÜSSEN wie das Internet behandelt und entsprechend abgesichert werden.
+Für jedes Netz MUSS festgelegt werden, inwieweit es als vertrauenswürdig einzustufen ist.
+Netze, die überhaupt nicht vertrauenswürdig sind, MÜSSEN wie das Internet behandelt und entsprechend abgesichert werden.
 
 NET.1.1.A10 DMZ-Segmentierung für Zugriffe aus dem Internet
 Die Firewall-Strukur MUSS für alle Dienste bzw. Anwendungen, die aus dem Internet erreichbar sind, um eine sogenannte externe DMZ ergänzt werden.
