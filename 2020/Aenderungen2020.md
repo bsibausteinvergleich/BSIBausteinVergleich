@@ -6152,6 +6152,77 @@ _Keine inhaltlichen Änderungen._
 _Keine inhaltlichen Änderungen._
 
 
+## Änderungen INF.1
+
+### Basis-Anforderungen
+
+#### INF.1.A1
+
+#### INF.1.A2
+
+#### INF.1.A3
+
+#### INF.1.A4
+
+#### INF.1.A5
+
+#### INF.1.A6
+
+#### INF.1.A7
+
+#### INF.1.A8
+
+#### INF.1.A9
+
+#### INF.1.A10
+
+#### INF.1.A11
+
+#### INF.1.A12
+
+#### INF.1.A13
+
+#### INF.1.A14
+
+#### INF.1.A15
+
+#### INF.1.A16
+
+#### INF.1.A17
+
+#### INF.1.A18
+
+#### INF.1.A19
+
+#### INF.1.A20
+
+#### INF.1.A21
+
+#### INF.1.A22
+
+#### INF.1.A23
+
+#### INF.1.A24
+
+#### INF.1.A25
+
+#### INF.1.A26
+
+#### INF.1.A27
+
+#### INF.1.A28
+
+#### INF.1.A29
+
+#### INF.1.A30
+
+#### INF.1.A31
+
+#### INF.1.A32
+
+#### INF.1.A33
+
+#### INF.1.A34
 
 
 
