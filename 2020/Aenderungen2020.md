@@ -6757,22 +6757,36 @@ Zum Schutz vor Ableitströmen, Strömen auf Schutzleitern, Leitungsschirmen und 
 ### Basis-Anforderungen
 
 #### INF.6.A1
+_Ergänzung:_\
+Mitarbeiter, die in der Nähe eines Datenträgerarchivs tätig sind, (...)
 
 #### INF.6.A2
+_Keine inhaltlichen Änderungen._
 
 #### INF.6.A3
+_Keine inhaltlichen Änderungen._
 
 #### INF.6.A4
+_Keine inhaltlichen Änderungen._
+
+### Standard-Anforderungen
 
 #### INF.6.A5
+_Keine inhaltlichen Änderungen._
 
 #### INF.6.A6
+_Keine inhaltlichen Änderungen._
 
 #### INF.6.A7
+_Keine inhaltlichen Änderungen._
 
 #### INF.6.A8
+_Keine inhaltlichen Änderungen._
+
+### Anforderungen bei erhöhtem Schutzbedarf
 
 #### INF.6.A9
+_Keine inhaltlichen Änderungen._
 
 
 
