@@ -13,7 +13,8 @@ Bei der gemeinsamen Führung von IT- und Stromverkabelung in einer Trasse MUSS a
 Es MUSS darauf geachtet werden, erkennbare Gefahrenquellen zu umgehen.
 
 INF.4.A3 Fachgerechte Installation [Leiter Haustechnik]
-Installationsarbeiten an der IT-Verkabelung MÜSSEN sorgfältig und fachkundig erfolgen. Gleichzeitig MÜSSEN alle relevanten Normen beachtet werden.
+Installationsarbeiten an der IT-Verkabelung MÜSSEN sorgfältig und fachkundig erfolgen.
+Gleichzeitig MÜSSEN alle relevanten Normen beachtet werden.
 Die entscheidenden Kriterien für eine fachgerechte Ausführung der IT-Verkabelung MÜSSEN vom Auftraggeber in allen Phasen überprüft werden.
 Bei Anlieferung des Materials MUSS geprüft werden, ob die richtigen Kabel und Anschlusskomponenten geliefert wurden.
 Bei der Verlegung von IT-Kabeln MUSS besondere Sorgfalt darauf gelegt werden, dass die Montage keine Beschädigungen hervorruft und dass die Kabelwege so gewählt sind, dass Beschädigungen der verlegten Kabel durch die normale Nutzung des Gebäudes ausgeschlossen sind.
