@@ -87,7 +87,8 @@ Die Netzplanung MUSS regelmäßig überprüft werden.
 
 
 NET.1.1.A14 Umsetzung der Netzplanung (B)
-Das geplante Netz MUSS fachgerecht umgesetzt werden. Dies MUSS während der Abnahme geprüft werden.
+Das geplante Netz MUSS fachgerecht umgesetzt werden.
+Dies MUSS während der Abnahme geprüft werden.
 
 NET.1.1.A15 Regelmäßiger Soll-Ist-Vergleich [Informationssicherheitsbeauftragter (ISB)] (B)
 Es MUSS regelmäßig geprüft werden, ob das bestehende Netz dem Soll-Zustand entspricht.
