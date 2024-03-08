@@ -6789,6 +6789,41 @@ _Keine inhaltlichen Änderungen._
 _Keine inhaltlichen Änderungen._
 
 
+## Änderungen INF.7
+
+### Basis-Anforderungen
+
+#### INF.7.A1
+_Keine inhaltlichen Änderungen._
+
+#### INF.7.A2
+_Keine inhaltlichen Änderungen._
+
+### Standard-Anforderungen
+
+#### INF.7.A3
+_Keine inhaltlichen Änderungen._
+
+#### INF.7.A4
+_Keine inhaltlichen Änderungen._
+
+#### INF.7.A5
+_Keine inhaltlichen Änderungen._
+
+#### INF.7.A6
+_Keine inhaltlichen Änderungen._
+
+#### INF.7.A7
+_Keine inhaltlichen Änderungen._
+
+#### INF.7.A8
+_Keine inhaltlichen Änderungen._
+
+
+
+
+
+
 
 ////////////////
 Formatierungshilfen:
