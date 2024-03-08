@@ -6820,6 +6820,31 @@ _Keine inhaltlichen Änderungen._
 _Keine inhaltlichen Änderungen._
 
 
+## Änderungen INF.8
+
+### Basis-Anforderungen
+
+#### INF.8.A1
+_Keine inhaltlichen Änderungen._
+
+#### INF.8.A2
+_Keine inhaltlichen Änderungen._
+
+#### INF.8.A3
+_Keine inhaltlichen Änderungen._
+
+### Standard-Anforderungen
+
+#### INF.8.A4
+_Keine inhaltlichen Änderungen._
+
+#### INF.8.A5
+_Entfallen:_ (...) , also nicht einfach in den Hausmüll.
+
+### Anforderungen bei erhöhtem Schutzbedarf
+
+#### INF.8.A6
+_Keine inhaltlichen Änderungen._
 
 
 
