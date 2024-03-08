@@ -5819,66 +5819,137 @@ _Keine inhaltlichen Änderungen._
 ### Basis-Anforderungen
 
 #### NET.3.2.A1
+_Keine inhaltlichen Änderungen._
 
 #### NET.3.2.A2
+_Keine inhaltlichen Änderungen._
 
 #### NET.3.2.A3
+_Änderung:_\
+Auch für die verbindungslosen Protokolle UDP und ICMP MÜSSEN zustandsbehaftete Filterregeln konfiguriert werden.
 
 #### NET.3.2.A4
+_Änderung:_\
+Die Integrität der Konfigurationsdateien MUSS geeignet geschützt werden.
 
 #### NET.3.2.A5
+_Keine inhaltlichen Änderungen._
 
 #### NET.3.2.A6
+_Keine inhaltlichen Änderungen._
 
 #### NET.3.2.A7
+_Keine inhaltlichen Änderungen._
 
 #### NET.3.2.A8
+_Keine inhaltlichen Änderungen._
 
 #### NET.3.2.A9
+_Keine inhaltlichen Änderungen._
 
 #### NET.3.2.A10
+_Keine inhaltlichen Änderungen._
 
 #### NET.3.2.A11
+_Änderung:_\
+Vorab MUSS auf einem Testsystem überprüft werden, (...)
 
 #### NET.3.2.A12
+_Keine inhaltlichen Änderungen._
 
 #### NET.3.2.A13
+_Keine inhaltlichen Änderungen._
 
 #### NET.3.2.A14
+_Keine inhaltlichen Änderungen._
 
 #### NET.3.2.A15
+_Keine inhaltlichen Änderungen._
+
+### Standard-Anforderungen
 
 #### NET.3.2.A16
+_Keine inhaltlichen Änderungen._
 
 #### NET.3.2.A17
+_Keine inhaltlichen Änderungen._
 
 #### NET.3.2.A18
+_Änderung:_\
+Eine eventuell vorhandene Administrationsschnittstelle über das eigentliche Datennetz (In-Band) SOLLTE deaktiviert werden.
 
 #### NET.3.2.A19
+_Keine inhaltlichen Änderungen._
 
 #### NET.3.2.A20
+_Keine inhaltlichen Änderungen._
 
 #### NET.3.2.A21
+_Änderung:_\
+Hierbei SOLLTEN die rechtlichen Rahmenbedingungen beachtet werden.
 
 #### NET.3.2.A22
+_Keine inhaltlichen Änderungen._
 
 #### NET.3.2.A23
+_Keine inhaltlichen Änderungen._
 
 #### NET.3.2.A24
+_Keine inhaltlichen Änderungen._
+
+### Anforderungen bei erhöhtem Schutzbedarf
 
 #### NET.3.2.A25
+_Keine inhaltlichen Änderungen._
 
 #### NET.3.2.A26
+_Keine inhaltlichen Änderungen._
 
 #### NET.3.2.A27
+_Keine inhaltlichen Änderungen._
 
 #### NET.3.2.A28
+_Keine inhaltlichen Änderungen._
 
 #### NET.3.2.A29
+_Keine inhaltlichen Änderungen._
 
 #### NET.3.2.A30
+_Keine inhaltlichen Änderungen._
 
 #### NET.3.2.A31
+_Keine inhaltlichen Änderungen._
+
+
+## Änderungen NET.3.3
+
+### Basis-Anforderungen
+
+#### NET.3.3.A1
+
+#### NET.3.3.A2
+
+#### NET.3.3.A3
+
+#### NET.3.3.A4
+
+#### NET.3.3.A5
+
+#### NET.3.3.A6
+
+#### NET.3.3.A7
+
+#### NET.3.3.A8
+
+#### NET.3.3.A9
+
+#### NET.3.3.A10
+
+#### NET.3.3.A11
+
+#### NET.3.3.A12
+
+#### NET.3.3.A13
 
 
 
