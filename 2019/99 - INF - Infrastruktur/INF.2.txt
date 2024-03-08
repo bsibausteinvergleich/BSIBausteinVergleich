@@ -1,6 +1,5 @@
 3.1 Basis-Anforderungen
 
-
 INF.2.A1 Festlegung von Anforderungen [Planer, IT-Betrieb, Haustechnik, Informationssicherheitsbeauftragter (ISB)]
 Für ein Rechenzentrum MÜSSEN angemessene technische und organisatorische Vorgaben definiert und umgesetzt werden.
 Wenn ein Rechenzentrum geplant wird oder geeignete Räumlichkeiten ausgewählt werden, MÜSSEN potenzielle Gefährdungen durch Umgebungseinflüsse sowie das Sicherheitsniveau der IT-Komponenten (insbesondere Verfügbarkeit) mitbetrachtet werden.
