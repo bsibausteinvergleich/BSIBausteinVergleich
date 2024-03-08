@@ -1,6 +1,5 @@
 3.1 Basis-Anforderungen
 
-
 NET.3.1.A1 Sichere Grundkonfiguration eines Routers oder Switches
 Bevor ein Router oder Switch eingesetzt wird, MUSS er sicher konfiguriert werden.
 Die Geräte DÜRFEN NUR von dafür autorisierten Personen installiert und konfiguriert werden.
