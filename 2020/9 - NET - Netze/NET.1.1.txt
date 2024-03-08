@@ -34,7 +34,8 @@ In der zweistufigen Firewall-Architektur MUSS jeder ein- und ausgehende Datenver
 Es MUSS immer eine P-A-P-Struktur, die aus Paketfilter, Application-Layer-Gateway bzw. Sicherheits-Proxies und Paketfilter besteht, realisiert werden, wenn die Sicherheitsrichtlinie oder die Anforderungsspezifikation dies fordern.
 
 NET.1.1.A5 Client-Server-Segmentierung (B)
-Clients und Server MÜSSEN in unterschiedlichen Sicherheitssegmenten platziert werden. Die Kommunikation zwischen diesen Segmenten MUSS mindestens durch einen zustandsbehafteten Paketfilter (Firewall) kontrolliert werden.
+Clients und Server MÜSSEN in unterschiedlichen Sicherheitssegmenten platziert werden.
+Die Kommunikation zwischen diesen Segmenten MUSS mindestens durch einen zustandsbehafteten Paketfilter (Firewall) kontrolliert werden.
 Es SOLLTE beachtet werden, dass mögliche Ausnahmen, die es erlauben, Clients und Server in einem gemeinsamen Sicherheitssegment zu positionieren, in den entsprechenden anwendungs- und systemspezifischen Bausteinen geregelt werden.
 Für Gastzugänge und für Netzbereiche, in denen keine ausreichende interne Kontrolle über die Endgeräte gegeben ist, MÜSSEN dedizierte Sicherheitssegmente eingerichtet werden.
 
