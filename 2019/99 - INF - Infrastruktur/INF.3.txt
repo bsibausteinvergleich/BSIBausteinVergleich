@@ -1,6 +1,5 @@
 3.1 Basis-Anforderungen
 
-
 INF.3.A1 Auswahl geeigneter Kabeltypen
 Bei der Auswahl von Kabeln MÜSSEN die übertragungstechnischen Notwendigkeiten und die Umgebungsbedingungen bei der Verlegung sowie im Betrieb zu berücksichtigt werden.
 Bei der Auswahl von Elektrokabeln MÜSSEN die einschlägigen Normen und Vorschriften beachtet werden.
