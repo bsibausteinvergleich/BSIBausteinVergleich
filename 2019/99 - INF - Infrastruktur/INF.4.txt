@@ -1,6 +1,5 @@
 3.1 Basis-Anforderungen
 
-
 INF.4.A1 Auswahl geeigneter Kabeltypen [Leiter Haustechnik]
 Bei der Auswahl von Kabeln MÜSSEN die übertragungstechnischen Notwendigkeiten und die Umgebungsbedingungen bei der Verlegung sowie im Betrieb berücksichtigt werden.
 Die Auswahl der Kabel aus kommunikationstechnischer Sicht MUSS durch die erforderliche Übertragungsrate und die Entfernung zwischen den Übertragungseinrichtungen bestimmt werden.
