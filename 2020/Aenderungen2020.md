@@ -6852,26 +6852,42 @@ _Keine inhaltlichen Änderungen._
 ### Basis-Anforderungen
 
 #### INF.9.A1
+_Keine inhaltlichen Änderungen._
 
 #### INF.9.A2
+_Keine inhaltlichen Änderungen._
 
 #### INF.9.A3
+_Keine inhaltlichen Änderungen._
 
 #### INF.9.A4
+_Keine inhaltlichen Änderungen._
+
+### Standard-Anforderungen
 
 #### INF.9.A5
+_Keine inhaltlichen Änderungen._
 
 #### INF.9.A6
+_Entfallen:_ (...) , also nicht einfach in den Hausmüll.
 
 #### INF.9.A7
+_Keine inhaltlichen Änderungen._
 
 #### INF.9.A8
+_Entfallen:_\
+Ebenso SOLLTE sie festlegen, dass für jeden mobilen Mitarbeiter ein Vertreter benannt und der Vertretungsprozess regelmäßig geprobt wird.
 
 #### INF.9.A9
+_Keine inhaltlichen Änderungen._
+
+### Anforderungen bei erhöhtem Schutzbedarf
 
 #### INF.9.A10
+_Keine inhaltlichen Änderungen._
 
 #### INF.9.A11
+_Keine inhaltlichen Änderungen._
 
 
 
