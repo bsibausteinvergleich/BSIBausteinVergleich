@@ -6096,34 +6096,60 @@ _Keine inhaltlichen Änderungen._
 ### Basis-Anforderungen
 
 #### NET.4.3.A1
+_Ergänzung:_\
+Der Aufstellungsort MUSS über einen geeigneten Netzanschluss für das Faxgerät verfügen.
+Faxgeräte DÜRFTEN NICHT an nicht dafür vorgesehene Netzanschlüsse angeschlossen werden.
 
 #### NET.4.3.A2
+_Keine inhaltlichen Änderungen._
 
 #### NET.4.3.A3
+_Keine inhaltlichen Änderungen._
+
+### Standard-Anforderungen
 
 #### NET.4.3.A4
+_Keine inhaltlichen Änderungen._
 
-#### NET.4.3.A5
+#### NET.4.3.A5 ENTFALLEN
+_Diese Anforderung ist entfallen._
 
 #### NET.4.3.A6
+_Keine inhaltlichen Änderungen._
 
 #### NET.4.3.A7
+_Entfallen:_\
+Alle Informationen, die auf dem Faxdeckblatt einzutragen sind, SOLLTEN in geeigneter Weise ausgewählt werden.
 
 #### NET.4.3.A8
+_Änderung:_\
+(...) unkenntlich gemacht werden (...)
 
 #### NET.4.3.A9
+_Keine inhaltlichen Änderungen._
 
 #### NET.4.3.A10
+_Keine inhaltlichen Änderungen._
+
+### Anforderungen bei erhöhtem Schutzbedarf
 
 #### NET.4.3.A11
+_Keine inhaltlichen Änderungen._
 
 #### NET.4.3.A12
+_Änderung:_\
+Unerwünschte Faxadressen, SOLLTEN blockiert werden.
+Alternativ SOLLTEN nur bestimmte Rufnummern zugelassen werden.
+Es SOLLTE geprüft werden, welcher Ansatz in welcher Situation geeignet ist.
 
 #### NET.4.3.A13
+_Keine inhaltlichen Änderungen._
 
 #### NET.4.3.A14
+_Keine inhaltlichen Änderungen._
 
 #### NET.4.3.A15
+_Keine inhaltlichen Änderungen._
 
 
 
