@@ -5639,40 +5639,65 @@ _Entfallen:_\ (...), mit denen die administrativen Tätigkeiten im Notfall durch
 ### Basis-Anforderungen
 
 #### NET.2.1.A1
+_Keine inhaltlichen Änderungen._
 
 #### NET.2.1.A2
+_Keine inhaltlichen Änderungen._
 
 #### NET.2.1.A3
+_Entfallen:_ Außerdem MUSS dieser regelmäßig gewechselt werden.
 
 #### NET.2.1.A4
+_Änderung:_\
+Access Points MÜSSEN zugriffs- und diebstahlsicher montiert werden.
+Wenn sie aufgestellt werden, MÜSSEN die erforderlichen Bereiche ausreichend abgedeckt werden.
+Darüber hinaus MUSS darauf geachtet werden, dass sich die Funkwellen in Bereichen, die nicht durch das WLAN versorgt werden sollen, möglichst nicht ausbreiten.
 
 #### NET.2.1.A5
+_Keine inhaltlichen Änderungen._
 
 #### NET.2.1.A6
+_Keine inhaltlichen Änderungen._
 
 #### NET.2.1.A7
+_Keine inhaltlichen Änderungen._
 
 #### NET.2.1.A8
+_Keine inhaltlichen Änderungen._
+
+### Standard-Anforderungen
 
 #### NET.2.1.A9
+_Keine inhaltlichen Änderungen._
 
 #### NET.2.1.A10
+_Keine inhaltlichen Änderungen._
 
 #### NET.2.1.A11
+_Keine inhaltlichen Änderungen._
 
 #### NET.2.1.A12
+_Keine inhaltlichen Änderungen._
 
 #### NET.2.1.A13
+_Keine inhaltlichen Änderungen._
 
 #### NET.2.1.A14
+_Keine inhaltlichen Änderungen._
+
+### Anforderungen bei erhöhtem Schutzbedarf
 
 #### NET.2.1.A15
+_Keine inhaltlichen Änderungen._
 
 #### NET.2.1.A16
+_Keine inhaltlichen Änderungen._
 
 #### NET.2.1.A17
+_Keine inhaltlichen Änderungen._
 
 #### NET.2.1.A18
+_Keine inhaltlichen Änderungen._
 
 
 ////////////////
