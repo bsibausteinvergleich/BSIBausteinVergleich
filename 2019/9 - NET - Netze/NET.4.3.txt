@@ -1,6 +1,5 @@
 3.1 Basis-Anforderungen
 
-
 NET.4.3.A1 Geeignete Aufstellung eines Faxgerätes [Haustechnik]
 Faxgeräte MÜSSEN so aufgestellt werden, dass eingegangene Faxsendungen nicht von Unberechtigten eingesehen oder entnommen werden können.
 Der Aufstellungsort SOLLTE zudem danach ausgewählt werden, dass ausreichend dimensionierte Telefonkommunikationsleitungen bzw. -kanäle vorhanden sind.
@@ -38,7 +37,8 @@ Dieser SOLLTE gewährleisten, dass
 • Restinformationen gelöscht,
 • Wartungs- und Reparaturarbeiten beaufsichtigt sowie
 • die programmierbare Zieladressen und Protokolle regelmäßig kontrolliert
-werden. Hierfür SOLLTE der Fax-Verantwortliche in geeigneter Weise eingewiesen sein.
+werden.
+Hierfür SOLLTE der Fax-Verantwortliche in geeigneter Weise eingewiesen sein.
 Für die Benutzer SOLLTE der Fax-Verantwortliche während der Arbeitszeiten erreichbar sein.
 
 NET.4.3.A6 Beschaffung geeigneter Faxgeräte und Faxserver [Informationssicherheitsbeauftragter (ISB), Beschaffungsstelle]
