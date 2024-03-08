@@ -1,6 +1,5 @@
 3.1 Basis-Anforderungen
 
-
 NET.4.1.A1 Anforderungsanalyse und Planung für TK-Anlagen [IT-Betrieb, Leiter IT]
 Vor der Beschaffung oder Erweiterung einer TK-Anlage MUSS eine Anforderungsanalyse durchgeführt werden.
 Im Rahmen dieser Analyse MUSS festgelegt werden, welche Funktionen die TK-Anlage bieten soll.
