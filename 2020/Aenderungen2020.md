@@ -6469,41 +6469,74 @@ _Keine inhaltlichen Änderungen._
 ### Basis-Anforderungen
 
 #### INF.3.A1
+_Keine inhaltlichen Änderungen._
 
 #### INF.3.A2
+_Ergänzung:_\
+(...) bevor sie verlegt werden.
 
 #### INF.3.A3
+_Keine inhaltlichen Änderungen._
+
+### Standard-Anforderungen
 
 #### INF.3.A4
+_Keine inhaltlichen Änderungen._
 
 #### INF.3.A5
+_Keine inhaltlichen Änderungen._
 
 #### INF.3.A6
+_Keine inhaltlichen Änderungen._
 
 #### INF.3.A7
+_Keine inhaltlichen Änderungen._
 
 #### INF.3.A8
+_Keine inhaltlichen Änderungen._
 
 #### INF.3.A9
+_Keine inhaltlichen Änderungen._
 
 #### INF.3.A10
+_Keine inhaltlichen Änderungen._
 
 #### INF.3.A11
+_Keine inhaltlichen Änderungen._
 
 #### INF.3.A12
+_Keine inhaltlichen Änderungen._
+
+### Anforderungen bei erhöhtem Schutzbedarf
 
 #### INF.3.A13
+_Änderung:_\
+NEA und USV SOLLTEN regelmäßig gewartet werden.
 
 #### INF.3.A14
+_Keine inhaltlichen Änderungen._
 
 #### INF.3.A15
+_Keine inhaltlichen Änderungen._
 
 #### INF.3.A16
+_Keine inhaltlichen Änderungen._
 
 #### INF.3.A17
+_Keine inhaltlichen Änderungen._
 
-#### INF.3.A18
+#### NEU: INF.3.A18
+INF.3.A18 EMV-taugliche Stromversorgung (H)\
+Für die störungsfreie Funktion moderner IT-Systeme sowie der für deren Betrieb erforderlichen Supportsysteme (von der USV über die NEA bis hin zur Klimatechnik) SOLLTE die Stromversorgung EMV (Elektromagnetische Verträglichkeit) -tauglich sein.
+Dafür SOLLTE das Stromverteilungsnetz als TN-S-System (frz. Terre Neutre Séparé) aufgebaut sein.
+Bei Aufbau und Betrieb des Stromverteilnetzes SOLLTEN die empfohlenen Trennungsabstände soweit wie möglich eingehalten werden.
 
+
+## Änderungen INF.4
+
+### Basis-Anforderungen
+
+#### INF.4.A
 
 
 
