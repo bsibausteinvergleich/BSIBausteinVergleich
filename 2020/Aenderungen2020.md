@@ -6586,6 +6586,64 @@ _Keine inhaltlichen Änderungen._
 _Keine inhaltlichen Änderungen._
 
 
+## NEU INF.5
+
+### Basis-Anforderungen
+
+#### NEU: INF.5.A1
+
+#### NEU: INF.5.A2
+
+#### NEU: INF.5.A3
+
+#### NEU: INF.5.A4
+
+#### NEU: INF.5.A5
+
+#### NEU: INF.5.A6
+
+#### NEU: INF.5.A7
+
+#### NEU: INF.5.A8
+
+#### NEU: INF.5.A9
+
+#### NEU: INF.5.A10
+
+#### NEU: INF.5.A11
+
+#### NEU: INF.5.A12
+
+#### NEU: INF.5.A13
+
+#### NEU: INF.5.A14
+
+#### NEU: INF.5.A15
+
+#### NEU: INF.5.A16
+
+#### NEU: INF.5.A17
+
+#### NEU: INF.5.A18
+
+#### NEU: INF.5.A19
+
+#### NEU: INF.5.A20
+
+#### NEU: INF.5.A21
+
+#### NEU: INF.5.A22
+
+#### NEU: INF.5.A23
+
+#### NEU: INF.5.A24
+
+#### NEU: INF.5.A25
+
+#### NEU: INF.5.A26
+
+
+
 
 
 
