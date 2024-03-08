@@ -5926,30 +5926,45 @@ _Keine inhaltlichen Änderungen._
 ### Basis-Anforderungen
 
 #### NET.3.3.A1
+_Keine inhaltlichen Änderungen._
 
 #### NET.3.3.A2
+_Keine inhaltlichen Änderungen._
 
 #### NET.3.3.A3
+_Keine inhaltlichen Änderungen._
 
 #### NET.3.3.A4
+_Keine inhaltlichen Änderungen._
 
 #### NET.3.3.A5
+_Keine inhaltlichen Änderungen._
+
+### Standard-Anforderungen
 
 #### NET.3.3.A6
+_Ergänzung:_ (...) beziehungsweise Fachaufgaben,
 
 #### NET.3.3.A7
+_Keine inhaltlichen Änderungen._
 
 #### NET.3.3.A8
+_Keine inhaltlichen Änderungen._
 
 #### NET.3.3.A9
+_Keine inhaltlichen Änderungen._
 
 #### NET.3.3.A10
+_Keine inhaltlichen Änderungen._
 
 #### NET.3.3.A11
+_Keine inhaltlichen Änderungen._
 
 #### NET.3.3.A12
+_Keine inhaltlichen Änderungen._
 
 #### NET.3.3.A13
+_Keine inhaltlichen Änderungen._
 
 
 
@@ -5965,6 +5980,7 @@ _Ergänzung:_\
 _Geändert:_\
 ~~~~\
 _zu:_\
+### Standard-Anforderungen
 (Aktualisiert: Basis-Anforderung)
 _Diese Anforderung ist entfallen._
 _Keine inhaltlichen Änderungen._
