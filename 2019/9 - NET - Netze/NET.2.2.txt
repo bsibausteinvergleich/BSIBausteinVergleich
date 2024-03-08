@@ -1,6 +1,5 @@
 3.1 Basis-Anforderungen
 
-
 NET.2.2.A1 Erstellung einer Benutzerrichtlinie für WLAN [Leiter IT]
 Ausgehend von der allgemeinen Sicherheitsrichtlinie der Institution MÜSSEN die wesentlichen Kernaspekte für eine sichere WLAN-Nutzung in einer WLAN-Benutzerrichtlinie konkretisiert werden.
 In einer solchen Benutzerrichtlinie MÜSSEN die Besonderheiten bei der WLAN-Nutzung beschrieben sein, z. B., ob und wie Hotspots genutzt werden dürfen.
