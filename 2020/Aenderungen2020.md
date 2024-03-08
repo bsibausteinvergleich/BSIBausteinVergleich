@@ -83,7 +83,6 @@ Innerhalb einer Institution SOLLTEN alle relevanten Aufgaben und Funktionen klar
 _zu:_\
 Die Regelungen MÜSSEN anlassbezogen überarbeitet werden.
 
-
 #### ORP.1.A2
 _Ersetzt:_\
 ~~ORP.1.A2 Zuweisung der Verantwortung für Informationen, Anwendungen und IT-Komponenten [Leiter IT,Informationssicherheitsbeauftragter (ISB), Institutionsleitung] 
@@ -101,16 +100,11 @@ _zu:_\
 Die Mitarbeiter MÜSSEN dazu angehalten werden, institutionsfremde Personen in den Räumen der Institution nicht unbeaufsichtigt zu lassen.
 
 #### ORP.1.A4
-_Ersetzt:_\
-~~ORP.1.A4 Funktionstrennung zwischen operativen und kontrollierenden Aufgaben 
+_Entfallen:_\
 Innerhalb einer Institution SOLLTEN alle relevanten Aufgaben und Funktionen definiert und klar voneinander abgegrenzt sein. 
-Die Aufgaben und die hierfür erforderlichen Rollen und Funktionen MÜSSEN so strukturiert sein, dass operative und kontrollierende Funktionen auf verschiedene Personen verteilt werden.~~\
-durch:\
-ORP.1.A4 Funktionstrennung zwischen unvereinbaren Aufgaben (B)
-Die Aufgaben und die hierfür erforderlichen Rollen und Funktionen MÜSSEN so strukturiert sein, dass unvereinbare Aufgaben wie operative und kontrollierende Funktionen auf verschiedene Personen verteilt werden.
 
 #### ORP.1.A5
-_Gestrichen:_\
+_Entfallen:_\
 ~~Es DÜRFEN immer nur so viele Rechte vergeben werden, wie für die Aufgabenwahrnehmung notwendig ist.
 Es MUSS ein geregeltes Verfahren für die Vergabe, die Verwaltung und den Entzug von Berechtigungen geben
 Die Dokumentation der Berechtigungen MUSS aktuell und vollständig sein.~~
@@ -118,15 +112,7 @@ Die Dokumentation der Berechtigungen MUSS aktuell und vollständig sein.~~
 ### Standard-Anforderungen
 
 #### ORP.1.A6
-_Änderung:_\
-~~ORP.1.A6 Der aufgeräumte Arbeitsplatz [Mitarbeiter]~~
-_zu:_\
-ORP.1.A6 Schutz von sensiblen Informationen am Arbeitsplatz [Mitarbeiter] (S)
-
-_Änderung:_\
-~~Arbeitsplätze SOLLTEN stichprobenartig kontrolliert werden, ob auf schutzbedürftige Informationen offen zugegriffen werden kann.~~\
-_zu:_\
-Arbeitsplätze SOLLTEN stichprobenartig daraufhin kontrolliert werden, ob schützenswerte Informationen offen zugänglich sind.
+_Keine inhaltlichen Änderungen._
 
 #### ORP.1.A7
 _Änderung:_\
@@ -146,22 +132,13 @@ _Anforderung entfallen._
 _Keine inhaltlichen Änderungen._
 
 #### ORP.1.A11
-_Änderung:_\
-~~Die Personalvertretung (Arbeitnehmer-, Mitarbeitervertretung) SOLLTE bei sie betreffenden Verfahren und Projekten rechtzeitig informiert werden.~~\
-_zu:_\
-Die Personalvertretung SOLLTE rechtzeitig informiert und beteiligt werden, wenn Verfahren oder Projekte sie betreffen.
+_Keine inhaltlichen Änderungen._
 
 #### ORP.1.A12
-_Änderung:_\
-~~ORP.1.A12 Regelungen für Wartungs- und Reparaturarbeiten [ICS-Informationssicherheitsbeauftragter, IT-Betrieb, Haustechnik]~~\
-_zu:_\
-ORP.1.A12 Regelungen für Wartungs- und Reparaturarbeiten [IT-Betrieb, Haustechnik, ICS-Informationssicherheitsbeauftragter] (S)
+_Keine inhaltlichen Änderungen._
 
 #### ORP.1.A13
-_Änderung:_\
-~~ORP.1.A13 Sicherheit bei Umzügen [Leiter IT, Leiter Haustechnik, Informationssicherheitsbeauftragter (ISB)]~~
-_zu:_\
-ORP.1.A13 Sicherheit bei Umzügen [Leiter IT, Leiter Haustechnik] (S)
+_Keine inhaltlichen Änderungen._
 
 ### Anforderungen bei erhöhtem Schutzbedarf
 
@@ -183,9 +160,8 @@ Mitarbeiter MÜSSEN kontinuierlich über neue Regelungen informiert werden.
 Alle Mitarbeiter MÜSSEN dazu verpflichtet werden, einschlägige Gesetze, Vorschriften und interne Regelungen einzuhalten.
 
 #### ORP.2.A2
-_Gestrichen:_\
+_Entfallen:_\
 Die IT-Administration MUSS außerdem dafür Sorge tragen, dass ehemaligen Mitarbeitern sämtliche Zugriffsberechtigungen auf IT-Systeme entzogen bzw. diese bei Aufgabenwechseln angepasst werden.
-
 
 #### ORP.2.A3
 _Änderung:_\
@@ -196,12 +172,7 @@ _Änderung:_\
 Es MUSS sichergestellt werden, dass die Vertretung über das dafür nötige Wissen verfügt.
 
 #### ORP.2.A4
-_Änderung:_\
-~~Kurzfristig oder einmalig zum Einsatz kommendes Fremdpersonal kann wie Besucher behandelt und MUSS in sicherheitsrelevanten Bereichen beaufsichtigt werden.
-Bei längerfristig beschäftigtem Fremdpersonal wiederum MUSS dieses ähnlich der eigenen Mitarbeiter in seine Aufgaben eingewiesen werden.~~\
-_zu:_\
-Fremdpersonal, das kurzfristig oder einmalig eingesetzt wird, MUSS in sicherheitsrelevanten Bereichen beaufsichtigt werden.
-Bei längerfristig beschäftigtem Fremdpersonal MUSS dieses wie die eigenen Mitarbeiter in seine Aufgaben eingewiesen werden.
+_Keine inhaltlichen Änderungen._
 
 #### ORP.2.A5
 "institutionsinternen" _ersetzt_ "organisationsinternen"
@@ -227,6 +198,7 @@ _Keine inhaltlichen Änderungen._
 
 #### ORP.2.A11
 _Keine inhaltlichen Änderungen._
+
 #### ORP.2.A12
 _Änderung:_\
 ~~Zur Zufriedenheit der Mitarbeiter SOLLTE ein Verantwortlicher als vertrauenswürdiger Ansprechpartner benannt werden. Im Fall von größeren organisatorischen oder technischen Veränderungen SOLLTE die Benennung eines solchen Ansprechpartners geprüft werden.~~\
@@ -299,13 +271,10 @@ ORP.4.A1 Regelung für die Einrichtung und Löschung von Benutzern und Benutzerg
 Alle Benutzer und Benutzergruppen DÜRFEN NUR über separate administrative Rollen eingerichtet und gelöscht werden.
 
 #### ORP.4.A2
-Keine Änderungen
+_Keine inhaltlichen Änderungen._
 
 #### ORP.4.A3
-_Änderung:_\
-~~Es MUSS eine Dokumentation der zugelassenen Benutzer, angelegten Benutzergruppen und Rechteprofile erfolgen.~~\
-_zu:_\
-Es MUSS dokumentiert werden, welche Benutzerkennungen, angelegte Benutzergruppen und Rechteprofile zugelassen und angelegt wurden.
+_Keine inhaltlichen Änderungen._
 
 #### ORP.4.A4
 _Änderung:_\
@@ -333,9 +302,7 @@ Werden im Rahmen der Zugriffskontrolle Chipkarten oder Token verwendet, so MUSS 
 Die Anwender SOLLTEN auf den korrekten Umgang mit Chipkarten oder Token geschult werden.
 
 #### ORP.4.A8
-_Geändert_:_\
-~~Die Institution MUSS den Passwortgebrauch verbindlich regeln. Dabei MUSS festgelegt werden, dass nur Passwörter mit ausreichender Länge und Komplexität verwendet werden. Die Passwörter SOLLTEN in angemessenen Zeitabständen geändert werden. Die Passwörter MÜSSEN sofort gewechselt, sobald sie unautorisierten Personen bekannt geworden sind oder der Verdacht darauf besteht. Passwörter MÜSSEN geheim gehalten werden. Standard-passwörter MÜSSEN durch ausreichend starke Passwörter ersetzt und vordefinierte Logins geändert werden. Es SOLLTE überprüft werden, dass die mögliche Passwortlänge auch im vollen Umfang von dem IT-System geprüft wird. Bei erfolglosen Anmeldeversuchen SOLLTE das System keinen Hinweis darauf geben, ob Passwort oder Benutzerkennung falsch sind.~~\
-_zu:_\
+_Änderung:_\
 Die Institution MUSS den Passwortgebrauch verbindlich regeln (siehe auch ORP.4.A22 Regelung zur Passwortqualität und ORP.4.A23 Regelung für Passwort-verarbeitende Anwendungen und IT-Systeme).
 Dabei MUSS geprüft werden, ob Passwörter als alleiniges Authentisierungsverfahren eingesetzt werden sollen, oder ob andere Authentisierungsmerkmale bzw. -verfahren zusätzlich zu oder anstelle von Passwörtern verwendet werden können.
 Passwörter DÜRFEN NICHT mehrfach verwendet werden.
@@ -351,10 +318,7 @@ Die Nutzung eines Passwort-Managers SOLLTE geprüft werden.
 Ein Passwort MUSS gewechselt werden, wenn es unautorisierten Personen bekannt geworden ist oder der Verdacht dazu besteht.
 
 #### ORP.4.A9
-_Änderung:_\
-~~Vorkonfigurierte Zugangsmittel MÜSSEN vor dem produktiven Einsatz geändert werden.~~\
-_zu:_\
-Vorkonfigurierte Authentisierungsmittel MÜSSEN vor dem produktiven Einsatz geändert werden.
+_Keine inhaltlichen Änderungen._
 
 #### NEU: ORP.4.A22
 ORP.4.A22 Regelung zur Passwortqualität [IT-Betrieb] (B)
@@ -386,6 +350,7 @@ Benutzerkennungen mit weitreichenden Berechtigungen SOLLTEN mit einer Mehr-Fakto
 
 #### ORP.4.A11
 _Keine inhaltlichen Änderungen._
+
 #### ORP.4.A12
 _Änderung:_\
 ~~Authentisierungsinformationen SOLLTEN kryptografisch sicher geschützt übertragen und gespeichert werden.~~\
@@ -394,17 +359,15 @@ Authentisierungsinformationen MÜSSEN kryptografisch sicher übertragen und gesp
 
 #### ORP.4.A13
 _Keine inhaltlichen Änderungen._
+
 #### ORP.4.A14
 _Keine inhaltlichen Änderungen._
+
 #### ORP.4.A15
 _Keine inhaltlichen Änderungen._
-#### ORP.4.A16
-_Änderung:_\
-~~ORP.4.A16 Richtlinien für die Zugriffs- und Zugangskontrolle [Administrator]~~\
-_zu:_\
-ORP.4.A16 Richtlinien für die Zugriffs- und Zugangskontrolle [IT-Betrieb] (S)
 
-_Änderung:_ ~~"Netze"~~ _zu:_ "Datennetze"
+#### ORP.4.A16
+_Keine inhaltlichen Änderungen._
 
 #### ORP.4.A17
 _Änderung:_\
@@ -413,13 +376,11 @@ _zu:_\
 Das ausgewählte Identitäts- und Berechtigungsmanagement-System SOLLTE den Grundsatz der Funktionstrennung unterstützen.
 
 #### ORP.4.A18
-_Änderung:_\
-~~ORP.4.A18 Einsatz eines zentralen Authentifizierungsdienstes [Leiter IT]~~\
-_zu:_\
-ORP.4.A18 Einsatz eines zentralen Authentisierungsdienstes [IT-Betrieb] (S)
+_Keine inhaltlichen Änderungen._
 
 #### ORP.4.A19
 _Keine inhaltlichen Änderungen._
+
 ### Anforderungen bei erhöhtem Schutzbedarf
 
 #### ORP.4.A20
@@ -430,11 +391,7 @@ Es SOLLTEN Vorkehrungen getroffen werden, um bei einem ausgefallenen Identitäts
 Insbesondere SOLLTE das im Notfallkonzept vorgesehene Berechtigungskonzept weiterhin anwendbar sein, wenn das Identitäts- und Berechtigungsmanagement-System ausgefallen ist.
 
 #### ORP.4.A21
-_Ersetzt:_\
-~~"Zwei- oder Mehr-Faktor-Authentisierung"~~\
-_durch:_\
-"Mehr-Faktor-Authentisierung"
-
+_Keine inhaltlichen Änderungen._
 
 
 ## Änderungen ORP.5
@@ -461,7 +418,6 @@ _Keine inhaltlichen Änderungen._
 
 #### ORP.5.A4
 _Ergänzt_: "(...) basierend auf der Identifikation und Beachtung der rechtlichen Rahmenbedingungen, (...)
-
 
 _Änderung:_\
 ~~Compliance Manager und ISB SOLLTEN regelmäßig zusammenarbeiten.~~\
@@ -521,10 +477,7 @@ Der IT-Betrieb MUSS sicherstellen, dass auf verschlüsselt gespeicherte Daten au
 _Keine inhaltlichen Änderungen._
 
 #### CON.1.A4
-_Änderung:_\
-~~CON.1.A4 Geeignetes Schlüsselmanagement [IT-Betrieb, Fachverantwortliche]~~\
-_zu:_\
-CON.1.A4 Geeignetes Schlüsselmanagement (S)
+_Keine inhaltlichen Änderungen._
 
 #### CON.1.A5
 _Entfallen:_ Auf Produkte mit unkontrollierbarer Schlüsselablage SOLLTE generell verzichtet werden.
@@ -565,22 +518,12 @@ _Keine inhaltlichen Änderungen._
 
 #### CON.1.A14
 _Änderung:_\
-~~Es SOLLTEN Schulungen durchgeführt werden, in denen Benutzern und Administratoren der Umgang mit den von ihnen zu bedienenden Kryptomodulen vermittelt wird.~~\
-_zu:_\
-Es SOLLTE Schulungen geben, in denen Benutzern und Administratoren der Umgang mit den für sie relevanten Kryptomodulen vermittelt wird.
-
-_Änderung:_\
-~~Außerdem SOLLTEN sie auf die Gefahren hingewiesen werden, wenn diese Sicherheitseinstellungen aus Bequemlichkeit umgangen oder deaktiviert werden. ~~\
-_zu:_\
-Außerdem SOLLTEN sie auf die Gefahren hingewiesen werden, die drohen, wenn diese Sicherheitseinstellungen aus Bequemlichkeit umgangen oder deaktiviert werden.
-
-_Änderung:_\
 ~~Administratoren SOLLTEN zudem lernen, wie sie mit Hilfsmitteln zur Untersuchung kryptografischer Einstellungen umgehen müssen.~~\
 _zu:_\
 Die Administratoren SOLLTEN zudem gezielt dazu geschult werden, wie die Kryptomodule zu administrieren sind.
 
 #### CON.1.A15
-_Satz gekürzt:_ Es SOLLTE ein Prozess etabliert werden, der im Falle eines geschwächten kryptografischen Verfahrens herangezogen werden kann, ~~um die Informationssicherheit der Institution zu gewährleisten~~.
+_Keine inhaltlichen Änderungen._
 
 #### CON.1.A16
 _Änderung:_\
@@ -592,10 +535,7 @@ Der Leiter IT SOLLTE sicherstellen, dass nicht (...)
 _Keine inhaltlichen Änderungen._
 
 #### CON.1.A18
-_Änderung:_\
-~~CON.1.A18 Kryptografische Ersatzmodule [Leiter IT] (CIA)~~\
-_zu:_\
-CON.1.A18 Kryptografische Ersatzmodule [IT-Betrieb] (H)
+_Keine inhaltlichen Änderungen._
 
 
 ## Änderungen CON.2
