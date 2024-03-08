@@ -1,6 +1,5 @@
 3.1 Basis-Anforderungen
 
-
 INF.9.A1 Geeignete Auswahl und Nutzung eines mobilen Arbeitsplatzes [Vorgesetzte, Benutzer]
 Die Institution MUSS ihren Mitarbeitern vorschreiben, wie mobile Arbeitsplätze in geeigneter Weise ausgewählt und benutzt werden sollen.
 Es MÜSSEN Eigenschaften definiert werden, die für einen mobilen Arbeitsplatz wünschenswert sind, aber auch Ausschlusskriterien, die gegen einen mobilen Arbeitsplatz sprechen.
