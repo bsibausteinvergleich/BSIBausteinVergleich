@@ -6272,24 +6272,39 @@ _Keine inhaltlichen Änderungen._
 ### Basis-Anforderungen
 
 #### INF.10.A1
+_Keine inhaltlichen Änderungen._
 
 #### INF.10.A2
+_Keine inhaltlichen Änderungen._
 
 #### INF.10.A3
+_Keine inhaltlichen Änderungen._
+
+### Standard-Anforderungen
 
 #### INF.10.A4
+_Ergänzung:_\
+(...) oder ausschließlich von Besuchern (...)
 
 #### INF.10.A5
+_Entfallen:_ (...) mit einem Kabelschacht(...)
 
 #### INF.10.A6
+_Keine inhaltlichen Änderungen._
 
 #### INF.10.A7
+_Keine inhaltlichen Änderungen._
 
 #### INF.10.A8
+_Keine inhaltlichen Änderungen._
+
+### Anforderungen bei erhöhtem Schutzbedarf
 
 #### INF.10.A9
+_Keine inhaltlichen Änderungen._
 
 #### INF.10.A10
+_Keine inhaltlichen Änderungen._
 
 
 
