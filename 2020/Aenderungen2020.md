@@ -17,27 +17,26 @@ Der Sicherheitsprozess MUSS durch die Institutionsleitung initiiert und etablier
 „Geschäftsprozesse [der Behörde]“ durch „Fachaufgaben“ ergänzt.
 
 #### ISMS.1.A3
-Keine inhaltlichen Änderungen.
+_Keine inhaltlichen Änderungen._
 
 #### ISMS.1.A4
-Keine inhaltlichen Änderungen.
+_Keine inhaltlichen Änderungen._
 
 #### ISMS.1.A5
-Keine inhaltlichen Änderungen.
+_Keine inhaltlichen Änderungen._
 
 #### ISMS.1.A6
-Keine inhaltlichen Änderungen.
+_Keine inhaltlichen Änderungen._
 
 #### ISMS.1.A7
-Keine inhaltlichen Änderungen.
+_Keine inhaltlichen Änderungen._
 
 #### ISMS.1.A8
 _Satzteil gestrichen:_\
 Sie MÜSSEN in die Lage versetzt werden, Sicherheit aktiv mitzugestalten, ~~also in ihre Geschäftsprozesse mit einzubringen.~~
 
 #### ISMS.1.A9
-Keine inhaltlichen Änderungen.
-
+_Keine inhaltlichen Änderungen._
 ### Standard-Anforderungen
 
 #### ISMS.1.A10
@@ -49,25 +48,19 @@ _Satzteil gestrichen:_\
 (Die Leitungsebene SOLLTE regelmäßig über den Stand der Informationssicherheit informiert werden, vor allem über die aktuelle Gefährdungslage, Wirksamkeit und Effizienz des Sicherheitsprozesses) ~~um das weitere Vorgehen im Sicherheitsprozess steuern zu können.~~
 
 #### ISMS.1.A12
-Keine inhaltlichen Änderungen.
-
+_Keine inhaltlichen Änderungen._
 #### ISMS.1.A13
-Keine inhaltlichen Änderungen.
-
+_Keine inhaltlichen Änderungen._
 #### ISMS.1.A14
-Keine inhaltlichen Änderungen.
-
+_Keine inhaltlichen Änderungen._
 #### ISMS.1.A15
-Keine inhaltlichen Änderungen.
-
+_Keine inhaltlichen Änderungen._
 ### Anforderungen bei erhöhtem Schutzbedarf
 
 #### ISMS.1.A16
-Keine inhaltlichen Änderungen.
-
+_Keine inhaltlichen Änderungen._
 #### ISMS.1.A17
-Keine inhaltlichen Änderungen.
-
+_Keine inhaltlichen Änderungen._
 ## Änderungen ORP.1
 
 ### Basis-Anforderungen
@@ -137,14 +130,12 @@ Dazu SOLLTEN neben IT-Systemen und ICS-Komponenten auch Geräte aus dem Bereich 
 Vor der ersten Inbetriebnahme der Geräte SOLLTEN geeignete Prüf- und Genehmigungsverfahren vorgeschaltet werden.
 
 #### ORP.1.A8
-Keine inhaltlichen Änderungen.
-
+_Keine inhaltlichen Änderungen._
 #### ORP.1.A9
 _Anforderung entfallen._
 
 #### ORP.1.A10
-Keine inhaltlichen Änderungen.
-
+_Keine inhaltlichen Änderungen._
 #### ORP.1.A11
 _Geändert:_\
 ~~Die Personalvertretung (Arbeitnehmer-, Mitarbeitervertretung) SOLLTE bei sie betreffenden Verfahren und Projekten rechtzeitig informiert werden.~~\
@@ -507,8 +498,7 @@ _zu:_\
 Wenn solche Verstöße erkannt werden, MÜSSEN diese sachgerecht Korrekturmaßnahmen ergriffen werden, um die Abweichungen zu beheben.
 
 #### ORP.5.A3
-Keine inhaltlichen Änderungen.
-
+_Keine inhaltlichen Änderungen._
 ### Standard-Anforderungen
 
 #### ORP.5.A4
