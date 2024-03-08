@@ -6566,16 +6566,24 @@ _Keine inhaltlichen Änderungen._
 _Keine inhaltlichen Änderungen._
 
 #### INF.4.A10
+_Keine inhaltlichen Änderungen._
 
 #### INF.4.A11
+_Keine inhaltlichen Änderungen._
+
+### Anforderungen bei erhöhtem Schutzbedarf
 
 #### INF.4.A12
+_Keine inhaltlichen Änderungen._
 
 #### INF.4.A13
+_Keine inhaltlichen Änderungen._
 
 #### INF.4.A14
+_Keine inhaltlichen Änderungen._
 
 #### INF.4.A15
+_Keine inhaltlichen Änderungen._
 
 
 
