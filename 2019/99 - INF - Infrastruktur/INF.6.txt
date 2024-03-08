@@ -1,6 +1,5 @@
 3.1 Basis-Anforderungen
 
-
 INF.6.A1 Handfeuerlöscher [Haustechnik, Brandschutzbeauftragter]
 Im Brandfall MÜSSEN im Datenträgerarchiv geeignete Handfeuerlöscher leicht erreichbar sein.
 Diese Handfeuerlöscher MÜSSEN regelmäßig inspiziert und gewartet werden.
