@@ -6847,6 +6847,34 @@ _Entfallen:_ (...) , also nicht einfach in den Hausmüll.
 _Keine inhaltlichen Änderungen._
 
 
+## Änderungen INF.9
+
+### Basis-Anforderungen
+
+#### INF.9.A1
+
+#### INF.9.A2
+
+#### INF.9.A3
+
+#### INF.9.A4
+
+#### INF.9.A5
+
+#### INF.9.A6
+
+#### INF.9.A7
+
+#### INF.9.A8
+
+#### INF.9.A9
+
+#### INF.9.A10
+
+#### INF.9.A11
+
+
+
 
 
 
