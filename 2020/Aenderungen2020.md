@@ -5180,40 +5180,106 @@ Die Institution SOLLTE dedizierte Systeme als Datenschleuse verwenden, bei denen
 ### Basis-Anforderungen
 
 #### IND.1.A1
+_Keine inhaltlichen Änderungen._
 
 #### IND.1.A2
+_Keine inhaltlichen Änderungen._
 
 #### IND.1.A3
+_Entfallen:_\
+Der Bezug und die Verteilung von Signaturen können automatisiert erfolgen.
+
+### Standard-Anforderungen
 
 #### IND.1.4
+_Keine inhaltlichen Änderungen._
 
 #### IND.1.A5
+_Keine inhaltlichen Änderungen._
 
 #### IND.1.A6
+_Keine inhaltlichen Änderungen._
 
 #### IND.1.A7
+_Keine inhaltlichen Änderungen._
 
 #### IND.1.A8
+_Keine inhaltlichen Änderungen._
 
 #### IND.1.A9
+_Keine inhaltlichen Änderungen._
 
 #### IND.1.A10
+_Keine inhaltlichen Änderungen._
 
 #### IND.1.A11
+_Keine inhaltlichen Änderungen._
 
 #### IND.1.A12
+_Keine inhaltlichen Änderungen._
+
+### Anforderungen bei erhöhtem Schutzbedarf
 
 #### IND.1.A13
+_Keine inhaltlichen Änderungen._
 
 #### IND.1.A14
+_Keine inhaltlichen Änderungen._
 
 #### IND.1.A15
+_Keine inhaltlichen Änderungen._
 
 #### IND.1.A16
+_Änderung:_\
+Mithilfe von einer oder mehrerer Anbindungszonen (DMZ) in einer P-A-P-Struktur SOLLTEN durchgängige Außenverbindungen terminiert werden.
 
 #### IND.1.A17
+_Keine inhaltlichen Änderungen._
 
 
+## Änderungen IND.2.1
+
+### Basis-Anforderungen
+
+#### IND.2.1.A1
+
+#### IND.2.1.A2
+
+#### IND.2.1.A3
+
+#### IND.2.1.A4
+
+#### IND.2.1.A5
+
+#### IND.2.1.A6
+
+#### IND.2.1.A7
+
+#### IND.2.1.A8
+
+#### IND.2.1.A9
+
+#### IND.2.1.A10
+
+#### IND.2.1.A11
+
+#### IND.2.1.A12
+
+#### IND.2.1.A13
+
+#### IND.2.1.A14
+
+#### IND.2.1.A15
+
+#### IND.2.1.A16
+
+#### IND.2.1.A17
+
+#### IND.2.1.A18
+
+#### IND.2.1.A19
+
+#### IND.2.1.A20
 
 
 
