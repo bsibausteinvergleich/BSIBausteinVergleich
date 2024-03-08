@@ -5514,83 +5514,165 @@ _Keine inhaltlichen Änderungen._
 ### Basis-Anforderungen
 
 #### NET.1.2.A1
+_Keine inhaltlichen Änderungen._
 
 #### NET.1.2.A2
+_Keine inhaltlichen Änderungen._
 
 #### NET.1.2.A3
+_Keine inhaltlichen Änderungen._
 
 #### NET.1.2.A4
+_Entfallen:_ (...) und regelmäßig geändert werden.
 
 #### NET.1.2.A5
+_Keine inhaltlichen Änderungen._
 
 #### NET.1.2.A6
+_Keine inhaltlichen Änderungen._
 
 #### NET.1.2.A7
+_Keine inhaltlichen Änderungen._
 
 #### NET.1.2.A8
+_Keine inhaltlichen Änderungen._
 
 #### NET.1.2.A9
+_Keine inhaltlichen Änderungen._
 
 #### NET.1.2.A10
+_Keine inhaltlichen Änderungen._
+
+### Standard-Anforderungen
 
 #### NET.1.2.A11
+_Keine inhaltlichen Änderungen._
 
 #### NET.1.2.A12
+_Keine inhaltlichen Änderungen._
 
 #### NET.1.2.A13
+_Keine inhaltlichen Änderungen._
 
 #### NET.1.2.A14
+_Keine inhaltlichen Änderungen._
 
 #### NET.1.2.A15
+_Keine inhaltlichen Änderungen._
 
 #### NET.1.2.A16
+_Keine inhaltlichen Änderungen._
 
 #### NET.1.2.A17
+_Keine inhaltlichen Änderungen._
 
 #### NET.1.2.A18
+_Keine inhaltlichen Änderungen._
 
 #### NET.1.2.A19
+_Änderung:_\
+(...) als sicher geltende (...)
 
 #### NET.1.2.A20
+_Änderung:_\
+(...) durch eine als sicher geltende (...)
 
 #### NET.1.2.A21
+_Keine inhaltlichen Änderungen._
 
 #### NET.1.2.A22
+_Keine inhaltlichen Änderungen._
 
 #### NET.1.2.A23
+_Keine inhaltlichen Änderungen._
 
 #### NET.1.2.A24
+_Keine inhaltlichen Änderungen._
 
 #### NET.1.2.A25
+_Keine inhaltlichen Änderungen._
 
 #### NET.1.2.A26
+_Keine inhaltlichen Änderungen._
 
 #### NET.1.2.A27
+_Keine inhaltlichen Änderungen._
 
 #### NET.1.2.A28
+_Keine inhaltlichen Änderungen._
 
 #### NET.1.2.A29
+_Keine inhaltlichen Änderungen._
+
+### Anforderungen bei erhöhtem Schutzbedarf
 
 #### NET.1.2.A30
+_Keine inhaltlichen Änderungen._
 
 #### NET.1.2.A31
+_Keine inhaltlichen Änderungen._
 
 #### NET.1.2.A32
+_Ergänzung:_\ (...) von den produktiven Netzen (...)
 
 #### NET.1.2.A33
+_Keine inhaltlichen Änderungen._
 
 #### NET.1.2.A34
+_Keine inhaltlichen Änderungen._
 
 #### NET.1.2.A35
+_Keine inhaltlichen Änderungen._
 
 #### NET.1.2.A36
+_Keine inhaltlichen Änderungen._
 
 #### NET.1.2.A37
+_Keine inhaltlichen Änderungen._
 
 #### NET.1.2.A38
+_Entfallen:_\ (...), mit denen die administrativen Tätigkeiten im Notfall durchgeführt werden können
 
 
+## Änderungen NET.2.1
 
+### Basis-Anforderungen
+
+#### NET.2.1.A1
+
+#### NET.2.1.A2
+
+#### NET.2.1.A3
+
+#### NET.2.1.A4
+
+#### NET.2.1.A5
+
+#### NET.2.1.A6
+
+#### NET.2.1.A7
+
+#### NET.2.1.A8
+
+#### NET.2.1.A9
+
+#### NET.2.1.A10
+
+#### NET.2.1.A11
+
+#### NET.2.1.A12
+
+#### NET.2.1.A13
+
+#### NET.2.1.A14
+
+#### NET.2.1.A15
+
+#### NET.2.1.A16
+
+#### NET.2.1.A17
+
+#### NET.2.1.A18
 
 
 ////////////////
