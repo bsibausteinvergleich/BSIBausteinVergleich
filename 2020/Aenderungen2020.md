@@ -5700,6 +5700,27 @@ _Keine inhaltlichen Änderungen._
 _Keine inhaltlichen Änderungen._
 
 
+## Änderungen NET.2.2
+
+### Basis-Anforderungen
+
+#### NET.2.2.A1
+_Keine inhaltlichen Änderungen._
+
+#### NET.2.2.A2
+_Keine inhaltlichen Änderungen._
+
+#### NET.2.2.A3
+_Keine inhaltlichen Änderungen._
+
+### Standard-Anforderungen
+
+#### NET.2.2.A4
+_Keine inhaltlichen Änderungen._
+
+
+
+
 ////////////////
 Formatierungshilfen:
 
