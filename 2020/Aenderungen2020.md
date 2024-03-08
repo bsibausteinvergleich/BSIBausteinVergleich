@@ -6091,6 +6091,39 @@ _Keine inhaltlichen Änderungen._
 _Keine inhaltlichen Änderungen._
 
 
+## Änderungen NET.4.3
+
+### Basis-Anforderungen
+
+#### NET.4.3.A1
+
+#### NET.4.3.A2
+
+#### NET.4.3.A3
+
+#### NET.4.3.A4
+
+#### NET.4.3.A5
+
+#### NET.4.3.A6
+
+#### NET.4.3.A7
+
+#### NET.4.3.A8
+
+#### NET.4.3.A9
+
+#### NET.4.3.A10
+
+#### NET.4.3.A11
+
+#### NET.4.3.A12
+
+#### NET.4.3.A13
+
+#### NET.4.3.A14
+
+#### NET.4.3.A15
 
 
 
