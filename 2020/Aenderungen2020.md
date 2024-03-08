@@ -6464,6 +6464,49 @@ Mit dem Personal des Rechenzentrums sowie des Serverraums SOLLTEN regelmäßige 
 _Keine inhaltlichen Änderungen._
 
 
+## Änderungen INF.3
+
+### Basis-Anforderungen
+
+#### INF.3.A1
+
+#### INF.3.A2
+
+#### INF.3.A3
+
+#### INF.3.A4
+
+#### INF.3.A5
+
+#### INF.3.A6
+
+#### INF.3.A7
+
+#### INF.3.A8
+
+#### INF.3.A9
+
+#### INF.3.A10
+
+#### INF.3.A11
+
+#### INF.3.A12
+
+#### INF.3.A13
+
+#### INF.3.A14
+
+#### INF.3.A15
+
+#### INF.3.A16
+
+#### INF.3.A17
+
+#### INF.3.A18
+
+
+
+
 
 
 ////////////////
