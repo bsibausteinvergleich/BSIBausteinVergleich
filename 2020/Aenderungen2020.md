@@ -5,8 +5,6 @@
 
 ## Änderungen ISMS.1
 <details>
-<summary>
-</summary>
 
 ### Basis-Anforderungen
 
