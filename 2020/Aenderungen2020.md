@@ -701,30 +701,13 @@ Um die Vertraulichkeit und Integrität der gesicherten Daten zu gewährleisten, 
 ### Basis-Anforderungen
 
 #### CON.4.A1
-_Änderung:_\
-~~Bei der Installation von Standardsoftware MUSS sichergestellt werden, dass es sich dabei um ein originales unverändertes Softwareprogramm handelt.
-Dazu MUSS es entweder von Originaldatenträgern oder von geprüften identischen Kopien des originalen Installationsprogramms installiert werden.
-Der Zugriff auf die Installationsroutinen MUSS auf berechtigte Mitarbeiter eingeschränkt werden.
-Die Originaldatenträger oder das Installationsprogramm MÜSSEN auf Schadsoftware überprüft werden.
-Von den Installationsdateien SOLLTEN Sicherungskopien angelegt und geprüft werden.~~\
-_zu:_\
-Bei der Installation von Standardsoftware MUSS sichergestellt werden, dass es sich dabei um ein originales unverändertes Softwareprogramm handelt.
-Dazu MUSS es entweder von Originaldatenträgern oder von geprüften identischen Kopien des originalen Installationsprogramms installiert werden.
-Der Zugriff auf die Installationsroutinen MUSS auf berechtigte Mitarbeiter eingeschränkt werden.
-Die Originaldatenträger oder das Installationsprogramm MÜSSEN auf Schadsoftware überprüft werden.
-Von den Installationsdateien SOLLTEN Sicherungskopien angelegt und geprüft werden.
+_Keine inhaltlichen Änderungen._
 
 #### CON.4.A2
-_Änderung:_\
-~~Für die ausgewählte Standardsoftware MUSS eine Installationsanweisung erstellt werden.~~\
-_zu:_\
-Für jede ausgewählte Standardsoftware MUSS eine Installationsanweisung erstellt werden.
+_Keine inhaltlichen Änderungen._
 
 #### CON.4.A3
-_Änderung:_\
-~~Freigegebene Standardsoftware MUSS so installiert und konfiguriert werden, dass dabei die entsprechenden Installationsanweisungen (siehe CON.4.A2 Entwicklung der Installationsanweisungen für Standardsoftware) eingehalten werden.~~\
-_zu:_\
-Freigegebene Standardsoftware MUSS so installiert und konfiguriert werden, dass dabei die entsprechenden Installationsanweisungen eingehalten werden.
+_Keine inhaltlichen Änderungen._
 
 ### Standard-Anforderungen
 
@@ -732,10 +715,7 @@ Freigegebene Standardsoftware MUSS so installiert und konfiguriert werden, dass 
 _Keine inhaltlichen Änderungen._
 
 #### CON.4.A5
-_Änderung:_\
-~~Vor der Beschaffung einer Standardsoftware SOLLTE ein Anforderungskatalog erstellt werden, der neben funktionalen auch Sicherheitsanforderungen umfasst.~~\
-_zu:_\
-Wird Standardsoftware beschafft, SOLLTE zuvor ein Anforderungskatalog erstellt werden, der neben funktionalen Anforderungen auch Sicherheitsanforderungen umfasst.
+_Keine inhaltlichen Änderungen._
 
 #### CON.4.A6
 _Keine inhaltlichen Änderungen._
@@ -759,10 +739,7 @@ _Keine inhaltlichen Änderungen._
 _Keine inhaltlichen Änderungen._
 
 #### CON.4.A11
-_Änderung:_\
-~~Stehen mehrere Produkte zur Auswahl, SOLLTEN Sicherheitszertifikate insbesondere dann berücksichtigt werden,(...)~~\
-_zu:_\
-Stehen mehrere Produkte zur Auswahl, SOLLTEN insbesondere dann Sicherheitszertifikate berücksichtigt werden,(...)
+_Keine inhaltlichen Änderungen._
 
 #### CON.4.A12
 _Keine inhaltlichen Änderungen._
