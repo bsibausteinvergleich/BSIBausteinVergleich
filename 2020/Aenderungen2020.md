@@ -2370,6 +2370,8 @@ _Keine inhaltlichen Änderungen._
 #### APP.2.1.A16
 _Keine inhaltlichen Änderungen._
 
+</details>
+
 
 ## Änderungen APP.2.2
 <details>
@@ -2427,6 +2429,8 @@ _Keine inhaltlichen Änderungen._
 #### APP.2.2.A15
 _Keine inhaltlichen Änderungen._
 
+</details>
+
 
 ## Änderungen APP.2.3
 <details>
@@ -2476,6 +2480,8 @@ Dabei SOLLTEN institutionsinterne Vorgaben beachtet werden.
 
 #### APP.2.3.A13
 _Keine inhaltlichen Änderungen._
+
+</details>
 
 
 ## Änderungen APP.3.1
@@ -2632,6 +2638,8 @@ APP.3.1.A25 Kryptografische Sicherung vertraulicher Daten [Entwickler] (H)
 
 Entwickler und Betreiber einer Webanwendung SOLLTEN sicherstellen, dass vertrauliche Daten einer Webanwendung durch sichere, kryptografische Algorithmen geschützt werden.
 
+</details>
+
 
 ## Änderungen APP.3.2
 <details>
@@ -2726,6 +2734,8 @@ _Keine inhaltlichen Änderungen._
 #### APP.3.2.A19 ENTFALLEN
 _Diese Anforderung ist entfallen._
 
+</details>
+
 
 ## Änderungen APP.3.3
 <details>
@@ -2813,6 +2823,8 @@ Falls Hardwareverschlüsselung eingesetzt wird, SOLLTEN Produkte verwendet werde
 _Änderung:_\
 Daten SOLLTEN zudem zwischen unabhängigen Fileservern repliziert werden, die sich zudem an unabhängigen Standorten befinden.
 
+</details>
+
 
 ## Änderungen APP.3.4
 <details>
@@ -2880,6 +2892,8 @@ _Diese Anforderung ist entfallen._
 
 #### APP.3.4.A15
 _Keine inhaltlichen Änderungen._
+
+</details>
 
 
 ## Änderungen APP.3.6
@@ -2958,6 +2972,8 @@ _Keine inhaltlichen Änderungen._
 
 #### APP.3.6.A22
 _Keine inhaltlichen Änderungen._
+
+</details>
 
 
 ## Änderungen APP.4.2
@@ -3065,6 +3081,8 @@ _Keine inhaltlichen Änderungen._
 #### APP.4.2.A32
 _Keine inhaltlichen Änderungen._
 
+</details>
+
 
 ## Änderungen APP.4.3
 <details>
@@ -3152,6 +3170,8 @@ _Keine inhaltlichen Änderungen._
 #### APP.4.3.A25
 _Keine inhaltlichen Änderungen._
 
+</details>
+
 
 ## Änderungen APP.4.6
 <details>
@@ -3229,6 +3249,8 @@ _Keine inhaltlichen Änderungen._
 
 #### APP.4.6.A22
 _Keine inhaltlichen Änderungen._
+
+</details>
 
 
 ## Änderungen APP.5.1
@@ -3379,6 +3401,8 @@ _Diese Anforderung ist entfallen._
 #### APP.5.1.A21
 _Keine inhaltlichen Änderungen._
 
+</details>
+
 
 ## Änderungen APP.5.2
 <details>
@@ -3489,6 +3513,8 @@ _Keine inhaltlichen Änderungen._
 
 #### APP.5.2.A18 ENTFALLEN
 _Diese Anforderung ist entfallen._
+
+</details>
 
 
 ## Änderungen SYS.1.1
@@ -3627,6 +3653,8 @@ Es SOLLTE nicht nur ein TPM allein als Schlüsselschutz dienen.
 Das Wiederherstellungspasswort SOLLTE an einem geeigneten sicheren Ort gespeichert werden.
 Bei sehr hohen Anforderungen an die Vertraulichkeit oder Abstreitbarkeit SOLLTE eine Full Volume Encryption erfolgen.
 
+</details>
+
 
 ## Änderungen SYS.1.2.2
 <details>
@@ -3683,6 +3711,8 @@ _Keine inhaltlichen Änderungen._
 
 #### SYS.1.2.2.A14
 _Keine inhaltlichen Änderungen._
+
+</details>
 
 
 ## Änderungen SYS.1.3
@@ -3746,6 +3776,8 @@ _Keine inhaltlichen Änderungen._
 
 #### SYS.1.3.A17
 _Keine inhaltlichen Änderungen._
+
+</details>
 
 
 ## Änderungen SYS.1.5
@@ -3847,6 +3879,8 @@ _Keine inhaltlichen Änderungen._
 
 #### SYS.1.5.A28
 _Keine inhaltlichen Änderungen._
+
+</details>
 
 
 ## Änderungen SYS.1.7
@@ -3975,6 +4009,8 @@ _Keine inhaltlichen Änderungen._
 #### SYS.1.7.A38
 _Keine inhaltlichen Änderungen._
 
+</details>
+
 
 ## Änderungen SYS.1.8
 <details>
@@ -4066,6 +4102,8 @@ _Keine inhaltlichen Änderungen._
 
 #### SYS.1.8.A26
 _Keine inhaltlichen Änderungen._
+
+</details>
 
 
 ## Änderungen SYS.2.1
@@ -4209,6 +4247,8 @@ _Keine inhaltlichen Änderungen._
 _Ergänzung:_\
 (...), die den verwendeten Speicherplatz auf der lokalen Festplatte begrenzen.
 
+</details>
+
 
 ## Änderungen SYS.2.2.2
 <details>
@@ -4283,6 +4323,8 @@ _Keine inhaltlichen Änderungen._
 
 #### SYS.2.2.2.A21
 _Keine inhaltlichen Änderungen._
+
+</details>
 
 
 ## Änderungen SYS.2.2.3
@@ -4374,6 +4416,8 @@ _Keine inhaltlichen Änderungen._
 #### SYS.2.2.3.A25
 _Keine inhaltlichen Änderungen._
 
+</details>
+
 
 ## Änderungen SYS.2.3
 <details>
@@ -4446,6 +4490,8 @@ _Keine inhaltlichen Änderungen._
 #### SYS.2.3.A20
 _Keine inhaltlichen Änderungen._
 
+</details>
+
 
 ## Änderungen SYS.2.4
 <details>
@@ -4499,6 +4545,8 @@ _Ergänzung:_\
 Auf Macs mit T2-Sicherheitschip SOLLTE ein Firmware-Passwort über das Startsicherheitsdienstprogramm gesetzt werden.
 Die Option „Sicheres Starten: Volle Sicherheit“ SOLLTE aktiviert werden.
 Die Option „Starten von externen Medien nicht zulassen“ SOLLTE aktiviert werden.
+
+</details>
 
 
 ## Änderungen SYS.3.1
@@ -4565,6 +4613,8 @@ _Keine inhaltlichen Änderungen._
 
 #### SYS.3.1.A18
 _Keine inhaltlichen Änderungen._
+
+</details>
 
 
 ## Änderungen SYS.3.2.1
@@ -4670,6 +4720,8 @@ _Keine inhaltlichen Änderungen._
 #### SYS.3.2.1.A30
 _Keine inhaltlichen Änderungen._
 
+</details>
+
 
 ## Änderungen SYS.3.2.2
 <details>
@@ -4751,6 +4803,8 @@ _Keine inhaltlichen Änderungen._
 
 #### SYS.3.2.2.A23
 _Keine inhaltlichen Änderungen._
+
+</details>
 
 
 ## Änderungen SYS.3.2.3
@@ -4850,6 +4904,8 @@ _Keine inhaltlichen Änderungen._
 #### SYS.3.2.3.A27 ENTFALLEN
 _Diese Anforderung ist entfallen._
 
+</details>
+
 
 ## Änderungen SYS.3.2.4
 <details>
@@ -4882,6 +4938,8 @@ _Keine inhaltlichen Änderungen._
 
 #### SYS.3.2.4.A7
 _Keine inhaltlichen Änderungen._
+
+</details>
 
 
 ## Änderungen SYS.3.3
@@ -4939,6 +4997,8 @@ _Keine inhaltlichen Änderungen._
 
 #### SYS.3.3.A15
 _Keine inhaltlichen Änderungen._
+
+</details>
 
 
 ## Änderungen SYS.3.4: ENTFALLEN
@@ -5036,6 +5096,8 @@ Alternativ SOLLTEN die Geräte so eingestellt werden, dass sich eingescannte Dok
 #### SYS.4.1.A21
 _Keine inhaltlichen Änderungen._
 
+</details>
+
 
 ## Änderungen SYS.4.3
 <details>
@@ -5101,6 +5163,8 @@ _Keine inhaltlichen Änderungen._
 
 #### SYS.4.3.A18
 _Keine inhaltlichen Änderungen._
+
+</details>
 
 
 ## Änderungen SYS.4.4
@@ -5295,6 +5359,8 @@ Die Zertifizierung SOLLTE insbesondere eine integere Datenerhaltung sowie eine m
 SYS.4.5.A16 Nutzung dedizierter Systeme zur Datenprüfung (H)\
 Die Institution SOLLTE dedizierte Systeme als Datenschleuse verwenden, bei denen Daten von einem Wechseldatenträger auf einen anderen übertragen werden und dabei auf Schadsoftware untersucht werden.
 
+</details>
+
 
 ## Änderungen IND.1
 <details>
@@ -5359,6 +5425,8 @@ Mithilfe von einer oder mehrerer Anbindungszonen (DMZ) in einer P-A-P-Struktur S
 
 #### IND.1.A17
 _Keine inhaltlichen Änderungen._
+
+</details>
 
 
 ## Änderungen IND.2.1
@@ -5432,6 +5500,8 @@ _Keine inhaltlichen Änderungen._
 #### IND.2.1.A20
 _Keine inhaltlichen Änderungen._
 
+</details>
+
 
 ## Änderungen IND.2.2
 <details>
@@ -5448,6 +5518,8 @@ _Keine inhaltlichen Änderungen._
 
 #### IND.2.2.A3
 _Keine inhaltlichen Änderungen._
+
+</details>
 
 
 ## Änderungen IND.2.3
@@ -5468,6 +5540,8 @@ _Keine inhaltlichen Änderungen._
 #### IND.2.3.A3
 _Keine inhaltlichen Änderungen._
 
+</details>
+
 
 ## Änderungen IND.2.4
 <details>
@@ -5481,6 +5555,8 @@ _Keine inhaltlichen Änderungen._
 
 #### IND.2.4.A2
 _Keine inhaltlichen Änderungen._
+
+</details>
 
 
 ## Änderungen IND.2.7
@@ -5529,6 +5605,8 @@ _Keine inhaltlichen Änderungen._
 
 #### IND.2.7.A12
 _Keine inhaltlichen Änderungen._
+
+</details>
 
 
 ## Änderungen NET.1.1
@@ -5649,6 +5727,8 @@ _Keine inhaltlichen Änderungen._
 
 #### NET.1.1.A36
 _Keine inhaltlichen Änderungen._
+
+</details>
 
 
 ## Änderungen NET.1.2
@@ -5778,6 +5858,8 @@ _Keine inhaltlichen Änderungen._
 #### NET.1.2.A38
 _Entfallen:_\ (...), mit denen die administrativen Tätigkeiten im Notfall durchgeführt werden können
 
+</details>
+
 
 ## Änderungen NET.2.1
 <details>
@@ -5847,6 +5929,8 @@ _Keine inhaltlichen Änderungen._
 #### NET.2.1.A18
 _Keine inhaltlichen Änderungen._
 
+</details>
+
 
 ## Änderungen NET.2.2
 <details>
@@ -5868,6 +5952,8 @@ _Keine inhaltlichen Änderungen._
 
 #### NET.2.2.A4
 _Keine inhaltlichen Änderungen._
+
+</details>
 
 
 ## Änderungen NET.3.1
@@ -5966,6 +6052,8 @@ _Keine inhaltlichen Änderungen._
 
 #### NET.3.1.A28
 _Keine inhaltlichen Änderungen._
+
+</details>
 
 
 ## Änderungen NET.3.2
@@ -6077,6 +6165,8 @@ _Keine inhaltlichen Änderungen._
 #### NET.3.2.A31
 _Keine inhaltlichen Änderungen._
 
+</details>
+
 
 ## Änderungen NET.3.3
 <details>
@@ -6125,6 +6215,8 @@ _Keine inhaltlichen Änderungen._
 
 #### NET.3.3.A13
 _Keine inhaltlichen Änderungen._
+
+</details>
 
 
 ## Änderungen NET.4.1
@@ -6196,6 +6288,8 @@ _Keine inhaltlichen Änderungen._
 #### NET.4.1.A19
 _Keine inhaltlichen Änderungen._
 
+</details>
+
 
 ## Änderungen NET.4.2
 <details>
@@ -6255,6 +6349,8 @@ _Keine inhaltlichen Änderungen._
 
 #### NET.4.2.A16
 _Keine inhaltlichen Änderungen._
+
+</details>
 
 
 ## Änderungen NET.4.3
@@ -6319,6 +6415,8 @@ _Keine inhaltlichen Änderungen._
 
 #### NET.4.3.A15
 _Keine inhaltlichen Änderungen._
+
+</details>
 
 
 ## Änderungen INF.1
@@ -6438,6 +6536,8 @@ _Keine inhaltlichen Änderungen._
 #### INF.1.A34
 _Keine inhaltlichen Änderungen._
 
+</details>
+
 
 ## Änderungen INF.10
 <details>
@@ -6480,6 +6580,8 @@ _Keine inhaltlichen Änderungen._
 
 #### INF.10.A10
 _Keine inhaltlichen Änderungen._
+
+</details>
 
 
 ## Änderungen INF.2
@@ -6641,6 +6743,8 @@ Mit dem Personal des Rechenzentrums sowie des Serverraums SOLLTEN regelmäßige 
 #### INF.2.A28
 _Keine inhaltlichen Änderungen._
 
+</details>
+
 
 ## Änderungen INF.3
 <details>
@@ -6711,6 +6815,8 @@ INF.3.A18 EMV-taugliche Stromversorgung (H)\
 Für die störungsfreie Funktion moderner IT-Systeme sowie der für deren Betrieb erforderlichen Supportsysteme (von der USV über die NEA bis hin zur Klimatechnik) SOLLTE die Stromversorgung EMV (Elektromagnetische Verträglichkeit) -tauglich sein.
 Dafür SOLLTE das Stromverteilungsnetz als TN-S-System (frz. Terre Neutre Séparé) aufgebaut sein.
 Bei Aufbau und Betrieb des Stromverteilnetzes SOLLTEN die empfohlenen Trennungsabstände soweit wie möglich eingehalten werden.
+
+</details>
 
 
 ## Änderungen INF.4
@@ -6935,6 +7041,8 @@ Das Brandfrühesterkennungssystem und die automatische Löschanlage SOLLTEN an d
 INF.5.A26 Überwachung der Energieversorgung [Planer, Haustechnik] (H)\
 Zum Schutz vor Ableitströmen, Strömen auf Schutzleitern, Leitungsschirmen und Oberschwingungen SOLLTE eine entsprechende Überwachungseinrichtung mit Fernanzeige eingebaut und betrieben werden.
 
+</details>
+
 
 ## Änderungen INF.6
 <details>
@@ -6975,6 +7083,8 @@ _Keine inhaltlichen Änderungen._
 #### INF.6.A9
 _Keine inhaltlichen Änderungen._
 
+</details>
+
 
 ## Änderungen INF.7
 <details>
@@ -7009,6 +7119,8 @@ _Keine inhaltlichen Änderungen._
 #### INF.7.A8
 _Keine inhaltlichen Änderungen._
 
+</details>
+
 
 ## Änderungen INF.8
 <details>
@@ -7038,6 +7150,8 @@ _Entfallen:_ (...) , also nicht einfach in den Hausmüll.
 
 #### INF.8.A6
 _Keine inhaltlichen Änderungen._
+
+</details>
 
 
 ## Änderungen INF.9
