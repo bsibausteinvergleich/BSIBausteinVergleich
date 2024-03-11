@@ -4,6 +4,9 @@
 
 
 ## Änderungen ISMS.1
+<details>
+<summary>
+</summary>
 
 ### Basis-Anforderungen
 
@@ -66,6 +69,8 @@ _Keine inhaltlichen Änderungen._
 
 #### ISMS.1.A17
 _Keine inhaltlichen Änderungen._
+
+<\details>
 
 
 ## Änderungen ORP.1
