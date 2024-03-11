@@ -952,6 +952,8 @@ _Keine inhaltlichen Änderungen._
 #### CON.7.A18
 _Keine inhaltlichen Änderungen._
 
+</details>
+
 
 ## NEU CON.8
 _Die Anforderungen CON.8.A1 bis CON.8.A19 wurden hinzugefügt._
@@ -960,7 +962,6 @@ _Die Anforderungen CON.8.A1 bis CON.8.A19 wurden hinzugefügt._
 ## NEU CON.9
 _Die Anforderungen CON.9.A1 bis CON.9.A8 wurden hinzugefügt._
 
-</details>
 
 ## Änderungen OPS.1.1.2
 <details>
