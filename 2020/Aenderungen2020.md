@@ -70,7 +70,7 @@ _Keine inhaltlichen Änderungen._
 #### ISMS.1.A17
 _Keine inhaltlichen Änderungen._
 
-<\details>
+</details>
 
 
 ## Änderungen ORP.1
