@@ -1412,13 +1412,7 @@ _Keine inhaltlichen Änderungen._
 
 ## NEU OPS.1.2.5
 
-<details>
-<summary>
-</summary>
-  
-### OPS.1.2.5.A1 - OPS.1.2.5.A23 sind in 2020 ergänzt worden.
-
-</details>
+### _OPS.1.2.5.A1 - OPS.1.2.5.A23 sind in 2020 ergänzt worden._
 
 ## Änderungen OPS.2.1
 <details>
