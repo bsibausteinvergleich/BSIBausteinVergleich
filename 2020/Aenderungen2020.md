@@ -370,10 +370,7 @@ _Keine inhaltlichen Änderungen._
 _Keine inhaltlichen Änderungen._
 
 #### ORP.4.A17
-_Änderung:_\
-~~Das ausgewählte Identitäts- und Berechtigungsmanagement-System SOLLTE den Grundsatz der Funktionstrennung realisieren können.~~\
-_zu:_\
-Das ausgewählte Identitäts- und Berechtigungsmanagement-System SOLLTE den Grundsatz der Funktionstrennung unterstützen.
+_Keine inhaltlichen Änderungen._
 
 #### ORP.4.A18
 _Keine inhaltlichen Änderungen._
@@ -402,18 +399,11 @@ _Keine inhaltlichen Änderungen._
 "Sicherheitsmanagement" _ersetzt durch_ "Informationssicherheitsmanagement"
 
 #### ORP.5.A2
-_Änderung:_\
-~~Führungskräfte, welche die rechtliche Verantwortung für die Institution vor Ort tragen (...)~~\
-_zu:_\
-Führungskräfte, die eine rechtliche Verantwortung für die Institution tragen (...)
-
-_Änderung:_\
-~~Wenn Verstöße gegen relevante Anforderungen erkannt werden, MÜSSEN sachgerechte Korrekturmaßnahmen ergriffen werden, um die Abweichungen zu beheben.~~\
-_zu:_\
-Wenn solche Verstöße erkannt werden, MÜSSEN diese sachgerecht Korrekturmaßnahmen ergriffen werden, um die Abweichungen zu beheben.
+_Keine inhaltlichen Änderungen._
 
 #### ORP.5.A3
 _Keine inhaltlichen Änderungen._
+
 ### Standard-Anforderungen
 
 #### ORP.5.A4
@@ -431,10 +421,7 @@ _zu:_\
 Es SOLLTE eine Übersicht über alle erteilten Ausnahmegenehmigungen erstellt und gepflegt werden.
 
 #### ORP.5.A6
-_Änderung:_\
-~~Alle Mitarbeiter und alle externen IT-Benutzer SOLLTEN in den sicheren Umgang mit der IT der Institution eingewiesen werden.~~\
-_zu:_\
-Alle internen und externen Mitarbeiter SOLLTEN in den sicheren Umgang mit der Informationstechnik der Institution eingewiesen werden.
+_Keine inhaltlichen Änderungen._
 
 #### ORP.5.A7
 _Anforderung entfallen_
@@ -461,15 +448,7 @@ _Anforderung entfallen_
 _Keine inhaltlichen Änderungen._
 
 #### CON.1.A2
-_Änderung:_\
-~~In Datensicherungen MÜSSEN kryptografische Schlüssel derart gespeichert bzw. aufbewahrt werden, dass Unbefugte nicht darauf zugreifen können.~~\
-_zu:_\
-In Datensicherungen MÜSSEN kryptografische Schlüssel vom IT-Betrieb derart gespeichert bzw. aufbewahrt werden, dass Unbefugte nicht darauf zugreifen können.
-
-_Änderung:_\
-~~Es MUSS sichergestellt sein, dass auf verschlüsselt gespeicherte Daten auch nach längeren Zeiträumen noch zugegriffen werden kann.~~\
-_zu:_\
-Der IT-Betrieb MUSS sicherstellen, dass auf verschlüsselt gespeicherte Daten auch nach längeren Zeiträumen noch zugegriffen werden kann.
+_Keine inhaltlichen Änderungen._
 
 ### Standard-Anforderungen
 
