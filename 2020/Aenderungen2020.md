@@ -6870,9 +6870,14 @@ _Keine inhaltlichen Änderungen._
 #### INF.4.A15
 _Keine inhaltlichen Änderungen._
 
+</details>
 
 ## NEU INF.5
 
+<details>
+<summary>
+</summary>
+  
 ### Basis-Anforderungen
 
 #### NEU: INF.5.A1
