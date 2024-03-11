@@ -153,6 +153,7 @@ _Keine inhaltlichen Änderungen._
 #### ORP.1.A14
 "Nachlässigkeiten" _durch_ "Mängel" _ersetzt_.
 
+</details>
 
 ## Änderungen ORP.2
 <details>
@@ -219,6 +220,7 @@ Für die Mitarbeiter SOLLTE eine Vertrauensperson als Ansprechpartner benannt we
 #### ORP.2.A13
 _Keine inhaltlichen Änderungen._
 
+</details>
 
 ## Änderungen ORP.3
 <details>
@@ -270,6 +272,7 @@ _Änderung:_\
 _zu:_\
 Besonders exponierte Personen
 
+</details>
 
 ## Änderungen ORP.1
 <details>
@@ -407,6 +410,7 @@ Insbesondere SOLLTE das im Notfallkonzept vorgesehene Berechtigungskonzept weite
 #### ORP.4.A21
 _Keine inhaltlichen Änderungen._
 
+</details>
 
 ## Änderungen ORP.5
 <details>
@@ -459,6 +463,8 @@ _Anforderung entfallen_
 
 #### ORP.5.A11
 _Anforderung entfallen_
+
+</details>
 
 ## Änderungen CON.1
 <details>
@@ -539,6 +545,7 @@ _Keine inhaltlichen Änderungen._
 #### CON.1.A18
 _Keine inhaltlichen Änderungen._
 
+</details>
 
 ## Änderungen CON.2
 <details>
@@ -555,6 +562,7 @@ _durch:_\
 CON.2.A1 Umsetzung Standard-Datenschutzmodell (B)\
 Die gesetzlichen Bestimmungen zum Datenschutz (DSGVO, BDSG und LDSG) MÜSSEN eingehalten werden. Wird die SDM-Methodik nicht berücksichtigt, die Maßnahmen also nicht auf der Basis der Gewährleistungsziele systematisiert und mit dem Referenzmaßnahmen-Katalog des SDM abgeglichen, SOLLTE dies begründet und dokumentiert werden.
 
+</details>
 
 ## Änderungen CON.3
 <details>
@@ -683,6 +691,7 @@ _Änderung:_\
 _zu:_\
 Um die Vertraulichkeit und Integrität der gesicherten Daten zu gewährleisten, SOLLTE der IT-Betrieb alle Datensicherungen verschlüsseln.
 
+</details>
 
 ## Änderungen CON.4
 <details>
@@ -758,6 +767,7 @@ Stehen mehrere Produkte zur Auswahl, SOLLTEN insbesondere dann Sicherheitszertif
 #### CON.4.A12
 _Keine inhaltlichen Änderungen._
 
+</details>
 
 ## Änderungen CON.5
 <details>
@@ -830,6 +840,7 @@ Es SOLLTE ein Redundanzkonzept vom IT-Betrieb in Abstimmung mit dem Fachverantwo
 _Änderung:_\
 Das Redundanzkonzept SOLLTE zwischen dem IT-Betrieb und dem Notfallbeauftragten mit Hinsicht auf das Notfallkonzept abgestimmt werden.
 
+</details>
 
 ## Änderungen CON.6
 <details>
@@ -875,6 +886,7 @@ _Keine inhaltlichen Änderungen._
 #### CON.6.A11
 _Entfallen:_ ~~Zudem SOLLTEN die in OPS.2.1 Outsourcing für Kunden beschriebenen generellen Anforderungen an Dienstleister und deren Mitarbeiter umgesetzt werden.~~
 
+</details>
 
 ## Änderungen CON.7
 <details>
@@ -948,6 +960,7 @@ _Die Anforderungen CON.8.A1 bis CON.8.A19 wurden hinzugefügt._
 ## NEU CON.9
 _Die Anforderungen CON.9.A1 bis CON.9.A8 wurden hinzugefügt._
 
+</details>
 
 ## Änderungen OPS.1.1.2
 <details>
@@ -1040,6 +1053,7 @@ _Keine inhaltlichen Änderungen._
 #### OPS.1.1.2.A19
 _Entfallen:_ Dies erfordert im Regelfall eine umfassende Hochverfügbarkeitsplanung.
 
+</details>
 
 ## Änderungen OPS.1.1.3
 <details>
@@ -1094,6 +1108,7 @@ _Keine inhaltlichen Änderungen._
 #### OPS.1.1.3.A14
 _Keine inhaltlichen Änderungen._
 
+</details>
 
 ## Änderungen OPS.1.1.4
 <details>
@@ -1153,6 +1168,7 @@ _Keine inhaltlichen Änderungen._
 #### OPS.1.1.4.A15
 _Keine inhaltlichen Änderungen._
 
+</details>
 
 ## Änderungen OPS.1.1.5
 <details>
@@ -1207,6 +1223,7 @@ _Keine inhaltlichen Änderungen._
 #### OPS.1.1.5.A13
 _Keine inhaltlichen Änderungen._
 
+</details>
 
 ## Änderungen OPS.1.1.6
 <details>
@@ -1264,6 +1281,7 @@ _Änderung:_ ~~"Testlandschaft" und "Qualitätsmanagement-Umgebung"~~ _zu:_ "Tes
 #### OPS.1.1.6.A14
 _Keine inhaltlichen Änderungen._
 
+</details>
 
 ## Änderungen OPS.1.2.2
 <details>
@@ -1340,10 +1358,12 @@ _Anforderung hinzugefügt_
 #### NEU OPS.1.2.2.A21
 _Anforderung hinzugefügt_
 
+</details>
 
 ## Änderungen OPS.1.2.3
 _OPS.1.2.3 ist vollständig entfallen._
 
+</details>
 
 ## Änderungen OPS.1.2.4
 <details>
@@ -1386,11 +1406,18 @@ _Keine inhaltlichen Änderungen._
 #### OPS.1.2.4.A10
 _Keine inhaltlichen Änderungen._
 
+</details>
+
 
 ## NEU OPS.1.2.5
 
+<details>
+<summary>
+</summary>
+  
 ### OPS.1.2.5.A1 - OPS.1.2.5.A23 sind in 2020 ergänzt worden.
 
+</details>
 
 ## Änderungen OPS.2.1
 <details>
@@ -1450,6 +1477,8 @@ _Diese Anforderung wurde ergänzt._
 
 #### OPS.2.1.A16
 _Diese Anforderung wurde ergänzt._
+
+</details>
 
 
 ## Änderungen OPS.2.2
@@ -1524,6 +1553,8 @@ _Keine inhaltlichen Änderungen._
 #### OPS.2.2.A19
 _Keine inhaltlichen Änderungen._
 
+</details>
+
 
 ## Änderungen OPS.2.4
 _Diese Anforderungen sind entfallen._
@@ -1587,6 +1618,8 @@ _Keine inhaltlichen Änderungen._
 
 #### OPS.3.1.A16
 _Keine inhaltlichen Änderungen._
+
+</details>
 
 
 ## Änderungen DER.1
@@ -1653,6 +1686,8 @@ _Keine inhaltlichen Änderungen._
 
 #### DER.1.A18
 _Keine inhaltlichen Änderungen._
+
+</details>
 
 
 ## Änderungen DER.2.1
@@ -1734,6 +1769,8 @@ _Keine inhaltlichen Änderungen._
 _Änderung:_\
 Es SOLLTEN die Messgrößen ausgewertet werden, die anfallen, wenn Sicherheitsvorfälle aufgenommen, gemeldet und eskaliert werden, z. B. die Zeiträume von der Erstmeldung bis zur verbindlichen Bestätigung eines Sicherheitsvorfalls.
 
+</details>
+
 
 ## Änderungen DER.2.2
 <details>
@@ -1793,6 +1830,8 @@ _Keine inhaltlichen Änderungen._
 #### DER.2.2.A15
 _Keine inhaltlichen Änderungen._
 
+</details>
+
 
 ## Änderungen DER.2.3
 <details>
@@ -1834,6 +1873,8 @@ _Keine inhaltlichen Änderungen._
 
 #### DER.2.3.A10
 _Keine inhaltlichen Änderungen._
+
+</details>
 
 
 ## Änderungen DER.3.1
@@ -1939,6 +1980,8 @@ _Keine inhaltlichen Änderungen._
 #### DER.3.1.A28
 _Keine inhaltlichen Änderungen._
 
+</details>
+
 
 ## Änderungen DER.3.2
 <details>
@@ -2024,6 +2067,8 @@ Die im IS-Revisionsbericht festgestellten Abweichungen SOLLTEN in einer angemess
 #### DER.3.2.A23
 _Keine inhaltlichen Änderungen._
 
+</details>
+
 
 ## Änderungen DER.4
 <details>
@@ -2084,6 +2129,8 @@ Diese Messgrößen SOLLTEN regelmäßig ermittelt und mit geeigneten vorangegang
 
 #### DER.4.A16
 _Keine inhaltlichen Änderungen._
+
+</details>
 
 
 ## Änderungen APP.1.1
@@ -2148,6 +2195,8 @@ _Keine inhaltlichen Änderungen._
 #### APP.1.1.A16
 _Keine inhaltlichen Änderungen._
 
+</details>
+
 
 ## Änderungen APP.1.2
 <details>
@@ -2197,6 +2246,8 @@ _Keine inhaltlichen Änderungen._
 
 #### APP.1.2.A12
 _Keine inhaltlichen Änderungen._
+
+</details>
 
 
 ## Änderungen APP.1.4
@@ -2255,6 +2306,8 @@ _Keine inhaltlichen Änderungen._
 
 #### APP.1.4.A15
 _Keine inhaltlichen Änderungen._
+
+</details>
 
 
 ## Änderungen APP.2.1
