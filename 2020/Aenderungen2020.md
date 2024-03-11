@@ -4,7 +4,6 @@
 
 <details>
 <summary>
-
 ## Änderungen ISMS.1
 
 </summary>
