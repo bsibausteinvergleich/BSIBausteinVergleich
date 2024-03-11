@@ -74,7 +74,10 @@ _Keine inhaltlichen Änderungen._
 
 
 ## Änderungen ORP.1
-
+<details>
+<summary>
+</summary>
+  
 ### Basis-Anforderungen
 
 #### ORP.1.A1
@@ -152,6 +155,9 @@ _Keine inhaltlichen Änderungen._
 
 
 ## Änderungen ORP.2
+<details>
+<summary>
+</summary>
 
 ### Basis-Anforderungen
 
@@ -215,6 +221,9 @@ _Keine inhaltlichen Änderungen._
 
 
 ## Änderungen ORP.3
+<details>
+<summary>
+</summary>
 
 ### Basis-Anforderungen
 
@@ -263,6 +272,9 @@ Besonders exponierte Personen
 
 
 ## Änderungen ORP.1
+<details>
+<summary>
+</summary>
 
 Die Rolle "Leiter IT" wurde in allen Anforderungen der ORP.4 durch "IT-Betrieb" ersetzt.
 
@@ -397,6 +409,9 @@ _Keine inhaltlichen Änderungen._
 
 
 ## Änderungen ORP.5
+<details>
+<summary>
+</summary>
 
 ### Basis-Anforderungen
 
@@ -446,6 +461,9 @@ _Anforderung entfallen_
 _Anforderung entfallen_
 
 ## Änderungen CON.1
+<details>
+<summary>
+</summary>
 
 ### Basis-Anforderungen
 
@@ -523,6 +541,9 @@ _Keine inhaltlichen Änderungen._
 
 
 ## Änderungen CON.2
+<details>
+<summary>
+</summary>
 
 ### Basis-Anforderungen
 
@@ -536,6 +557,9 @@ Die gesetzlichen Bestimmungen zum Datenschutz (DSGVO, BDSG und LDSG) MÜSSEN ein
 
 
 ## Änderungen CON.3
+<details>
+<summary>
+</summary>
 
 ### Basis-Anforderungen
 
@@ -661,6 +685,9 @@ Um die Vertraulichkeit und Integrität der gesicherten Daten zu gewährleisten, 
 
 
 ## Änderungen CON.4
+<details>
+<summary>
+</summary>
 
 ### Basis-Anforderungen
 
@@ -733,6 +760,9 @@ _Keine inhaltlichen Änderungen._
 
 
 ## Änderungen CON.5
+<details>
+<summary>
+</summary>
 
 _Die Begriffe_ "Anwendung" _bzw._ "Fachanwendung" _wurden durch_ "Individualsoftware" _ersetzt._
 
@@ -802,6 +832,9 @@ Das Redundanzkonzept SOLLTE zwischen dem IT-Betrieb und dem Notfallbeauftragten 
 
 
 ## Änderungen CON.6
+<details>
+<summary>
+</summary>
 
 ### Basis-Anforderungen
 
@@ -844,6 +877,9 @@ _Entfallen:_ ~~Zudem SOLLTEN die in OPS.2.1 Outsourcing für Kunden beschriebene
 
 
 ## Änderungen CON.7
+<details>
+<summary>
+</summary>
 
 ### Basis-Anforderungen
 
@@ -914,6 +950,9 @@ _Die Anforderungen CON.9.A1 bis CON.9.A8 wurden hinzugefügt._
 
 
 ## Änderungen OPS.1.1.2
+<details>
+<summary>
+</summary>
 
 ### Basis-Anforderungen
 
@@ -1003,6 +1042,9 @@ _Entfallen:_ Dies erfordert im Regelfall eine umfassende Hochverfügbarkeitsplan
 
 
 ## Änderungen OPS.1.1.3
+<details>
+<summary>
+</summary>
 
 ### Basis-Anforderungen
 
@@ -1054,6 +1096,9 @@ _Keine inhaltlichen Änderungen._
 
 
 ## Änderungen OPS.1.1.4
+<details>
+<summary>
+</summary>
 
 ### Basis-Anforderungen
 
@@ -1110,6 +1155,9 @@ _Keine inhaltlichen Änderungen._
 
 
 ## Änderungen OPS.1.1.5
+<details>
+<summary>
+</summary>
 
 ### Basis-Anforderungen
 
@@ -1161,6 +1209,9 @@ _Keine inhaltlichen Änderungen._
 
 
 ## Änderungen OPS.1.1.6
+<details>
+<summary>
+</summary>
 
 ### Basis-Anforderungen
 
@@ -1215,6 +1266,9 @@ _Keine inhaltlichen Änderungen._
 
 
 ## Änderungen OPS.1.2.2
+<details>
+<summary>
+</summary>
 
 ### Basis-Anforderungen
 
@@ -1292,6 +1346,9 @@ _OPS.1.2.3 ist vollständig entfallen._
 
 
 ## Änderungen OPS.1.2.4
+<details>
+<summary>
+</summary>
 
 ### Basis-Anforderungen
 
@@ -1336,6 +1393,9 @@ _Keine inhaltlichen Änderungen._
 
 
 ## Änderungen OPS.2.1
+<details>
+<summary>
+</summary>
 
 ### Basis-Anforderungen
 
@@ -1393,6 +1453,10 @@ _Diese Anforderung wurde ergänzt._
 
 
 ## Änderungen OPS.2.2
+<details>
+<summary>
+</summary>
+
 _In diesen Anforderungen wurde der Begriff_ "Institution" _weitestgehend durch_ "Cloud-Kunde" _ersetzt._
 
 ### Basis-Anforderungen
@@ -1466,6 +1530,9 @@ _Diese Anforderungen sind entfallen._
 
 
 ## Änderungen OPS.3.1
+<details>
+<summary>
+</summary>
 
 ### Basis-Anforderungen
 
@@ -1523,6 +1590,9 @@ _Keine inhaltlichen Änderungen._
 
 
 ## Änderungen DER.1
+<details>
+<summary>
+</summary>
 
 ### Basis-Anforderungen
 
@@ -1586,6 +1656,9 @@ _Keine inhaltlichen Änderungen._
 
 
 ## Änderungen DER.2.1
+<details>
+<summary>
+</summary>
 
 ### Basis-Anforderungen
 
@@ -1663,6 +1736,9 @@ Es SOLLTEN die Messgrößen ausgewertet werden, die anfallen, wenn Sicherheitsvo
 
 
 ## Änderungen DER.2.2
+<details>
+<summary>
+</summary>
 
 ### Basis-Anforderungen
 
@@ -1719,6 +1795,9 @@ _Keine inhaltlichen Änderungen._
 
 
 ## Änderungen DER.2.3
+<details>
+<summary>
+</summary>
 
 ### Basis-Anforderungen
 
@@ -1758,6 +1837,9 @@ _Keine inhaltlichen Änderungen._
 
 
 ## Änderungen DER.3.1
+<details>
+<summary>
+</summary>
 
 ### Basis-Anforderungen
 
@@ -1859,6 +1941,9 @@ _Keine inhaltlichen Änderungen._
 
 
 ## Änderungen DER.3.2
+<details>
+<summary>
+</summary>
 
 ### Basis-Anforderungen
 
@@ -1941,6 +2026,9 @@ _Keine inhaltlichen Änderungen._
 
 
 ## Änderungen DER.4
+<details>
+<summary>
+</summary>
 
 ### Standard-Anforderungen
 
@@ -1999,6 +2087,9 @@ _Keine inhaltlichen Änderungen._
 
 
 ## Änderungen APP.1.1
+<details>
+<summary>
+</summary>
 
 ### Basis-Anforderungen
 
@@ -2059,6 +2150,9 @@ _Keine inhaltlichen Änderungen._
 
 
 ## Änderungen APP.1.2
+<details>
+<summary>
+</summary>
 
 ### Basis-Anforderungen
 
@@ -2106,6 +2200,9 @@ _Keine inhaltlichen Änderungen._
 
 
 ## Änderungen APP.1.4
+<details>
+<summary>
+</summary>
 
 ### Basis-Anforderungen
 
@@ -2161,6 +2258,9 @@ _Keine inhaltlichen Änderungen._
 
 
 ## Änderungen APP.2.1
+<details>
+<summary>
+</summary>
 
 ### Basis-Anforderungen
 
@@ -2219,6 +2319,9 @@ _Keine inhaltlichen Änderungen._
 
 
 ## Änderungen APP.2.2
+<details>
+<summary>
+</summary>
 
 ### Basis-Anforderungen
 
@@ -2273,6 +2376,9 @@ _Keine inhaltlichen Änderungen._
 
 
 ## Änderungen APP.2.3
+<details>
+<summary>
+</summary>
 
 ### Basis-Anforderungen
 
@@ -2320,6 +2426,9 @@ _Keine inhaltlichen Änderungen._
 
 
 ## Änderungen APP.3.1
+<details>
+<summary>
+</summary>
 
 ### Basis-Anforderungen
 
@@ -2472,6 +2581,9 @@ Entwickler und Betreiber einer Webanwendung SOLLTEN sicherstellen, dass vertraul
 
 
 ## Änderungen APP.3.2
+<details>
+<summary>
+</summary>
 
 ### Basis-Anforderungen
 
@@ -2563,6 +2675,9 @@ _Diese Anforderung ist entfallen._
 
 
 ## Änderungen APP.3.3
+<details>
+<summary>
+</summary>
 
 ### Basis-Anforderungen
 
@@ -2647,6 +2762,9 @@ Daten SOLLTEN zudem zwischen unabhängigen Fileservern repliziert werden, die si
 
 
 ## Änderungen APP.3.4
+<details>
+<summary>
+</summary>
 
 ### Basis-Anforderungen
 
@@ -2712,6 +2830,9 @@ _Keine inhaltlichen Änderungen._
 
 
 ## Änderungen APP.3.6
+<details>
+<summary>
+</summary>
 
 ### Basis-Anforderungen
 
@@ -2787,6 +2908,9 @@ _Keine inhaltlichen Änderungen._
 
 
 ## Änderungen APP.4.2
+<details>
+<summary>
+</summary>
 
 ### Basis-Anforderungen
 
@@ -2890,6 +3014,9 @@ _Keine inhaltlichen Änderungen._
 
 
 ## Änderungen APP.4.3
+<details>
+<summary>
+</summary>
 
 ### Basis-Anforderungen
 
@@ -2974,6 +3101,9 @@ _Keine inhaltlichen Änderungen._
 
 
 ## Änderungen APP.4.6
+<details>
+<summary>
+</summary>
 
 ### Basis-Anforderungen
 
@@ -3049,6 +3179,9 @@ _Keine inhaltlichen Änderungen._
 
 
 ## Änderungen APP.5.1
+<details>
+<summary>
+</summary>
 
 ### Basis-Anforderungen
 
@@ -3195,6 +3328,9 @@ _Keine inhaltlichen Änderungen._
 
 
 ## Änderungen APP.5.2
+<details>
+<summary>
+</summary>
 
 ### Basis-Anforderungen
 
@@ -3303,6 +3439,9 @@ _Diese Anforderung ist entfallen._
 
 
 ## Änderungen SYS.1.1
+<details>
+<summary>
+</summary>
 
 ### Basis-Anforderungen
 
@@ -3437,6 +3576,9 @@ Bei sehr hohen Anforderungen an die Vertraulichkeit oder Abstreitbarkeit SOLLTE 
 
 
 ## Änderungen SYS.1.2.2
+<details>
+<summary>
+</summary>
 
 ### Basis-Anforderungen
 
@@ -3491,6 +3633,9 @@ _Keine inhaltlichen Änderungen._
 
 
 ## Änderungen SYS.1.3
+<details>
+<summary>
+</summary>
 
 ### Basis-Anforderungen
 
@@ -3551,6 +3696,9 @@ _Keine inhaltlichen Änderungen._
 
 
 ## Änderungen SYS.1.5
+<details>
+<summary>
+</summary>
 
 ### Basis-Anforderungen
 
@@ -3649,6 +3797,9 @@ _Keine inhaltlichen Änderungen._
 
 
 ## Änderungen SYS.1.7
+<details>
+<summary>
+</summary>
 
 ### Basis-Anforderungen
 
@@ -3773,6 +3924,9 @@ _Keine inhaltlichen Änderungen._
 
 
 ## Änderungen SYS.1.8
+<details>
+<summary>
+</summary>
 
 ### Basis-Anforderungen
 
@@ -3862,6 +4016,9 @@ _Keine inhaltlichen Änderungen._
 
 
 ## Änderungen SYS.2.1
+<details>
+<summary>
+</summary>
 
 ### Basis-Anforderungen
 
@@ -4001,6 +4158,9 @@ _Ergänzung:_\
 
 
 ## Änderungen SYS.2.2.2
+<details>
+<summary>
+</summary>
 
 ### Basis-Anforderungen
 
@@ -4073,6 +4233,9 @@ _Keine inhaltlichen Änderungen._
 
 
 ## Änderungen SYS.2.2.3
+<details>
+<summary>
+</summary>
 
 ### Basis-Anforderungen
 
@@ -4160,6 +4323,9 @@ _Keine inhaltlichen Änderungen._
 
 
 ## Änderungen SYS.2.3
+<details>
+<summary>
+</summary>
 
 ### Basis-Anforderungen
 
@@ -4229,6 +4395,9 @@ _Keine inhaltlichen Änderungen._
 
 
 ## Änderungen SYS.2.4
+<details>
+<summary>
+</summary>
 
 ### Basis-Anforderungen
 
@@ -4280,6 +4449,9 @@ Die Option „Starten von externen Medien nicht zulassen“ SOLLTE aktiviert wer
 
 
 ## Änderungen SYS.3.1
+<details>
+<summary>
+</summary>
 
 ### Basis-Anforderungen
 
@@ -4343,6 +4515,9 @@ _Keine inhaltlichen Änderungen._
 
 
 ## Änderungen SYS.3.2.1
+<details>
+<summary>
+</summary>
 
 ### Basis-Anforderungen
 
@@ -4444,6 +4619,9 @@ _Keine inhaltlichen Änderungen._
 
 
 ## Änderungen SYS.3.2.2
+<details>
+<summary>
+</summary>
 
 ### Basis-Anforderungen
 
@@ -4523,6 +4701,9 @@ _Keine inhaltlichen Änderungen._
 
 
 ## Änderungen SYS.3.2.3
+<details>
+<summary>
+</summary>
 
 ### Basis-Anforderungen
 
@@ -4618,6 +4799,9 @@ _Diese Anforderung ist entfallen._
 
 
 ## Änderungen SYS.3.2.4
+<details>
+<summary>
+</summary>
 
 ### Basis-Anforderungen
 
@@ -4648,6 +4832,9 @@ _Keine inhaltlichen Änderungen._
 
 
 ## Änderungen SYS.3.3
+<details>
+<summary>
+</summary>
 
 ### Basis-Anforderungen
 
@@ -4706,6 +4893,9 @@ _Dieser Baustein ist entfallen._
 
 
 ## Änderungen SYS.4.1
+<details>
+<summary>
+</summary>
 
 ### Basis-Anforderungen
 
@@ -4795,6 +4985,9 @@ _Keine inhaltlichen Änderungen._
 
 
 ## Änderungen SYS.4.3
+<details>
+<summary>
+</summary>
 
 ### Basis-Anforderungen
 
@@ -4858,6 +5051,9 @@ _Keine inhaltlichen Änderungen._
 
 
 ## Änderungen SYS.4.4
+<details>
+<summary>
+</summary>
 
 ### Basis-Anforderungen
 
@@ -5048,6 +5244,9 @@ Die Institution SOLLTE dedizierte Systeme als Datenschleuse verwenden, bei denen
 
 
 ## Änderungen IND.1
+<details>
+<summary>
+</summary>
 
 ### Basis-Anforderungen
 
@@ -5110,6 +5309,9 @@ _Keine inhaltlichen Änderungen._
 
 
 ## Änderungen IND.2.1
+<details>
+<summary>
+</summary>
 
 ### Basis-Anforderungen
 
@@ -5179,6 +5381,9 @@ _Keine inhaltlichen Änderungen._
 
 
 ## Änderungen IND.2.2
+<details>
+<summary>
+</summary>
 
 ### Standard-Anforderungen
 
@@ -5193,6 +5398,9 @@ _Keine inhaltlichen Änderungen._
 
 
 ## Änderungen IND.2.3
+<details>
+<summary>
+</summary>
 
 ### Basis-Anforderungen
 
@@ -5209,6 +5417,9 @@ _Keine inhaltlichen Änderungen._
 
 
 ## Änderungen IND.2.4
+<details>
+<summary>
+</summary>
 
 ### Basis-Anforderungen
 
@@ -5220,6 +5431,9 @@ _Keine inhaltlichen Änderungen._
 
 
 ## Änderungen IND.2.7
+<details>
+<summary>
+</summary>
 
 ### Basis-Anforderungen
 
@@ -5265,6 +5479,9 @@ _Keine inhaltlichen Änderungen._
 
 
 ## Änderungen NET.1.1
+<details>
+<summary>
+</summary>
 
 ### Basis-Anforderungen
 
@@ -5382,6 +5599,9 @@ _Keine inhaltlichen Änderungen._
 
 
 ## Änderungen NET.1.2
+<details>
+<summary>
+</summary>
 
 ### Basis-Anforderungen
 
@@ -5507,6 +5727,9 @@ _Entfallen:_\ (...), mit denen die administrativen Tätigkeiten im Notfall durch
 
 
 ## Änderungen NET.2.1
+<details>
+<summary>
+</summary>
 
 ### Basis-Anforderungen
 
@@ -5573,6 +5796,9 @@ _Keine inhaltlichen Änderungen._
 
 
 ## Änderungen NET.2.2
+<details>
+<summary>
+</summary>
 
 ### Basis-Anforderungen
 
@@ -5592,6 +5818,9 @@ _Keine inhaltlichen Änderungen._
 
 
 ## Änderungen NET.3.1
+<details>
+<summary>
+</summary>
 
 ### Basis-Anforderungen
 
@@ -5687,6 +5916,9 @@ _Keine inhaltlichen Änderungen._
 
 
 ## Änderungen NET.3.2
+<details>
+<summary>
+</summary>
 
 ### Basis-Anforderungen
 
@@ -5794,6 +6026,9 @@ _Keine inhaltlichen Änderungen._
 
 
 ## Änderungen NET.3.3
+<details>
+<summary>
+</summary>
 
 ### Basis-Anforderungen
 
@@ -5840,6 +6075,9 @@ _Keine inhaltlichen Änderungen._
 
 
 ## Änderungen NET.4.1
+<details>
+<summary>
+</summary>
 
 ### Basis-Anforderungen
 
@@ -5907,6 +6145,9 @@ _Keine inhaltlichen Änderungen._
 
 
 ## Änderungen NET.4.2
+<details>
+<summary>
+</summary>
 
 ### Basis-Anforderungen
 
@@ -5964,6 +6205,9 @@ _Keine inhaltlichen Änderungen._
 
 
 ## Änderungen NET.4.3
+<details>
+<summary>
+</summary>
 
 ### Basis-Anforderungen
 
@@ -6025,6 +6269,9 @@ _Keine inhaltlichen Änderungen._
 
 
 ## Änderungen INF.1
+<details>
+<summary>
+</summary>
 
 ### Basis-Anforderungen
 
@@ -6140,6 +6387,9 @@ _Keine inhaltlichen Änderungen._
 
 
 ## Änderungen INF.10
+<details>
+<summary>
+</summary>
 
 ### Basis-Anforderungen
 
@@ -6180,6 +6430,9 @@ _Keine inhaltlichen Änderungen._
 
 
 ## Änderungen INF.2
+<details>
+<summary>
+</summary>
 
 ### Basis-Anforderungen
 
@@ -6337,6 +6590,9 @@ _Keine inhaltlichen Änderungen._
 
 
 ## Änderungen INF.3
+<details>
+<summary>
+</summary>
 
 ### Basis-Anforderungen
 
@@ -6405,6 +6661,9 @@ Bei Aufbau und Betrieb des Stromverteilnetzes SOLLTEN die empfohlenen Trennungsa
 
 
 ## Änderungen INF.4
+<details>
+<summary>
+</summary>
 
 ### Basis-Anforderungen
 
@@ -6625,6 +6884,9 @@ Zum Schutz vor Ableitströmen, Strömen auf Schutzleitern, Leitungsschirmen und 
 
 
 ## Änderungen INF.6
+<details>
+<summary>
+</summary>
 
 ### Basis-Anforderungen
 
@@ -6662,6 +6924,9 @@ _Keine inhaltlichen Änderungen._
 
 
 ## Änderungen INF.7
+<details>
+<summary>
+</summary>
 
 ### Basis-Anforderungen
 
@@ -6693,6 +6958,9 @@ _Keine inhaltlichen Änderungen._
 
 
 ## Änderungen INF.8
+<details>
+<summary>
+</summary>
 
 ### Basis-Anforderungen
 
@@ -6720,6 +6988,9 @@ _Keine inhaltlichen Änderungen._
 
 
 ## Änderungen INF.9
+<details>
+<summary>
+</summary>
 
 ### Basis-Anforderungen
 
