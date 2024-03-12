@@ -1535,7 +1535,7 @@ __Keine inhaltlichen Änderungen.__
 
 
 ### OPS.2.4
-_Diese Anforderungen sind entfallen._
+__Diese Anforderungen sind entfallen.__
 
 
 ### OPS.3.1
