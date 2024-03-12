@@ -37,7 +37,7 @@ __Keine inhaltlichen Änderungen.__
 __Keine inhaltlichen Änderungen.__
 
 ##### ISMS.1.A8
-_Satzteil gestrichen:_\
+__Satzteil gestrichen:__\
 Sie MÜSSEN in die Lage versetzt werden, Sicherheit aktiv mitzugestalten, ~~also in ihre Geschäftsprozesse mit einzubringen.~~
 
 ##### ISMS.1.A9
@@ -49,7 +49,7 @@ Angepasst, um der „SOLLTE“-Priorisierung zu entsprechen:\
 Es SOLLTE entschieden werden, ob das Sicherheitskonzept aus einem oder aus mehreren Teilkonzepten bestehen soll, die sukzessive erstellt werden, um zunächst in ausgewählten Bereichen das erforderliche Sicherheitsniveau herzustellen.
 
 ##### ISMS.1.A11
-_Satzteil gestrichen:_\
+__Satzteil gestrichen:__\
 (...) ~~um das weitere Vorgehen im Sicherheitsprozess steuern zu können.~~
 
 ##### ISMS.1.A12
@@ -314,7 +314,7 @@ Die Ausgabe bzw. der Entzug von verwendeten Zutrittsmittel wie Chipkarten MUSS d
 Wenn Zutrittsmittel kompromittiert wurden, MÜSSEN sie ausgewechselt werden.
 
 ##### ORP.4.A6
-_Ergänzt:_\
+__Ergänzt:__\
 Wenn Zugangsmittel kompromittiert wurden, MÜSSEN sie ausgewechselt werden.
 
 ##### ORP.4.A7
@@ -664,9 +664,9 @@ Die angeschafften Datensicherungssysteme SOLLTEN die Anforderungen des Datensich
 _Anforderung entfallen_
 
 ##### CON.3.A9
-_Ergänzt:_\
+__Ergänzt:__\
 • (Vereinbarungen zur Dienstgüte (SLA),) insbesondere in Hinsicht auf die Verfügbarkeit,\
-_Ergänzt:_\
+__Ergänzt:__\
 • (Verschlüsselung der Daten) auf dem Online-Speicher sowie
 
 ##### CON.3.A10
