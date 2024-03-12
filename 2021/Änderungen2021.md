@@ -8,10 +8,7 @@
 ### ISMS 1
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### ISMS 1.A1
@@ -153,10 +150,7 @@ Keine inhaltlichen Änderungen.
 ### ORP 1
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### ORP 1.A1
@@ -300,10 +294,7 @@ Keine inhaltlichen Änderungen
 ### ORP 2
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### ORP 2.A1
@@ -474,10 +465,7 @@ Diesbezüglich SOLLTE der ISB den Geheimschutzbeauftragten bzw. Sicherheitsbevol
 ### ORP 3
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### ORP 3.A1
@@ -564,10 +552,7 @@ Keine inhaltlichen Änderungen.
 ### ORP 4
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### ORP 4.A1
@@ -720,10 +705,7 @@ keine inhaltlichen Änderungen
 ### ORP 5
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### ORP 5.A1
@@ -804,10 +786,7 @@ Keine inhaltlichen Änderungen.
 ### CON 1
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### CON 1.A1
@@ -865,10 +844,7 @@ Keine inhaltlichen Änderungen
 ### CON 3
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### CON 3.A1
@@ -899,10 +875,7 @@ Der Baustein "Entwicklung und Einsatz von Individualsoftware" ist entfallen. An 
 ### CON 6
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### CON 6.A1
@@ -1061,10 +1034,7 @@ DIe Anforderung wurde komplett neu hinzugefügt.
 ### CON 7
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### CON 7.A1-A10
@@ -1087,10 +1057,7 @@ Keine inhaltlichen Änderungen.
 ### CON 8
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### CON 8.A1 wurde von einer Basis Anforderung zu einer Standard Anforderung.
@@ -1334,10 +1301,7 @@ Keine inhaltlichen Änderungen.
 ### CON 9
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### CON 9.A1
@@ -1431,10 +1395,7 @@ Der Baustein CON 10 ist komplett neu hinzugefügt wurden.
 ### OPS 1.1.2
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### OPS 1.1.2.A1 Die Anforderung ist komplett entfallen.
@@ -1541,10 +1502,7 @@ Keine inhaltlichen Änderungen.
 ### OPS 1.1.3
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### OPS 1.1.3.A1
@@ -1670,10 +1628,7 @@ Keine inhaltlichen Änderungen.
 ### OPS 1.1.4
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### OPS 1.1.4.A1
@@ -1794,10 +1749,7 @@ Keine inhaltlichen Änderungen.
 ### OPS 1.1.5
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### OPS 1.1.5.A1
@@ -1904,10 +1856,7 @@ Keine inhaltlichen Änderungen.
 ### OPS 1.1.6
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### OPS 1.1.6.A1
@@ -2073,10 +2022,7 @@ Keine inhaltlichen Änderungen.
 ### OPS 1.2.4
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### OPS 1.2.4.A1
@@ -2135,10 +2081,7 @@ Keine inhaltlichen Änderungen.
 ### OPS 1.2.5
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### OPS 1.2.5.A1
@@ -2248,10 +2191,7 @@ Keine inhaltlichen Änderungen.
 ### DER 1
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### DER 1.A1
@@ -2365,10 +2305,7 @@ Keine inhaltlichen Änderungen.
 ### DER 2.1
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### DER 2.1.A1-A4
@@ -2457,10 +2394,7 @@ Keine inhaltlichen Änderungen.
 ### DER 3.1
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### DER 3.1.A1-A27
@@ -2526,10 +2460,7 @@ Keine inhaltlichen Änderungen.
 ### APP 1.1
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### APP 1.1.A1 Die Anforderung ist komplett entfallen.
@@ -2740,10 +2671,7 @@ Bevor ein in ein Office-Produkt integriertes Verschlüsselungsverfahren genutzt 
 ### APP 1.2
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### APP 1.2.A1
@@ -2853,10 +2781,7 @@ Keine inhaltlichen Änderungen.
 ### APP 1.4
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### APP 1.4.A1
@@ -3044,10 +2969,7 @@ Keine inhaltlichen Änderungen.
 ### APP 2.2
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### APP 2.2.A1
@@ -3166,10 +3088,7 @@ Keine inhaltlichen Änderungen.
 ### APP 2.3
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### APP 2.3.A1
@@ -3282,10 +3201,7 @@ Keine inhaltlichen Änderungen.
 ### APP 3.1
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### APP 3.1.A1 Die Anforderung wurde komplett geändert.
@@ -3601,10 +3517,7 @@ Keine inhaltlichen Änderungen.
 ### APP 3.2
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### APP 3.2.A1
@@ -3716,10 +3629,7 @@ Keine inhaltlichen Änderungen.
 Die Institution wurde in diesem Baustein grundätzlich durch den IT-Betrieb ersetzt.
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### APP 3.3.A2
@@ -3815,10 +3725,7 @@ Für hochverfügbare Fileserver SOLLTE eine angemessene Replikation der Daten au
 Die Institution wurde in diesem Baustein grundätzlich durch den IT-Betrieb ersetzt.
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### APP 3.4.A1
@@ -3924,10 +3831,7 @@ Keine inhaltlichen Änderungen.
 ### APP 3.6
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### APP 3.6.A1-A6
@@ -4050,10 +3954,7 @@ Keine inhaltichen Änderungen.
 ### APP 4.2
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### APP 4.2.A1-A4
@@ -4133,10 +4034,7 @@ Keine inhaltichen Änderungen.
 ### APP 4.3
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### APP 4.3.A1
@@ -4321,10 +4219,7 @@ Der Baustein ist komplett entfallen.
 ### APP 5.2
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### APP 5.2.A1-A9
@@ -4431,10 +4326,7 @@ Der Baustein ist komplett neu hinzugefügt wurden.
 ### SYS 1.1
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### SYS 1.1.A1
@@ -4775,10 +4667,7 @@ Die ANforderung wurde komplett neu hinzugefügt.
 ### SYS 1.2.2
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### SYS 1.2.2.A1
@@ -4908,10 +4797,7 @@ Keine inhaltlichen Änderungen.
 ### SYS 1.3
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### SYS 1.3.A1 Die Anforderung ist komplett entfallen.
@@ -5042,10 +4928,7 @@ Keine inhaltlichen Änderungen.
 ### SYS 1.5
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### SYS 1.5.A1 Die Anforderung ist komplett entfallen.
@@ -5127,10 +5010,7 @@ Keine inhaltlichen Änderungen.
 ### SYS 1.7
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### SYS 1.7.A1-A9
@@ -5214,12 +5094,9 @@ Keine inhaltlichen Änderungen.
 ### SYS 1.8
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
-
+  
 #### SYS 1.8.A1
 
 Keine inhaltlichen Änderungen.
@@ -5361,10 +5238,7 @@ Keine inhaltlichen Änderungen.
 ### SYS 2.1
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### SYS 2.1.A1
@@ -5780,10 +5654,7 @@ Die Anforderung wurde komplett neu hinzugefügt.
 ### SYS 2.2.2
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### SYS 2.2.2.A1
@@ -5931,10 +5802,7 @@ Keine inhaltlichen Änderungen.
 ### SYS 2.3
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### SYS 2.3.A1
@@ -6046,10 +5914,7 @@ Keine inhaltlichen Änderungen.
 ### SYS 2.4
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### SYS 2.4.A1
@@ -6071,10 +5936,7 @@ Keine inhaltlichen Änderungen.
 ### SYS 3.1
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### SYS 3.1.A1
@@ -6214,10 +6076,7 @@ Keine inhaltlichen Änderungen.
 ### SYS 3.2.1
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### SYS 3.2.1.A1
@@ -6425,10 +6284,7 @@ Die Anforderung wurde komplett neu hinzugefügt.
 ### SYS 3.2.2
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### SYS 3.2.2.A1
@@ -6592,10 +6448,7 @@ Keine inhaltlichen Änderungen.
 ### SYS 3.2.3
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### SYS 3.2.3.A1-A9
@@ -6678,10 +6531,7 @@ Falls die Frist ohne Zugriff verstricht, sollte das Konfigurationsprofil dieses 
 ### SYS 3.2.4
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### SYS 3.2.4.A1 Die Anforderung ist komplett entfallen.
@@ -6746,10 +6596,7 @@ Keine inhaltlichen Änderungen.
 ### SYS 3.3
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### SYS 3.3.A1
@@ -6844,10 +6691,7 @@ Damit vertrauliche Informationen nicht abgehört werden können, SOLLTE dafür g
 ### SYS 4.1
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### SYS 4.1.A1
@@ -6983,10 +6827,7 @@ Keine inhaltlichen Änderungen
 ### SYS 4.3
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### SYS 4.3.A1
@@ -7027,10 +6868,7 @@ Keine inhaltlichen Änderungen
 ### SYS 4.4
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### SYS 4.4.A1
@@ -7189,10 +7027,7 @@ Der Webserver SOLLTE, soweit möglich, NICHT unter einem privilegierten Konto be
 ### SYS 4.5
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### SYS 4.5.A1
@@ -7279,10 +7114,7 @@ Keine inhaltlichen Änderungen
 ### IND 1
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### IND 1.A1
@@ -7522,10 +7354,7 @@ Die Anforderung wurde komplett neu hinzugefügt.
 ### IND 2.1
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### IND 2.1.A1
@@ -7707,10 +7536,7 @@ Keine inhaltlichen Änderungen.
 ### IND 2.2
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### IND 2.2.A1
@@ -7794,10 +7620,7 @@ Sonst keine inhaltlichen Änderungen.
 Verantwortlich wurde durch Zuständig ersetzt.
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### NET 1.1.A1
@@ -7870,10 +7693,7 @@ Keine inhaltlichen Änderungen.
 ### NET 1.2
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### NET 1.2.A1
@@ -8059,10 +7879,7 @@ Keine inhaltlichen Änderungen.
 ### NET 2.1
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### NET 2.1.A1-A5
@@ -8115,10 +7932,7 @@ Keine inhaltlichen Änderungen.
 ### NET 2.2
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### NET 2.2.A1
@@ -8160,10 +7974,7 @@ Wird die WLAN-Schnittstelle über einen längeren Zeitraum nicht genutzt, MUSS d
 ### NET 3.1
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### NET 3.1.A1
@@ -8261,10 +8072,7 @@ Keine inhaltlichen Änderungen.
 ### NET 3.2
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### NET 3.2.A1
@@ -8419,10 +8227,7 @@ Keine inhaltlichen Änderungen.
 ### NET 3.3
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### NET 3.3.A1
@@ -8478,10 +8283,7 @@ Keine inhaltlichen Änderungen.
 ### NET 4.1
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### NET 4.1.A1
@@ -8547,10 +8349,7 @@ Keine inhaltlichen Änderungen.
 ### NET 4.2
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### NET 4.2.A1
@@ -8664,10 +8463,7 @@ Keine inhaltlichen Änderungen
 ### INF 1
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### INF 1.A1
@@ -8891,10 +8687,7 @@ Hierbei SOLLTEN mindestens folgende Komponenten auf ihren Nutzen und ihre Umsetz
 ### INF 2
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### INF 2.A1-A5
@@ -9042,10 +8835,7 @@ Der Baustein ist komplett entfallen.
 ### INF 5
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### INF 5.A1-A6
@@ -9098,10 +8888,7 @@ Keine inhaltlichen Änderungen.
 ### INF 6
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### INF 6.A1-A3
@@ -9132,10 +8919,7 @@ Keine inhaltlichen Ánderungen.
 ### INF 7
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### INF 7.A1
@@ -9186,10 +8970,7 @@ Keine inhaltlichen Änderungen.
 ### INF 9
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### INF 9.A1-A11
@@ -9207,10 +8988,7 @@ Die ANforderung ist komplett neu hinzugefügt.
 ### INF 10
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### INF 10.A1
