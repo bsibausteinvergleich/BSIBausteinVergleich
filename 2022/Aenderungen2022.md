@@ -641,7 +641,7 @@ Keine inhaltlichen Änderungen.
 
 #### SYS 1.5.A17
 
-##### Inhalte entfallen:
+__Entfallen:__
 
 *Auch SOLLTE überwacht werden, ob die virtuellen Netze den jeweiligen virtuellen IT-Systemen korrekt zugeordnet sind.*
 
@@ -735,7 +735,7 @@ Es SOLLTE über eine Ausführungskontrolle sichergestellt werden, dass nur expli
 
 #### SYS 2.1.A34 Anforderung ist entfallen.
 
-##### Ehemals:
+__Ehemals:__
   
 *SYS.2.1.A34 Kapselung von sicherheitskritischen Anwendungen und Betriebssystemkomponenten (H)*
 
@@ -773,7 +773,7 @@ Sofern nicht gleich- oder höherwertige Maßnahmen, wie z. B. Ausführungskontro
 
 #### SYS 2.2.3.A11 entfallen
 
-##### Ehemals:
+__Ehemals:__
 
 *SYS.2.2.3.A11 Schutz der Anmeldeinformationen unter Windows 10 (S)*
 
