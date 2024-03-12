@@ -57,10 +57,7 @@ Keine inhaltlichen Änderungen.
 ### CON.3
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### CON.3.A1
@@ -208,11 +205,8 @@ Keine inhaltlichen Änderungen.
 ### OPS 1.1.5
 
 <details> 
-  <summary>
-
-   ##### Änderungen
-    
-  </summary>
+<summary> Änderungen
+</summary>
 
 #### OPS 1.1.5.A6
 
@@ -225,11 +219,8 @@ Alle gesammelten sicherheitsrelevanten Protokollierungsdaten SOLLTEN an einer ze
 ### OPS 1.1.6.
 
 <details> 
-  <summary>
-
-   ##### Änderungen
-    
-  </summary>
+<summary> Änderungen
+</summary>
 
 #### OPS 1.1.6.A11
 
@@ -278,11 +269,8 @@ Keine inhaltlichen Änderungen.
 ### OPS 1.2.5
 
 <details> 
-  <summary>
-
-   ##### Änderungen
-    
-  </summary>
+<summary> Änderungen
+</summary>
 
 #### OPS 1.2.5.A2
 
@@ -381,11 +369,8 @@ Keine Inhaltlichen Änderungen
 ### APP 3.1
 
 <details> 
-  <summary>
-
-   ##### Änderungen
-    
-  </summary>
+<summary> Änderungen
+</summary>
 
 #### APP 3.1.A1
 
@@ -495,11 +480,8 @@ Keine inhaltlichen Veränderungen.
 ### APP 3.4
 
 <details> 
-  <summary>
-
-   ##### Änderungen
-    
-  </summary>
+<summary> Änderungen
+</summary>
 
 #### APP 3.4.A1
 
@@ -525,11 +507,8 @@ Keine inhaltlichen Veränderungen.
 ### APP 4.3
 
 <details> 
-  <summary>
-
-   ##### Änderungen
-    
-  </summary>
+<summary> Änderungen
+</summary>
 
 #### APP 4.3.A25
 
@@ -566,11 +545,8 @@ Keine inhaltlichen Änderungen
 ### APP 6
 
 <details> 
-  <summary>
-
-   ##### Änderungen
-    
-  </summary>
+<summary> Änderungen
+</summary>
 
 #### APP 6.A8
 
@@ -603,11 +579,8 @@ Keine inhaltlichen Änderungen
 ### SYS 1.1
 
 <details> 
-  <summary>
-
-   ##### Änderungen
-    
-  </summary>
+<summary> Änderungen
+</summary>
 
 #### SYS 1.1.A1
 
@@ -663,11 +636,8 @@ Keine inhaltlichen Änderungen.
 ### SYS 1.5
 
 <details> 
-  <summary>
-
-   ##### Änderungen
-    
-  </summary>
+<summary> Änderungen
+</summary>
 
 #### SYS 1.5.A17
 
@@ -687,11 +657,8 @@ Baustein komplett neu hinzugefügt.
 In den Anforderungen des Bausteins wird anstatt von MVS- , von z/OS- gesprochen.
 
 <details> 
-  <summary>
-
-   ##### Änderungen
-    
-  </summary>
+<summary> Änderungen
+</summary>
 
 #### SYS 1.7.A1
 
@@ -742,11 +709,8 @@ Keine inhaltlichen Veränderungen.
 ### SYS 2.1
 
 <details> 
-  <summary>
-
-   ##### Änderungen
-    
-  </summary>
+<summary> Änderungen
+</summary>
 
 #### SYS 2.1.A34
 
@@ -788,11 +752,8 @@ Keine inhaltlichen Änderungen.
 ### SYS 2.2.3
 
 <details> 
-  <summary>
-
-   ##### Änderungen
-    
-  </summary>
+<summary> Änderungen
+</summary>
 
 #### SYS 2.2.3.A4
 
@@ -920,11 +881,8 @@ Keine inhaltlichen Änderungen.
 ### INF 2
 
 <details> 
-  <summary>
-
-   ##### Änderungen
-    
-  </summary>
+<summary> Änderungen
+</summary>
 
 #### INF 2.A23
 
