@@ -99,7 +99,7 @@ __Ersetzt:__\
 ~~ORP.1.A2 Zuweisung der Verantwortung für Informationen, Anwendungen und IT-Komponenten [Leiter IT,Informationssicherheitsbeauftragter (ISB), Institutionsleitung] 
 Für alle Informationen, Geschäftsprozesse, Anwendungen und IT-Komponenten MUSS festgelegt werden, wer für diese und deren Sicherheit verantwortlich ist. 
 Alle Mitarbeiter MÜSSEN darüber informiert sein, insbesondere wofür sie in welcher Weise verantwortlich sind.~~\
-durch:\
+__durch:__\
 ORP.1.A2 Zuweisung der Verantwortung [Institutionsleitung] (B)
 Für alle Geschäftsprozesse, Anwendungen, IT-Systeme, Räume und Gebäude sowie Kommunikationsverbindungen MUSS festgelegt werden, wer für diese und deren Sicherheit verantwortlich ist.
 Alle Mitarbeiter MÜSSEN darüber informiert sein, insbesondere wofür sie verantwortlich sind und welche damit verbundenen Aufgaben sie wahrnehmen.
