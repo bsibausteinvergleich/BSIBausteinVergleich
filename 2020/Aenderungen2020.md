@@ -84,12 +84,12 @@ ___
 #### Basis-Anforderungen
 
 ##### ORP.1.A1
-_Änderung:_\
+__Änderung:__\
 ~~Für alle sicherheitsrelevanten Aufgaben MÜSSEN sowohl Verantwortlichkeiten als auch Befugnisse festgelegt sein.~~\
 _zu:_\
 Innerhalb einer Institution SOLLTEN alle relevanten Aufgaben und Funktionen klar definiert und voneinander abgegrenzt sein.
 
-_Änderung:_\
+__Änderung:__\
 ~~Für Es MUSS auch klar geregelt sein, welche Informationen mit wem ausgetauscht werden dürfen und wie diese dabei zu schützen sind. Die Regelungen MÜSSEN anlassbezogen überarbeitet werden. Die Regelungen MÜSSEN regelmäßig überarbeitet werden.~~\
 _zu:_\
 Die Regelungen MÜSSEN anlassbezogen überarbeitet werden.
@@ -105,7 +105,7 @@ Für alle Geschäftsprozesse, Anwendungen, IT-Systeme, Räume und Gebäude sowie
 Alle Mitarbeiter MÜSSEN darüber informiert sein, insbesondere wofür sie verantwortlich sind und welche damit verbundenen Aufgaben sie wahrnehmen.
 
 ##### ORP.1.A3
-_Änderung:_\
+__Änderung:__\
 ~~Die Mitarbeiter MÜSSEN dazu angehalten werden, betriebsfremde Personen nicht unbeaufsichtigt zu lassen.~~\
 _zu:_\
 Die Mitarbeiter MÜSSEN dazu angehalten werden, institutionsfremde Personen in den Räumen der Institution nicht unbeaufsichtigt zu lassen.
