@@ -1,9 +1,9 @@
-# Übersicht der Änderungen des IT-Grundschutz-Kompendiums von Version 2019 zu 2020
+# Übersicht der des IT-Grundschutz-Kompendiums von Version 2019 zu 2020
 
 Übergreifend wurden Formulierungen angepasst, die keinen Einfluss auf Bedeutung und Inhalt haben. Es wurden beispielsweise Sätze getrennt oder Formulierungen angepasst, die den Sprachfluss anpassen oder Gliederungen vereinheitlichen.
 
 
-## Änderungen ISMS.1
+## ISMS.1
 <details>
 <summary> Änderungen
 </summary>
@@ -73,7 +73,7 @@ _Keine inhaltlichen Änderungen._
 </details>
 
 
-## Änderungen ORP.1
+## ORP.1
 <details>
 <summary> Änderungen
 </summary>
@@ -155,7 +155,7 @@ _Keine inhaltlichen Änderungen._
 
 </details>
 
-## Änderungen ORP.2
+## ORP.2
 <details>
 <summary> Änderungen
 </summary>
@@ -222,7 +222,7 @@ _Keine inhaltlichen Änderungen._
 
 </details>
 
-## Änderungen ORP.3
+## ORP.3
 <details>
 <summary> Änderungen
 </summary>
@@ -274,7 +274,7 @@ Besonders exponierte Personen
 
 </details>
 
-## Änderungen ORP.4
+## ORP.4
 <details>
 <summary> Änderungen
 </summary>
@@ -412,7 +412,7 @@ _Keine inhaltlichen Änderungen._
 
 </details>
 
-## Änderungen ORP.5
+## ORP.5
 <details>
 <summary> Änderungen
 </summary>
@@ -466,7 +466,7 @@ _Anforderung entfallen_
 
 </details>
 
-## Änderungen CON.1
+## CON.1
 <details>
 <summary> Änderungen
 </summary>
@@ -547,7 +547,7 @@ _Keine inhaltlichen Änderungen._
 
 </details>
 
-## Änderungen CON.2
+## CON.2
 <details>
 <summary> Änderungen
 </summary>
@@ -564,7 +564,7 @@ Die gesetzlichen Bestimmungen zum Datenschutz (DSGVO, BDSG und LDSG) MÜSSEN ein
 
 </details>
 
-## Änderungen CON.3
+## CON.3
 <details>
 <summary> Änderungen
 </summary>
@@ -693,7 +693,7 @@ Um die Vertraulichkeit und Integrität der gesicherten Daten zu gewährleisten, 
 
 </details>
 
-## Änderungen CON.4
+## CON.4
 <details>
 <summary> Änderungen
 </summary>
@@ -746,7 +746,7 @@ _Keine inhaltlichen Änderungen._
 
 </details>
 
-## Änderungen CON.5
+## CON.5
 <details>
 <summary> Änderungen
 </summary>
@@ -771,7 +771,7 @@ CON.5.A3 Sichere Installation von Individualsoftware [IT-Betrieb] (B)
 Es MUSS eine Installationsanweisung erstellt werden, die alle benötigten Anwendungskomponenten (einschließlich erforderlicher Bibliotheken), die Installationsreihenfolge und die Konfiguration der Anwendungsmodule enthält.
 Der IT-Betrieb MUSS die Installationsanweisung auf die IT-betrieblichen Strukturen der Institution anpassen.
 Ebenso MUSS der IT-Betrieb die Individualsoftware gemäß der Installationsanweisung installieren.
-Bei Änderungen in der Anwendung und bei funktionalen Updates MUSS die Installationsanweisung aktualisiert werden.
+Bei in der Anwendung und bei funktionalen Updates MUSS die Installationsanweisung aktualisiert werden.
 
 #### CON.5.A4
 _Änderung:_\
@@ -819,7 +819,7 @@ Das Redundanzkonzept SOLLTE zwischen dem IT-Betrieb und dem Notfallbeauftragten 
 
 </details>
 
-## Änderungen CON.6
+## CON.6
 <details>
 <summary> Änderungen
 </summary>
@@ -865,7 +865,7 @@ _Entfallen:_ ~~Zudem SOLLTEN die in OPS.2.1 Outsourcing für Kunden beschriebene
 
 </details>
 
-## Änderungen CON.7
+## CON.7
 <details>
 <summary> Änderungen
 </summary>
@@ -940,7 +940,7 @@ _Die Anforderungen CON.8.A1 bis CON.8.A19 wurden hinzugefügt._
 _Die Anforderungen CON.9.A1 bis CON.9.A8 wurden hinzugefügt._
 
 
-## Änderungen OPS.1.1.2
+## OPS.1.1.2
 <details>
 <summary> Änderungen
 </summary>
@@ -1033,7 +1033,7 @@ _Entfallen:_ Dies erfordert im Regelfall eine umfassende Hochverfügbarkeitsplan
 
 </details>
 
-## Änderungen OPS.1.1.3
+## OPS.1.1.3
 <details>
 <summary> Änderungen
 </summary>
@@ -1088,7 +1088,7 @@ _Keine inhaltlichen Änderungen._
 
 </details>
 
-## Änderungen OPS.1.1.4
+## OPS.1.1.4
 <details>
 <summary> Änderungen
 </summary>
@@ -1148,7 +1148,7 @@ _Keine inhaltlichen Änderungen._
 
 </details>
 
-## Änderungen OPS.1.1.5
+## OPS.1.1.5
 <details>
 <summary> Änderungen
 </summary>
@@ -1203,7 +1203,7 @@ _Keine inhaltlichen Änderungen._
 
 </details>
 
-## Änderungen OPS.1.1.6
+## OPS.1.1.6
 <details>
 <summary> Änderungen
 </summary>
@@ -1261,7 +1261,7 @@ _Keine inhaltlichen Änderungen._
 
 </details>
 
-## Änderungen OPS.1.2.2
+## OPS.1.2.2
 <details>
 <summary> Änderungen
 </summary>
@@ -1338,12 +1338,12 @@ _Anforderung hinzugefügt_
 
 </details>
 
-## Änderungen OPS.1.2.3
+## OPS.1.2.3
 _OPS.1.2.3 ist vollständig entfallen._
 
 </details>
 
-## Änderungen OPS.1.2.4
+## OPS.1.2.4
 <details>
 <summary> Änderungen
 </summary>
@@ -1391,7 +1391,7 @@ _Keine inhaltlichen Änderungen._
 
 _OPS.1.2.5.A1 - OPS.1.2.5.A23 sind in 2020 ergänzt worden._
 
-## Änderungen OPS.2.1
+## OPS.2.1
 <details>
 <summary> Änderungen
 </summary>
@@ -1453,7 +1453,7 @@ _Diese Anforderung wurde ergänzt._
 </details>
 
 
-## Änderungen OPS.2.2
+## OPS.2.2
 <details>
 <summary> Änderungen
 </summary>
@@ -1528,11 +1528,11 @@ _Keine inhaltlichen Änderungen._
 </details>
 
 
-## Änderungen OPS.2.4
+## OPS.2.4
 _Diese Anforderungen sind entfallen._
 
 
-## Änderungen OPS.3.1
+## OPS.3.1
 <details>
 <summary> Änderungen
 </summary>
@@ -1594,7 +1594,7 @@ _Keine inhaltlichen Änderungen._
 </details>
 
 
-## Änderungen DER.1
+## DER.1
 <details>
 <summary> Änderungen
 </summary>
@@ -1662,7 +1662,7 @@ _Keine inhaltlichen Änderungen._
 </details>
 
 
-## Änderungen DER.2.1
+## DER.2.1
 <details>
 <summary> Änderungen
 </summary>
@@ -1744,7 +1744,7 @@ Es SOLLTEN die Messgrößen ausgewertet werden, die anfallen, wenn Sicherheitsvo
 </details>
 
 
-## Änderungen DER.2.2
+## DER.2.2
 <details>
 <summary> Änderungen
 </summary>
@@ -1805,7 +1805,7 @@ _Keine inhaltlichen Änderungen._
 </details>
 
 
-## Änderungen DER.2.3
+## DER.2.3
 <details>
 <summary> Änderungen
 </summary>
@@ -1849,7 +1849,7 @@ _Keine inhaltlichen Änderungen._
 </details>
 
 
-## Änderungen DER.3.1
+## DER.3.1
 <details>
 <summary> Änderungen
 </summary>
@@ -1955,7 +1955,7 @@ _Keine inhaltlichen Änderungen._
 </details>
 
 
-## Änderungen DER.3.2
+## DER.3.2
 <details>
 <summary> Änderungen
 </summary>
@@ -2042,7 +2042,7 @@ _Keine inhaltlichen Änderungen._
 </details>
 
 
-## Änderungen DER.4
+## DER.4
 <details>
 <summary> Änderungen
 </summary>
@@ -2105,7 +2105,7 @@ _Keine inhaltlichen Änderungen._
 </details>
 
 
-## Änderungen APP.1.1
+## APP.1.1
 <details>
 <summary> Änderungen
 </summary>
@@ -2170,7 +2170,7 @@ _Keine inhaltlichen Änderungen._
 </details>
 
 
-## Änderungen APP.1.2
+## APP.1.2
 <details>
 <summary> Änderungen
 </summary>
@@ -2222,7 +2222,7 @@ _Keine inhaltlichen Änderungen._
 </details>
 
 
-## Änderungen APP.1.4
+## APP.1.4
 <details>
 <summary> Änderungen
 </summary>
@@ -2282,7 +2282,7 @@ _Keine inhaltlichen Änderungen._
 </details>
 
 
-## Änderungen APP.2.1
+## APP.2.1
 <details>
 <summary> Änderungen
 </summary>
@@ -2345,7 +2345,7 @@ _Keine inhaltlichen Änderungen._
 </details>
 
 
-## Änderungen APP.2.2
+## APP.2.2
 <details>
 <summary> Änderungen
 </summary>
@@ -2404,7 +2404,7 @@ _Keine inhaltlichen Änderungen._
 </details>
 
 
-## Änderungen APP.2.3
+## APP.2.3
 <details>
 <summary> Änderungen
 </summary>
@@ -2456,7 +2456,7 @@ _Keine inhaltlichen Änderungen._
 </details>
 
 
-## Änderungen APP.3.1
+## APP.3.1
 <details>
 <summary> Änderungen
 </summary>
@@ -2613,7 +2613,7 @@ Entwickler und Betreiber einer Webanwendung SOLLTEN sicherstellen, dass vertraul
 </details>
 
 
-## Änderungen APP.3.2
+## APP.3.2
 <details>
 <summary> Änderungen
 </summary>
@@ -2709,7 +2709,7 @@ _Diese Anforderung ist entfallen._
 </details>
 
 
-## Änderungen APP.3.3
+## APP.3.3
 <details>
 <summary> Änderungen
 </summary>
@@ -2770,7 +2770,7 @@ _Entfallen:_\
 Es SOLLTEN alle Speicherressourcen des Fileservers katalogisiert werden, z. B. Festplatten, Flash-Speicher, Bandlaufwerke.
 
 _Änderung:_\
-Es sollten mindestens nicht-autorisierte Zugriffsversuche auf Dateien und Änderungen von Zugriffsrechten protokolliert werden.
+Es sollten mindestens nicht-autorisierte Zugriffsversuche auf Dateien und von Zugriffsrechten protokolliert werden.
 
 #### APP.3.3.A10 ENTFALLEN
 _Diese Anforderung ist entfallen._
@@ -2798,7 +2798,7 @@ Daten SOLLTEN zudem zwischen unabhängigen Fileservern repliziert werden, die si
 </details>
 
 
-## Änderungen APP.3.4
+## APP.3.4
 <details>
 <summary> Änderungen
 </summary>
@@ -2868,7 +2868,7 @@ _Keine inhaltlichen Änderungen._
 </details>
 
 
-## Änderungen APP.3.6
+## APP.3.6
 <details>
 <summary> Änderungen
 </summary>
@@ -2948,7 +2948,7 @@ _Keine inhaltlichen Änderungen._
 </details>
 
 
-## Änderungen APP.4.2
+## APP.4.2
 <details>
 <summary> Änderungen
 </summary>
@@ -3056,7 +3056,7 @@ _Keine inhaltlichen Änderungen._
 </details>
 
 
-## Änderungen APP.4.3
+## APP.4.3
 <details>
 <summary> Änderungen
 </summary>
@@ -3145,7 +3145,7 @@ _Keine inhaltlichen Änderungen._
 </details>
 
 
-## Änderungen APP.4.6
+## APP.4.6
 <details>
 <summary> Änderungen
 </summary>
@@ -3225,7 +3225,7 @@ _Keine inhaltlichen Änderungen._
 </details>
 
 
-## Änderungen APP.5.1
+## APP.5.1
 <details>
 <summary> Änderungen
 </summary>
@@ -3376,7 +3376,7 @@ _Keine inhaltlichen Änderungen._
 </details>
 
 
-## Änderungen APP.5.2
+## APP.5.2
 <details>
 <summary> Änderungen
 </summary>
@@ -3489,7 +3489,7 @@ _Diese Anforderung ist entfallen._
 </details>
 
 
-## Änderungen SYS.1.1
+## SYS.1.1
 <details>
 <summary> Änderungen
 </summary>
@@ -3628,7 +3628,7 @@ Bei sehr hohen Anforderungen an die Vertraulichkeit oder Abstreitbarkeit SOLLTE 
 </details>
 
 
-## Änderungen SYS.1.2.2
+## SYS.1.2.2
 <details>
 <summary> Änderungen
 </summary>
@@ -3687,7 +3687,7 @@ _Keine inhaltlichen Änderungen._
 </details>
 
 
-## Änderungen SYS.1.3
+## SYS.1.3
 <details>
 <summary> Änderungen
 </summary>
@@ -3752,7 +3752,7 @@ _Keine inhaltlichen Änderungen._
 </details>
 
 
-## Änderungen SYS.1.5
+## SYS.1.5
 <details>
 <summary> Änderungen
 </summary>
@@ -3855,7 +3855,7 @@ _Keine inhaltlichen Änderungen._
 </details>
 
 
-## Änderungen SYS.1.7
+## SYS.1.7
 <details>
 <summary> Änderungen
 </summary>
@@ -3984,7 +3984,7 @@ _Keine inhaltlichen Änderungen._
 </details>
 
 
-## Änderungen SYS.1.8
+## SYS.1.8
 <details>
 <summary> Änderungen
 </summary>
@@ -4078,7 +4078,7 @@ _Keine inhaltlichen Änderungen._
 </details>
 
 
-## Änderungen SYS.2.1
+## SYS.2.1
 <details>
 <summary> Änderungen
 </summary>
@@ -4222,7 +4222,7 @@ _Ergänzung:_\
 </details>
 
 
-## Änderungen SYS.2.2.2
+## SYS.2.2.2
 <details>
 <summary> Änderungen
 </summary>
@@ -4299,7 +4299,7 @@ _Keine inhaltlichen Änderungen._
 </details>
 
 
-## Änderungen SYS.2.2.3
+## SYS.2.2.3
 <details>
 <summary> Änderungen
 </summary>
@@ -4391,7 +4391,7 @@ _Keine inhaltlichen Änderungen._
 </details>
 
 
-## Änderungen SYS.2.3
+## SYS.2.3
 <details>
 <summary> Änderungen
 </summary>
@@ -4465,7 +4465,7 @@ _Keine inhaltlichen Änderungen._
 </details>
 
 
-## Änderungen SYS.2.4
+## SYS.2.4
 <details>
 <summary> Änderungen
 </summary>
@@ -4521,7 +4521,7 @@ Die Option „Starten von externen Medien nicht zulassen“ SOLLTE aktiviert wer
 </details>
 
 
-## Änderungen SYS.3.1
+## SYS.3.1
 <details>
 <summary> Änderungen
 </summary>
@@ -4589,7 +4589,7 @@ _Keine inhaltlichen Änderungen._
 </details>
 
 
-## Änderungen SYS.3.2.1
+## SYS.3.2.1
 <details>
 <summary> Änderungen
 </summary>
@@ -4695,7 +4695,7 @@ _Keine inhaltlichen Änderungen._
 </details>
 
 
-## Änderungen SYS.3.2.2
+## SYS.3.2.2
 <details>
 <summary> Änderungen
 </summary>
@@ -4779,7 +4779,7 @@ _Keine inhaltlichen Änderungen._
 </details>
 
 
-## Änderungen SYS.3.2.3
+## SYS.3.2.3
 <details>
 <summary> Änderungen
 </summary>
@@ -4879,7 +4879,7 @@ _Diese Anforderung ist entfallen._
 </details>
 
 
-## Änderungen SYS.3.2.4
+## SYS.3.2.4
 <details>
 <summary> Änderungen
 </summary>
@@ -4914,7 +4914,7 @@ _Keine inhaltlichen Änderungen._
 </details>
 
 
-## Änderungen SYS.3.3
+## SYS.3.3
 <details>
 <summary> Änderungen
 </summary>
@@ -4973,11 +4973,11 @@ _Keine inhaltlichen Änderungen._
 </details>
 
 
-## Änderungen SYS.3.4: ENTFALLEN
+## SYS.3.4: ENTFALLEN
 _Dieser Baustein ist entfallen._
 
 
-## Änderungen SYS.4.1
+## SYS.4.1
 <details>
 <summary> Änderungen
 </summary>
@@ -5071,7 +5071,7 @@ _Keine inhaltlichen Änderungen._
 </details>
 
 
-## Änderungen SYS.4.3
+## SYS.4.3
 <details>
 <summary> Änderungen
 </summary>
@@ -5139,7 +5139,7 @@ _Keine inhaltlichen Änderungen._
 </details>
 
 
-## Änderungen SYS.4.4
+## SYS.4.4
 <details>
 <summary> Änderungen
 </summary>
@@ -5334,7 +5334,7 @@ Die Institution SOLLTE dedizierte Systeme als Datenschleuse verwenden, bei denen
 </details>
 
 
-## Änderungen IND.1
+## IND.1
 <details>
 <summary> Änderungen
 </summary>
@@ -5401,7 +5401,7 @@ _Keine inhaltlichen Änderungen._
 </details>
 
 
-## Änderungen IND.2.1
+## IND.2.1
 <details>
 <summary> Änderungen
 </summary>
@@ -5475,7 +5475,7 @@ _Keine inhaltlichen Änderungen._
 </details>
 
 
-## Änderungen IND.2.2
+## IND.2.2
 <details>
 <summary> Änderungen
 </summary>
@@ -5494,7 +5494,7 @@ _Keine inhaltlichen Änderungen._
 </details>
 
 
-## Änderungen IND.2.3
+## IND.2.3
 <details>
 <summary> Änderungen
 </summary>
@@ -5515,7 +5515,7 @@ _Keine inhaltlichen Änderungen._
 </details>
 
 
-## Änderungen IND.2.4
+## IND.2.4
 <details>
 <summary> Änderungen
 </summary>
@@ -5531,7 +5531,7 @@ _Keine inhaltlichen Änderungen._
 </details>
 
 
-## Änderungen IND.2.7
+## IND.2.7
 <details>
 <summary> Änderungen
 </summary>
@@ -5581,7 +5581,7 @@ _Keine inhaltlichen Änderungen._
 </details>
 
 
-## Änderungen NET.1.1
+## NET.1.1
 <details>
 <summary> Änderungen
 </summary>
@@ -5703,7 +5703,7 @@ _Keine inhaltlichen Änderungen._
 </details>
 
 
-## Änderungen NET.1.2
+## NET.1.2
 <details>
 <summary> Änderungen
 </summary>
@@ -5833,7 +5833,7 @@ _Entfallen:_\ (...), mit denen die administrativen Tätigkeiten im Notfall durch
 </details>
 
 
-## Änderungen NET.2.1
+## NET.2.1
 <details>
 <summary> Änderungen
 </summary>
@@ -5904,7 +5904,7 @@ _Keine inhaltlichen Änderungen._
 </details>
 
 
-## Änderungen NET.2.2
+## NET.2.2
 <details>
 <summary> Änderungen
 </summary>
@@ -5928,7 +5928,7 @@ _Keine inhaltlichen Änderungen._
 </details>
 
 
-## Änderungen NET.3.1
+## NET.3.1
 <details>
 <summary> Änderungen
 </summary>
@@ -6028,7 +6028,7 @@ _Keine inhaltlichen Änderungen._
 </details>
 
 
-## Änderungen NET.3.2
+## NET.3.2
 <details>
 <summary> Änderungen
 </summary>
@@ -6140,7 +6140,7 @@ _Keine inhaltlichen Änderungen._
 </details>
 
 
-## Änderungen NET.3.3
+## NET.3.3
 <details>
 <summary> Änderungen
 </summary>
@@ -6191,7 +6191,7 @@ _Keine inhaltlichen Änderungen._
 </details>
 
 
-## Änderungen NET.4.1
+## NET.4.1
 <details>
 <summary> Änderungen
 </summary>
@@ -6263,7 +6263,7 @@ _Keine inhaltlichen Änderungen._
 </details>
 
 
-## Änderungen NET.4.2
+## NET.4.2
 <details>
 <summary> Änderungen
 </summary>
@@ -6325,7 +6325,7 @@ _Keine inhaltlichen Änderungen._
 </details>
 
 
-## Änderungen NET.4.3
+## NET.4.3
 <details>
 <summary> Änderungen
 </summary>
@@ -6391,7 +6391,7 @@ _Keine inhaltlichen Änderungen._
 </details>
 
 
-## Änderungen INF.1
+## INF.1
 <details>
 <summary> Änderungen
 </summary>
@@ -6511,7 +6511,7 @@ _Keine inhaltlichen Änderungen._
 </details>
 
 
-## Änderungen INF.10
+## INF.10
 <details>
 <summary> Änderungen
 </summary>
@@ -6556,7 +6556,7 @@ _Keine inhaltlichen Änderungen._
 </details>
 
 
-## Änderungen INF.2
+## INF.2
 <details>
 <summary> Änderungen
 </summary>
@@ -6718,7 +6718,7 @@ _Keine inhaltlichen Änderungen._
 </details>
 
 
-## Änderungen INF.3
+## INF.3
 <details>
 <summary> Änderungen
 </summary>
@@ -6791,7 +6791,7 @@ Bei Aufbau und Betrieb des Stromverteilnetzes SOLLTEN die empfohlenen Trennungsa
 </details>
 
 
-## Änderungen INF.4
+## INF.4
 <details>
 <summary> Änderungen
 </summary>
@@ -6942,7 +6942,7 @@ INF.5.A16 Einsatz einer unterbrechungsfreien Stromversorgung [Haustechnik] (S)\
 Es SOLLTE geprüft werden, welche Geräte an einer USV angeschlossen werden sollen.
 Falls eine USV erforderlich ist, SOLLTE die Stützzeit der USV so ausgelegt sein, dass alle versorgten Komponenten sicher herunterfahren können.
 Es SOLLTE berücksichtigt werden, dass die Batterien von USV-Anlagen altern.
-Bei relevanten Änderungen SOLLTE überprüft werden, ob die vorhandenen USV-Anlagen noch ausreichend dimensioniert sind.
+Bei relevanten SOLLTE überprüft werden, ob die vorhandenen USV-Anlagen noch ausreichend dimensioniert sind.
 Die Batterie der USV SOLLTE im erforderlichen Temperaturbereich gehalten werden.
 Die USV SOLLTE regelmäßig gewartet und auf Funktionsfähigkeit getestet werden.
 Dafür SOLLTEN die vom Hersteller vorgesehenen Wartungsintervalle eingehalten werden.
@@ -7021,7 +7021,7 @@ Zum Schutz vor Ableitströmen, Strömen auf Schutzleitern, Leitungsschirmen und 
 </details>
 
 
-## Änderungen INF.6
+## INF.6
 <details>
 <summary> Änderungen
 </summary>
@@ -7063,7 +7063,7 @@ _Keine inhaltlichen Änderungen._
 </details>
 
 
-## Änderungen INF.7
+## INF.7
 <details>
 <summary> Änderungen
 </summary>
@@ -7099,7 +7099,7 @@ _Keine inhaltlichen Änderungen._
 </details>
 
 
-## Änderungen INF.8
+## INF.8
 <details>
 <summary> Änderungen
 </summary>
@@ -7131,7 +7131,7 @@ _Keine inhaltlichen Änderungen._
 </details>
 
 
-## Änderungen INF.9
+## INF.9
 <details>
 <summary> Änderungen
 </summary>
