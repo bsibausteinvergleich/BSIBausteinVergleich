@@ -996,7 +996,7 @@ Jeder Anmeldevorgang über eine Administrationskennung (Login) MUSS protokollier
 __Keine inhaltlichen Änderungen.__
 
 ##### OPS.1.1.2.A8
-_Ergänzung:_\
+__Ergänzung:__\
 Dabei SOLLTEN die Bedürfnisse des Fachbereichs berücksichtigt werden.
 
 ##### OPS.1.1.2.A9
@@ -1102,7 +1102,7 @@ __Keine inhaltlichen Änderungen.__
 #### Basis-Anforderungen
 
 ##### OPS.1.1.4.A1
-_Ergänzung:_\
+__Ergänzung:__\
 (Das Konzept SOLLTE nachvollziehbar dokumentiert) und aktuell gehalten werden.
 
 ##### OPS.1.1.4.A2
@@ -1217,7 +1217,7 @@ __Keine inhaltlichen Änderungen.__
 #### Basis-Anforderungen
 
 ##### OPS.1.1.6.A1
-_Ergänzung:_\ (...) und diese möglichst vollständig abdecken.
+__Ergänzung:__\ (...) und diese möglichst vollständig abdecken.
 
 ##### OPS.1.1.6.A2
 __Keine inhaltlichen Änderungen.__
@@ -1239,7 +1239,7 @@ Die durchgeführten Testfälle, sowie die Testergebnisse, MÜSSEN dokumentiert w
 __Keine inhaltlichen Änderungen.__
 
 ##### OPS.1.1.6.A7
-_Ergänzung:_\
+__Ergänzung:__\
 Darüber hinaus SOLLTE eine entsprechende Rollentrennung erfolgen, sodass Quellcode nicht ausschließlich von Testern überprüft wird, die an der Erstellung des Quellcodes beteiligt waren.
 
 ##### OPS.1.1.6.A8
@@ -1322,7 +1322,7 @@ __Keine inhaltlichen Änderungen.__
 __Keine inhaltlichen Änderungen.__
 
 ##### OPS.1.2.2.A16
-_Ergänzung:_\
+__Ergänzung:__\
 Wenn Archivdaten in neue Formate konvertiert werden, SOLLTE geprüft werden, ob die Daten aufgrund rechtlicher Anforderungen zusätzlich in ihren ursprünglichen Formaten zu archivieren sind.
 
 ##### NEU OPS.1.2.2.A17
@@ -2099,7 +2099,7 @@ __Keine inhaltlichen Änderungen.__
 __Keine inhaltlichen Änderungen.__
 
 ##### DER.4.A14
-_Ergänzung:_\
+__Ergänzung:__\
 Die Überprüfungen SOLLTEN so geplant werden, dass kein relevanter Teil ausgelassen wird.
 
 ##### DER.4.A15
@@ -2141,7 +2141,7 @@ __Keine inhaltlichen Änderungen.__
 __Keine inhaltlichen Änderungen.__
 
 ##### APP.1.1.A7
-_Ergänzung:_\
+__Ergänzung:__\
 Die Standardkonfiguration SOLLTE explizit freigegeben werden.
 
 ##### APP.1.1.A8
@@ -2186,7 +2186,7 @@ __Keine inhaltlichen Änderungen.__
 #### Basis-Anforderungen
 
 ##### APP.1.2.A1
-_Ergänzung:_\
+__Ergänzung:__\
 Der verwendete Webbrowser SOLLTE die aktuelle Version der Content Security Policy (CSP) gemäß den Spezifikationen des World Wide Web Consortium (W3C) umsetzen.
 
 ##### APP.1.2.A2
@@ -2455,7 +2455,7 @@ __Keine inhaltlichen Änderungen.__
 __Keine inhaltlichen Änderungen.__
 
 ##### APP.2.3.A12
-_Ergänzung:_\
+__Ergänzung:__\
 Dabei SOLLTEN institutionsinterne Vorgaben beachtet werden.
 
 ##### APP.2.3.A13
@@ -2482,7 +2482,7 @@ __Entfallen:__\
 Um sicherzugehen, dass eine gültige Sitzung (Session-ID) nicht von einem Angreifer übernommen wurde, MÜSSEN sich bei kritischen Funktionen die Benutzer erneut authentisieren.
 
 ##### APP.3.1.A2
-_Ergänzung:_\
+__Ergänzung:__\
 (...) durch die Entwickler einer Webanwendung (...)
 
 __Entfallen:__\
@@ -2492,18 +2492,18 @@ Die Dokumentation der vergebenen Zugriffsrechte MUSS immer auf dem aktuellen Sta
 Auch MUSS es ein geregeltes Verfahren geben, um Benutzern Zugriffsrechte wieder zu entziehen.
 
 ##### APP.3.1.A3
-_Ergänzung:_\
+__Ergänzung:__\
 (...) Entwickler einer Webanwendung MÜSSEN sicherstellen (...)
 
 ##### APP.3.1.A4
-_Ergänzung:_\
+__Ergänzung:__\
 (...) durch den IT-Betrieb (...)
 
-_Ergänzung:_\
+__Ergänzung:__\
 (...) Die Entwickler MÜSSEN sicherstellen, (...)
 
 ##### APP.3.1.A5
-_Ergänzung:_\
+__Ergänzung:__\
 (...) Entwickler MÜSSEN sicherstellen, (...)
 
 __Änderung:__\
@@ -2516,7 +2516,7 @@ Bei der Protokollierung und beim Umgang mit den Protokollierungsdaten MÜSSEN di
 _Diese Anforderung ist entfallen._
 
 ##### APP.3.1.A7
-_Ergänzung:_\
+__Ergänzung:__\
 (...) Die Entwickler einer Webanwendung und deren Betreiber MÜSSEN sicherstellen, (...)
 
 ##### APP.3.1.A14 (Aktualisiert: Basis-Anforderung)
@@ -2542,7 +2542,7 @@ Wenn weder Stored Procedures noch Prepared SQL Statements eingesetzt werden kön
 #### Standard-Anforderungen
 
 ##### APP.3.1.A8
-_Ergänzung:_\
+__Ergänzung:__\
 (...) der Beschaffer (...)
 
 __Änderung:__\
@@ -2584,7 +2584,7 @@ Die Webanwendung SOLLTE NICHT aus unsicheren Netzen administriert werden.
 Administrationszugänge SOLLTEN auf vertrauenswürdige separate Netzsegmente und IT-Systeme beschränkt werden.
 
 ##### APP.3.1.A15
-_Ergänzung:_\
+__Ergänzung:__\
 Falls dies nicht möglich ist, SOLLTE die Anwendung auf andere geeignete Weise sicherstellen, dass sich der Benutzer authentisiert.
 
 ##### APP.3.1.A17
@@ -2638,7 +2638,7 @@ Der Webserver MUSS so konfiguriert sein, dass er nur Dateien ausliefert, die sic
 __Änderung:__\
 Der IT-Betrieb MUSS alle nicht benötigten Funktionen, die Verzeichnisse auflisten, deaktivieren.
 
-_Ergänzung:_\
+__Ergänzung:__\
 Insbesondere MUSS der IT-Betrieb sicherstellen, dass vertrauliche Dateien nicht in öffentlichen Verzeichnissen des Webservers liegen.
 
 ##### APP.3.2.A3
@@ -2753,16 +2753,16 @@ Es SOLLTE ausschließlich Speicher verwendet werden, der für einen Dauerbetrieb
 Die Geschwindigkeit und die Anbindung der Speicher MUSS für den Einsatzzweck angemessen sein.
 
 ##### APP.3.3.A6
-_Ergänzung:_\
+__Ergänzung:__\
 (...) und die Software hierzu ausgewählt wird (...)
 
-_Ergänzung:_\
+__Ergänzung:__\
 Anhand dieser Liste SOLLTEN dann die am Markt erhältlichen Produkte und Software bewertet werden.
 Die Fileserver-Software SOLLTE geeignet ausgewählt werden.
 Der Fileserver-Dienst SOLLTE den Einsatzzweck des Fileservers unterstützen, z. B. Einbindung von Netzlaufwerken in den Clients, Streaming von Multimedia-Inhalten, Übertragung von Boot-Images von festplattenlosen IT-Systemen oder ausschließliche Dateiübertragung über FTP.
 
 ##### APP.3.3.A7
-_Ergänzung:_\
+__Ergänzung:__\
 Das Dateisystem SOLLTE den Anforderungen der Institution entsprechen.
 
 __Entfallen:__\
@@ -2770,7 +2770,7 @@ Es SOLLTE ein Dateisystem ausgewählt werden, das eine festgelegte Overhead-Gren
 Für Hochverfügbarkeitslösungen SOLLTEN verteilte Dateisysteme verwendet werden.
 
 ##### APP.3.3.A8
-_Ergänzung:_\
+__Ergänzung:__\
 Die Dateien SOLLTEN NUR strukturiert auf den Fileserver abgelegt werden.
 
 ##### APP.3.3.A9
@@ -2814,7 +2814,7 @@ Daten SOLLTEN zudem zwischen unabhängigen Fileservern repliziert werden, die si
 #### Basis-Anforderungen
 
 ##### APP.3.4.A1
-_Ergänzung:_\
+__Ergänzung:__\
 Je nach Betriebssystem der Clients und anderen vorhandenen Schutzmechanismen MUSS der Samba-Server in das Konzept zum Schutz vor Schadprogrammen der Institution einbezogen werden (siehe OPS.1.1.4 Schutz vor Schadprogrammen).
 
 ##### APP.3.4.A2
@@ -3361,7 +3361,7 @@ __Entfallen:__\
 Für Newsgroups und Mailinglisten SOLLTEN Regelungen erstellt werden.
 
 ##### APP.5.1.A17
-_Ergänzung:_\
+__Ergänzung:__\
 Die Institution SOLLTE mit dem Dienstleister Vereinbarungen zu SLAs treffen.
 
 ##### APP.5.1.A18
@@ -3410,7 +3410,7 @@ Er MUSS die Standard-NTFS-Berechtigungen für das Microsoft Exchange-Verzeichnis
 _Diese Anforderung ist entfallen._
 
 ##### APP.5.2.A5
-_Ergänzung:_\
+__Ergänzung:__\
 Dabei MÜSSEN insbesondere die Exchange-Server-Datenbanken gesichert werden.
 Gelöschte Exchange-Objekte SOLLTEN erst nach einiger Zeit aus der Datenbank entfernt werden.
 
@@ -3529,7 +3529,7 @@ Für die Anmeldung von Benutzern und Diensten am System MÜSSEN Authentisierungs
 Dies SOLLTE in besonderem Maße für administrative Zugänge berücksichtigt werden.
 Soweit möglich, SOLLTE dabei auf zentrale, netzbasierte Authentisierungsdienste zurückgegriffen werden.
 
-_Ergänzung:_\
+__Ergänzung:__\
 Es MUSS gewährleistet werden, dass nur dafür vorgesehene Wechselspeicher und sonstige Geräte an die Server angeschlossen werden können.
 Server DÜRFEN NICHT als Arbeitsplatzrechner genutzt werden.
 
@@ -3540,20 +3540,20 @@ __Keine inhaltlichen Änderungen.__
 __Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.1.A8
-_Ergänzung:_\
+__Ergänzung:__\
 Es MUSS regelmäßig getestet werden, ob die Datensicherung wie gewünscht funktioniert, vor allem, ob gesicherte Daten problemlos zurückgespielt werden können.
 
 ##### SYS.1.1.A9
 __Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.1.A10
-_Ergänzung:_\
+__Ergänzung:__\
 Es SOLLTE geprüft werden, ob die Speicherung der jeweiligen Protokolldaten auf dem Server selbst ausreichend ist oder ob eine zentrale Speicherung erfolgen soll.
 
 #### Standard-Anforderungen
 
 ##### SYS.1.1.A11
-_Ergänzung:_\
+__Ergänzung:__\
 (...) in einer separaten Sicherheitsrichtlinie (...)
 
 ##### SYS.1.1.A12
@@ -3626,7 +3626,7 @@ __Keine inhaltlichen Änderungen.__
 __Keine inhaltlichen Änderungen.__
 
 ##### NEU SYS.1.1.A34
-_Ergänzung:_\
+__Ergänzung:__\
 SYS.1.1.A34 Festplattenverschlüsselung (H)
 Bei erhöhtem Schutzbedarf sollten die Datenträger des Servers mit einem als sicher geltenden Produkt bzw. Verfahren verschlüsselt werden.
 Dies SOLLTE auch für virtuelle Maschinen mit produktiven Daten gelten.
@@ -3659,7 +3659,7 @@ __Keine inhaltlichen Änderungen.__
 __Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.2.2.A5
-_Ergänzung:_\
+__Ergänzung:__\
 (SYS.1.2.2.A5 Schutz vor Schadsoftware) auf Windows Server 2012 (S)
 
 ##### SYS.1.2.2.A6
@@ -4115,7 +4115,7 @@ __Keine inhaltlichen Änderungen.__
 __Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.1.A7
-_Ergänzung:_\
+__Ergänzung:__\
 Es SOLLTE geprüft werden, ob die Speicherung der Protokolldaten auf den jeweiligen Clients selbst ausreichend ist oder ob eine zentrale Speicherung erfolgen soll.
 
 ##### SYS.2.1.A8
@@ -4184,7 +4184,7 @@ __Keine inhaltlichen Änderungen.__
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 ##### SYS.2.1.A28
-_Ergänzung:_\
+__Ergänzung:__\
 (...) ohne den Nutzen der Verschlüsselung zu untergraben.
 
 ##### SYS.2.1.A29
@@ -4203,7 +4203,7 @@ __Keine inhaltlichen Änderungen.__
 __Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.1.A34
-_Ergänzung:_\
+__Ergänzung:__\
 (...) bzw. Daten aus unsicheren Quellen (...)
 
 ##### SYS.2.1.A35
@@ -4225,7 +4225,7 @@ __Keine inhaltlichen Änderungen.__
 __Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.1.A41
-_Ergänzung:_\
+__Ergänzung:__\
 (...), die den verwendeten Speicherplatz auf der lokalen Festplatte begrenzen.
 
 </details>
@@ -4493,7 +4493,7 @@ __Keine inhaltlichen Änderungen.__
 #### Standard-Anforderungen
 
 ##### SYS.2.4.A4
-_Ergänzung:_\
+__Ergänzung:__\
 Es SOLLTE geprüft werden, ob ein institutioneller Wiederherstellungsschlüssel für FileVault verwendet werden soll.
 
 ##### SYS.2.4.A5
@@ -4507,7 +4507,7 @@ __Keine inhaltlichen Änderungen.__
 __Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.4.A8
-_Ergänzung:_\
+__Ergänzung:__\
 (...) schützenswerte (...)
 
 ##### SYS.2.4.A9
@@ -4522,7 +4522,7 @@ __Keine inhaltlichen Änderungen.__
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 ##### SYS.2.4.A12
-_Ergänzung:_\
+__Ergänzung:__\
 Auf Macs mit T2-Sicherheitschip SOLLTE ein Firmware-Passwort über das Startsicherheitsdienstprogramm gesetzt werden.
 Die Option „Sicheres Starten: Volle Sicherheit“ SOLLTE aktiviert werden.
 Die Option „Starten von externen Medien nicht zulassen“ SOLLTE aktiviert werden.
@@ -4622,7 +4622,7 @@ __Keine inhaltlichen Änderungen.__
 __Keine inhaltlichen Änderungen.__
 
 ##### SYS.3.2.1.A6
-_Ergänzung:_\
+__Ergänzung:__\
 (...) sowie Ortungs- und Gesundheits- bzw. Fitnessdaten (...)
 
 ##### SYS.3.2.1.A7
@@ -4796,7 +4796,7 @@ __Keine inhaltlichen Änderungen.__
 #### Basis-Anforderungen
 
 ##### SYS.3.2.3.A1
-_Ergänzung:_\
+__Ergänzung:__\
 Außerdem MÜSSEN Jailbreaks organisatorisch untersagt und nach Möglichkeit technisch verhindert werden, etwa über eine Jailbreak-Erkennung durch das MDM.
 
 ##### SYS.3.2.3.A2
@@ -5019,11 +5019,11 @@ Sind Heimarbeitsplätze mit Druckern, Kopierern oder Multifunktionsgeräten ausg
 #### Standard-Anforderungen
 
 ##### SYS.4.1.A4
-_Ergänzung:_\
+__Ergänzung:__\
 Der ISB SOLLTE auf Basis des Sicherheitskonzepts eine Administrationsrichtlinie ausarbeiten.
 
 ##### SYS.4.1.A5
-_Ergänzung:_\
+__Ergänzung:__\
 Für den sicheren Umgang mit Druckern und Multifunktionsgeräten SOLLTE eine Administrationsrichtlinie ausgearbeitet werden.
 
 ##### SYS.4.1.A6 ENTFALLEN
@@ -5042,7 +5042,7 @@ _Diese Anforderung ist entfallen._
 _Diese Anforderung ist entfallen._
 
 ##### SYS.4.1.A11
-_Ergänzung:_\
+__Ergänzung:__\
 Netzdrucker und Multifunktionsgeräte SOLLTEN in einem eigenen Netzsegment, das von den Clients und Servern der Institution getrennt ist, betrieben werden.
 
 ##### SYS.4.1.A15
@@ -5165,7 +5165,7 @@ Diese Passwörter MÜSSEN komplex genug sein, geheim gehalten und regelmäßig g
 __Entfallen:__\
 Zusätzlich empfiehlt sich die Verwendung von alternativen Authentisierungsmechanismen, wie z. B. zertifikatsbasierte Authentisierung.
 
-_Ergänzung:_\
+__Ergänzung:__\
 Zudem MÜSSEN IoT-Gerate in das Identitäts- und Berechtigungsmanagement der Institution integriert werden.
 
 ##### SYS.4.4.A3
@@ -5229,7 +5229,7 @@ Es SOLLTE überwacht werden, ob die IoT-Geräte oder Sensor-Systeme nur mit IT-S
 __Keine inhaltlichen Änderungen.__
 
 ##### SYS.4.4.A19
-_Ergänzung:_\
+__Ergänzung:__\
 Der Zugriff auf die Administrationsschnittstellen von IoT-Geräten SOLLTE wie folgt eingeschränkt werden:
 • Nicht benötigte Administrationsschnittstellen SOLLTEN deaktiviert werden.
 • Netzbasierte Administrationsschnittstellen SOLLTEN auf berechtigte IT-Systeme bzw. Netzsegmente beschränkt werden.
@@ -5821,7 +5821,7 @@ __Keine inhaltlichen Änderungen.__
 __Keine inhaltlichen Änderungen.__
 
 ##### NET.1.2.A32
-_Ergänzung:_\ (...) von den produktiven Netzen (...)
+__Ergänzung:__\ (...) von den produktiven Netzen (...)
 
 ##### NET.1.2.A33
 __Keine inhaltlichen Änderungen.__
@@ -5979,7 +5979,7 @@ __Keine inhaltlichen Änderungen.__
 __Keine inhaltlichen Änderungen.__
 
 ##### NET.3.1.A11
-_Ergänzung:_\
+__Ergänzung:__\
 (...) basierend auf der Sicherheitsrichtlinie (...)
 
 ##### NET.3.1.A12
@@ -6013,7 +6013,7 @@ __Keine inhaltlichen Änderungen.__
 __Keine inhaltlichen Änderungen.__
 
 ##### NET.3.1.A22
-_Ergänzung:_\
+__Ergänzung:__\
 Für typische Ausfallszenarien SOLLTEN entsprechende Handlungsanweisungen definiert und in regelmäßigen Abständen aktualisiert werden.
 
 ##### NET.3.1.A23
@@ -6297,7 +6297,7 @@ __Keine inhaltlichen Änderungen.__
 __Keine inhaltlichen Änderungen.__
 
 ##### NET.4.2.A6
-_Ergänzung:_\
+__Ergänzung:__\
 Datenschutzrelevante Vorgaben MÜSSEN bei der Protokollierung berücksichtigt werden.
 
 ##### NET.4.2.A7
@@ -6344,7 +6344,7 @@ __Keine inhaltlichen Änderungen.__
 #### Basis-Anforderungen
 
 ##### NET.4.3.A1
-_Ergänzung:_\
+__Ergänzung:__\
 Der Aufstellungsort MUSS über einen geeigneten Netzanschluss für das Faxgerät verfügen.
 Faxgeräte DÜRFTEN NICHT an nicht dafür vorgesehene Netzanschlüsse angeschlossen werden.
 
@@ -6444,7 +6444,7 @@ __Keine inhaltlichen Änderungen.__
 __Keine inhaltlichen Änderungen.__
 
 ##### INF.1.A11
-_Ergänzung:_\
+__Ergänzung:__\
 (...)und der Raum für unberechtigte Personen zugänglich ist.
 
 ##### INF.1.A12
@@ -6542,7 +6542,7 @@ __Keine inhaltlichen Änderungen.__
 #### Standard-Anforderungen
 
 ##### INF.10.A4
-_Ergänzung:_\
+__Ergänzung:__\
 (...) oder ausschließlich von Besuchern (...)
 
 ##### INF.10.A5
@@ -6589,7 +6589,7 @@ Die Brand- und Rauchabschnitte MÜSSEN über den baurechtlich vorgeschriebenen R
 Es MUSS verhindert werden, dass sich Brand und Rauch ausbreiten.
 
 ##### INF.2.A3
-_Ergänzung:_\
+__Ergänzung:__\
 Sie SOLLTE dazu vorzugsweise räumlich getrennt von der Leistungselektronik der USV platziert werden.
 
 __Entfallen:__\
@@ -6613,20 +6613,20 @@ __Entfallen:__\
 Außerdem MUSS sichergestellt werden, dass Besucher und Fremdpersonal während aller Arbeiten im Rechenzentrum von der Zutrittskontrolle individuell erfasst sowie beaufsichtigt werden.
 
 ##### INF.2.A7
-_Ergänzung:_\
+__Ergänzung:__\
 Sie MÜSSEN mit einem Sichtschutz versehen sein.
 
 ##### INF.2.A8
 __Keine inhaltlichen Änderungen.__
 
 ##### INF.2.A9
-_Ergänzung:_\
+__Ergänzung:__\
 (...) oder durch technische (insbesondere durch eine flächendeckende Brandfrüherkennung, siehe INF.2.A17 Brandfrüherkennung) und organisatorische Maßnahmen (geschultes Personal und fallbezogene Reaktionspläne für Meldungen der Brandfrüherkennung) sichergestellt sein, dass unmittelbar (innerhalb von maximal 5 Minuten) auf Meldungen der Brandfrüherkennung reagiert wird.
 
 __Änderung:__\
 In Serverräumen und in einem Rechenzentrum ohne Lösch- oder Brandvermeidungsanlage MÜSSEN Handfeuerlöscher mit geeigneten Löschmitteln in ausreichender Zahl und Größe vorhanden sein.
 
-_Ergänzung:_\
+__Ergänzung:__\
 Es MUSS beachtet werden, dass darüber hinausgehende baurechtliche Anforderungen hinsichtlich der Ausstattung mit Handfeuerlöschern davon unberührt bleiben.
 
 ##### INF.2.A10
@@ -6654,7 +6654,7 @@ Gegenmaßnahmen MÜSSEN entsprechend der erkannten Gefährdungsrelevanz zeitgere
 #### Standard-Anforderungen
 
 ##### INF.2.A12
-_Ergänzung:_\
+__Ergänzung:__\
 • Maßnahmen zur Beweissicherung (bspw. Videoaufzeichnung) sowie
 • automatische Alarmierung.
 
@@ -6662,7 +6662,7 @@ _Ergänzung:_\
 __Keine inhaltlichen Änderungen.__
 
 ##### INF.2.A14
-_Ergänzung:_\
+__Ergänzung:__\
 Außerdem SOLLTE regelmäßig kontrolliert werden, ob die Vorräte noch verwendbar sind, vor allem um die sogenannte Dieselpest zu vermeiden.
 Nach Möglichkeit SOLLTE statt Diesel-Kraftstoff schwefelarmes Heizöl verwendet werden.
 Die Tankvorgänge von Brennstoffen MÜSSEN protokolliert werden.
@@ -6696,7 +6696,7 @@ Ein Serverraum SOLLTE mit einer Brandfrüherkennungsanlage (siehe INF.2.A17 Bran
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 ##### INF.2.A21
-_Ergänzung:_\
+__Ergänzung:__\
 Der Schwenk auf das Notfallrechenzentrum SOLLTE regelmäßig getestet und geübt werden.
 Die Übertragungswege in das Ausweichrechenzentrum SOLLTEN geeignet abgesichert und entsprechend redundant ausgelegt sein.
 
@@ -6708,7 +6708,7 @@ __Entfallen:__\
 Für unterschiedliche Netzarten, z. B. Datennetz, Netz für Gefahrenmeldeanlagen und Stromnetz, SOLLTEN getrennte Kabel benutzt werden.
 Werden Kabel für verschiedene Netze gemeinsam geführt, SOLLTE sichergestellt sein, dass gegenseitige Störungen minimiert werden.
 
-_Ergänzung:_\
+__Ergänzung:__\
 Tragsysteme SOLLTEN hinsichtlich Brandbeanspruchung in einem dem Schutzbedarf genügenden Funktionserhalt ausgeführt werden.
 
 ##### INF.2.A24
@@ -6741,7 +6741,7 @@ __Keine inhaltlichen Änderungen.__
 __Keine inhaltlichen Änderungen.__
 
 ##### INF.3.A2
-_Ergänzung:_\
+__Ergänzung:__\
 (...) bevor sie verlegt werden.
 
 ##### INF.3.A3
@@ -7041,7 +7041,7 @@ Zum Schutz vor Ableitströmen, Strömen auf Schutzleitern, Leitungsschirmen und 
 #### Basis-Anforderungen
 
 ##### INF.6.A1
-_Ergänzung:_\
+__Ergänzung:__\
 Mitarbeiter, die in der Nähe eines Datenträgerarchivs tätig sind, (...)
 
 ##### INF.6.A2
@@ -7199,7 +7199,7 @@ Formatierungshilfen:
 __Entfallen:__\
 __Änderung:__\
 (...)  (...)
-_Ergänzung:_\
+__Ergänzung:__\
 (...)  (...)
 __Änderung:__\
 ~~~~\
