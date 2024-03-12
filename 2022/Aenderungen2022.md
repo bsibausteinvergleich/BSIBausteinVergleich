@@ -62,25 +62,25 @@ Keine inhaltlichen Änderungen.
 
 #### CON.3.A1
 
-##### Geändert:
+__Geändert:__
 
-*Dazu MÜSSEN die Fachverantwortlichen für die Anwendungen ihre Anforderungen an die Datensicherung definieren.*
+Dazu MÜSSEN die Fachverantwortlichen für die Anwendungen ihre Anforderungen an die Datensicherung definieren.
 
-*Der IT-Betrieb MUSS mindestens die nachfolgenden Rahmenbedingungen mit den Fachverantwortlichen abstimmen:*
+Der IT-Betrieb MUSS mindestens die nachfolgenden Rahmenbedingungen mit den Fachverantwortlichen abstimmen:
 
-*• zu sichernde Daten,*
+• zu sichernde Daten,
 
-*• Vertraulichkeitsanforderungen,*
+• Vertraulichkeitsanforderungen,
 
-*• Integritätsbedarf,*
+• Integritätsbedarf,
 
-*• rechtliche Anforderungen,*
+• rechtliche Anforderungen,
 
-*• Anforderungen an das Löschen und Vernichten der Daten sowie*
+• Anforderungen an das Löschen und Vernichten der Daten sowie
 
-*• Zuständigkeiten für die Datensicherung.*
+• Zuständigkeiten für die Datensicherung.
 
-*Die Einflussfaktoren MÜSSEN nachvollziehbar und auf geeignete Weise festgehalten werden.*
+Die Einflussfaktoren MÜSSEN nachvollziehbar und auf geeignete Weise festgehalten werden.
 
 
 #### CON.3.A2
