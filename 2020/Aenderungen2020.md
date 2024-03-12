@@ -938,11 +938,11 @@ __Keine inhaltlichen Änderungen.__
 
 
 ### NEU CON.8
-_Die Anforderungen CON.8.A1 bis CON.8.A19 wurden hinzugefügt._
+__Die Anforderungen CON.8.A1 bis CON.8.A19 wurden hinzugefügt.__
 
 
 ### NEU CON.9
-_Die Anforderungen CON.9.A1 bis CON.9.A8 wurden hinzugefügt._
+__Die Anforderungen CON.9.A1 bis CON.9.A8 wurden hinzugefügt.__
 
 ___
 ## OPS
