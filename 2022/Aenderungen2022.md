@@ -85,7 +85,7 @@ Die Einflussfaktoren MÜSSEN nachvollziehbar und auf geeignete Weise festgehalte
 
 #### CON.3.A2
 
-##### Geändert:
+__Geändert:__
 
 CON.3.A2 Festlegung der Verfahrensweisen für die Datensicherung [Fachverantwortliche, IT-Betrieb] (B)
 
@@ -94,7 +94,7 @@ Der IT-Betrieb MUSS Verfahren festlegen, wie die Daten gesichert werden.
 Dies MUSS wiederum auf Basis der erhobenen Einflussfaktoren und in Abstimmung mit den jeweiligen Fachverantwortlichen geschehen.
 
 
-##### Hinzugefügt:
+__Hinzugefügt:__
 
 Datensicherungen MÜSSEN immer auf separaten Speichermedien für die Datensicherung gespeichert werden.
 
@@ -110,7 +110,7 @@ Entfallen
 
 #### CON.3.A4
 
-##### Geändert:
+__Geändert:__
 
 CON.3.A4 Erstellung von Datensicherungsplänen [IT-Betrieb] (B)
 
@@ -121,7 +121,7 @@ Diese MÜSSEN festlegen, welche Anforderungen für die Datensicherung mindestens
 Die Datensicherungpläne MÜSSEN mindestens eine kurze Beschreibung dazu enthalten:
 
 
-##### Hinzugefügt:
+__Hinzugefügt:__
 
 • in welcher Reihenfolge IT-System und Anwendungen wiederhergestellt werden,
 
@@ -132,7 +132,7 @@ Die Datensicherungpläne MÜSSEN mindestens eine kurze Beschreibung dazu enthalt
 
 #### CON.3.A5
 
-##### Geändert:
+__Geändert:__
 
 CON.3.A5 Regelmäßige Datensicherung [IT-Betrieb, Mitarbeiter] (B)
 
@@ -145,7 +145,7 @@ Auch MÜSSEN sie darüber informiert werden, welche Aufgaben sie bei der Erstell
 
 #### CON.3.A12 ist jetzt Basis-Anforderung anstatt Standard-Anforderung
 
-##### Geändert:
+__Geändert:__
 
 CON.3.A12 Sichere Aufbewahrung der Speichermedien für die Datensicherungen [IT-Betrieb] (B)
 
@@ -210,7 +210,7 @@ Keine inhaltlichen Änderungen.
 
 #### OPS 1.1.5.A6
 
-##### Geändert:
+__Geändert:__
 
 Alle gesammelten sicherheitsrelevanten Protokollierungsdaten SOLLTEN an einer zentralen Stelle gespeichert werden.
 
@@ -224,7 +224,7 @@ Alle gesammelten sicherheitsrelevanten Protokollierungsdaten SOLLTEN an einer ze
 
 #### OPS 1.1.6.A11
 
-##### Geändert:
+__Geändert:__
 
 OPS.1.1.6.A11 Verwendung von anonymisierten oder pseudonymisierten Testdaten [Datenschutzbeauftragter,Tester] (B)
 
@@ -233,19 +233,19 @@ Wenn Produktivdaten für Software-Tests verwendet werden, die schützenswerte In
 Enthalten diese Daten personenbezogene Informationen, dann MÜSSEN diese Daten mindestens pseudonymisiert werden.
 
 
-##### Hinzugefügt:
+__Hinzugefügt:__
 
 Falls möglich, SOLLTEN die Testdaten mit Personenbezug vollständig anonymisiert werden.
 
 #### OPS 1.1.6.A6
 
-##### Geändert:
+__Geändert:__
 
 Die Software-Tester SOLLTEN über die durchzuführenden Testarten und die zu testenden Bereiche einer Software vom Fachverantwortlichen informiert werden.
 
 #### OPS 1.1.6.A7
 
-##### Geändert:
+__Geändert:__
 
 Wird Individualsoftware auf Quellcode-Ebene überprüft, dann SOLLTEN die Tester über ausreichendes Fachwissen über die zu testenden Programmiersprache und die Entwicklungsumgebung verfügen.
 
@@ -274,21 +274,21 @@ Keine inhaltlichen Änderungen.
 
 #### OPS 1.2.5.A2
 
-##### Geändert:
+__Geändert:__
 
 Wird per Fernwartung auf Desktop-Umgebungen von Clients zugegriffen, MUSS der Benutzer des IT-Systems diesem Zugriff explizit zustimmen.
 
 
 #### OPS 1.2.5.A24
 
-##### Geändert:
+__Geändert:__
 
 Die Fernwartungsfunktionen SOLLTEN nur aus einem getrennten Managementnetz erreichbar sein.
 
 
 #### OPS 1.2.5.A25
 
-##### Geändert:
+__Geändert:__
 
 OPS.1.2.5.A25 Entkopplung der Kommunikation bei der Fernwartung (S)
 
@@ -299,7 +299,7 @@ Der Zugriff auf Sprungserver SOLLTE nur von vertrauenswürdigen IT-Systemen aus 
 
 #### OPS 1.2.5.A14
 
-##### Hinzugefügt:
+__Hinzugefügt:__
 
 Die Netzkommunikation der Administrationssysteme SOLLTE so eingeschränkt werden, dass nur Verbindungen zu IT-Systemen möglich sind, die administriert werden sollen.
 
@@ -374,7 +374,7 @@ Keine Inhaltlichen Änderungen
 
 #### APP 3.1.A1
 
-##### Geändert:
+__Geändert:__
 
 APP.3.1.A1 Authentisierung (B)
 
@@ -382,7 +382,7 @@ Der IT-Betrieb MUSS Webanwendungen und Webservices so konfigurieren, dass sich B
 
 #### APP 3.1.A4
 
-##### Geändert:
+__Geändert:__
 
 APP.3.1.A4 Kontrolliertes Einbinden von Dateien und Inhalten (B)
 
@@ -391,7 +391,7 @@ Falls eine Webanwendung oder ein Webservice eine Upload-Funktion für Dateien an
 
 #### APP 3.1.A7
 
-##### Geändert:
+__Geändert:__
 
 APP.3.1.A7 Schutz vor unerlaubter automatisierter Nutzung (B)
 
@@ -404,7 +404,7 @@ Wenn die Webanwendung RSS-Feeds oder andere Funktionen enthält, die explizit f�
 
 #### APP 3.1.A14
 
-##### Geändert:
+__Geändert:__
 
 Der IT-Betrieb MUSS sicherstellen, dass Zugangsdaten zur Webanwendung oder zum Webservice serverseitig mithilfe von sicheren kryptografischen Algorithmen vor unbefugtem Zugriff geschützt werden.
 
@@ -413,7 +413,7 @@ Die Dateien mit den Quelltexten der Webanwendung oder des Webservices MÜSSEN vo
 
 #### APP 3.1.A8
 
-##### Geändert:
+__Geändert:__
 
 APP.3.1.A8 Systemarchitektur [Beschaffungsstelle] (S)
 
@@ -424,7 +424,7 @@ Auch SOLLTE darauf geachtet werden, dass die Architektur der Webanwendung oder d
 
 #### APP 3.1.A9
 
-##### Geändert:
+__Geändert:__
 
 APP.3.1.A9 Beschaffung von Webanwendungen und Webservices (S)
 
@@ -441,7 +441,7 @@ Zusätzlich zu den allgemeinen Aspekten der Beschaffung von Software SOLLTE die 
 
 #### APP 3.1.A12
 
-##### Geändert:
+__Geändert:__
 
 APP.3.1.A12 Sichere Konfiguration (S)
 
@@ -452,14 +452,14 @@ Folgendes SOLLTE bei der Konfiguration von Webanwendungen und Webservices umgese
 
 #### APP 3.1.A22
 
-##### Geändert:
+__Geändert:__
 
 Webanwendungen und Webservices SOLLTEN regelmäßig auf Sicherheitsprobleme hin überprüft werden.
 
 
 #### APP 3.1.A20
 
-##### Geändert:
+__Geändert:__
 
 Die Konfiguration der eingesetzten WAF SOLLTE auf die zu schützende Webanwendung oder den Webservice angepasst werden.
 
@@ -485,7 +485,7 @@ Keine inhaltlichen Veränderungen.
 
 #### APP 3.4.A1
 
-##### Geändert:
+__Geändert:__
 
 Soll IPv6 unter Samba eingesetzt werden, MUSS auch dies sorgfältig geplant werden.
 
@@ -512,7 +512,7 @@ Keine inhaltlichen Veränderungen.
 
 #### APP 4.3.A25
 
-##### Geändert:
+__Geändert:__
 
 APP.4.3.A25 Sicherheitsprüfungen von Datenbanksystemen (H)
 
@@ -550,7 +550,7 @@ Keine inhaltlichen Änderungen
 
 #### APP 6.A8
 
-##### Geändert:
+__Geändert:__
 
 Hierzu SOLLTE der IT-Betrieb
 
@@ -584,7 +584,7 @@ Keine inhaltlichen Änderungen
 
 #### SYS 1.1.A1
 
-##### Geändert:
+__Geändert:__
 
 • administrative Zugänge (siehe SYS.1.1.A5 Schutz von Schnittstellen),
 
@@ -599,7 +599,7 @@ Anforderung neu hinzugefügt.
 
 #### SYS 1.1.A31
 
-##### Geändert:
+__Geändert:__
 
 SYS.1.1.A31 Einsatz von Ausführungskontrolle (H)
 
@@ -612,7 +612,7 @@ Falls Pfade und Hashes nicht explizit angegeben werden können, SOLLTEN alternat
 
 #### SYS 1.1.A36
 
-##### Geändert:
+__Geändert:__
 
 Nicht benötigtes Schlüsselmaterial SOLLTE entfernt werden.
 
@@ -662,40 +662,40 @@ In den Anforderungen des Bausteins wird anstatt von MVS- , von z/OS- gesprochen.
 
 #### SYS 1.7.A1
 
-##### Geändert:
+__Geändert:__
 
 Zugänge über Webserver und andere Fernzugänge MÜSSEN durch Verschlüsselung geschützt werden.
 
 
-##### Hinzugefügt:
+__Hinzugefügt:__
 
 Nicht benötigte Webserver und Fernzugänge MÜSSEN deaktiviert werden, wenn sie nicht benötigt werden.
 
 
 #### SYS 1.7.A6
 
-##### Geändert:
+__Geändert:__
   
 Die RSF-Kommunikation MUSS über Proxy-Server und zusätzlich über gesicherte Verbindungen (wie TLS) stattfinden.
 
 
 #### SYS 1.7.A8
 
-##### Hinzugefügt:
+__Hinzugefügt:__
 
 Falls RACF PassTickets verwendet werden, MUSS der Enhanced PassTicket Algorithmus aktiviert werden.
 
 
 #### SYS 1.7.A22
 
-##### Geändert:
+__Geändert:__
 
 SDSF (System Display and Search Facility) und ähnliche Funktionen sowie die Prioritäten-Steuerung für Jobs SOLLTEN mittels RACF vor unberechtigtem Zugriff geschützt werden.
 
 
 #### SYS 1.7.A23
 
-##### Hinzugefügt:
+__Hinzugefügt:__
 
 Passwörter von realen Usern und Guest-Usern SOLLTEN mittels RACF für z/VM verschlüsselt werden.
 
@@ -719,14 +719,14 @@ Anforderung wurde komplett neu hinzugefügt.
 
 #### SYS 2.1.A31
 
-##### Geändert:
+__Geändert:__
 
 Es SOLLTE eine Strategie zur Paketfilter-Implementierung gewählt werden, die nur benötigte Netzkommunikation explizit erlaubt.
 
 
 #### SYS 2.1.A33
 
-##### Geändert:
+__Geändert:__
 
 SYS.2.1.A33 Einsatz von Ausführungskontrolle (H)
 
@@ -757,7 +757,7 @@ Keine inhaltlichen Änderungen.
 
 #### SYS 2.2.3.A4
 
-##### Geändert:
+__Geändert:__
 
 Diese können nur unter Windows 10 Enterprise mit der Einstellung des Telemetrielevels 0 (Security) stark reduziert werden.
 
@@ -766,7 +766,7 @@ Wenn diese Einstellung nicht wirksam umgesetzt werden kann, dann MUSS durch geei
 
 #### SYS 2.2.3.A5
 
-##### Geändert:
+__Geändert:__
 
 Sofern nicht gleich- oder höherwertige Maßnahmen, wie z. B. Ausführungskontrolle, zum Schutz des IT-Systems vor einer Infektion mit Schadsoftware getroffen wurden, MUSS eine spezialisierte Komponente zum Schutz vor Schadsoftware auf Windows 10-Clients eingesetzt werden.
 
@@ -886,7 +886,7 @@ Keine inhaltlichen Änderungen.
 
 #### INF 2.A23
 
-##### Geändert:
+__Geändert:__
 
 Trassen SOLLTEN hinsichtlich Anordnung und Dimensionierung so ausgelegt sein, dass eine Trennung der Spannungsebenen sowie eine sinnvolle Verteilung von Kabeln auf den Trassen möglich sind und dass auch für zukünftige Bedarfsmehrung ausreichend Platz zur Verfügung steht.
 </details>
