@@ -75,6 +75,7 @@ _Keine inhaltlichen Änderungen._
 </details>
 
 ___
+## ORP
 ### ORP.1
 <details>
 <summary> Änderungen
@@ -469,7 +470,7 @@ _Anforderung entfallen_
 </details>
 
 ___
-
+## CON
 ### CON.1
 <details>
 <summary> Änderungen
@@ -944,6 +945,7 @@ _Die Anforderungen CON.8.A1 bis CON.8.A19 wurden hinzugefügt._
 _Die Anforderungen CON.9.A1 bis CON.9.A8 wurden hinzugefügt._
 
 ___
+## OPS
 ### OPS.1.1.2
 <details>
 <summary> Änderungen
@@ -1598,6 +1600,7 @@ _Keine inhaltlichen Änderungen._
 </details>
 
 ___
+## DER
 ### DER.1
 <details>
 <summary> Änderungen
@@ -2109,6 +2112,7 @@ _Keine inhaltlichen Änderungen._
 </details>
 
 ___
+## APP
 ### APP.1.1
 <details>
 <summary> Änderungen
@@ -3493,6 +3497,7 @@ _Diese Anforderung ist entfallen._
 </details>
 
 ___
+## SYS
 ### SYS.1.1
 <details>
 <summary> Änderungen
@@ -5338,6 +5343,7 @@ Die Institution SOLLTE dedizierte Systeme als Datenschleuse verwenden, bei denen
 </details>
 
 ___
+## IND
 ### IND.1
 <details>
 <summary> Änderungen
@@ -5585,6 +5591,7 @@ _Keine inhaltlichen Änderungen._
 </details>
 
 ___
+## NET
 ### NET.1.1
 <details>
 <summary> Änderungen
@@ -6395,6 +6402,7 @@ _Keine inhaltlichen Änderungen._
 </details>
 
 ___
+## INF
 ### INF.1
 <details>
 <summary> Änderungen
