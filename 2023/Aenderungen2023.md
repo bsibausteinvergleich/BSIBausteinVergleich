@@ -32,7 +32,7 @@ Anstatt von *Kryptoprodukten* spricht der Baustein nun von *Hard- oder Software 
 
 #### CON.1.A1:
 
-##### Hinzugefügt:
+__Hinzugefügt:__
 
 Um eine geeignete Schlüssellänge auszuwählen, SOLLTE berücksichtigt werden, wie lange das kryptografische Verfahren eingesetzt werden soll.
 
@@ -41,11 +41,11 @@ Bei einer längeren Einsatzdauer SOLLTEN entsprechend längere Schlüssellängen
 
 #### CON.1.A2:
 
-##### Entfernt:
+__Entfallen:__
 
 Verwendete Kryptoprodukte SOLLTEN archiviert werden.
 
-##### Geändert:
+__Geändert:__
 
 Langlebige kryptografische Schlüssel MÜSSEN offline, außerhalb der eingesetzten IT-Systeme, aufbewahrt werden.
 
@@ -61,7 +61,7 @@ Ehemals *Verschlüsselung der Kommunikationsverbindungen*:
 
 #### CON.1.A4 ist jetzt Basis-Anforderung anstatt Standard-Anforderung
 
-##### Hinzugefügt:
+__Hinzugefügt:__
 
 In einem geeigneten Schlüsselmanagement für kryptografische Hard oder Software MUSS festgelegt werden, wie Schlüssel und Zertifikate erzeugt, gespeichert, ausgetauscht und wieder gelöscht oder vernichtet werden.
 
@@ -77,7 +77,7 @@ Falls die Gültigkeit von Schlüsseln oder Zertifikaten zeitlich eingeschränkt 
 
 Eine Vorgehensweise SOLLTE für den Fall festgelegt werden, dass ein privater Schlüssel offengelegt wird.
 
-##### Geändert:
+__Geändert:__
 
 
 Kryptografische Schlüssel SOLLTEN mit sicher geltenden Verfahren ausgetauscht werden.
@@ -89,7 +89,7 @@ Eine Vorgehensweise SOLLTE für den Fall festgelegt werden, dass ein privater Sc
 
 #### CON.1.A5
 
-##### Hinzugefügt:
+__Hinzugefügt:__
 
 Die Vorgehensweisen und eingesetzten Methoden, um nicht mehr benötigte private Schlüssel zu löschen oder zu vernichten, SOLLTEN im Kryptokonzept dokumentiert werden.
 
@@ -226,7 +226,7 @@ Ehemals *Schulung von Benutzern und Administratoren*:
 
 #### CON.1.A16
 
-##### Geändert:
+__Geändert:__
 
 *Im Kryptokonzept SOLLTE festgelegt werden, wie der IT-Betrieb sicherstellt, dass nicht unautorisiert physisch auf Hardware mit kryptografischen Funktionen zugegriffen werden kann.*
 
@@ -245,7 +245,7 @@ Ehemals *Schulung von Benutzern und Administratoren*:
 
 #### CON.1.A18
 
-##### Geändert:
+__Geändert:__
 
 *Hardware mit kryptografischen Funktionen (z. B. Hardware-Token für Zwei-Faktor-Authentifizierung) SOLLTE vorrätig sein.*
 
@@ -264,7 +264,7 @@ Ehemals *Schulung von Benutzern und Administratoren*:
 
 #### CON.2.A1
 
-##### Geändert:
+__Geändert:__
 
 Die gesetzlichen Bestimmungen zum Datenschutz (DSGVO, BDSG, die Datenschutzgesetze der Bundesländer und gegebenenfalls einschlägige bereichsspezifische Datenschutzregelungen) MÜSSEN eingehalten werden.
 
@@ -376,7 +376,7 @@ Anforderung wurde vollständig verändert.
 
 #### OPS.1.1.2.A5
 
-##### Hinzugefügt:
+__Hinzugefügt:__
 
 *Administrative Tätigkeiten MÜSSEN nachweisbar sein. Dafür MUSS mindestens festgehalten werden,*
 
@@ -618,7 +618,7 @@ Keine inhaltlichen Änderungen.
 
 #### OPS.1.2.5.A19
 
-##### Geändert:
+__Geändert:__
 
 *Die Pflichten und Kompetenzen des externen Wartungspersonals SOLLTEN in den vertraglichen Regelungen festgehalten werden.*
 
@@ -766,7 +766,7 @@ Keine inhaltlichen Änderungen.
 
 #### APP.2.1.A2
 
-##### Geändert:
+__Geändert:__
 
 *Zudem MUSS ein Konzept für eine Struktur aus Objektklassen und Attributtypen entwickelt werden, dass den Ansprüchen der vorgesehenen Nutzungsarten genügt.*
 
@@ -811,7 +811,7 @@ Ehemals *Erstellung eines Sicherheitskonzepts für den Einsatz von Verzeichnisdi
 
 #### APP.2.1.A8
 
-##### Geändert:
+__Geändert:__
 
 *Sofern eine Partitionierung geplant ist, SOLLTE sich diese an den Schutzzielen des Verzeichnisdienstes orientieren und diese geeignet unterstützen.*
 
@@ -850,7 +850,7 @@ Ehemals *Erstellung eines Sicherheitskonzepts für den Einsatz von Verzeichnisdi
 
 *Im Falle einer serviceorientierten Architektur (SOA) SOLLTEN zum Schutz von Service-Einträgen in einer Service-Registry sämtliche Anfragen an die Registratur daraufhin überprüft werden, ob der Benutzer gültig ist.*
 
-##### Geändert:
+__Geändert:__
 
 *Werden vertrauliche Informationen übertragen, SOLLTE die gesamte Kommunikation mit dem Verzeichnisdienst über ein sicheres Protokoll entsprechend der Technischen Richtlinie TR-02102 des BSI (z. B. TLS) verschlüsselt werden.*
 
@@ -868,7 +868,7 @@ Ehemals *Erstellung eines Sicherheitskonzepts für den Einsatz von Verzeichnisdi
 *Bei der Migration SOLLTE berücksichtigt werden, dass IT-Systeme, die auf den Verzeichnisdienst zugreifen, gegebenenfalls lokale Caches vorhalten oder aus anderen Gründen dort eine Aktualisierung der migrierten Verzeichnisdienstinhalte initiiert werden muss.*
 
 
-##### Geändert:
+__Geändert:__
 
 *Die Schema-Änderungen, die am Verzeichnisdienst vorgenommen wurden, SOLLTEN vor der Migration analysiert und dokumentiert werden.*
 
@@ -907,7 +907,7 @@ Die Anforderung erhöhten Schutzbedarfs wurde neu hinzugefügt.
 *Die geplante Active-Directory-Struktur einschließlich etwaiger Schema-Änderungen SOLLTE nachvollziehbar dokumentiert sein.*
 
 
-##### Geändert:
+__Geändert:__
 
 *Es MUSS eine Funktionsebene für die Domäne(n) und die Gesamtstruktur von mindestens Windows Server 2016 gewählt werden.*
 
@@ -961,7 +961,7 @@ Die Basis-Anforderung wurde neu hinzugefügt.
 *Dabei SOLLTEN alle relevanten Gruppenrichtlinienparameter berücksichtigt werden.*
 
 
-##### Geändert:
+__Geändert:__
 
 *Der „Sichere Kanal“ SOLLTE so konfiguriert sein, dass alle übertragenen Daten immer verschlüsselt und signiert werden.*
 
@@ -1024,7 +1024,7 @@ Die Anforderung für erhöhten Schutzbedarf wurde neu hinzugefügt.
 
 #### APP.2.3.A9
 
-##### Geändert:
+__Geändert:__
 
 *Bei einer Partitionierung oder Replikation von OpenLDAP SOLLTE die Aufteilung geeignet für die Sicherheitsziele ausgewählt werden.*
 
@@ -1122,7 +1122,7 @@ Keine inhaltlihcen Änderungen.
 
 #### APP.5.3.A1
 
-##### Geändert:
+__Geändert:__
 
 *Bevor Dateianhänge aus E-Mails geöffnet werden, MÜSSEN sie auf Schadsoftware überprüft werden.*
 
@@ -1140,7 +1140,7 @@ Keine inhaltlihcen Änderungen.
 *Der IT-Betrieb MUSS den E-Mail-Server so konfigurieren, dass E-Mail-Clients nur über eine sichere Transportverschlüsselung auf Postfächer zugreifen können, wenn dies über nicht vertrauenswürdige Netze passiert.*
 
 
-##### Geändert:
+__Geändert:__
 
 *Für den E-Mail-Empfang über nicht vertrauenswürdige Netze MÜSSEN E-Mail-Server eine sichere Transportverschlüsselung anbieten.*
 
@@ -1251,7 +1251,7 @@ Keine inhaltlichen Änderungen.
 
 #### SYS.1.1.A1
 
-##### Geändert:
+__Geändert:__
 
 *Physische Server MÜSSEN an Orten betrieben werden, zu denen nur berechtigte Personen Zutritt haben.*
 
@@ -1269,7 +1269,7 @@ Keine inhaltlichen Änderungen.
 
 #### SYS.1.1.A6
 
-##### Geändert:
+__Geändert:__
 
 *Alle nicht benötigten Serverrollen, Features und Funktionen, sonstige Software und Dienste MÜSSEN deaktiviert oder deinstalliert werden, vor allem Netzdienste.*
 
@@ -1370,7 +1370,7 @@ Jetzt für alle Windows Client Betriebssysteme gültig, nicht mehr nur Windows 1
 
 #### SYS.2.2.3.A4
 
-##### Geändert:
+__Geändert:__
 
 *Um die Übertragung von Diagnose- und Nutzungsdaten an Microsoft stark zu reduzieren, MUSS das Telemetrie-Level 0 (Security) in der Enterprise-Edition von Windows konfiguriert werden.*
 
@@ -1379,7 +1379,7 @@ Jetzt für alle Windows Client Betriebssysteme gültig, nicht mehr nur Windows 1
 
 #### SYS.2.2.3.A19
 
-##### Geändert:
+__Geändert:__
 
 *Die eingesetzten kryptografischen Protokolle und Algorithmen SOLLTEN sicher sein und den internen Vorgaben der Institution entsprechen.*
 
