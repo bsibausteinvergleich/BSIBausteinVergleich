@@ -2419,10 +2419,7 @@ Keine inhaltlichen Änderungen.
 ### DER 3.2
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### DER 3.2.A1-A22
