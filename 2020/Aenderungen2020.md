@@ -22,26 +22,26 @@ Der Sicherheitsprozess MUSS durch die Institutionsleitung initiiert und etablier
 „Geschäftsprozesse [der Behörde]“ durch „Fachaufgaben“ ergänzt.
 
 ##### ISMS.1.A3
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### ISMS.1.A4
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### ISMS.1.A5
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### ISMS.1.A6
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### ISMS.1.A7
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### ISMS.1.A8
 _Satzteil gestrichen:_\
 Sie MÜSSEN in die Lage versetzt werden, Sicherheit aktiv mitzugestalten, ~~also in ihre Geschäftsprozesse mit einzubringen.~~
 
 ##### ISMS.1.A9
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 #### Standard-Anforderungen
 
 ##### ISMS.1.A10
@@ -53,24 +53,24 @@ _Satzteil gestrichen:_\
 (...) ~~um das weitere Vorgehen im Sicherheitsprozess steuern zu können.~~
 
 ##### ISMS.1.A12
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### ISMS.1.A13
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### ISMS.1.A14
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### ISMS.1.A15
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 ##### ISMS.1.A16
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### ISMS.1.A17
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 </details>
 
@@ -123,7 +123,7 @@ Die Dokumentation der Berechtigungen MUSS aktuell und vollständig sein.~~
 #### Standard-Anforderungen
 
 ##### ORP.1.A6
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### ORP.1.A7
 __Änderung:__\
@@ -134,22 +134,22 @@ Dazu SOLLTEN neben IT-Systemen und ICS-Komponenten auch Geräte aus dem Bereich 
 Vor der ersten Inbetriebnahme der Geräte SOLLTEN geeignete Prüf- und Genehmigungsverfahren vorgeschaltet werden.
 
 ##### ORP.1.A8
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### ORP.1.A9
 _Anforderung entfallen._
 
 ##### ORP.1.A10
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### ORP.1.A11
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### ORP.1.A12
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### ORP.1.A13
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
@@ -187,7 +187,7 @@ __Änderung:__\
 Es MUSS sichergestellt werden, dass die Vertretung über das dafür nötige Wissen verfügt.
 
 ##### ORP.2.A4
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### ORP.2.A5
 "institutionsinternen" _ersetzt_ "organisationsinternen"
@@ -195,24 +195,24 @@ _Keine inhaltlichen Änderungen._
 #### Standard-Anforderungen
 
 ##### ORP.2.A6
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### ORP.2.A7
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### ORP.2.A8
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### ORP.2.A9
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### ORP.2.A10
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 ##### ORP.2.A11
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### ORP.2.A12
 __Änderung:__\
@@ -221,7 +221,7 @@ __zu:__\
 Für die Mitarbeiter SOLLTE eine Vertrauensperson als Ansprechpartner benannt werden.
 
 ##### ORP.2.A13
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 </details>
 
@@ -236,7 +236,7 @@ _Keine inhaltlichen Änderungen._
 "Management" _ersetzt durch_ "Institutsleitung"
 
 ##### ORP.3.A2
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### ORP.3.A3
 _Anforderung entfallen_
@@ -244,10 +244,10 @@ _Anforderung entfallen_
 #### Standard-Anforderungen
 
 ##### ORP.3.A4
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### ORP.3.A5
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### ORP.3.A6
 __Änderung:__\
@@ -294,10 +294,10 @@ ORP.4.A1 Regelung für die Einrichtung und Löschung von Benutzern und Benutzerg
 Alle Benutzer und Benutzergruppen DÜRFEN NUR über separate administrative Rollen eingerichtet und gelöscht werden.
 
 ##### ORP.4.A2
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### ORP.4.A3
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### ORP.4.A4
 __Änderung:__\
@@ -341,7 +341,7 @@ Die Nutzung eines Passwort-Managers SOLLTE geprüft werden.
 Ein Passwort MUSS gewechselt werden, wenn es unautorisierten Personen bekannt geworden ist oder der Verdacht dazu besteht.
 
 ##### ORP.4.A9
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NEU: ORP.4.A22
 ORP.4.A22 Regelung zur Passwortqualität [IT-Betrieb] (B)
@@ -372,7 +372,7 @@ __zu:__\
 Benutzerkennungen mit weitreichenden Berechtigungen SOLLTEN mit einer Mehr-Faktor-Authentisierung, z. B. mit kryptografischen Zertifikaten, Chipkarten oder Token geschützt werden.
 
 ##### ORP.4.A11
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### ORP.4.A12
 __Änderung:__\
@@ -381,25 +381,25 @@ __zu:__\
 Authentisierungsinformationen MÜSSEN kryptografisch sicher übertragen und gespeichert werden.
 
 ##### ORP.4.A13
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### ORP.4.A14
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### ORP.4.A15
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### ORP.4.A16
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### ORP.4.A17
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### ORP.4.A18
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### ORP.4.A19
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
@@ -411,7 +411,7 @@ Es SOLLTEN Vorkehrungen getroffen werden, um bei einem ausgefallenen Identitäts
 Insbesondere SOLLTE das im Notfallkonzept vorgesehene Berechtigungskonzept weiterhin anwendbar sein, wenn das Identitäts- und Berechtigungsmanagement-System ausgefallen ist.
 
 ##### ORP.4.A21
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 </details>
 
@@ -426,10 +426,10 @@ _Keine inhaltlichen Änderungen._
 "Sicherheitsmanagement" _ersetzt durch_ "Informationssicherheitsmanagement"
 
 ##### ORP.5.A2
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### ORP.5.A3
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Standard-Anforderungen
 
@@ -448,7 +448,7 @@ __zu:__\
 Es SOLLTE eine Übersicht über alle erteilten Ausnahmegenehmigungen erstellt und gepflegt werden.
 
 ##### ORP.5.A6
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### ORP.5.A7
 _Anforderung entfallen_
@@ -479,18 +479,18 @@ ___
 #### Basis-Anforderungen
 
 ##### CON.1.A1
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### CON.1.A2
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Standard-Anforderungen
 
 ##### CON.1.A3
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### CON.1.A4
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### CON.1.A5
 _Entfallen:_ Auf Produkte mit unkontrollierbarer Schlüsselablage SOLLTE generell verzichtet werden.
@@ -509,25 +509,25 @@ Diese SOLLTEN durch den IT-Betrieb geeignet kryptografisch abgesichert werden.
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 ##### CON.1.A7
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### CON.1.A8
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### CON.1.A9
 _Ergänzt:_ Auf Produkte mit unkontrollierbarer Schlüsselablage SOLLTE generell verzichtet werden.
 
 ##### CON.1.A10
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### CON.1.A11
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### CON.1.A12
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### CON.1.A13
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### CON.1.A14
 __Änderung:__\
@@ -536,7 +536,7 @@ __zu:__\
 Die Administratoren SOLLTEN zudem gezielt dazu geschult werden, wie die Kryptomodule zu administrieren sind.
 
 ##### CON.1.A15
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### CON.1.A16
 __Änderung:__\
@@ -545,10 +545,10 @@ __zu:__\
 Der Leiter IT SOLLTE sicherstellen, dass nicht (...)
 
 ##### CON.1.A17
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### CON.1.A18
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 </details>
 
@@ -670,7 +670,7 @@ _Ergänzt:_\
 • (Verschlüsselung der Daten) auf dem Online-Speicher sowie
 
 ##### CON.3.A10
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### CON.3.A11
 __Änderung:__\
@@ -706,27 +706,27 @@ Um die Vertraulichkeit und Integrität der gesicherten Daten zu gewährleisten, 
 #### Basis-Anforderungen
 
 ##### CON.4.A1
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### CON.4.A2
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### CON.4.A3
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Standard-Anforderungen
 
 ##### CON.4.A4
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### CON.4.A5
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### CON.4.A6
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### CON.4.A7
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### CON.4.A8
 __Änderung:__\
@@ -736,18 +736,18 @@ Lizenzpflichtige Standardsoftware-Produkte, die auf IT-Systemen der Institution 
 Die Lizenzen SOLLTEN die tatsächliche Nutzeranzahl und den Einsatzzweck abdecken.
 
 ##### CON.4.A9
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 ##### CON.4.A10
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### CON.4.A11
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### CON.4.A12
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 </details>
 
@@ -789,13 +789,13 @@ _Anforderung entfallen_
 #### Standard-Anforderungen
 
 ##### CON.5.A6
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### CON.5.A7
 _Anforderung entfallen_
 
 ##### CON.5.A8
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### CON.5.A9
 __Änderung:__\
@@ -812,7 +812,7 @@ _Diese Anforderung wurde aus dem erhöhten Schutzbedarf in die Standard-Anforder
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 ##### CON.5.A12
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### CON.5.A13
 __Änderung:__\
@@ -832,38 +832,38 @@ Das Redundanzkonzept SOLLTE zwischen dem IT-Betrieb und dem Notfallbeauftragten 
 #### Basis-Anforderungen
 
 ##### CON.6.A1
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### CON.6.A2
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Standard-Anforderungen
 
 ##### CON.6.A3
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### CON.6.A4
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### CON.6.A5
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### CON.6.A6
 _Entfallen:_ ~~Dabei SOLLTE nach den Anforderungen des Bausteins ORP.3 Sensibilisierung und Schulung vorgegangen werden.~~
 
 ##### CON.6.A7
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### CON.6.A8
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 ##### CON.6.A9
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### CON.6.A10
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### CON.6.A11
 _Entfallen:_ ~~Zudem SOLLTEN die in OPS.2.1 Outsourcing für Kunden beschriebenen generellen Anforderungen an Dienstleister und deren Mitarbeiter umgesetzt werden.~~
@@ -881,43 +881,43 @@ _Entfallen:_ ~~Zudem SOLLTEN die in OPS.2.1 Outsourcing für Kunden beschriebene
 _Ergänzung:_ Die Umsetzung des Sicherheitskonzeptes MUSS regelmäßig überprüft werden.
 
 ##### CON.7.A2
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### CON.7.A3
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### CON.7.A4
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### CON.7.A5
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### CON.7.A6
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### CON.7.A7
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### CON.7.A8
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### CON.7.A9
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### CON.7.A10
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### CON.7.A11
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### CON.7.A12
 _Entfallen:_ Insbesondere im Ausland können Dokumente und andere schutzbedürftige Datenträger nicht immer sicher entsorgt werden.
 
 ##### CON.7.A13
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### CON.7.A14
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
@@ -926,13 +926,13 @@ __Änderung:__\
 Die Institution SOLLTE prüfen, ob die mitgeführten Informationen einen besonderen Schutzbedarf haben, und entsprechend abstrahlarme bzw. -sichere Datenträger und Clients einsetzen.
 
 ##### CON.7.A16
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### CON.7.A17
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### CON.7.A18
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 </details>
 
@@ -966,13 +966,13 @@ __Entfallen:__\
 Diese Anforderungen MÜSSEN auch dann erfüllt werden, wenn administrative Aufgaben an Dritte übertragen werden.
 
 ##### OPS.1.1.2.A2
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.1.1.2.A3
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.1.1.2.A4
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.1.1.2.A5
 __Änderung:__\
@@ -993,23 +993,23 @@ Jeder Anmeldevorgang über eine Administrationskennung (Login) MUSS protokollier
 #### Standard-Anforderungen
 
 ##### OPS.1.1.2.A7
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.1.1.2.A8
 _Ergänzung:_\
 Dabei SOLLTEN die Bedürfnisse des Fachbereichs berücksichtigt werden.
 
 ##### OPS.1.1.2.A9
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.1.1.2.A10
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.1.1.2.A11
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.1.1.2.A12
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.1.1.2.A13
 _Anforderung entfallen._#
@@ -1017,10 +1017,10 @@ _Anforderung entfallen._#
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 ##### OPS.1.1.2.A14
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.1.1.2.A15
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.1.1.2.A16
 __Änderung:__\
@@ -1029,10 +1029,10 @@ Oberflächen und Schnittstellen SOLLTEN für Personen außerhalb der zuständige
 Auf IT-Systeme in anderen Schutzzonen SOLLTE ausschließlich über einen Sprungserver in der jeweiligen Sicherheitszone administrativ zugegriffen werden.
 
 ##### OPS.1.1.2.A17
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.1.1.2.A18
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.1.1.2.A19
 _Entfallen:_ Dies erfordert im Regelfall eine umfassende Hochverfügbarkeitsplanung.
@@ -1047,10 +1047,10 @@ _Entfallen:_ Dies erfordert im Regelfall eine umfassende Hochverfügbarkeitsplan
 #### Basis-Anforderungen
 
 ##### OPS.1.1.3.A1
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.1.1.3.A2
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.1.1.3.A3
 _Entfallen:_ (...) um den Vorgaben aus dem Konzept zum Patchmanagement gerecht zu werden.
@@ -1058,39 +1058,39 @@ _Entfallen:_ (...) um den Vorgaben aus dem Konzept zum Patchmanagement gerecht z
 #### Standard-Anforderungen
 
 ##### OPS.1.1.3.A4
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.1.1.3.A5
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.1.1.3.A6
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.1.1.3.A7
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.1.1.3.A8
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.1.1.3.A9
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.1.1.3.A10
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.1.1.3.A11
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 ##### OPS.1.1.3.A12
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.1.1.3.A13
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.1.1.3.A14
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 </details>
 
@@ -1106,51 +1106,51 @@ _Ergänzung:_\
 (Das Konzept SOLLTE nachvollziehbar dokumentiert) und aktuell gehalten werden.
 
 ##### OPS.1.1.4.A2
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.1.1.4.A3
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.1.1.4.A4
 __Änderung:__\
 An das Produkt für Gateways und IT-Systeme zum Datenaustausch MÜSSEN die gleichen Forderungen wie an Endgeräte gestellt werden (siehe OPS.1.1.4.A3 Auswahl eines Virenschutzprogramms für Endgeräte).
 
 ##### OPS.1.1.4.A5
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.1.1.4.A6
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.1.1.4.A7
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Standard-Anforderungen
 
 ##### OPS.1.1.4.A8
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.1.1.4.A9
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 ##### OPS.1.1.4.A10
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.1.1.4.A11
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.1.1.4.A12
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.1.1.4.A13
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.1.1.4.A14
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.1.1.4.A15
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 </details>
 
@@ -1162,19 +1162,19 @@ _Keine inhaltlichen Änderungen._
 #### Basis-Anforderungen
 
 ##### OPS.1.1.5.A1
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.1.1.5.A2
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.1.1.5.A3
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.1.1.5.A4
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.1.1.5.A5
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Standard-Anforderungen
 
@@ -1184,28 +1184,28 @@ Die Protokollierungsinfrastruktur SOLLTE ausreichend dimensioniert sein.
 Die Möglichkeit einer Skalierung im Sinne einer erweiterten Protokollierung SOLLTE berücksichtigt werden.
 
 ##### OPS.1.1.5.A7
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.1.1.5.A8
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.1.1.5.A9
 __Änderung:__\
 (...) ~~mithilfe einer Protokollierungsanwendung~~ (...)
 
 ##### OPS.1.1.5.A10
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 ##### OPS.1.1.5.A11
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.1.1.5.A12
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.1.1.5.A13
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 </details>
 
@@ -1220,13 +1220,13 @@ _Keine inhaltlichen Änderungen._
 _Ergänzung:_\ (...) und diese möglichst vollständig abdecken.
 
 ##### OPS.1.1.6.A2
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.1.1.6.A3
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.1.1.6.A4
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.1.1.6.A5
 __Änderung:__\
@@ -1236,26 +1236,26 @@ Die durchgeführten Testfälle, sowie die Testergebnisse, MÜSSEN dokumentiert w
 #### Standard-Anforderungen
 
 ##### OPS.1.1.6.A6
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.1.1.6.A7
 _Ergänzung:_\
 Darüber hinaus SOLLTE eine entsprechende Rollentrennung erfolgen, sodass Quellcode nicht ausschließlich von Testern überprüft wird, die an der Erstellung des Quellcodes beteiligt waren.
 
 ##### OPS.1.1.6.A8
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.1.1.6.A9
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.1.1.6.A10
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.1.1.6.A11
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.1.1.6.A12
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.1.1.6.A13
 __Änderung:__ ~~"Testlandschaft" und "Qualitätsmanagement-Umgebung"~~ _zu:_ "Test- und Qualitätsmanagement-Umgebung"
@@ -1263,7 +1263,7 @@ __Änderung:__ ~~"Testlandschaft" und "Qualitätsmanagement-Umgebung"~~ _zu:_ "T
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 ##### OPS.1.1.6.A14
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 </details>
 
@@ -1275,51 +1275,51 @@ _Keine inhaltlichen Änderungen._
 #### Basis-Anforderungen
 
 ##### OPS.1.2.2.A1
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.1.2.2.A2
 __Änderung:__ "Management" _zu_ "Institutionsleitung"
 
 ##### OPS.1.2.2.A3
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.1.2.2.A4
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.1.2.2.A5
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.1.2.2.A6
 __Änderung:__ Mittlere und große Archive SOLLTEN über redundante Indexdatenbanken verfügen.
 
 ##### OPS.1.2.2.A7
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.1.2.2.A8
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.1.2.2.A9
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Standard-Anforderungen
 
 ##### OPS.1.2.2.A10
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.1.2.2.A11
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.1.2.2.A12
 __Änderung:__ Die auf den Archivmedien vorhandene freie Speicherkapazität SOLLTE kontinuierlich überwacht werden.
 
 ##### OPS.1.2.2.A13
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.1.2.2.A14
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.1.2.2.A15
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.1.2.2.A16
 _Ergänzung:_\
@@ -1357,38 +1357,38 @@ _OPS.1.2.3 ist vollständig entfallen._
 #### Basis-Anforderungen
 
 ##### OPS.1.2.4.A1
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.1.2.4.A2
 __Änderung:__\
 Alle Zugangsmöglichkeiten auf die Server der Institution sowie alle Zugriffsrechte auf die darauf gespeicherten Informationen MÜSSEN auf das notwendige Mindestmaß beschränkt sein.
 
 ##### OPS.1.2.4.A3
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.1.2.4.A4
 __Änderung:__\
 Alle Daten, die bei der Telearbeit erstellt und bearbeitet werden, MÜSSEN zeitnah gesichert werden.
 
 ##### OPS.1.2.4.A5
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Standard-Anforderungen
 
 ##### OPS.1.2.4.A6
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.1.2.4.A7
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.1.2.4.A8
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.1.2.4.A9
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.1.2.4.A10
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 </details>
 
@@ -1405,42 +1405,42 @@ _OPS.1.2.5.A1 - OPS.1.2.5.A23 sind in 2020 ergänzt worden._
 #### Basis-Anforderungen
 
 ##### OPS.2.1.A1
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Standard-Anforderungen
 
 ##### OPS.2.1.A2
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.2.1.A3
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.2.1.A4
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.2.1.A5
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.2.1.A6
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.2.1.A7
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.2.1.A8
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.2.1.A9
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.2.1.A10
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.2.1.A11
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.2.1.A12
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NEU OPS.2.1.A13
 _Diese Anforderung wurde ergänzt._
@@ -1469,36 +1469,36 @@ _In diesen Anforderungen wurde der Begriff_ "Institution" _weitestgehend durch_ 
 #### Basis-Anforderungen
 
 ##### OPS.2.2.A1
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.2.2.A2
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.2.2.A3
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.2.2.A4
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Standard-Anforderungen
 
 ##### OPS.2.2.A5
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.2.2.A6
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.2.2.A7
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.2.2.A8
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.2.2.A9
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.2.2.A10
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.2.2.A11
 _Ergänzung:_ Für die genutzten Cloud-Dienste SOLLTE durch den Cloud-Kunden ein Notfallkonzept erstellt werden.
@@ -1509,7 +1509,7 @@ _Ergänzung:_ Alle für die eingesetzten Cloud-Dienste erstellten Dokumentatione
 __Änderung:__ Auch SOLLTEN sich der Cloud-Diensteanbieter und der Cloud-Kunde nach Möglichkeit regelmäßig abstimmen.
 
 ##### OPS.2.2.A13
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.2.2.A14
 _Ergänzung:_ (...) oder die Fachaufgaben des Cloud-Kunden (...)
@@ -1517,19 +1517,19 @@ _Ergänzung:_ (...) oder die Fachaufgaben des Cloud-Kunden (...)
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 ##### OPS.2.2.A15
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.2.2.A16
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.2.2.A17
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.2.2.A18
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.2.2.A19
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 </details>
 
@@ -1546,56 +1546,56 @@ _Diese Anforderungen sind entfallen._
 #### Basis-Anforderungen
 
 ##### OPS.3.1.A1
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Standard-Anforderungen
 
 ##### OPS.3.1.A2
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.3.1.A3
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.3.1.A4
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.3.1.A5
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.3.1.A6
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.3.1.A7
 __Änderung:__ "Mandantenkonzept" _ersetzt durch_ "Mandantentrennungskonzept"
 
 ##### OPS.3.1.A8
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.3.1.A9
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.3.1.A10
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.3.1.A11
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.3.1.A12
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.3.1.A13
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.3.1.A14
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### OPS.3.1.A15
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 ##### OPS.3.1.A16
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 </details>
 
@@ -1609,16 +1609,16 @@ ___
 #### Basis-Anforderungen
 
 ##### DER.1.A1
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.1.A2
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.1.A3
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.1.A4
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.1.A5
 __Änderung:__ Liegt ein sicherheitsrelevanter Vorfall vor, MÜSSEN die Meldungen der betroffenen IT-Systeme ausgewertet werden.
@@ -1626,25 +1626,25 @@ __Änderung:__ Liegt ein sicherheitsrelevanter Vorfall vor, MÜSSEN die Meldunge
 #### Standard-Anforderungen
 
 ##### DER.1.A6
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.1.A7
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.1.A8
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.1.A9
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.1.A10
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.1.A11
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.1.A12
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.1.A13
 __Änderung:__ (...) in regelmäßigen Audits (...)
@@ -1652,19 +1652,19 @@ __Änderung:__ (...) in regelmäßigen Audits (...)
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 ##### DER.1.A14
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.1.A15
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.1.A16
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.1.A17
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.1.A18
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 </details>
 
@@ -1677,19 +1677,19 @@ _Keine inhaltlichen Änderungen._
 #### Basis-Anforderungen
 
 ##### DER.2.1.A1
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.2.1.A2
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.2.1.A3
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.2.1.A4
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.2.1.A5
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.2.1.A6
 __Änderung:__\
@@ -1698,51 +1698,51 @@ Nach einem Angriff MÜSSEN alle Zugangsdaten auf den betroffenen Komponenten ge�
 #### Standard-Anforderungen
 
 ##### DER.2.1.A7
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.2.1.A8
 _Ergänzung:_ Gegebenenfalls SOLLTE das Sicherheitsvorfall-Team neu zusammengestellt werden.
 
 ##### DER.2.1.A9
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.2.1.A10
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.2.1.A11
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.2.1.A12
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.2.1.A13
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.2.1.A14
 _Ergänzung:_ (...) wie z. B. Ticket-Systeme (...)
 
 ##### DER.2.1.A15
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.2.1.A16
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.2.1.A17
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.2.1.A18
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 ##### DER.2.1.A19
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.2.1.A20
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.2.1.A21
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.2.1.A22
 __Änderung:__\
@@ -1763,51 +1763,51 @@ __Entfallen:__\
 Im Einzelfall kann es jedoch notwendig sein, das Interesse der Institution gegen das der Mitarbeiter abzuwägen.
 
 ##### DER.2.2.A2
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.2.2.A3
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Standard-Anforderungen
 
 ##### DER.2.2.A4
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.2.2.A5
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.2.2.A6
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.2.2.A7
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.2.2.A8
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.2.2.A9
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.2.2.A10
 __Änderung:__\
 Es SOLLTEN schriftlich dokumentierte kryptografische Prüfsummen von den Datenträgern angelegt werden.
 
 ##### DER.2.2.A11
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.2.2.A12
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 ##### DER.2.2.A13
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.2.2.A14
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.2.2.A15
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 </details>
 
@@ -1820,38 +1820,38 @@ _Keine inhaltlichen Änderungen._
 #### Basis-Anforderungen
 
 ##### DER.2.3.A1
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.2.3.A2
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.2.3.A3
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.2.3.A4
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.2.3.A5
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.2.3.A6
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Standard-Anforderungen
 
 ##### DER.2.3.A7
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.2.3.A8
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 ##### DER.2.3.A9
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.2.3.A10
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 </details>
 
@@ -1868,18 +1868,18 @@ __Änderung:__\
 Der Verantwortliche MUSS sicherstellen, dass die Ergebnisse der Audits und Revisionen dazu verwendet werden, um die Sicherheitsmaßnahmen zu verbessern.
 
 ##### DER.3.1.A2
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.3.1.A3
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.3.1.A4
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Standard-Anforderungen
 
 ##### DER.3.1.A5
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.3.1.A6
 __Änderung:__ Die Institution SOLLTE eine einheitliche Prüfungsgrundlage für Audits festlegen.
@@ -1896,68 +1896,68 @@ __Änderung:__\
 Der ISB SOLLTE eine oder mehrere Revisionslisten pflegen, die den aktuellen Stand der Revisionsobjekte sowie die geplanten Revisionen dokumentieren.
 
 ##### DER.3.1.A9
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.3.1.A10
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.3.1.A11
 __Änderung:__ Das Auditteam SOLLTE klare Regelungen (...)
 __Änderung:__ Das Auditteam SOLLTE durch geeignete Maßnahmen (...)
 
 ##### DER.3.1.A12
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.3.1.A13
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.3.1.A14
 __Änderung:__"Maßnahmen" _ersetz durch_ "Anforderungen"
 
 ##### DER.3.1.A15
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.3.1.A16
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.3.1.A17
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.3.1.A18
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.3.1.A19
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.3.1.A20
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.3.1.A21
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.3.1.A22
 __Entfallen:__\
 Die Ergebnisse des Audits SOLLTEN den Verantwortlichen in einer Präsentation erläutert werden.
 
 ##### DER.3.1.A23
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.3.1.A24
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.3.1.A25
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.3.1.A26
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.3.1.A27
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 ##### DER.3.1.A28
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 </details>
 
@@ -1970,30 +1970,30 @@ _Keine inhaltlichen Änderungen._
 #### Basis-Anforderungen
 
 ##### DER.3.2.A1
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.3.2.A2
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.3.2.A3
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.3.2.A4
 __Änderung:__\
 Wenn die Institution nicht nach ISO 27001 auf Basis von IT-Grundschutz zertifiziert ist, MÜSSEN der Verantwortliche für die IS-Revision und die Institutionsleitung sicherstellen, dass mindestens alle drei Jahre eine IS-Kurz- oder Querschnitts-Revision durchgeführt wird.
 
 ##### DER.3.2.A5
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.3.2.A6
 __Entfallen:__\
 Die Institutionsleitung MUSS das IS-Revisionsverfahren initiieren.
 
 ##### DER.3.2.A7
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.3.2.A8
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Standard-Anforderungen
 
@@ -2002,40 +2002,40 @@ __Änderung:__\
 Der Informationssicherheitsbeauftragte SOLLTE sicherstellen, dass IS-Revisionen ein Teil des Sicherheitsprozesses sind.
 
 ##### DER.3.2.A10
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.3.2.A11
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.3.2.A12
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.3.2.A13
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.3.2.A14
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.3.2.A15
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.3.2.A16
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.3.2.A17
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.3.2.A18
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.3.2.A19
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.3.2.A20
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.3.2.A21
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.3.2.A22
 __Änderung:__\
@@ -2044,7 +2044,7 @@ Die im IS-Revisionsbericht festgestellten Abweichungen SOLLTEN in einer angemess
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 ##### DER.3.2.A23
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 </details>
 
@@ -2057,7 +2057,7 @@ _Keine inhaltlichen Änderungen._
 #### Standard-Anforderungen
 
 ##### DER.4.A1
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.4.A2
 __Änderung:__\
@@ -2066,37 +2066,37 @@ DER.4.A2 Integration von Notfallmanagement und Informationssicherheitsmanagement
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 ##### DER.4.A3
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.4.A4
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.4.A5
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.4.A6
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.4.A7
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.4.A8
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.4.A9
 _Ergänzung:_ (...) und Fachaufgaben (...)
 
 ##### DER.4.A10
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### ENTFALLEN: DER.4.A11
 _Diese Anforderung ist entfallen._
 
 ##### DER.4.A12
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.4.A13
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### DER.4.A14
 _Ergänzung:_\
@@ -2107,7 +2107,7 @@ __Änderung:__\
 Diese Messgrößen SOLLTEN regelmäßig ermittelt und mit geeigneten vorangegangenen Werten, mindestens aber mit den Vorjahreswerten, verglichen werden.
 
 ##### DER.4.A16
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 </details>
 
@@ -2121,16 +2121,16 @@ ___
 #### Basis-Anforderungen
 
 ##### APP.1.1.A1
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.1.1.A2
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.1.1.A3
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.1.1.A4
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Standard-Anforderungen
 
@@ -2138,7 +2138,7 @@ _Keine inhaltlichen Änderungen._
 3.2 Standard-Anforderungen
 
 ##### APP.1.1.A6
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.1.1.A7
 _Ergänzung:_\
@@ -2149,31 +2149,31 @@ __Entfallen:__\
 Darüber hinaus SOLLTEN die verschiedenen Konfigurationen der installierten Office-Produkte dokumentiert werden.
 
 ##### APP.1.1.A9
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.1.1.A10
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.1.1.A11
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.1.1.A12
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.1.1.A13
 __Änderung:__\
 Es SOLLTE eine Liste vertrauenswürdiger Orte definiert werden, von denen Inhalte unmittelbar geöffnet und bearbeitet werden können.
 
 ##### APP.1.1.A14
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 ##### APP.1.1.A15
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.1.1.A16
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 </details>
 
@@ -2190,42 +2190,42 @@ _Ergänzung:_\
 Der verwendete Webbrowser SOLLTE die aktuelle Version der Content Security Policy (CSP) gemäß den Spezifikationen des World Wide Web Consortium (W3C) umsetzen.
 
 ##### APP.1.2.A2
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.1.2.A3
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.1.2.A4
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Standard-Anforderungen
 
 ##### APP.1.2.A5
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.1.2.A6
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.1.2.A7
 __Änderung:__\
 APP.1.2.A7 Datensparsamkeit in Webbrowsern [Benutzer] (S)
 
 ##### APP.1.2.A8
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 ##### APP.1.2.A9
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.1.2.A10
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.1.2.A11
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.1.2.A12
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 </details>
 
@@ -2242,50 +2242,50 @@ __Änderung:__\
 (...) unter Einbeziehung der jeweiligen Fachverantwortlichen (...)
 
 ##### APP.1.4.A2
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.1.4.A3
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.1.4.A4
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.1.4.A5
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.1.4.A6
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.1.4.A7
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.1.4.A8
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Standard-Anforderungen
 
 ##### APP.1.4.A9
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.1.4.A10
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.1.4.A11
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.1.4.A12
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 ##### APP.1.4.A13
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.1.4.A14
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.1.4.A15
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 </details>
 
@@ -2298,57 +2298,57 @@ _Keine inhaltlichen Änderungen._
 #### Basis-Anforderungen
 
 ##### APP.2.1.A1
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.2.1.A2
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.2.1.A3
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.2.1.A4
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.2.1.A5
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.2.1.A6
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Standard-Anforderungen
 
 ##### APP.2.1.A7
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.2.1.A8
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.2.1.A9
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.2.1.A10
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.2.1.A11
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.2.1.A12
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.2.1.A13
 __Entfallen:__\
 (...) dies gilt insbesondere bei Außenanbindungen.
 
 ##### APP.2.1.A14
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.2.1.A15
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 ##### APP.2.1.A16
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 </details>
 
@@ -2361,53 +2361,53 @@ _Keine inhaltlichen Änderungen._
 #### Basis-Anforderungen
 
 ##### APP.2.2.A1
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.2.2.A2
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.2.2.A3
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.2.2.A4
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.2.2.A5
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.2.2.A6
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.2.2.A7
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Standard-Anforderungen
 
 ##### APP.2.2.A8
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.2.2.A9
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.2.2.A10
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.2.2.A11
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.2.2.A12
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 ##### APP.2.2.A13
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.2.2.A14
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.2.2.A15
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 </details>
 
@@ -2420,46 +2420,46 @@ _Keine inhaltlichen Änderungen._
 #### Basis-Anforderungen
 
 ##### APP.2.3.A1
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.2.3.A2
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.2.3.A3
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.2.3.A4
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.2.3.A5
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.2.3.A6
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Standard-Anforderungen
 
 ##### APP.2.3.A7
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.2.3.A8
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.2.3.A9
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.2.3.A10
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.2.3.A11
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.2.3.A12
 _Ergänzung:_\
 Dabei SOLLTEN institutionsinterne Vorgaben beachtet werden.
 
 ##### APP.2.3.A13
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 </details>
 
@@ -2569,7 +2569,7 @@ __Änderung:__\
 Beim Einsatz eines Enterprise Service Bus (ESB) SOLLTE ein eigenes logisches Netzsegment für den ESB vorhanden sein.
 
 ##### APP.3.1.A12
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.3.1.A13
 __Entfallen:__\
@@ -2588,7 +2588,7 @@ _Ergänzung:_\
 Falls dies nicht möglich ist, SOLLTE die Anwendung auf andere geeignete Weise sicherstellen, dass sich der Benutzer authentisiert.
 
 ##### APP.3.1.A17
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.3.1.A18 ENTFALLEN
 _Diese Anforderung ist entfallen._
@@ -2600,7 +2600,7 @@ Dazu SOLLTEN mindestens die folgenden Direktiven verwendet werden: Content-Secur
 Cookies SOLLTEN grundsätzlich mit den Attributen secure und httponly gesetzt werden.
 
 ##### APP.3.1.A22
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.3.1.A23
 __Änderung:__\
@@ -2629,7 +2629,7 @@ Entwickler und Betreiber einer Webanwendung SOLLTEN sicherstellen, dass vertraul
 #### Basis-Anforderungen
 
 ##### APP.3.2.A1
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.3.2.A2
 __Änderung:__\
@@ -2647,7 +2647,7 @@ Zudem MÜSSEN Dokumente von Restinformationen bereinigt werden.
 Abrufbare Dateien MÜSSEN auf einer separaten Partition der Festplatte gespeichert sein.
 
 ##### APP.3.2.A4
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.3.2.A5
 __Änderung:__\
@@ -2657,7 +2657,7 @@ Wenn sich Clients mit Hilfe von Passwörtern am Webserver authentisieren, MÜSSE
 _Diese Anforderung ist entfallen._
 
 ##### APP.3.2.A7
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.3.2.A11 (Aktualisiert: Basis-Anforderung)
 Der Webserver MUSS für alle Verbindungen durch nicht vertrauenswürdige Netze eine sichere Verschlüsselung über TLS anbieten (HTTPS).
@@ -2668,10 +2668,10 @@ Sogenannter Mixed Content DARF NICHT verwendet werden.
 #### Standard-Anforderungen
 
 ##### APP.3.2.A8
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.3.2.A9
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.3.2.A10
 __Entfallen:__\
@@ -2688,13 +2688,13 @@ Die Fehlermeldung SOLLTE ein eindeutiges Merkmal enthalten, das es Administrator
 Bei unerwarteten Fehlern SOLLTE sichergestellt sein, dass der Webserver nicht in einem Zustand verbleibt, in dem er anfällig für Angriffe ist.
 
 ##### APP.3.2.A13
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.3.2.A14
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.3.2.A16
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NEU: APP.3.2.A20
 APP.3.2.A20 Benennung von Ansprechpartnern [Fachverantwortliche, Leiter IT] (S)\
@@ -2706,10 +2706,10 @@ Für die Behandlung von externen Sicherheitsmeldungen SOLLTE die Institution Pro
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 ##### APP.3.2.A17
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.3.2.A18
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.3.2.A19 ENTFALLEN
 _Diese Anforderung ist entfallen._
@@ -2739,7 +2739,7 @@ Alle Daten MÜSSEN durch ein Viren-Schutzprogramm auf Schadsoftware untersucht w
 _Diese Anforderung ist entfallen._
 
 ##### APP.3.3.A5
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.3.3.A15 (Aktualisiert: Basis-Anforderung)
 
@@ -2849,17 +2849,17 @@ __Entfallen:__\
 Wird Samba als primärer AD DC verwendet, SOLLTE der DNS-Dienst auf dem Samba-Server installiert und sorgfältig konfiguriert werden.
 
 ##### APP.3.4.A8
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.3.4.A9
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.3.4.A10
 __Änderung:__\
 Sofern IPv6 eingesetzt wird, SOLLTEN erforderliche Besonderheiten berücksichtigt werden.
 
 ##### APP.3.4.A12
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.3.4.A13
 __Entfallen:__\
@@ -2871,7 +2871,7 @@ _Diese Anforderung ist entfallen._
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 ##### APP.3.4.A15
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 </details>
 
@@ -2884,74 +2884,74 @@ _Keine inhaltlichen Änderungen._
 #### Basis-Anforderungen
 
 ##### APP.3.6.A1
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.3.6.A2
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.3.6.A3
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.3.6.A4
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.3.6.A5 ENTFALLEN
 _Diese Anforderung ist entfallen._
 
 ##### APP.3.6.A6
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.3.6.A7
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.3.6.A8
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.3.6.A9
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Standard-Anforderungen
 
 ##### APP.3.6.A10
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.3.6.A11
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.3.6.A12
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.3.6.A13
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.3.6.A14
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.3.6.A15
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.3.6.A16
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.3.6.A17
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.3.6.A18
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.3.6.A19
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 ##### APP.3.6.A20
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.3.6.A21
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.3.6.A22
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 </details>
 
@@ -2964,102 +2964,102 @@ _Keine inhaltlichen Änderungen._
 #### Basis-Anforderungen
 
 ##### APP.4.2.A1
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.4.2.A2
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.4.2.A3
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.4.2.A4
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.4.2.A5
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.4.2.A6
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.4.2.A7
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.4.2.A8
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.4.2.A9
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.4.2.A10
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Standard-Anforderungen
 
 ##### APP.4.2.A11
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.4.2.A12
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.4.2.A13
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.4.2.A14
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.4.2.A15
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.4.2.A16
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.4.2.A17
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.4.2.A18
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.4.2.A19
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.4.2.A20
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.4.2.A21
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.4.2.A22
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.4.2.A23
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.4.2.A24
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.4.2.A25
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.4.2.A26
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.4.2.A27
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.4.2.A28
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.4.2.A29
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.4.2.A30
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.4.2.A31
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.4.2.A32
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 </details>
 
@@ -3072,83 +3072,83 @@ _Keine inhaltlichen Änderungen._
 #### Basis-Anforderungen
 
 ##### APP.4.3.A1
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.4.3.A2
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.4.3.A3
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.4.3.A4
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.4.3.A5
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.4.3.A6
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.4.3.A7
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.4.3.A8
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.4.3.A9
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Standard-Anforderungen
 
 ##### APP.4.3.A10
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.4.3.A11
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.4.3.A12
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.4.3.A13
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.4.3.A14
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.4.3.A15
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.4.3.A16
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.4.3.A17
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.4.3.A18
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.4.3.A19
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.4.3.A20
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 ##### APP.4.3.A21
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.4.3.A22
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.4.3.A23
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.4.3.A24
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.4.3.A25
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 </details>
 
@@ -3161,74 +3161,74 @@ _Keine inhaltlichen Änderungen._
 #### Basis-Anforderungen
 
 ##### APP.4.6.A1
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.4.6.A2
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.4.6.A3
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.4.6.A4
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Standard-Anforderungen
 
 ##### APP.4.6.A5
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.4.6.A6
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.4.6.A7
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.4.6.A8
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.4.6.A9
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.4.6.A10
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.4.6.A11
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.4.6.A12
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.4.6.A13
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.4.6.A14
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.4.6.A15
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.4.6.A16
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.4.6.A17
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.4.6.A18
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.4.6.A19
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.4.6.A20
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.4.6.A21
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 ##### APP.4.6.A22
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 </details>
 
@@ -3379,7 +3379,7 @@ _Diese Anforderung ist entfallen._
 _Diese Anforderung ist entfallen._
 
 ##### APP.5.1.A21
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 </details>
 
@@ -3398,7 +3398,7 @@ __Entfallen:__\
 • Integration der Server- und Client-Systeme in die hierfür vorgesehenen Netzsegmente.
 
 ##### APP.5.2.A2
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.5.2.A3
 __Änderung:__\
@@ -3471,7 +3471,7 @@ Zusätzlich zum allgemeinen Schulungs- und Sensibilisierungsprogramm SOLLTE die 
 Die Institution SOLLTE die Benutzer von Outlook regelmäßig entsprechend dem Konzept schulen.
 
 ##### APP.5.2.A15
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.5.2.A16 ENTFALLEN
 _Diese Anforderung ist entfallen._
@@ -3489,7 +3489,7 @@ Die Sicherheitsrichtlinie SOLLTE mindestens folgende Aspekte regeln:
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 ##### APP.5.2.A17
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### APP.5.2.A18 ENTFALLEN
 _Diese Anforderung ist entfallen._
@@ -3518,10 +3518,10 @@ Soweit möglich, SOLLTE dabei auf zentrale, netzbasierte Authentisierungsdienste
 Für sichere Passwörter SOLLTE es eine Passwort-Richtlinie geben.
 
 ##### SYS.1.1.A3
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.1.A4
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.1.A5
 __Entfallen:__\
@@ -3534,17 +3534,17 @@ Es MUSS gewährleistet werden, dass nur dafür vorgesehene Wechselspeicher und s
 Server DÜRFEN NICHT als Arbeitsplatzrechner genutzt werden.
 
 ##### SYS.1.1.A6
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.1.A7
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.1.A8
 _Ergänzung:_\
 Es MUSS regelmäßig getestet werden, ob die Datensicherung wie gewünscht funktioniert, vor allem, ob gesicherte Daten problemlos zurückgespielt werden können.
 
 ##### SYS.1.1.A9
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.1.A10
 _Ergänzung:_\
@@ -3557,73 +3557,73 @@ _Ergänzung:_\
 (...) in einer separaten Sicherheitsrichtlinie (...)
 
 ##### SYS.1.1.A12
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.1.A13
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.1.A14
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.1.A15
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.1.A16
 __Entfallen:__\
 Server SOLLTEN so aufgesetzt werden, dass bei der Installation ausschließlich die benötigten Dienste ausgewählt werden.
 
 ##### SYS.1.1.A17
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.1.A18
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.1.A19
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.1.A20
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.1.A21
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.1.A22
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.1.A23
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.1.A24
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.1.A25
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 ##### SYS.1.1.A26
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.1.A27
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.1.A28
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.1.A29
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.1.A30
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.1.A31
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.1.A32
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.1.A33
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NEU SYS.1.1.A34
 _Ergänzung:_\
@@ -3645,18 +3645,18 @@ Bei sehr hohen Anforderungen an die Vertraulichkeit oder Abstreitbarkeit SOLLTE 
 #### Basis-Anforderungen
 
 ##### SYS.1.2.2.A1
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.2.2.A2
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.2.2.A3
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Standard-Anforderungen
 
 ##### SYS.1.2.2.A4
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.2.2.A5
 _Ergänzung:_\
@@ -3671,27 +3671,27 @@ __Änderung:__\
 SYS.1.2.2.A7 Prüfung der Sicherheitskonfiguration von Windows Server 2012 (S)
 
 ##### SYS.1.2.2.A8
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.2.2.A9
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 ##### SYS.1.2.2.A10
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.2.2.A11
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.2.2.A12
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.2.2.A13
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.2.2.A14
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 </details>
 
@@ -3704,42 +3704,42 @@ _Keine inhaltlichen Änderungen._
 #### Basis-Anforderungen
 
 ##### SYS.1.3.A1
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.3.A2
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.3.A3
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.3.A4
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.3.A5
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Standard-Anforderungen
 
 ##### SYS.1.3.A6
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.3.A7 ENTFALLEN
 _Diese Anforderung ist entfallen._
 
 ##### SYS.1.3.A8
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.3.A9
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.3.A10
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.3.A11
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.3.A12
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
@@ -3747,16 +3747,16 @@ _Keine inhaltlichen Änderungen._
 _Diese Anforderung ist entfallen._
 
 ##### SYS.1.3.A14
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.3.A15
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.3.A16
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.3.A17
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 </details>
 
@@ -3769,16 +3769,16 @@ _Keine inhaltlichen Änderungen._
 #### Basis-Anforderungen
 
 ##### SYS.1.5.A1
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.5.A2
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.5.A3
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.5.A4
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.5.A5
 __Änderung:__\
@@ -3788,78 +3788,78 @@ __Änderung:__\
 Sollte dennoch auf unsichere Protokolle zurückgegriffen werden, (...)
 
 ##### SYS.1.5.A6
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.5.A7
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Standard-Anforderungen
 
 ##### SYS.1.5.A8
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.5.A9
 __Entfallen:__\
 Dafür SOLLTE der Baustein NET.1.1 Netzarchitektur und -design berücksichtigt werden.
 
 ##### SYS.1.5.A10
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.5.A11
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.5.A12
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.5.A13
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.5.A14
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.5.A15
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.5.A16
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.5.A17
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.5.A18
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.5.A19
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 ##### SYS.1.5.A20
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.5.A21
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.5.A22
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.5.A23
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.5.A24
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.5.A25
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.5.A26
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.5.A27
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.5.A28
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 </details>
 
@@ -3872,96 +3872,96 @@ _Keine inhaltlichen Änderungen._
 #### Basis-Anforderungen
 
 ##### SYS.1.7.A1
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.7.A2
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.7.A3
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.7.A4
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.7.A5
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.7.A6
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.7.A7
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.7.A8
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.7.A9
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.7.A10
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.7.A11
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Standard-Anforderungen
 
 ##### SYS.1.7.A12
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.7.A13
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.7.A14
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.7.A15
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.7.A16
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.7.A17
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.7.A18
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.7.A19
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.7.A20
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.7.A21
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.7.A22
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.7.A23
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.7.A24
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.7.A25
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.7.A26
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.7.A27
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.7.A28
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.7.A29
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.7.A30
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.7.A31
 __Entfallen:__\
@@ -3970,25 +3970,25 @@ Für den Fall, dass alle Kennungen mit SPECIAL-Rechten gesperrt sind oder dass i
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 ##### SYS.1.7.A32
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.7.A33
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.7.A34
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.7.A35
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.7.A36
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.7.A37
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.7.A38
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 </details>
 
@@ -4001,13 +4001,13 @@ _Keine inhaltlichen Änderungen._
 #### Basis-Anforderungen
 
 ##### SYS.1.8.A1
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.8.A2
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.8.A3
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.8.A4
 __Änderung:__\
@@ -4015,74 +4015,74 @@ Es SOLLTEN als sicher geltende Protokolle eingesetzt werden.
 Sollten dennoch unsichere Protokolle verwendet werden, MUSS für die Administration ein eigenes Administrationsnetz genutzt werden.
 
 ##### SYS.1.8.A5
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Standard-Anforderungen
 
 ##### SYS.1.8.A6
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.8.A7
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.8.A8
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.8.A9
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.8.A10
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.8.A11
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.8.A12
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.8.A13
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.8.A14
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.8.A15
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.8.A16
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.8.A17
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.8.A18
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.8.A19
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.8.A20
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 ##### SYS.1.8.A21
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.8.A22
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.8.A23
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.8.A24
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.8.A25
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.1.8.A26
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 </details>
 
@@ -4095,13 +4095,13 @@ _Keine inhaltlichen Änderungen._
 #### Basis-Anforderungen
 
 ##### SYS.2.1.A1
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.1.A2
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.1.A3
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.1.A4
 __Entfallen:__\
@@ -4109,77 +4109,77 @@ In den meisten Rechnersystemen können diese weitgehend automatisiert erfolgen.
 Es MÜSSEN Regelungen getroffen werden, welche lokal abgespeicherten Daten von wem wann gesichert werden.
 
 ##### SYS.2.1.A5
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.1.A6
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.1.A7
 _Ergänzung:_\
 Es SOLLTE geprüft werden, ob die Speicherung der Protokolldaten auf den jeweiligen Clients selbst ausreichend ist oder ob eine zentrale Speicherung erfolgen soll.
 
 ##### SYS.2.1.A8
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Standard-Anforderungen
 
 ##### SYS.2.1.A9
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.1.A10
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.1.A11
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.1.A12
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.1.A13
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.1.A14
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.1.A15
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.1.A16
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.1.A17
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.1.A18
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.1.A19
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.1.A20
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.1.A21
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.1.A22
 __Entfallen:__\
 Wenn technisch möglich, SOLLTE die Bildschirmsperre nach längerer Inaktivität automatisch aktiviert bzw. der Benutzer automatisch abgemeldet werden.
 
 ##### SYS.2.1.A23
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.1.A24
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.1.A25
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.1.A26
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.1.A27
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
@@ -4188,41 +4188,41 @@ _Ergänzung:_\
 (...) ohne den Nutzen der Verschlüsselung zu untergraben.
 
 ##### SYS.2.1.A29
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.1.A30
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.1.A31
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.1.A32
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.1.A33
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.1.A34
 _Ergänzung:_\
 (...) bzw. Daten aus unsicheren Quellen (...)
 
 ##### SYS.2.1.A35
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.1.A36
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.1.A37
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.1.A38
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.1.A39
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.1.A40
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.1.A41
 _Ergänzung:_\
@@ -4239,71 +4239,71 @@ _Ergänzung:_\
 #### Basis-Anforderungen
 
 ##### SYS.2.2.2.A1
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.2.2.A2
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.2.2.A3
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Standard-Anforderungen
 
 ##### SYS.2.2.2.A4
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.2.2.A5
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.2.2.A6
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.2.2.A7
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.2.2.A8
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.2.2.A9
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.2.2.A10
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.2.2.A11
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.2.2.A12
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.2.2.A13
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 ##### SYS.2.2.2.A14
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.2.2.A15
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.2.2.A16
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.2.2.A17
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.2.2.A18
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.2.2.A19
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.2.2.A20
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.2.2.A21
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 </details>
 
@@ -4316,10 +4316,10 @@ _Keine inhaltlichen Änderungen._
 #### Basis-Anforderungen
 
 ##### SYS.2.2.3.A1
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.2.3.A2
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.2.3.A3 ENTFALLEN
 _Diese Anforderung ist entfallen._
@@ -4337,65 +4337,65 @@ _Diese Anforderung ist entfallen._
 #### Standard-Anforderungen
 
 ##### SYS.2.2.3.A7
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.2.3.A8
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.2.3.A9
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.2.3.A10
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.2.3.A11
 __Änderung:__\
 Zusätzlich SOLLTE der Windows Defender Credential Guard gegen (...)
 
 ##### SYS.2.2.3.A12
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.2.3.A13
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.2.3.A14
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.2.3.A15
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.2.3.A16
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.2.3.A17
 __Änderung:__\
 SYS.2.2.3.A17 Keine Speicherung von Daten zur automatischen Anmeldung (S)
 
 ##### SYS.2.2.3.A18
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.2.3.A19
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.2.3.A20
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 ##### SYS.2.2.3.A21
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.2.3.A22
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.2.3.A23
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.2.3.A24
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.2.3.A25
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 </details>
 
@@ -4408,42 +4408,42 @@ _Keine inhaltlichen Änderungen._
 #### Basis-Anforderungen
 
 ##### SYS.2.3.A1
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.3.A2
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.3.A3
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.3.A4
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.3.A5
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Standard-Anforderungen
 
 ##### SYS.2.3.A6
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.3.A7
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.3.A8
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.3.A9
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.3.A10 ENTFALLEN
 _Diese Anforderung ist entfallen._
 
 ##### SYS.2.3.A11
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.3.A12
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
@@ -4451,25 +4451,25 @@ _Keine inhaltlichen Änderungen._
 _Diese Anforderung ist entfallen._
 
 ##### SYS.2.3.A14
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.3.A15
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.3.A16
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.3.A17
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.3.A18
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.3.A19
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.3.A20
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 </details>
 
@@ -4482,13 +4482,13 @@ _Keine inhaltlichen Änderungen._
 #### Basis-Anforderungen
 
 ##### SYS.2.4.A1
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.4.A2
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.4.A3
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Standard-Anforderungen
 
@@ -4501,23 +4501,23 @@ __Änderung:__\
 SYS.2.4.A5 Deaktivierung sicherheitskritischer Funktionen von macOS (S)
 
 ##### SYS.2.4.A6
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.4.A7
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.4.A8
 _Ergänzung:_\
 (...) schützenswerte (...)
 
 ##### SYS.2.4.A9
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.4.A10
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.2.4.A11
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
@@ -4538,62 +4538,62 @@ Die Option „Starten von externen Medien nicht zulassen“ SOLLTE aktiviert wer
 #### Basis-Anforderungen
 
 ##### SYS.3.1.A1
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.3.1.A2
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.3.1.A3
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.3.1.A4
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.3.1.A5
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Standard-Anforderungen
 
 ##### SYS.3.1.A6
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.3.1.A7
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.3.1.A8
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.3.1.A9
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.3.1.A10
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.3.1.A11
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.3.1.A12
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.3.1.A13
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.3.1.A14
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.3.1.A15 (Aktualisiert: Basis-Anforderung)
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 ##### SYS.3.1.A16
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.3.1.A17
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.3.1.A18
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 </details>
 
@@ -4606,100 +4606,100 @@ _Keine inhaltlichen Änderungen._
 #### Basis-Anforderungen
 
 ##### SYS.3.2.1.A1
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.3.2.1.A2
 __Änderung:__\
 (...) im Zusammenhang mit Smartphones und Tablets eine generelle Strategie (...)
 
 ##### SYS.3.2.1.A3
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.3.2.1.A4
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.3.2.1.A5
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.3.2.1.A6
 _Ergänzung:_\
 (...) sowie Ortungs- und Gesundheits- bzw. Fitnessdaten (...)
 
 ##### SYS.3.2.1.A7
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.3.2.1.A8
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Standard-Anforderungen
 
 ##### SYS.3.2.1.A9
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.3.2.1.A10
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.3.2.1.A11
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.3.2.1.A12
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.3.2.1.A13
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.3.2.1.A14
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.3.2.1.A15
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.3.2.1.A16
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.3.2.1.A17
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.3.2.1.A18
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.3.2.1.A19
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.3.2.1.A20
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.3.2.1.A21
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.3.2.1.A22
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.3.2.1.A28
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 ##### SYS.3.2.1.A23
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.3.2.1.A24
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.3.2.1.A25
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.3.2.1.A26
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.3.2.1.A27
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.3.2.1.A29
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.3.2.1.A30
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 </details>
 
@@ -4712,51 +4712,51 @@ _Keine inhaltlichen Änderungen._
 #### Basis-Anforderungen
 
 ##### SYS.3.2.2.A1
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.3.2.2.A2
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.3.2.2.A3
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.3.2.2.A4
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.3.2.2.A5
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.3.2.2.A6
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.3.2.2.A20
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Standard-Anforderungen
 
 ##### SYS.3.2.2.A7
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.3.2.2.A8
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.3.2.2.A9
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.3.2.2.A10
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.3.2.2.A11
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.3.2.2.A12
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.3.2.2.A21
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.3.2.2.A22
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
@@ -4774,16 +4774,16 @@ _Diese Anforderung ist entfallen._
 _Diese Anforderung ist entfallen._
 
 ##### SYS.3.2.2.A17
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.3.2.2.A18 ENTFALLEN
 _Diese Anforderung ist entfallen._
 
 ##### SYS.3.2.2.A19
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.3.2.2.A23
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 </details>
 
@@ -4800,7 +4800,7 @@ _Ergänzung:_\
 Außerdem MÜSSEN Jailbreaks organisatorisch untersagt und nach Möglichkeit technisch verhindert werden, etwa über eine Jailbreak-Erkennung durch das MDM.
 
 ##### SYS.3.2.3.A2
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.3.2.3.A3 ENTFALLEN
 _Diese Anforderung ist entfallen._
@@ -4815,7 +4815,7 @@ _Diese Anforderung ist entfallen._
 _Diese Anforderung ist entfallen._
 
 ##### SYS.3.2.3.A7
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.3.2.3.A8 ENTFALLEN
 _Diese Anforderung ist entfallen._
@@ -4826,10 +4826,10 @@ _Diese Anforderung ist entfallen._
 _Diese Anforderung ist entfallen._
 
 ##### SYS.3.2.3.A10
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.3.2.3.A11
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.3.2.3.A12
 __Änderung:__\
@@ -4838,28 +4838,28 @@ Werden Dienste verwendet, für die eine Apple-ID erforderlich ist, SOLLTE statt 
 Falls möglich, SOLLTE der Apple Business Manager für Volumenlizenzen (früher Volume Purchase Program, VPP) sowie eine zentralisierte Installation von Apps verwendet werden.
 
 ##### SYS.3.2.3.A13
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.3.2.3.A14
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.3.2.3.A15
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.3.2.3.A16 ENTFALLEN
 _Diese Anforderung ist entfallen._
 
 ##### SYS.3.2.3.A17
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.3.2.3.A18
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.3.2.3.A19 ENTFALLEN
 _Diese Anforderung ist entfallen._
 
 ##### SYS.3.2.3.A20
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.3.2.3.A21
 __Änderung:__\
@@ -4871,16 +4871,16 @@ Wenn zusätzliche Apps von Drittanbietern eingesetzt werden (siehe SYS.3.2.3.A1 
 _Diese Anforderung ist entfallen._
 
 ##### SYS.3.2.3.A23
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.3.2.3.A24 ENTFALLEN
 _Diese Anforderung ist entfallen._
 
 ##### SYS.3.2.3.A25
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.3.2.3.A26
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.3.2.3.A27 ENTFALLEN
 _Diese Anforderung ist entfallen._
@@ -4896,29 +4896,29 @@ _Diese Anforderung ist entfallen._
 #### Basis-Anforderungen
 
 ##### SYS.3.2.4.A1
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Standard-Anforderungen
 
 ##### SYS.3.2.4.A2
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.3.2.4.A3
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.3.2.4.A4
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.3.2.4.A5
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 ##### SYS.3.2.4.A6
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.3.2.4.A7
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 </details>
 
@@ -4931,53 +4931,53 @@ _Keine inhaltlichen Änderungen._
 #### Basis-Anforderungen
 
 ##### SYS.3.3.A1
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.3.3.A2
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.3.3.A3
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.3.3.A4
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Standard-Anforderungen
 
 ##### SYS.3.3.A5
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.3.3.A6
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.3.3.A7
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.3.3.A8
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.3.3.A9
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.3.3.A10
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.3.3.A11
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.3.3.A12
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 ##### SYS.3.3.A13
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.3.3.A14
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.3.3.A15
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 </details>
 
@@ -4994,7 +4994,7 @@ _Dieser Baustein ist entfallen._
 #### Basis-Anforderungen
 
 ##### SYS.4.1.A1
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.4.1.A2
 __Änderung:__\
@@ -5030,7 +5030,7 @@ Für den sicheren Umgang mit Druckern und Multifunktionsgeräten SOLLTE eine Adm
 _Diese Anforderung ist entfallen._
 
 ##### SYS.4.1.A7
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.4.1.A8 ENTFALLEN
 _Diese Anforderung ist entfallen._
@@ -5046,10 +5046,10 @@ _Ergänzung:_\
 Netzdrucker und Multifunktionsgeräte SOLLTEN in einem eigenen Netzsegment, das von den Clients und Servern der Institution getrennt ist, betrieben werden.
 
 ##### SYS.4.1.A15
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.4.1.A17
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.4.1.A18
 __Änderung:__\
@@ -5060,22 +5060,22 @@ Sämtliche Protokolle, mit denen unverschlüsselt auf Drucker und Multifunktions
 Das SOLLTE insbesondere für Protokolle umgesetzt werden, mit denen sich die Gerätekonfiguration verändern lässt, z. B. SNMP, Telnet und PJL. Der voreingestellte „SNMP Set Community Name“ SOLLTE geändert werden.
 
 ##### SYS.4.1.A19
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 ##### SYS.4.1.A14
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.4.1.A16
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.4.1.A20
 __Entfallen:__\
 Alternativ SOLLTEN die Geräte so eingestellt werden, dass sich eingescannte Dokumente nur an eine fest eingetragene Adresse senden lassen.
 
 ##### SYS.4.1.A21
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 </details>
 
@@ -5088,62 +5088,62 @@ _Keine inhaltlichen Änderungen._
 #### Basis-Anforderungen
 
 ##### SYS.4.3.A1
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.4.3.A2
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.4.3.A3
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Standard-Anforderungen
 
 ##### SYS.4.3.A4
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.4.3.A5
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.4.3.A6
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.4.3.A7
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.4.3.A8
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.4.3.A9
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.4.3.A10
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.4.3.A11
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 ##### SYS.4.3.A12
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.4.3.A13
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.4.3.A14
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.4.3.A15
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.4.3.A16
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.4.3.A17
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.4.3.A18
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 </details>
 
@@ -5156,7 +5156,7 @@ _Keine inhaltlichen Änderungen._
 #### Basis-Anforderungen
 
 ##### SYS.4.4.A1
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.4.4.A2
 __Entfallen:__\
@@ -5169,7 +5169,7 @@ _Ergänzung:_\
 Zudem MÜSSEN IoT-Gerate in das Identitäts- und Berechtigungsmanagement der Institution integriert werden.
 
 ##### SYS.4.4.A3
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.4.4.A4 ENTFALLEN
 _Diese Anforderung ist entfallen._
@@ -5184,7 +5184,7 @@ __Änderung:__\
 #### Standard-Anforderungen
 
 ##### SYS.4.4.A6
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.4.4.A7
 __Entfallen:__\
@@ -5195,7 +5195,7 @@ __Entfallen:__\
 IoT-Geräte mit einem Cloud-Konzept SOLLTEN nicht beschafft werden.
 
 ##### SYS.4.4.A9
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.4.4.A10
 __Änderung:__\
@@ -5206,27 +5206,27 @@ __Änderung:__\
 IoT-Geräte SOLLTEN nur Daten verschlüsselt übertragen.
 
 ##### SYS.4.4.A12
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.4.4.A13
 __Entfallen:__\
 Dies gilt insbesondere für unsichere Dienste, wie z. B. Telnet oder SNMPv1/v2.
 
 ##### SYS.4.4.A14
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.4.4.A15
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.4.4.A16
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.4.4.A17
 __Änderung:__\
 Es SOLLTE überwacht werden, ob die IoT-Geräte oder Sensor-Systeme nur mit IT-Systemen kommunizieren, die für den Betrieb der IoT-Geräte notwendig sind.
 
 ##### SYS.4.4.A18
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.4.4.A19
 _Ergänzung:_\
@@ -5236,19 +5236,19 @@ Der Zugriff auf die Administrationsschnittstellen von IoT-Geräten SOLLTE wie fo
 • Es SOLLTEN bevorzugt lokale Administrationsschnittstellen am IoT-Gerät oder Administrationsschnittstellen über lokale Netze verwendet werden.
 
 ##### SYS.4.4.A20
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.4.4.A21
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.4.4.A22
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.4.4.A23
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### SYS.4.4.A24
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 
 ### NEU: SYS.4.5
@@ -5352,10 +5352,10 @@ ___
 #### Basis-Anforderungen
 
 ##### IND.1.A1
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### IND.1.A2
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### IND.1.A3
 __Entfallen:__\
@@ -5364,49 +5364,49 @@ Der Bezug und die Verteilung von Signaturen können automatisiert erfolgen.
 #### Standard-Anforderungen
 
 ##### IND.1.4
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### IND.1.A5
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### IND.1.A6
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### IND.1.A7
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### IND.1.A8
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### IND.1.A9
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### IND.1.A10
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### IND.1.A11
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### IND.1.A12
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 ##### IND.1.A13
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### IND.1.A14
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### IND.1.A15
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### IND.1.A16
 __Änderung:__\
 Mithilfe von einer oder mehrerer Anbindungszonen (DMZ) in einer P-A-P-Struktur SOLLTEN durchgängige Außenverbindungen terminiert werden.
 
 ##### IND.1.A17
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 </details>
 
@@ -5419,68 +5419,68 @@ _Keine inhaltlichen Änderungen._
 #### Basis-Anforderungen
 
 ##### IND.2.1.A1
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### IND.2.1.A2
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### IND.2.1.A3
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### IND.2.1.A4
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### IND.2.1.A5
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### IND.2.1.A6
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### IND.2.1.A7 (Aktualisiert: Basis-Anforderung)
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Standard-Anforderungen
 
 ##### IND.2.1.A8
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### IND.2.1.A9
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### IND.2.1.A10
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### IND.2.1.A11
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### IND.2.1.A12
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### IND.2.1.A13
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### IND.2.1.A14
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### IND.2.1.A15
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### IND.2.1.A16
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### IND.2.1.A17
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 ##### IND.2.1.A18
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### IND.2.1.A19
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### IND.2.1.A20
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 </details>
 
@@ -5493,13 +5493,13 @@ _Keine inhaltlichen Änderungen._
 #### Standard-Anforderungen
 
 ##### IND.2.2.A1
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### IND.2.2.A2
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### IND.2.2.A3
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 </details>
 
@@ -5512,15 +5512,15 @@ _Keine inhaltlichen Änderungen._
 #### Basis-Anforderungen
 
 ##### IND.2.3.A1
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Standard-Anforderungen
 
 ##### IND.2.3.A2
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### IND.2.3.A3
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 </details>
 
@@ -5533,10 +5533,10 @@ _Keine inhaltlichen Änderungen._
 #### Basis-Anforderungen
 
 ##### IND.2.4.A1
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### IND.2.4.A2
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 </details>
 
@@ -5549,44 +5549,44 @@ _Keine inhaltlichen Änderungen._
 #### Basis-Anforderungen
 
 ##### IND.2.7.A1
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### IND.2.7.A2
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### IND.2.7.A3
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Standard-Anforderungen
 
 ##### IND.2.7.A4
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### IND.2.7.A5
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### IND.2.7.A6
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### IND.2.7.A7
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### IND.2.7.A8
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### IND.2.7.A9
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### IND.2.7.A10
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### IND.2.7.A11
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 ##### IND.2.7.A12
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 </details>
 
@@ -5600,116 +5600,116 @@ ___
 #### Basis-Anforderungen
 
 ##### NET.1.1.A1
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.1.1.A2
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.1.1.A3
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.1.1.A4
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.1.1.A5
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.1.1.A6
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.1.1.A7
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.1.1.A8
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.1.1.A9
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.1.1.A10
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.1.1.A11
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.1.1.A12
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.1.1.A13
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.1.1.A14
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.1.1.A15
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Standard-Anforderungen
 
 ##### NET.1.1.A16
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.1.1.A17
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.1.1.A18
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.1.1.A19
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.1.1.A20
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.1.1.A21
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.1.1.A22
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.1.1.A23
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.1.1.A24
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.1.1.A25
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.1.1.A26
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.1.1.A27
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 ##### NET.1.1.A28
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.1.1.A29
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.1.1.A30
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.1.1.A31
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.1.1.A32
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.1.1.A33
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.1.1.A34
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.1.1.A35
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.1.1.A36
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 </details>
 
@@ -5722,60 +5722,60 @@ _Keine inhaltlichen Änderungen._
 #### Basis-Anforderungen
 
 ##### NET.1.2.A1
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.1.2.A2
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.1.2.A3
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.1.2.A4
 _Entfallen:_ (...) und regelmäßig geändert werden.
 
 ##### NET.1.2.A5
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.1.2.A6
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.1.2.A7
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.1.2.A8
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.1.2.A9
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.1.2.A10
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Standard-Anforderungen
 
 ##### NET.1.2.A11
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.1.2.A12
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.1.2.A13
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.1.2.A14
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.1.2.A15
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.1.2.A16
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.1.2.A17
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.1.2.A18
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.1.2.A19
 __Änderung:__\
@@ -5786,57 +5786,57 @@ __Änderung:__\
 (...) durch eine als sicher geltende (...)
 
 ##### NET.1.2.A21
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.1.2.A22
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.1.2.A23
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.1.2.A24
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.1.2.A25
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.1.2.A26
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.1.2.A27
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.1.2.A28
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.1.2.A29
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 ##### NET.1.2.A30
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.1.2.A31
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.1.2.A32
 _Ergänzung:_\ (...) von den produktiven Netzen (...)
 
 ##### NET.1.2.A33
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.1.2.A34
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.1.2.A35
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.1.2.A36
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.1.2.A37
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.1.2.A38
 __Entfallen:__\ (...), mit denen die administrativen Tätigkeiten im Notfall durchgeführt werden können
@@ -5852,10 +5852,10 @@ __Entfallen:__\ (...), mit denen die administrativen Tätigkeiten im Notfall dur
 #### Basis-Anforderungen
 
 ##### NET.2.1.A1
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.2.1.A2
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.2.1.A3
 _Entfallen:_ Außerdem MUSS dieser regelmäßig gewechselt werden.
@@ -5867,50 +5867,50 @@ Wenn sie aufgestellt werden, MÜSSEN die erforderlichen Bereiche ausreichend abg
 Darüber hinaus MUSS darauf geachtet werden, dass sich die Funkwellen in Bereichen, die nicht durch das WLAN versorgt werden sollen, möglichst nicht ausbreiten.
 
 ##### NET.2.1.A5
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.2.1.A6
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.2.1.A7
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.2.1.A8
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Standard-Anforderungen
 
 ##### NET.2.1.A9
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.2.1.A10
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.2.1.A11
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.2.1.A12
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.2.1.A13
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.2.1.A14
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 ##### NET.2.1.A15
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.2.1.A16
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.2.1.A17
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.2.1.A18
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 </details>
 
@@ -5923,18 +5923,18 @@ _Keine inhaltlichen Änderungen._
 #### Basis-Anforderungen
 
 ##### NET.2.2.A1
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.2.2.A2
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.2.2.A3
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Standard-Anforderungen
 
 ##### NET.2.2.A4
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 </details>
 
@@ -5947,94 +5947,94 @@ _Keine inhaltlichen Änderungen._
 #### Basis-Anforderungen
 
 ##### NET.3.1.A1
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.3.1.A2
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.3.1.A3
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.3.1.A4
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.3.1.A5
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.3.1.A6
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.3.1.A7
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.3.1.A8
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.3.1.A9
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Standard-Anforderungen
 
 ##### NET.3.1.A10
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.3.1.A11
 _Ergänzung:_\
 (...) basierend auf der Sicherheitsrichtlinie (...)
 
 ##### NET.3.1.A12
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.3.1.A13
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.3.1.A14
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.3.1.A15
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.3.1.A16
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.3.1.A17
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.3.1.A18
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.3.1.A19
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.3.1.A20
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.3.1.A21
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.3.1.A22
 _Ergänzung:_\
 Für typische Ausfallszenarien SOLLTEN entsprechende Handlungsanweisungen definiert und in regelmäßigen Abständen aktualisiert werden.
 
 ##### NET.3.1.A23
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 ##### NET.3.1.A24
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.3.1.A25
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.3.1.A26
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.3.1.A27
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.3.1.A28
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 </details>
 
@@ -6047,10 +6047,10 @@ _Keine inhaltlichen Änderungen._
 #### Basis-Anforderungen
 
 ##### NET.3.2.A1
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.3.2.A2
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.3.2.A3
 __Änderung:__\
@@ -6061,92 +6061,92 @@ __Änderung:__\
 Die Integrität der Konfigurationsdateien MUSS geeignet geschützt werden.
 
 ##### NET.3.2.A5
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.3.2.A6
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.3.2.A7
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.3.2.A8
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.3.2.A9
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.3.2.A10
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.3.2.A11
 __Änderung:__\
 Vorab MUSS auf einem Testsystem überprüft werden, (...)
 
 ##### NET.3.2.A12
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.3.2.A13
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.3.2.A14
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.3.2.A15
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Standard-Anforderungen
 
 ##### NET.3.2.A16
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.3.2.A17
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.3.2.A18
 __Änderung:__\
 Eine eventuell vorhandene Administrationsschnittstelle über das eigentliche Datennetz (In-Band) SOLLTE deaktiviert werden.
 
 ##### NET.3.2.A19
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.3.2.A20
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.3.2.A21
 __Änderung:__\
 Hierbei SOLLTEN die rechtlichen Rahmenbedingungen beachtet werden.
 
 ##### NET.3.2.A22
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.3.2.A23
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.3.2.A24
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 ##### NET.3.2.A25
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.3.2.A26
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.3.2.A27
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.3.2.A28
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.3.2.A29
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.3.2.A30
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.3.2.A31
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 </details>
 
@@ -6159,19 +6159,19 @@ _Keine inhaltlichen Änderungen._
 #### Basis-Anforderungen
 
 ##### NET.3.3.A1
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.3.3.A2
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.3.3.A3
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.3.3.A4
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.3.3.A5
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Standard-Anforderungen
 
@@ -6179,25 +6179,25 @@ _Keine inhaltlichen Änderungen._
 _Ergänzung:_ (...) beziehungsweise Fachaufgaben,
 
 ##### NET.3.3.A7
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.3.3.A8
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.3.3.A9
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.3.3.A10
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.3.3.A11
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.3.3.A12
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.3.3.A13
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 </details>
 
@@ -6210,16 +6210,16 @@ _Keine inhaltlichen Änderungen._
 #### Basis-Anforderungen
 
 ##### NET.4.1.A1
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.4.1.A2
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.4.1.A3
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.4.1.A4
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.4.1.A5
 __Änderung:__\
@@ -6228,48 +6228,48 @@ Die protokollierten Informationen SOLLTEN regelmäßig kontrolliert werden.
 #### Standard-Anforderungen
 
 ##### NET.4.1.A6
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.4.1.A7
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.4.1.A8
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.4.1.A9
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.4.1.A10
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.4.1.A11
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.4.1.A12
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.4.1.A13
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.4.1.A14
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.4.1.A15
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.4.1.A16
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.4.1.A17 (Aktualisiert: Basis-Anforderung)
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 ##### NET.4.1.A18
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.4.1.A19
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 </details>
 
@@ -6282,56 +6282,56 @@ _Keine inhaltlichen Änderungen._
 #### Basis-Anforderungen
 
 ##### NET.4.2.A1
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.4.2.A2
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.4.2.A3
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.4.2.A4
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.4.2.A5
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.4.2.A6
 _Ergänzung:_\
 Datenschutzrelevante Vorgaben MÜSSEN bei der Protokollierung berücksichtigt werden.
 
 ##### NET.4.2.A7
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.4.2.A8
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.4.2.A9
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.4.2.A10
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.4.2.A11
 __Entfallen:__\
 Sie SOLLTEN angewiesen werden, bei Abwesenheit die Endgeräte geeignet zu sperren.
 
 ##### NET.4.2.A12
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.4.2.A13
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 ##### NET.4.2.A14
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.4.2.A15
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.4.2.A16
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 </details>
 
@@ -6349,21 +6349,21 @@ Der Aufstellungsort MUSS über einen geeigneten Netzanschluss für das Faxgerät
 Faxgeräte DÜRFTEN NICHT an nicht dafür vorgesehene Netzanschlüsse angeschlossen werden.
 
 ##### NET.4.3.A2
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.4.3.A3
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Standard-Anforderungen
 
 ##### NET.4.3.A4
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.4.3.A5 ENTFALLEN
 _Diese Anforderung ist entfallen._
 
 ##### NET.4.3.A6
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.4.3.A7
 __Entfallen:__\
@@ -6374,15 +6374,15 @@ __Änderung:__\
 (...) unkenntlich gemacht werden (...)
 
 ##### NET.4.3.A9
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.4.3.A10
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 ##### NET.4.3.A11
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.4.3.A12
 __Änderung:__\
@@ -6391,13 +6391,13 @@ Alternativ SOLLTEN nur bestimmte Rufnummern zugelassen werden.
 Es SOLLTE geprüft werden, welcher Ansatz in welcher Situation geeignet ist.
 
 ##### NET.4.3.A13
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.4.3.A14
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NET.4.3.A15
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 </details>
 
@@ -6411,88 +6411,88 @@ ___
 #### Basis-Anforderungen
 
 ##### INF.1.A1
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### INF.1.A2
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### INF.1.A3
 __Entfallen:__\
 Dazu gehört die regelmäßige Entsorgung von Altpapier und Verpackungsabfällen.
 
 ##### INF.1.A4
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### INF.1.A5
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### INF.1.A6
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### INF.1.A7
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### INF.1.A8
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Standard-Anforderungen
 
 ##### INF.1.A9
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### INF.1.A10
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### INF.1.A11
 _Ergänzung:_\
 (...)und der Raum für unberechtigte Personen zugänglich ist.
 
 ##### INF.1.A12
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### INF.1.A13
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### INF.1.A14
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### INF.1.A15
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### INF.1.A16
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### INF.1.A17
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### INF.1.A18
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### INF.1.A19
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### INF.1.A20
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 ##### INF.1.A21
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### INF.1.A22
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### INF.1.A23
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### INF.1.A24
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### INF.1.A25
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### INF.1.A26
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### INF.1.A27
 __Änderung:__\
@@ -6500,25 +6500,25 @@ Bei der Planung, der Umsetzung und im Betrieb SOLLTE beim Einbruchschutz darauf 
 Er SOLLTE regelmäßig durch eine fachkundige Person begutachtet werden.
 
 ##### INF.1.A28
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### INF.1.A29
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### INF.1.A30
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### INF.1.A31
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### INF.1.A32
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### INF.1.A33
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### INF.1.A34
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 </details>
 
@@ -6531,13 +6531,13 @@ _Keine inhaltlichen Änderungen._
 #### Basis-Anforderungen
 
 ##### INF.10.A1
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### INF.10.A2
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### INF.10.A3
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Standard-Anforderungen
 
@@ -6549,21 +6549,21 @@ _Ergänzung:_\
 _Entfallen:_ (...) mit einem Kabelschacht(...)
 
 ##### INF.10.A6
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### INF.10.A7
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### INF.10.A8
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 ##### INF.10.A9
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### INF.10.A10
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 </details>
 
@@ -6617,7 +6617,7 @@ _Ergänzung:_\
 Sie MÜSSEN mit einem Sichtschutz versehen sein.
 
 ##### INF.2.A8
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### INF.2.A9
 _Ergänzung:_\
@@ -6630,10 +6630,10 @@ _Ergänzung:_\
 Es MUSS beachtet werden, dass darüber hinausgehende baurechtliche Anforderungen hinsichtlich der Ausstattung mit Handfeuerlöschern davon unberührt bleiben.
 
 ##### INF.2.A10
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### INF.2.A11
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### INF.2.A17 (Aktualisiert: Basis-Anforderung)
 Durch eine gegebenenfalls installierte Brandfrüherkennung MUSS sichergestellt werden, dass Brandrauch frühestmöglich detektiert wird.
@@ -6659,7 +6659,7 @@ _Ergänzung:_\
 • automatische Alarmierung.
 
 ##### INF.2.A13
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### INF.2.A14
 _Ergänzung:_\
@@ -6683,10 +6683,10 @@ __Änderung:__\
 _Diese Anforderung ist entfallen._
 
 ##### INF.2.A19
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### INF.2.A20
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NEU: INF.2.A30
 INF.2.A30 Anlagen zur Erkennung, Löschung oder Vermeidung von Bränden [Haustechnik, Planer] (S)
@@ -6701,7 +6701,7 @@ Der Schwenk auf das Notfallrechenzentrum SOLLTE regelmäßig getestet und geübt
 Die Übertragungswege in das Ausweichrechenzentrum SOLLTEN geeignet abgesichert und entsprechend redundant ausgelegt sein.
 
 ##### INF.2.A22
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### INF.2.A23
 __Entfallen:__\
@@ -6712,20 +6712,20 @@ _Ergänzung:_\
 Tragsysteme SOLLTEN hinsichtlich Brandbeanspruchung in einem dem Schutzbedarf genügenden Funktionserhalt ausgeführt werden.
 
 ##### INF.2.A24
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### INF.2.A25
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### INF.2.A26
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### INF.2.A27
 __Änderung:__\
 Mit dem Personal des Rechenzentrums sowie des Serverraums SOLLTEN regelmäßige Alarmierungs- und Brandschutzübungen durchgeführt werden.
 
 ##### INF.2.A28
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 </details>
 
@@ -6738,43 +6738,43 @@ _Keine inhaltlichen Änderungen._
 #### Basis-Anforderungen
 
 ##### INF.3.A1
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### INF.3.A2
 _Ergänzung:_\
 (...) bevor sie verlegt werden.
 
 ##### INF.3.A3
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Standard-Anforderungen
 
 ##### INF.3.A4
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### INF.3.A5
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### INF.3.A6
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### INF.3.A7
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### INF.3.A8
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### INF.3.A9
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### INF.3.A10
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### INF.3.A11
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### INF.3.A12
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
@@ -6783,16 +6783,16 @@ __Änderung:__\
 NEA und USV SOLLTEN regelmäßig gewartet werden.
 
 ##### INF.3.A14
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### INF.3.A15
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### INF.3.A16
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### INF.3.A17
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### NEU: INF.3.A18
 INF.3.A18 EMV-taugliche Stromversorgung (H)\
@@ -6811,53 +6811,53 @@ Bei Aufbau und Betrieb des Stromverteilnetzes SOLLTEN die empfohlenen Trennungsa
 #### Basis-Anforderungen
 
 ##### INF.4.A1
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### INF.4.A2
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### INF.4.A3
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Standard-Anforderungen
 
 ##### INF.4.A4
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### INF.4.A5
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### INF.4.A6
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### INF.4.A7
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### INF.4.A8
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### INF.4.A9
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### INF.4.A10
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### INF.4.A11
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 ##### INF.4.A12
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### INF.4.A13
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### INF.4.A14
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### INF.4.A15
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 </details>
 
@@ -7045,32 +7045,32 @@ _Ergänzung:_\
 Mitarbeiter, die in der Nähe eines Datenträgerarchivs tätig sind, (...)
 
 ##### INF.6.A2
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### INF.6.A3
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### INF.6.A4
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Standard-Anforderungen
 
 ##### INF.6.A5
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### INF.6.A6
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### INF.6.A7
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### INF.6.A8
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 ##### INF.6.A9
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 </details>
 
@@ -7083,30 +7083,30 @@ _Keine inhaltlichen Änderungen._
 #### Basis-Anforderungen
 
 ##### INF.7.A1
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### INF.7.A2
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Standard-Anforderungen
 
 ##### INF.7.A3
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### INF.7.A4
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### INF.7.A5
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### INF.7.A6
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### INF.7.A7
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### INF.7.A8
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 </details>
 
@@ -7119,18 +7119,18 @@ _Keine inhaltlichen Änderungen._
 #### Basis-Anforderungen
 
 ##### INF.8.A1
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### INF.8.A2
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### INF.8.A3
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Standard-Anforderungen
 
 ##### INF.8.A4
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### INF.8.A5
 _Entfallen:_ (...) , also nicht einfach in den Hausmüll.
@@ -7138,7 +7138,7 @@ _Entfallen:_ (...) , also nicht einfach in den Hausmüll.
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 ##### INF.8.A6
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 </details>
 
@@ -7151,42 +7151,42 @@ _Keine inhaltlichen Änderungen._
 #### Basis-Anforderungen
 
 ##### INF.9.A1
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### INF.9.A2
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### INF.9.A3
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### INF.9.A4
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Standard-Anforderungen
 
 ##### INF.9.A5
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### INF.9.A6
 _Entfallen:_ (...) , also nicht einfach in den Hausmüll.
 
 ##### INF.9.A7
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### INF.9.A8
 __Entfallen:__\
 Ebenso SOLLTE sie festlegen, dass für jeden mobilen Mitarbeiter ein Vertreter benannt und der Vertretungsprozess regelmäßig geprobt wird.
 
 ##### INF.9.A9
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 ##### INF.9.A10
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 ##### INF.9.A11
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 
 
@@ -7207,7 +7207,7 @@ __zu:__\
 #### Standard-Anforderungen
 (Aktualisiert: Basis-Anforderung)
 _Diese Anforderung ist entfallen._
-_Keine inhaltlichen Änderungen._
+__Keine inhaltlichen Änderungen.__
 
 
 /////////////////
