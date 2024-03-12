@@ -259,10 +259,7 @@ Ehemals *Schulung von Benutzern und Administratoren*:
 ### CON.2
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### CON.2.A1
@@ -313,10 +310,7 @@ Keine inhaltlichen Änderungen.
 ### ORP.1
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### ORP.1.A17
@@ -358,10 +352,7 @@ Der Baustein wurde neu hinzugefügt.
 ### OPS.1.1.2
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### OPS.1.1.2.A2
@@ -561,10 +552,7 @@ Anforderung mit erhöhtem Schutzbedarf wurde neu hinzugefügt.
 ### OPS.1.1.3
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### OPS.1.1.3.A15
@@ -625,10 +613,7 @@ Keine inhaltlichen Änderungen.
 ### OPS.1.2.5
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### OPS.1.2.5.A19
@@ -730,10 +715,7 @@ Keine inhaltlichen Änderungen
 ### APP.1.2
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### APP.1.2.A13
@@ -779,10 +761,7 @@ Keine inhaltlichen Änderungen.
 ### APP.2.1
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### APP.2.1.A2
@@ -918,10 +897,7 @@ Die Anforderung erhöhten Schutzbedarfs wurde neu hinzugefügt.
 ### APP.2.2
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### APP.2.2.A1
@@ -1043,10 +1019,7 @@ Die Anforderung für erhöhten Schutzbedarf wurde neu hinzugefügt.
 ### APP.2.3
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### APP.2.3.A9
@@ -1100,10 +1073,7 @@ Keine inhaltlichen Änderungen.
 ### APP.3.4
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### APP.3.4.A6
@@ -1147,10 +1117,7 @@ Keine inhaltlihcen Änderungen.
 ### APP.5.3
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### APP.5.3.A1
@@ -1253,10 +1220,7 @@ Keine inhaltlichen Änderungen.
 ### IND.3.2
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### IND.3.2.A1
@@ -1282,10 +1246,7 @@ Keine inhaltlichen Änderungen.
 ### SYS.1.1
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### SYS.1.1.A1
@@ -1348,10 +1309,7 @@ Keine inhaltlichen Änderungen.
 ### SYS.1.6
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### SYS.1.6.A6
@@ -1380,10 +1338,7 @@ Der Baustein wurde neu hinzugefügt.
 ### SYS.2.1
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### SYS.2.1.A11
@@ -1408,10 +1363,7 @@ Ehemals *Updates und Patches für Firmware, Betriebssystem und Anwendungen*.
 ### SYS.2.2.3
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 Jetzt für alle Windows Client Betriebssysteme gültig, nicht mehr nur Windows 10.
@@ -1496,10 +1448,7 @@ Keine inhaltlichen Änderungen.
 ### SYS.4.3
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### SYS.4.3.A1
@@ -1529,10 +1478,7 @@ Keine inhaltlichen Änderungen.
 ### SYS.4.5
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### SYS.4.5.A2
@@ -1635,10 +1581,7 @@ Keine inhaltlichen Änderungen.
 ### INF.1
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### INF.1.A1
@@ -1689,10 +1632,7 @@ Keine inhaltlichen Änderungen.
 ### INF.10
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 #### INF.10.A10 ist entfallen (verschoben zu ORP.1.A17)
