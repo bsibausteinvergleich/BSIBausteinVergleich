@@ -13,7 +13,7 @@
 
 #### ISMS 1.A1
 
-##### Geändert:
+__Geändert:__
 
 ISMS.1.A1 Übernahme der Gesamtverantwortung für Informationssicherheit durch die Leitung [Institutionsleitung] (B)
 
@@ -47,14 +47,14 @@ Keine inhaltlichen Änderungen.
 
 #### ISMS 1.A5
 
-##### Entfallen:
+__Entfallen:__
 
 *Der externe Informationssicherheitsbeauftragte MUSS über die notwendigen Qualifikationen verfügen.*
 
 
 #### ISMS 1.A6
 
-##### Geändert:
+__Geändert:__
 
 Die Aufgaben, Rollen, Verantwortungen und Kompetenzen im Sicherheitsmanagement MÜSSEN nachvollziehbar definiert und zugewiesen sein.
 
@@ -66,14 +66,14 @@ Keine inhaltlichen Änderungen
 
 #### ISMS 1.A8
 
-##### Hinzugefügt
+__Hinzugefügt:__
 
 Die Mitarbeiter MÜSSEN darüber aufgeklärt werden, welche Konsequenzen eine Verletzung der Sicherheitsvorgaben haben kann.
 
 
 #### ISMS 1.A9
 
-##### Entfallen:
+__Entfallen:__
 
 *Es SOLLTE regelmäßig überprüft werden, ob die ausgewählten Maßnahmen geeignet, angemessen, umsetzbar und effizient sind, um die Sicherheitsziele und -anforderungen zu erreichen.*
 
@@ -87,7 +87,7 @@ Keine inhaltlichen Änderungen.
 
 #### ISMS 1.A12
 
-##### Geändert:
+__Geändert:__
 
 Die Institutionsleitung SOLLTE sich regelmäßig über den Stand der Informationssicherheit informieren, insbesondere über die aktuelle Gefährdungslage sowie die Wirksamkeit und Effizienz des Sicherheitsprozesses.
 
@@ -118,7 +118,7 @@ Keine inhaltlichen Änderungen.
 
 #### ISMS 1.A15
 
-##### Entfallen:
+__Entfallen:__
 
 Informationssicherheit erfordert ausreichende finanzielle und personelle Ressourcen sowie eine geeignete Ausstattung.
 
@@ -131,7 +131,7 @@ Der Informationssicherheitsbeauftragte bzw. das Informationssicherheitsmanagemen
 
 #### ISMS 1.A16
 
-##### Geändert:
+__Geändert:__
 
 Neben den allgemeinen SOLLTE es auch zielgruppenorientierte Sicherheitsrichtlinien geben, die jeweils bedarfsgerecht die relevanten Sicherheitsthemen abbilden.
 
@@ -160,7 +160,7 @@ Keine inhaltlichen Änderungen
 
 #### ORP 1.A2
 
-##### Geändert:
+__Geändert:__
 
 ORP.1.A2 Zuweisung der Zuständigkeiten [Institutionsleitung] (B)
 
@@ -171,7 +171,7 @@ Alle Mitarbeiter MÜSSEN darüber informiert sein, insbesondere wofür sie zust�
 
 #### ORP 1.A3
 
-##### Geändert:
+__Geändert:__
 
 Institutionsfremde Personen MÜSSEN von Mitarbeitern zu den Räumen begleitet werden.
 
@@ -268,7 +268,7 @@ Keine inhaltlichen Änderungen
 
 #### ORP 1.A13
 
-##### Entfallen:
+__Entfallen:__
 
 *Während des Umzugs SOLLTE ein Mindestmaß an Zutritts- und Zugangskontrolle vorhanden sein.*
 
@@ -299,7 +299,7 @@ Keine inhaltlichen Änderungen
 
 #### ORP 2.A1
 
-##### Entfallen:
+__Entfallen:__
 
 *Die Personalabteilung sowie die Vorgesetzten MÜSSEN dafür sorgen, dass neue Mitarbeiter zu Beginn ihrer Beschäftigung in ihre neuen Aufgaben eingearbeitet werden.*
 
@@ -315,7 +315,7 @@ Keine inhaltlichen Änderungen
 
 *Außerdem MÜSSEN alle Mitarbeiter darauf hingewiesen werden, dass alle während der Arbeit erhaltenen Informationen ausschließlich zum internen Gebrauch bestimmt sind, solange sie nicht anders gekennzeichnet sind.*
 
-##### Hinzugefügt:
+__Hinzugefügt:__:
 
 Die Personalabteilung sowie die Vorgesetzten MÜSSEN dafür sorgen, dass Mitarbeiter zu Beginn ihrer Beschäftigung in ihre neuen Aufgaben eingearbeitet werden.
 
@@ -326,7 +326,7 @@ Eine Checkliste und ein direkter Ansprechpartner („Pate“) kann hierbei hilfr
 
 #### ORP 2.A2
 
-##### Hinzugefügt:
+__Hinzugefügt:__:
 
 Es SOLLTE besonders darauf geachtet werden, dass keine Interessenkonflikte auftreten.
 
@@ -334,7 +334,7 @@ Um nach einem Stellenwechsel Interessenkonflikte zu vermeiden, SOLLTEN Konkurren
 
 Zudem SOLLTE es einen festen Ansprechpartner der Personalabteilung geben, der den Weggang von Mitarbeitern begleitet.
 
-##### Geändert:
+__Geändert:__
 
 Damit alle verbundenen Aufgaben, die beim Ausscheiden des Mitarbeiters anfallen, erledigt werden, SOLLTE hier ebenfalls eine Checkliste angelegt werden.
 
@@ -377,7 +377,7 @@ Keine inhaltlichen Änderungen.
 
 #### ORP 2.A7
 
-##### Geändert:
+__Geändert:__
 
 Soweit möglich, SOLLTEN alle an der Personalauswahl Beteiligten kontrollieren, ob die Angaben der Bewerberinnen und Bewerber, die relevant für die Einschätzung ihrer Vertrauenswürdigkeit sind, glaubhaft sind.
 
@@ -453,7 +453,7 @@ Dabei SOLLTEN auffällig erscheinende Angaben überprüft werden.
 
 #### ORP 2.A13
 
-##### Hinzugefügt:
+__Hinzugefügt:__:
 
 Arbeiten Mitarbeiter mit nach dem Geheimschutz klassifizierten Verschlusssachen, SOLLTEN sich die entsprechenden Mitarbeiter einer Sicherheitsüberprüfung nach dem Sicherheitsüberprüfungsgesetz (SÜG) unterziehen.
 
@@ -489,7 +489,7 @@ Keine inhaltlichen Änderungen.
 
 #### ORP 3.A4
 
-##### Hinzugefügt:
+__Hinzugefügt:__:
 
 Dazu SOLLTE eine Zielgruppenanalyse durchgeführt werden.
 
@@ -515,7 +515,7 @@ Dieses Schulungsprogramm SOLLTE den Mitarbeitern alle Informationen und Fähigke
 
 #### ORP 3.A6
 
-##### Entfallen:
+__Entfallen:__
 
 *Es SOLLTE daher Sensibilisierungs- und Schulungsmaßnahmen geben, die den Mitarbeitern alle Informationen und Fähigkeiten vermitteln, die erforderlich sind, um in der Institution geltende Sicherheitsregelungen und -maßnahmen umsetzen zu können.*
 
@@ -531,7 +531,7 @@ Keine inhaltlichen Änderungen.
 
 #### ORP 3.A8
 
-##### Geändert:
+__Geändert:__
 
 Die Lernerfolge im Bereich Informationssicherheit SOLLTEN zielgruppenbezogen gemessen und ausgewertet werden, um festzustellen, inwieweit die in den Sensibilisierungs- und Schulungsprogrammen zur Informationssicherheit beschriebenen Ziele erreicht sind.
 
@@ -557,7 +557,7 @@ Keine inhaltlichen Änderungen.
 
 #### ORP 4.A1
 
-##### Hinzugefügt:
+__Hinzugefügt:__:
 
 Jede Benutzerkennung MUSS eindeutig einem Benutzer zugeordnet werden können.
 
@@ -568,20 +568,20 @@ Nicht benötigte Benutzerkenngen, wie z.B. standardmäßig eingerichtete Gastkon
 
 #### ORP 4.A2
 
-##### Geändert:
+__Geändert:__
 
 ORP.4.A2 Einrichtung, Änderung und Entzug von Berechtigungen [IT-Betrieb] (B)
 
 Benutzerkennungen und Berechtigungen DÜRFEN NUR aufgrund des tatsächlichen Bedarfs und der Notwendigkeit zur Aufgabenerfüllung vergeben werden (Prinzip der geringsten Berechtigungen, engl. Least Privileges und Erforderlichkeitsprinzip, engl. Need-to-know).
 
-##### Hinzugefügt:
+__Hinzugefügt:__:
 
 Zugriffsberechtigungen auf Systemverzeichnisse und -dateien SOLLTEN restriktiv eingeschränkt werden.
 
 
 #### ORP 4.A3
 
-##### Geändert:
+__Geändert:__
 
 Die Dokumentation der zugelassenen Benutzer, angelegten Benutzergruppen und Rechteprofile MUSS regelmäßig daraufhin überprüft werden, ob sie den tatsächlichen Stand der Rechtevergabe widerspiegelt und ob die Rechtevergabe noch den Sicherheitsanforderungen und den aktuellen Aufgaben der Benutzer entspricht.
 
@@ -608,7 +608,7 @@ Keine inhaltlichen Änderungen.
 
 #### ORP 4.A8
 
-##### Hinzugefügt:
+__Hinzugefügt:__:
 
 Bei Passwort-Managern mit Funktionen oder Plug-ins, mit denen Passwörter über Onlinedienste Dritter synchronisiert oder anderweitig an Dritte übertragen werden, MÜSSEN diese Funktionen und Plug-ins deaktiviert werden.
 
@@ -625,7 +625,7 @@ Keine inhaltlichen Änderungen.
 
 #### ORP 4.A23
 
-##### Hinzugefügt:
+__Hinzugefügt:__:
 
 Bei Kennungen für technische Benutzer, Dienstkonten, Schnittstellen oder Vergleichbares SOLLTE ein Passwortwechsel sorgfältig geplant und gegebenenfalls mit den Anwendungsverantwortlichen abgestimmt werden.
 
@@ -637,14 +637,14 @@ Keine inhaltlichen Änderungen.
 
 #### ORP 4.A11
 
-##### Hinzugefügt:
+__Hinzugefügt:__:
 
 Authentisierungsinformationen DÜRFEN NICHT unverschlüsselt über unsichere Netze übertragen werden.
 
 
 #### ORP 4.A13
 
-##### Hinzugefügt:
+__Hinzugefügt:__:
 
 Das IT-System bzw. die IT-Anwendung SOLLTE nach jedem erfolglosen Authentisierungsversuch weitere Anmeldeversuche zunehmend verzögern (Time Delay).
 
@@ -665,7 +665,7 @@ Keine inhaltlichen Änderungen.
 
 #### ORP 4.A16
 
-##### Entfallen:
+__Entfallen:__
 
 *Außerdem SOLLTEN alle eingerichteten Benutzer und vergebenen Rechte dokumentiert sein.*
 
@@ -710,18 +710,18 @@ keine inhaltlichen Änderungen
 
 #### ORP 5.A1
 
-##### Entfallen:
+__Entfallen:__
 
 *Die als sicherheitsrelevant identifizierten Anforderungen MÜSSEN bei der Planung und Konzeption von Geschäftsprozessen, Anwendungen und IT-Systemen oder bei der Beschaffung neuer Komponenten einfließen.*
 
 
 #### ORP 5.A2
 
-##### Geändert:
+__Geändert:__
 
 Die als sicherheitsrelevant identifizierten Anforderungen MÜSSEN bei der Planung und Konzeption von Geschäftsprozessen, Anwendungen und IT-Systemen oder bei der Beschaffung neuer Komponenten einfließen.
 
-##### Hinzugefügt:
+__Hinzugefügt:__:
 
 Führungskräfte, die eine rechtliche Verantwortung für die Institution tragen, MÜSSEN für die Einhaltung der gesetzlichen, vertraglichen und sonstigen Vorgaben sorgen.
 
@@ -741,7 +741,7 @@ Führungskräfte, die eine rechtliche Verantwortung für die Institution tragen,
 
 #### ORP 5.A4
 
-##### Hinzugefügt:
+__Hinzugefügt:__:
 
 In der Institution SOLLTE ein Prozess aufgebaut werden, um alle relevanten gesetzlichen, vertraglichen und sonstigen Vorgaben mit Auswirkungen auf das Informationssicherheitsmanagement zu identifizieren.
 
@@ -806,7 +806,7 @@ Keine inhaltlichen Änderungen
 
 #### CON 1.A4
 
-##### Hinzugefügt:
+__Hinzugefügt:__:
 
 Der Austausch von kyptografischen Schlüsseln SOLLTE mit einem als sicher geltenden Verfahren durchgeführt werden.
 
@@ -823,7 +823,7 @@ Keine inhaltlichen Änderungen
 
 #### CON 1.A7
 
-##### Geändert:
+__Geändert:__
 
 In der Sicherheitsrichtlinie SOLLTE geregelt werden, wer für den sicheren Betrieb der kryptografischen Produkte zuständig ist.\
 
@@ -849,7 +849,7 @@ Keine inhaltlichen Änderungen
 
 #### CON 3.A1
 
-##### Geändert:
+__Geändert:__
 
 Dazu MUSS der IT-Betrieb die Fachverantwortlichen für die Anwendungen und die Zuständigen für die jeweiligen IT-Systeme befragen.
 
@@ -880,7 +880,7 @@ Der Baustein "Entwicklung und Einsatz von Individualsoftware" ist entfallen. An 
 
 #### CON 6.A1
 
-##### Geändert:
+__Geändert:__
 
 CON.6.A1 Regelung für die Löschung und Vernichtung von Informationen [Zentrale Verwaltung,
 
@@ -903,7 +903,7 @@ Das Löschen und Vernichten von Informationen MUSS dabei für Fachverfahren, Ges
 
 #### CON 6.A2
 
-##### Geändert:
+__Geändert:__
 
 CON.6.A2 Ordnungsgemäßes Löschen und Vernichten von schützenswerten Betriebsmitteln und Informationen (B)
 
@@ -922,7 +922,7 @@ Dabei MUSS auch berücksichtigt werden, dass Informationen und Betriebsmittel ev
 
 #### CON 6.A11 Die Anforderung wurde von ehöhtem Schutzbedarf zur Basis Anforderung.
 
-##### Geändert:
+__Geändert:__
 
 Wenn externe Dienstleister beauftragt werden, MUSS der Prozess zum Löschen und Vernichten ausreichend sicher und nachvollziehbar sein.
 
@@ -944,7 +944,7 @@ Die mit der Löschung und Vernichtung beauftragten Unternehmen SOLLTEN regelmä�
 
 #### CON 6.A4
 
-##### Geändert:
+__Geändert:__
 
 CON.6.A4 Auswahl geeigneter Verfahren zur Löschung oder Vernichtung von Datenträgern (S)
 
@@ -1062,7 +1062,7 @@ Keine inhaltlichen Änderungen.
 
 #### CON 8.A1 wurde von einer Basis Anforderung zu einer Standard Anforderung.
 
-##### Geändert:
+__Geändert:__
 
 Für den Software-Entwicklungsprozess SOLLTE ein Gesamtzuständiger benannt werden.
 
@@ -1085,13 +1085,13 @@ Für jedes Entwicklungsvorhaben SOLLTE ein Zuständiger für die Informationssic
 
 #### CON 8.A2
 
-##### Hinzugefügt:
+__Hinzugefügt:__:
 
 Die Sicherheitsanforderungen des Auftraggebers an die Vorgehensweise MÜSSEN im Vorgehensmodell integriert werden.
 
 Das ausgewählte Vorgehensmodell, einschließlich der festgelegten Sicherheitsanforderungen, MUSS eingehalten werden.
 
-##### Entfallen:
+__Entfallen:__
 
 Die Sicherheitsanforderungen MÜSSEN dokumentiert werden.
 
@@ -1116,7 +1116,7 @@ Keine inhaltlichen Änderungen.
 
 #### CON 8.A5
 
-##### Hinzugefügt:
+__Hinzugefügt:__:
 
 • Die Standardeinstellungen der Software MÜSSEN derart voreingestellt sein, dass ein sicherer Betrieb der Software ermöglicht wird.
 
@@ -1134,7 +1134,7 @@ Keine inhaltlichen Änderungen.
 
 • Informationen, die für den Produktivbetrieb nicht relevant sind (z. B. Kommentare mit Zugangsdaten für die Entwicklungsumgebung), SOLLTEN in ausgeliefertem Programmcode und ausgelieferten Konfigurationsdateien entfernt werden.
 
-##### Entfallen:
+__Entfallen:__
 
 *• Die Standardeinstellungen der Software MÜSSEN derart konfiguriert sein, dass ein sicherer Betrieb der Software ermöglicht wird.*
 
@@ -1145,14 +1145,14 @@ Keine inhaltlichen Änderungen.
 
 #### CON 8.A6
 
-##### Entfallen:
+__Entfallen:__
 
 *Bevor sie verwendet werden, MUSS außerdem die Integrität der Bibliotheken geeignet sichergestellt werden.*
 
 
 #### CON 8.A7 wurde komplett überarbeitet
 
-##### Geändert:
+__Geändert:__
 
 CON.8.A7 Durchführung von entwicklungsbegleitenden Software-Tests [Tester, Entwickler] (B)
 
@@ -1177,7 +1177,7 @@ Außerdem MUSS getestet werden, ob die Systemvoraussetzungen für die vorgesehen
 
 #### CON 8.A8
 
-##### Geändert:
+__Geändert:__
 
 Es MUSS sichergestellt sein, dass sicherheitskritische Patches und Updates für die entwickelte Software zeitnah durch die Entwickler bereitgestellt werden.
 
@@ -1226,7 +1226,7 @@ Keine inhaltlichen Änderungen.
 
 #### CON 8.A14 Die Anforderung hat sich komplett geändert.
 
-##### Geändert:
+__Geändert:__
 
 Die Entwickler und die übrigen Mitglieder des Entwicklungsteams SOLLTEN zu generellen Informationssicherheitsaspekten und zu den jeweils speziell für sie relevanten Aspekten geschult sein:
 
@@ -1306,7 +1306,7 @@ Keine inhaltlichen Änderungen.
 
 #### CON 9.A1
 
-##### Geändert:
+__Geändert:__
 
 Die zentrale Verwaltungsstelle MUSS sicherstellen, dass durch die Weitergabe von Informationen nicht gegen rechtliche Rahmenbedingungen verstoßen wird.
 
@@ -1319,7 +1319,7 @@ Jeder Mitarbeiter MUSS vor dem Austausch von Informationen sicherstellen, dass d
 
 #### CON 9.A2
 
-##### Geändert:
+__Geändert:__
 
 Bevor Informationen ausgetauscht werden, MUSS der Informationseigentümer festlegen, wie schutzbedürftig die Informationen sind.
 
@@ -1343,7 +1343,7 @@ Keine inhaltlichen Änderungen.
 
 #### CON 9.A5
 
-##### Geändert:
+__Geändert:__
 
 Zusätzlich zu den allgemeinen Schulungsmaßnahmen SOLLTE die Institution die Benutzer über die Gefahren von Rest- und Zusatzinformationen in Dokumenten und Dateien informieren.
 
@@ -1353,7 +1353,7 @@ Die Institution SOLLTE jeden Benutzer anleiten, wie unerwünschte Restinformatio
 
 Die Benutzer SOLLTEN jede Datei und jedes Dokument vor der Weitergabe auf unerwünschte Restinformationen überprüfen.
 
-##### Hinzugefügt:
+__Hinzugefügt:__:
 
 Die Benutzer SOLLTEN unerwünschte Restinformationen aus Dokumenten und Dateien entfernen.
 
@@ -1423,14 +1423,14 @@ Der Baustein CON 10 ist komplett neu hinzugefügt wurden.
 
 #### OPS 1.1.2.A2
 
-##### Entfallen:
+__Entfallen:__
 
 *Für alle administrativen Aufgaben und Verantwortlichkeiten MÜSSEN Vertretungsregelungen geschaffen werden.*
 
 
 #### OPS 1.1.2.A3
 
-##### Entfallen:
+__Entfallen:__
 
 *Auch MÜSSEN sie dazu verpflichtet werden, die relevanten Datenschutzgesetze und andere gesetzliche und betriebliche Regelungen einzuhalten.*
 
@@ -1439,7 +1439,7 @@ Der Baustein CON 10 ist komplett neu hinzugefügt wurden.
 
 #### OPS 1.1.2.A4
 
-##### Entfallen:
+__Entfallen:__
 
 *Den Mitarbeitern ausgehändigte Geräte, Speichermedien und Zugangsmittel MÜSSEN vollständig zurückgegeben werden.*
 
@@ -1453,7 +1453,7 @@ Keine inhaltlichen Änderungen.
 
 #### OPS 1.1.2.A6
 
-##### Hinzugefügt:
+__Hinzugefügt:__:
 
 Die Institution MUSS sicherstellen, das nur Administratoren Zugriff auf administrative Schnittstellen und Funktionen haben.
 
@@ -1475,14 +1475,14 @@ Keine inhaltlichen Änderungen.
 
 #### OPS 1.1.2.A11
 
-##### Hinzugefügt:
+__Hinzugefügt:__:
 
 Sicherheitsrelevante Aspekte SOLLTEN nachvollziehbar erläutert und hervorgehoben werden.
 
 
 #### OPS 1.1.2.A12
 
-##### Entfallen:
+__Entfallen:__
 
 *Mitarbeiter SOLLTEN wissen, dass Wartungspersonal bei Arbeiten im Haus beaufsichtigt werden muss.*
 
@@ -1507,26 +1507,26 @@ Keine inhaltlichen Änderungen.
 
 #### OPS 1.1.3.A1
 
-##### Hinzugefügt:
+__Hinzugefügt:__:
 
 Diese MÜSSEN in einem Konzept für das Patch- und Änderungsmanagement festgehalten und befolgt werden.
 
 Insbesondere SOLLTEN auch die gewünschten Sicherheitseinstellungen erhalten bleiben.
 
-##### Entfallen:
+__Entfallen:__
 
 *Patches und Änderungen SOLLTEN nach Wichtigkeit und Dringlichkeit klassifiziert und entsprechend umgesetzt werden.*
 
 
 #### OPS 1.1.3.A2
 
-##### Geändert:
+__Geändert:__
 
 OPS.1.1.3.A2 Festlegung der Zuständigkeiten (B)
 
 Für alle Organisationsbereiche MÜSSEN Zuständige für das Patch- und Änderungsmanagement festgelegt werden.
 
-##### Entfallen:
+__Entfallen:__
 
 *Zudem SOLLTE ein dedizierter Änderungsmanager (Change Manager) benannt werden.*
 
@@ -1558,7 +1558,7 @@ Anfroderung wurde komplett neu hinzugefügt.
 
 #### OPS 1.1.3.A5 Die Anfroderung wurde komplett geändert.
 
-##### Geändert:
+__Geändert:__
 
 OPS.1.1.3.A5 Umgang mit Änderungsanforderungen [Fachverantwortliche] (S)
 
@@ -1569,7 +1569,7 @@ Die Änderungsanforderungen SOLLTEN vom Fachverantwortlichen für das Patch- und
 
 #### OPS 1.1.3.A6
 
-##### Geändert:
+__Geändert:__
 
 Der zu einer Änderung zugehörige Abstimmungsprozess SOLLTE alle relevanten Zielgruppen und die Auswirkungen auf die Informationssicherheit berücksichtigen.
 
@@ -1586,14 +1586,14 @@ Keine inhaltlichen Änderungen.
 
 #### OPS 1.1.3.A9
 
-##### Hinzugefügt:
+__Hinzugefügt:__:
 
 Wenn neue Hardware ausgewählt wird, SOLLTE geprüft werden, ob die eingesetzte Software und insbesondere die relevanten Betriebssysteme mit der Hardware und dessen Treibersoftware kompatibel sind.
 
 
 #### OPS 1.1.3.A10
 
-##### Hinzugefügt:
+__Hinzugefügt:__:
 
 Falls ja, SOLLTEN diese vor der Installation des Pakets überprüft werden.
 
@@ -1618,7 +1618,7 @@ Keine inhaltlichen Änderungen.
 
 #### OPS 1.1.3.A14
 
-##### Entfallen:
+__Entfallen:__
 
 *Wenn Institutionen Änderungen an der IT-Infrastruktur vornehmen, SOLLTE der Änderungsmanagementprozess darauf reagieren.*
 
@@ -1633,21 +1633,21 @@ Keine inhaltlichen Änderungen.
 
 #### OPS 1.1.4.A1
 
-##### Hinzugefügt:
+__Hinzugefügt:__:
 
 Hierbei MÜSSEN auch IoT-Geräte und Produktionssysteme berücksichtigt werden.
 
 
 #### OPS 1.1.4.A2
 
-##### Geändert:
+__Geändert:__
 
 Werden sie nicht genutzt, MUSS dies begründet und dokumentiert werden.
 
 
 #### OPS 1.1.4.A3
 
-##### Hinzugefügt:
+__Hinzugefügt:__:
 
 Für Gateways und IT-Systeme, die dem Datenaustausch dienen, MUSS ein geeignetes Virenschutzprogramm ausgewählt und installiert werden.
 
@@ -1657,7 +1657,7 @@ Falls Cloud-Funktionen solcher Produkte verwendet werden, MUSS sichergestellt we
 
 Neben Echtzeit- und On-Demand-Scans MUSS eine eingesetzte Lösung die Möglichkeit bieten, auch komprimierte Daten nach Schadprogrammen zu durchsuchen.
 
-##### Entfallen:
+__Entfallen:__
 
 *Es DÜRFEN NUR Cloud-Funktionen solcher Produkte verwendet werden, bei denen keine gravierenden, nachweisbaren Daten- oder Geheimschutzaspekte dagegen sprechen.*
 
@@ -1675,14 +1675,14 @@ Neben Echtzeit- und On-Demand-Scans MUSS eine eingesetzte Lösung die Möglichke
 
 #### OPS 1.1.4.A5
 
-##### Hinzugefügt:
+__Hinzugefügt:__:
 
 Es MUSS sichergestellt werden, dass die Benutzer keine sicherheitsrelevanten Änderungen an den Einstellungen der Antivirenprogramme vornehmen können.
 
 
 #### OPS 1.1.4.A6
 
-##### Entfallen:
+__Entfallen:__
 
 *Auf den damit ausgestatteten IT-Systemen MÜSSEN die Scan-Engine des Virenschutzprogramms sowie die Signaturen für die Schadprogramme regelmäßig aktualisiert werden.*
 
@@ -1694,14 +1694,14 @@ Es MUSS sichergestellt werden, dass die Benutzer keine sicherheitsrelevanten Än
 
 *Nachdem das Update installiert wurde, MÜSSEN die Konfigurationseinstellungen überprüft und mit den dokumentierten Vorgaben abgeglichen werden.*
 
-##### Hinzugefügt:
+__Hinzugefügt:__:
 
 Auf den damit ausgestatteten IT-Systemen MÜSSEN die Scan-Engine des Virenschutzprogramms sowie die Signaturen für die Schadprogramme regelmäßig und zeitnah aktualisiert werden.
 
 
 #### OPS 1.1.4.A7
 
-##### HInzugefügt:
+__Hinzugefügt:__:
 
 Benutzern MÜSSEN entsprechende Ansprechpartner für den Fall eines Verdacht auf eine Infektion mit einem Schadprogramm bekannt sein.
 
@@ -1721,7 +1721,7 @@ Benutzer MÜSSEN sich an die ihnen benannten Ansprechpartner wenden, wenn der Ve
 
 #### OPS 1.1.4.A9
 
-##### Entfallen:
+__Entfallen:__
 
 *Unabhängig von der automatischen Meldung SOLLTE sich jedoch auch der Benutzer an die ihm benannten Ansprechpartner wenden, wenn der Verdacht auf eine Infektion mit einem Schadprogramm besteht.*
 
@@ -1754,7 +1754,7 @@ Keine inhaltlichen Änderungen.
 
 #### OPS 1.1.5.A1
 
-##### Geändert:
+__Geändert:__
 
 Die spezifische Sicherheitsrichtlinie MUSS vom ISB gemeinsam mit den Fachverantwortlichen erstellt werden.
 
@@ -1785,7 +1785,7 @@ Keine inhaltlichen Änderungen.
 
 #### OPS 1.1.5.A6
 
-##### Entfallen:
+__Entfallen:__
 
 *Dafür SOLLTE eine zentrale Protokollierungsinfrastruktur im Sinne eines Logserver-Verbunds aufgebaut und in einem hierfür eingerichteten Netzsegment platziert werden.*
 
@@ -1797,7 +1797,7 @@ Keine inhaltlichen Änderungen.
 
 *Falls die Protokollierungsinfrastruktur extern aufgebaut und betrieben werden soll, SOLLTE ein spezialisierter Dienstleister beauftragt werden.*
 
-##### Hinzugefügt:
+__Hinzugefügt:__:
 
 Dafür SOLLTE eine zentrale Protokollierungsinfrastruktur im Sinne eines Logserver-Verbunds aufgebaut und in einem hierfür eingerichteten Netzsegment platziert werden (siehe NET.1.1 Netzarchitektur und -design).
 
@@ -1827,7 +1827,7 @@ Keine inhaltlichen Änderungen.
 
 #### OPS 1.1.5.A10
 
-##### Entfallen:
+__Entfallen:__
 
 *Alle Protokollierungsdaten SOLLTEN so gespeichert und übertragen werden, dass Unbefugte nicht darauf zugreifen können.*
 
@@ -1841,7 +1841,7 @@ Keine inhaltlichen Änderungen.
 
 *Ein solcher Zugriff SOLLTE dokumentiert werden.*
 
-##### Hinzugefügt:
+__Hinzugefügt:__:
 
 Es SOLLTE sichergestellt sein, dass die ausführenden Administratoren selbst keine Berechtigung haben, die aufgezeichneten Protokollierungsdaten zu verändern oder zu löschen.
 
@@ -1861,7 +1861,7 @@ Keine inhaltlichen Änderungen.
 
 #### OPS 1.1.6.A1
 
-##### Entfallen:
+__Entfallen:__
 
 *Die Rahmenbedingungen für Software-Test MÜSSEN vor den Tests innerhalb der Institution entsprechend der Schutzbedarfe, Organisationseinheiten, technischen Möglichkeiten und Test-Umgebungen festlegt sein.*
 
@@ -1869,7 +1869,7 @@ Keine inhaltlichen Änderungen.
 
 *Bei der Auswahl der Testfälle MUSS darauf geachtet werden, dass diese möglichst repräsentativ für die zu testenden Funktionen sind und diese möglichst vollständig abdecken.*
 
-##### Hinzugefügt:
+__Hinzugefügt:__:
 
 Die Rahmenbedingungen für Software-Tests MÜSSEN vor den Tests innerhalb der Institution entsprechend der Schutzbedarfe, Organisationseinheiten, technischen Möglichkeiten und Test-Umgebungen festlegt sein.
 
@@ -1903,7 +1903,7 @@ keine inhaltlichen Änderungen.
 
 #### OPS 1.1.6.A5
 
-##### Geändert:
+__Geändert:__
 
 OPS.1.1.6.A5 Durchführung von Software-Tests für nicht funktionale Anforderungen [Tester] (B)
 
@@ -1922,7 +1922,7 @@ keine inhaltlichen Änderungen.
 
 #### OPS 1.1.6.A7
 
-##### Entfallen:
+__Entfallen:__
 
 *Die Personen SOLLTEN die erforderliche berufliche Qualifikation haben.*
 
@@ -1932,7 +1932,7 @@ keine inhaltlichen Änderungen.
 
 *In öffentlichen Einrichtungen und geheimschutzbetreuten Institutionen SOLLTE geprüft werden, ob eine Sicherheitsüberprüfung des Personals erforderlich ist.*
 
-##### Hinzugefügt:
+__Hinzugefügt:__:
 
 Die Software-Tester SOLLTEN die erforderliche berufliche Qualifikation haben.
 
@@ -1972,7 +1972,7 @@ Keine inhaltlichen Änderungen.
 
 #### OPS 1.1.6.A12
 
-##### Geändert:
+__Geändert:__
 
 Wenn Software verändert wurde, SOLLTEN Regressionstests durchgeführt werden.
 
@@ -1983,7 +1983,7 @@ Regressionstests SOLLTEN vollständig durchgeführt werden und hierbei auch Erwe
 
 #### OPS 1.1.6.A13 Die Anforderung wurde komplett geändert.
 
-##### Geändert:
+__Geändert:__
 
 OPS.1.1.6.A13 Trennung der Testumgebung von der Produktivumgebung (S)
 
@@ -2032,7 +2032,7 @@ keine inhaltlichen Änderungen.
 
 #### OPS 1.2.4.A2
 
-##### Entfallen:
+__Entfallen:__
 
 *Alle Zugangsmöglichkeiten auf die Server der Institution sowie alle Zugriffsrechte auf die darauf gespeicherten Informationen MÜSSEN auf das notwendige Mindestmaß beschränkt sein.*
 
@@ -2086,7 +2086,7 @@ Keine inhaltlichen Änderungen.
 
 #### OPS 1.2.5.A1
 
-##### Geändert:
+__Geändert:__
 
 Der Einsatz der Fernwartung MUSS an die Institution angepasst werden.
 
@@ -2097,14 +2097,14 @@ Dabei MUSS mindestens berücksichtigt werden, welche IT-Systeme ferngewartet wer
 
 #### OPS 1.2.5.A2
 
-##### Entfallen:
+__Entfallen:__
 
 *Der Benutzer des fernadministrierten Clients MUSS dem Fernzugriff explizit zustimmen.*
 
 
 #### OPS 1.2.5.A3
 
-##### Hinzugefügt:
+__Hinzugefügt:__:
 
 Alle anderen Fernwartungsverbindungen SOLLTEN verschlüsselt werden.
 
@@ -2132,7 +2132,7 @@ Keine inhaltlichen Änderungen.
 
 #### OPS 1.2.5.A20
 
-##### Entfallen:
+__Entfallen:__
 
 *Die anfallenden Protokolldaten SOLLTEN regelmäßig ausgewertet werden.*
 
@@ -2196,7 +2196,7 @@ Keine inhaltlichen Änderungen.
 
 #### DER 1.A1
 
-##### Geändert:
+__Geändert:__
 
 DER.1.A1 Erstellung einer Sicherheitsrichtlinie für die Detektion von sicherheitsrelevanten Ereignissen (B)
 
@@ -2220,14 +2220,14 @@ Keine inhaltlichen Änderungen.
 
 #### DER 1.A3
 
-##### Entfallen:
+__Entfallen:__
 
 *Die Melde- und Alarmierungswege MÜSSEN den Mitarbeitern ausgedruckt vorliegen.*
 
 
 #### DER 1.A4
 
-##### Entfallen:
+__Entfallen:__
 
 *Damit Mitarbeiter mögliche Sicherheitsvorfälle schnell erkennen können, MÜSSEN sie entsprechend sensibilisiert werden.*
 
@@ -2235,7 +2235,7 @@ Keine inhaltlichen Änderungen.
 
 *Auch MÜSSEN die Mitarbeiter dahingehend sensibilisiert werden, dass sie Ereignismeldungen der Clients nicht einfach ignorieren oder schließen, sondern die Meldungen entsprechend der Alarmierungswege an das verantwortliche Incident Management weitergeben (siehe DER.2.1 Behandlung von Sicherheitsvorfällen).*
 
-##### Hinzugefügt:
+__Hinzugefügt:__:
 
 Jeder Benutzer MUSS dahingehend sensibilisiert werden, dass er Ereignismeldungen seines Clients nicht einfach ignoriert oder schließt.
 
@@ -2244,7 +2244,7 @@ Jeder Benutzer MUSS die Meldungen entsprechend der Alarmierungswege an das veran
 
 #### DER 1.A5
 
-##### Entfallen:
+__Entfallen:__
 
 *Auf allen eingesetzten Komponenten MUSS die Protokollierung aktiviert werden (siehe OPS.1.1.5 Protokollierung).*
 
@@ -2258,7 +2258,7 @@ Keine inhaltlichen Änderungen.
 
 #### DER 1.A7
 
-##### Geändert:
+__Geändert:__
 
 Alle Zuständigen, die Ereignismeldungen kontrollieren, SOLLTEN weiterführende Schulungen und Qualifikationen erhalten.
 
@@ -2278,7 +2278,7 @@ Bevor die zuständigen Mitarbeiter Schulungen für neue IT-Komponenten bekommen,
 
 #### DER 1.A9
 
-##### Hinzugefügt:
+__Hinzugefügt:__:
 
 Anhand des Netzplans SOLLTE festgelegt werden, welche Netzsegmente durch zusätzliche Detektionssysteme geschützt werden müssen.
 
@@ -2290,7 +2290,7 @@ Keine inhaltlichen Änderungen.
 
 #### DER 1.A11
 
-##### Entfallen:
+__Entfallen:__
 
 *Damit die Daten korreliert und abgeglichen werden können, SOLLTEN sie alle zeitlich synchronisiert werden.*
 
@@ -2315,21 +2315,21 @@ Keine inhaltlichen Änderungen.
 
 #### DER 2.1.A5
 
-##### Geändert:
+__Geändert:__
 
 Damit ein Sicherheitsvorfall erfolgreich behoben werden kann, MUSS der Zuständige zunächst das Problem eingrenzen und die Ursache finden.
 
 
 #### DER 2.1.A6
 
-##### Entfallen:
+__Entfallen:__
 
 *Wird auf externe Dienstleister zurückgegriffen, um Störungen zu beheben, MUSS geregelt werden, welche Informationen über den Sicherheitsvorfall wem zugänglich gemacht werden.*
 
 
 #### DER 2.1.A7
 
-##### Hinzugefügt:
+__Hinzugefügt:__:
 
 Bei Bedarf SOLLTE die Vorgehensweise angepasst werden.
 
@@ -2341,7 +2341,7 @@ Keine inhaltlichen Änderungen.
 
 #### DER 2.1.A13
 
-##### Entfallen:
+__Entfallen:__
 
 *Als Teil des Sicherheitsmanagements SOLLTE die Behandlung von Sicherheitsvorfällen in der Sicherheitsleitlinie bzw. im Sicherheitskonzept der Institution geregelt werden*
 
@@ -2353,7 +2353,7 @@ Keine inhaltlichen Änderungen.
 
 #### DER 2.1.A15
 
-##### Entfallen:
+__Entfallen:__
 
 *Die Mitarbeiter des Service Desk SOLLTEN die Richtlinien für die Behandlung von Sicherheitsvorfällen kennen.*
 
@@ -2367,7 +2367,7 @@ Keine inhaltlichen Änderungen.
 
 #### DER 2.1.A21
 
-##### Geändert:
+__Geändert:__
 
 Die Zuständigkeiten des Expertenteams SOLLTEN vorher mit denen des Sicherheitsvorfall-Teams abgestimmt werden.
 
@@ -2481,7 +2481,7 @@ Keine inhaltlichen Änderungen.
 
 #### APP 1.1.A2
 
-##### Geändert:
+__Geändert:__
 
 Die Funktion, dass eingebettete Aktive Inhalte automatisch ausgeführt werden, MUSS deaktiviert werden.
 
@@ -2492,11 +2492,11 @@ Alle Benutzer MÜSSEN hinsichtlich der Funktionen, die Aktive Inhalte einschrän
 
 #### APP 1.1.A3
 
-##### Entfallen:
+__Entfallen:__
 
 *Die Benutzer MÜSSEN zum Umgang mit Dokumenten aus externen Quellen geschult und sensibilisiert werden.*
 
-##### Geändert:
+__Geändert:__
 
 Falls möglich, SOLLTEN sie blockiert werden.
 
@@ -2520,7 +2520,7 @@ Durch technische Maßnahmen SOLLTE erzwungen werden, dass Dokumente aus externen
 
 #### APP 1.1.A17 Die Anforderung wurde neu hinzugefügt und hat zum Teil A4 ersetzt.
 
-##### Geändert:
+__Geändert:__
 
 APP.1.1.A17 Sensibilisierung zu spezifischen Office-Eigenschaften (B)
 
@@ -2550,7 +2550,7 @@ Benutzer SOLLTEN im Umgang mit den Verschlüsselungsfunktionen in Office-Produkt
 
 #### APP 1.1.A6
 
-##### Entfallen:
+__Entfallen:__
 
 *Zu diesem Zweck SOLLTEN Testmethoden für die Einzeltests (Testarten, -verfahren und -werkzeuge) entwickelt und freigegeben werden.*
 
@@ -2619,7 +2619,7 @@ Keine inhaltlichen Änderungen.
 
 #### APP 1.1.A13
 
-##### Hinzugefügt:
+__Hinzugefügt:__:
 
 In dem geschützten Modus SOLLTEN Daten NICHT unmittelbar bearbeitet werden können.
 
@@ -2628,14 +2628,14 @@ Aktive Inhalte, wie Makros und Skripte, SOLLTEN im geschützten Modus NICHT auto
 
 #### APP 1.1.A14
 
-##### Entfallen:
+__Entfallen:__
 
 *Die Benutzer SOLLTEN darauf hingewiesen werden, wie diese Sicherheitsmechanismen funktionieren und wie sie anzuwenden sind.*
 
 
 #### APP 1.1.A15
 
-##### Entfallen:
+__Entfallen:__
 
 *Daten mit erhöhtem Schutzbedarf SOLLTEN vor einer Übertragung oder Speicherung verschlüsselt werden.*
 
@@ -2649,7 +2649,7 @@ Aktive Inhalte, wie Makros und Skripte, SOLLTEN im geschützten Modus NICHT auto
 
 *Die Gültigkeit der verwendeten Zertifikate SOLLTE zeitlich begrenzt werden.*
 
-##### Hinzugefügt:
+__Hinzugefügt:__:
 
 Daten mit erhöhtem Schutzbedarf SOLLTEN nur verschlüsselt gespeichert bzw. übertragen werden.
 
@@ -2658,7 +2658,7 @@ Bevor ein in ein Office-Produkt integriertes Verschlüsselungsverfahren genutzt 
 
 #### APP 1.1.A16
 
-##### Entfallen:
+__Entfallen:__
 
 *Es SOLLTE ein Verfahren ausgewählt werden, das dazu in der Lage ist, die Daten selbstständig zu korrigieren.*
 
@@ -2673,21 +2673,21 @@ Bevor ein in ein Office-Produkt integriertes Verschlüsselungsverfahren genutzt 
 
 #### APP 1.2.A1
 
-##### Geändert:
+__Geändert:__
 
 Der verwendete Webbrowser MUSS die Content Security Policy (CSP) umsetzen.
 
 
 #### APP 1.2.A2
 
-##### Entfallen:
+__Entfallen:__
 
 *Für alle wichtigen öffentlichen TLS-verschlüsselten Web-Dienste SOLLTEN die Domains in die HSTS-Preload-Liste des Browsers eingefügt werden.*
 
 
 #### APP 1.2.A3
 
-##### Geändert:
+__Geändert:__
 
 Falls der Webbrowser eine eigene Liste von vertrauenswürdigen Wurzelzertifikaten bereitstellt, MUSS sichergestellt werden, dass nur Administratoren diese ändern können.
 
@@ -2715,7 +2715,7 @@ Der Webbrowser MUSS in diesem Fall die Verbindung abbrechen, bis der Benutzer di
 
 #### APP 1.2.A6 Die Anforderung wurde von Standard zu Basis-Anforderung geändert.
 
-##### Geändert:
+__Geändert:__
 
 Wird ein Kennwortmanager im Webbrowser verwendet, MUSS er eine direkte und eindeutige Beziehung zwischen Webseite und hierfür gespeichertem Kennwort herstellen.
 
@@ -2783,7 +2783,7 @@ Keine inhaltlichen Änderungen.
 
 #### APP 1.4.A1
 
-##### Entfallen:
+__Entfallen:__
 
 *Bevor eine App installiert und genutzt wird, MUSS unter Einbeziehung der jeweiligen Fachverantwortlichen klar definiert werden, welche Geschäftsprozesse die App unterstützen und an welche IT-Komponenten der Institution sie angebunden werden soll.*
 
@@ -2868,7 +2868,7 @@ Keine inhaltlichen Änderungen.
 
 #### APP 1.4.A3 Die Anforderung wurde von einer Basis-Anforderung in eine Standard-Anforderung gewandelt.
 
-##### Geändert:
+__Geändert:__
 
 APP.1.4.A3 Verteilung schutzbedürftiger Apps (S)
 
@@ -2916,7 +2916,7 @@ Interne Apps der Institution und Apps, die schutzbedürftige Informationen verar
 
 #### APP 1.4.A12
 
-##### Entfallen:
+__Entfallen:__
 
 *Wenn Apps deinstalliert werden, SOLLTEN auch alle von der App generierten Dateien gelöscht werden.*
 
@@ -2924,7 +2924,7 @@ Interne Apps der Institution und Apps, die schutzbedürftige Informationen verar
 
 *Außerdem SOLLTEN auch Daten gelöscht werden, die auf externen Systemen, beispielsweise beim App-Anbieter, gespeichert wurden.*
 
-##### Hinzugefügt:
+__Hinzugefügt:__:
 
 Werden Apps deinstalliert, SOLLTEN auch Daten gelöscht werden, die auf externen Systemen, beispielsweise beim App-Anbieter, gespeichert wurden.
 
@@ -2976,7 +2976,7 @@ Keine inhaltlichen Änderungen.
 
 #### APP 2.2.A2
 
-##### Entfallen:
+__Entfallen:__
 
 *Es MUSS ein rollenbasiertes Berechtigungskonzept erstellt werden.*
 
@@ -3006,7 +3006,7 @@ Keine inhaltlichen Änderungen.
 
 #### APP 2.2.A6
 
-##### Entfallen:
+__Entfallen:__
 
 *Die Dienste-Administratoren auf dem Domänencontroller DÜRFEN NUR die notwendigen Rechte besitzen.*
 
@@ -3015,7 +3015,7 @@ Keine inhaltlichen Änderungen.
 
 #### APP 2.2.A7
 
-##### Entfallen:
+__Entfallen:__
 
 *Administratorkonten DÜRFEN NICHT für die gewöhnliche tägliche Arbeit verwendet werden.*
 
@@ -3054,7 +3054,7 @@ Keine inhaltlichen Änderungen.
 
 #### APP 2.2.A12
 
-##### Entfallen:
+__Entfallen:__
 
 *Die Sicherungsmedien SOLLTEN an einem geeigneten Standort aufbewahrt werden.*
 
@@ -3120,7 +3120,7 @@ Keine inhaltlichen Änderungen.
 
 #### APP 2.3.A5
 
-##### Entfallen:
+__Entfallen:__
 
 *Es MUSS ein Berechtigungskonzept anhand der im Baustein APP.2.1 Allgemeiner Verzeichnisdienst beschriebenen Methode festgelegt werden.*
 
@@ -3153,7 +3153,7 @@ Keine inhaltlichen Änderungen.
 
 #### APP 2.3.A10
 
-##### Geändert:
+__Geändert:__
 
 Bei Updates SOLLTE darauf geachtet werden, ob die Änderungen eingesetzte Backends oder Overlays sowie Softwareabhängigkeiten betreffen.
 
@@ -3203,7 +3203,7 @@ Keine inhaltlichen Änderungen.
 
 #### APP 3.1.A1 Die Anforderung wurde komplett geändert.
 
-##### Geändert:
+__Geändert:__
 
 Der IT-Betrieb MUSS Webanwendungen so konfigurieren, dass sich Benutzer gegenüber der Webanwendung authentisieren müssen, wenn diese auf geschützte Ressourcen zugreifen wollen.
 
@@ -3268,7 +3268,7 @@ Der IT-Betrieb MUSS geeignete Grenzwerte für fehlgeschlagene Anmeldeversuche fe
 
 #### APP 3.1.A4 Die Anforderung wurde komplett geändert.
 
-##### Geändert:
+__Geändert:__
 
 Insbesondere MÜSSEN die erlaubte Dateigröße, erlaubte Dateitypen und erlaubte Speicherorte festgelegt werden.
 
@@ -3294,20 +3294,20 @@ Zudem MUSS sichergestellt werden, dass ein Benutzer Dateien nur im vorgegebenen 
 
 #### APP 3.1.A7
 
-##### Geändert:
+__Geändert:__
 
 Der IT-Betrieb MUSS sicherstellen, dass die Webanwendung vor unberechtigter automatisierter Nutzung geschützt wird.
 
 Wenn die Webanwendung RSS-Feeds oder andere Funktionen enthält, die explizit für die automatisierte Nutzung vorgesehen sind, MUSS dies ebenfalls bei der Konfiguration der Schutzmechanismen berücksichtigt werden.
 
-##### Entfallen:
+__Entfallen:__
 
 *Wenn die Webanwendung RSS-Feeds oder andere Funktionen enthält, die explizit für die automatisierte Nutzung vorgesehen sind, MUSS dies ebenfalls bei der Konfiguration der Schutzmechanismen berücksichtigt werden.*
 
 
 #### APP 3.1.A14 Die Anforderung wurde komplett geändert
 
-##### Geändert:
+__Geändert:__
 
 Der IT-Betrieb MUSS sicherstellen, dass Zugangsdaten zur Webanwendung serverseitig mithilfe von sicheren kryptografischen Algorithmen vor unbefugtem Zugriff geschützt werden.
 
@@ -3348,7 +3348,7 @@ Die Dateien mit den Quelltexten der Webanwendung MÜSSEN vor unerlaubten Abrufen
 
 #### APP 3.1.A8 Die Anforderung wurde komplett geändert:
 
-##### Geändert:
+__Geändert:__
 
 APP.3.1.A8 Systemarchitektur einer Webanwendung [Beschaffungsstelle] (S)
 
@@ -3359,7 +3359,7 @@ Auch SOLLTE darauf geachtet werden, dass die Architektur der Webanwendung die Ge
 
 #### APP 3.1.A9 Die Anforderung wurde komplett geändert:
 
-##### Geändert:
+__Geändert:__
 
 APP.3.1.A9 Beschaffung von Webanwendungen (S)
 
@@ -3388,7 +3388,7 @@ Zusätzlich zu den allgemeinen Aspekten der Beschaffung von Software SOLLTE die 
 
 #### APP 3.1.A11 Die Anforderung wurde komplett geändert:
 
-##### Geändert:
+__Geändert:__
 
 Der Zugriff auf Hintergrundsysteme, auf denen Funktionen und Daten ausgelagert werden, SOLLTE ausschließlich über definierte Schnittstellen und von definierten IT-Systemen aus möglich sein.
 
@@ -3397,7 +3397,7 @@ Bei der Kommunikation über Netz- und Standortgrenzen hinweg SOLLTE der Datenver
 
 #### APP 3.1.A12
 
-##### Geändert:
+__Geändert:__
 
 Der Zugriff auf nicht benötigte Ressourcen und Funktionen SOLLTE deaktiviert werden.
 
@@ -3463,7 +3463,7 @@ Folgendes SOLLTE bei der Konfiguration von Webanwendungen umgesetzt werden:
 
 #### APP 3.1.A21
 
-##### Hinzugefügt:
+__Hinzugefügt:__:
 
 Die verwendeten HTTP-Header SOLLTEN so restriktiv wie möglich sein.
 
@@ -3519,18 +3519,18 @@ Keine inhaltlichen Änderungen.
 
 #### APP 3.2.A1
 
-##### Hinzugefügt:
+__Hinzugefügt:__:
 
 Ist dies nicht möglich, SOLLTE jeder Webserver auf einem eigenen physischen oder virtuellen Server ausgeführt werden.
 
 
 #### APP 3.2.A2
 
-##### Entfallen:
+__Entfallen:__
 
 *Er MUSS Dateien, die nicht verändert werden sollen, vor Schreibzugriffen schützen.*
 
-##### Hinzugefügt:
+__Hinzugefügt:__:
 
 Der IT-Betrieb MUSS regelmäßig überprüfen, ob vertrauliche Dateien in öffentlichen Verzeichnissen gespeichert wurden.
 
@@ -3542,7 +3542,7 @@ Keine inhaltlichen Änderungen.
 
 #### APP 3.2.A7
 
-##### Entfallen:
+__Entfallen:__
 
 *Auch SOLLTEN die Anforderungen an die Barrierefreiheit gemäß Behindertengleichstellungsgesetz beachtet werden.*
 
@@ -3554,13 +3554,13 @@ Keine inhaltlichen Änderungen.
 
 #### APP 3.2.A8
 
-##### Entfallen:
+__Entfallen:__
 
 *Es SOLLTE geplant und dokumentiert werden, für welchen Zweck der Webserver eingesetzt werden soll.*
 
 *Außerdem SOLLTE festgelegt werden, wie er in die vorhandene IT-Infrastruktur integriert wird.*
 
-##### Geändert:
+__Geändert:__
 
 Es SOLLTE geplant und dokumentiert werden, für welchen Zweck der Webserver eingesetzt und welche Inhalte er bereitstellen soll.
 
@@ -3631,7 +3631,7 @@ Die Institution wurde in diesem Baustein grundätzlich durch den IT-Betrieb erse
 
 #### APP 3.3.A2
 
-##### Entfallen:
+__Entfallen:__
 
 *Bei einem Hardware-RAID SOLLTE der RAID-Controller redundant ausgelegt sein.*
 
@@ -3667,7 +3667,7 @@ Kein inhaltlichen Änderungen.
 
 #### APP 3.3.A6
 
-##### Entfallen:
+__Entfallen:__
 
 *Bevor ein Fileserver beschafft und die Software hierzu ausgewählt wird, SOLLTE die Institution eine Anforderungsliste erstellen.*
 
@@ -3686,7 +3686,7 @@ Kein inhaltlichen Änderungen.
 
 #### APP 3.3.A9
 
-##### Entfallen:
+__Entfallen:__
 
 *Weiterhin SOLLTEN die eingesetzten Speicher in das übergeordnete Protokollierungskonzept des Informationsverbunds einbezogen werden.*
 
@@ -3703,14 +3703,14 @@ Kein inhaltlichen Änderungen.
 
 #### APP 3.3.A12
 
-##### Entfallen:
+__Entfallen:__
 
 *Kryptografische Schüssel SOLLTEN sicher erzeugt und von den Daten getrennt aufbewahrt werden (siehe auch CON.1 Kryptokonzept).*
 
 
 #### APP 3.3.A13
 
-##### Geändert:
+__Geändert:__
 
 Für hochverfügbare Fileserver SOLLTE eine angemessene Replikation der Daten auf mehreren Massenspeichern stattfinden.
 
@@ -3732,7 +3732,7 @@ Keine inhaltlichen Änderungen.
 
 #### APP 3.4.A2
 
-##### Entfallen:
+__Entfallen:__
 
 *Es MUSS sichergestellt werden, dass die Zugriffsberechtigungen für jeden Benutzer individuell bestimmt werden.*
 
@@ -3743,7 +3743,7 @@ Keine inhaltlichen Änderungen.
 
 #### APP 3.4.A3
 
-##### Entfallen:
+__Entfallen:__
 
 *Samba SOLLTE so konfiguriert werden, dass nur benötigte Netzports geöffnet werden.*
 
@@ -3763,7 +3763,7 @@ Keine inhaltlichen Änderungen.
 
 #### APP 3.4.A5
 
-##### Geändert:
+__Geändert:__
 
 Ferner SOLLTEN die effektiven Zugriffsberechtigungen auf die Freigaben des Samba-Servers regelmäßig überprüft werden.
 
@@ -3785,7 +3785,7 @@ Keine inhaltlichen Änderungen.
 
 #### APP 3.4.A9
 
-##### Hinzugefügt:
+__Hinzugefügt:__:
 
 Wird mit Kerberos authentisiert, SOLLTE der zentrale Zeitserver lokal auf dem Samba-Server installiert werden.
 
@@ -3838,13 +3838,13 @@ Keine inhaltlichen Änderungen.
 
 #### APP 3.6.A7
 
-##### Entfallen:
+__Entfallen:__
 
 *Auch MUSS überwacht werden, wie ausgelastet die DNS-Server sind, um rechtzeitig die Leistungskapazität der Hardware anpassen zu können.*
 
 *Darüber hinaus MÜSSEN alle sicherheitsrelevanten Ereignisse bei DNS-Servern geeignet protokolliert werden.*
 
-##### Hinzugefügt:
+__Hinzugefügt:__:
 
 Es MUSS überwacht werden, wie ausgelastet die DNS-Server sind, um rechtzeitig die Leistungskapazität der Hardware anpassen zu können.
 
@@ -3892,7 +3892,7 @@ Keine inhaltichen Änderungen.
 
 #### APP 3.6 A15
 
-##### Hinzugefügt:
+__Hinzugefügt:__:
 
 Mindestens die folgenden sicherheitsrelevanten Ereignisse SOLLTEN ausgewertet werden:
 
@@ -3926,7 +3926,7 @@ Keine inhaltichen Änderungen.
 
 #### APP 3.6.A19
 
-##### Entfallen:
+__Entfallen:__
 
 *Wird ein DNS-Server ausgesondert, SOLLTEN alle Speichermedien des Servers sicher gelöscht werden.*
 
@@ -3961,7 +3961,7 @@ Keine inhaltichen Änderungen.
 
 #### APP 4.2.A5
 
-##### Entfallen:
+__Entfallen:__
 
 *Der Benutzeradministrator MUSS im Umgang mit der SAP-Benutzerverwaltung ausreichend geschult sein.*
 
@@ -3970,7 +3970,7 @@ Keine inhaltichen Änderungen.
 
 #### APP 4.2.A6
 
-##### Entfallen:
+__Entfallen:__
 
 *Alle Berechtigungen SOLLTEN nach dem Prinzip der minimalen Berechtigungsvergabe zugeteilt werden.*
 
@@ -4036,7 +4036,7 @@ Keine inhaltichen Änderungen.
 
 #### APP 4.3.A1
 
-##### Geändert:
+__Geändert:__
 
 Die Richtlinie MUSS allen im Bereich Datenbanksysteme zuständigen Mitarbeitern bekannt sein.
 
@@ -4062,7 +4062,7 @@ Die Ergebnisse MÜSSEN sinnvoll dokumentiert werden.
 
 #### APP 4.3.A3
 
-##### Entfallen:
+__Entfallen:__
 
 *Auch MÜSSEN alle Passwörter entsprechend den internen Anforderungen der Institution geändert werden.*
 
@@ -4226,7 +4226,7 @@ keine inhaltlichen Änderungen.
 
 #### APP 5.2.A10
 
-##### Entfallen:
+__Entfallen:__
 
 *Die Benutzer SOLLTEN nur ausgewählte Einstellungen selbst verändern können.*
 
@@ -4328,13 +4328,13 @@ Der Baustein ist komplett neu hinzugefügt wurden.
 
 #### SYS 1.1.A1
 
-##### Entfallen:
+__Entfallen:__
 
 *Es MUSS geregelt werden, wer Zutritt zu den Räumen beziehungsweise zu den Servern selbst erhält.*
 
 *Die IT-Systeme, die gesichert werden sollen, MÜSSEN geeignet von den sichernden Systemen, etwa BackupServern, in unterschiedlichen Brandabschnitten getrennt werden.*
 
-##### Hinzugefügt:
+__Hinzugefügt:__:
 
 Server DÜRFEN NICHT als Arbeitsplatzrechner genutzt werden.
 
@@ -4343,7 +4343,7 @@ Als Arbeitsplatz genutzte IT-Systeme DÜRFEN NICHT als Server genutzt werden.
 
 #### SYS 1.1.A2
 
-##### Entfallen:
+__Entfallen:__
 
 *Verwendete Passwörter MÜSSEN sicher sein.*
 
@@ -4390,7 +4390,7 @@ Als Arbeitsplatz genutzte IT-Systeme DÜRFEN NICHT als Server genutzt werden.
 
 #### SYS 1.1.A5 Die Anforderung wurde komplett geändert.
 
-##### Geändert:
+__Geändert:__
 
 Es MUSS gewährleistet werden, dass nur dafür vorgesehene Wechselspeicher und sonstige Geräte an die Server angeschlossen werden können.
 
@@ -4399,7 +4399,7 @@ Alle Schnittstellen, die nicht verwendet werden, MÜSSEN deaktiviert werden.
 
 #### SYS 1.1.A6
 
-##### Entfallen:
+__Entfallen:__
 
 *Nicht benötigte Benutzerkennungen MÜSSEN entweder gelöscht oder zumindest so deaktiviert werden, dass unter diesen Kennungen keine Anmeldungen am System möglich sind.*
 
@@ -4440,7 +4440,7 @@ Alle Schnittstellen, die nicht verwendet werden, MÜSSEN deaktiviert werden.
 
 #### SYS 1.1.A9
 
-##### Entfallen:
+__Entfallen:__
 
 *Die entsprechenden Signaturen eines Virenschutz-Programms MÜSSEN regelmäßig aktualisiert werden.*
 
@@ -4449,7 +4449,7 @@ Alle Schnittstellen, die nicht verwendet werden, MÜSSEN deaktiviert werden.
 
 #### SYS 1.1.A10
 
-##### Entfallen:
+__Entfallen:__
 
 *Es MUSS entschieden werden, welche Informationen durch die Server mindestens protokolliert werden sollen, wie lange die Protokolldaten aufbewahrt werden und wer die Protokolldaten unter welchen Voraussetzungen einsehen darf (siehe hierzu auch OPS.1.1.5 Protokollierung).*
 
@@ -4461,7 +4461,7 @@ Alle Schnittstellen, die nicht verwendet werden, MÜSSEN deaktiviert werden.
 
 *Diese umfassen mindestens:*
 
-##### Hinzugefügt:
+__Hinzugefügt:__:
 
 Generell MÜSSEN alle sicherheitsrelevanten Systemereignisse protokolliert werden, dazu gehören mindestens:
 
@@ -4492,7 +4492,7 @@ Keine inhaltlichen Änderungen.
 
 #### SYS 1.1.A15
 
-##### Entfallen:
+__Entfallen:__
 
 *Die USV SOLLTE eine ausreichende Leistung und Kapazität haben.*
 
@@ -4509,7 +4509,7 @@ Keine inhaltlichen Änderungen.
 
 #### SYS 1.1.A16
 
-##### Entfallen:
+__Entfallen:__
 
 *Installationen auf einem Server SOLLTEN nur von autorisierten Personen (Administratoren oder vertraglich gebundene Dienstleister) nach einem definierten Installationsprozess durchgeführt werden.*
 
@@ -4546,7 +4546,7 @@ Keine inhaltlichen Änderungen.
 
 #### SYS 1.1.A19
 
-##### Hinzugefügt:
+__Hinzugefügt:__:
 
 Die Identität von Remote-Systemen und die Integrität der Verbindungen mit diesen SOLLTE kryptografisch abgesichert sein.
 
@@ -4679,7 +4679,7 @@ Keine inhaltlichen Änderungen.
 
 #### SYS 1.2.2.A3
 
-##### Entfallen:
+__Entfallen:__
 
 *Lokale Administrationskonten MÜSSEN mit einzigartigen, sicheren Passwörter abgesichert werden.*
 
@@ -4689,7 +4689,7 @@ Keine inhaltlichen Änderungen.
 
 *Browser auf dem Server DÜRFEN NICHT zum Surfen im Web verwendet werden.*
 
-##### Hinzugefügt:
+__Hinzugefügt:__:
 
 Alle Administratoren, die für das Server-System zuständig sind, MÜSSEN in den sicherheitsrelevanten Aspekten der Administration von Windows Server 2012 geschult sein.
 
@@ -4698,21 +4698,21 @@ Webbrowser auf dem Server DÜRFEN NICHT zum Surfen im Web verwendet werden.
 
 #### SYS 1.2.2.A4
 
-##### Entfallen:
+__Entfallen:__
 
 *Die Einstellungen SOLLTEN sowohl anfangs als auch bei jeder Änderung vor einer erneuten Inbetriebnahme getestet werden.*
 
 
 #### SYS 1.2.2.A5
 
-##### Entfallen:
+__Entfallen:__
 
 *Die Signaturen SOLLTEN regelmäßig aktualisiert werden.*
 
 
 #### SYS 1.2.2.A6
 
-##### Entfallen:
+__Entfallen:__
 
 *Die Administratoren von Windows Server 2012 SOLLTEN auf ihren eigenen Clients mit beschränkten Rechten arbeiten.*
 
@@ -4728,7 +4728,7 @@ Webbrowser auf dem Server DÜRFEN NICHT zum Surfen im Web verwendet werden.
 
 #### SYS 1.2.2.A8
 
-##### Entfallen:
+__Entfallen:__
 
 *Secure Boot SOLLTE aktiv sein.*
 
@@ -4812,7 +4812,7 @@ Keine inhaltlichen Änderungen.
 
 #### SYS 1.3.A2
 
-##### Geändert:
+__Geändert:__
 
 Bei vernetzten Systemen MUSS außerdem darauf geachtet werden, dass die Vergabe von Benutzer- und Gruppennamen, UID und GID im Systemverbund konsistent erfolgt, wenn beim systemübergreifenden Zugriff die Möglichkeit besteht, dass gleiche UIDs bzw. GIDs auf den Systemen unterschiedlichen Benutzer- bzw. Gruppennamen zugeordnet werden könnten.
 
@@ -4829,7 +4829,7 @@ Keine inhaltlichen Änderungen.
 
 #### SYS 1.3.A5
 
-##### Entfallen:
+__Entfallen:__
 
 *Software-Pakete DÜRFEN NUR aus vertrauenswürdigen Quellen installiert werden.*
 
@@ -4848,7 +4848,7 @@ Keine inhaltlichen Änderungen.
 
 #### SYS 1.3.A8
 
-##### Hinzugefügt:
+__Hinzugefügt:__:
 
 Für die Authentifizierung SOLLTEN Benutzer vorrangig Zertifikate anstatt eines Passwortes verwenden.
 
@@ -4948,11 +4948,11 @@ Keine inhaltlichen Änderungen.
 
 #### SYS 1.5.A6
 
-##### Entfallen:
+__Entfallen:__
 
 *Die Protokollierungsdaten SOLLTEN regelmäßig ausgewertet werden.*
 
-##### Hinzugefügt:
+__Hinzugefügt:__:
 
 Auch MUSS überwacht werden, ob die virtuellen Netze den jeweiligen virtuellen IT-Systemen korrekt zugeordnet sind.
 
@@ -4964,7 +4964,7 @@ Keine inhaltlichen Änderungen.
 
 #### SYS 1.5.A8
 
-##### Entfallen:
+__Entfallen:__
 
 *Die Administratoren SOLLTEN ausreichend qualifiziert sein.*
 
@@ -4976,7 +4976,7 @@ Keine inhaltlichen Änderungen.
 
 #### SYS 1.5.A10
 
-##### Entfallen:
+__Entfallen:__
 
 *Bevor ein virtuelles IT-System betrieben wird, SOLLTE in einer Test- und Entwicklungsumgebung geprüft werden, ob es für den Produktiveinsatz geeignet ist.*
 
@@ -5101,7 +5101,7 @@ Keine inhaltlichen Änderungen.
 
 #### SYS 1.8.A2
 
-##### Entfallen:
+__Entfallen:__
 
 *Nicht benötigte Benutzerkonten MÜSSEN deaktiviert werden.*
 
@@ -5137,18 +5137,18 @@ Keine inhaltlichen Änderungen.
 
 #### SYS 1.8.A6
 
-##### Geändert:
+__Geändert:__
 
 Die Richtlinie SOLLTE allen für Speicherlösungen zuständigen Administratoren bekannt und grundlegend für ihre Arbeit sein.
 
-##### Hinzugefügt:
+__Hinzugefügt:__:
 
 Gegebenenfalls SOLLTE sie aktualisiert werden.
 
 
 #### SYS 1.8.A7
 
-##### Entfallen:
+__Entfallen:__
 
 *• Auswahl geeigneter Hardware,*
 
@@ -5170,7 +5170,7 @@ Keine inhaltlichen Änderungen.
 
 #### SYS 1.8.A11
 
-##### Entfallen:
+__Entfallen:__
 
 *Alle Änderungen SOLLTEN zudem über das Änderungsmanagement aktiviert und mit allen beteiligten Fachverantwortlichen abgestimmt werden.*
 
@@ -5192,7 +5192,7 @@ Keine inhaltlichen Änderungen.
 
 #### SYS 1.8.A13
 
-##### Entfallen:
+__Entfallen:__
 
 *Sofern eine Speicherlösung durch einen externen Dienstleister betrieben wird, SOLLTE definiert und dokumentiert werden, wie die vertraglich vereinbarten SLAs überwacht werden.*
 
@@ -5240,7 +5240,7 @@ Keine inhaltlichen Änderungen.
 
 #### SYS 2.1.A1
 
-##### Geändert:
+__Geändert:__
 
 Benutzer MÜSSEN eine Bildschirmsperre verwenden, wenn sie den Client unbeaufsichtigt betreiben.
 
@@ -5309,7 +5309,7 @@ Keine inhaltlichen Änderungen.
 
 #### SYS 2.1.A6
 
-##### Geändert:
+__Geändert:__
 
 Abhängig vom installierten Betriebssystem und von anderen vorhandenen Schutzmechanismen des Clients MUSS geprüft werden, ob Schutzprogramme gegen Schadsoftware eingesetzt werden sollen.
 
@@ -5354,7 +5354,7 @@ Keine inhaltlichen Änderungen.
 
 #### SYS 2.1.A10
 
-##### Entfallen:
+__Entfallen:__
 
 *Neben Client-Typ-spezifischen Anforderungsprofilen SOLLTEN Vorgaben zur Authentisierung und Benutzerverwaltung definiert werden.*
 
@@ -5387,7 +5387,7 @@ Keine inhaltlichen Änderungen.
 
 #### SYS 2.1.A14
 
-##### Entfallen:
+__Entfallen:__
 
 *Administratoren SOLLTEN sich regelmäßig über bekannt gewordene Schwachstellen in Firmwares, Betriebssystemen und Anwendungen informieren.*
 
@@ -5399,7 +5399,7 @@ Keine inhaltlichen Änderungen.
 
 *Solange keine entsprechenden Patches zur Verfügung stehen, SOLLTEN abhängig von der Schwere der Schwach stellen andere geeignete Maßnahmen zum Schutz des IT-Systems getroffen werden.*
 
-##### Hinzugefügt:
+__Hinzugefügt:__:
 
 Auf Betriebssysteme, die über ein Rolling-Release-Modell aktualisiert werden, SOLLTE verzichtet werden.
 
@@ -5435,7 +5435,7 @@ Keine inhaltlichen Änderungen.
 
 #### SYS 2.1.A18
 
-##### Entfallen:
+__Entfallen:__
 
 *Benutzer SOLLTEN darauf achten, dass zur Verschlüsselung von Webseiten TLS verwendet wird.*
 
@@ -5447,7 +5447,7 @@ Keine inhaltlichen Änderungen.
 
 *Session Renegotiation und TLS-Kompression SOLLTEN deaktiviert werden.*
 
-##### Hinzugefügt:
+__Hinzugefügt:__:
 
 Neue Zertifikate von Zertifikatsausstellern SOLLTEN erst nach Überprüfung des Fingerprints aktiviert werden.
 
@@ -5473,7 +5473,7 @@ Neue Zertifikate von Zertifikatsausstellern SOLLTEN erst nach Überprüfung des 
 
 #### SYS 2.1.A20
 
-##### Entfallen:
+__Entfallen:__
 
 *Die Administration SOLLTE entsprechend der Sicherheitsrichtlinie durchgeführt werden.*
 
@@ -5503,11 +5503,11 @@ Keine inhaltlichen Änderungen.
 
 #### SYS 2.1.A24
 
-##### Entfallen:
+__Entfallen:__
 
 *Es SOLLTE verhindert werden, dass über Wechsellaufwerke oder externe Schnittstellen unkontrolliert Software auf den Clients installiert werden kann oder unberechtigt Daten von den Clients kopiert werden können.*
 
-##### Hinzugefügt:
+__Hinzugefügt:__:
 
 Es SOLLTE untersagt werden, dass nicht zugelassene Geräte oder Wechseldatenträger mit den Clients verbunden werden.
 
@@ -5567,18 +5567,18 @@ Din Anforderung wurde komplett neu hinzugefügt.
 
 #### SYS 2.1.A28
 
-##### Entfallen:
+__Entfallen:__
 
 *Auch verschlüsselte Dateien, Partitionen oder Datenträger SOLLTEN regelmäßig gesichert werden, ohne den Nutzen der Verschlüsselung zu untergraben.*
 
 
 #### SYS 2.1.A30
 
-##### Entfallen:
+__Entfallen:__
 
 *Darüber hinaus SOLLTE eine solche Referenzinstallation auch dazu genutzt werden, die Clients vereinfacht zu installieren und wieder neu aufzusetzen, indem eine entsprechend vorkonfigurierte Installation auf geeignete Art und Weise auf die zu installierenden Clients überspielt wird.*
 
-##### Hinzugefügt:
+__Hinzugefügt:__:
 
 Die Testfälle SOLLTEN sowohl die Anwendersicht als auch die Betriebsperspektive berücksichtigen.
 
@@ -5600,7 +5600,7 @@ Keine inhaltlichen Änderungen.
 
 #### SYS 2.1.A34
 
-##### Geändert:
+__Geändert:__
 
 Um sowohl den Zugriff eines Angreifers auf das Betriebssystem oder andere Anwendungen als auch den Zugriff vom Betriebssystem auf besonders schützenswerte Dateien zu verhindern, SOLLTEN Anwendungen und Betriebssystemkomponenten (wie beispielsweise Authentisierung oder Zertifikatsüberprüfung) besonders gekapselt bzw. anderen Anwendungen und Betriebssystemkomponenten gegenüber isoliert werden.
 
@@ -5614,7 +5614,7 @@ Keine inhaltlichen Änderungen.
 
 #### SYS 2.1.A39
 
-##### Entfallen:
+__Entfallen:__
 
 *Wenn Änderungen an den Endgeräten (Verbrauchern) durchgeführt wurden, SOLLTE erneut geprüft werden, ob die Stützzeit ausreichend ist.*
 
@@ -5624,14 +5624,14 @@ Keine inhaltlichen Änderungen.
 
 *Die USV SOLLTE regelmäßig gewartet werden.*
 
-##### Hinzugefügt:
+__Hinzugefügt:__:
 
 Clients SOLLTEN vor Überspannung geschützt werden.
 
 
 #### SYS 2.1.A40
 
-##### Hinzugefügt:
+__Hinzugefügt:__:
 
 Sicherheitsrelevante Aspekte SOLLTEN nachvollziehbar erläutert und hervorgehoben werden.
 
@@ -5661,7 +5661,7 @@ Keine inhaltlichen Änderungen.
 
 #### SYS 2.2.2.A2
 
-##### Entfallen:
+__Entfallen:__
 
 *Die festgelegte Vorgehensweise MUSS entsprechend auf allen Clients eingestellt werden.*
 
@@ -5678,7 +5678,7 @@ Keine inhaltlichen Änderungen.
 
 #### SYS 2.2.2.A5
 
-##### Entfallen:
+__Entfallen:__
 
 *Alle nicht benötigten Anwendungen und Komponenten SOLLTEN deaktiviert werden.*
 
@@ -5716,7 +5716,7 @@ Keine inhaltlichen Änderungen.
 
 #### SYS 2.2.3.A4
 
-##### Geändert:
+__Geändert:__
 
 Die Telemetriedienste übertragen Diagnose- und Nutzungsdaten, die der Hersteller zur Erkennung und Lösung von Problemen, zur Verbesserung der Dienste und Produkte und zur Identifizierung mit eindeutigen Merkmalen verknüpft.
 
@@ -5784,7 +5784,7 @@ Keine inhaltlichen Änderungen.
 
 #### SYS 2.2.3.A24
 
-##### Entfallen:
+__Entfallen:__
 
 *Die Ergebnisse der Überprüfung und die Entscheidung über die Aktivierung SOLLTEN dokumentiert werden.*
 
@@ -5804,14 +5804,14 @@ Keine inhaltlichen Änderungen.
 
 #### SYS 2.3.A1
 
-##### Geändert:
+__Geändert:__
 
 Administratoren DÜRFEN sich NICHT im Normalbetrieb als „root“ anmelden.
 
 
 #### SYS 2.3.A2
 
-##### Entfallen:
+__Entfallen:__
 
 *Es SOLLTEN NUR Anwendungsprogramme ausgewählt und installiert werden, für die Support angeboten wird.*
 
@@ -5835,7 +5835,7 @@ Administratoren DÜRFEN sich NICHT im Normalbetrieb als „root“ anmelden.
 
 #### SYS 2.3.A4
 
-##### Entfallen:
+__Entfallen:__
 
 *Die Verantwortlichen MÜSSEN sich über bekannt gewordene Schwachstellen informieren.*
 
@@ -5847,14 +5847,14 @@ Administratoren DÜRFEN sich NICHT im Normalbetrieb als „root“ anmelden.
 
 *Der Client MUSS zeitnah rebootet werden, nachdem der Kernel aktualisiert wurde.*
 
-##### Hinzugefügt:
+__Hinzugefügt:__:
 
 Der Client MUSS zeitnah rebootet werden, nachdem der Kernel des Betriebssystems aktualisiert wurde.
 
 
 #### SYS 2.3.A5
 
-##### Entfallen:
+__Entfallen:__
 
 *Es DÜRFEN NUR benötigte Anwendungen installiert werden.*
 
@@ -5866,7 +5866,7 @@ Der Client MUSS zeitnah rebootet werden, nachdem der Kernel des Betriebssystems 
 
 *Dabei DARF die zu installierende Software NICHT unkontrolliert in das Wurzeldateisystem des Servers installiert werden.*
 
-##### Hinzugefügt:
+__Hinzugefügt:__:
 
 Wenn zu installierende Software aus dem Quellcode kompiliert werden soll, DARF diese NUR unter einem unprivilegierten Benutzeraccount entpackt, konfiguriert und übersetzt werden.
 
@@ -5880,7 +5880,7 @@ Keine inhaltlichen Änderungen.
 
 #### SYS 2.3.A7
 
-##### Entfallen:
+__Entfallen:__
 
 *Der Zugriff von Benutzern auf Dateien und Verzeichnisse SOLLTE immer auf das erforderliche Minimum beschränkt werden.*
 
@@ -5916,7 +5916,7 @@ Keine inhaltlichen Änderungen.
 
 #### SYS 2.4.A1
 
-##### Entfallen:
+__Entfallen:__
 
 *Dabei MUSS ein Konzept zur Benutzerverwaltung, zur Administration sowie zur Protokollierung erstellt werden.*
 
@@ -5995,7 +5995,7 @@ Keine inhaltlichen Änderungen.
 
 #### SYS 3.1.A9 Die Anforderung wurde von einer Standard zu einr Basis Anforderung
 
-##### Geändert:
+__Geändert:__
 
 Über öffentlich zugängliche Netze DÜRFEN die Benutzer NUR über über einen sicheren Kommunikationskanal auf das interne Netz der Institution zugreifen.
 
@@ -6012,7 +6012,7 @@ Keine inhaltlichen Änderungen.
 
 #### SYS 3.1.A8
 
-##### Entfallen:
+__Entfallen:__
 
 *Laptops SOLLTEN wirksam vor Schadcode und vor Angriffen aus Fremdnetzen und aus dem Internet geschützt werden.*
 
@@ -6030,7 +6030,7 @@ Keine inhaltlichen Änderungen.
 
 #### SYS 3.1.A13
 
-##### Entfallen:
+__Entfallen:__
 
 *Für die Verschlüsselung SOLLTE ein sicherer Verschlüsselungsalgorithmus eingesetzt werden.*
 
@@ -6041,14 +6041,14 @@ Keine inhaltlichen Änderungen.
 
 #### SYS 3.1.A14
 
-##### Geändert:
+__Geändert:__
 
 Abhängig vom Schutzbedarf der darauf gespeicherten Daten SOLLTEN Laptops auch in den Räumen der Institution außerhalb der Nutzungszeiten gegen Diebstahl gesichert bzw. verschlossen aufbewahrt werden.
 
 
 #### SYS 3.1.A15
 
-##### Entfallen:
+__Entfallen:__
 
 *Sie SOLLTE auch auf zusätzlich benötigte Hardware wie z. B. Dockingstations und Monitore erweitert werden.*
 
@@ -6083,7 +6083,7 @@ Keine inhaltlichen Änderungen.
 
 #### SYS 3.2.1.A2
 
-##### GEändert:
+__Geändert:__
 
 Es MUSS festgelegt werden, ob und in welchem Umfang Cloud-Dienste bei privater Nutzung der Geräte erlaubt sind.
 
@@ -6092,27 +6092,27 @@ Die Benutzer MÜSSEN regelmäßig bezüglich der Nutzung solcher Cloud-Dienste s
 
 #### SYS 3.2.1.A3
 
-##### Entfallen:
+__Entfallen:__
 
 *Wenn eine Institution ein MDM einsetzt, MUSS bei der Übergabe des mobilen Endgerätes bereits der MDM-Client installiert sein.*
 
 
 #### SYS 3.2.1.A4
 
-##### Hinzugefügt:
+__Hinzugefügt:__:
 
 Bei jedem fehlgeschlagenen Versuch, das Gerät zu entsperren, SOLLTE sich die Wartezeit zu einem neuen Versuch verlängern.
 
 Die Anzahl der Gerätesperrcodes, nach der sich ein Code wiederholen darf, SOLLTE festgelegt werden.
 
-##### Entfallen:
+__Entfallen:__
 
 *Die Anzahl der Kennworte, nach der sich ein Passwort wiederholen darf, SOLLTE festgelegt werden.*
 
 
 #### SYS 3.2.1.A5
 
-##### Entfallen:
+__Entfallen:__
 
 *Es MUSS ein Prozess für Updates des Betriebssystems und der eingesetzten Apps etabliert werden.*
 
@@ -6125,7 +6125,7 @@ Die Anzahl der Gerätesperrcodes, nach der sich ein Code wiederholen darf, SOLLT
 
 #### SYS 3.2.1.A6
 
-##### Hinzugefügt:
+__Hinzugefügt:__:
 
 Sicherheitsrelevante Berechtigungseinstellungen MÜSSEN so festgelegt werden, dass sie nicht durch Benutzer oder Apps geändert werden können.
 
@@ -6136,14 +6136,14 @@ Dies gilt insbesondere auch nach der Installation von Updates.
 
 #### SYS 3.2.1.A7 DIe Anforderung wurde komplett geändert.
 
-##### Geändert:
+__Geändert:__
 
 Gehen Geräte verloren oder werden unberechtigte Änderungen an Gerät und Software festgestellt, MÜSSEN die Benutzer sofort die Zuständigen informieren.
 
 
 #### SYS 3.2.1.A8 Die Anforderung wurde komplett geändert.
 
-##### Geändert:
+__Geändert:__
 
 Die Institution MUSS regeln, ob, wie und welche Apps Benutzer selbst auf ihren Geräten installieren dürfen.
 
@@ -6286,7 +6286,7 @@ Die Anforderung wurde komplett neu hinzugefügt.
 
 #### SYS 3.2.2.A1
 
-##### Hinzugefügt:
+__Hinzugefügt:__:
 
 • Soll das MDM alle Apps bereitstellen oder darf der Beutzer selber Apps installieren?
 
@@ -6307,18 +6307,18 @@ Keine inhaltlichen Änderungen.
 
 #### SYS 3.2.2.A4
 
-##### Hinzugefügt:
+__Hinzugefügt:__:
 
 Die Verbindung der mobilen Endgeräte zum MDM MUSS angemessen abgesichert werden.
 
-##### Geändert:
+__Geändert:__
 
 Alle mobilen Endgeräte MÜSSEN, bevor sie eingesetzt werden, in das MDM integriert werden.
 
 
 #### SYS 3.2.2.A5 Die Anforderung wurde komplett geändert.
 
-##### Geändert:
+__Geändert:__
 
 Wenn mobile Endgeräte an Mitarbeiter übergeben werden, MUSS, wenn vom Betriebssystem nicht bereits bereitgestellt, darauf der MDM-Client installiert und konfiguriert sein.
 
@@ -6335,7 +6335,7 @@ Die Anforderung wurde neu hinzugefügt.
 
 #### SYS 3.2.2.A7
 
-##### Geändert:
+__Geändert:__
 
 Über das MDM installierte Apps SOLLTEN NICHT durch den Benutzer deinstalliert werden können.
 
@@ -6396,7 +6396,7 @@ Das MDM SOLLTE eine Black- oder White-List für die Installation von Apps ermög
 
 #### SYS 3.2.2.A12
 
-##### Entfallen:
+__Entfallen:__
 
 *Alle notwendigen Patches SOLLTEN eingespielt werden.*
 
@@ -6420,7 +6420,7 @@ Keine inhaltlichen Änderungen.
 
 #### SYS 3.2.2.A17
 
-##### Hinzugefügt:
+__Hinzugefügt:__:
 
 Insbesondere SOLLTEN sogenannte Jailbreaks oder sogenanntes Routen erkannt werden.
 
@@ -6493,7 +6493,7 @@ Keine inhaltlichen Änderungen.
 
 #### SYS 3.2.3.A21
 
-##### Entfallen:
+__Entfallen:__
 
 *Wenn zusätzliche Apps von Drittanbietern eingesetzt werden (siehe SYS.3.2.3.A1 Strategie für die iOS-Nutzung), SOLLTE durch die Verantwortlichen der interne Software-Freigabeprozess bezüglich der Validierung und Freigabe von Anwendungen (Apps) aus dem Apple App Store ergänzt werden.*
 
@@ -6503,14 +6503,14 @@ Keine inhaltlichen Änderungen.
 
 *Die Zahlungsbestätigung von Apps im App Store SOLLTE NICHT über biometrische Verfahren erfolgen.*
 
-##### Hinzugefügt:
+__Hinzugefügt:__:
 
 Zahlungen im App Store SOLLTE NICHT über biometrische Verfahren bestätigt werden.
 
 
 #### SYS 3.2.3.A23
 
-##### Geändert:
+__Geändert:__
 
 Geräte, die über einen klar definierten Zeitraum durchgängig offline sind, SOLLTEN ihren Zugang zur internen Infrastruktur verlieren.
 
@@ -6598,7 +6598,7 @@ Keine inhaltlichen Änderungen.
 
 #### SYS 3.3.A1
 
-##### Geändert:
+__Geändert:__
 
 Im Hinblick auf die Nutzung und Kontrolle der Geräte MUSS eine
 
@@ -6620,11 +6620,11 @@ Keine inhaltlichen Änderungen.
 
 #### SYS 3.3.A5
 
-##### Entfallen:
+__Entfallen:__
 
 *Die Benutzer SOLLTEN über diese Sicherheitsmechanismen informiert werden.*
 
-##### Hinzugefügt:
+__Hinzugefügt:__:
 
 Die Super-PIN/PUK SOLLTE nur im Rahmen der definierten Prozesse von den Zuständigen benutzt werden.
 
@@ -6661,7 +6661,7 @@ Keine inhaltlichen Änderungen.
 
 #### SYS 3.3.A12
 
-##### Entfallen:
+__Entfallen:__
 
 *Bei der Ausgabe SOLLTEN die Benutzer informiert werden, wie die Mobiltelefone aufzubewahren sind.*
 
@@ -6678,7 +6678,7 @@ Keine inhaltlichen Änderungen.
 
 #### SYS 3.3.A15
 
-##### Geändert:
+__Geändert:__
 
 Damit vertrauliche Informationen nicht abgehört werden können, SOLLTE dafür gesorgt werden, dass keine Mobiltelefone zu vertraulichen Besprechungen und Gesprächen in die entsprechenden Räume mitgenommen werden.
 
@@ -6693,13 +6693,13 @@ Damit vertrauliche Informationen nicht abgehört werden können, SOLLTE dafür g
 
 #### SYS 4.1.A1
 
-##### Entfallen:
+__Entfallen:__
 
 *Die Institution MUSS den sicheren Einsatz von Druckern, Kopierern und Multifunktionsgeräten planen.*
 
 *Es MUSS geplant werden, wo die Geräte aufgestellt werden dürfen.*
 
-##### Hinzugefügt:
+__Hinzugefügt:__:
 
 Bevor Drucker, Kopierer und Multifunktionsgeräte beschafft werden, MUSS der sichere Einsatz geplant werden.
 
@@ -6728,7 +6728,7 @@ Es MUSS festgelegt werden, wo die Geräte aufgestellt werden dürfen.
 
 #### SYS 4.1.A2
 
-##### Entfallen:
+__Entfallen:__
 
 *Das Passwort DARF NUR berechtigten Benutzern bekannt sein.*
 
@@ -6748,7 +6748,7 @@ Es MUSS festgelegt werden, wo die Geräte aufgestellt werden dürfen.
 
 #### SYS 4.1.A22
 
-##### Geändert:
+__Geändert:__
 
 Nicht benötigte, aber ausgedruckte Dokumente mit vertraulichen Informationen MÜSSEN in geeigneter Weise vernichtet werden.
 
@@ -6757,7 +6757,7 @@ Sind Heimarbeitsplätze mit Druckern, Kopierern oder Multifunktionsgeräten ausg
 
 #### SYS 4.1.A4
 
-##### Entfallen:
+__Entfallen:__
 
 *Der ISB SOLLTE auf Basis des Sicherheitskonzepts eine Administrationsrichtlinie ausarbeiten.*
 
@@ -6779,7 +6779,7 @@ Keine inhaltlichen Änderungen
 
 #### SYS 4.1.A18
 
-##### Hinzugefügt:
+__Hinzugefügt:__:
 
 Insbesondere SOLLTEN alle nicht benötigten Daten- und Netzschnittstellen von Druckern, Kopierern und Multifunktionsgeräten deaktiviert werden.
 
@@ -6809,7 +6809,7 @@ Keine inhaltlichen Änderungen
 
 #### SYS 4.1.A20
 
-##### Entfallen:
+__Entfallen:__
 
 *Druckdateien mit vertraulichen Informationen SOLLTEN nur verschlüsselt übertragen werden.*
 
@@ -6829,7 +6829,7 @@ Keine inhaltlichen Änderungen
 
 #### SYS 4.3.A1
 
-##### Entfallen:
+__Entfallen:__
 
 *Benutzer und Administratoren SOLLTEN im Umgang mit dem jeweiligen eingebetteten System ausreichend geschult sein.*
 
@@ -6846,11 +6846,11 @@ Keine inhaltlichen Änderungen
 
 #### SYS 4.3.A4
 
-##### Geändert:
+__Geändert:__
 
 Die Anforderungsliste SOLLTE mindestens folgende sicherheitsrelevante Aspekte umfassen:
 
-##### Hinzugefügt:
+__Hinzugefügt:__:
 
 • Unterstützung eines Trusted Plattform Module (TPM) durch das Betriebssystem,
 
@@ -6870,14 +6870,14 @@ Keine inhaltlichen Änderungen
 
 #### SYS 4.4.A1
 
-##### Entfallen:
+__Entfallen:__
 
 *IoT-Geräte MÜSSEN ein Minimum an Sicherheitskriterien erfüllen, damit sie in Institutionen eingesetzt werden können.*
 
 
 #### SYS 4.4.A2
 
-##### Geändert:
+__Geändert:__
 
 Eine angemessene Authentisierung MUSS aktiviert sein.
 
@@ -6908,7 +6908,7 @@ Keine inhaltlichen Änderungen
 
 #### SYS 4.4.A9
 
-##### Geändert:
+__Geändert:__
 
 Für jedes IoT-Gerät SOLLTE ein Zuständiger für dessen Betrieb benannt werden.
 
@@ -6961,7 +6961,7 @@ Keine inhaltlichen Änderungen
 
 #### SYS 4.4.A19
 
-##### Entfallen:
+__Entfallen:__
 
 • Nicht benötigte Administrationsschnittstellen SOLLTEN deaktiviert werden.
 
@@ -6970,7 +6970,7 @@ Die Administration über das Netz SOLLTE über sichere Protokolle erfolgen.
 
 #### SYS 4.4.A20
 
-##### Entfallen:
+__Entfallen:__
 
 Bei der Außerbetriebnahme von IoT-Geräten SOLLTE sichergestellt werden, dass keine wichtigen Daten, die eventuell auf den verbauten Datenträgern gespeichert sind, verloren gehen und dass keine vertraulichen Daten zurückbleiben oder an Dritte weitergegeben werden.
 
@@ -6982,7 +6982,7 @@ Keine inhaltlichen Änderungen
 
 #### SYS 4.4.A22
 
-##### Geändert:
+__Geändert:__
 
 Die IoT-Geräte SOLLTEN in ein geeignetes Systemüberwachungs- bzw. Monitoringkonzept eingebunden werden.
 
@@ -6995,14 +6995,14 @@ Alternativ SOLLTE geprüft werden, ob weitere Maßnahmen, wie das Einrichten ein
 
 #### SYS 4.4.A23
 
-##### Geändert:
+__Geändert:__
 
 Alle eingesetzten IoT-Geräte SOLLTEN regelmäßig überprüft werden.
 
 
 #### SYS 4.4.A23
 
-##### Entfallen:
+__Entfallen:__
 
 *Es SOLLTEN nur die benötigten Komponenten und Funktionen installiert bzw. aktiviert sein.*
 
@@ -7014,7 +7014,7 @@ Alle eingesetzten IoT-Geräte SOLLTEN regelmäßig überprüft werden.
 
 *Die Übertragung SOLLTE verschlüsselt sein.*
 
-##### Hinzugefügt:
+__Hinzugefügt:__:
 
 Der Webserver SOLLTE, soweit möglich, NICHT unter einem privilegierten Konto betrieben werden.
 
@@ -7041,7 +7041,7 @@ Keine inhaltlichen Änderungen
 
 Wurde von einer Standard-Anforderung zu einer Basis-Anforderung geändert.
 
-##### Geändert:
+__Geändert:__
 
 Wenn Wechseldatenträger außerhalb eines sicheren Bereiches verwendet oder transportiert werden und dabei vertrauliche Daten enthalten, MÜSSEN sie mit einem sicheren Verfahren verschlüsselt werden.
 
@@ -7068,7 +7068,7 @@ Keine inhaltlichen Änderungen
 
 #### SYS 4.5.A7
 
-##### Entfallen:
+__Entfallen:__
 
 *Die Institution SOLLTE den Mitarbeitern dafür geeignete Programme zur Verfügung stellen.*
 
@@ -7080,7 +7080,7 @@ Keine inhaltlichen Änderungen
 
 #### SYS 4.5.A11
 
-##### Geändert:
+__Geändert:__
 
 Es SOLLTE ein Verfahren zum Schutz gegen zufällige oder vorsätzliche Veränderungen eingesetzt werden, mit dem die Integrität von vertraulichen Informationen sichergestellt wird.
 
@@ -7130,7 +7130,7 @@ Keine inhaltlichen Änderungen
 
 *Es MUSS ein Prozess existieren, wie konkrete Vorgaben (Richtlinien) für bestimmte Themenbereiche im Prozessbereich verfasst, kommuniziert, zur Umsetzung gebracht, fortgeschrieben, bewertet und verbessert werden.*
 
-##### Hinzugefügt:
+__Hinzugefügt:__:
 
 Ein Gesamtverantwortlicher für die Informationssicherheit im OT-Bereich MUSS benannt werden.
 
@@ -7150,7 +7150,7 @@ Er MUSS innerhalb der Institution bekannt gegeben werden.
 
 #### IND 1.A3
 
-##### Entfallen:
+__Entfallen:__
 
 *Es MUSS ein Konzept zum Schutz vor Schadprogrammen erstellt und umgesetzt werden.*
 
@@ -7158,7 +7158,7 @@ Er MUSS innerhalb der Institution bekannt gegeben werden.
 
 *Es MÜSSEN geeignete technische und organisatorische Schutzmaßnahmen festgelegt sein.*
 
-##### GEändert:
+__Geändert:__
 
 Ist dies nicht der Fall, MUSS der Bedarf an alternativen Schutzverfahren geprüft werden.
 
@@ -7177,7 +7177,7 @@ Die Anforderung wurde komplett neu hinzugefügt.
 
 #### IND 1.A4
 
-##### Entfallen:
+__Entfallen:__
 
 *Bei den Schnittstellen SOLLTEN aktive Netzkomponenten und auch manuelle Datentransferverfahren berücksichtigt werden.*
 
@@ -7188,7 +7188,7 @@ Die Anforderung wurde komplett neu hinzugefügt.
 
 #### IND 1.A5
 
-##### Geändert:
+__Geändert:__
 
 Die OT-Infrastruktur SOLLTE auch horizontal in unabhängige Funktionsbereiche, wie etwa Anlagen, segmentiert werden.
 
@@ -7209,7 +7209,7 @@ Zonen und Conduits schützen die OT-Infrastrukur, indem die Automatisierungslös
 
 #### IND 1.A6 Die Anforderung wurde komplett geändert.
 
-##### Geändert:
+__Geändert:__
 
 Für Änderungen an der OT SOLLTE ein eigener Änderungsprozess definiert, dokumentiert und gelebt werden.
 
@@ -7221,7 +7221,7 @@ Keine inhaltlichen Änderungen.
 
 #### IND 1.A8
 
-##### Entfallen:
+__Entfallen:__
 
 *Jede Fernwartung und -überwachung SOLLTE durch die Institution autorisiert, überwacht und gesteuert werden.*
 
@@ -7241,14 +7241,14 @@ Keine inhaltlichen Änderungen.
 
 #### IND 1.A10
 
-##### Entfallen:
+__Entfallen:__
 
 *Der Reaktionsplan SOLLTE regelmäßig getestet und auf Aktualität geprüft werden.*
 
 
 #### IND 1.A11
 
-##### Hinzugefügt:
+__Hinzugefügt:__:
 
 Für ICS-Komponenten SOLLTEN einheitliche und dem Schutzbedarf angemessene Anforderungen an die Informationssicherheit definiert werden.
 
@@ -7257,7 +7257,7 @@ Diese SOLLTEN berücksichtigt werden, wenn neue ICS-Komponenten beschafft werden
 
 #### IND 1.A12
 
-##### Geändert:
+__Geändert:__
 
 Für den sicheren Betrieb einer OT-Umgebung SOLLTE die Institution ein Schwachstellen-Management etablieren.
 
@@ -7297,7 +7297,7 @@ Keine inhaltlichen Änderungen.
 
 #### IND 1.A14
 
-##### Geändert:
+__Geändert:__
 
 Zur sicheren Authentisierung von privilegierten Benutzern in Steuerungssystemen SOLLTE ein zentraler Verzeichnisdienst eingerichtet werden (siehe Baustein ORP.4 Identitäts- und Berechtigungsmanagement).
 
@@ -7313,7 +7313,7 @@ Keine inhaltlichen Änderungen.
 
 #### IND 1.A16
 
-##### Entfallen:
+__Entfallen:__
 
 *Bei hoch schutzbedürftigen oder schlecht auf System- und Netzebene absicherbaren ICS-Umgebungen SOLLTEN vorbeugend Schnittstellensysteme mit Sicherheitsprüffunktionen eingesetzt werden.*
 
@@ -7327,7 +7327,7 @@ Keine inhaltlichen Änderungen.
 
 *Ergänzende organisatorische und technische Maßnahmen SOLLTEN identifiziert und umgesetzt werden, um Risiken aus vorsätzlicher und versehentlicher Umgehung des Perimeters weiter zu reduzieren.*
 
-##### Hinzugefügt:
+__Hinzugefügt:__:
 
 Bei hoch schutzbedürftigen oder schlecht absicherbaren ICS-Umgebungen SOLLTEN vorbeugend Schnittstellensysteme mit Sicherheitsprüffunktionen eingesetzt werden.
 
@@ -7356,7 +7356,7 @@ Die Anforderung wurde komplett neu hinzugefügt.
 
 #### IND 2.1.A1
 
-##### Entfallen:
+__Entfallen:__
 
 *Die Konfiguration der ICS-Komponente DARF NUR nach einer Freigabe oder nach einer Authentisierung geändert werden.*
 
@@ -7404,7 +7404,7 @@ Keine inhaltlichen Änderungen.
 
 #### IND 2.1.A7 Die Anforderung wurde von einer Basis- zu einer Standard-Anforderung
 
-##### Geändert:
+__Geändert:__
 
 Vor jeder Systemänderung an einer ICS-Komponente MÜSSEN Backups erstellt werden.
 
@@ -7460,7 +7460,7 @@ Keine inhaltlichen Änderungen.
 
 #### IND 2.1.A13
 
-##### Entfallen:
+__Entfallen:__
 
 *Das SOLLTE insbesondere*
 
@@ -7508,7 +7508,7 @@ Keine inhaltlichen Änderungen.
 
 #### IND 2.1.A17
 
-##### Geändert:
+__Geändert:__
 
 Bei Anwendungen mit Echtzeitanforderungen SOLLTE geprüft werden, ob dies umsetzbar ist.
 
@@ -7538,7 +7538,7 @@ Keine inhaltlichen Änderungen.
 
 #### IND 2.2.A1
 
-##### Geändert:
+__Geändert:__
 
 Steuerungsprogramme und Konfigurationen SOLLTEN immer gesichert werden, bevor an ihnen etwas verändert wird.
 
@@ -7578,7 +7578,7 @@ Keine inhaltlichen Änderungen.
 
 #### IND 2.3.A3
 
-##### Geändert:
+__Geändert:__
 
 Alle nicht benutzten Kommunikationsschnittstellen SOLLTEN deaktiviert werden.
 
@@ -7639,7 +7639,7 @@ Keine inhaltlichen Änderungen.
 
 #### NET 1.1.A8
 
-##### Entfallen:
+__Entfallen:__
 
 *Der Internetzugang MUSS entsprechend NET.1.1.A4 Netztrennung in Sicherheitszonen gestaltet werden.*
 
@@ -7651,7 +7651,7 @@ Keine inhaltlichen Änderungen.
 
 #### NET 1.1.A18
 
-##### Geändert:
+__Geändert:__
 
 Das Netz der Institution SOLLTE über eine Firewall mit P-A-P-Struktur an das Internet angeschlossen werden (siehe NET.1.1.A4 Netztrennung in Zonen).
 
@@ -7742,14 +7742,14 @@ Keine inhaltlichen Änderungen.
 
 #### NET 1.2.A6
 
-##### Geändert:
+__Geändert:__
 
 Bei der Datensicherung des Netzmanagements MÜSSEN mindestens die Systemdaten für die Einbindung der zu verwaltenden Komponenten bzw. Objekte, Ereignismeldungen, Statistikdaten sowie vorgehaltene Daten für das Konfigurationsmanagement gesichert werden.
 
 
 #### NET 1.2.A7
 
-##### Geändert:
+__Geändert:__
 
 Mindestens folgende Ereignisse MÜSSEN protokolliert werden:
 
@@ -7769,7 +7769,7 @@ MUSS wurde durch SOLLTE ersetzt
 
 #### NET 1.2.A9
 
-##### Hinzugefügt:
+__Hinzugefügt:__:
 
 Falls von einem Netz außerhalb der Managementnetze auf Netzmanagement-Werkzeuge zugegriffen wird, MÜSSEN als sicher geltende Authentisierungs- und Verschlüsselungsmethoden realisiert werden.
 
@@ -7850,7 +7850,7 @@ Keine inhaltlichen Änderungen.
 
 #### NET 1.2.A35
 
-##### Entfallen:
+__Entfallen:__
 
 *Es SOLLTEN Vorgehensweisen zur Beweissicherung und zu forensischen Untersuchungen im Rahmen des Netzmanagements festgelegt und dokumentiert werden.*
 
@@ -7886,7 +7886,7 @@ Keine inhaltlichen Änderungen.
 
 #### NET 2.1.A6
 
-##### Entfallen:
+__Entfallen:__
 
 *Es SOLLTEN alle mit einer internen WLAN-Infrastruktur gekoppelten WLAN-Clients sicher konfiguriert sein.*
 
@@ -7902,7 +7902,7 @@ Keine inhaltlichen Änderungen.
 
 #### NET 2.1.A8
 
-##### Entfallen:
+__Entfallen:__
 
 *Die möglichen Konsequenzen sicherheitskritischer Ereignisse MÜSSEN untersucht werden.*
 
@@ -7914,7 +7914,7 @@ Keine inhaltlichen Änderungen.
 
 #### NET 2.1.A10
 
-##### Hinzugefügt:
+__Hinzugefügt:__:
 
 Werden die Inhalte der Richtlinie nicht umgesetzt, MUSS geeignet reagiert werden.
 
@@ -7934,21 +7934,21 @@ Keine inhaltlichen Änderungen.
 
 #### NET 2.2.A1
 
-##### Hinzugefügt:
+__Hinzugefügt:__:
 
 Ist dies nicht der Fall, MUSS geeignet reagiert werden.
 
 
 #### NET 2.2.A2
 
-##### Hinzugefügt:
+__Hinzugefügt:__:
 
 Hierfür MÜSSEN geeignete Schulungsinhalte identifiziert und festgelegt werden.
 
 
 #### NET 2.2.A3
 
-##### Hinzugefügt:
+__Hinzugefügt:__:
 
 • Werden Hotspots genutzt, dann SOLLTE sichergestellt werden, dass die Verbindung zwischen Hotspot-Access Point und IT-System des Benutzers nach dem Stand der Technik kryptografisch abgesichert wird.
 
@@ -7959,7 +7959,7 @@ Hierfür MÜSSEN geeignete Schulungsinhalte identifiziert und festgelegt werden.
 
 #### NET 2.2.A4
 
-##### Hinzugefügt:
+__Hinzugefügt:__:
 
 Wird die WLAN-Schnittstelle über einen längeren Zeitraum nicht genutzt, MUSS diese deaktiviert werden.
 
@@ -7976,7 +7976,7 @@ Wird die WLAN-Schnittstelle über einen längeren Zeitraum nicht genutzt, MUSS d
 
 #### NET 3.1.A1
 
-##### Entfallen:
+__Entfallen:__
 
 *Die Geräte DÜRFEN NUR von dafür autorisierten Personen installiert und konfiguriert werden.*
 
@@ -8040,7 +8040,7 @@ Keine inhaltlichen Änderungen.
 
 #### NET 3.1.A7
 
-##### Entfallen:
+__Entfallen:__
 
 *Die Verantwortlichen MÜSSEN darauf achten, dass bei der Protokollierung alle rechtlichen Rahmenbedingungen eingehalten werden.*
 
@@ -8054,7 +8054,7 @@ Keine inhaltlichen Änderungen.
 
 #### NET 3.1.A22
 
-##### Hinzugefügt:
+__Hinzugefügt:__:
 
 Außerdem SOLLTE geplant und vorbereitet werden, wie die identifizierten Fehler behoben werden können.
 
@@ -8079,7 +8079,7 @@ Keine inhaltlichen Änderungen.
 
 #### NET 3.2.A2
 
-##### Entfallen:
+__Entfallen:__
 
 *Es DÜRFEN KEINE IT-Systeme von außen über die Firewall auf das interne Netz zugreifen (siehe Vorgaben aus dem Baustein NET.1.1 Netz-Architektur und -design).*
 
@@ -8093,7 +8093,7 @@ Keine inhaltlichen Änderungen.
 
 #### NET 3.2.A4
 
-##### Entfallen:
+__Entfallen:__
 
 *Eine Firewall DARF NUR von dafür autorisierten Personen installiert und konfiguriert werden.*
 
@@ -8128,11 +8128,11 @@ Keine inhaltlichen Änderungen.
 
 #### NET 3.2.A9
 
-##### Hinzugefügt:
+__Hinzugefügt:__:
 
 • Konfigurationsänderungen (möglichst automatisch).
 
-##### Entfallen:
+__Entfallen:__
 
 *Die Verantwortlichen MÜSSEN darauf achten, dass bei der Protokollierung alle rechtlichen Rahmenbedingungen eingehalten werden.*
 
@@ -8187,7 +8187,7 @@ Keine inhaltlichen Änderungen.
 
 #### NET 3.2.A14
 
-##### Entfallen:
+__Entfallen:__
 
 *Änderungen an der Konfiguration MÜSSEN zudem möglichst automatisch protokolliert werden.*
 
@@ -8199,7 +8199,7 @@ Keine inhaltlichen Änderungen.
 
 #### NET 3.2.A23
 
-##### Entfallen:
+__Entfallen:__
 
 Weiterhin SOLLTE ein Prozess definiert werden, der regelt, wie Protokolldaten ausgewertet werden sollen und welche Protokolle regelmäßig, sporadisch oder nur anlassbezogen auszuwerten sind.
 
@@ -8239,7 +8239,7 @@ Keine inhaltlichen Änderungen.
 
 #### NET 3.3.A3
 
-##### Entfallen:
+__Entfallen:__
 
 *Das zugrunde liegende Betriebssystem der VPN-Plattform MUSS sicher konfiguriert werden.*
 
@@ -8251,7 +8251,7 @@ Keine inhaltlichen Änderungen.
 
 #### NET 3.3.A11
 
-##### Entfallen:
+__Entfallen:__
 
 *Wird ein VPN benutzt, um ein externes Netz anzubinden, SOLLTEN dabei als sicher geltende Authentisierungs- und Verschlüsselungsverfahren mit ausreichender Schlüssellänge verwendet werden.*
 
@@ -8260,7 +8260,7 @@ Keine inhaltlichen Änderungen.
 
 #### NET 3.3.A12
 
-##### Entfallen:
+__Entfallen:__
 
 *Die genutzten Authentisierungsverfahren SOLLTEN die Anforderungen des Bausteins ORP.4 Identitäts- und Berechtigungsmanagement erfüllen.*
 
@@ -8326,7 +8326,7 @@ Keine inhaltlichen Änderungen.
 
 #### NET 4.1.A17
 
-##### Entfallen:
+__Entfallen:__
 
 *Die Datenverbindungen bei IP-basierten Zugängen zur TK-Anlage SOLLTEN verschlüsselt sein.*
 
@@ -8367,7 +8367,7 @@ Keine inhaltlichen Änderungen.
 
 #### NET 4.2.A3
 
-##### Entfallen:
+__Entfallen:__
 
 *Die eingesetzten Software-Komponenten MÜSSEN regelmäßig mit Updates aus vertrauenswürdigen Quellen aktualisiert werden.*
 
@@ -8379,7 +8379,7 @@ Keine inhaltlichen Änderungen
 
 #### NET 4.2.A5
 
-##### Entfallen:
+__Entfallen:__
 
 *Es SOLLTE eine Regelung zur restriktiven Anmeldung von Geräten und Benutzern erstellt werden.*
 
@@ -8403,7 +8403,7 @@ Keine inhaltlichen Änderungen
 
 #### NET 4.2.A7
 
-##### Hinzugefügt:
+__Hinzugefügt:__:
 
 Hierbei SOLLTEN auch die verschiedenen VoIP-Funktionen, wie zum Beispiel Voicemails, betrachtet werden.
 
@@ -8436,7 +8436,7 @@ Keine inhaltlichen Änderungen
 
 #### NET 4.2.A15
 
-##### Geändert:
+__Geändert:__
 
 Mediendaten und Informationen zur Steuerung dieser Daten, die über das Real-Time Transport Protocol (RTP) übertragen werden, SOLLTEN in geeigneter Weise geschützt werden.
 
@@ -8480,21 +8480,21 @@ Keine inhaltlichen Änderungen.
 
 #### INF 1.A4
 
-##### Entfallen:
+__Entfallen:__
 
 *Es MUSS regelmäßig kontrolliert werden, dass die Fluchtwege benutzbar und frei von Hindernissen sind, damit das Gebäude in einer Gefahrensituation schnell geräumt werden kann.*
 
 
 #### INF 1.A5
 
-##### Hinzugefügt:
+__Hinzugefügt:__:
 
 Die Einweisungen SOLLTEN in zweckmäßigen Zeitabständen wiederholt werden.
 
 
 #### INF 1.A6
 
-##### Hinzugefügt:
+__Hinzugefügt:__:
 
 Die Einweisungen SOLLTEN in zweckmäßigen Zeitabständen wiederholt werden.
 
@@ -8503,7 +8503,7 @@ Brand- und Rauchschutztüren DÜRFEN NUR dann dauerhaft offen gehalten werden, w
 
 #### INF 1.A7
 
-##### Hinzugefügt:
+__Hinzugefügt:__:
 
 Zutrittskontrollen SOLLTEN auch während Umzügen soweit wie möglich vorhanden sein.
 
@@ -8572,7 +8572,7 @@ Keine inhaltlichen Änderungen.
 
 #### INF 1.A23
 
-##### Entfallen:
+__Entfallen:__
 
 *Es SOLLTE ein Sicherheitszonenkonzept für Gebäude und Grundstück entwickelt und dokumentiert werden.*
 
@@ -8648,7 +8648,7 @@ Keine inhaltlichen Änderungen.
 
 #### INF 1.A34
 
-##### Geändert:
+__Geändert:__
 
 Die Gefahrenmeldeanlage SOLLTE regelmäßig geprüft und gewartet werden.
 
@@ -8694,7 +8694,7 @@ Keine inhaltlichen Änderungen.
 
 #### INF 2.A6
 
-##### Geändert:
+__Geändert:__
 
 Zutrittsrechte MÜSSEN gemäß der Vorgaben des Bausteins ORP.4 Identitäts- und Berechtigungsmanagement vergeben werden.
 
@@ -8712,7 +8712,7 @@ Keine inhaltlichen Änderungen.
 
 #### INF 2.A15
 
-##### Geändert:
+__Geändert:__
 
 Es SOLLTE auf Basis der aktuell gültigen Norm (DIN EN 62305 Teil 1 bis 4) ein Blitz- und Überspannungsschutzkonzept erstellt werden.
 
@@ -8748,7 +8748,7 @@ Keine inhaltlichen Änderungen.
 
 #### INF 2.A30 Die Anforderung wurde komplett geändert.
 
-##### GEändert:
+__Geändert:__
 
 Ein Rechenzentrum SOLLTE mit einer automatischen Lösch- oder Brandvermeidungsanlage ausgestattet werden.
 
@@ -8765,7 +8765,7 @@ Keine inhaltlichen Änderungen.
 
 #### INF 2.A23
 
-##### Geändert:
+__Geändert:__
 
 Kabeltrassen in Rechenzentren SOLLTEN sorgfältig geplant und ausgeführt werden.
 
@@ -8776,7 +8776,7 @@ Zur optimalen Versorgung von IT-Hardware, die über zwei Netzteile verfügt, SOL
 
 #### INF 2.A24
 
-##### Geändert:
+__Geändert:__
 
 Eine Videoüberwachung SOLLTE in das gesamte Sicherheitskonzept eingebettet werden.
 
@@ -8842,7 +8842,7 @@ Keine inhaltlichen Änderungen.
 
 #### INF 5.A7
 
-##### Geändert:
+__Geändert:__
 
 Der Raum für technische Infrastruktur DARF NICHT zweckentfremdet werden, z. B. als Abstellraum oder Putzmittellager.
 
@@ -8859,7 +8859,7 @@ Keine inhaltlichen Änderungen.
 
 #### INF 5.A20
 
-##### Entfallen:
+__Entfallen:__
 
 *Sowohl die Trassen der Datenleitungen als auch die der Energieversorgung SOLLTEN im Gebäude über ihre gesamte Länge bis zum Raum vor unbefugten Zugriffen geschützt werden.*
 
@@ -8895,7 +8895,7 @@ Keine inhaltlichen Ánderungen.
 
 #### INF 6.A4
 
-##### Entfallen:
+__Entfallen:__
 
 *Die entsprechenden Vorgaben MÜSSEN in einer geeigneten Anweisung festgehalten werden.*
 
@@ -8926,7 +8926,7 @@ Keine inhaltlichen Änderungen.
 
 #### INF 7.A2
 
-##### Geändert:
+__Geändert:__
 
 Wenn Mitarbeiter ihre Büroräume verlassen, SOLLTEN alle Fenster geschlossen werden.
 
@@ -9011,7 +9011,7 @@ keine inhaltlichen Änderungen
 
 #### INF 10.A7
 
-##### Entfallen:
+__Entfallen:__
 
 Auf andere Netze SOLLTE nur restriktiv zugegriffen werden können.
 
