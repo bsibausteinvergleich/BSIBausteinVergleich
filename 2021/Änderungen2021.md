@@ -109,7 +109,7 @@ Keine inhaltlichen Änderungen.
 
 #### ISMS 1.A13 Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *ISMS.1.A14 Sensibilisierung zur Informationssicherheit (S)*
 
@@ -187,7 +187,7 @@ Keine inhaltlichen Änderungen.
 
 #### ORP 1.A5 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *ORP.1.A5 Vergabe von Berechtigungen [Leiter IT] (B)*
 
@@ -201,7 +201,7 @@ Diese Anforderung wurde komplett neu hinzugefügt.
 
 #### ORP 1.A6 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *ORP.1.A6 Schutz von sensiblen Informationen am Arbeitsplatz [Mitarbeiter] (S)*
 
@@ -212,7 +212,7 @@ Diese Anforderung wurde komplett neu hinzugefügt.
 
 #### ORP 1.A7 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *ORP.1.A7 Geräteverwaltung [Leiter IT, Leiter Produktion und Fertigung, Leiter Haustechnik] (S)*
 
@@ -233,7 +233,7 @@ Keine inhaltlichen Änderungen
 
 #### ORP 1.A10 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *ORP.1.A10 Reaktion auf Verletzungen der Sicherheitsvorgaben [Informationssicherheitsbeauftragter (ISB)] (S)*
 
@@ -242,7 +242,7 @@ Keine inhaltlichen Änderungen
 
 #### ORP 1.A11 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *ORP.1.A11 Rechtzeitige Beteiligung der Personalvertretung [Leiter IT] (S)*
 
@@ -251,7 +251,7 @@ Keine inhaltlichen Änderungen
 
 #### ORP 1.A12 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *ORP.1.A12 Regelungen für Wartungs- und Reparaturarbeiten [IT-Betrieb, Haustechnik, ICS-Informationssicherheitsbeauftragter] (S)*
 
@@ -275,7 +275,7 @@ __Entfallen:__
 
 #### ORP 1.A14 Diese Anfroderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *ORP.1.A14 Kontrollgänge [Haustechnik, Informationssicherheitsbeauftragter (ISB)] (H)*
 
@@ -362,7 +362,7 @@ Keine inhaltlichen Änderungen.
 
 #### ORP 2.A6 Diese Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *ORP.2.A6 Überprüfung von Kandidaten bei der Auswahl von Personal (S)*
 
@@ -388,7 +388,7 @@ Dabei SOLLTEN auffällig erscheinende Angaben überprüft werden.
 
 #### ORP 2.A8 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *ORP.2.A8 Aufgaben und Zuständigkeiten von Mitarbeitern [Informationssicherheitsbeauftragter (ISB)] (S)*
 
@@ -401,7 +401,7 @@ Dabei SOLLTEN auffällig erscheinende Angaben überprüft werden.
 
 #### ORP 2.A9 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *ORP.2.A9 Schulung von Mitarbeitern (S)*
 
@@ -422,7 +422,7 @@ Dabei SOLLTEN auffällig erscheinende Angaben überprüft werden.
 
 #### ORP 2.A10 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *ORP.2.A10 Vermeidung von Störungen des Betriebsklimas (S)*
 
@@ -444,7 +444,7 @@ Dabei SOLLTEN auffällig erscheinende Angaben überprüft werden.
 
 #### ORP 2.A12 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *ORP.2.A12 Benennung einer Vertrauensperson (H)*
 
@@ -475,7 +475,7 @@ Keine inhaltlichen Änderungen.
 
 #### ORP 3.A2 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *ORP.3.A2 Ansprechpartner zu Sicherheitsfragen (B)*
 
@@ -502,7 +502,7 @@ Dieses Schulungsprogramm SOLLTE den Mitarbeitern alle Informationen und Fähigke
 
 #### ORP 3.A5 Die Anforderung ist komeplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *ORP.3.A5 Analyse der Zielgruppen für Sensibilisierungs- und Schulungsprogramme (S)*
 
@@ -728,7 +728,7 @@ Führungskräfte, die eine rechtliche Verantwortung für die Institution tragen,
 
 #### ORP 5.A3 Die ANforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *ORP.5.A3 Verpflichtung der Mitarbeiter auf Einhaltung einschlägiger Gesetze, Vorschriften und Regelungen [Vorgesetzte, Personalabteilung] (B)*
 
@@ -757,7 +757,7 @@ Keine inhaltlichen Änderungen.
 
 #### ORP 5.A6 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *ORP.5.A6 Einweisung des Personals in den sicheren Umgang mit IT [Vorgesetzte, Personalabteilung] (S)*
 
@@ -933,7 +933,7 @@ Die mit der Löschung und Vernichtung beauftragten Unternehmen SOLLTEN regelmä�
 
 #### CON 6.A3 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *CON.6.A3 Löschen der Datenträger vor und nach dem Austausch [IT-Betrieb, Mitarbeiter] (S)*
 
@@ -961,7 +961,7 @@ Die Institution SOLLTE regelmäßig kontrollieren, ob die gewählten Verfahren n
 
 #### CON 6.A5 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *CON.6.A5 Geregelte Außerbetriebnahme von IT-Systemen und Datenträgern [IT-Betrieb, Mitarbeiter, Fachverantwortliche, Leiter IT] (S)*
 
@@ -974,7 +974,7 @@ Die Institution SOLLTE regelmäßig kontrollieren, ob die gewählten Verfahren n
 
 #### CON 6.A6 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *CON.6.A6 Einweisung aller Mitarbeiter in die Methoden zur Löschung oder Vernichtung von Informationen [Leiter IT] (S)*
 
@@ -983,7 +983,7 @@ Die Institution SOLLTE regelmäßig kontrollieren, ob die gewählten Verfahren n
 
 #### CON 6.A7 Die Anfroderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *CON.6.A7 Beseitigung von Restinformationen [IT-Betrieb, Mitarbeiter] (S)*
 
@@ -1008,7 +1008,7 @@ Die Anfroderung wurde komplett neu hinzugefügt.
 
 #### CON 6.A9 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *CON.6.A9 Auswahl geeigneter Verfahren zur Löschung oder Vernichtung von Datenträgern bei erhöhtem Schutzbedarf [Leiter IT, Leiter Organisation] (H)*
 
@@ -1017,7 +1017,7 @@ Die Anfroderung wurde komplett neu hinzugefügt.
 
 #### CON 6.A10 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *CON.6.A10 Beschaffung geeigneter Geräte zur Löschung oder Vernichtung von Daten [Leiter IT, Beschaffungsstelle, Leiter Organisation] (H)*
 
@@ -1103,7 +1103,7 @@ Keine inhaltlichen Änderungen.
 
 #### CON 8.A4 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *CON.8.A4 Einhaltung einer sicheren Vorgehensweise [Entwickler] (B)*
 
@@ -1188,7 +1188,7 @@ Für die Installations-, Update- oder Patchdateien MÜSSEN vom Entwickler Checks
 
 #### CON 8.A9 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *CON.8.A9 Berücksichtigung von Compliance-Anforderungen [Entwickler] (B)*
 
@@ -1217,7 +1217,7 @@ Keine inhaltlichen Änderungen.
 
 #### CON 8.A13 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *CON.8.A13 Beschaffung von Werkzeugen (S)*
 
@@ -1251,7 +1251,7 @@ Die Entwickler und die übrigen Mitglieder des Entwicklungsteams SOLLTEN zu gene
 
 #### CON 8.A15 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *CON.8.A15 Sicherer Einsatz der Test- und Entwicklungsumgebungen [Entwickler] (S)*
 
@@ -1400,7 +1400,7 @@ Der Baustein CON 10 ist komplett neu hinzugefügt wurden.
 
 #### OPS 1.1.2.A1 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *OPS.1.1.2.A1 Personalauswahl für administrative Tätigkeiten [Leiter Personal] (B)*
 
@@ -1545,7 +1545,7 @@ Anfroderung wurde komplett neu hinzugefügt.
 
 #### OPS 1.1.3.A4 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *OPS.1.1.3.A4 Planung des Änderungsmanagementprozesses [Änderungsmanager] (S)*
 
@@ -1664,7 +1664,7 @@ __Entfallen:__
 
 #### OPS 1.1.4.A4 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *OPS.1.1.4.A4 Auswahl eines Virenschutzprogrammes für Gateways und IT-Systeme zum Datenaustausch [Fachverantwortliche] (B)*
 
@@ -1710,7 +1710,7 @@ Benutzer MÜSSEN sich an die ihnen benannten Ansprechpartner wenden, wenn der Ve
 
 #### OPS 1.1.4.A8 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *OPS.1.1.4.A8 Nutzung von Cloud-Diensten zur Detektionsverbesserung (S)*
 
@@ -1733,7 +1733,7 @@ Keine inhaltlichen Änderungen.
 
 #### OPS 1.1.4.A15 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *OPS.1.1.4.A15 Externe Beratung zum Schutz vor Schadprogrammen (H)*
 
@@ -1769,7 +1769,7 @@ Die Ergebnisse der Überprüfung MÜSSEN dokumentiert werden.
 
 #### OPS 1.1.5.A2 Die Andorferung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *OPS.1.1.5.A2 Festlegung von Rollen und Verantwortlichkeiten [Leiter IT] (B)*
 
@@ -1804,7 +1804,7 @@ Dafür SOLLTE eine zentrale Protokollierungsinfrastruktur im Sinne eines Logserv
 
 #### OPS 1.1.5.A7 Die Änforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *OPS.1.1.5.A7 Sichere Administration von Protokollierungsservern (S)*
 
@@ -1943,7 +1943,7 @@ Der Quellcode SOLLTE NICHT ausschließlich von Testern überprüft werden, die a
 
 #### OPS 1.1.6.A8 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *OPS.1.1.6.A8 Fort- und Weiterbildung der Software-Tester [Leiter Personal] (S)*
 
@@ -1954,7 +1954,7 @@ Der Quellcode SOLLTE NICHT ausschließlich von Testern überprüft werden, die a
 
 #### OPS 1.1.6.A9 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 OPS.1.1.6.A9 Beschaffung von Test-Software [IT-Betrieb, Tester] (S)
 
@@ -2039,7 +2039,7 @@ __Entfallen:__
 
 #### OPS 1.2.4.A3 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *OPS.1.2.4.A3 Sicherheitstechnische Anforderungen an die Kommunikationsverbindung [IT-Betrieb, Leiter IT] (B)*
 
@@ -2056,7 +2056,7 @@ __Entfallen:__
 
 #### OPS 1.2.4.A4 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *OPS.1.2.4.A4 Datensicherung bei der Telearbeit [IT-Betrieb, Telearbeiter] (B)*
 
@@ -2111,7 +2111,7 @@ Alle anderen Fernwartungsverbindungen SOLLTEN verschlüsselt werden.
 
 #### OPS 1.2.5.A4 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *OPS.1.2.5.A4 Regelungen zu Kommunikationsverbindungen (B)*
 
@@ -2269,7 +2269,7 @@ Bevor die zuständigen Mitarbeiter Schulungen für neue IT-Komponenten bekommen,
 
 #### DER 1.A8 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *DER.1.A8 Festlegung von zu schützenden Segmenten [Fachverantwortliche] (S)*
 
@@ -2403,7 +2403,7 @@ Keine inhaltlichen Änderungen.
 
 #### DER 3.1.A28 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *DER.3.1.A28 Sicherheitsüberprüfung der Auditoren (H)*
 
@@ -2429,7 +2429,7 @@ Keine inhaltlichen Änderungen.
 
 #### DER 3.2.A23 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *DER.3.2.A23 Sicherheitsüberprüfung der IS-Revisoren (H)*
 
@@ -2462,7 +2462,7 @@ Keine inhaltlichen Änderungen.
 
 #### APP 1.1.A1 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *APP.1.1.A1 Sicherstellen der Integrität von Office-Produkten (B)*
 
@@ -2505,7 +2505,7 @@ Durch technische Maßnahmen SOLLTE erzwungen werden, dass Dokumente aus externen
 
 #### APP 1.1.A4 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *APP.1.1.A4 Absichern des laufenden Betriebs von Office-Produkten (B)*
 
@@ -2535,7 +2535,7 @@ Benutzer SOLLTEN im Umgang mit den Verschlüsselungsfunktionen in Office-Produkt
 
 #### APP 1.1.A5 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *APP.1.1.A5 Auswahl geeigneter Office-Produkte (S)*
 
@@ -2557,7 +2557,7 @@ __Entfallen:__
 
 #### APP 1.1.A7 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *APP.1.1.A7 Installation und sichere Standardkonfiguration von Office-Produkten (S)*
 
@@ -2578,7 +2578,7 @@ __Entfallen:__
 
 #### APP 1.1.A8 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *APP.1.1.A8 Regelmäßige Versionskontrolle von Office-Produkten (S)*
 
@@ -2589,7 +2589,7 @@ __Entfallen:__
 
 #### APP 1.1.A9 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *APP.1.1.A9 Beseitigung von Restinformationen vor Weitergabe von Dokumenten [Benutzer] (S)*
 
@@ -2700,7 +2700,7 @@ Der Webbrowser MUSS in diesem Fall die Verbindung abbrechen, bis der Benutzer di
 
 #### APP 1.2.A4 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *APP.1.2.A4 Versionsprüfung und Aktualisierung des Webbrowsers (B)*
 
@@ -2735,7 +2735,7 @@ Die Anforderung wurd komplett neu hinzugefügt.
 
 #### APP 1.2.A5 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *APP.1.2.A5 Verwendung einer zentralen Basiskonfiguration (S)*
 
@@ -2753,7 +2753,7 @@ Keine inhaltlichen Änderungen.
 
 #### APP 1.2.A8 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *APP.1.2.A8 Verwendung von Plug-ins und Erweiterungen [Benutzer] (S)*
 
@@ -2794,7 +2794,7 @@ __Entfallen:__
 
 #### APP 1.4.A2 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *APP.1.4.A2 Regelungen für die Verwendung von mobilen Endgeräten und Apps [Benutzer] (B)*
 
@@ -2815,7 +2815,7 @@ __Entfallen:__
 
 #### APP 1.4.A4 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *APP.1.4.A4 Test und Freigabe von Apps [Datenschutzbeauftragter, Fachverantwortliche] (B)*
 
@@ -2839,7 +2839,7 @@ Keine inhaltlichen Änderungen.
 
 #### APP 1.4.A6 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *APP.1.4.A6 Patchmanagement für Apps (B)*
 
@@ -2877,7 +2877,7 @@ Interne Apps der Institution und Apps, die schutzbedürftige Informationen verar
 
 #### APP 1.4.A9 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *APP.1.4.A9 Sichere Anbindung an Backend-Systeme [Fachverantwortliche] (S)*
 
@@ -2890,7 +2890,7 @@ Interne Apps der Institution und Apps, die schutzbedürftige Informationen verar
 
 #### APP 1.4.A10 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *APP.1.4.A10 Sichere Authentisierung von Apps (S)*
 
@@ -2905,7 +2905,7 @@ Interne Apps der Institution und Apps, die schutzbedürftige Informationen verar
 
 #### APP 1.4.A11 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *APP.1.4.A11 Zentrales Management von Apps (S)*
 
@@ -2931,7 +2931,7 @@ Werden Apps deinstalliert, SOLLTEN auch Daten gelöscht werden, die auf externen
 
 #### APP 1.4.A13 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *APP.1.4.A13 Entwicklung von Fallback-Lösungen für Apps [Fachverantwortliche] (H)*
 
@@ -2990,7 +2990,7 @@ Keine inhaltlichen Änderungen.
 
 #### APP 2.2.A4 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *APP.2.2.A4 Schulung zur Active-Directory-Verwaltung (B)*
 
@@ -3063,7 +3063,7 @@ __Entfallen:__
 
 #### APP 2.2.A13 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *APP.2.2.A13 Einsatz von Zwei-Faktor-Authentisierung (H)*
 
@@ -3095,7 +3095,7 @@ Keine inhaltlichen Änderungen.
 
 #### APP 2.3.A2 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *APP.2.3.A2 Sichere Installation von OpenLDAP (B)*
 
@@ -3134,7 +3134,7 @@ Keine inhaltlichen Änderungen.
 
 #### APP 2.3.A7 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *APP.2.3.A7 Schulung von Administratoren von OpenLDAP (S)*
 
@@ -3165,7 +3165,7 @@ Keine inhaltlichen Änderungen.
 
 #### APP 2.3.A12 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *APP.2.3.A12 Protokollierung und Überwachung von OpenLDAP [Datenschutzbeauftragter] (S)*
 
@@ -3182,7 +3182,7 @@ Keine inhaltlichen Änderungen.
 
 #### APP 2.3.A13 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *APP.2.3.A13 Datensicherung von OpenLDAP (S)*
 
@@ -3216,7 +3216,7 @@ Der IT-Betrieb MUSS geeignete Grenzwerte für fehlgeschlagene Anmeldeversuche fe
 
 #### APP 3.1.A2 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *APP.3.1.A2 Zugriffskontrolle bei Webanwendungen [Entwickler] (B)*
 
@@ -3241,7 +3241,7 @@ Der IT-Betrieb MUSS geeignete Grenzwerte für fehlgeschlagene Anmeldeversuche fe
 
 #### APP 3.1.A3 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *APP.3.1.A3 Sicheres Session-Management [Entwickler] (B)*
 
@@ -3281,7 +3281,7 @@ Zudem MUSS sichergestellt werden, dass ein Benutzer Dateien nur im vorgegebenen 
 
 #### APP 3.1.A5 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *APP.3.1.A5 Protokollierung sicherheitsrelevanter Ereignisse von Webanwendungen [Entwickler] (B)*
 
@@ -3318,7 +3318,7 @@ Die Dateien mit den Quelltexten der Webanwendung MÜSSEN vor unerlaubten Abrufen
 
 #### APP 3.1.A16 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *APP.3.1.A16 Umfassende Eingabevalidierung und Ausgabekodierung [Entwickler] (B)*
 
@@ -3337,7 +3337,7 @@ Die Dateien mit den Quelltexten der Webanwendung MÜSSEN vor unerlaubten Abrufen
 
 #### APP 3.1.A19 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *APP.3.1.A19 Schutz vor SQL-Injection [Entwickler] (B)*
 
@@ -3418,7 +3418,7 @@ Folgendes SOLLTE bei der Konfiguration von Webanwendungen umgesetzt werden:
 
 #### APP 3.1.A13 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *APP.3.1.A13 Restriktive Herausgabe sicherheitsrelevanter Informationen (S)*
 
@@ -3429,7 +3429,7 @@ Folgendes SOLLTE bei der Konfiguration von Webanwendungen umgesetzt werden:
 
 #### APP 3.1.A15 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *APP.3.1.A15 Verifikation essenzieller Änderungen [Entwickler] (S)*
 
@@ -3442,7 +3442,7 @@ Folgendes SOLLTE bei der Konfiguration von Webanwendungen umgesetzt werden:
 
 #### APP 3.1.A17 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *APP.3.1.A17 Fehlerbehandlung [Entwickler] (S)*
 
@@ -3475,7 +3475,7 @@ Keine inhaltlichen Änderungen.
 
 #### APP 3.1.A23 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *APP.3.1.A23 Verhinderung von Cross-Site-Request-Forgery [Entwickler] (S)*
 
@@ -3491,7 +3491,7 @@ Keine inhaltlichen Änderungen.
 
 #### APP 3.1.A24 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *APP.3.1.A24 Verhinderung der Blockade von Ressourcen [Entwickler] (H)*
 
@@ -3502,7 +3502,7 @@ Keine inhaltlichen Änderungen.
 
 #### APP 3.1.A25 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *APP.3.1.A25 Kryptografische Sicherung vertraulicher Daten [Entwickler] (H)*
 
@@ -3607,7 +3607,7 @@ Keine inhaltlichen Änderungen.
 
 #### APP 3.2.A17 Die Aforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *APP.3.2.A17 Einsatz erweiterter Authentisierungsmethoden für Webserver (H)*
 
@@ -3643,7 +3643,7 @@ Kein inhaltlichen Änderungen.
 
 #### APP 3.3.A5 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *APP.3.3.A5 Restriktive Rechtevergabe (B)*
 
@@ -3799,7 +3799,7 @@ Keine inhaltlichen Änderungen.
 
 #### APP 3.4.A11 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *APP.3.4.A11 Sicherer Einsatz von Kommunikationsprotokollen beim Einsatz eines Samba-Servers (S)*
 
@@ -3873,7 +3873,7 @@ Keine inhaltlichen Änderungen.
 
 #### APP 3.6.A12 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *APP.3.6.A12 Schulung der Verantwortlichen [Vorgesetzte] (S)*
 
@@ -3992,7 +3992,7 @@ Keine inhaltichen Änderungen.
 
 #### APP 4.2.A10 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *APP.4.2.A10 Regelmäßige Implementierung von Sicherheitskorrekturen [Fachabteilung] (B)*
 
@@ -4012,7 +4012,7 @@ Keine inhaltichen Änderungen.
 
 #### APP 4.3.A21 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *APP.4.2.A21 Konfiguration des Security Audit Logs (S)*
 
@@ -4051,7 +4051,7 @@ Die Ergebnisse MÜSSEN sinnvoll dokumentiert werden.
 
 #### APP 4.3.A2 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *APP.4.3.A2 Installation des Datenbankmanagementsystems (B)*
 
@@ -4074,7 +4074,7 @@ Keine inhaltlichen Änderungen.
 
 #### APP 4.3.A5 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *APP.4.3.A5 Benutzer- und Berechtigungskonzept (B)*
 
@@ -4091,7 +4091,7 @@ Keine inhaltlichen Änderungen.
 
 #### APP 4.3.A6 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *APP.4.3.A6 Passwortänderung [Fachverantwortliche] (B)*
 
@@ -4104,7 +4104,7 @@ Keine inhaltlichen Änderungen.
 
 #### APP 4.3.A7 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *APP.4.3.A7 Zeitnahes Einspielen von Sicherheitsupdates (B)*
 
@@ -4123,7 +4123,7 @@ Keine inhaltlichen Änderungen.
 
 #### APP 4.3.A8 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *APP.4.3.A8 Datenbank-Protokollierung (B)*
 
@@ -4143,7 +4143,7 @@ Keine inhaltlichen Änderungen.
 
 #### APP 4.3.A10 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *APP.4.3.A10 Auswahl geeigneter Datenbankmanagementsysteme (S)*
 
@@ -4171,7 +4171,7 @@ Keine inhaltlichen Änderungen.
 
 #### APP 4.3.A14 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *APP.4.3.A14 Überprüfung der Datensicherung eines Datenbanksystems (S)*
 
@@ -4182,7 +4182,7 @@ Keine inhaltlichen Änderungen.
 
 #### APP 4.3.A15 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *APP.4.3.A15 Schulung der Datenbankadministratoren [Vorgesetzte, Leiter IT] (S)*
 
@@ -4247,7 +4247,7 @@ keine inhaltlichen Änderungen.
 
 #### APP 5.2.A14 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *APP.5.2.A14 Schulung zu Sicherheitsmechanismen von Outlook für Anwender [Informationssicherheitsbeauftragter (ISB)] (S)*
 
@@ -4258,7 +4258,7 @@ keine inhaltlichen Änderungen.
 
 #### APP 5.2.A15 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *APP.5.2.A15 Betriebsdokumentation für Microsoft Exchange (S)*
 
@@ -4273,7 +4273,7 @@ keine inhaltlichen Änderungen.
 
 #### APP 5.2.A19 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *APP.5.2.A19 Erstellung einer Sicherheitsrichtlinie für Microsoft Exchange (S)*
 
@@ -4352,7 +4352,7 @@ __Entfallen:__
 
 #### SYS 1.1.A3 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *SYS.1.1.A3 Restriktive Rechtevergabe (B)*
 
@@ -4375,7 +4375,7 @@ __Entfallen:__
 
 #### SYS 1.1.A4 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *SYS.1.1.A4 Rollentrennung (B)*
 
@@ -4410,7 +4410,7 @@ __Entfallen:__
 
 #### SYS 1.1.A7 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *SYS.1.1.A7 Updates und Patches für Firmware, Betriebssystem und Anwendungen (B)*
 
@@ -4425,7 +4425,7 @@ __Entfallen:__
 
 #### SYS 1.1.A8 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *SYS.1.1.A8 Regelmäßige Datensicherung (B)*
 
@@ -4483,7 +4483,7 @@ Keine inhaltlichen Änderungen.
 
 #### SYS 1.1.A14 Die Anforderung ist komplett entfallen
 
-##### Ehemals:
+__Ehemals:__
 
 *SYS.1.1.A14 Erstellung eines Benutzer- und Administrationskonzepts (S)*
 
@@ -4522,7 +4522,7 @@ __Entfallen:__
 
 #### SYS 1.1.A17 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *SYS.1.1.A17 Einsatzfreigabe für Server (S)*
 
@@ -4535,7 +4535,7 @@ __Entfallen:__
 
 #### SYS 1.1.A18 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *SYS.1.1.A18 Verschlüsselung der Kommunikationsverbindungen (S)*
 
@@ -4553,7 +4553,7 @@ Die Identität von Remote-Systemen und die Integrität der Verbindungen mit dies
 
 #### SYS 1.1.A20 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *SYS.1.1.A20 Beschränkung des Zugangs über Netze (S)*
 
@@ -4596,7 +4596,7 @@ Die Anforderung wurde komplett neu hinzugefügt.
 
 #### SYS 1.1.A25 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *SYS.1.1.A26 Verwendung von Mehr-Faktor-Authentisierung (H)*
 
@@ -4612,7 +4612,7 @@ Keine inhaltlichen Änderungen.
 
 #### SYS 1.1.A27 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *SYS.1.1.A29 Einrichtung einer Testumgebung (H)*
 
@@ -4635,7 +4635,7 @@ Keine inhaltlichen Änderungen.
 
 #### SYS 1.1.A32 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *SYS.1.1.A32 Zusätzlicher Schutz von privilegierten Anmeldeinformationen (H)*
 
@@ -4719,7 +4719,7 @@ __Entfallen:__
 
 #### SYS 1.2.2.A7 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *SYS.1.2.2.A7 Prüfung der Sicherheitskonfiguration von Windows Server 2012 (S)*
 
@@ -4737,7 +4737,7 @@ __Entfallen:__
 
 #### SYS 1.2.2.A9 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *SYS.1.2.2.A9 Lokale Kommunikationsfilterung (S)*
 
@@ -4748,7 +4748,7 @@ __Entfallen:__
 
 #### SYS 1.2.2.A10 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *SYS.1.2.2.A10 Festplattenverschlüsselung bei Windows Server 2012 (H)*
 
@@ -4775,7 +4775,7 @@ Keine inhaltlichen Änderungen.
 
 #### SYS 1.2.2.A13 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *SYS.1.2.2.A13 Starke Authentifizierung bei Windows Server 2012 (H)*
 
@@ -4799,7 +4799,7 @@ Keine inhaltlichen Änderungen.
 
 #### SYS 1.3.A1 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *SYS.1.3.A1 Authentisierung von Administratoren und Benutzern [Benutzer] (B)*
 
@@ -4855,7 +4855,7 @@ Für die Authentifizierung SOLLTEN Benutzer vorrangig Zertifikate anstatt eines 
 
 #### SYS 1.3.A9 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *SYS.1.3.A9 Absicherung des Bootvorgangs (S)*
 
@@ -4873,7 +4873,7 @@ Keine inhaltlichen Änderungen.
 
 #### SYS 1.3.A11 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *SYS.1.3.A11 Einsatz der Sicherheitsmechanismen von NFS (S)*
 
@@ -4888,7 +4888,7 @@ Keine inhaltlichen Änderungen.
 
 #### SYS 1.3.A12 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *SYS.1.3.A12 Einsatz der Sicherheitsmechanismen von NIS (S)*
 
@@ -4906,7 +4906,7 @@ Keine inhaltlichen Änderungen.
 
 #### SYS 1.3.A15 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *SYS.1.3.A15 Zusätzliche Absicherung des Bootvorgangs (H)*
 
@@ -4930,7 +4930,7 @@ Keine inhaltlichen Änderungen.
 
 #### SYS 1.5.A1 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *SYS.1.5.A1 Einspielen von Aktualisierungen und Sicherheitsupdates (B)8
 
@@ -4988,7 +4988,7 @@ Keine inhaltlichen Änderungen.
 
 #### SYS 1.5.A18 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *SYS.1.5.A18 Schulung der Administratoren virtueller Umgebungen [Vorgesetzte] (S)*
 
@@ -5017,7 +5017,7 @@ Keine inhaltlichen Änderungen.
 
 #### SYS 1.7.A10 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *SYS.1.7.A10 Absichern des Login-Vorgangs unter z/OS (B)*
 
@@ -5037,7 +5037,7 @@ Keine inhaltlichen Änderungen.
 
 #### SYS 1.7.A12 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *SYS.1.7.A12 Planung von Z-Systemen (S)*
 
@@ -5050,7 +5050,7 @@ Keine inhaltlichen Änderungen.
 
 #### SYS 1.7.A13 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *SYS.1.7.A13 Erstellung von Sicherheitsrichtlinien für z/OS-Systeme (S)*
 
@@ -5068,7 +5068,7 @@ Keine inhaltlichen Änderungen.
 
 #### SYS 1.7.A15 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *SYS.1.7.A15 Überprüfungen zum sicheren Betrieb von z/OS [IS-Revisionsteam] (S)*
 
@@ -5110,7 +5110,7 @@ __Entfallen:__
 
 #### SYS 1.8.A3 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *SYS.1.8.A3 Restriktive Rechtevergabe (B)*
 
@@ -5128,7 +5128,7 @@ Keine inhaltlichen Änderungen.
 
 #### SYS 1.8.A5 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *SYS.1.8.A5 Protokollierung bei Speichersystemen (B)*
 
@@ -5177,7 +5177,7 @@ __Entfallen:__
 
 #### SYS 1.8.A12 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *SYS.1.8.A12 Schulung der Administratoren [Vorgesetzte] (S)*
 
@@ -5209,14 +5209,14 @@ Keine inhaltlichen Änderungen.
 
 #### SYS 1.8.A16
 
-##### Ehemals:
+__Ehemals:__
 
 *Für das Speichersystem SOLLTE festgelegt werden, welche Informationen mit welchen Verfahren zu löschen sind.*
 
 
 #### SYS 1.8.A17
 
-##### Ehemals:
+__Ehemals:__
 
 *Für das Speichersystem SOLLTE festgelegt werden, welche Informationen mit welchen Verfahren zu löschen sind.*
 
@@ -5253,7 +5253,7 @@ Die Benutzer SOLLTEN verpflichtet werden, sich nach Aufgabenerfüllung vom IT-Sy
 
 #### SYS 2.1.A2 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *SYS.2.1.A2 Rollentrennung (B)*
 
@@ -5275,7 +5275,7 @@ Keine inhaltlichen Änderungen.
 
 #### SYS 2.1.A4 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *SYS.2.1.A4 Regelmäßige Datensicherung (B)*
 
@@ -5296,7 +5296,7 @@ Keine inhaltlichen Änderungen.
 
 #### SYS 2.1.A5 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *SYS.2.1.A5 Verwendung einer Bildschirmsperre [Benutzer] (B)*
 
@@ -5326,7 +5326,7 @@ Wenn ein Client infiziert ist, MUSS im Offlinebetrieb untersucht werden, ob ein 
 
 #### SYS 2.1.A7 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *SYS.2.1.A7 Protokollierung auf Clients (B)*
 
@@ -5367,7 +5367,7 @@ Keine inhaltlichen Änderungen.
 #### SYS 2.1.A12 Die Anforderung ist komplett entfallen.
 
 
-##### Ehemals:
+__Ehemals:__
 
 *SYS.2.1.A12 Kompatibilitätsprüfung von Software (S)*
 
@@ -5420,7 +5420,7 @@ Keine inhaltlichen Änderungen.
 
 #### SYS 2.1.A17 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *SYS.2.1.A17 Einsatzfreigabe für Clients (S)*
 
@@ -5454,7 +5454,7 @@ Neue Zertifikate von Zertifikatsausstellern SOLLTEN erst nach Überprüfung des 
 
 #### SYS 2.1.A19 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *SYS.2.1.A19 Restriktive Rechtevergabe (S)*
 
@@ -5487,7 +5487,7 @@ Keine inhaltlichen Änderungen.
 
 #### SYS 2.1.A22 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *SYS.2.1.A22 Abmelden nach Aufgabenerfüllung [Benutzer] (S)*
 
@@ -5520,7 +5520,7 @@ Es SOLLTE verhindert werden, dass über Wechsellaufwerke oder externe Schnittste
 
 #### SYS 2.1.A25 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *SYS.2.1.A25 Mitarbeiterrichtlinie zur sicheren IT-Nutzung [Benutzer] (S)*
 
@@ -5685,7 +5685,7 @@ __Entfallen:__
 
 #### SYS 2.2.2.A6 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *SYS.2.2.2.A6 Datei- und Freigabeberechtigungen unter Windows 8.1 (S)*
 
@@ -5737,7 +5737,7 @@ Keine inhaltlichen Änderungen.
 
 #### SYS 2.2.3.A7 Die ANforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *SYS.2.2.3.A7 Lokale Sicherheitsrichtlinien für Windows 10 (S)*
 
@@ -5754,7 +5754,7 @@ Keine inhaltlichen Änderungen.
 
 #### SYS 2.2.3.A8 Die ANforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *SYS.2.2.3.A8 Zentrale Verwaltung der Sicherheitsrichtlinien von Clients (S)*
 
@@ -5770,7 +5770,7 @@ Keine inhaltlichen Änderungen.
 
 #### SYS 2.2.3.A10 Die ANforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *SYS.2.2.3.A10 Konfiguration zum Schutz von Anwendungen unter Windows 10 (S)*
 
@@ -5822,7 +5822,7 @@ __Entfallen:__
 
 #### SYS 2.3.A3 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *SYS.2.3.A3 Nutzung von Cloud- und Online-Funktionen [Benutzer] (B)*
 
@@ -5892,7 +5892,7 @@ Keine inhaltlichen Änderungen.
 
 #### SYS 2.3.A16 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *SYS.2.3.A16 Zusätzliche Absicherung des Bootvorgangs (H)*
 
@@ -5943,7 +5943,7 @@ Keine inhaltlichen Änderungen.
 
 #### SYS 3.1.A2 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *SYS.3.1.A2 Zugriffsschutz am Laptop [Benutzer] (B)*
 
@@ -5959,7 +5959,7 @@ Keine inhaltlichen Änderungen.
 
 #### SYS 3.1.A4 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *SYS.3.1.A4 Einsatz von Antivirenprogrammen [Benutzer] (B)*
 
@@ -5982,7 +5982,7 @@ Keine inhaltlichen Änderungen.
 
 #### SYS 3.1.A5 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *SYS.3.1.A5 Datensicherung [Benutzer] (B)*
 
@@ -6161,7 +6161,7 @@ Keine inhaltlichen Änderungen.
 
 #### SYS 3.2.1.A14 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *SYS.3.2.1.A14 Schutz vor Phishing und Schadprogrammen im Browser (S)*
 
@@ -6172,7 +6172,7 @@ Keine inhaltlichen Änderungen.
 
 #### SYS 3.2.1.A15 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *SYS.3.2.1.A15 Deaktivierung von Download-Boostern (S)*
 
@@ -6186,7 +6186,7 @@ Keine inhaltlichen Änderungen.
 
 #### SYS 3.2.1.A17 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *SYS.3.2.1.A17 Verwendung der SIM-Karten-PIN (S)*
 
@@ -6207,7 +6207,7 @@ Keine inhaltlichen Änderungen.
 
 #### SYS 3.2.1.A20 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *SYS.3.2.1.A20 Auswahl und Freigabe von Apps (S)*
 
@@ -6220,7 +6220,7 @@ Keine inhaltlichen Änderungen.
 
 #### SYS 3.2.1.A21 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *SYS.3.2.1.A21 Definition der erlaubten Informationen und Applikationen auf mobilen Geräten [Fachverantwortliche, Benutzer] (S)*
 
@@ -6248,7 +6248,7 @@ Die Anforderungen wurden komplett neu hinzugefügt.
 
 #### SYS 3.2.1.A23 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *SYS.3.2.1.A23 Zusätzliche Authentisierung für vertrauliche Anwendungen (H)*
 
@@ -6257,7 +6257,7 @@ Die Anforderungen wurden komplett neu hinzugefügt.
 
 #### SYS 3.2.1.A24 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *SYS.3.2.1.A24 Einsatz einer geschlossenen Benutzergruppe (H)*
 
@@ -6344,7 +6344,7 @@ Das MDM SOLLTE eine Black- oder White-List für die Installation von Apps ermög
 
 #### SYS 3.2.2.A8 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *SYS.3.2.2.A8 Festlegung erlaubter Informationen auf mobilen Endgeräten (S)*
 
@@ -6359,7 +6359,7 @@ Das MDM SOLLTE eine Black- oder White-List für die Installation von Apps ermög
 
 #### SYS 3.2.2.A9 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *SYS.3.2.2.A9 Auswahl und Installation von Sicherheits-Apps (S)*
 
@@ -6370,7 +6370,7 @@ Das MDM SOLLTE eine Black- oder White-List für die Installation von Apps ermög
 
 #### SYS 3.2.2.A10 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *SYS.3.2.2.A10 Sichere Anbindung der mobilen Endgeräte an die Institution (S)*
 
@@ -6383,7 +6383,7 @@ Das MDM SOLLTE eine Black- oder White-List für die Installation von Apps ermög
 
 #### SYS 3.2.2.A11 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *SYS.3.2.2.A11 Berechtigungsmanagement im MDM (S)*
 
@@ -6455,7 +6455,7 @@ Keine inhaltlichen Änderungen.
 
 #### SYS 3.2.3.A10 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *SYS.3.2.3.A10 Verwendung biometrischer Authentisierung (S)*
 
@@ -6466,7 +6466,7 @@ Keine inhaltlichen Änderungen.
 
 #### SYS 3.2.3.A11 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *SYS.3.2.3.A11 Verwendung nicht personalisierter Gerätenamen (S)*
 
@@ -6480,7 +6480,7 @@ Keine inhaltlichen Änderungen.
 
 #### SYS 3.2.3.A20 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *SYS.3.2.3.A20 Einbindung der Geräte in die interne Infrastruktur via VPN (S)*
 
@@ -6533,7 +6533,7 @@ Falls die Frist ohne Zugriff verstricht, sollte das Konfigurationsprofil dieses 
 
 #### SYS 3.2.4.A1 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *SYS.3.2.4.A1 Auswahl von Android-basierten Geräten (B)*
 
@@ -6554,7 +6554,7 @@ Keine inhaltlichen Änderungen.
 
 #### SYS 3.2.4.A4 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *SYS.3.2.4.A4 Regelung und Konfiguration von Cloud-Print (S)*
 
@@ -6568,7 +6568,7 @@ Keine inhaltlichen Änderungen.
 
 #### SYS 3.2.4.A6 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *SYS.3.2.4.A6 Einsatz eines Produkts zum Schutz vor Schadsoftware (H)*
 
@@ -6581,7 +6581,7 @@ Keine inhaltlichen Änderungen.
 
 #### SYS 3.2.4.A7 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *SYS.3.2.4.A7 Verwendung einer Firewall (H)*
 
@@ -6735,7 +6735,7 @@ __Entfallen:__
 
 #### SYS 4.1.A12 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *SYS.4.1.A12 Ordnungsgemäße Entsorgung von Geräten und schützenswerten Betriebsmitteln (B)*
 
@@ -6786,7 +6786,7 @@ Insbesondere SOLLTEN alle nicht benötigten Daten- und Netzschnittstellen von Dr
 
 #### SYS 4.1.A19 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *SYS.4.1.A19 Sicheres Löschen von Informationen bei Druckern, Kopierern und Multifunktionsgeräten (S)*
 
@@ -6886,7 +6886,7 @@ IoT-Gerate MÜSSEN in das Identitäts- und Berechtigungsmanagement der Instituti
 
 #### SYS 4.4.A3 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *SYS.4.4.A3 Regelmäßige Aktualisierung (B)*
 
@@ -6927,7 +6927,7 @@ Keine inhaltlichen Änderungen
 
 #### SYS 4.4.A12 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *SYS.4.4.A12 Sichere Integration in übergeordnete Systeme (S)*
 
@@ -6941,7 +6941,7 @@ Keine inhaltlichen Änderungen
 
 #### SYS 4.4.A14 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *SYS.4.4.A14 Einsatzfreigabe (S)*
 
@@ -7139,7 +7139,7 @@ Er MUSS innerhalb der Institution bekannt gegeben werden.
 
 #### IND 1.A2 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *IND.1.A2 Sensibilisierung und Schulung des Personals (B)*
 
@@ -7368,7 +7368,7 @@ Keine inhaltlichen Änderungen.
 
 #### IND 2.1.A3 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *IND.2.1.A3 Protokollierung [ICS-Administrator] (B)*
 
@@ -7390,7 +7390,7 @@ Keine inhaltlichen Änderungen.
 
 #### IND 2.1.A5 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 IND.2.1.A5 Deaktivierung nicht genutzter Benutzerkonten [ICS-Administrator] (B)
 
@@ -7416,7 +7416,7 @@ Keine inhaltlichen Änderungen.
 
 #### IND 2.1.A9 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *IND.2.1.A9 Dokumentation der Kommunikationsbeziehungen [ICS-Administrator] (S)*
 
@@ -7427,7 +7427,7 @@ Keine inhaltlichen Änderungen.
 
 #### IND 2.1.A10 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *IND.2.1.A10 Systemdokumentation [Leitstellen-Operator, ICS-Administrator] (S)*
 
@@ -7449,7 +7449,7 @@ Keine inhaltlichen Änderungen.
 
 #### IND 2.1.A12 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *IND.2.1.A12 Beschaffung von ICS-Komponenten [Leitstellen-Operator, ICS-Administrator] (S)*
 
@@ -7479,7 +7479,7 @@ __Entfallen:__
 
 #### IND 2.1.A14 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *IND.2.1.A14 Aussonderung von ICS-Komponenten [ICS-Administrator] (S)*
 
@@ -7490,7 +7490,7 @@ __Entfallen:__
 
 #### IND 2.1.A15 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *IND.2.1.A15 Zentrale Systemprotokollierung und -überwachung [ICS-Administrator] (S)*
 
@@ -7545,7 +7545,7 @@ Steuerungsprogramme und Konfigurationen SOLLTEN immer gesichert werden, bevor an
 
 #### IND 2.2.A2 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *IND.2.2.A2 Benutzerkontenkontrolle und restriktive Rechtevergabe [ICS-Administrator] (S)*
 
@@ -7705,7 +7705,7 @@ Keine inhaltlichen Änderungen.
 
 #### NET 1.2.A3 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *NET.1.2.A3 Rollen- und Berechtigungskonzept für das Netzmanagement (B)*
 
@@ -7716,7 +7716,7 @@ Keine inhaltlichen Änderungen.
 
 #### NET 1.2.A4 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *NET.1.2.A4 Grundlegende Authentisierung für den Netzmanagement-Zugriff [Leiter IT, Informationssicherheitsbeauftragter (ISB)] (B)*
 
@@ -7731,7 +7731,7 @@ Keine inhaltlichen Änderungen.
 
 #### NET 1.2.A5 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *NET.1.2.A5 Einspielen von Updates und Patches (B)*
 
@@ -7781,7 +7781,7 @@ Keine inhaltlichen Änderungen.
 
 #### NET 1.2.A19 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *NET.1.2.A19 Starke Authentisierung des Management-Zugriffs (S)*
 
@@ -7792,7 +7792,7 @@ Keine inhaltlichen Änderungen.
 
 #### NET 1.2.A20 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *NET.1.2.A20 Absicherung des Zugangs zu Netzmanagement-Lösungen (S)*
 
@@ -7815,7 +7815,7 @@ Keine inhaltlichen Änderungen.
 
 #### NET 1.2.A23 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *NET.1.2.A23 Protokollierung der administrativen Zugriffe (S)*
 
@@ -7837,7 +7837,7 @@ Keine inhaltlichen Änderungen.
 
 #### NET 1.2.A34 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *NET.1.2.A34 Protokollierung von Inhalten administrativer Sitzungen (H)*
 
@@ -7991,7 +7991,7 @@ __Entfallen:__
 
 #### NET 3.1.A2 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *NET.3.1.A2 Einspielen von Updates und Patches (B)*
 
@@ -8010,7 +8010,7 @@ __Entfallen:__
 
 #### NET 3.1.A3 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *NET.3.1.A3 Restriktive Rechtevergabe (B)*
 
@@ -8100,7 +8100,7 @@ __Entfallen:__
 
 #### NET 3.2.A5 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *NET.3.2.A5 Restriktive Rechtevergabe (B)*
 
@@ -8144,7 +8144,7 @@ Keine inhaltlichen Änderungen.
 
 #### NET 3.2.A11 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *NET.3.2.A11 Einspielen von Updates und Patches (B)*
 
@@ -8163,7 +8163,7 @@ Keine inhaltlichen Änderungen.
 
 #### NET 3.2.A12 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *NET.3.2.A12 Vorgehen bei Sicherheitsvorfällen (B)*
 
@@ -8174,7 +8174,7 @@ Keine inhaltlichen Änderungen.
 
 #### NET 3.2.A13 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *NET.3.2.A13 Regelmäßige Datensicherung (B)*
 
@@ -8295,7 +8295,7 @@ Keine inhaltlichen Änderungen.
 
 #### NET 4.1.A3 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *NET.4.1.A3 Änderung voreingestellter Passwörter (B)*
 
@@ -8306,7 +8306,7 @@ Keine inhaltlichen Änderungen.
 
 #### NET 4.1.A4 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *NET.4.1.A4 Absicherung von Remote-Zugängen (B)*
 
@@ -8356,7 +8356,7 @@ Keine inhaltlichen Änderungen.
 
 #### NET 4.2.A2 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *NET.4.2.A2 Sichere Administration der VoIP-Middleware [Leiter IT] (B)*
 
@@ -8386,7 +8386,7 @@ __Entfallen:__
 
 #### NET 4.2.A6 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *NET.4.2.A6 Protokollierung bei VoIP (B)*
 
@@ -8420,7 +8420,7 @@ Keine inhaltlichen Änderungen
 
 #### NET 4.2.A10 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *NET.4.2.A10 Schulung der Administratoren für die Nutzung von VoIP (S)*
 
@@ -8525,7 +8525,7 @@ Keine inhaltlichen Änderungen.
 
 #### INF 1.A11 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *INF.1.A11 Abgeschlossene Türen [Mitarbeiter] (S)*
 
@@ -8558,7 +8558,7 @@ Die Anforderung ist komplett neu hinzugefügt.
 
 #### INF 1.A21 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *INF.1.A21 Unabhängige elektrische Versorgungsstränge (H)*
 
@@ -8594,7 +8594,7 @@ Keine inhaltlichen Änderungen.
 
 #### INF 1.A28 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *INF.1.A28 Klimatisierung durch raumlufttechnische Anlagen (H)*
 
@@ -8607,7 +8607,7 @@ Keine inhaltlichen Änderungen.
 
 #### INF 1.A29 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *INF.1.A29 Organisatorische Vorgaben für die Gebäudereinigung (H)*
 
@@ -8635,7 +8635,7 @@ Keine inhaltlichen Änderungen.
 
 #### INF 1.A33 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *INF.1.A33 Anordnung schützenswerter Gebäudeteile (H)*
 
@@ -8735,7 +8735,7 @@ Keine inhaltlichen Änderungen.
 
 #### INF 2.A20 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *INF.2.A20 Regelmäßige Aktualisierungen der Dokumentation [Haustechnik] (S)*
 
@@ -8799,7 +8799,7 @@ Keine inhaltlichen Änderungen.
 
 #### INF 2.A27 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *INF.2.A27 Durchführung von Alarmierungs- und Brandschutzübungen (H)*
 
@@ -8866,7 +8866,7 @@ __Entfallen:__
 
 #### INF 5.A21 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *INF.5.A21 Redundante Leitungstrassen [Planer, Haustechnik, Wartungspersonal] (H)*
 
@@ -8940,7 +8940,7 @@ Keine inhaltlichen Änderungen.
 
 #### INF 7.A4 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *INF.7.A4 Zutrittsregelungen und -kontrolle (S)*
 
@@ -8995,7 +8995,7 @@ keine inhaltlichen Änderungen.
 
 #### INF 10.A2 Die Anforderung ist komplett entfallen.
 
-##### Ehemals:
+__Ehemals:__
 
 *INF.10.A2 Beaufsichtigung von Besuchern [Mitarbeiter] (B)*
 
