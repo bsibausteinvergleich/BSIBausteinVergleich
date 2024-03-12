@@ -3,6 +3,8 @@
 Übergreifend wurden Formulierungen angepasst, die keinen Einfluss auf Bedeutung und Inhalt haben. Es wurden beispielsweise Sätze getrennt oder Formulierungen angepasst, die den Sprachfluss anpassen oder Gliederungen vereinheitlichen.
 
 ___
+
+## ISMS
 ### ISMS.1
 <details>
 <summary> Änderungen
