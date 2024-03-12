@@ -239,7 +239,7 @@ __Keine inhaltlichen Änderungen.__
 __Keine inhaltlichen Änderungen.__
 
 ##### ORP.3.A3
-___Anforderung entfallen___
+__Anforderung entfallen__
 
 #### Standard-Anforderungen
 
@@ -1345,7 +1345,7 @@ _Anforderung hinzugefügt_
 </details>
 
 ### OPS.1.2.3
-_OPS.1.2.3 ist vollständig entfallen._
+__OPS.1.2.3 ist vollständig entfallen.__
 
 </details>
 
@@ -1395,7 +1395,7 @@ __Keine inhaltlichen Änderungen.__
 
 ### NEU OPS.1.2.5
 
-_OPS.1.2.5.A1 - OPS.1.2.5.A23 sind in 2020 ergänzt worden._
+__OPS.1.2.5.A1 - OPS.1.2.5.A23 sind in 2020 ergänzt worden.__
 
 ### OPS.2.1
 <details>
@@ -4983,7 +4983,7 @@ __Keine inhaltlichen Änderungen.__
 
 
 ### SYS.3.4: ENTFALLEN
-_Dieser Baustein ist entfallen._
+__Dieser Baustein ist entfallen.__
 
 
 ### SYS.4.1
