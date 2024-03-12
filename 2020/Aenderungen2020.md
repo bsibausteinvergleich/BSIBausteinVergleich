@@ -13,11 +13,11 @@ ___
 #### Basis-Anforderungen
 
 ##### ISMS.1.A1
-Begriff „Leitungsebene“ durch „Institutionsleitung“ _ersetzt:_\
+Begriff „Leitungsebene“ durch „Institutionsleitung“ __Ersetzt:__\
 Die Institutionsleitung MUSS sich regelmäßig über den Status der Informationssicherheit informieren lassen.
 
 ##### ISMS.1.A2
-Begriff „Leitungsebene“ durch „Institutionsleitung“ _ersetzt:_\
+Begriff „Leitungsebene“ durch „Institutionsleitung“ __Ersetzt:__\
 Der Sicherheitsprozess MUSS durch die Institutionsleitung initiiert und etabliert werden.\
 „Geschäftsprozesse [der Behörde]“ durch „Fachaufgaben“ ergänzt.
 
@@ -86,16 +86,16 @@ ___
 ##### ORP.1.A1
 __Änderung:__\
 ~~Für alle sicherheitsrelevanten Aufgaben MÜSSEN sowohl Verantwortlichkeiten als auch Befugnisse festgelegt sein.~~\
-_zu:_\
+__zu:__\
 Innerhalb einer Institution SOLLTEN alle relevanten Aufgaben und Funktionen klar definiert und voneinander abgegrenzt sein.
 
 __Änderung:__\
 ~~Für Es MUSS auch klar geregelt sein, welche Informationen mit wem ausgetauscht werden dürfen und wie diese dabei zu schützen sind. Die Regelungen MÜSSEN anlassbezogen überarbeitet werden. Die Regelungen MÜSSEN regelmäßig überarbeitet werden.~~\
-_zu:_\
+__zu:__\
 Die Regelungen MÜSSEN anlassbezogen überarbeitet werden.
 
 ##### ORP.1.A2
-_Ersetzt:_\
+__Ersetzt:__\
 ~~ORP.1.A2 Zuweisung der Verantwortung für Informationen, Anwendungen und IT-Komponenten [Leiter IT,Informationssicherheitsbeauftragter (ISB), Institutionsleitung] 
 Für alle Informationen, Geschäftsprozesse, Anwendungen und IT-Komponenten MUSS festgelegt werden, wer für diese und deren Sicherheit verantwortlich ist. 
 Alle Mitarbeiter MÜSSEN darüber informiert sein, insbesondere wofür sie in welcher Weise verantwortlich sind.~~\
@@ -107,15 +107,15 @@ Alle Mitarbeiter MÜSSEN darüber informiert sein, insbesondere wofür sie veran
 ##### ORP.1.A3
 __Änderung:__\
 ~~Die Mitarbeiter MÜSSEN dazu angehalten werden, betriebsfremde Personen nicht unbeaufsichtigt zu lassen.~~\
-_zu:_\
+__zu:__\
 Die Mitarbeiter MÜSSEN dazu angehalten werden, institutionsfremde Personen in den Räumen der Institution nicht unbeaufsichtigt zu lassen.
 
 ##### ORP.1.A4
-_Entfallen:_\
+__Entfallen:__\
 Innerhalb einer Institution SOLLTEN alle relevanten Aufgaben und Funktionen definiert und klar voneinander abgegrenzt sein. 
 
 ##### ORP.1.A5
-_Entfallen:_\
+__Entfallen:__\
 ~~Es DÜRFEN immer nur so viele Rechte vergeben werden, wie für die Aufgabenwahrnehmung notwendig ist.
 Es MUSS ein geregeltes Verfahren für die Vergabe, die Verwaltung und den Entzug von Berechtigungen geben
 Die Dokumentation der Berechtigungen MUSS aktuell und vollständig sein.~~
@@ -129,7 +129,7 @@ _Keine inhaltlichen Änderungen._
 __Änderung:__\
 ~~Dazu gehören neben IT-Systemen und ICS-Komponenten auch solche aus dem Bereich Internet of Things.
 Es SOLLTE geeignete Prüf- und Genehmigungsverfahren vor Einsatz der Geräte geben.~~
-_zu:_\
+__zu:__\
 Dazu SOLLTEN neben IT-Systemen und ICS-Komponenten auch Geräte aus dem Bereich „Internet der Dinge“ (engl. „Internet of Things “, IoT) berücksichtigt werden.
 Vor der ersten Inbetriebnahme der Geräte SOLLTEN geeignete Prüf- und Genehmigungsverfahren vorgeschaltet werden.
 
@@ -175,7 +175,7 @@ Mitarbeiter MÜSSEN kontinuierlich über neue Regelungen informiert werden.
 Alle Mitarbeiter MÜSSEN dazu verpflichtet werden, einschlägige Gesetze, Vorschriften und interne Regelungen einzuhalten.
 
 ##### ORP.2.A2
-_Entfallen:_\
+__Entfallen:__\
 Die IT-Administration MUSS außerdem dafür Sorge tragen, dass ehemaligen Mitarbeitern sämtliche Zugriffsberechtigungen auf IT-Systeme entzogen bzw. diese bei Aufgabenwechseln angepasst werden.
 
 ##### ORP.2.A3
@@ -217,7 +217,7 @@ _Keine inhaltlichen Änderungen._
 ##### ORP.2.A12
 __Änderung:__\
 ~~Zur Zufriedenheit der Mitarbeiter SOLLTE ein Verantwortlicher als vertrauenswürdiger Ansprechpartner benannt werden. Im Fall von größeren organisatorischen oder technischen Veränderungen SOLLTE die Benennung eines solchen Ansprechpartners geprüft werden.~~\
-_zu:_\
+__zu:__\
 Für die Mitarbeiter SOLLTE eine Vertrauensperson als Ansprechpartner benannt werden.
 
 ##### ORP.2.A13
@@ -252,13 +252,13 @@ _Keine inhaltlichen Änderungen._
 ##### ORP.3.A6
 __Änderung:__\
 ~~Die geplanten Sensibilisierungs- und Schulungsmaßnahmen SOLLTEN gemäß dieser Planung in adäquater Form umgesetzt werden. Sensibilisierungs- und Schulungsprogramme SOLLTEN regelmäßig auf Aktualität überprüft und bei geändertem Bedarf angepasst bzw. weiterentwickelt werden.~~\
-_zu:_\
+__zu:__\
 Der Informationssicherheitsbeauftragte SOLLTE sich regelmäßig mit der Personalabteilung und den anderen für die Sicherheit relevanten Ansprechpartnern (Datenschutz, Gesundheits- und Arbeitsschutz, Brandschutz etc.) über die Effizienz der Aus- und Weiterbildung austauschen.
 
 ##### ORP.3.A7
 __Änderung:__\
 ~~Sicherheitsverantwortliche SOLLTEN mit der IT-Grundschutz-Methodik vertraut sein. Wurde ein Schulungsbedarf verifiziert, SOLLTE eine entsprechende IT-Grundschutz-Schulung geplant und deren Inhalt vorher festgelegt werden.~~\
-_zu:_\
+__zu:__\
 Informationssicherheitsbeauftragte SOLLTEN mit dem IT-Grundschutz vertraut sein.
 Wurde ein Schulungsbedarf identifiziert, SOLLTE eine geeignete IT-Grundschutz-Schulung geplant werden.
 Für die Planung einer Schulung SOLLTE der Online-Kurs des BSI zum IT-Grundschutz berücksichtigt werden.
@@ -272,7 +272,7 @@ Keine Änderungen
 ##### ORP.3.A9
 __Änderung:__\
 ~~Besonders exponierte Personen wie Funktionsträger sowie die Mitarbeiter in besonders exponierten Institutionen oder Organisationsbereichen (...)~~\
-_zu:_\
+__zu:__\
 Besonders exponierte Personen
 
 </details>
@@ -289,7 +289,7 @@ Die Rolle "Leiter IT" wurde in allen Anforderungen der ORP.4 durch "IT-Betrieb" 
 ##### ORP.4.A1
 __Änderung:__\
 ~~ORP.4.A1 Regelung für die Einrichtung von Benutzern und Benutzergruppen [Administrator, Leiter IT] Es MUSS geregelt werden, wie Benutzer und Benutzergruppen einzurichten sind. Alle Benutzer und Benutzergruppen DÜRFEN NUR über separate administrative Rollen eingerichtet werden.~~\
-_zu:_\
+__zu:__\
 ORP.4.A1 Regelung für die Einrichtung und Löschung von Benutzern und Benutzergruppen [IT-Betrieb] (B) Es MUSS geregelt werden, wie Benutzerkennungen und Benutzergruppen einzurichten und zu löschen sind.
 Alle Benutzer und Benutzergruppen DÜRFEN NUR über separate administrative Rollen eingerichtet und gelöscht werden.
 
@@ -302,13 +302,13 @@ _Keine inhaltlichen Änderungen._
 ##### ORP.4.A4
 __Änderung:__\
 ~~Es MÜSSEN die für den IT-Einsatz relevanten Aufgaben und Funktionen definiert werden. Auch MUSS festgelegt werden, welche Aufgaben und Funktionen nicht miteinander vereinbar sind. Diese Trennungen MÜSSEN umgesetzt werden. Sie SOLLTEN dokumentiert werden.~~\
-_zu:_\
+__zu:__\
 Die von der Institution definierten unvereinbaren Aufgaben und Funktionen (siehe Baustein ORP.1 Organisation) MÜSSEN durch das Identitäts- und Berechtigungsmanagement getrennt werden.
 
 ##### ORP.4.A5
 __Änderung:__\
 ~~Es MUSS festgelegt werden, welche Zutrittsberechtigungen an welche Personen im Rahmen ihrer Funktion vergeben werden. Werden Zutrittsmittel wie Chipkarten verwendet, so MUSS die Ausgabe bzw. der Entzug dokumentiert werden.~~\
-_zu:_\
+__zu:__\
 Es MUSS festgelegt werden, welche Zutrittsberechtigungen an welche Personen im Rahmen ihrer Funktion vergeben bzw. ihnen entzogen werden.
 Die Ausgabe bzw. der Entzug von verwendeten Zutrittsmittel wie Chipkarten MUSS dokumentiert werden.
 Wenn Zutrittsmittel kompromittiert wurden, MÜSSEN sie ausgewechselt werden.
@@ -320,7 +320,7 @@ Wenn Zugangsmittel kompromittiert wurden, MÜSSEN sie ausgewechselt werden.
 ##### ORP.4.A7
 __Änderung:__\
 ~~Werden Zugangsmittel wie Chipkarten verwendet, so MUSS die Ausgabe bzw. der Entzug dokumentiert werden. Die Zugriffsrechte SOLLTEN auf den korrekten Umgang mit den Zugangsmitteln geschult werden.~~\
-_zu:_\
+__zu:__\
 Werden im Rahmen der Zugriffskontrolle Chipkarten oder Token verwendet, so MUSS die Ausgabe bzw. der Entzug dokumentiert werden.
 Die Anwender SOLLTEN auf den korrekten Umgang mit Chipkarten oder Token geschult werden.
 
@@ -368,7 +368,7 @@ Bei erfolglosen Anmeldeversuchen SOLLTE das System keinen Hinweis darauf geben, 
 ##### ORP.4.A10
 __Änderung:__\
 ~~Benutzerkonten mit weitreichenden Berechtigungen SOLLTEN mit mindestens zwei Authentisierungsmerkmalen geschützt werden.~~\
-_zu:_\
+__zu:__\
 Benutzerkennungen mit weitreichenden Berechtigungen SOLLTEN mit einer Mehr-Faktor-Authentisierung, z. B. mit kryptografischen Zertifikaten, Chipkarten oder Token geschützt werden.
 
 ##### ORP.4.A11
@@ -377,7 +377,7 @@ _Keine inhaltlichen Änderungen._
 ##### ORP.4.A12
 __Änderung:__\
 ~~Authentisierungsinformationen SOLLTEN kryptografisch sicher geschützt übertragen und gespeichert werden.~~\
-_zu:_\
+__zu:__\
 Authentisierungsinformationen MÜSSEN kryptografisch sicher übertragen und gespeichert werden.
 
 ##### ORP.4.A13
@@ -406,7 +406,7 @@ _Keine inhaltlichen Änderungen._
 ##### ORP.4.A20
 __Änderung:__\
 ~~Für Notfälle SOLLTE ein Berechtigungskonzept vorhanden sein und es SOLLTEN Notfallberechtigungen existieren.~~\
-_zu:_\
+__zu:__\
 Es SOLLTEN Vorkehrungen getroffen werden, um bei einem ausgefallenen Identitäts- und Berechtigungsmanagement-System weiterhin arbeitsfähig zu sein.
 Insbesondere SOLLTE das im Notfallkonzept vorgesehene Berechtigungskonzept weiterhin anwendbar sein, wenn das Identitäts- und Berechtigungsmanagement-System ausgefallen ist.
 
@@ -438,13 +438,13 @@ _Ergänzt_: "(...) basierend auf der Identifikation und Beachtung der rechtliche
 
 __Änderung:__\
 ~~Compliance Manager und ISB SOLLTEN regelmäßig zusammenarbeiten.~~\
-_zu:_\
+__zu:__\
 Compliance Manager und Informationssicherheitsbeauftragte (ISB) SOLLTEN sich regelmäßig austauschen.
 
 ##### ORP.5.A5
 __Änderung:__\
 ~~Es SOLLTE eine Übersicht über alle erteilten Ausnahmegenehmigungen geben.~~\
-_zu:_\
+__zu:__\
 Es SOLLTE eine Übersicht über alle erteilten Ausnahmegenehmigungen erstellt und gepflegt werden.
 
 ##### ORP.5.A6
@@ -498,12 +498,12 @@ _Entfallen:_ Auf Produkte mit unkontrollierbarer Schlüsselablage SOLLTE generel
 ##### CON.1.A6
 __Änderung:__\
 ~~Es SOLLTE festgelegt werden, für welche Aufgaben kryptografische Verfahren eingesetzt werden sollen.~~\
-_zu:_\
+__zu:__\
 Es SOLLTE festgelegt werden, für welche Geschäftsprozesse oder Fachverfahren kryptografische Verfahren eingesetzt werden sollen.
 
 __Änderung:__\
 ~~Diese SOLLTEN kryptografisch abgesichert werden.~~\
-_zu:_\
+__zu:__\
 Diese SOLLTEN durch den IT-Betrieb geeignet kryptografisch abgesichert werden.
 
 #### Anforderungen bei erhöhtem Schutzbedarf
@@ -532,7 +532,7 @@ _Keine inhaltlichen Änderungen._
 ##### CON.1.A14
 __Änderung:__\
 ~~Administratoren SOLLTEN zudem lernen, wie sie mit Hilfsmitteln zur Untersuchung kryptografischer Einstellungen umgehen müssen.~~\
-_zu:_\
+__zu:__\
 Die Administratoren SOLLTEN zudem gezielt dazu geschult werden, wie die Kryptomodule zu administrieren sind.
 
 ##### CON.1.A15
@@ -541,7 +541,7 @@ _Keine inhaltlichen Änderungen._
 ##### CON.1.A16
 __Änderung:__\
 ~~Es SOLLTE verhindert werden, dass~~(...)\
-_zu:_\
+__zu:__\
 Der Leiter IT SOLLTE sicherstellen, dass nicht (...)
 
 ##### CON.1.A17
@@ -560,10 +560,10 @@ _Keine inhaltlichen Änderungen._
 #### Basis-Anforderungen
 
 ##### CON.2.A1
-_Ersetzt:_\
+__Ersetzt:__\
 ~~CON.2.A1 Umsetzung Standard-Datenschutzmodell~~\
 ~~Es MUSS geprüft werden, ob das Standard-Datenschutzmodell angewendet wird. Eine etwaige Nichtberücksichtigung des vollständigen Schutzziele-Katalogs und eine Nichtanwendung der SDM-Methodik sowie der Referenzmaßnahmen MÜSSEN begründet werden.~~\
-_durch:_\
+__durch:__\
 CON.2.A1 Umsetzung Standard-Datenschutzmodell (B)\
 Die gesetzlichen Bestimmungen zum Datenschutz (DSGVO, BDSG und LDSG) MÜSSEN eingehalten werden. Wird die SDM-Methodik nicht berücksichtigt, die Maßnahmen also nicht auf der Basis der Gewährleistungsziele systematisiert und mit dem Referenzmaßnahmen-Katalog des SDM abgeglichen, SOLLTE dies begründet und dokumentiert werden.
 
@@ -580,7 +580,7 @@ Die gesetzlichen Bestimmungen zum Datenschutz (DSGVO, BDSG und LDSG) MÜSSEN ein
 __Änderung:__\
 ~~Für jedes IT-System und eventuell für einzelne besonders wichtige IT-Anwendung MÜSSEN die relevanten Einflussfaktoren ermittelt werden, wie z. B. Änderungsvolumen, Änderungszeitpunkte, Verfügbarkeitsanforderungen, Integritätsbedarf.
 Dazu SOLLTEN die Administratoren und die Verantwortlichen der einzelnen IT-Anwendungen befragt werden.~~\
-_zu:_\
+__zu:__\
 Der IT-Betrieb MUSS für jedes IT-System und darauf ausgeführten Anwendungen die Rahmenbedingungen für die Datensicherung erheben.
 Dazu MUSS der IT-Betrieb die Fachverantwortlichen für die Anwendungen und die Verantwortlichen für die jeweiligen IT-Systeme befragen.
 Der IT-Betrieb MUSS mindestens die nachfolgenden Rahmenbedingungen berücksichtigen:\
@@ -593,18 +593,18 @@ Der IT-Betrieb MUSS mindestens die nachfolgenden Rahmenbedingungen berücksichti
 
 __Änderung:__\
 ~~Neue Anforderungen MÜSSEN zeitnah in einem aktualisierten Datensicherungskonzept berücksichtigt werden.~~\
-_zu:_\
+__zu:__\
 Neue Anforderungen MÜSSEN zeitnah berücksichtigt werden.
 
 ##### CON.3.A2
 __Änderung:__\
 ~~Für jedes IT-System und für jede Datenart MUSS ein Verfahren festgelegt werden, wie die Daten zu sichern sind.~~\
-_zu:_\
+__zu:__\
 Der IT-Betrieb MUSS für jedes IT-System ein Verfahren festlegen, das definiert, welche Daten des IT-Systems wie gesichert werden.
 
 __Änderung:__\
 ~~Weiterhin MÜSSEN die Verantwortlichkeiten für die Datensicherungen festgelegt werden.~~\
-_zu:_\
+__zu:__\
 Dies MUSS wiederum auf Basis der erhobenen Einflussfaktoren und in Abstimmung mit den jeweiligen Fachverantwortlichen der Anwendungen geschehen.
 
 ##### CON.3.A3
@@ -613,7 +613,7 @@ _Anforderung entfallen._
 ##### CON.3.A4
 __Änderung:__\
 ~~Es MUSS ein Minimaldatensicherungskonzept erstellt werden, das festgelegt, welche Anforderungen für die Datensicherung mindestens einzuhalten sind.Dazu zählen kurze Beschreibungen, wie die Datensicherung erstellt und wiederhergestellt werden kann, welche Parameter gewählt wurden und welche Hard- und Software eingesetzt wird.~~\
-_zu:_\
+__zu:__\
 Der IT-Betrieb MUSS ein Minimaldatensicherungskonzept auf Basis der festgelegten Verfahrensweise für die Datensicherung erstellen.Dieses MUSS festlegen, welche Anforderungen für die Datensicherung mindestens vom IT-Betrieb einzuhalten sind.
 Das Minimaldatensicherungskonzept MUSS mindestens eine kurze Beschreibung dazu enthalten,\
 • welche IT-Systeme und welche darauf befindlichen Daten durch welche Datensicherung gesichert werden,\
@@ -624,7 +624,7 @@ Das Minimaldatensicherungskonzept MUSS mindestens eine kurze Beschreibung dazu e
 ##### CON.3.A5
 __Änderung:__\
 ~~Es MÜSSEN regelmäßige Datensicherungen durchgeführt werden. Dabei MÜSSEN mindestens die Daten regelmäßig gesichert werden, die nicht aus anderen Informationen ableitbar sind.~~\
-_zu:_\
+__zu:__\
 Der IT-Betrieb MUSS regelmäßige Datensicherungen gemäß dem (Minimal-)Datensicherungskonzept erstellen.
 Die erstellten Datensicherungen MÜSSEN in geeigneter Weise vor dem Zugriff Dritter geschützt werden.
 Es MUSS regelmäßig getestet werden, ob die Datensicherung wie gewünscht funktioniert, vor allem, ob gesicherte Daten problemlos und in angemessener Zeit zurückgespielt werden können.
@@ -638,7 +638,7 @@ Es SOLLTE ein Datensicherungskonzept erstellt werden.
 Dieses SOLLTE mit allen Verantwortlichen abgestimmt werden.
 Darin SOLLTEN sämtliche zu berücksichtigenden IT-Systeme aufgeführt werden.
 Die Mitarbeiter SOLLTEN über den sie betreffenden Teil des Datensicherungskonzepts unterrichtet werden.~~\
-_zu:_\
+__zu:__\
 CON.3.A6 Entwicklung eines Datensicherungskonzepts [Fachverantwortliche, IT-Betrieb] (S)\
 Der IT-Betrieb SOLLTE ein Datensicherungskonzept auf Basis des Minimaldatenkonzepts erstellen.
 Dieses SOLLTE mindestens die nachfolgenden Punkte umfassen:\
@@ -655,7 +655,7 @@ __Änderung:__\
 ~~CON.3.A7 Beschaffung eines geeigneten Datensicherungssystems [Leiter IT, IT-Betrieb]\
 Bevor ein Datensicherungssystem beschafft wird, SOLLTE eine Anforderungsliste erstellt werden, nach der die am Markt erhältlichen Produkte bewertet werden.
 Die angeschafften Datensicherungssysteme SOLLTEN die Anforderungen des Sicherheits- und des Datensicherungskonzepts erfüllen.~~\
-_zu:_\
+__zu:__\
 CON.3.A7 Beschaffung eines geeigneten Datensicherungssystems [Leiter IT] (S)\
 Bevor ein Datensicherungssystem beschafft wird, SOLLTE der Leiter IT eine Anforderungsliste erstellen, nach der die am Markt erhältlichen Produkte bewertet werden.
 Die angeschafften Datensicherungssysteme SOLLTEN die Anforderungen des Datensicherungskonzepts und der gesamten Sicherheitskonzeption der Institution erfüllen.
@@ -675,7 +675,7 @@ _Keine inhaltlichen Änderungen._
 ##### CON.3.A11
 __Änderung:__\
 ~~Von eingesetzten Softwareprogrammen SOLLTEN Sicherungskopien angefertigt werden,(...)~~\
-_zu:_\
+__zu:__\
 Der IT-Betrieb SOLLTE Sicherungskopien von eingesetzten Softwareprogrammen anfertigen,(...)
 
 ##### CON.3.A12
@@ -683,7 +683,7 @@ __Änderung:__\
 ~~Die Backup-Datenträger SOLLTEN vor unbefugtem Zugriff geschützt werden.
 Sie SOLLTEN räumlich von den Quellsystemen getrennt werden.
 Der Aufbewahrungsort SOLLTE so klimatisiert sein, dass die Datenträger längerfristig aufbewahrt werden können.~~\
-_zu:_\
+__zu:__\
 Der IT-Betrieb SOLLTE die Backup-Datenträger geeignet aufbewahren, sodass diese vor unbefugtem Zugriff geschützt werden.
 Sie SOLLTEN räumlich getrennt von den gesicherten IT-Systemen aufbewahrt werden.
 Der Aufbewahrungsort SOLLTE so klimatisiert sein, dass die Datenträger entsprechend der zeitlichen Vorgaben des Datensicherungskonzepts aufbewahrt werden können.
@@ -693,7 +693,7 @@ Der Aufbewahrungsort SOLLTE so klimatisiert sein, dass die Datenträger entsprec
 ##### CON.3.A13
 __Änderung:__\
 ~~Um die Vertraulichkeit und Integrität der gesicherten Daten zu gewährleisten, SOLLTEN alle Daten verschlüsselt werden.~~\
-_zu:_\
+__zu:__\
 Um die Vertraulichkeit und Integrität der gesicherten Daten zu gewährleisten, SOLLTE der IT-Betrieb alle Datensicherungen verschlüsseln.
 
 </details>
@@ -731,7 +731,7 @@ _Keine inhaltlichen Änderungen._
 ##### CON.4.A8
 __Änderung:__\
 ~~Lizenzpflichtige Standardsoftware-Produkte, die auf IT-Systemen der Institution eingesetzt werden, SOLLTEN lizenziert sein.~~\
-_zu:_\
+__zu:__\
 Lizenzpflichtige Standardsoftware-Produkte, die auf IT-Systemen der Institution eingesetzt werden, SOLLTEN korrekt lizenziert sein.
 Die Lizenzen SOLLTEN die tatsächliche Nutzeranzahl und den Einsatzzweck abdecken.
 
@@ -962,7 +962,7 @@ _Entfallen:_ (...) und über ausreichende Englischkenntnisse zum Verständnis ty
 __Änderung:__\
 Administrative Rollen MÜSSEN von kontrollierenden Rollen (z. B. Revision) getrennt werden.
 
-_Entfallen:_\
+__Entfallen:__\
 Diese Anforderungen MÜSSEN auch dann erfüllt werden, wenn administrative Aufgaben an Dritte übertragen werden.
 
 ##### OPS.1.1.2.A2
@@ -986,7 +986,7 @@ Jeder Anmeldevorgang über eine Administrationskennung (Login) MUSS protokollier
 __Änderung:__\
 Aktionen und Tätigkeiten, für die keine erhöhten Berechtigungen erforderlich sind, DÜRFEN NICHT mit administrativen Berechtigungen durchgeführt werden.
 
-_Entfallen:_\
+__Entfallen:__\
 Diese MÜSSEN sicherstellen, dass die Kommunikation nach dem Stand der Technik verschlüsselt ist.
 Jeder Anmeldevorgang über eine Administrationskennung (Login) MUSS protokolliert werden, sodass nachvollziehbar ist, wann, auf welchem Weg und unter welcher Nutzerkennung auf das System zugegriffen wurde.
 
@@ -1759,7 +1759,7 @@ Es SOLLTEN die Messgrößen ausgewertet werden, die anfallen, wenn Sicherheitsvo
 #### Basis-Anforderungen
 
 ##### DER.2.2.A1
-_Entfallen:_\
+__Entfallen:__\
 Im Einzelfall kann es jedoch notwendig sein, das Interesse der Institution gegen das der Mitarbeiter abzuwägen.
 
 ##### DER.2.2.A2
@@ -1936,7 +1936,7 @@ _Keine inhaltlichen Änderungen._
 _Keine inhaltlichen Änderungen._
 
 ##### DER.3.1.A22
-_Entfallen:_\
+__Entfallen:__\
 Die Ergebnisse des Audits SOLLTEN den Verantwortlichen in einer Präsentation erläutert werden.
 
 ##### DER.3.1.A23
@@ -1986,7 +1986,7 @@ Wenn die Institution nicht nach ISO 27001 auf Basis von IT-Grundschutz zertifizi
 _Keine inhaltlichen Änderungen._
 
 ##### DER.3.2.A6
-_Entfallen:_\
+__Entfallen:__\
 Die Institutionsleitung MUSS das IS-Revisionsverfahren initiieren.
 
 ##### DER.3.2.A7
@@ -2145,7 +2145,7 @@ _Ergänzung:_\
 Die Standardkonfiguration SOLLTE explizit freigegeben werden.
 
 ##### APP.1.1.A8
-_Entfallen:_\
+__Entfallen:__\
 Darüber hinaus SOLLTEN die verschiedenen Konfigurationen der installierten Office-Produkte dokumentiert werden.
 
 ##### APP.1.1.A9
@@ -2336,7 +2336,7 @@ _Keine inhaltlichen Änderungen._
 _Keine inhaltlichen Änderungen._
 
 ##### APP.2.1.A13
-_Entfallen:_\
+__Entfallen:__\
 (...) dies gilt insbesondere bei Außenanbindungen.
 
 ##### APP.2.1.A14
@@ -2478,14 +2478,14 @@ Der IT-Betrieb und die Entwickler von Webanwendungen MÜSSEN sicherstellen, dass
 __Änderung:__\
 Die Zugangsdaten MÜSSEN angemessen geschützt werden.
 
-_Entfallen:_\
+__Entfallen:__\
 Um sicherzugehen, dass eine gültige Sitzung (Session-ID) nicht von einem Angreifer übernommen wurde, MÜSSEN sich bei kritischen Funktionen die Benutzer erneut authentisieren.
 
 ##### APP.3.1.A2
 _Ergänzung:_\
 (...) durch die Entwickler einer Webanwendung (...)
 
-_Entfallen:_\
+__Entfallen:__\
 Allen Benutzern MÜSSEN restriktive Zugriffsrechte ordnungsgemäß zugewiesen werden.
 Wenn Mitarbeiter für eine Webanwendung Zugriffsrechte erhalten oder sich diese verändern, MÜSSEN die Verantwortlichen dies prüfen, bestätigen und nachvollziehbar dokumentieren.
 Die Dokumentation der vergebenen Zugriffsrechte MUSS immer auf dem aktuellen Stand sein.
@@ -2509,7 +2509,7 @@ _Ergänzung:_\
 __Änderung:__\
 Die sicherheitsrelevanten Protokollierungsdaten MÜSSEN regelmäßig durch den IT-Betrieb ausgewertet werden.
 
-_Entfallen:_\
+__Entfallen:__\
 Bei der Protokollierung und beim Umgang mit den Protokollierungsdaten MÜSSEN die gesetzlichen Vorgaben eingehalten werden.
 
 ##### ENTFALLEN: APP.3.1.A6
@@ -2548,7 +2548,7 @@ _Ergänzung:_\
 __Änderung:__\
 In der Systemarchitektur SOLLTE der IT-Betrieb vorsehen, dass die Serverdienste durch jeweils separate IT-Systeme voneinander getrennt sind.
 
-_Entfallen:_\
+__Entfallen:__\
 Die Netzarchitektur SOLLTE einen mehrschichtigen Ansatz verfolgen (Multi-Tier-Architektur).
 Dabei SOLLTEN mindestens die Sicherheitszonen Webschicht, Anwendungsschicht und Datenschicht berücksichtigt werden.
 Aus diesen Zonen SOLLTE NICHT auf Systeme im Intranet zugegriffen werden können.
@@ -2559,10 +2559,10 @@ Aus diesen Zonen SOLLTE NICHT auf Systeme im Intranet zugegriffen werden können
 _Diese Anforderung ist entfallen._
 
 ##### APP.3.1.A11
-_Entfallen:_\
+__Entfallen:__\
 Der Datenverkehr zwischen den Benutzern und der Webanwendung bzw. den Anwendungen und weiteren Diensten sowie den Hintergrundsystemen SOLLTE durch Sicherheitsgateways reglementiert werden.
 
-_Entfallen:_\
+__Entfallen:__\
 Beim Einsatz eines Enterprise Service Bus (ESB) muss sichergestellt werden, dass sich alle Dienste gegenüber dem ESB authentisieren, bevor ihnen ein Zugriff erlaubt wird.
 
 __Änderung:__\
@@ -2572,7 +2572,7 @@ Beim Einsatz eines Enterprise Service Bus (ESB) SOLLTE ein eigenes logisches Net
 _Keine inhaltlichen Änderungen._
 
 ##### APP.3.1.A13
-_Entfallen:_\
+__Entfallen:__\
 Dazu SOLLTE sichergestellt werden,dass:
 • nur neutrale Fehlermeldungen ausgegeben werden,
 • keine sicherheitsrelevanten Kommentare oder Produkt- und Versionsangaben preisgegeben werden,
@@ -2609,7 +2609,7 @@ Die Entwickler einer Webanwendung SOLLTEN diese mit Sicherheitsmechanismen ausst
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 ##### APP.3.1.A24
-_Entfallen:_\
+__Entfallen:__\
 SOAP-Nachrichten SOLLTEN anhand eines entsprechenden XML-Schemas validiert werden.
 Bei kritischen Diensten und Anwendungen SOLLTE geprüft werden, ob eine Zusammenarbeit mit DDoS-Mitigation-Dienstleistern sinnvoll ist.
 
@@ -2642,7 +2642,7 @@ _Ergänzung:_\
 Insbesondere MUSS der IT-Betrieb sicherstellen, dass vertrauliche Dateien nicht in öffentlichen Verzeichnissen des Webservers liegen.
 
 ##### APP.3.2.A3
-_Entfallen:_\
+__Entfallen:__\
 Zudem MÜSSEN Dokumente von Restinformationen bereinigt werden.
 Abrufbare Dateien MÜSSEN auf einer separaten Partition der Festplatte gespeichert sein.
 
@@ -2674,7 +2674,7 @@ _Keine inhaltlichen Änderungen._
 _Keine inhaltlichen Änderungen._
 
 ##### APP.3.2.A10
-_Entfallen:_\
+__Entfallen:__\
 Bei allen angebotenen Produkten SOLLTE die Basisinstallation sicher gestaltet werden.
 Der Dienstleister SOLLTE seine Kunden über die Risiken von zusätzlichen Anwendungen und Erweiterungen (Plug-ins) informieren.
 Darüber hinaus SOLLTE er sich dazu verpflichten, regelmäßig auf vorhandene Updates der genutzten Programme hinzuweisen.
@@ -2728,7 +2728,7 @@ _Diese Anforderung ist entfallen._
 _Diese Anforderung ist entfallen._
 
 ##### APP.3.3.A2
-_Entfallen:_\
+__Entfallen:__\
 Die RAID-Level MÜSSEN dem Stand der Technik entsprechen.
 
 ##### APP.3.3.A3
@@ -2765,7 +2765,7 @@ Der Fileserver-Dienst SOLLTE den Einsatzzweck des Fileservers unterstützen, z. 
 _Ergänzung:_\
 Das Dateisystem SOLLTE den Anforderungen der Institution entsprechen.
 
-_Entfallen:_\
+__Entfallen:__\
 Es SOLLTE ein Dateisystem ausgewählt werden, das eine festgelegte Overhead-Grenze nicht überschreitet.
 Für Hochverfügbarkeitslösungen SOLLTEN verteilte Dateisysteme verwendet werden.
 
@@ -2774,7 +2774,7 @@ _Ergänzung:_\
 Die Dateien SOLLTEN NUR strukturiert auf den Fileserver abgelegt werden.
 
 ##### APP.3.3.A9
-_Entfallen:_\
+__Entfallen:__\
 Es SOLLTEN alle Speicherressourcen des Fileservers katalogisiert werden, z. B. Festplatten, Flash-Speicher, Bandlaufwerke.
 
 __Änderung:__\
@@ -2818,7 +2818,7 @@ _Ergänzung:_\
 Je nach Betriebssystem der Clients und anderen vorhandenen Schutzmechanismen MUSS der Samba-Server in das Konzept zum Schutz vor Schadprogrammen der Institution einbezogen werden (siehe OPS.1.1.4 Schutz vor Schadprogrammen).
 
 ##### APP.3.4.A2
-_Entfallen:_\
+__Entfallen:__\
 (...) und dass es sich nur mit sicheren Netzadressen verbindet.
 
 #### Standard-Anforderungen
@@ -2835,17 +2835,17 @@ APP.3.4.A4 Vermeidung der NTFS-Eigenschaften auf einem Samba-Server (S)
 ##### APP.3.4.A5
 __Änderung:__\
 ~~Linux~~\
-_zu:_\
+__zu:__\
 (...) Unix (...)
 
 ##### APP.3.4.A6
 __Änderung:__\
 ~~Linux~~\
-_zu:_\
+__zu:__\
 (...) Unix (...)
 
 ##### APP.3.4.A7
-_Entfallen:_\
+__Entfallen:__\
 Wird Samba als primärer AD DC verwendet, SOLLTE der DNS-Dienst auf dem Samba-Server installiert und sorgfältig konfiguriert werden.
 
 ##### APP.3.4.A8
@@ -2862,7 +2862,7 @@ Sofern IPv6 eingesetzt wird, SOLLTEN erforderliche Besonderheiten berücksichtig
 _Keine inhaltlichen Änderungen._
 
 ##### APP.3.4.A13
-_Entfallen:_\
+__Entfallen:__\
 Die Konfigurationsdaten, Statusinformationen und Systemdateien SOLLTEN kompatibel zueinander sein.
 
 ##### APP.3.4.A14 ENTFALLEN
@@ -3354,10 +3354,10 @@ _Diese Anforderung ist entfallen._
 _Diese Anforderung ist entfallen._
 
 ##### APP.5.1.A16
-_Entfallen:_\
+__Entfallen:__\
 (...) oder ein Anhang NICHT ausgeführt werden.
 
-_Entfallen:_\
+__Entfallen:__\
 Für Newsgroups und Mailinglisten SOLLTEN Regelungen erstellt werden.
 
 ##### APP.5.1.A17
@@ -3392,7 +3392,7 @@ _Keine inhaltlichen Änderungen._
 #### Basis-Anforderungen
 
 ##### APP.5.2.A1
-_Entfallen:_\
+__Entfallen:__\
 • Absicherung der Zugangsports der Server-/Client-Komponenten,
 • Vertraulichkeit, Integrität und Verfügbarkeit,
 • Integration der Server- und Client-Systeme in die hierfür vorgesehenen Netzsegmente.
@@ -3506,7 +3506,7 @@ ___
 #### Basis-Anforderungen
 
 ##### SYS.1.1.A1
-_Entfallen:_\
+__Entfallen:__\
 Server DÜRFEN NICHT als Arbeitsplatzrechner genutzt werden.
 Es MUSS gewährleistet werden, dass nur dafür vorgesehene Wechselspeicher und sonstige Geräte an die Server angeschlossen werden können.
 
@@ -3524,7 +3524,7 @@ _Keine inhaltlichen Änderungen._
 _Keine inhaltlichen Änderungen._
 
 ##### SYS.1.1.A5
-_Entfallen:_\
+__Entfallen:__\
 Für die Anmeldung von Benutzern und Diensten am System MÜSSEN Authentisierungsverfahren eingesetzt werden, die dem Schutzbedarf der Server angemessen sind.
 Dies SOLLTE in besonderem Maße für administrative Zugänge berücksichtigt werden.
 Soweit möglich, SOLLTE dabei auf zentrale, netzbasierte Authentisierungsdienste zurückgegriffen werden.
@@ -3569,7 +3569,7 @@ _Keine inhaltlichen Änderungen._
 _Keine inhaltlichen Änderungen._
 
 ##### SYS.1.1.A16
-_Entfallen:_\
+__Entfallen:__\
 Server SOLLTEN so aufgesetzt werden, dass bei der Installation ausschließlich die benötigten Dienste ausgewählt werden.
 
 ##### SYS.1.1.A17
@@ -3663,7 +3663,7 @@ _Ergänzung:_\
 (SYS.1.2.2.A5 Schutz vor Schadsoftware) auf Windows Server 2012 (S)
 
 ##### SYS.1.2.2.A6
-_Entfallen:_\
+__Entfallen:__\
 (...) damit die Passwörter der Dienste regelmäßig und vollautomatisch gemäß der AD-Richtlinien gewechselt werden.
 
 ##### SYS.1.2.2.A7
@@ -3799,7 +3799,7 @@ _Keine inhaltlichen Änderungen._
 _Keine inhaltlichen Änderungen._
 
 ##### SYS.1.5.A9
-_Entfallen:_\
+__Entfallen:__\
 Dafür SOLLTE der Baustein NET.1.1 Netzarchitektur und -design berücksichtigt werden.
 
 ##### SYS.1.5.A10
@@ -3964,7 +3964,7 @@ _Keine inhaltlichen Änderungen._
 _Keine inhaltlichen Änderungen._
 
 ##### SYS.1.7.A31
-_Entfallen:_\
+__Entfallen:__\
 Für den Fall, dass alle Kennungen mit SPECIAL-Rechten gesperrt sind oder dass in einer Notsituation kein RACF-Administrator zur Verfügung steht, SOLLTE ein Not-User-Verfahren eingerichtet werden.
 
 #### Anforderungen bei erhöhtem Schutzbedarf
@@ -4104,7 +4104,7 @@ _Keine inhaltlichen Änderungen._
 _Keine inhaltlichen Änderungen._
 
 ##### SYS.2.1.A4
-_Entfallen:_\
+__Entfallen:__\
 In den meisten Rechnersystemen können diese weitgehend automatisiert erfolgen.
 Es MÜSSEN Regelungen getroffen werden, welche lokal abgespeicherten Daten von wem wann gesichert werden.
 
@@ -4163,7 +4163,7 @@ _Keine inhaltlichen Änderungen._
 _Keine inhaltlichen Änderungen._
 
 ##### SYS.2.1.A22
-_Entfallen:_\
+__Entfallen:__\
 Wenn technisch möglich, SOLLTE die Bildschirmsperre nach längerer Inaktivität automatisch aktiviert bzw. der Benutzer automatisch abgemeldet werden.
 
 ##### SYS.2.1.A23
@@ -4764,7 +4764,7 @@ _Keine inhaltlichen Änderungen._
 _Diese Anforderung ist entfallen._
 
 ##### SYS.3.2.2.A14
-_Entfallen:_\
+__Entfallen:__\
 Dabei handelt es sich um einen externen Dienst, der Apps nach bestimmten Kriterien untersucht und die Ergebnisse als Service bereitstellt.
 
 ##### SYS.3.2.2.A15 ENTFALLEN
@@ -5004,7 +5004,7 @@ Diese MÜSSEN die Vorgaben des Identitäts- und Berechtigungsmanagement der Inst
 _Diese Anforderung ist entfallen._
 
 ##### SYS.4.1.A12
-_Entfallen:_\
+__Entfallen:__\
 Nicht benötigte, aber ausgedruckte Dokumente mit sensiblen Informationen MÜSSEN in geeigneter Weise entsorgt werden, z. B. in geeigneten Papiercontainern.
 Auch für Heimarbeitsplätze SOLLTEN geeignete Regelungen hierfür festgelegt werden.
 
@@ -5071,7 +5071,7 @@ _Keine inhaltlichen Änderungen._
 _Keine inhaltlichen Änderungen._
 
 ##### SYS.4.1.A20
-_Entfallen:_\
+__Entfallen:__\
 Alternativ SOLLTEN die Geräte so eingestellt werden, dass sich eingescannte Dokumente nur an eine fest eingetragene Adresse senden lassen.
 
 ##### SYS.4.1.A21
@@ -5159,10 +5159,10 @@ _Keine inhaltlichen Änderungen._
 _Keine inhaltlichen Änderungen._
 
 ##### SYS.4.4.A2
-_Entfallen:_\
+__Entfallen:__\
 Diese Passwörter MÜSSEN komplex genug sein, geheim gehalten und regelmäßig gewechselt werden.
 
-_Entfallen:_\
+__Entfallen:__\
 Zusätzlich empfiehlt sich die Verwendung von alternativen Authentisierungsmechanismen, wie z. B. zertifikatsbasierte Authentisierung.
 
 _Ergänzung:_\
@@ -5175,7 +5175,7 @@ _Keine inhaltlichen Änderungen._
 _Diese Anforderung ist entfallen._
 
 ##### SYS.4.4.A5
-_Entfallen:_\
+__Entfallen:__\
 • Signaturen auf Intrusion-Prevention-Systemen (IPS).
 
 __Änderung:__\
@@ -5187,11 +5187,11 @@ __Änderung:__\
 _Keine inhaltlichen Änderungen._
 
 ##### SYS.4.4.A7
-_Entfallen:_\
+__Entfallen:__\
 Dabei SOLLTEN Vorgaben zur Authentisierung, Update-Mechanismen und Netzanbindung definiert werden.
 
 ##### SYS.4.4.A8
-_Entfallen:_\
+__Entfallen:__\
 IoT-Geräte mit einem Cloud-Konzept SOLLTEN nicht beschafft werden.
 
 ##### SYS.4.4.A9
@@ -5209,7 +5209,7 @@ IoT-Geräte SOLLTEN nur Daten verschlüsselt übertragen.
 _Keine inhaltlichen Änderungen._
 
 ##### SYS.4.4.A13
-_Entfallen:_\
+__Entfallen:__\
 Dies gilt insbesondere für unsichere Dienste, wie z. B. Telnet oder SNMPv1/v2.
 
 ##### SYS.4.4.A14
@@ -5358,7 +5358,7 @@ _Keine inhaltlichen Änderungen._
 _Keine inhaltlichen Änderungen._
 
 ##### IND.1.A3
-_Entfallen:_\
+__Entfallen:__\
 Der Bezug und die Verteilung von Signaturen können automatisiert erfolgen.
 
 #### Standard-Anforderungen
@@ -5839,7 +5839,7 @@ _Keine inhaltlichen Änderungen._
 _Keine inhaltlichen Änderungen._
 
 ##### NET.1.2.A38
-_Entfallen:_\ (...), mit denen die administrativen Tätigkeiten im Notfall durchgeführt werden können
+__Entfallen:__\ (...), mit denen die administrativen Tätigkeiten im Notfall durchgeführt werden können
 
 </details>
 
@@ -6313,7 +6313,7 @@ _Keine inhaltlichen Änderungen._
 _Keine inhaltlichen Änderungen._
 
 ##### NET.4.2.A11
-_Entfallen:_\
+__Entfallen:__\
 Sie SOLLTEN angewiesen werden, bei Abwesenheit die Endgeräte geeignet zu sperren.
 
 ##### NET.4.2.A12
@@ -6366,7 +6366,7 @@ _Diese Anforderung ist entfallen._
 _Keine inhaltlichen Änderungen._
 
 ##### NET.4.3.A7
-_Entfallen:_\
+__Entfallen:__\
 Alle Informationen, die auf dem Faxdeckblatt einzutragen sind, SOLLTEN in geeigneter Weise ausgewählt werden.
 
 ##### NET.4.3.A8
@@ -6417,7 +6417,7 @@ _Keine inhaltlichen Änderungen._
 _Keine inhaltlichen Änderungen._
 
 ##### INF.1.A3
-_Entfallen:_\
+__Entfallen:__\
 Dazu gehört die regelmäßige Entsorgung von Altpapier und Verpackungsabfällen.
 
 ##### INF.1.A4
@@ -6579,7 +6579,7 @@ _Keine inhaltlichen Änderungen._
 __Änderung:__\
 Wenn ein Rechenzentrum geplant wird oder geeignete Räumlichkeiten ausgewählt werden, MÜSSEN auch geeignete Sicherheitsmaßnahmen unter Berücksichtigung des Schutzbedarfs der IT-Komponenten (insbesondere der Verfügbarkeit) mit geplant werden.
 
-_Entfallen:_\
+__Entfallen:__\
 Auch MUSS darauf geachtet werden, dass Versorgungsleitungen (z. B. für Wasser oder Gas) möglichst nicht in unmittelbarer Nähe von schutzbedürftigen Technikkomponenten verlaufen.
 Vorhandene Versorgungsleitungen MÜSSEN zumindest an den kritischen Stellen regelmäßig überprüft werden, ob sie noch dicht sind.
 
@@ -6592,7 +6592,7 @@ Es MUSS verhindert werden, dass sich Brand und Rauch ausbreiten.
 _Ergänzung:_\
 Sie SOLLTE dazu vorzugsweise räumlich getrennt von der Leistungselektronik der USV platziert werden.
 
-_Entfallen:_\
+__Entfallen:__\
 Um sicherzustellen, dass die USV die erforderliche Stützzeit bereitstellt, MUSS regelmäßig sowie zusätzlich, wenn sich bei den Verbrauchern etwas ändert, die tatsächliche Stützzeit ermittelt werden.
 Wenn IT-Geräte über eine USV versorgt werden, DÜRFEN diese NICHT über geschirmte Leitungen mit weiteren IT-Geräten verbunden werden.
 
@@ -6609,7 +6609,7 @@ __Änderung:__\
 Die Parameter Temperatur und Feuchtigkeit MÜSSEN mindestens so aufgezeichnet werden, dass sich rückwirkend erkennen lässt, ob Grenzwerte überschritten wurden, und dass sie bei der Lokalisierung der Ursache der Abweichung sowie bei der Beseitigung der Ursache unterstützend genutzt werden können.
 
 ##### INF.2.A6
-_Entfallen:_\
+__Entfallen:__\
 Außerdem MUSS sichergestellt werden, dass Besucher und Fremdpersonal während aller Arbeiten im Rechenzentrum von der Zutrittskontrolle individuell erfasst sowie beaufsichtigt werden.
 
 ##### INF.2.A7
@@ -6670,7 +6670,7 @@ Aus dem Protokoll MUSS die Art des Brennstoffs, die genutzten Additive, das Tank
 Wenn für einen Serverraum auf den Einsatz einer NEA verzichtet wird, SOLLTE alternativ zur NEA eine USV mit einer dem Schutzbedarf angemessenen Autonomiezeit realisiert werden.
 
 ##### INF.2.A15
-_Entfallen:_\
+__Entfallen:__\
 Blitz- und Überspannungsschutzeinrichtungen SOLLTEN periodisch und nach bekannten Ereignissen geprüft und falls erforderlich ersetzt werden.
 Unabhängig von Umfang und Ausbau des Überspannungsschutzes SOLLTE beachtet werden, dass ein umfassender und durchgängiger Potenzialausgleich aller in den Überspannungsschutz einbezogenen elektrischen Betriebsmittel erforderlich ist.
 Bei Nachinstallationen SOLLTE darauf geachtet werden, dass der Potenzialausgleich mitgeführt wird.
@@ -6704,7 +6704,7 @@ Die Übertragungswege in das Ausweichrechenzentrum SOLLTEN geeignet abgesichert 
 _Keine inhaltlichen Änderungen._
 
 ##### INF.2.A23
-_Entfallen:_\
+__Entfallen:__\
 Für unterschiedliche Netzarten, z. B. Datennetz, Netz für Gefahrenmeldeanlagen und Stromnetz, SOLLTEN getrennte Kabel benutzt werden.
 Werden Kabel für verschiedene Netze gemeinsam geführt, SOLLTE sichergestellt sein, dass gegenseitige Störungen minimiert werden.
 
@@ -7174,7 +7174,7 @@ _Entfallen:_ (...) , also nicht einfach in den Hausmüll.
 _Keine inhaltlichen Änderungen._
 
 ##### INF.9.A8
-_Entfallen:_\
+__Entfallen:__\
 Ebenso SOLLTE sie festlegen, dass für jeden mobilen Mitarbeiter ein Vertreter benannt und der Vertretungsprozess regelmäßig geprobt wird.
 
 ##### INF.9.A9
@@ -7196,14 +7196,14 @@ _Keine inhaltlichen Änderungen._
 ////////////////
 Formatierungshilfen:
 
-_Entfallen:_\
+__Entfallen:__\
 __Änderung:__\
 (...)  (...)
 _Ergänzung:_\
 (...)  (...)
 __Änderung:__\
 ~~~~\
-_zu:_\
+__zu:__\
 #### Standard-Anforderungen
 (Aktualisiert: Basis-Anforderung)
 _Diese Anforderung ist entfallen._
