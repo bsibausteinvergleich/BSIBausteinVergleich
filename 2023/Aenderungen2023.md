@@ -22,10 +22,7 @@ Keine inhaltlichen Änderungen.
 ### CON.1
 
 <details>
-<summary>
-  
-##### Änderungen
-
+<summary> Änderungen
 </summary>
 
 Der Baustein spricht jetzt an mehreren Stellen von *Informationen* statt von *Daten*.
