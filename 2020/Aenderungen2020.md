@@ -13,11 +13,11 @@ ___
 #### Basis-Anforderungen
 
 ##### ISMS.1.A1
-Begriff „Leitungsebene“ durch „Institutionsleitung“ __Ersetzt:__\
+Begriff „Leitungsebene“ durch „Institutionsleitung“ ersetzt:\
 Die Institutionsleitung MUSS sich regelmäßig über den Status der Informationssicherheit informieren lassen.
 
 ##### ISMS.1.A2
-Begriff „Leitungsebene“ durch „Institutionsleitung“ __Ersetzt:__\
+Begriff „Leitungsebene“ durch „Institutionsleitung“ ersetzt:\
 Der Sicherheitsprozess MUSS durch die Institutionsleitung initiiert und etabliert werden.\
 „Geschäftsprozesse [der Behörde]“ durch „Fachaufgaben“ ergänzt.
 
