@@ -86,14 +86,14 @@ ___
 
 ##### ORP.1.A1
 __Änderung:__\
-~~Für alle sicherheitsrelevanten Aufgaben MÜSSEN sowohl Verantwortlichkeiten als auch Befugnisse festgelegt sein.~~\
+~~Für alle sicherheitsrelevanten Aufgaben MÜSSEN sowohl Verantwortlichkeiten als auch Befugnisse festgelegt sein.~~
 __zu:__\
 Innerhalb einer Institution SOLLTEN alle relevanten Aufgaben und Funktionen klar definiert und voneinander abgegrenzt sein.
 
 __Änderung:__\
 ~~Es MUSS auch klar geregelt sein, welche Informationen mit wem ausgetauscht werden dürfen und wie diese dabei zu schützen sind.~~
 
-~~Die Regelungen MÜSSEN anlassbezogen überarbeitet werden. Die Regelungen MÜSSEN regelmäßig überarbeitet werden.~~\
+~~Die Regelungen MÜSSEN anlassbezogen überarbeitet werden. Die Regelungen MÜSSEN regelmäßig überarbeitet werden.~~
 __zu:__\
 Die Regelungen MÜSSEN anlassbezogen überarbeitet werden.
 
@@ -105,7 +105,7 @@ __Ersetzt:__\
 ~~Für alle Informationen, Geschäftsprozesse, Anwendungen und IT-Komponenten MUSS festgelegt werden, wer für diese und deren Sicherheit verantwortlich ist.~~
 
 
-~~Alle Mitarbeiter MÜSSEN darüber informiert sein, insbesondere wofür sie in welcher Weise verantwortlich sind.~~\
+~~Alle Mitarbeiter MÜSSEN darüber informiert sein, insbesondere wofür sie in welcher Weise verantwortlich sind.~~
 
 __durch:__\
 ORP.1.A2 Zuweisung der Verantwortung [Institutionsleitung] (B)
@@ -116,7 +116,7 @@ Alle Mitarbeiter MÜSSEN darüber informiert sein, insbesondere wofür sie veran
 
 ##### ORP.1.A3
 __Änderung:__\
-~~Die Mitarbeiter MÜSSEN dazu angehalten werden, betriebsfremde Personen nicht unbeaufsichtigt zu lassen.~~\
+~~Die Mitarbeiter MÜSSEN dazu angehalten werden, betriebsfremde Personen nicht unbeaufsichtigt zu lassen.~~
 __zu:__\
 Die Mitarbeiter MÜSSEN dazu angehalten werden, institutionsfremde Personen in den Räumen der Institution nicht unbeaufsichtigt zu lassen.
 
@@ -239,7 +239,7 @@ __Keine inhaltlichen Änderungen.__
 __Änderung:__\
 ~~Zur Zufriedenheit der Mitarbeiter SOLLTE ein Verantwortlicher als vertrauenswürdiger Ansprechpartner benannt werden.~~
 
-~~Im Fall von größeren organisatorischen oder technischen Veränderungen SOLLTE die Benennung eines solchen Ansprechpartners geprüft werden.~~\
+~~Im Fall von größeren organisatorischen oder technischen Veränderungen SOLLTE die Benennung eines solchen Ansprechpartners geprüft werden.~~
 
 __zu:__\
 Für die Mitarbeiter SOLLTE eine Vertrauensperson als Ansprechpartner benannt werden.
@@ -277,7 +277,7 @@ __Keine inhaltlichen Änderungen.__
 __Änderung:__\
 ~~Die geplanten Sensibilisierungs- und Schulungsmaßnahmen SOLLTEN gemäß dieser Planung in adäquater Form umgesetzt werden.~~
 
-~~Sensibilisierungs- und Schulungsprogramme SOLLTEN regelmäßig auf Aktualität überprüft und bei geändertem Bedarf angepasst bzw. weiterentwickelt werden.~~\
+~~Sensibilisierungs- und Schulungsprogramme SOLLTEN regelmäßig auf Aktualität überprüft und bei geändertem Bedarf angepasst bzw. weiterentwickelt werden.~~
 
 __zu:__\
 Der Informationssicherheitsbeauftragte SOLLTE sich regelmäßig mit der Personalabteilung und den anderen für die Sicherheit relevanten Ansprechpartnern (Datenschutz, Gesundheits- und Arbeitsschutz, Brandschutz etc.) über die Effizienz der Aus- und Weiterbildung austauschen.
@@ -286,7 +286,7 @@ Der Informationssicherheitsbeauftragte SOLLTE sich regelmäßig mit der Personal
 __Änderung:__\
 ~~Sicherheitsverantwortliche SOLLTEN mit der IT-Grundschutz-Methodik vertraut sein.~~
 
-~~Wurde ein Schulungsbedarf verifiziert, SOLLTE eine entsprechende IT-Grundschutz-Schulung geplant und deren Inhalt vorher festgelegt werden.~~\
+~~Wurde ein Schulungsbedarf verifiziert, SOLLTE eine entsprechende IT-Grundschutz-Schulung geplant und deren Inhalt vorher festgelegt werden.~~
 
 __zu:__\
 Informationssicherheitsbeauftragte SOLLTEN mit dem IT-Grundschutz vertraut sein.
@@ -304,7 +304,7 @@ Keine Änderungen
 
 ##### ORP.3.A9
 __Änderung:__\
-~~Besonders exponierte Personen wie Funktionsträger sowie die Mitarbeiter in besonders exponierten Institutionen oder Organisationsbereichen (...)~~\
+~~Besonders exponierte Personen wie Funktionsträger sowie die Mitarbeiter in besonders exponierten Institutionen oder Organisationsbereichen (...)~~
 
 __zu:__\
 Besonders exponierte Personen
@@ -324,7 +324,7 @@ Die Rolle "Leiter IT" wurde in allen Anforderungen der ORP.4 durch "IT-Betrieb" 
 __Änderung:__\
 ~~ORP.4.A1 Regelung für die Einrichtung von Benutzern und Benutzergruppen [Administrator, Leiter IT] Es MUSS geregelt werden, wie Benutzer und Benutzergruppen einzurichten sind.~~
 
-~~Alle Benutzer und Benutzergruppen DÜRFEN NUR über separate administrative Rollen eingerichtet werden.~~\
+~~Alle Benutzer und Benutzergruppen DÜRFEN NUR über separate administrative Rollen eingerichtet werden.~~
 
 __zu:__\
 ORP.4.A1 Regelung für die Einrichtung und Löschung von Benutzern und Benutzergruppen [IT-Betrieb] (B)
@@ -345,7 +345,7 @@ __Änderung:__\
 
 ~~Auch MUSS festgelegt werden, welche Aufgaben und Funktionen nicht miteinander vereinbar sind.~~
 
-~~Diese Trennungen MÜSSEN umgesetzt werden. Sie SOLLTEN dokumentiert werden.~~\
+~~Diese Trennungen MÜSSEN umgesetzt werden. Sie SOLLTEN dokumentiert werden.~~
 
 __zu:__\
 Die von der Institution definierten unvereinbaren Aufgaben und Funktionen (siehe Baustein ORP.1 Organisation) MÜSSEN durch das Identitäts- und Berechtigungsmanagement getrennt werden.
@@ -354,7 +354,7 @@ Die von der Institution definierten unvereinbaren Aufgaben und Funktionen (siehe
 __Änderung:__\
 ~~Es MUSS festgelegt werden, welche Zutrittsberechtigungen an welche Personen im Rahmen ihrer Funktion vergeben werden.~~
 
-~~Werden Zutrittsmittel wie Chipkarten verwendet, so MUSS die Ausgabe bzw. der Entzug dokumentiert werden.~~\
+~~Werden Zutrittsmittel wie Chipkarten verwendet, so MUSS die Ausgabe bzw. der Entzug dokumentiert werden.~~
 
 __zu:__\
 Es MUSS festgelegt werden, welche Zutrittsberechtigungen an welche Personen im Rahmen ihrer Funktion vergeben bzw. ihnen entzogen werden.
@@ -371,7 +371,7 @@ Wenn Zugangsmittel kompromittiert wurden, MÜSSEN sie ausgewechselt werden.
 __Änderung:__\
 ~~Werden Zugangsmittel wie Chipkarten verwendet, so MUSS die Ausgabe bzw. der Entzug dokumentiert werden.~~
 
-~~Die Zugriffsrechte SOLLTEN auf den korrekten Umgang mit den Zugangsmitteln geschult werden.~~\
+~~Die Zugriffsrechte SOLLTEN auf den korrekten Umgang mit den Zugangsmitteln geschult werden.~~
 
 __zu:__\
 Werden im Rahmen der Zugriffskontrolle Chipkarten oder Token verwendet, so MUSS die Ausgabe bzw. der Entzug dokumentiert werden.
@@ -447,7 +447,7 @@ Bei erfolglosen Anmeldeversuchen SOLLTE das System keinen Hinweis darauf geben, 
 
 ##### ORP.4.A10
 __Änderung:__\
-~~Benutzerkonten mit weitreichenden Berechtigungen SOLLTEN mit mindestens zwei Authentisierungsmerkmalen geschützt werden.~~\
+~~Benutzerkonten mit weitreichenden Berechtigungen SOLLTEN mit mindestens zwei Authentisierungsmerkmalen geschützt werden.~~
 
 __zu:__\
 Benutzerkennungen mit weitreichenden Berechtigungen SOLLTEN mit einer Mehr-Faktor-Authentisierung, z. B. mit kryptografischen Zertifikaten, Chipkarten oder Token geschützt werden.
@@ -457,7 +457,7 @@ __Keine inhaltlichen Änderungen.__
 
 ##### ORP.4.A12
 __Änderung:__\
-~~Authentisierungsinformationen SOLLTEN kryptografisch sicher geschützt übertragen und gespeichert werden.~~\
+~~Authentisierungsinformationen SOLLTEN kryptografisch sicher geschützt übertragen und gespeichert werden.~~
 
 __zu:__\
 Authentisierungsinformationen MÜSSEN kryptografisch sicher übertragen und gespeichert werden.
@@ -487,7 +487,7 @@ __Keine inhaltlichen Änderungen.__
 
 ##### ORP.4.A20
 __Änderung:__\
-~~Für Notfälle SOLLTE ein Berechtigungskonzept vorhanden sein und es SOLLTEN Notfallberechtigungen existieren.~~\
+~~Für Notfälle SOLLTE ein Berechtigungskonzept vorhanden sein und es SOLLTEN Notfallberechtigungen existieren.~~
 
 __zu:__\
 Es SOLLTEN Vorkehrungen getroffen werden, um bei einem ausgefallenen Identitäts- und Berechtigungsmanagement-System weiterhin arbeitsfähig zu sein.
@@ -521,14 +521,14 @@ __Keine inhaltlichen Änderungen.__
 __Ergänzt__: "(...) basierend auf der Identifikation und Beachtung der rechtlichen Rahmenbedingungen, (...)
 
 __Änderung:__\
-~~Compliance Manager und ISB SOLLTEN regelmäßig zusammenarbeiten.~~\
+~~Compliance Manager und ISB SOLLTEN regelmäßig zusammenarbeiten.~~
 
 __zu:__\
 Compliance Manager und Informationssicherheitsbeauftragte (ISB) SOLLTEN sich regelmäßig austauschen.
 
 ##### ORP.5.A5
 __Änderung:__\
-~~Es SOLLTE eine Übersicht über alle erteilten Ausnahmegenehmigungen geben.~~\
+~~Es SOLLTE eine Übersicht über alle erteilten Ausnahmegenehmigungen geben.~~
 
 __zu:__\
 Es SOLLTE eine Übersicht über alle erteilten Ausnahmegenehmigungen erstellt und gepflegt werden.
@@ -583,13 +583,13 @@ __Entfallen:__ Auf Produkte mit unkontrollierbarer Schlüsselablage SOLLTE gener
 
 ##### CON.1.A6
 __Änderung:__\
-~~Es SOLLTE festgelegt werden, für welche Aufgaben kryptografische Verfahren eingesetzt werden sollen.~~\
+~~Es SOLLTE festgelegt werden, für welche Aufgaben kryptografische Verfahren eingesetzt werden sollen.~~
 
 __zu:__\
 Es SOLLTE festgelegt werden, für welche Geschäftsprozesse oder Fachverfahren kryptografische Verfahren eingesetzt werden sollen.
 
 __Änderung:__\
-~~Diese SOLLTEN kryptografisch abgesichert werden.~~\
+~~Diese SOLLTEN kryptografisch abgesichert werden.~~
 
 __zu:__\
 Diese SOLLTEN durch den IT-Betrieb geeignet kryptografisch abgesichert werden.
@@ -619,7 +619,7 @@ __Keine inhaltlichen Änderungen.__
 
 ##### CON.1.A14
 __Änderung:__\
-~~Administratoren SOLLTEN zudem lernen, wie sie mit Hilfsmitteln zur Untersuchung kryptografischer Einstellungen umgehen müssen.~~\
+~~Administratoren SOLLTEN zudem lernen, wie sie mit Hilfsmitteln zur Untersuchung kryptografischer Einstellungen umgehen müssen.~~
 
 __zu:__\
 Die Administratoren SOLLTEN zudem gezielt dazu geschult werden, wie die Kryptomodule zu administrieren sind.
@@ -651,11 +651,11 @@ __Keine inhaltlichen Änderungen.__
 
 ##### CON.2.A1
 __Ersetzt:__\
-~~CON.2.A1 Umsetzung Standard-Datenschutzmodell~~\
+~~CON.2.A1 Umsetzung Standard-Datenschutzmodell~~
 
 ~~Es MUSS geprüft werden, ob das Standard-Datenschutzmodell angewendet wird.~~
 
-~~Eine etwaige Nichtberücksichtigung des vollständigen Schutzziele-Katalogs und eine Nichtanwendung der SDM-Methodik sowie der Referenzmaßnahmen MÜSSEN begründet werden.~~\
+~~Eine etwaige Nichtberücksichtigung des vollständigen Schutzziele-Katalogs und eine Nichtanwendung der SDM-Methodik sowie der Referenzmaßnahmen MÜSSEN begründet werden.~~
 
 __durch:__\
 CON.2.A1 Umsetzung Standard-Datenschutzmodell (B)\
@@ -677,7 +677,7 @@ Wird die SDM-Methodik nicht berücksichtigt, die Maßnahmen also nicht auf der B
 __Änderung:__\
 ~~Für jedes IT-System und eventuell für einzelne besonders wichtige IT-Anwendung MÜSSEN die relevanten Einflussfaktoren ermittelt werden, wie z. B. Änderungsvolumen, Änderungszeitpunkte, Verfügbarkeitsanforderungen, Integritätsbedarf.~~
 
-~~Dazu SOLLTEN die Administratoren und die Verantwortlichen der einzelnen IT-Anwendungen befragt werden.~~\
+~~Dazu SOLLTEN die Administratoren und die Verantwortlichen der einzelnen IT-Anwendungen befragt werden.~~
 
 __zu:__\
 Der IT-Betrieb MUSS für jedes IT-System und darauf ausgeführten Anwendungen die Rahmenbedingungen für die Datensicherung erheben.
@@ -694,20 +694,20 @@ Der IT-Betrieb MUSS mindestens die nachfolgenden Rahmenbedingungen berücksichti
 • rechtliche Anforderungen.
 
 __Änderung:__\
-~~Neue Anforderungen MÜSSEN zeitnah in einem aktualisierten Datensicherungskonzept berücksichtigt werden.~~\
+~~Neue Anforderungen MÜSSEN zeitnah in einem aktualisierten Datensicherungskonzept berücksichtigt werden.~~
 
 __zu:__\
 Neue Anforderungen MÜSSEN zeitnah berücksichtigt werden.
 
 ##### CON.3.A2
 __Änderung:__\
-~~Für jedes IT-System und für jede Datenart MUSS ein Verfahren festgelegt werden, wie die Daten zu sichern sind.~~\
+~~Für jedes IT-System und für jede Datenart MUSS ein Verfahren festgelegt werden, wie die Daten zu sichern sind.~~
 
 __zu:__\
 Der IT-Betrieb MUSS für jedes IT-System ein Verfahren festlegen, das definiert, welche Daten des IT-Systems wie gesichert werden.
 
 __Änderung:__\
-~~Weiterhin MÜSSEN die Verantwortlichkeiten für die Datensicherungen festgelegt werden.~~\
+~~Weiterhin MÜSSEN die Verantwortlichkeiten für die Datensicherungen festgelegt werden.~~
 
 __zu:__\
 Dies MUSS wiederum auf Basis der erhobenen Einflussfaktoren und in Abstimmung mit den jeweiligen Fachverantwortlichen der Anwendungen geschehen.
@@ -718,7 +718,7 @@ __Diese Anforderung ist entfallen.__
 ##### CON.3.A4
 __Änderung:__\
 ~~Es MUSS ein Minimaldatensicherungskonzept erstellt werden, das festgelegt, welche Anforderungen für die Datensicherung mindestens einzuhalten sind.~~
-~~Dazu zählen kurze Beschreibungen, wie die Datensicherung erstellt und wiederhergestellt werden kann, welche Parameter gewählt wurden und welche Hard- und Software eingesetzt wird.~~\
+~~Dazu zählen kurze Beschreibungen, wie die Datensicherung erstellt und wiederhergestellt werden kann, welche Parameter gewählt wurden und welche Hard- und Software eingesetzt wird.~~
 
 __zu:__\
 Der IT-Betrieb MUSS ein Minimaldatensicherungskonzept auf Basis der festgelegten Verfahrensweise für die Datensicherung erstellen.
@@ -734,7 +734,7 @@ Das Minimaldatensicherungskonzept MUSS mindestens eine kurze Beschreibung dazu e
 
 ##### CON.3.A5
 __Änderung:__\
-~~Es MÜSSEN regelmäßige Datensicherungen durchgeführt werden. Dabei MÜSSEN mindestens die Daten regelmäßig gesichert werden, die nicht aus anderen Informationen ableitbar sind.~~\
+~~Es MÜSSEN regelmäßige Datensicherungen durchgeführt werden. Dabei MÜSSEN mindestens die Daten regelmäßig gesichert werden, die nicht aus anderen Informationen ableitbar sind.~~
 __zu:__\
 Der IT-Betrieb MUSS regelmäßige Datensicherungen gemäß dem (Minimal-)Datensicherungskonzept erstellen.
 Die erstellten Datensicherungen MÜSSEN in geeigneter Weise vor dem Zugriff Dritter geschützt werden.
@@ -752,7 +752,7 @@ __Änderung:__\
 
 ~~Darin SOLLTEN sämtliche zu berücksichtigenden IT-Systeme aufgeführt werden.~~
 
-~~Die Mitarbeiter SOLLTEN über den sie betreffenden Teil des Datensicherungskonzepts unterrichtet werden.~~\
+~~Die Mitarbeiter SOLLTEN über den sie betreffenden Teil des Datensicherungskonzepts unterrichtet werden.~~
 
 __zu:__\
 CON.3.A6 Entwicklung eines Datensicherungskonzepts [Fachverantwortliche, IT-Betrieb] (S)\
@@ -777,7 +777,7 @@ __Änderung:__\
 
 Bevor ein Datensicherungssystem beschafft wird, SOLLTE eine Anforderungsliste erstellt werden, nach der die am Markt erhältlichen Produkte bewertet werden.
 
-Die angeschafften Datensicherungssysteme SOLLTEN die Anforderungen des Sicherheits- und des Datensicherungskonzepts erfüllen.~~\
+Die angeschafften Datensicherungssysteme SOLLTEN die Anforderungen des Sicherheits- und des Datensicherungskonzepts erfüllen.~~
 
 __zu:__\
 CON.3.A7 Beschaffung eines geeigneten Datensicherungssystems [Leiter IT] (S)\
@@ -801,7 +801,7 @@ __Keine inhaltlichen Änderungen.__
 
 ##### CON.3.A11
 __Änderung:__\
-~~Von eingesetzten Softwareprogrammen SOLLTEN Sicherungskopien angefertigt werden,(...)~~\
+~~Von eingesetzten Softwareprogrammen SOLLTEN Sicherungskopien angefertigt werden,(...)~~
 
 __zu:__\
 Der IT-Betrieb SOLLTE Sicherungskopien von eingesetzten Softwareprogrammen anfertigen,(...)
@@ -812,7 +812,7 @@ __Änderung:__\
 
 ~~Sie SOLLTEN räumlich von den Quellsystemen getrennt werden.~~
 
-~~Der Aufbewahrungsort SOLLTE so klimatisiert sein, dass die Datenträger längerfristig aufbewahrt werden können.~~\
+~~Der Aufbewahrungsort SOLLTE so klimatisiert sein, dass die Datenträger längerfristig aufbewahrt werden können.~~
 
 __zu:__\
 Der IT-Betrieb SOLLTE die Backup-Datenträger geeignet aufbewahren, sodass diese vor unbefugtem Zugriff geschützt werden.
@@ -825,7 +825,7 @@ Der Aufbewahrungsort SOLLTE so klimatisiert sein, dass die Datenträger entsprec
 
 ##### CON.3.A13
 __Änderung:__\
-~~Um die Vertraulichkeit und Integrität der gesicherten Daten zu gewährleisten, SOLLTEN alle Daten verschlüsselt werden.~~\
+~~Um die Vertraulichkeit und Integrität der gesicherten Daten zu gewährleisten, SOLLTEN alle Daten verschlüsselt werden.~~
 
 __zu:__\
 Um die Vertraulichkeit und Integrität der gesicherten Daten zu gewährleisten, SOLLTE der IT-Betrieb alle Datensicherungen verschlüsseln.
@@ -864,7 +864,7 @@ __Keine inhaltlichen Änderungen.__
 
 ##### CON.4.A8
 __Änderung:__\
-~~Lizenzpflichtige Standardsoftware-Produkte, die auf IT-Systemen der Institution eingesetzt werden, SOLLTEN lizenziert sein.~~\
+~~Lizenzpflichtige Standardsoftware-Produkte, die auf IT-Systemen der Institution eingesetzt werden, SOLLTEN lizenziert sein.~~
 
 __zu:__\
 Lizenzpflichtige Standardsoftware-Produkte, die auf IT-Systemen der Institution eingesetzt werden, SOLLTEN korrekt lizenziert sein.
@@ -3040,13 +3040,13 @@ APP.3.4.A4 Vermeidung der NTFS-Eigenschaften auf einem Samba-Server (S)
 
 ##### APP.3.4.A5
 __Änderung:__\
-~~Linux~~\
+~~Linux~~
 __zu:__\
 (...) Unix (...)
 
 ##### APP.3.4.A6
 __Änderung:__\
-~~Linux~~\
+~~Linux~~
 __zu:__\
 (...) Unix (...)
 
