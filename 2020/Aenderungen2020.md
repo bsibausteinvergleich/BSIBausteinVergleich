@@ -17,10 +17,10 @@ __Begriff__ „Leitungsebene“ __durch__ „Institutionsleitung“ __ersetzt:__
 Die Institutionsleitung MUSS sich regelmäßig über den Status der Informationssicherheit informieren lassen.
 
 ##### ISMS.1.A2
-Begriff „Leitungsebene“ durch „Institutionsleitung“ ersetzt:\
+__Begriff__ „Leitungsebene“ __durch__ „Institutionsleitung“ __ersetzt:__\
 Der Sicherheitsprozess MUSS durch die Institutionsleitung initiiert und etabliert werden.
 
-„Geschäftsprozesse [der Behörde]“ durch „Fachaufgaben“ ergänzt.
+„Geschäftsprozesse [der Behörde]“ __durch__ „Fachaufgaben“ __ergänzt.__
 
 ##### ISMS.1.A3
 __Keine inhaltlichen Änderungen.__
@@ -46,7 +46,7 @@ __Keine inhaltlichen Änderungen.__
 #### Standard-Anforderungen
 
 ##### ISMS.1.A10
-Angepasst, um der „SOLLTE“-Priorisierung zu entsprechen:\
+__Angepasst, um der „SOLLTE“-Priorisierung zu entsprechen:__\
 Es SOLLTE entschieden werden, ob das Sicherheitskonzept aus einem oder aus mehreren Teilkonzepten bestehen soll, die sukzessive erstellt werden, um zunächst in ausgewählten Bereichen das erforderliche Sicherheitsniveau herzustellen.
 
 ##### ISMS.1.A11
