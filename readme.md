@@ -1,4 +1,5 @@
-<img src="[url](https://xaas-it.com/wp-content/uploads/2022/04/cropped-Xaas_Logo-768x281-1.png)" alt="XAAS-it.com">
+
+![cropped-Xaas_Logo-768x281-1](https://github.com/bsibausteinvergleich/BSIBausteinVergleich/assets/157005660/89428530-a3be-43d2-82bb-67d0cc00e95c)
 
 # XAAS GmbH & Co KG.
 
