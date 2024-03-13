@@ -3798,13 +3798,17 @@ ___
 ##### SYS.1.1.A1
 __Entfallen:__\
 Server DÜRFEN NICHT als Arbeitsplatzrechner genutzt werden.
+
 Es MUSS gewährleistet werden, dass nur dafür vorgesehene Wechselspeicher und sonstige Geräte an die Server angeschlossen werden können.
 
 ##### SYS.1.1.A2
 __Änderung:__\
 Für die Anmeldung von Benutzern und Diensten am Server MÜSSEN Authentisierungsverfahren eingesetzt werden, die dem Schutzbedarf der Server angemessen sind.
+
 Dies SOLLTE in besonderem Maße für administrative Zugänge berücksichtigt werden.
+
 Soweit möglich, SOLLTE dabei auf zentrale, netzbasierte Authentisierungsdienste zurückgegriffen werden. Verwendete Passwörter MÜSSEN sicher sein.
+
 Für sichere Passwörter SOLLTE es eine Passwort-Richtlinie geben.
 
 ##### SYS.1.1.A3
@@ -3816,11 +3820,14 @@ __Keine inhaltlichen Änderungen.__
 ##### SYS.1.1.A5
 __Entfallen:__\
 Für die Anmeldung von Benutzern und Diensten am System MÜSSEN Authentisierungsverfahren eingesetzt werden, die dem Schutzbedarf der Server angemessen sind.
+
 Dies SOLLTE in besonderem Maße für administrative Zugänge berücksichtigt werden.
+
 Soweit möglich, SOLLTE dabei auf zentrale, netzbasierte Authentisierungsdienste zurückgegriffen werden.
 
 __Ergänzung:__\
 Es MUSS gewährleistet werden, dass nur dafür vorgesehene Wechselspeicher und sonstige Geräte an die Server angeschlossen werden können.
+
 Server DÜRFEN NICHT als Arbeitsplatzrechner genutzt werden.
 
 ##### SYS.1.1.A6
@@ -3918,10 +3925,15 @@ __Keine inhaltlichen Änderungen.__
 ##### NEU SYS.1.1.A34
 __Ergänzung:__\
 SYS.1.1.A34 Festplattenverschlüsselung (H)
+
 Bei erhöhtem Schutzbedarf sollten die Datenträger des Servers mit einem als sicher geltenden Produkt bzw. Verfahren verschlüsselt werden.
+
 Dies SOLLTE auch für virtuelle Maschinen mit produktiven Daten gelten.
+
 Es SOLLTE nicht nur ein TPM allein als Schlüsselschutz dienen.
+
 Das Wiederherstellungspasswort SOLLTE an einem geeigneten sicheren Ort gespeichert werden.
+
 Bei sehr hohen Anforderungen an die Vertraulichkeit oder Abstreitbarkeit SOLLTE eine Full Volume Encryption erfolgen.
 
 </details>
@@ -4302,6 +4314,7 @@ __Keine inhaltlichen Änderungen.__
 ##### SYS.1.8.A4
 __Änderung:__\
 Es SOLLTEN als sicher geltende Protokolle eingesetzt werden.
+
 Sollten dennoch unsichere Protokolle verwendet werden, MUSS für die Administration ein eigenes Administrationsnetz genutzt werden.
 
 ##### SYS.1.8.A5
@@ -4396,6 +4409,7 @@ __Keine inhaltlichen Änderungen.__
 ##### SYS.2.1.A4
 __Entfallen:__\
 In den meisten Rechnersystemen können diese weitgehend automatisiert erfolgen.
+
 Es MÜSSEN Regelungen getroffen werden, welche lokal abgespeicherten Daten von wem wann gesichert werden.
 
 ##### SYS.2.1.A5
@@ -4814,7 +4828,9 @@ __Keine inhaltlichen Änderungen.__
 ##### SYS.2.4.A12
 __Ergänzung:__\
 Auf Macs mit T2-Sicherheitschip SOLLTE ein Firmware-Passwort über das Startsicherheitsdienstprogramm gesetzt werden.
+
 Die Option „Sicheres Starten: Volle Sicherheit“ SOLLTE aktiviert werden.
+
 Die Option „Starten von externen Medien nicht zulassen“ SOLLTE aktiviert werden.
 
 </details>
@@ -5124,7 +5140,9 @@ __Keine inhaltlichen Änderungen.__
 ##### SYS.3.2.3.A12
 __Änderung:__\
 SYS.3.2.3.A12 Verwendung von Apple-IDs (S)
+
 Werden Dienste verwendet, für die eine Apple-ID erforderlich ist, SOLLTE statt einer persönlichen Apple-ID des Benutzers eine anonymisierte Apple-ID verwendet werden.
+
 Falls möglich, SOLLTE der Apple Business Manager für Volumenlizenzen (früher Volume Purchase Program, VPP) sowie eine zentralisierte Installation von Apps verwendet werden.
 
 ##### SYS.3.2.3.A13
@@ -5296,6 +5314,7 @@ __Diese Anforderung ist entfallen.__
 ##### SYS.4.1.A12
 __Entfallen:__\
 Nicht benötigte, aber ausgedruckte Dokumente mit sensiblen Informationen MÜSSEN in geeigneter Weise entsorgt werden, z. B. in geeigneten Papiercontainern.
+
 Auch für Heimarbeitsplätze SOLLTEN geeignete Regelungen hierfür festgelegt werden.
 
 ##### SYS.4.1.A13 ENTFALLEN
@@ -5303,7 +5322,9 @@ __Diese Anforderung ist entfallen.__
 
 ##### NEU: SYS.4.1.A22
 SYS.4.1.A22 Ordnungsgemäße Entsorgung ausgedruckter Dokumente (B)\
+
 Nicht benötigte, aber ausgedruckte Dokumente mit institutionskritischen Informationen MÜSSEN in geeigneter Weise vernichtet werden, z. B. in geeigneten Papiercontainern.
+
 Sind Heimarbeitsplätze mit Druckern, Kopierern oder Multifunktionsgeräten ausgestattet, SOLLTE gewährleistet werden, dass die ausgedruckten Informationen auch direkt vor Ort geeignet vernichtet werden können.
 
 #### Standard-Anforderungen
@@ -5344,10 +5365,16 @@ __Keine inhaltlichen Änderungen.__
 ##### SYS.4.1.A18
 __Änderung:__\
 Alle Drucker und Multifunktionsgeräte SOLLTEN geeignet vom IT-Betrieb konfiguriert werden.
+
 Nicht benötigte Gerätefunktionen SOLLTEN abgeschaltet werden.
+
 Die Geräte SOLLTEN ausschließlich über verschlüsselte Protokolle wie HTTPS und SNMPv3 verwaltet werden.
+
 Sämtliche Protokolle, mit denen unverschlüsselt auf Drucker und Multifunktionsgeräte zugegriffen werden kann, SOLLTEN vom IT-Betrieb durch verschlüsselte ersetzt oder abgeschaltet werden.
-Das SOLLTE insbesondere für Protokolle umgesetzt werden, mit denen sich die Gerätekonfiguration verändern lässt, z. B. SNMP, Telnet und PJL. Der voreingestellte „SNMP Set Community Name“ SOLLTE geändert werden.
+
+Das SOLLTE insbesondere für Protokolle umgesetzt werden, mit denen sich die Gerätekonfiguration verändern lässt, z. B. SNMP, Telnet und PJL.
+
+Der voreingestellte „SNMP Set Community Name“ SOLLTE geändert werden.
 
 ##### SYS.4.1.A19
 __Keine inhaltlichen Änderungen.__
@@ -5550,19 +5577,27 @@ __Keine inhaltlichen Änderungen.__
 
 ##### NEU: SYS.4.5.A1
 SYS.4.5.A1 Sensibilisierung der Mitarbeiter zum sicheren Umgang mit Wechseldatenträgern (B)\
+
 Alle Mitarbeiter MÜSSEN für den sicheren Umgang mit Wechseldatenträgern sensibilisiert werden.
+
 Die Mitarbeiter MÜSSEN insbesondere darauf hingewiesen werden, wie sie mit den Wechseldatenträgern umgehen sollten, um einem Verlust oder Diebstahl vorzubeugen und eine lange Lebensdauer zu gewährleisten.
+
 Die Institution MUSS ihre Mitarbeiter darüber informieren, dass sie keine Wechseldatenträger an ihre Systeme anschließen dürfen, die aus unbekannten Quellen stammen.
 
 ##### NEU: SYS.4.5.A2
 SYS.4.5.A2 Verlust- bzw. Manipulationsmeldung [Benutzer] (B)\
+
 Benutzer MÜSSEN umgehend melden, wenn ein Wechseldatenträger gestohlen wird oder der Verdacht einer Manipulation besteht.
+
 Der Benutzer MUSS bei seiner Meldung angeben, welche Informationen auf dem Wechseldatenträger gespeichert sind.
+
 Hierfür MUSS es in jeder Institution klare Meldewege und Ansprechpartner geben.
 
 ##### NEU: SYS.4.5.A12
 SYS.4.5.A12 Schutz vor Schadsoftware [Benutzer] (B)\
+
 Nur auf Schadsoftware überprüfte Daten DÜRFEN auf Wechseldatenträger übertragen werden.
+
 Bevor Daten von Wechseldatenträgern verarbeitet werden, MÜSSEN sie auf Schadsoftware überprüft werden.
 
 #### Standard-Anforderungen
@@ -5600,46 +5635,64 @@ Darin SOLLTE festgelegt sein, welche Datenträger von wem außer Haus transporti
 
 ##### NEU: SYS.4.5.A6
 SYS.4.5.A6 Datenträgerverwaltung [Fachverantwortliche] (S)\
+
 Es SOLLTE eine Verwaltung für Wechseldatenträger geben.
+
 Die Datenträger SOLLTEN einheitlich gekennzeichnet werden.
+
 Die Datenträgerverwaltung SOLLTE gewährleisten, dass Wechseldatenträger sachgerecht behandelt und aufbewahrt sowie ordnungsgemäß eingesetzt und transportiert werden.
 
 ##### NEU: SYS.4.5.A7
 SYS.4.5.A7 Sicheres Löschen der Datenträger vor und nach der Verwendung [Fachverantwortliche] (S)\
+
 Bevor wiederbeschreibbare Datenträger weitergegeben, wiederverwendet oder ausgesondert werden, SOLLTEN sie in geeigneter Weise gelöscht werden.
+
 Die Institution SOLLTE den Mitarbeitern dafür geeignete Programme zur Verfügung stellen.
 
 ##### NEU: SYS.4.5.A13
 SYS.4.5.A13 Angemessene Kennzeichnung der Datenträger beim Versand [Benutzer] (S)\
+
 Benutzer SOLLTEN Datenträger, die versendet werden sollen, so kennzeichnen, dass Absender und Empfänger sie sofort identifizieren können.
+
 Die Kennzeichnung der Datenträger bzw. deren Verpackung SOLLTE für den Empfänger eindeutig sein.
+
 Die Kennzeichnung von Datenträgern mit schützenswerten Informationen SOLLTE für Außenstehende keine Rückschlüsse auf Art und Inhalte der Informationen zulassen.
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 ##### NEU: SYS.4.5.A10
 SYS.4.5.A10 Datenträgerverschlüsselung (H)\
+
 Wechseldatenträger SOLLTEN vollständig verschlüsselt werden.
+
 Es SOLLTE ein sicheres Verschlüsselungsverfahren eingesetzt werden.
 
 ##### NEU: SYS.4.5.A11
 SYS.4.5.A11 Integritätsschutz durch Checksummen oder digitale Signaturen (H)\
+
 Um beim Datenaustausch mittels mobiler Datenträger die Integrität von vertraulichen Informationen sicherzustellen, SOLLTE ein Verfahren zum Schutz gegen zufällige oder vorsätzliche Veränderungen eingesetzt werden.
+
 Die Verfahren zum Schutz vor Veränderungen SOLLTEN dem aktuellen Stand der Technik entsprechen.
 
 ##### NEU: SYS.4.5.A14
 SYS.4.5.A14 Sichere Versandart und Verpackung (H)\
+
 Die Institution SOLLTE überprüfen, wie vertrauliche Informationen bei einem Versand angemessen geschützt werden können.
+
 Die Benutzer SOLLTEN eine sichere Versandverpackung für Datenträger verwenden, bei der Manipulationen sofort zu erkennen sind.
+
 Der Versender SOLLTE alle beteiligten Mitarbeiter auf notwendige Versand- und Verpackungsarten hinweisen.
 
 ##### NEU: SYS.4.5.A15
 SYS.4.5.A15 Zertifizierte Produkte (H)\
+
 Die Institution SOLLTE nur Wechseldatenträger verwenden, die zertifiziert sind.
+
 Die Zertifizierung SOLLTE insbesondere eine integere Datenerhaltung sowie eine möglicherweise vorhandene Verschlüsselung berücksichtigen.
 
 ##### NEU: SYS.4.5.A16
 SYS.4.5.A16 Nutzung dedizierter Systeme zur Datenprüfung (H)\
+
 Die Institution SOLLTE dedizierte Systeme als Datenschleuse verwenden, bei denen Daten von einem Wechseldatenträger auf einen anderen übertragen werden und dabei auf Schadsoftware untersucht werden.
 
 </details>
@@ -6165,7 +6218,9 @@ _Entfallen:_ Außerdem MUSS dieser regelmäßig gewechselt werden.
 ##### NET.2.1.A4
 __Änderung:__\
 Access Points MÜSSEN zugriffs- und diebstahlsicher montiert werden.
+
 Wenn sie aufgestellt werden, MÜSSEN die erforderlichen Bereiche ausreichend abgedeckt werden.
+
 Darüber hinaus MUSS darauf geachtet werden, dass sich die Funkwellen in Bereichen, die nicht durch das WLAN versorgt werden sollen, möglichst nicht ausbreiten.
 
 ##### NET.2.1.A5
@@ -6648,6 +6703,7 @@ __Keine inhaltlichen Änderungen.__
 ##### NET.4.3.A1
 __Ergänzung:__\
 Der Aufstellungsort MUSS über einen geeigneten Netzanschluss für das Faxgerät verfügen.
+
 Faxgeräte DÜRFTEN NICHT an nicht dafür vorgesehene Netzanschlüsse angeschlossen werden.
 
 ##### NET.4.3.A2
@@ -6689,7 +6745,9 @@ __Keine inhaltlichen Änderungen.__
 ##### NET.4.3.A12
 __Änderung:__\
 Unerwünschte Faxadressen, SOLLTEN blockiert werden.
+
 Alternativ SOLLTEN nur bestimmte Rufnummern zugelassen werden.
+
 Es SOLLTE geprüft werden, welcher Ansatz in welcher Situation geeignet ist.
 
 ##### NET.4.3.A13
@@ -6799,6 +6857,7 @@ __Keine inhaltlichen Änderungen.__
 ##### INF.1.A27
 __Änderung:__\
 Bei der Planung, der Umsetzung und im Betrieb SOLLTE beim Einbruchschutz darauf geachtet werden, dass er gleichwertig und durchgängig ist.
+
 Er SOLLTE regelmäßig durch eine fachkundige Person begutachtet werden.
 
 ##### INF.1.A28
@@ -6883,11 +6942,13 @@ Wenn ein Rechenzentrum geplant wird oder geeignete Räumlichkeiten ausgewählt w
 
 __Entfallen:__\
 Auch MUSS darauf geachtet werden, dass Versorgungsleitungen (z. B. für Wasser oder Gas) möglichst nicht in unmittelbarer Nähe von schutzbedürftigen Technikkomponenten verlaufen.
+
 Vorhandene Versorgungsleitungen MÜSSEN zumindest an den kritischen Stellen regelmäßig überprüft werden, ob sie noch dicht sind.
 
 ##### INF.2.A2
 __Änderung:__\
 Die Brand- und Rauchabschnitte MÜSSEN über den baurechtlich vorgeschriebenen Rahmen hinaus auch Schutz für die darin befindlichen technischen Einrichtungen und deren Verfügbarkeit bieten.
+
 Es MUSS verhindert werden, dass sich Brand und Rauch ausbreiten.
 
 ##### INF.2.A3
@@ -6896,14 +6957,19 @@ Sie SOLLTE dazu vorzugsweise räumlich getrennt von der Leistungselektronik der 
 
 __Entfallen:__\
 Um sicherzustellen, dass die USV die erforderliche Stützzeit bereitstellt, MUSS regelmäßig sowie zusätzlich, wenn sich bei den Verbrauchern etwas ändert, die tatsächliche Stützzeit ermittelt werden.
+
 Wenn IT-Geräte über eine USV versorgt werden, DÜRFEN diese NICHT über geschirmte Leitungen mit weiteren IT-Geräten verbunden werden.
 
 ##### INF.2.A4
 __Änderung:__\
 Es MUSS geeignete Möglichkeiten geben, elektrische Verbraucher im Rechenzentrum spannungsfrei zu schalten.
+
 Dabei MUSS darauf geachtet werden, ob und wie eine vorhandene USV räumlich und funktional in die Stromversorgung eingebunden ist.
+
 Werden klassische Not-Aus-Schalter eingesetzt, MUSS darauf geachtet werden, dass darüber nicht das komplette Rechenzentrum abgeschaltet wird.
+
 Die Notabschaltung MUSS sinnvoll parzelliert und zielgerichtet erfolgen.
+
 Alle Not-Aus-Schalter MÜSSEN so geschützt sein, dass sie nicht unbeabsichtigt oder unbefugt betätigt werden können.
 
 ##### INF.2.A5
@@ -6939,18 +7005,27 @@ __Keine inhaltlichen Änderungen.__
 
 ##### INF.2.A17 (Aktualisiert: Basis-Anforderung)
 Durch eine gegebenenfalls installierte Brandfrüherkennung MUSS sichergestellt werden, dass Brandrauch frühestmöglich detektiert wird.
+
 Die Meldungen der Brandfrüherkennung MÜSSEN entweder an eine ständig besetzte Stelle geleitet werden, die eine Kontrolle und Schutzreaktion innerhalb weniger Minuten veranlassen kann.
+
 Alternativ MUSS eine automatische Schutzreaktion erfolgen.
+
 Um ein ausgewogenes Verhältnis zwischen Brandschutz und Verfügbarkeit zu erreichen, MUSS sichergestellt werden, dass sich einander Redundanz gebende Einrichtungen nicht gemeinsam im Wirkungsbereich der gleichen Spannungsfreischaltung befinden.
 
 ##### NEU: INF.2.A29
 
 In einem Rechenzentrum DÜRFEN NUR solche Leitungen verlegt werden, die der unmittelbaren Versorgung der im Rechenzentrum aufgebauten Technik (in der Regel IT- und gegebenenfalls Kühltechnik) dienen.
+
 Ist es aus baulichen Gründen unabwendbar, Leitungen durch das Rechenzentrum zu führen, um andere Bereiche als die des Rechenzentrums zu versorgen, MUSS dies einschließlich Begründung dokumentiert werden.
+
 Solche Leitungen MÜSSEN geeignet eingehaust und überwacht werden.
+
 Es SOLLTE beachtet werden, dass durch Serverräume vorgenannte Leitungen geführt werden dürfen, ohne zu begründen, warum dies unabwendbar ist.
+
 Diese MÜSSEN aber genauso behandelt werden, wie für das Rechenzentrum beschrieben.
+
 Meldungen aus der Überwachung der Leitungen MÜSSEN unverzüglich hinsichtlich der Gefährdungsrelevanz geprüft und bewertet werden.
+
 Gegenmaßnahmen MÜSSEN entsprechend der erkannten Gefährdungsrelevanz zeitgerecht umgesetzt werden (siehe auch INF.2.A13 Planung und Installation von Gefahrenmeldeanlagen).
 
 #### Standard-Anforderungen
@@ -6966,15 +7041,21 @@ __Keine inhaltlichen Änderungen.__
 ##### INF.2.A14
 __Ergänzung:__\
 Außerdem SOLLTE regelmäßig kontrolliert werden, ob die Vorräte noch verwendbar sind, vor allem um die sogenannte Dieselpest zu vermeiden.
+
 Nach Möglichkeit SOLLTE statt Diesel-Kraftstoff schwefelarmes Heizöl verwendet werden.
+
 Die Tankvorgänge von Brennstoffen MÜSSEN protokolliert werden.
+
 Aus dem Protokoll MUSS die Art des Brennstoffs, die genutzten Additive, das Tankdatum und die getankte Menge hervorgehen.
+
 Wenn für einen Serverraum auf den Einsatz einer NEA verzichtet wird, SOLLTE alternativ zur NEA eine USV mit einer dem Schutzbedarf angemessenen Autonomiezeit realisiert werden.
 
 ##### INF.2.A15
 __Entfallen:__\
 Blitz- und Überspannungsschutzeinrichtungen SOLLTEN periodisch und nach bekannten Ereignissen geprüft und falls erforderlich ersetzt werden.
+
 Unabhängig von Umfang und Ausbau des Überspannungsschutzes SOLLTE beachtet werden, dass ein umfassender und durchgängiger Potenzialausgleich aller in den Überspannungsschutz einbezogenen elektrischen Betriebsmittel erforderlich ist.
+
 Bei Nachinstallationen SOLLTE darauf geachtet werden, dass der Potenzialausgleich mitgeführt wird.
 
 ##### INF.2.A16
@@ -6992,7 +7073,9 @@ __Keine inhaltlichen Änderungen.__
 
 ##### NEU: INF.2.A30
 INF.2.A30 Anlagen zur Erkennung, Löschung oder Vermeidung von Bränden [Haustechnik, Planer] (S)
+
 Ein Rechenzentrum SOLLTE über die Basis-Anforderung der Brandfrüherkennung mit den dort genannten Schutzreaktionen hinaus (siehe INF.2.A17 Brandfrüherkennung) mit einer automatischen Lösch- oder Brandvermeidungsanlage ausgestattet werden.
+
 Ein Serverraum SOLLTE mit einer Brandfrüherkennungsanlage (siehe INF.2.A17 Brandfrüherkennung) mit den dort genannten Schutzreaktionen ausgestattet werden.
 
 #### Anforderungen bei erhöhtem Schutzbedarf
@@ -7000,6 +7083,7 @@ Ein Serverraum SOLLTE mit einer Brandfrüherkennungsanlage (siehe INF.2.A17 Bran
 ##### INF.2.A21
 __Ergänzung:__\
 Der Schwenk auf das Notfallrechenzentrum SOLLTE regelmäßig getestet und geübt werden.
+
 Die Übertragungswege in das Ausweichrechenzentrum SOLLTEN geeignet abgesichert und entsprechend redundant ausgelegt sein.
 
 ##### INF.2.A22
@@ -7008,6 +7092,7 @@ __Keine inhaltlichen Änderungen.__
 ##### INF.2.A23
 __Entfallen:__\
 Für unterschiedliche Netzarten, z. B. Datennetz, Netz für Gefahrenmeldeanlagen und Stromnetz, SOLLTEN getrennte Kabel benutzt werden.
+
 Werden Kabel für verschiedene Netze gemeinsam geführt, SOLLTE sichergestellt sein, dass gegenseitige Störungen minimiert werden.
 
 __Ergänzung:__\
@@ -7098,8 +7183,11 @@ __Keine inhaltlichen Änderungen.__
 
 ##### NEU: INF.3.A18
 INF.3.A18 EMV-taugliche Stromversorgung (H)\
+
 Für die störungsfreie Funktion moderner IT-Systeme sowie der für deren Betrieb erforderlichen Supportsysteme (von der USV über die NEA bis hin zur Klimatechnik) SOLLTE die Stromversorgung EMV (Elektromagnetische Verträglichkeit) -tauglich sein.
+
 Dafür SOLLTE das Stromverteilungsnetz als TN-S-System (frz. Terre Neutre Séparé) aufgebaut sein.
+
 Bei Aufbau und Betrieb des Stromverteilnetzes SOLLTEN die empfohlenen Trennungsabstände soweit wie möglich eingehalten werden.
 
 </details>
@@ -7173,163 +7261,241 @@ __Keine inhaltlichen Änderungen.__
 
 ##### NEU: INF.5.A1
 INF.5.A1 Planung der Raumabsicherung [Informationssicherheitsbeauftragter (ISB), Planer] (B)\
+
 Für einen Raum für technische Infrastruktur MÜSSEN angemessene technische und organisatorische Vorgaben definiert und umgesetzt werden.
 Dabei MUSS das für den Raum zu erreichende Schutzniveau berücksichtigt werden.
+
 Bei der Planung MÜSSEN sowohl gesetzliche Regelungen und Vorschriften als auch potenzielle Gefährdungen durch Umwelteinflüsse, Einbruch und Sabotage beachtet werden.
 
 ##### NEU: INF.5.A2
 INF.5.A2 Lage und Größe des Raumes für technische Infrastruktur [Planer] (B)\
+
+
 Der Raum für technische Infrastruktur DARF KEIN Durchgangsraum sein.
 Es MUSS sichergestellt sein, dass ausreichend Fläche für Fluchtwege und Arbeitsfläche vorhanden ist.
 
 ##### NEU: INF.5.A3
 INF.5.A3 Zutrittsregelung und -kontrolle [Informationssicherheitsbeauftragter (ISB), Haustechnik, IT-Betrieb] (B)\
+
 Der Raum für technische Infrastruktur MUSS gegen unberechtigten Zutritt geschützt werden.
+
 Es MUSS geregelt werden, welche Personen für welchen Zeitraum, für welche Bereiche und zu welchem Zweck den Raum betreten dürfen.
+
 Dabei MUSS sichergestellt sein, dass keine unnötigen oder zu weitreichenden Zutrittsrechte vergeben werden.
+
 Alle Zutritte zum Raum für technische Infrastruktur SOLLTEN von der Zutrittskontrolle individuell erfasst werden.
 
 ##### NEU: INF.5.A4
 INF.5.A3 Zutrittsregelung und -kontrolle [Informationssicherheitsbeauftragter (ISB), Haustechnik, IT-Betrieb] (B)\
+
 Der Raum für technische Infrastruktur MUSS gegen unberechtigten Zutritt geschützt werden.
+
 Es MUSS geregelt werden, welche Personen für welchen Zeitraum, für welche Bereiche und zu welchem Zweck den Raum betreten dürfen.
+
 Dabei MUSS sichergestellt sein, dass keine unnötigen oder zu weitreichenden Zutrittsrechte vergeben werden.
+
 Alle Zutritte zum Raum für technische Infrastruktur SOLLTEN von der Zutrittskontrolle individuell erfasst werden.
 
 ##### NEU: INF.5.A5
 INF.5.A5 Vermeidung sowie Schutz vor elektromagnetischen Störfeldern [Planer] (B)\
+
 Elektromagnetische Felder MÜSSEN in unmittelbarer Nähe zum Raum für technische Infrastruktur vermieden werden.
+
 Es MUSS ein ausreichender Abstand zu großen Maschinen wie z. B. Aufzugsmotoren eingehalten werden.
 
 ##### NEU: INF.5.A6
 INF.5.A6 Minimierung von Brandlasten [Mitarbeiter, Planer] (B)\
+
 Brandlasten innerhalb und in der direkten Umgebung des Raumes für technische Infrastruktur MÜSSEN auf ein Minimum reduziert werden.
+
 Es MUSS auf brennbare Materialien für raumbildende Teile verzichtet werden.
 
 ##### NEU: INF.5.A7
 INF.5.A7 Verhinderung von Zweckentfremdung [Mitarbeiter, Planer] (B)\
+
 Der Raum für technische Infrastruktur DARF NICHT zweckentfremdet werden.
 
 #### Standard-Anforderungen
 
 ##### NEU: INF.5.A8
 INF.5.A8 Vermeidung von unkontrollierter elektrostatischer Entladung [Planer] (S)\
+
 Im Raum für technische Infrastruktur SOLLTE ein ableitfähiger Fußbodenbelag nach DIN EN 14041 verlegt werden.
 
 ##### NEU: INF.5.A9
 INF.5.A9 Stromversorgung [Haustechnik] (S)
+
 Die Energieverteilung des Gebäudes, in dem sich der Raum für technische Infrastruktur befindet, SOLLTE als TN-S-System ausgeführt sein.
 
 ##### NEU: INF.5.A10
 INF.5.A10 Einhaltung der Lufttemperatur und -feuchtigkeit [Haustechnik] (S)\
+
 Es SOLLTE sichergestellt werden, dass die Lufttemperatur und Luftfeuchtigkeit im Raum für technische Infrastruktur innerhalb der Grenzen liegen, die in den Datenblättern der darin betriebenen Geräte genannt sind.
+
 Dafür SOLLTE eine geeignete raumlufttechnische Anlage eingesetzt werden.
+
 Diese SOLLTE ausreichend dimensioniert sein.
 
 ##### NEU: INF.5.A11
 INF.5.A11 Vermeidung von Leitungen mit gefährdenden Flüssigkeiten und Gasen [Planer, Haustechnik] (S)\
+
 Im Raum für technische Infrastruktur SOLLTE es nur Leitungen geben, die für den Betrieb der Technik im Raum unbedingt erforderlich sind.
+
 Leitungen wie Abwasserleitungen, Frischwasserleitungen, Gas- und Heizungsrohre sowie Leitungen für Treibstoff oder Ferndampf SOLLTEN NICHT durch den Raum geführt werden.
 
 ##### NEU: INF.5.A12
 INF.5.A12 Schutz vor versehentlicher Beschädigung von Zuleitungen [Planer] (S)\
+
 Zuleitungen wie z. B. Schutzrohre oder Kabelkanäle außerhalb des Raumes für technische Infrastruktur SOLLTEN gegen versehentliche Beschädigung geschützt werden.
 
 ##### NEU: INF.5.A13
 INF.5.A13 Schutz vor Schädigung durch Brand und Rauchgase [Planer, Haustechnik] (S)\
+
 Unabhängig von den für den Raum geltenden baurechtlichen Brandschutz-Vorgaben SOLLTEN alle raumbildenden Teile sowie Türen und Fenster gleichwertig rauchdicht sein.
+
 Sie SOLLTEN Feuer und Rauch für mindestens 30 Minuten standhalten.
+
 Brandlasten im Bereich der Leitungstrassen SOLLTEN vermieden werden.
 
 ##### NEU: INF.5.A14
 INF.5.A14 Minimierung von Brandgefahren aus Nachbarbereichen [Planer, Haustechnik] (S)\
+
 Der Raum SOLLTE NICHT in unmittelbarer Nähe zu anderen Räumlichkeiten mit brennbaren Materialien liegen.
 
 ##### NEU: INF.5.A15
 INF.5.A15 Blitz- und Überspannungsschutz [Planer, Haustechnik] (S)\
+
 Es SOLLTE ein Blitz- und Überspannungsschutzkonzept nach dem Prinzip der energetischen Koordination (siehe DIN EN 62305) erstellt und umgesetzt werden.
+
 Der Raum für technische Infrastruktur SOLLTE mindestens der Blitzschutzzone 2 (LPZ 2) zugeordnet werden.
+
 Die Blitz- und Überspannungsschutzeinrichtungen SOLLTEN regelmäßig und anlassbezogen auf ihre Funktion überprüft und, falls erforderlich, ersetzt werden.
 
 ##### NEU: INF.5.A16
 INF.5.A16 Einsatz einer unterbrechungsfreien Stromversorgung [Haustechnik] (S)\
+
 Es SOLLTE geprüft werden, welche Geräte an einer USV angeschlossen werden sollen.
+
 Falls eine USV erforderlich ist, SOLLTE die Stützzeit der USV so ausgelegt sein, dass alle versorgten Komponenten sicher herunterfahren können.
+
 Es SOLLTE berücksichtigt werden, dass die Batterien von USV-Anlagen altern.
+
 Bei relevanten SOLLTE überprüft werden, ob die vorhandenen USV-Anlagen noch ausreichend dimensioniert sind.
+
 Die Batterie der USV SOLLTE im erforderlichen Temperaturbereich gehalten werden.
+
 Die USV SOLLTE regelmäßig gewartet und auf Funktionsfähigkeit getestet werden.
+
 Dafür SOLLTEN die vom Hersteller vorgesehenen Wartungsintervalle eingehalten werden.
 
 ##### NEU: INF.5.A17
 INF.5.A17 Inspektion und Wartung der Infrastruktur [Haustechnik, IT-Betrieb, Wartungspersonal] (S)\
+
 Für alle Komponenten der baulich-technischen Infrastruktur SOLLTEN mindestens die vom Systemhersteller empfohlenen oder durch Normen festgelegten Intervalle und Vorschriften für Inspektion und Wartung eingehalten werden.
+
 Kabel- und Rohrdurchführungen durch brand- und rauchabschnittbegrenzende Wände SOLLTEN daraufhin geprüft werden, ob die Schotte normgerecht und unversehrt sind.
+
 Inspektionen und Wartungsarbeiten MÜSSEN geeignet protokolliert werden.
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 ##### NEU: INF.5.A18
 INF.5.A18 Lage des Raumes für technische Infrastruktur [Planer] (H)\
+
 Der Raum für technische Infrastruktur SOLLTE so im Gebäude angeordnet werden, dass er weder internen noch externen Gefährdungen wie z. B. Regen, Wasser oder Abwasser ausgesetzt ist.
+
 In oberirdischen Geschossen SOLLTE darauf geachtet werden, dass der Raum nicht durch Sonneneinstrahlung erwärmt wird.
+
 Wird der Raum im obersten Geschoss des Gebäudes untergebracht, SOLLTE sichergestellt werden, dass kein Wasser über das Dach eintreten kann.
 
 ##### NEU: INF.5.A19
 INF.5.A19 Redundanz des Raumes für technische Infrastruktur [Planer] (H)\
+
 Der Raum SOLLTE redundant ausgelegt werden.
+
 Beide Räume SOLLTEN eine eigene Elektrounterverteilung zugeordnet bekommen, die direkt von der Niederspannungshauptverteilung (NSHV) versorgt wird.
+
 Beide Räume SOLLTEN unterschiedlichen Brandabschnitten zugeordnet sein und, sofern erforderlich, über jeweils eine eigene raumlufttechnische Anlage verfügen.
 
 ##### NEU: INF.5.A20
 INF.5.A20 Schutz vor Einbruch und Sabotage [Planer] (H)\
+
 Der Raum SOLLTE fensterlos sein.
+
 Sind dennoch Fenster vorhanden, SOLLTEN sie je nach Geschosshöhe gegen Eindringen von außen angemessen gesichert sein.
+
 Gibt es neben Fenstern und Türen weitere betriebsnotwendige Öffnungen, wie z. B. Lüftungskanäle, SOLLTEN diese gleichwertig zur Raumhülle geschützt werden.
+
 Es SOLLTEN Einbruchmeldeanlagen nach VdS Klasse C (gemäß VdS-Richtlinie 2311) eingesetzt werden.
+
 Alle erforderlichen Türen, Fenster und sonstige geschützte Öffnungen SOLLTEN über die Einbruchmeldeanlage auf Verschluss, Verriegelung und Durchbruch überwacht werden.
+
 Vorhandene Fenster SOLLTEN stets geschlossen sein.
+
 Sowohl die Trassen der Datenleitungen als auch die der Energieversorgung SOLLTEN im Gebäude über ihre gesamte Länge bis zum Raum vor unbefugten Zugriffen geschützt werden.
+
 Die Widerstandsklasse von raumbildenden Teilen, Fenstern und Türen SOLLTE dem Sicherheitsbedarf des Raumes angepasst werden.
+
 Die Qualität der Schlösser, Schließzylinder und Schutzbeschläge SOLLTE der Widerstandsklasse der Tür entsprechen.
 
 ##### NEU: INF.5.A21
 INF.5.A21 Redundante Leitungstrassen [Planer, Haustechnik, Wartungspersonal] (H)\
+
 Die Leitungstrassen SOLLTEN redundant bereitgestellt werden.
+
 Bei sehr hohem Schutzbedarf SOLLTE auch eine Wartungsredundanz vorhanden sein.
 
 ##### NEU: INF.5.A22
 INF.5.A22 Redundante Auslegung der Stromversorgung [Planer] (H)\
+
 Die Stromversorgung SOLLTE durchgängig vom Niederspannungshauptverteiler (NSHV) bis zum Verbraucher im Raum für technische Infrastruktur zweizügig sein.
+
 Diese Stromversorgungen SOLLTEN sich in getrennten Brandabschnitten befinden.
+
 Der NSHV SOLLTE funktionsredundant ausgelegt sein.
 
 ##### NEU: INF.5.A23
 INF.5.A23 Netzersatzanlage [Planer, Haustechnik, Wartungspersonal] (H)\
+
 Die Energieversorgung aus dem Netz eines Energieversorgungs-Unternehmens SOLLTE um eine Netzersatzanlage (NEA) ergänzt werden.
+
 Der Betriebsmittelvorrat einer NEA SOLLTE regelmäßig kontrolliert werden.
+
 Die NEA SOLLTE außerdem regelmäßig gewartet werden.
+
 Bei diesen Wartungen SOLLTEN auch Belastungs- und Funktionstests sowie Testläufe unter Last durchgeführt werden.
 
 ##### NEU: INF.5.A24
 INF.5.A24 Lüftung und Kühlung [Planer, Haustechnik, Wartungspersonal] (H)\
+
 Die Lüftungs- und Kühltechnik SOLLTE funktionsredundant ausgelegt werden.
+
 Es SOLLTE sichergestellt werden, dass diese Anlagen regelmäßig gewartet werden.
+
 Bei sehr hohem Schutzbedarf SOLLTE auch eine Wartungsredundanz vorhanden sein.
 
 ##### NEU: INF.5.A25
 INF.5.A25 Erhöhter Schutz vor Schädigung durch Brand und Rauchgase [Planer] (H)\
+
 Raumbildende Teile sowie Türen, Fenster und Lüftungsklappen SOLLTEN Feuer und Rauch für mindestens 90 Minuten standhalten.
+
 Die Zuleitungen SOLLTEN einen Funktionserhalt von mindestens 90 Minuten gewährleisten.
+
 Bei sehr hohem Schutzbedarf SOLLTE die Raumhülle wie ein eigener Brandabschnitt ausgebildet sein.
+
 In vorhandenen Lüftungskanälen SOLLTEN Brandschutzklappen eingebaut werden, die über Rauchmelder angesteuert werden.
+
 Trassen SOLLTEN bis zum Eintritt in den Raum in getrennten Brandabschnitten geführt werden.
+
 Bei sehr hohem Schutzbedarf SOLLTE ein Brandfrühesterkennungssystem und eine automatische Löschanlage vorhanden sein.
+
 Brand- und Rauchmelder SOLLTEN an die Brandmelderzentrale angeschlossen sein.
+
 Das Brandfrühesterkennungssystem und die automatische Löschanlage SOLLTEN an die zweizügige Stromversorgung mit USV und NEA angebunden sein.
 
 ##### NEU: INF.5.A26
 INF.5.A26 Überwachung der Energieversorgung [Planer, Haustechnik] (H)\
+
 Zum Schutz vor Ableitströmen, Strömen auf Schutzleitern, Leitungsschirmen und Oberschwingungen SOLLTE eine entsprechende Überwachungseinrichtung mit Fernanzeige eingebaut und betrieben werden.
 
 </details>
@@ -7489,27 +7655,3 @@ __Keine inhaltlichen Änderungen.__
 
 ##### INF.9.A11
 __Keine inhaltlichen Änderungen.__
-
-
-
-
-
-
-////////////////
-Formatierungshilfen:
-
-__Entfallen:__\
-__Änderung:__\
-(...)  (...)
-__Ergänzung:__\
-(...)  (...)
-__Änderung:__\
-~~~~\
-__zu:__\
-#### Standard-Anforderungen
-(Aktualisiert: Basis-Anforderung)
-__Diese Anforderung ist entfallen.__
-__Keine inhaltlichen Änderungen.__
-
-
-/////////////////
