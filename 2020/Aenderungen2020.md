@@ -106,6 +106,7 @@ __Ersetzt:__\
 
 
 ~~Alle Mitarbeiter MÜSSEN darüber informiert sein, insbesondere wofür sie in welcher Weise verantwortlich sind.~~\
+
 __durch:__\
 ORP.1.A2 Zuweisung der Verantwortung [Institutionsleitung] (B)
 
@@ -125,9 +126,11 @@ Innerhalb einer Institution SOLLTEN alle relevanten Aufgaben und Funktionen defi
 
 ##### ORP.1.A5
 __Entfallen:__\
-~~Es DÜRFEN immer nur so viele Rechte vergeben werden, wie für die Aufgabenwahrnehmung notwendig ist.
-Es MUSS ein geregeltes Verfahren für die Vergabe, die Verwaltung und den Entzug von Berechtigungen geben
-Die Dokumentation der Berechtigungen MUSS aktuell und vollständig sein.~~
+~~Es DÜRFEN immer nur so viele Rechte vergeben werden, wie für die Aufgabenwahrnehmung notwendig ist.~~
+
+~~Es MUSS ein geregeltes Verfahren für die Vergabe, die Verwaltung und den Entzug von Berechtigungen geben.~~
+
+~~Die Dokumentation der Berechtigungen MUSS aktuell und vollständig sein.~~
 
 #### Standard-Anforderungen
 
@@ -136,10 +139,13 @@ __Keine inhaltlichen Änderungen.__
 
 ##### ORP.1.A7
 __Änderung:__\
-~~Dazu gehören neben IT-Systemen und ICS-Komponenten auch solche aus dem Bereich Internet of Things.
-Es SOLLTE geeignete Prüf- und Genehmigungsverfahren vor Einsatz der Geräte geben.~~
+~~Dazu gehören neben IT-Systemen und ICS-Komponenten auch solche aus dem Bereich Internet of Things.~~
+
+~~Es SOLLTE geeignete Prüf- und Genehmigungsverfahren vor Einsatz der Geräte geben.~~
+
 __zu:__\
 Dazu SOLLTEN neben IT-Systemen und ICS-Komponenten auch Geräte aus dem Bereich „Internet der Dinge“ (engl. „Internet of Things “, IoT) berücksichtigt werden.
+
 Vor der ersten Inbetriebnahme der Geräte SOLLTEN geeignete Prüf- und Genehmigungsverfahren vorgeschaltet werden.
 
 ##### ORP.1.A8
