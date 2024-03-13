@@ -1620,7 +1620,7 @@ __Anforderung hinzugefügt__
 <summary> Änderungen
 </summary>
 
-_In diesen Anforderungen wurde der Begriff_ "Institution" _weitestgehend durch_ "Cloud-Kunde" _ersetzt._
+__In diesen Anforderungen wurde der Begriff__ "Institution" __weitestgehend durch__ "Cloud-Kunde" __ersetzt.__
 
 #### Basis-Anforderungen
 
@@ -1722,7 +1722,7 @@ __Keine inhaltlichen Änderungen.__
 __Keine inhaltlichen Änderungen.__
 
 #### OPS.3.1.A7
-__Änderung:__ "Mandantenkonzept" _ersetzt durch_ "Mandantentrennungskonzept"
+__Änderung:__ "Mandantenkonzept" __ersetzt durch__ "Mandantentrennungskonzept"
 
 #### OPS.3.1.A8
 __Keine inhaltlichen Änderungen.__
