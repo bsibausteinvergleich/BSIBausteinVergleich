@@ -2747,11 +2747,11 @@ __Keine inhaltlichen Änderungen.__
 __Entfallen:__\
 Dazu SOLLTE sichergestellt werden,dass:
 
-• nur neutrale Fehlermeldungen ausgegeben werden,
-• keine sicherheitsrelevanten Kommentare oder Produkt- und Versionsangaben preisgegeben werden,
-• nur eingeschränkt auf sicherheitsrelevante Dokumentation zugegriffen werden kann
-• nicht benötigte Dateien regelmäßig gelöscht werden,
-• externe Suchmaschinen die Webanwendung geeignet erfassen sowie
+• nur neutrale Fehlermeldungen ausgegeben werden,\
+• keine sicherheitsrelevanten Kommentare oder Produkt- und Versionsangaben preisgegeben werden,\
+• nur eingeschränkt auf sicherheitsrelevante Dokumentation zugegriffen werden kann\
+• nicht benötigte Dateien regelmäßig gelöscht werden,\
+• externe Suchmaschinen die Webanwendung geeignet erfassen sowie\
 • auf absolute lokale Pfadangaben verzichtet wird.
 
 Die Webanwendung SOLLTE NICHT aus unsicheren Netzen administriert werden.
@@ -3564,11 +3564,11 @@ Sie SOLLTE jeweils eine Groupware-Sicherheitsrichtlinie für Administratoren und
 
 Die Groupware-Sicherheitsrichtlinie für Benutzer SOLLTE vorgeben,
 
-• wie sich die Kommunikation absichern lässt,
-• welche Benutzerzugriffsrechte es gibt,
-• wie Informationen an Kommunikationspartner weitergegeben werden sollen,
-• wie sich übermittelte Informationen absichern lassen,
-• wie mit Datei-Anhängen umgegangen werden soll und
+• wie sich die Kommunikation absichern lässt,\
+• welche Benutzerzugriffsrechte es gibt,\
+• wie Informationen an Kommunikationspartner weitergegeben werden sollen,\
+• wie sich übermittelte Informationen absichern lassen,\
+• wie mit Datei-Anhängen umgegangen werden soll und\
 • wie E-Mails im HTML-Format behandelt werden sollen.
 
 Die Groupware-Sicherheitsrichtlinie für Administratoren SOLLTE die Einstellungsoptionen der Groupware-Systeme beinhalten, außerdem die Vorgaben für mögliche Zugriffe von anderen Servern auf einen Groupware-Server.
@@ -5521,8 +5521,11 @@ __Keine inhaltlichen Änderungen.__
 ##### SYS.4.4.A19
 __Ergänzung:__\
 Der Zugriff auf die Administrationsschnittstellen von IoT-Geräten SOLLTE wie folgt eingeschränkt werden:
+
 • Nicht benötigte Administrationsschnittstellen SOLLTEN deaktiviert werden.
+
 • Netzbasierte Administrationsschnittstellen SOLLTEN auf berechtigte IT-Systeme bzw. Netzsegmente beschränkt werden.
+
 • Es SOLLTEN bevorzugt lokale Administrationsschnittstellen am IoT-Gerät oder Administrationsschnittstellen über lokale Netze verwendet werden.
 
 ##### SYS.4.4.A20
@@ -5566,24 +5569,33 @@ Bevor Daten von Wechseldatenträgern verarbeitet werden, MÜSSEN sie auf Schadso
 
 ##### NEU: SYS.4.5.A4
 SYS.4.5.A4 Erstellung einer Richtlinie zum sicheren Umgang mit Wechseldatenträgern (S)\
+
 Es SOLLTE eine Richtlinie für den richtigen Umgang mit Wechseldatenträgern erstellt werden.
+
 Folgende grundlegenden Aspekte SOLLTEN dabei berücksichtigt werden:
-• welche Wechseldatenträger genutzt werden und wer diese einsetzen darf,
-• welche Daten auf Wechseldatenträgern gespeichert werden dürfen und welche nicht,
-• wie die auf Wechseldatenträgern gespeicherten Daten vor unbefugtem Zugriff, Manipulation und Verlust geschützt werden,
-• wie die Daten auf den Wechseldatenträgern gelöscht werden sollen,
-• ob und wie private Datenträger genutzt werden dürfen,
-• mit welchen externen Mitarbeitern oder Dienstleistern Datenträger ausgetauscht werden dürfen und welche Sicherheitsregelungen dabei zu beachten sind,
-• wie Datenträger zu versenden sind sowie
+
+• welche Wechseldatenträger genutzt werden und wer diese einsetzen darf,\
+• welche Daten auf Wechseldatenträgern gespeichert werden dürfen und welche nicht,\
+• wie die auf Wechseldatenträgern gespeicherten Daten vor unbefugtem Zugriff, Manipulation und Verlust geschützt werden,\
+• wie die Daten auf den Wechseldatenträgern gelöscht werden sollen,\
+• ob und wie private Datenträger genutzt werden dürfen,\
+• mit welchen externen Mitarbeitern oder Dienstleistern Datenträger ausgetauscht werden dürfen und welche Sicherheitsregelungen dabei zu beachten sind,\
+• wie Datenträger zu versenden sind sowie\
 • wie der Verbreitung von Schadsoftware über Wechseldatenträger vorgebeugt wird.
+
 Die Institution SOLLTE in der Sicherheitsrichtlinie festlegen, unter welchen Bedingungen Datenträger gelagert werden sollen.
+
 Insbesondere SOLLTE sie vorgeben, dass nur berechtigte Benutzer Zugang zu beschriebenen Datenträgern haben.
+
 Sie SOLLTE festlegen, dass Herstellerangaben zum Umgang mit Datenträgern berücksichtigt werden sollen.
+
 Es SOLLTE regelmäßig überprüft werden, ob die Sicherheitsvorgaben für den Umgang mit Wechseldatenträgern aktuell sind.
 
 ##### NEU: SYS.4.5.A5
 SYS.4.5.A5 Regelung zur Mitnahme von Wechseldatenträgern (S)\
+
 Es SOLLTE klare schriftliche Regeln dazu geben, ob, wie und zu welchen Anlässen Wechseldatenträger mitgenommen werden dürfen.
+
 Darin SOLLTE festgelegt sein, welche Datenträger von wem außer Haus transportiert werden dürfen und welche Sicherheitsmaßnahmen dabei zu beachten sind.
 
 ##### NEU: SYS.4.5.A6
@@ -6945,7 +6957,7 @@ Gegenmaßnahmen MÜSSEN entsprechend der erkannten Gefährdungsrelevanz zeitgere
 
 ##### INF.2.A12
 __Ergänzung:__\
-• Maßnahmen zur Beweissicherung (bspw. Videoaufzeichnung) sowie
+• Maßnahmen zur Beweissicherung (bspw. Videoaufzeichnung) sowie\
 • automatische Alarmierung.
 
 ##### INF.2.A13
