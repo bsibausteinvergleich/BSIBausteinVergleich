@@ -2822,6 +2822,7 @@ Insbesondere MUSS der IT-Betrieb sicherstellen, dass vertrauliche Dateien nicht 
 ##### APP.3.2.A3
 __Entfallen:__\
 Zudem MÜSSEN Dokumente von Restinformationen bereinigt werden.
+
 Abrufbare Dateien MÜSSEN auf einer separaten Partition der Festplatte gespeichert sein.
 
 ##### APP.3.2.A4
@@ -2839,8 +2840,11 @@ __Keine inhaltlichen Änderungen.__
 
 ##### APP.3.2.A11 (Aktualisiert: Basis-Anforderung)
 Der Webserver MUSS für alle Verbindungen durch nicht vertrauenswürdige Netze eine sichere Verschlüsselung über TLS anbieten (HTTPS).
+
 Falls es aus Kompatibilitätsgründen erforderlich ist, veraltete Verfahren zu verwenden, SOLLTEN diese auf so wenige Fälle wie möglich beschränkt werden.
+
 Wenn eine HTTPS-Verbindung genutzt wird, DÜRFEN alle Inhalte NUR über HTTPS verfügbar sein.
+
 Sogenannter Mixed Content DARF NICHT verwendet werden.
 
 #### Standard-Anforderungen
@@ -2854,15 +2858,21 @@ __Keine inhaltlichen Änderungen.__
 ##### APP.3.2.A10
 __Entfallen:__\
 Bei allen angebotenen Produkten SOLLTE die Basisinstallation sicher gestaltet werden.
+
 Der Dienstleister SOLLTE seine Kunden über die Risiken von zusätzlichen Anwendungen und Erweiterungen (Plug-ins) informieren.
+
 Darüber hinaus SOLLTE er sich dazu verpflichten, regelmäßig auf vorhandene Updates der genutzten Programme hinzuweisen.
 
 ##### APP.3.2.A12
 __Änderung:__\
 Aus den HTTP-Informationen und den angezeigten Fehlermeldungen SOLLTEN weder der Name noch die verwendete Version des Webservers ersichtlich sein.
+
 Fehlermeldungen SOLLTEN keine Details zu Systeminformationen oder Konfigurationen ausgeben.
+
 Der IT-Betrieb SOLLTE sicherstellen, dass der Webserver ausschließlich allgemeine Fehlermeldungen ausgibt, die den Benutzer darauf hinweisen, dass ein Fehler aufgetreten ist.
+
 Die Fehlermeldung SOLLTE ein eindeutiges Merkmal enthalten, das es Administratoren ermöglicht, den Fehler nachzuvollziehen.
+
 Bei unerwarteten Fehlern SOLLTE sichergestellt sein, dass der Webserver nicht in einem Zustand verbleibt, in dem er anfällig für Angriffe ist.
 
 ##### APP.3.2.A13
@@ -2876,9 +2886,13 @@ __Keine inhaltlichen Änderungen.__
 
 ##### NEU: APP.3.2.A20
 APP.3.2.A20 Benennung von Ansprechpartnern [Fachverantwortliche, Leiter IT] (S)\
+
 Bei umfangreichen Webangeboten SOLLTE die Institution einen Ansprechpartner für die Webangebote bestimmen.
+
 Es SOLLTEN Prozesse, Vorgehensweisen und Verantwortliche für Probleme oder Sicherheitsvorfälle benannt werden.
+
 Die Institution SOLLTE eine Kontaktmöglichkeit auf ihrer Webseite veröffentlichen, über die Externe Sicherheitsprobleme an die Institution melden können.
+
 Für die Behandlung von externen Sicherheitsmeldungen SOLLTE die Institution Prozesse definieren.
 
 #### Anforderungen bei erhöhtem Schutzbedarf
@@ -2922,12 +2936,19 @@ __Keine inhaltlichen Änderungen.__
 ##### APP.3.3.A15 (Aktualisiert: Basis-Anforderung)
 
 APP.3.3.A15 Planung von Fileservern (B)\
+
 Bevor eine Institution einen Fileserver einführt, SOLLTE sie entscheiden, wofür die Fileserver genutzt und welche Informationen darauf verarbeitet werden.
+
 Die Institution SOLLTE jede benutzte Funktion eines Fileservers einschließlich deren Sicherheitsaspekte planen.
+
 Arbeitsplatzrechner DÜRFEN NICHT als Fileserver eingesetzt werden.
+
 Der Speicherplatz des Fileservers MUSS ausreichend dimensioniert sein.
+
 Auch ausreichende Speicherreserven SOLLTEN vorgehalten werden.
+
 Es SOLLTE ausschließlich Speicher verwendet werden, der für einen Dauerbetrieb ausgelegt ist.
+
 Die Geschwindigkeit und die Anbindung der Speicher MUSS für den Einsatzzweck angemessen sein.
 
 ##### APP.3.3.A6
@@ -2936,7 +2957,9 @@ __Ergänzung:__\
 
 __Ergänzung:__\
 Anhand dieser Liste SOLLTEN dann die am Markt erhältlichen Produkte und Software bewertet werden.
+
 Die Fileserver-Software SOLLTE geeignet ausgewählt werden.
+
 Der Fileserver-Dienst SOLLTE den Einsatzzweck des Fileservers unterstützen, z. B. Einbindung von Netzlaufwerken in den Clients, Streaming von Multimedia-Inhalten, Übertragung von Boot-Images von festplattenlosen IT-Systemen oder ausschließliche Dateiübertragung über FTP.
 
 ##### APP.3.3.A7
@@ -2945,6 +2968,7 @@ Das Dateisystem SOLLTE den Anforderungen der Institution entsprechen.
 
 __Entfallen:__\
 Es SOLLTE ein Dateisystem ausgewählt werden, das eine festgelegte Overhead-Grenze nicht überschreitet.
+
 Für Hochverfügbarkeitslösungen SOLLTEN verteilte Dateisysteme verwendet werden.
 
 ##### APP.3.3.A8
@@ -2967,8 +2991,11 @@ APP.3.3.A11 Einsatz von Speicherbeschränkungen (S)
 
 ##### APP.3.3.A14 (Aktualisiert: Basis-Anforderung)
 APP.3.3.A14 Einsatz von Error-Correction-Codes (S)\
+
 Der IT-Betrieb SOLLTE ein fehlererkennendes bzw. fehlerkorrigierendes Dateisystem einsetzen.
+
 Hierfür SOLLTE genügend Speicherplatz vorgehalten werden.
+
 Der IT-Betrieb SOLLTE beachten, dass, je nach eingesetztem Verfahren, Fehler nur mit einer gewissen Wahrscheinlichkeit erkannt und auch nur in begrenzter Größenordnung behoben werden können.
 
 #### Anforderungen bei erhöhtem Schutzbedarf
@@ -3004,6 +3031,7 @@ __Entfallen:__\
 ##### APP.3.4.A3
 __Änderung:__\
 Samba SOLLTE so konfiguriert werden, dass nur benötigte Netzports geöffnet werden.
+
 Falls dies nicht möglich ist, SOLLTEN die Ports, über die der Samba-Server nicht erreichbar sein soll, mit einem lokalen Paketfilter geblockt werden.
 
 ##### APP.3.4.A4
@@ -3421,56 +3449,86 @@ __Keine inhaltlichen Änderungen.__
 ##### APP.5.1.A1
 __Änderung:__\
 Der IT-Betrieb MUSS alle für ein Groupware-System benötigten Komponenten entsprechend der geplanten Systemlandschaft sicher installieren und konfigurieren.
+
 Nicht genutzte Komponenten des Groupware-Systems MÜSSEN deaktiviert werden.
 
 ##### APP.5.1.A2
 __Änderung:__\
 Die Institution MUSS eine Konfiguration für die Groupware-Clients vorgeben.
+
 Die Clients MÜSSEN den Benutzern vorkonfiguriert übergeben werden.
+
 Die Konfiguration MUSS Sicherheitsaspekte berücksichtigen.
+
 Die Institution MUSS die Benutzer darauf hinweisen, dass die Konfiguration nicht selbstständig geändert werden darf.
+
 Es MUSS verhindert oder untersagt werden, dass die Benutzer Passwörter im Klartext speichern.
+
 Bevor Dateianhänge ausgeführt werden, MÜSSEN sie von einem Schutzprogramm auf Schadsoftware überprüft werden.
+
 Groupware-Clients MÜSSEN so konfiguriert werden, dass sie eventuell vorhandenen HTML-Code in E-Mails nicht automatisch interpretieren.
+
 Vorschaufunktionen für Datei-Anhänge MÜSSEN so konfiguriert werden, dass sie Dateien nicht automatisch interpretieren.
+
 E-Mail-Filterregeln sowie die unkontrolliert, automatische Weiterleitung von E-Mails MÜSSEN beschränkt werden.
 
 ##### APP.5.1.A3
 __Änderung:__\
 Administratoren MÜSSEN sich regelmäßig über neu bekannt gewordene Schwachstellen der eingesetzten Groupware-Systeme informieren und sie zeitnah beheben.
+
 Der IT-Betrieb MUSS Schutzmechanismen gegen Denial-of-Service-Attacken (DoS) ergreifen.
+
 Die Kommunikation innerhalb des internen Netzes MUSS angemessen geschützt werden.
+
 Für die Kommunikation über öffentliche Datennetze MÜSSEN Groupware-Systeme eine sichere Transportverschlüsselung anbieten.
+
 Versenden Groupware-Syteme von sich aus Daten, SOLLTEN sie dafür ebenfalls eine sichere Transportverschlüsselung nutzen.
+
 Die Institution SOLLTE eine Richtlinie erstellen, in der alle in der jeweiligen Groupware erlaubten Protokolle und Dienste erfasst sind.
+
 Insbesondere MUSS der IT-Betrieb den E-Mailserver so einstellen, dass er nicht als Spam Relay missbraucht werden kann.
+
 Werden Nachrichten auf einem E-Mailserver gespeichert, MUSS der IT-Betrieb eine Größenbeschränkung für das serverseitige Postfach einrichten.
 Diese Größenbeschränkung MUSS geeignet festgelegt werden.
 
 ##### APP.5.1.A4
 __Änderung:__\
 Der IT-Betrieb MUSS die Daten der Groupware-Systeme regelmäßig sichern.
+
 Dafür MUSS die Institution regeln, wie die gesendeten und empfangenen E-Mails der E-Mail-Clients sowie die E-Mails auf den Servern gesichert werden.
+
 Auch SOLLTE die Institution eine dokumentierte Vorgehensweise festlegen, die beschreibt, wie E-Mails zu archivieren sind.
+
 Die Vorgehensweise SOLLTE regeln, wie, wann, wie lange und wo gesendete und empfangene E-Mails archiviert werden.
+
 Der IT-Betrieb SOLLTE planen und testen, wie archivierte E-Mails wieder eingespielt werden können.
 
 ##### APP.5.1.A7 (Aktualisiert: Basis-Anforderung)
 __Änderung:__\
 APP.5.1.A7 Planung des sicheren Einsatzes von Groupware-Systemen (B)
+
 Bevor eine Institution Groupware-Systeme einführt, MUSS sie entscheiden, wofür die Groupware-Systeme genutzt und welche Informationen darauf verarbeitet werden.
+
 Die Institution MUSS jede benutzte Funktion einer Groupware einschließlich deren Sicherheitsaspekte planen.
+
 Sie MUSS festlegen, wie die Groupware-Clients auf die Server zugreifen sollen.
+
 Es SOLLTE darauf geachtet werden, dass die genutzten Groupware-Systeme ausreichend dimensioniert sind.
+
 Die Institution SOLLTE bei der Planung beschreiben, wie Daten ordnungsgemäß übertragen werden.
+
 Darüber hinaus MUSS sie regeln, ob und wie Groupware-Dienste privat genutzt werden dürfen.
+
 Die Institution SOLLTE regeln, wie Mitarbeiter mit Webmail-Anwendungen umgehen sollen.
 
 ##### APP.5.1.A22 (Aktualisiert: Basis-Anforderung)
 __Änderung:__\
 APP.5.1.A22 Spam- und Virenschutz auf dem E-Mailserver (B)
+
 Der IT-Betrieb MUSS auf dem zentralen E-Mailserver einen E-Mail-Scanner mit einem integrierten Virenschutzprogramm installieren, der eingehende und ausgehende E-Mails, insbesondere deren Anhänge, auf Spam-Merkmale und schädliche Inhalte überprüft.
+
 Die Institution MUSS festlegen, wie mit verschlüsselten E-Mails zu verfahren ist, wenn diese nicht durch den Scanner entschlüsselt werden können.
+
 Wenn ein E-Mail-Scanner genutzt wird, MÜSSEN darüber alle Mitarbeiter, der Datenschutzbeauftragte und die Personalvertretung informiert werden.
 
 #### Standard-Anforderungen
@@ -3481,28 +3539,42 @@ __Diese Anforderung ist entfallen.__
 ##### APP.5.1.A6
 __Änderung:__\
 Die Institution SOLLTE Vertretungsregelungen für die Bearbeitung von E-Mails aufstellen und dokumentieren.
+
 Dabei MÜSSEN datenschutzrechtliche Aspekte berücksichtigt werden.
+
 Werden E-Mails weitergeleitet, SOLLTEN die vertretenen Benutzer mindestens darüber informiert werden.
+
 Die Institution SOLLTE für Autoreply-Funktionen in E-Mail-Programmen spezielle Regelungen etablieren.
+
 Die Regelungen SOLLTEN beschreiben, wie diese Funktionen sicher gesteuert werden können.
+
 Wenn Mitarbeiter die Autoreply-Funktionen nutzen, SOLLTEN keine internen Informationen weitergegeben werden.
 
 ##### APP.5.1.A8
 __Änderung:__\
 Die Institution SOLLTE Sicherheitsrichtlinien für Groupware-Systeme und -Anwendungen auf Basis der gemachten Planung erstellen und regelmäßig aktualisieren.
+
 Sie SOLLTE alle Benutzer und Administratoren über neue oder veränderte Sicherheitsvorgaben für Groupware-Systeme informieren.
+
 Die Groupware-Sicherheitsrichtlinien SOLLTEN konform zu den geltenden übergeordneten Sicherheitsrichtlinien der Institution sein.
+
 Die Institution SOLLTE prüfen, ob die Sicherheitsrichtlinien korrekt angewendet werden.
+
 Sie SOLLTE jeweils eine Groupware-Sicherheitsrichtlinie für Administratoren und eine für Benutzer erstellen.
+
 Die Groupware-Sicherheitsrichtlinie für Benutzer SOLLTE vorgeben,
+
 • wie sich die Kommunikation absichern lässt,
 • welche Benutzerzugriffsrechte es gibt,
 • wie Informationen an Kommunikationspartner weitergegeben werden sollen,
 • wie sich übermittelte Informationen absichern lassen,
 • wie mit Datei-Anhängen umgegangen werden soll und
 • wie E-Mails im HTML-Format behandelt werden sollen.
+
 Die Groupware-Sicherheitsrichtlinie für Administratoren SOLLTE die Einstellungsoptionen der Groupware-Systeme beinhalten, außerdem die Vorgaben für mögliche Zugriffe von anderen Servern auf einen Groupware-Server.
+
 Auch Angaben zu berechtigten Zugriffspunkten, von denen aus auf einen Groupware-Server zugegriffen werden darf, SOLLTEN in der Richtlinie enthalten sein.
+
 Die Groupware-Sicherheitsrichtlinien SOLLTEN den Umgang mit Newsgroups und Mailinglisten regeln.
 
 #### APP.5.1.A9 ENTFALLEN
@@ -3517,9 +3589,13 @@ __Diese Anforderung ist entfallen.__
 ##### APP.5.1.A12
 __Änderung:__\
 Die Institution SOLLTE die Benutzer über potenzielles Fehlverhalten im Bezug auf Groupware aufklären.
+
 Dies SOLLTE zusätzlich zur allgemeinen Schulung und Sensibilisierung geschehen.
+
 Sie SOLLTE auch davor warnen, an E-Mail-Kettenbriefen teilzunehmen oder zu viele Mailinglisten zu abonnieren.
+
 Darüber hinaus SOLLTE die Institution die Benutzer auf die Gefahren hinweisen, die beim Öffnen von unerwarteten E-Mail-Anhängen drohen können.
+
 Sie SOLLTE Benutzer auch davor warnen, die HTML-Darstellung bei unerwarteten E-Mails zu aktivieren.
 
 #### APP.5.1.A13 ENTFALLEN
@@ -3545,7 +3621,9 @@ Die Institution SOLLTE mit dem Dienstleister Vereinbarungen zu SLAs treffen.
 ##### APP.5.1.A18
 __Änderung:__\
 Die E-Mail-Server einer Institution SOLLTEN eingehende E-Mails mittels des Sender Policy Framework (SPF) und mit Hilfe von DomainKeys überprüfen.
+
 Die Institution SOLLTE selbst DomainKeys und SPF einsetzen, um von ihr versendete E-Mails zu authentisieren.
+
 Die Institution SOLLTE Domain-based Message Authentication, Reporting and Conformance (DMARC) nutzen, um festzulegen, wie von ihr versendete E-Mails durch den empfangenden E-Mail-Server überprüft werden sollen.
 
 ##### APP.5.1.A19 ENTFALLEN
@@ -3572,7 +3650,9 @@ __Keine inhaltlichen Änderungen.__
 ##### APP.5.2.A1
 __Entfallen:__\
 • Absicherung der Zugangsports der Server-/Client-Komponenten,
+
 • Vertraulichkeit, Integrität und Verfügbarkeit,
+
 • Integration der Server- und Client-Systeme in die hierfür vorgesehenen Netzsegmente.
 
 ##### APP.5.2.A2
@@ -3581,7 +3661,9 @@ __Keine inhaltlichen Änderungen.__
 ##### APP.5.2.A3
 __Änderung:__\
 Zusätzlich zum allgemeinen Berechtigungskonzept MUSS die Institution ein Berichtigungskonzept für die Systeme der Microsoft Exchange-Infrastruktur erstellen, geeignet dokumentieren und anwenden.
+
 Der IT-Betrieb MUSS serverseitige Benutzerprofile für einen rechnerunabhängigen Zugriff der Benutzer auf Microsoft Exchange-Daten verwenden.
+
 Er MUSS die Standard-NTFS-Berechtigungen für das Microsoft Exchange-Verzeichnis so anpassen, dass nur autorisierte Administratoren und Systemkonten auf die Daten in diesem Verzeichnis zugreifen können.
 
 ##### APP.5.2.A4 ENTFALLEN
@@ -3590,6 +3672,7 @@ __Diese Anforderung ist entfallen.__
 ##### APP.5.2.A5
 __Ergänzung:__\
 Dabei MÜSSEN insbesondere die Exchange-Server-Datenbanken gesichert werden.
+
 Gelöschte Exchange-Objekte SOLLTEN erst nach einiger Zeit aus der Datenbank entfernt werden.
 
 ##### APP.5.2.A6 ENTFALLEN
@@ -3598,8 +3681,11 @@ __Diese Anforderung ist entfallen.__
 ##### APP.5.2.A7
 __Änderung:__\
 Der IT-Betrieb SOLLTE alle Migrationsschritte gründlich planen und dokumentieren.
+
 Der IT-Betrieb SOLLTE dabei Postfächer, Objekte, Sicherheitsrichtlinien, Active-Directory-Konzepte sowie die Anbindung an andere E-Mail-Systeme berücksichtigen.
+
 Außerdem SOLLTE er Funktionsunterschiede zwischen verschiedenen Versionen von Microsoft Exchange beachten.
+
 Das neue System SOLLTE, bevor es installiert wird, in einem separaten Testnetz geprüft werden.
 
 ##### APP.5.2.A8 ENTFALLEN
@@ -3609,35 +3695,53 @@ __Diese Anforderung ist entfallen.__
 __Änderung:__\
 Der IT-Betrieb SOLLTE Microsoft Exchange-Server entsprechend der Vorgaben aus der Sicherheitsrichtlinie installieren und konfigurieren.
 Konnektoren SOLLTEN sicher konfiguriert werden.
+
 Der IT-Betrieb SOLLTE die Protokollierung des Microsoft Exchange-Systems aktivieren.
+
 Für vorhandene benutzerspezifische Anpassungen SOLLTE ein entsprechendes Konzept erstellt werden.
+
 Bei der Verwendung von funktionalen Erweiterungen SOLLTE sichergestellt sein, dass die definierten Anforderungen an die Schutzziele Vertraulichkeit, Integrität und Verfügbarkeit weiterhin erfüllt sind.
 
 ##### APP.5.2.A10
 __Änderung:__\
 APP.5.2.A10 Sichere Konfiguration von Outlook (S)\
+
 Der IT-Betrieb SOLLTE für jeden Benutzer ein eigenes Outlook-Profil mit benutzerspezifischen Einstellungen anlegen.
+
 Die Benutzer SOLLTEN nur ausgewählte Einstellungen selbst verändern können.
+
 Dateianhänge SOLLTEN NICHT automatisch aus E-Mails heraus geöffnet werden können.
+
 Vorschaufenster und die Autovorschau SOLLTEN deaktiviert werden.
+
 Der IT-Betrieb SOLLTE Outlook so konfigurieren, dass nur notwendige Informationen an andere Benutzer übermittelt werden.
+
 Der IT-Betrieb SOLLTE die Benutzer darüber informieren, welche Informationen automatisiert an andere Benutzer übermittelt werden.
+
 Lesebestätigungen und Informationen, die auf die interne Struktur der Institution schließen lassen, SOLLTEN NICHT an externe Anwender übermittelt werden.
 
 ##### APP.5.2.A11
 __Änderung:__\
 Der IT-Betrieb SOLLTE nachvollziehbar entscheiden, mit welchen Schutzmechanismen die Kommunikation zwischen Microsoft Exchange-Systemen abgesichert wird.
+
 Insbesondere SOLLTE der IT-Betrieb festlegen, wie die Kommunikation zu folgenden Schnittstellen abgesichert wird:
+
 • Administrationsschnittstellen,
+
 • Client-Server-Kommunikation,
+
 • vorhandene Web-based-Distributed-Authoring-and-Versioning-(WebDAV)-Schnittstellen,
+
 • Server-Server-Kommunikation und
+
 • Public-Key-Infrastruktur, auf der die E-Mail-Verschlüsselung von Microsoft Outlook basiert.
 
 ##### APP.5.2.A12
 __Änderung:__\
 APP.5.2.A12 Einsatz von Outlook Anywhere, MAPI over HTTP und Outlook Web App (S)\
+
 Der IT-Betrieb SOLLTE Outlook Anywhere, MAPI over HTTP und die Outlook Web App entsprechend den Sicherheitsanforderungen der Institution konfigurieren.
+
 Der Zugriff auf Microsoft Exchange über das Internet SOLLTE auf die notwendigen Benutzer beschränkt werden.
 
 ##### APP.5.2.A13 ENTFALLEN
@@ -3646,6 +3750,7 @@ __Diese Anforderung ist entfallen.__
 ##### APP.5.2.A14
 __Änderung:__\
 Zusätzlich zum allgemeinen Schulungs- und Sensibilisierungsprogramm SOLLTE die Institution ein Schulungskonzept erarbeiten, das auf die besonderen Gefahren und Sicherheitsmaßnahmen bei Outlook eingeht.
+
 Die Institution SOLLTE die Benutzer von Outlook regelmäßig entsprechend dem Konzept schulen.
 
 ##### APP.5.2.A15
@@ -3656,12 +3761,19 @@ __Diese Anforderung ist entfallen.__
 
 ##### NEU:APP.5.2.A19
 APP.5.2.A19 Erstellung einer Sicherheitsrichtlinie für Microsoft Exchange (S)\
+
 Die Institution SOLLTE eine Sicherheitsrichtlinie für den Einsatz von Microsoft Exchange erstellen.
+
 Sie SOLLTE die Sicherheitsrichtlinie allen relevanten Mitarbeitern bekannt machen.
+
 Die Sicherheitsrichtlinie SOLLTE mindestens folgende Aspekte regeln:
+
 • Festgelegte Sicherheitseinstellungen,
+
 • Regelungen darüber, welche Einstellungen durch die Benutzer selber geändert werden dürfen,
+
 • Umgang mit Abwesenheitsbenachrichtigungen sowie
+
 • festgelegte Administratoren.
 
 #### Anforderungen bei erhöhtem Schutzbedarf
