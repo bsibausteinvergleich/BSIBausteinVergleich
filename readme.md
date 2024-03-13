@@ -1,4 +1,4 @@
-<img src="[url](https://xaas-it.com/wp-content/uploads/2022/04/cropped-Xaas_Logo-768x281-1.png)" alt="">
+<img src="[url](https://xaas-it.com/wp-content/uploads/2022/04/cropped-Xaas_Logo-768x281-1.png)" /img>
 
 # XAAS GmbH & Co KG.
 
