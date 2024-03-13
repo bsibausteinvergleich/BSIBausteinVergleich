@@ -13,7 +13,7 @@ ___
 #### Basis-Anforderungen
 
 ##### ISMS.1.A1
-Begriff „Leitungsebene“ durch „Institutionsleitung“ ersetzt:\
+__Begriff__ „Leitungsebene“ __durch__ „Institutionsleitung“ __ersetzt:__\
 Die Institutionsleitung MUSS sich regelmäßig über den Status der Informationssicherheit informieren lassen.
 
 ##### ISMS.1.A2
