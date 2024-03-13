@@ -18,7 +18,8 @@ Die Institutionsleitung MUSS sich regelmäßig über den Status der Informations
 
 ##### ISMS.1.A2
 Begriff „Leitungsebene“ durch „Institutionsleitung“ ersetzt:\
-Der Sicherheitsprozess MUSS durch die Institutionsleitung initiiert und etabliert werden.\
+Der Sicherheitsprozess MUSS durch die Institutionsleitung initiiert und etabliert werden.
+
 „Geschäftsprozesse [der Behörde]“ durch „Fachaufgaben“ ergänzt.
 
 ##### ISMS.1.A3
@@ -90,7 +91,9 @@ __zu:__\
 Innerhalb einer Institution SOLLTEN alle relevanten Aufgaben und Funktionen klar definiert und voneinander abgegrenzt sein.
 
 __Änderung:__\
-~~Für Es MUSS auch klar geregelt sein, welche Informationen mit wem ausgetauscht werden dürfen und wie diese dabei zu schützen sind. Die Regelungen MÜSSEN anlassbezogen überarbeitet werden. Die Regelungen MÜSSEN regelmäßig überarbeitet werden.~~\
+~~Für Es MUSS auch klar geregelt sein, welche Informationen mit wem ausgetauscht werden dürfen und wie diese dabei zu schützen sind.--
+
+__Die Regelungen MÜSSEN anlassbezogen überarbeitet werden. Die Regelungen MÜSSEN regelmäßig überarbeitet werden.~~\
 __zu:__\
 Die Regelungen MÜSSEN anlassbezogen überarbeitet werden.
 
