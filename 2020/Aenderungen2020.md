@@ -744,31 +744,46 @@ Es MUSS regelmäßig getestet werden, ob die Datensicherung wie gewünscht funkt
 
 ##### CON.3.A6
 __Änderung:__\
-~~CON.3.A6 Entwicklung eines Datensicherungskonzepts [Leiter IT, Fachverantwortliche]\
-Es SOLLTE ein Datensicherungskonzept erstellt werden.
-Dieses SOLLTE mit allen Verantwortlichen abgestimmt werden.
-Darin SOLLTEN sämtliche zu berücksichtigenden IT-Systeme aufgeführt werden.
-Die Mitarbeiter SOLLTEN über den sie betreffenden Teil des Datensicherungskonzepts unterrichtet werden.~~\
+~~CON.3.A6 Entwicklung eines Datensicherungskonzepts [Leiter IT, Fachverantwortliche]~~
+
+~~Es SOLLTE ein Datensicherungskonzept erstellt werden.~~
+
+~~Dieses SOLLTE mit allen Verantwortlichen abgestimmt werden.~~
+
+~~Darin SOLLTEN sämtliche zu berücksichtigenden IT-Systeme aufgeführt werden.~~
+
+~~Die Mitarbeiter SOLLTEN über den sie betreffenden Teil des Datensicherungskonzepts unterrichtet werden.~~\
+
 __zu:__\
 CON.3.A6 Entwicklung eines Datensicherungskonzepts [Fachverantwortliche, IT-Betrieb] (S)\
+
 Der IT-Betrieb SOLLTE ein Datensicherungskonzept auf Basis des Minimaldatenkonzepts erstellen.
+
 Dieses SOLLTE mindestens die nachfolgenden Punkte umfassen:\
+
 • Definitionen zu wesentlichen Aspekten der Datensicherung (z. B. zu differenzierende Datenarten),\
 • Gefährdungslage,\
 • Einflussfaktoren je IT-Systeme,\
 • Datensicherungsplan je IT-Systeme sowie\
 • relevante Ergebnisse des Notfallmanagements/BCM, insbesondere die Recovery Point Objective (RPO) je IT-System.\
+
 Der IT-Betrieb SOLLTE das Datensicherungskonzept mit den jeweiligen Fachverantwortlichen der betreffenden Anwendungen abstimmen.
+
 Die Mitarbeiter SOLLTEN über den Teil des Datensicherungskonzepts unterrichtet werden, der sie betrifft.
 
 ##### CON.3.A7
 __Änderung:__\
 ~~CON.3.A7 Beschaffung eines geeigneten Datensicherungssystems [Leiter IT, IT-Betrieb]\
+
 Bevor ein Datensicherungssystem beschafft wird, SOLLTE eine Anforderungsliste erstellt werden, nach der die am Markt erhältlichen Produkte bewertet werden.
+
 Die angeschafften Datensicherungssysteme SOLLTEN die Anforderungen des Sicherheits- und des Datensicherungskonzepts erfüllen.~~\
+
 __zu:__\
 CON.3.A7 Beschaffung eines geeigneten Datensicherungssystems [Leiter IT] (S)\
+
 Bevor ein Datensicherungssystem beschafft wird, SOLLTE der Leiter IT eine Anforderungsliste erstellen, nach der die am Markt erhältlichen Produkte bewertet werden.
+
 Die angeschafften Datensicherungssysteme SOLLTEN die Anforderungen des Datensicherungskonzepts und der gesamten Sicherheitskonzeption der Institution erfüllen.
 
 ##### CON.3.A8
@@ -777,6 +792,7 @@ __Anforderung entfallen__
 ##### CON.3.A9
 __Ergänzt:__\
 • (Vereinbarungen zur Dienstgüte (SLA),) insbesondere in Hinsicht auf die Verfügbarkeit,\
+
 __Ergänzt:__\
 • (Verschlüsselung der Daten) auf dem Online-Speicher sowie
 
@@ -786,17 +802,23 @@ __Keine inhaltlichen Änderungen.__
 ##### CON.3.A11
 __Änderung:__\
 ~~Von eingesetzten Softwareprogrammen SOLLTEN Sicherungskopien angefertigt werden,(...)~~\
+
 __zu:__\
 Der IT-Betrieb SOLLTE Sicherungskopien von eingesetzten Softwareprogrammen anfertigen,(...)
 
 ##### CON.3.A12
 __Änderung:__\
-~~Die Backup-Datenträger SOLLTEN vor unbefugtem Zugriff geschützt werden.
-Sie SOLLTEN räumlich von den Quellsystemen getrennt werden.
-Der Aufbewahrungsort SOLLTE so klimatisiert sein, dass die Datenträger längerfristig aufbewahrt werden können.~~\
+~~Die Backup-Datenträger SOLLTEN vor unbefugtem Zugriff geschützt werden.~~
+
+~~Sie SOLLTEN räumlich von den Quellsystemen getrennt werden.~~
+
+~~Der Aufbewahrungsort SOLLTE so klimatisiert sein, dass die Datenträger längerfristig aufbewahrt werden können.~~\
+
 __zu:__\
 Der IT-Betrieb SOLLTE die Backup-Datenträger geeignet aufbewahren, sodass diese vor unbefugtem Zugriff geschützt werden.
+
 Sie SOLLTEN räumlich getrennt von den gesicherten IT-Systemen aufbewahrt werden.
+
 Der Aufbewahrungsort SOLLTE so klimatisiert sein, dass die Datenträger entsprechend der zeitlichen Vorgaben des Datensicherungskonzepts aufbewahrt werden können.
 
 #### Anforderungen bei erhöhtem Schutzbedarf
@@ -804,6 +826,7 @@ Der Aufbewahrungsort SOLLTE so klimatisiert sein, dass die Datenträger entsprec
 ##### CON.3.A13
 __Änderung:__\
 ~~Um die Vertraulichkeit und Integrität der gesicherten Daten zu gewährleisten, SOLLTEN alle Daten verschlüsselt werden.~~\
+
 __zu:__\
 Um die Vertraulichkeit und Integrität der gesicherten Daten zu gewährleisten, SOLLTE der IT-Betrieb alle Datensicherungen verschlüsseln.
 
@@ -842,8 +865,10 @@ __Keine inhaltlichen Änderungen.__
 ##### CON.4.A8
 __Änderung:__\
 ~~Lizenzpflichtige Standardsoftware-Produkte, die auf IT-Systemen der Institution eingesetzt werden, SOLLTEN lizenziert sein.~~\
+
 __zu:__\
 Lizenzpflichtige Standardsoftware-Produkte, die auf IT-Systemen der Institution eingesetzt werden, SOLLTEN korrekt lizenziert sein.
+
 Die Lizenzen SOLLTEN die tatsächliche Nutzeranzahl und den Einsatzzweck abdecken.
 
 ##### CON.4.A9
@@ -874,8 +899,11 @@ _Die Begriffe_ "Anwendung" _bzw._ "Fachanwendung" _wurden durch_ "Individualsoft
 ##### CON.5.A1
 __Änderung:__\
 CON.5.A1 Festlegung benötigter Sicherheitsfunktionen der Individualsoftware [IT-Betrieb] (B)
+
 Der Fachverantwortliche MUSS bereits bei der Anforderungserhebung und -dokumentation die erforderlichen Sicherheitsfunktionen für die Individualsoftware definieren.
+
 Hierzu MÜSSEN die mit der Individualsoftware verarbeiteten Informationen und deren Schutzbedarf sowie die damit verbundenen Geschäftsprozesse betrachtet werden.
+
 Vom IT-Betrieb MÜSSEN die Sicherheitsfunktionen zur Integration in die IT-betriebliche Infrastruktur definiert werden.
 
 ##### CON.5.A2
@@ -884,14 +912,19 @@ __Anforderung entfallen__
 ##### CON.5.A3
 __Änderung:__\
 CON.5.A3 Sichere Installation von Individualsoftware [IT-Betrieb] (B)
+
 Es MUSS eine Installationsanweisung erstellt werden, die alle benötigten Anwendungskomponenten (einschließlich erforderlicher Bibliotheken), die Installationsreihenfolge und die Konfiguration der Anwendungsmodule enthält.
+
 Der IT-Betrieb MUSS die Installationsanweisung auf die IT-betrieblichen Strukturen der Institution anpassen.
+
 Ebenso MUSS der IT-Betrieb die Individualsoftware gemäß der Installationsanweisung installieren.
+
 Bei in der Anwendung und bei funktionalen Updates MUSS die Installationsanweisung aktualisiert werden.
 
 ##### CON.5.A4
 __Änderung:__\
 CON.5.A4 Heranführen von Benutzerinnen und Benutzern an Individualsoftware (B)
+
 Alle Benutzer der Individualsoftware, darunter auch die zuständigen Administratoren, MÜSSEN an die korrekte Nutzung und Administration der Anwendung einschließlich der Sicherheitsfunktionen herangeführt werden.
 
 ##### CON.5.A5
@@ -912,6 +945,7 @@ __Keine inhaltlichen Änderungen.__
 __Änderung:__\
 Der Fachverantwortliche SOLLTE für alle Daten mit dem IT-Betrieb klären, ob diese migriert, archiviert oder gelöscht werden.
 Nicht mehr benötigte Daten SOLLTEN sicher gelöscht werden.
+
 Die Außerbetriebnahme von Individualsoftware sowie der zugehörigen IT-Systeme und Datenträger SOLLTE vom IT-Betrieb nachvollziehbar dokumentiert werden.
 
 ##### CON.5.A10
@@ -928,6 +962,7 @@ __Keine inhaltlichen Änderungen.__
 ##### CON.5.A13
 __Änderung:__\
 CON.5.A13 Entwicklung eines Redundanzkonzeptes für Anwendungen [IT-Betrieb, Notfallbeauftragter] (H)
+
 Es SOLLTE ein Redundanzkonzept vom IT-Betrieb in Abstimmung mit dem Fachverantwortlichen erstellt werden.
 
 __Änderung:__\
@@ -960,7 +995,7 @@ __Keine inhaltlichen Änderungen.__
 __Keine inhaltlichen Änderungen.__
 
 ##### CON.6.A6
-_Entfallen:_ ~~Dabei SOLLTE nach den Anforderungen des Bausteins ORP.3 Sensibilisierung und Schulung vorgegangen werden.~~
+__Entfallen:__ ~~Dabei SOLLTE nach den Anforderungen des Bausteins ORP.3 Sensibilisierung und Schulung vorgegangen werden.~~
 
 ##### CON.6.A7
 __Keine inhaltlichen Änderungen.__
@@ -977,7 +1012,7 @@ __Keine inhaltlichen Änderungen.__
 __Keine inhaltlichen Änderungen.__
 
 ##### CON.6.A11
-_Entfallen:_ ~~Zudem SOLLTEN die in OPS.2.1 Outsourcing für Kunden beschriebenen generellen Anforderungen an Dienstleister und deren Mitarbeiter umgesetzt werden.~~
+__Entfallen:__ ~~Zudem SOLLTEN die in OPS.2.1 Outsourcing für Kunden beschriebenen generellen Anforderungen an Dienstleister und deren Mitarbeiter umgesetzt werden.~~
 
 </details>
 
@@ -989,7 +1024,7 @@ _Entfallen:_ ~~Zudem SOLLTEN die in OPS.2.1 Outsourcing für Kunden beschriebene
 #### Basis-Anforderungen
 
 ##### CON.7.A1
-_Ergänzung:_ Die Umsetzung des Sicherheitskonzeptes MUSS regelmäßig überprüft werden.
+__Ergänzung:__ Die Umsetzung des Sicherheitskonzeptes MUSS regelmäßig überprüft werden.
 
 ##### CON.7.A2
 __Keine inhaltlichen Änderungen.__
@@ -1022,7 +1057,7 @@ __Keine inhaltlichen Änderungen.__
 __Keine inhaltlichen Änderungen.__
 
 ##### CON.7.A12
-_Entfallen:_ Insbesondere im Ausland können Dokumente und andere schutzbedürftige Datenträger nicht immer sicher entsorgt werden.
+__Entfallen:__ Insbesondere im Ausland können Dokumente und andere schutzbedürftige Datenträger nicht immer sicher entsorgt werden.
 
 ##### CON.7.A13
 __Keine inhaltlichen Änderungen.__
@@ -1088,9 +1123,13 @@ __Keine inhaltlichen Änderungen.__
 ##### OPS.1.1.2.A5
 __Änderung:__\
 OPS.1.1.2.A5 Nachweisbarkeit von administrativen Tätigkeiten (B)\
+
 Die Institution MUSS jederzeit nachweisen können, welcher Administrator welche Aktion durchgeführt hat.
+
 Dazu SOLLTE jeder Administrator über eine eigene Benutzerkennung verfügen.
+
 Auch Vertreter von Administratoren SOLLTEN eigene Benutzerkennungen erhalten.
+
 Jeder Anmeldevorgang über eine Administrationskennung (Login) MUSS protokolliert werden.
 
 ##### OPS.1.1.2.A6
@@ -1099,6 +1138,7 @@ Aktionen und Tätigkeiten, für die keine erhöhten Berechtigungen erforderlich 
 
 __Entfallen:__\
 Diese MÜSSEN sicherstellen, dass die Kommunikation nach dem Stand der Technik verschlüsselt ist.
+
 Jeder Anmeldevorgang über eine Administrationskennung (Login) MUSS protokolliert werden, sodass nachvollziehbar ist, wann, auf welchem Weg und unter welcher Nutzerkennung auf das System zugegriffen wurde.
 
 #### Standard-Anforderungen
@@ -1136,7 +1176,9 @@ __Keine inhaltlichen Änderungen.__
 ##### OPS.1.1.2.A16
 __Änderung:__\
 Der Zugang zu administrativen Oberflächen oder Schnittstellen SOLLTE mit Filter- und Separierungsmaßnahmen technisch beschränkt werden.
+
 Oberflächen und Schnittstellen SOLLTEN für Personen außerhalb der zuständigen Administrationsteams nicht erreichbar sein.
+
 Auf IT-Systeme in anderen Schutzzonen SOLLTE ausschließlich über einen Sprungserver in der jeweiligen Sicherheitszone administrativ zugegriffen werden.
 
 ##### OPS.1.1.2.A17
@@ -1292,6 +1334,7 @@ __Keine inhaltlichen Änderungen.__
 ##### OPS.1.1.5.A6
 __Änderung:__\
 Die Protokollierungsinfrastruktur SOLLTE ausreichend dimensioniert sein.
+
 Die Möglichkeit einer Skalierung im Sinne einer erweiterten Protokollierung SOLLTE berücksichtigt werden.
 
 ##### OPS.1.1.5.A7
@@ -1342,6 +1385,7 @@ __Keine inhaltlichen Änderungen.__
 ##### OPS.1.1.6.A5
 __Änderung:__\
 Insbesondere MÜSSEN sicherheitsspezifische Software-Tests durchgeführt werden, wenn die Anwendung sicherheitskritische Funktionen mitbringt.
+
 Die durchgeführten Testfälle, sowie die Testergebnisse, MÜSSEN dokumentiert werden.
 
 #### Standard-Anforderungen
@@ -1437,21 +1481,21 @@ __Ergänzung:__\
 Wenn Archivdaten in neue Formate konvertiert werden, SOLLTE geprüft werden, ob die Daten aufgrund rechtlicher Anforderungen zusätzlich in ihren ursprünglichen Formaten zu archivieren sind.
 
 ##### NEU OPS.1.2.2.A17
-_Anforderung hinzugefügt_
+__Anforderung hinzugefügt__
 
 ##### NEU OPS.1.2.2.A18
-_Anforderung hinzugefügt_
+__Anforderung hinzugefügt__
 
 ##### NEU OPS.1.2.2.A19
-_Anforderung hinzugefügt_
+__Anforderung hinzugefügt__
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 ##### NEU OPS.1.2.2.A20
-_Anforderung hinzugefügt_
+__Anforderung hinzugefügt__
 
 ##### NEU OPS.1.2.2.A21
-_Anforderung hinzugefügt_
+__Anforderung hinzugefügt__
 
 </details>
 
@@ -1565,7 +1609,7 @@ _Diese Anforderung wurde ergänzt._
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 ##### OPS.2.1.A16
-_Diese Anforderung wurde ergänzt._
+__Anforderung hinzugefügt__
 
 </details>
 
