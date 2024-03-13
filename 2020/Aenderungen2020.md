@@ -1656,10 +1656,10 @@ __Keine inhaltlichen Änderungen.__
 __Keine inhaltlichen Änderungen.__
 
 ##### OPS.2.2.A11
-_Ergänzung:_ Für die genutzten Cloud-Dienste SOLLTE durch den Cloud-Kunden ein Notfallkonzept erstellt werden.
+__Ergänzung:__ Für die genutzten Cloud-Dienste SOLLTE durch den Cloud-Kunden ein Notfallkonzept erstellt werden.
 
 ##### OPS.2.2.A12
-_Ergänzung:_ Alle für die eingesetzten Cloud-Dienste erstellten Dokumentationen und Richtlinien SOLLTEN durch den Cloud-Kunden regelmäßig aktualisiert werden.
+__Ergänzung:__ Alle für die eingesetzten Cloud-Dienste erstellten Dokumentationen und Richtlinien SOLLTEN durch den Cloud-Kunden regelmäßig aktualisiert werden.
 
 __Änderung:__ Auch SOLLTEN sich der Cloud-Diensteanbieter und der Cloud-Kunde nach Möglichkeit regelmäßig abstimmen.
 
@@ -1667,7 +1667,7 @@ __Änderung:__ Auch SOLLTEN sich der Cloud-Diensteanbieter und der Cloud-Kunde n
 __Keine inhaltlichen Änderungen.__
 
 ##### OPS.2.2.A14
-_Ergänzung:_ (...) oder die Fachaufgaben des Cloud-Kunden (...)
+__Ergänzung:__ (...) oder die Fachaufgaben des Cloud-Kunden (...)
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
@@ -1856,7 +1856,7 @@ Nach einem Angriff MÜSSEN alle Zugangsdaten auf den betroffenen Komponenten ge�
 __Keine inhaltlichen Änderungen.__
 
 ##### DER.2.1.A8
-_Ergänzung:_ Gegebenenfalls SOLLTE das Sicherheitsvorfall-Team neu zusammengestellt werden.
+__Ergänzung:__ Gegebenenfalls SOLLTE das Sicherheitsvorfall-Team neu zusammengestellt werden.
 
 ##### DER.2.1.A9
 __Keine inhaltlichen Änderungen.__
@@ -1874,7 +1874,7 @@ __Keine inhaltlichen Änderungen.__
 __Keine inhaltlichen Änderungen.__
 
 ##### DER.2.1.A14
-_Ergänzung:_ (...) wie z. B. Ticket-Systeme (...)
+__Ergänzung:__ (...) wie z. B. Ticket-Systeme (...)
 
 ##### DER.2.1.A15
 __Keine inhaltlichen Änderungen.__
@@ -2058,6 +2058,7 @@ __Keine inhaltlichen Änderungen.__
 
 ##### DER.3.1.A11
 __Änderung:__ Das Auditteam SOLLTE klare Regelungen (...)
+
 __Änderung:__ Das Auditteam SOLLTE durch geeignete Maßnahmen (...)
 
 ##### DER.3.1.A12
@@ -2239,7 +2240,7 @@ __Keine inhaltlichen Änderungen.__
 __Keine inhaltlichen Änderungen.__
 
 ##### DER.4.A9
-_Ergänzung:_ (...) und Fachaufgaben (...)
+__Ergänzung:__ (...) und Fachaufgaben (...)
 
 ##### DER.4.A10
 __Keine inhaltlichen Änderungen.__
@@ -2642,8 +2643,11 @@ __Ergänzung:__\
 
 __Entfallen:__\
 Allen Benutzern MÜSSEN restriktive Zugriffsrechte ordnungsgemäß zugewiesen werden.
+
 Wenn Mitarbeiter für eine Webanwendung Zugriffsrechte erhalten oder sich diese verändern, MÜSSEN die Verantwortlichen dies prüfen, bestätigen und nachvollziehbar dokumentieren.
+
 Die Dokumentation der vergebenen Zugriffsrechte MUSS immer auf dem aktuellen Stand sein.
+
 Auch MUSS es ein geregeltes Verfahren geben, um Benutzern Zugriffsrechte wieder zu entziehen.
 
 ##### APP.3.1.A3
@@ -2676,22 +2680,33 @@ __Ergänzung:__\
 
 ##### APP.3.1.A14 (Aktualisiert: Basis-Anforderung)
 Entwickler MÜSSEN sicherstellen, dass die Daten vom Client zum Server nur mit der HTTP-Post-Methode übertragen werden.
+
 Entwickler MÜSSEN sicherstellen, dass die Webanwendung durch Direktiven gewährleistet, dass clientseitig keine schützenswerten Daten zwischengespeichert werden.
+
 Weiterhin MÜSSEN Entwickler sicherstellen, dass in Formularen keine vertraulichen Formulardaten im Klartext angezeigt werden.
+
 Die Webanwendung SOLLTE verhindern, dass vertrauliche Daten vom Webbrowser unerwartet gespeichert werden.
+
 Zugangsdaten der Webanwendung MÜSSEN serverseitig mithilfe von sicheren kryptografischen Algorithmen vor unbefugtem Zugriff geschützt werden (Salted Hash).
+
 Ebenso MÜSSEN die Dateien mit den Quelltexten der Webanwendung vor unerlaubten Abrufen geschützt werden.
 
 ##### APP.3.1.A16 (Aktualisiert: Basis-Anforderung)
 Alle an eine Webanwendung übergebenen Daten MÜSSEN von den Entwicklern als potenziell gefährlich behandelt und geeignet gefiltert werden.
+
 Alle Eingabedaten sowie Datenströme und Sekundärdaten wie z. B. Session-IDs MÜSSEN validiert werden.
+
 Serverseitig SOLLTEN die Daten auf einem vertrauenswürdigen IT-System geprüft werden.
+
 Fehleingaben SOLLTEN möglichst nicht automatisch behandelt werden (Sanitizing).
+
 Lässt es sich jedoch nicht vermeiden, MUSS Sanitizing sicher umgesetzt werden.
+
 Ausgabedaten MÜSSEN so kodiert werden, dass schadhafter Code auf dem Zielsystem nicht interpretiert oder ausgeführt wird.
 
 ##### APP.3.1.A19 (Aktualisiert: Basis-Anforderung)
 Werden Daten an ein Datenbank-System weitergeleitet, MÜSSEN die Entwickler Stored Procedures bzw. Prepared SQL Statements einsetzen, wenn dies von der Einsatzumgebung unterstützt wird.
+
 Wenn weder Stored Procedures noch Prepared SQL Statements eingesetzt werden können, MÜSSEN die SQL-Queries separat abgesichert werden.
 
 #### Standard-Anforderungen
@@ -2705,7 +2720,9 @@ In der Systemarchitektur SOLLTE der IT-Betrieb vorsehen, dass die Serverdienste 
 
 __Entfallen:__\
 Die Netzarchitektur SOLLTE einen mehrschichtigen Ansatz verfolgen (Multi-Tier-Architektur).
+
 Dabei SOLLTEN mindestens die Sicherheitszonen Webschicht, Anwendungsschicht und Datenschicht berücksichtigt werden.
+
 Aus diesen Zonen SOLLTE NICHT auf Systeme im Intranet zugegriffen werden können.
 
 ##### APP.3.1.A9
@@ -2729,13 +2746,16 @@ __Keine inhaltlichen Änderungen.__
 ##### APP.3.1.A13
 __Entfallen:__\
 Dazu SOLLTE sichergestellt werden,dass:
+
 • nur neutrale Fehlermeldungen ausgegeben werden,
 • keine sicherheitsrelevanten Kommentare oder Produkt- und Versionsangaben preisgegeben werden,
 • nur eingeschränkt auf sicherheitsrelevante Dokumentation zugegriffen werden kann
 • nicht benötigte Dateien regelmäßig gelöscht werden,
 • externe Suchmaschinen die Webanwendung geeignet erfassen sowie
 • auf absolute lokale Pfadangaben verzichtet wird.
+
 Die Webanwendung SOLLTE NICHT aus unsicheren Netzen administriert werden.
+
 Administrationszugänge SOLLTEN auf vertrauenswürdige separate Netzsegmente und IT-Systeme beschränkt werden.
 
 ##### APP.3.1.A15
@@ -2751,7 +2771,9 @@ __Diese Anforderung ist entfallen.__
 ##### APP.3.1.A21
 __Änderung:__\
 Zum Schutz vor Clickjacking, Cross-Site-Scripting und anderen Angriffen SOLLTEN die Entwickler sowie der IT-Betrieb geeignete HTTP-Response-Header setzen.
+
 Dazu SOLLTEN mindestens die folgenden Direktiven verwendet werden: Content-Security-Policy, möglicherweise X-FRAME-OPTIONS, Strict-Transport-Security, X-XSS-Protection, Content-Type, X-Content-Type-Options sowie Cache-Control.
+
 Cookies SOLLTEN grundsätzlich mit den Attributen secure und httponly gesetzt werden.
 
 ##### APP.3.1.A22
@@ -2766,6 +2788,7 @@ Die Entwickler einer Webanwendung SOLLTEN diese mit Sicherheitsmechanismen ausst
 ##### APP.3.1.A24
 __Entfallen:__\
 SOAP-Nachrichten SOLLTEN anhand eines entsprechenden XML-Schemas validiert werden.
+
 Bei kritischen Diensten und Anwendungen SOLLTE geprüft werden, ob eine Zusammenarbeit mit DDoS-Mitigation-Dienstleistern sinnvoll ist.
 
 ##### NEU: APP.3.1.A25
@@ -6331,7 +6354,7 @@ __Keine inhaltlichen Änderungen.__
 #### Standard-Anforderungen
 
 ##### NET.3.3.A6
-_Ergänzung:_ (...) beziehungsweise Fachaufgaben,
+__Ergänzung:__ (...) beziehungsweise Fachaufgaben,
 
 ##### NET.3.3.A7
 __Keine inhaltlichen Änderungen.__
