@@ -257,7 +257,7 @@ __Keine inhaltlichen Änderungen.__
 #### Basis-Anforderungen
 
 #### ORP.3.A1
-"Management" _ersetzt durch_ "Institutsleitung"
+"Management" __ersetzt durch__ "Institutsleitung"
 
 #### ORP.3.A2
 __Keine inhaltlichen Änderungen.__
@@ -298,7 +298,7 @@ Für die Planung einer Schulung SOLLTE der Online-Kurs des BSI zum IT-Grundschut
 Es SOLLTE geprüft werden, ob die Informationssicherheitsbeauftragten sich zu einem BSI IT-Grundschutz-Praktiker qualifizieren lassen sollten.
 
 #### ORP.3.A8
-Keine Änderungen
+__Keine inhaltlichen Änderungen.__
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
@@ -316,7 +316,8 @@ Besonders exponierte Personen
 <summary> Änderungen
 </summary>
 
-Die Rolle "Leiter IT" wurde in allen Anforderungen der ORP.4 durch "IT-Betrieb" ersetzt.
+__Die Rolle__ "Leiter IT" __wurde in allen Anforderungen der ORP.4 durch__ "IT-Betrieb" __ersetzt.__
+
 
 #### Basis-Anforderungen
 
