@@ -154,7 +154,7 @@ __Keine inhaltlichen Änderungen.__
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 ##### ORP.1.A14
-"Nachlässigkeiten" _durch_ "Mängel" _ersetzt_.
+"Nachlässigkeiten" __durch__ "Mängel" __ersetzt__.
 
 </details>
 
@@ -190,7 +190,7 @@ Es MUSS sichergestellt werden, dass die Vertretung über das dafür nötige Wiss
 __Keine inhaltlichen Änderungen.__
 
 ##### ORP.2.A5
-"institutionsinternen" _ersetzt_ "organisationsinternen"
+"institutionsinternen" __ersetzt__ "organisationsinternen"
 
 #### Standard-Anforderungen
 
