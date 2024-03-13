@@ -7656,3 +7656,17 @@ __Keine inhaltlichen Änderungen.__
 
 #### INF.9.A11
 __Keine inhaltlichen Änderungen.__
+
+
+---
+
+
+Quellen:
+
+
+[BSI IT Grundschutz Kompendium Edition 2019](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Grundschutz/Kompendium/IT_Grundschutz_Kompendium_Edition2019.pdf)
+
+
+[BSI IT Grundschutz Kompendium Edition 2020](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Grundschutz/Kompendium/IT_Grundschutz_Kompendium_Edition2020.pdf)
+
+
