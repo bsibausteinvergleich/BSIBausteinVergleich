@@ -1599,13 +1599,13 @@ __Keine inhaltlichen Änderungen.__
 __Keine inhaltlichen Änderungen.__
 
 #### NEU OPS.2.1.A13
-_Diese Anforderung wurde ergänzt._
+__Anforderung hinzugefügt__
 
 #### OPS.2.1.A14
-_Diese Anforderung wurde ergänzt._
+__Anforderung hinzugefügt__
 
 #### OPS.2.1.A15
-_Diese Anforderung wurde ergänzt._
+__Anforderung hinzugefügt__
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
