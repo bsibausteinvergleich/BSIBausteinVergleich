@@ -1,4 +1,6 @@
-# Erstellt durch die XAAS GmbH & Co KG.
+<img src="[url](https://xaas-it.com/wp-content/uploads/2022/04/cropped-Xaas_Logo-768x281-1.png)" alt="">
+
+# XAAS GmbH & Co KG.
 
 Gerne nehmen wir Anfragen bei Bedarf der Umsetzung entgegen.
 
