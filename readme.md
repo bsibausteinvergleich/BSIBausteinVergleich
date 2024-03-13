@@ -1,7 +1,6 @@
 
-![cropped-Xaas_Logo-768x281-1](https://github.com/bsibausteinvergleich/BSIBausteinVergleich/assets/157005660/89428530-a3be-43d2-82bb-67d0cc00e95c)
+![cropped-Xaas_Logo-384x114-1](https://github.com/bsibausteinvergleich/BSIBausteinVergleich/assets/157005660/1a3e042c-7c05-446f-a35a-c751f57785ff)
 
-# XAAS GmbH & Co KG.
 
 Gerne nehmen wir Anfragen bei Bedarf der Umsetzung entgegen.
 
