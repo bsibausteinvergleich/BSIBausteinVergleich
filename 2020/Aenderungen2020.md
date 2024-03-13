@@ -1104,7 +1104,7 @@ ___
 __Änderung:__\
 (...) der von ihnen betreuten IT-Systeme, Anwendungen und Plattformen (...)
 
-_Entfallen:_ (...) und über ausreichende Englischkenntnisse zum Verständnis typischer IT-Dokumentationen verfügen.
+__Entfallen:__ (...) und über ausreichende Englischkenntnisse zum Verständnis typischer IT-Dokumentationen verfügen.
 
 __Änderung:__\
 Administrative Rollen MÜSSEN von kontrollierenden Rollen (z. B. Revision) getrennt werden.
@@ -1207,7 +1207,7 @@ __Keine inhaltlichen Änderungen.__
 __Keine inhaltlichen Änderungen.__
 
 #### OPS.1.1.3.A3
-_Entfallen:_ (...) um den Vorgaben aus dem Konzept zum Patchmanagement gerecht zu werden.
+__Entfallen:__ (...) um den Vorgaben aus dem Konzept zum Patchmanagement gerecht zu werden.
 
 #### Standard-Anforderungen
 
@@ -6087,7 +6087,7 @@ __Keine inhaltlichen Änderungen.__
 __Keine inhaltlichen Änderungen.__
 
 #### NET.1.2.A4
-_Entfallen:_ (...) und regelmäßig geändert werden.
+__Entfallen:__ (...) und regelmäßig geändert werden.
 
 #### NET.1.2.A5
 __Keine inhaltlichen Änderungen.__
@@ -6908,7 +6908,7 @@ __Ergänzung:__\
 (...) oder ausschließlich von Besuchern (...)
 
 #### INF.10.A5
-_Entfallen:_ (...) mit einem Kabelschacht(...)
+__Entfallen:__ (...) mit einem Kabelschacht(...)
 
 #### INF.10.A6
 __Keine inhaltlichen Änderungen.__
@@ -7602,7 +7602,7 @@ __Keine inhaltlichen Änderungen.__
 __Keine inhaltlichen Änderungen.__
 
 #### INF.8.A5
-_Entfallen:_ (...) , also nicht einfach in den Hausmüll.
+__Entfallen:__ (...) , also nicht einfach in den Hausmüll.
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
@@ -7637,7 +7637,7 @@ __Keine inhaltlichen Änderungen.__
 __Keine inhaltlichen Änderungen.__
 
 #### INF.9.A6
-_Entfallen:_ (...) , also nicht einfach in den Hausmüll.
+__Entfallen:__ (...) , also nicht einfach in den Hausmüll.
 
 #### INF.9.A7
 __Keine inhaltlichen Änderungen.__
