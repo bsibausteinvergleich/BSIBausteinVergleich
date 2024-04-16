@@ -480,6 +480,8 @@ Diesbezüglich SOLLTE der ISB den Geheimschutzbeauftragten bzw. Sicherheitsbevol
 <summary> Änderungen
 </summary>
 
+#### Basis-Anforderungen
+
 #### ORP.3.A1
 
 Keine inhaltlichen Änderungen.
@@ -498,6 +500,7 @@ __Ehemals:__
 
 Keine inhaltlichen Änderungen.
 
+#### Standard-Anforderungen
 
 #### ORP.3.A4
 
@@ -553,6 +556,7 @@ Die Ergebnisse SOLLTEN bei der Verbesserung des Sensibilisierungs- und Schulungs
 
 Der Informationssicherheitsbeauftragte SOLLTE sich regelmäßig mit der Personalabteilung und den anderen für die Sicherheit relevanten Ansprechpartnern (Datenschutz, Gesundheits- und Arbeitsschutz, Brandschutz etc.) über die Effizienz der Aus- und Weiterbildung austauschen.
 
+#### Anforderungen bei erhöhtem Schutzbedarf
 
 #### ORP.3.A9
 
@@ -566,6 +570,8 @@ Keine inhaltlichen Änderungen.
 <details>
 <summary> Änderungen
 </summary>
+
+#### Basis-Anforderungen
 
 #### ORP.4.A1
 
@@ -629,7 +635,6 @@ Bei Passwort-Managern mit Funktionen oder Plug-ins, mit denen Passwörter über 
 
 Keine inhaltlichen Änderungen.
 
-
 #### ORP.4.A22
 
 Keine inhaltlichen Änderungen.
@@ -641,6 +646,7 @@ __Hinzugefügt:__:
 
 Bei Kennungen für technische Benutzer, Dienstkonten, Schnittstellen oder Vergleichbares SOLLTE ein Passwortwechsel sorgfältig geplant und gegebenenfalls mit den Anwendungsverantwortlichen abgestimmt werden.
 
+#### Standard-Anforderungen
 
 #### ORP.4.A10
 
@@ -698,6 +704,7 @@ Keine inhaltlichen Änderungen.
 
 Keine inhaltlichen Änderungen.
 
+#### Anforderungen bei erhöhtem Schutzbedarf
 
 #### ORP.4.A20
 
