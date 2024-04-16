@@ -11,6 +11,8 @@
 <summary> Änderungen
 </summary>
 
+#### Basis-Anforderungen
+
 #### ISMS.1.A1
 
 __Geändert:__
@@ -79,6 +81,7 @@ __Entfallen:__
 
 *Jeder Mitarbeiter SOLLTE zumindest über die ihn unmittelbar betreffenden Teile des Sicherheitskonzeptes informiert sein.*
 
+#### Standard-Anforderungen
 
 #### ISMS.1.A11
 
@@ -127,6 +130,8 @@ Der ISB SOLLTE seinen Bedarf an die Leitungsebene kommunizieren.
 Die Leitungsebene SOLLTE die erforderlichen Ressourcen bereitstellen.
 
 Der Informationssicherheitsbeauftragte bzw. das Informationssicherheitsmanagement-Team MÜSSEN genügend Zeit für ihre Sicherheitsaufgaben haben.
+
+#### Anforderungen bei erhöhtem Schutzbedarf
 
 
 #### ISMS.1.A16
