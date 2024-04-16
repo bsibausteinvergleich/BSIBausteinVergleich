@@ -1096,28 +1096,9 @@ Keine inhaltlichen Änderungen.
 <summary> Änderungen
 </summary>
 
-#### CON.8.A1 wurde von einer Basis Anforderung zu einer Standard Anforderung.
 
-__Geändert:__
 
-Für den Software-Entwicklungsprozess SOLLTE ein Gesamtzuständiger benannt werden.
-
-Außerdem SOLLTEN die Rollen und Zuständigkeiten für alle Aktivitäten im Rahmen der Software-Entwicklung festgelegt werden.
-
-Die Rollen SOLLTEN dabei fachlich die nachfolgenden Themen abdecken:
-
-• Requirements-Engineering (Anforderungsmanagement) und Änderungsmanagement,
-
-• Software-Entwurf und -Architektur,
-
-• Informationssicherheit in der Software-Entwicklung,
-
-• Software-Implementierung in dem für das Entwicklungsvorhaben relevanten Bereichen, sowie
-
-• Software-Tests.
-
-Für jedes Entwicklungsvorhaben SOLLTE ein Zuständiger für die Informationssicherheit benannt werden.
-
+#### Basis-Anforderungen
 
 #### CON.8.A2
 
@@ -1240,6 +1221,29 @@ Keine inhaltlichen Änderungen.
 
 Die Anforderung ist neu hinzugefügt worden.
 
+#### Standard-Anforderungen
+
+#### CON.8.A1 wurde von einer Basis Anforderung zu einer Standard Anforderung.
+
+__Geändert:__
+
+Für den Software-Entwicklungsprozess SOLLTE ein Gesamtzuständiger benannt werden.
+
+Außerdem SOLLTEN die Rollen und Zuständigkeiten für alle Aktivitäten im Rahmen der Software-Entwicklung festgelegt werden.
+
+Die Rollen SOLLTEN dabei fachlich die nachfolgenden Themen abdecken:
+
+• Requirements-Engineering (Anforderungsmanagement) und Änderungsmanagement,
+
+• Software-Entwurf und -Architektur,
+
+• Informationssicherheit in der Software-Entwicklung,
+
+• Software-Implementierung in dem für das Entwicklungsvorhaben relevanten Bereichen, sowie
+
+• Software-Tests.
+
+Für jedes Entwicklungsvorhaben SOLLTE ein Zuständiger für die Informationssicherheit benannt werden.
 
 #### CON.8.A11
 
@@ -1316,6 +1320,7 @@ Die Anforderung wurde neu hinzugefügt.
 
 Die Anforderung wurde neu hinzugefügt.
 
+#### Anforderungen bei erhöhtem Schutzbedarf
 
 #### CON.8.A17
 
@@ -1339,6 +1344,8 @@ Keine inhaltlichen Änderungen.
 <details>
 <summary> Änderungen
 </summary>
+
+#### Basis-Anforderungen
 
 #### CON.9.A1
 
@@ -1365,17 +1372,15 @@ Falls schutzbedürftige Daten übermittelt werden, MUSS der Informationseigentü
 
 Falls die Informationen schutzbedürftig sind, MUSS der Informationseigentümer den Empfänger außerdem darauf hinweisen, dass dieser die Daten ausschließlich zu dem Zweck nutzen darf, zu dem sie übermittelt wurden.
 
-
-
 #### CON.9.A3
 
 Keine inhaltlichen Änderungen.
 
+#### Standard-Anforderungen
 
 #### CON.9.A4
 
 Keine inhaltlichen Änderungen.
-
 
 #### CON.9.A5
 
@@ -1408,6 +1413,7 @@ Keine inhaltlichen Änderungen.
 
 Keine inhaltlichen Änderungen.
 
+#### Anforderungen bei erhöhtem Schutzbedarf
 
 #### CON.9.A9
 
