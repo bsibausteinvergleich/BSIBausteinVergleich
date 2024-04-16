@@ -1681,6 +1681,8 @@ __Entfallen:__
 <summary> Änderungen
 </summary>
 
+#### Basis-Anforderungen
+
 #### OPS.1.1.4.A1
 
 __Hinzugefügt:__:
@@ -1757,6 +1759,7 @@ Benutzern MÜSSEN entsprechende Ansprechpartner für den Fall eines Verdacht auf
 
 Benutzer MÜSSEN sich an die ihnen benannten Ansprechpartner wenden, wenn der Verdacht auf eine Infektion mit einem Schadprogramm besteht.
 
+#### Basis-Anforderungen
 
 #### OPS.1.1.4.A8 Die Anforderung ist komplett entfallen.
 
@@ -1775,6 +1778,7 @@ __Entfallen:__
 
 *Unabhängig von der automatischen Meldung SOLLTE sich jedoch auch der Benutzer an die ihm benannten Ansprechpartner wenden, wenn der Verdacht auf eine Infektion mit einem Schadprogramm besteht.*
 
+#### Anforderungen bei erhöhtem Schutzbedarf
 
 #### OPS.1.1.4.A10-A14
 
@@ -1801,6 +1805,8 @@ __Ehemals:__
 <details>
 <summary> Änderungen
 </summary>
+
+#### Basis-Anforderungen
 
 #### OPS.1.1.5.A1
 
@@ -1832,6 +1838,7 @@ __Ehemals:__
 
 Keine inhaltlichen Änderungen.
 
+#### Standard-Anforderungen
 
 #### OPS.1.1.5.A6
 
@@ -1895,6 +1902,7 @@ __Hinzugefügt:__:
 
 Es SOLLTE sichergestellt sein, dass die ausführenden Administratoren selbst keine Berechtigung haben, die aufgezeichneten Protokollierungsdaten zu verändern oder zu löschen.
 
+#### Anforderungen bei erhöhtem Schutzbedarf
 
 #### OPS.1.1.5.A11-A13
 
@@ -1908,6 +1916,8 @@ Keine inhaltlichen Änderungen.
 <details>
 <summary> Änderungen
 </summary>
+
+#### Basis-Anforderungen
 
 #### OPS.1.1.6.A1
 
@@ -1959,11 +1969,11 @@ OPS.1.1.6.A5 Durchführung von Software-Tests für nicht funktionale Anforderung
 
 Es MÜSSEN Software-Tests durchgeführt werden, die überprüfen, ob alle wesentlichen nichtfunktionalen Anforderungen erfüllt werden.
 
-
 #### OPS.1.1.6.A11
 
 Die Anforderung wurde von einer Standard-Anforderung zu einer Basis-Anforderung.
 
+#### Standard-Anforderungen
 
 #### OPS.1.1.6.A6
 
@@ -2050,6 +2060,7 @@ Es SOLLTEN Verfahren dokumentiert werden, wie mit der Testumgebung nach Abschlus
 
 Die Anforderung wurde neu hinzugefügt.
 
+#### Anforderungen bei erhöhtem Schutzbedarf
 
 #### OPS.1.1.6.A14
 
