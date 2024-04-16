@@ -305,6 +305,8 @@ __Ehemals:__
 <summary> Änderungen
 </summary>
 
+#### Basis-Anforderungen
+
 #### ORP.2.A1
 
 __Entfallen:__
@@ -367,6 +369,7 @@ Keine inhaltlichen Änderungen.
 
 #### ORP.2.A15 Die Anforderung ist neu hinzugefügt worden
 
+#### Standard-Anforderungen
 
 #### ORP.2.A6 Diese Anforderung ist komplett entfallen.
 
@@ -436,6 +439,7 @@ __Ehemals:__
 
 *Es SOLLTEN auch aus Sicht der Informationssicherheit Maßnahmen ergriffen werden, um für ein positives Betriebsklima zu sorgen.*
 
+#### Anforderungen bei erhöhtem Schutzbedarf
 
 #### ORP.2.A11 Die Anforderung ist komplett entfallen.
 
