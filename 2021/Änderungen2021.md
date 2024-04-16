@@ -870,6 +870,8 @@ Keine inhaltlichen Änderungen
 <summary> Änderungen
 </summary>
 
+#### Basis-Anforderungen
+
 #### CON.3.A1
 
 __Geändert:__
@@ -895,6 +897,8 @@ Der Baustein "Entwicklung und Einsatz von Individualsoftware" ist entfallen. An 
 <details>
 <summary> Änderungen
 </summary>
+
+#### Basis-Anforderungen
 
 #### CON.6.A1
 
@@ -938,7 +942,7 @@ Der Standort von Vernichtungseinrichtungen auf dem Gelände der Institution MUSS
 Dabei MUSS auch berücksichtigt werden, dass Informationen und Betriebsmittel eventuell erst gesammelt und erst später gelöscht oder vernichtet werden.
 
 
-#### CON.6.A11 Die Anforderung wurde von ehöhtem Schutzbedarf zur Basis Anforderung.
+#### CON.6.A11 Die Anforderung wurde von erhöhtem Schutzbedarf zur Basis-Anforderung.
 
 __Geändert:__
 
@@ -948,6 +952,7 @@ Die vom externen Dienstleister eingesetzten Verfahrensweisen zum sicheren Lösch
 
 Die mit der Löschung und Vernichtung beauftragten Unternehmen SOLLTEN regelmäßig daraufhin überprüft werden, ob der Lösch- bzw. Vernichtungsvorgang noch korrekt abläuft.
 
+#### Standard-Anforderungen
 
 #### CON.6.A3 Die Anforderung ist komplett entfallen.
 
@@ -1032,6 +1037,7 @@ __Ehemals:__
 
 *Für das Löschen und Vernichten SOLLTEN Verfahren ausgewählt werden, die dem erhöhten Schutzbedarf der Informationen und Betriebsmittel gerecht werden.*
 
+#### Anforderungen bei erhöhtem Schutzbedarf
 
 #### CON.6.A10 Die Anforderung ist komplett entfallen.
 
@@ -1055,17 +1061,29 @@ DIe Anforderung wurde neu hinzugefügt.
 <summary> Änderungen
 </summary>
 
+#### Basis-Anforderungen
+
 #### CON.7.A1-A10
 
 Keine inhaltlichen Änderungen.
 
-
-#### CON.7.A11 wurde von einer Basis Anforderung zu einer Standard Anforderung.
+#### CON.7.A12
 
 Keine inhaltlichen Änderungen.
 
+#### Standard-Anforderungen
 
-#### CON.7.A12-A18
+#### CON.7.A11 wurde von einer Basis-Anforderung zu einer Standard-Anforderung.
+
+Keine inhaltlichen Änderungen.
+
+#### CON.7.A13-A14
+
+Keine inhaltlichen Änderungen.
+
+#### Anforderungen bei erhöhtem Schutzbedarf
+
+#### CON.7.A15-A18
 
 Keine inhaltlichen Änderungen.
 
