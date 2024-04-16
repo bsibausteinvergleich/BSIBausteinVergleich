@@ -727,6 +727,8 @@ keine inhaltlichen Änderungen
 <summary> Änderungen
 </summary>
 
+#### Basis-Anforderungen
+
 #### ORP.5.A1
 
 __Entfallen:__
@@ -745,7 +747,7 @@ __Hinzugefügt:__:
 Führungskräfte, die eine rechtliche Verantwortung für die Institution tragen, MÜSSEN für die Einhaltung der gesetzlichen, vertraglichen und sonstigen Vorgaben sorgen.
 
 
-#### ORP.5.A3 Die ANforderung ist komplett entfallen.
+#### ORP.5.A3 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -757,6 +759,7 @@ __Ehemals:__
 
 *Den Mitarbeitern MUSS bekannt sein, welcher rechtliche Rahmen ihre Tätigkeit bestimmt.*
 
+#### Standard-Anforderungen
 
 #### ORP.5.A4
 
@@ -764,7 +767,7 @@ __Hinzugefügt:__:
 
 In der Institution SOLLTE ein Prozess aufgebaut werden, um alle relevanten gesetzlichen, vertraglichen und sonstigen Vorgaben mit Auswirkungen auf das Informationssicherheitsmanagement zu identifizieren.
 
-##### Geänder:
+##### Geändert:
 
 Dafür SOLLTEN Zuständige für das Compliance Management festgelegt werden.
 
@@ -808,6 +811,8 @@ Keine inhaltlichen Änderungen.
 <summary> Änderungen
 </summary>
 
+#### Basis-Anforderungen
+
 #### CON.1.A1
 
 Keine inhaltlichen Änderungen
@@ -817,6 +822,7 @@ Keine inhaltlichen Änderungen
 
 Keine inhaltlichen Änderungen
 
+#### Standard-Anforderungen
 
 #### CON.1.A3
 
@@ -839,6 +845,7 @@ Keine inhaltlichen Änderungen
 
 Keine inhaltlichen Änderungen
 
+#### Anforderungen bei erhöhtem Schutzbedarf
 
 #### CON.1.A7
 
@@ -853,12 +860,9 @@ Keine inhaltlichen Änderungen
 
 </details>
 
-
 ### CON.2
 
 Keine inhaltlichen Änderungen
-
-
 
 ### CON.3
 
@@ -878,18 +882,13 @@ Keine inhaltlichen Änderugen.
 
 </details>
 
-
 ### CON.4
 
 Der Baustein "Auswahl und Einsatz von Standardsoftware" ist entfallen. An dessen Stelle wurde der Baustein "APP 6 Allgemeine Software" eingeführt.
 
-
-
 ### CON.5
 
 Der Baustein "Entwicklung und Einsatz von Individualsoftware" ist entfallen. An dessen Stelle wurde der Baustein "CON.8 Software-Entwicklung" eingeführt.
-
-
 
 ### CON.6
 
