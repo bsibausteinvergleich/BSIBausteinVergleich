@@ -1440,6 +1440,8 @@ Der Baustein CON.10 ist neu hinzugefügt worden.
 <summary> Änderungen
 </summary>
 
+#### Basis-Anforderungen
+
 #### OPS.1.1.2.A1 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
@@ -1505,10 +1507,11 @@ Die Administration MUSS über sichere Protokolle erfolgen.
 
 Es SOLLTE überlegt werden, ein eigenes Administrationsnetz einzurichten.
 
-##### Entfallen
+__Entfallen:__
 
 *Werden dafür Passwörter benutzt, MÜSSEN die Passwörter für IT-Systeme in verschiedenen Schutzzonen unterschiedlich sein.*
 
+#### Standard-Anforderungen
 
 #### OPS.1.1.2.A7-A10
 
@@ -1531,10 +1534,11 @@ __Entfallen:__
 
 #### OPS.1.1.2.A20
 
-Die ANforderung ist komplett neu hinzugekommen.
+Die Anforderung ist neu hinzugekommen.
 
+#### Anforderungen bei erhöhtem Schutzbedarf
 
-#### OPS.1.1.2.A14-A18
+#### OPS.1.1.2.A14-A19
 
 Keine inhaltlichen Änderungen.
 
@@ -1546,6 +1550,8 @@ Keine inhaltlichen Änderungen.
 <details>
 <summary> Änderungen
 </summary>
+
+#### Basis-Anforderungen
 
 #### OPS.1.1.3.A1
 
@@ -1584,6 +1590,7 @@ Anforderung wurde neu hinzugefügt.
 
 Anforderung wurde neu hinzugefügt.
 
+#### Standard-Anforderungen
 
 #### OPS.1.1.3.A4 Die Anforderung ist komplett entfallen.
 
@@ -1646,6 +1653,7 @@ Software und Updates SOLLTEN grundsätzlich nur aus vertrauenswürdigen Quellen 
 
 Keine inhaltlichen Änderungen.
 
+#### Anforderungen bei erhöhtem Schutzbedarf
 
 #### OPS.1.1.3.A12
 
@@ -4698,7 +4706,7 @@ Keine inhaltlichen Änderungen.
 
 #### SYS.1.1.A36
 
-Die ANforderung wurde neu hinzugefügt.
+Die Anforderung wurde neu hinzugefügt.
 
 </details>
 
@@ -5777,7 +5785,7 @@ Keine inhaltlichen Änderungen.
 Keine inhaltlichen Änderungen.
 
 
-#### SYS.2.2.3.A7 Die ANforderung ist komplett entfallen.
+#### SYS.2.2.3.A7 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -5794,7 +5802,7 @@ __Ehemals:__
 *Sicherheitsrichtlinien SOLLTEN in jedem Fall gesetzt werden, auch dann, wenn das voreingestellte Standardverhalten dadurch nicht verändert wird.*
 
 
-#### SYS.2.2.3.A8 Die ANforderung ist komplett entfallen.
+#### SYS.2.2.3.A8 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -5810,7 +5818,7 @@ __Ehemals:__
 Keine inhaltlichen Änderungen.
 
 
-#### SYS.2.2.3.A10 Die ANforderung ist komplett entfallen.
+#### SYS.2.2.3.A10 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -9019,7 +9027,7 @@ keine inhaltlichen Änderungen.
 
 #### INF.9.A12
 
-Die ANforderung ist neu hinzugefügt.
+Die Anforderung ist neu hinzugefügt.
 
 </details>
 
