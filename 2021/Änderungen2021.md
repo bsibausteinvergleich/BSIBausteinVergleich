@@ -4320,13 +4320,13 @@ Der Baustein ist komplett neu hinzugefügt wurden.
 
 ## SYS
 
-### SYS 1.1
+### SYS.1.1
 
 <details>
 <summary> Änderungen
 </summary>
 
-#### SYS 1.1.A1
+#### SYS.1.1.A1
 
 __Entfallen:__
 
@@ -4341,7 +4341,7 @@ Server DÜRFEN NICHT als Arbeitsplatzrechner genutzt werden.
 Als Arbeitsplatz genutzte IT-Systeme DÜRFEN NICHT als Server genutzt werden.
 
 
-#### SYS 1.1.A2
+#### SYS.1.1.A2
 
 __Entfallen:__
 
@@ -4350,7 +4350,7 @@ __Entfallen:__
 *Für sichere Passwörter SOLLTE es eine Passwort-Richtlinie geben.*
 
 
-#### SYS 1.1.A3 Die Anforderung ist komplett entfallen.
+#### SYS.1.1.A3 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -4373,7 +4373,7 @@ __Ehemals:__
 *Auch System-Verzeichnisse SOLLTEN nur die notwendigen Privilegien für die Benutzer zur Verfügung stellen.*
 
 
-#### SYS 1.1.A4 Die Anforderung ist komplett entfallen.
+#### SYS.1.1.A4 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -4388,7 +4388,7 @@ __Ehemals:__
 *Über die notwendigen Benutzerkennungen hinaus SOLLTEN keine weiteren Benutzer auf dem Server angelegt werden.*
 
 
-#### SYS 1.1.A5 Die Anforderung wurde komplett geändert.
+#### SYS.1.1.A5 Die Anforderung wurde komplett geändert.
 
 __Geändert:__
 
@@ -4397,7 +4397,7 @@ Es MUSS gewährleistet werden, dass nur dafür vorgesehene Wechselspeicher und s
 Alle Schnittstellen, die nicht verwendet werden, MÜSSEN deaktiviert werden.
 
 
-#### SYS 1.1.A6
+#### SYS.1.1.A6
 
 __Entfallen:__
 
@@ -4408,7 +4408,7 @@ __Entfallen:__
 *Voreingestellte Passwörter von Standard-Kennungen MÜSSEN geändert werden.*
 
 
-#### SYS 1.1.A7 Die Anforderung ist komplett entfallen.
+#### SYS.1.1.A7 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -4423,7 +4423,7 @@ __Ehemals:__
 *Solange keine entsprechenden Patches zur Verfügung stehen, MÜSSEN abhängig davon, wie schwerwiegend die Schwachstellen und Bedrohungen sind, andere, geeignete Maßnahmen zum Schutz des Systems getroffen werden.*
 
 
-#### SYS 1.1.A8 Die Anforderung ist komplett entfallen.
+#### SYS.1.1.A8 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -4438,7 +4438,7 @@ __Ehemals:__
 *In virtuellen Umgebungen SOLLTE geprüft werden, ob das System unter Umständen durch Snapshot-Mechanismen der Virtualisierungsumgebung gesichert werden kann.*
 
 
-#### SYS 1.1.A9
+#### SYS.1.1.A9
 
 __Entfallen:__
 
@@ -4447,7 +4447,7 @@ __Entfallen:__
 *Neben Echtzeit- und On-Demand-Scans MUSS eine eingesetzte Lösung die Möglichkeit bieten, auch komprimierte Daten nach Schadprogrammen zu durchsuchen.*
 
 
-#### SYS 1.1.A10
+#### SYS.1.1.A10
 
 __Entfallen:__
 
@@ -4466,22 +4466,22 @@ __Hinzugefügt:__:
 Generell MÜSSEN alle sicherheitsrelevanten Systemereignisse protokolliert werden, dazu gehören mindestens:
 
 
-#### SYS 1.1.A11
+#### SYS.1.1.A11
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 1.1.A12
+#### SYS.1.1.A12
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 1.1.A13
+#### SYS.1.1.A13
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 1.1.A14 Die Anforderung ist komplett entfallen
+#### SYS.1.1.A14 Die Anforderung ist komplett entfallen
 
 __Ehemals:__
 
@@ -4490,7 +4490,7 @@ __Ehemals:__
 *Es SOLLTE ein Benutzer- und Administrationskonzept erstellt werden, in dem Ablauf, Rahmenbedingungen und Anforderungen an administrative Aufgaben sowie die Aufgabentrennungen zwischen den verschiedenen Rollen der Benutzer des IT-Systems definiert sind.*
 
 
-#### SYS 1.1.A15
+#### SYS.1.1.A15
 
 __Entfallen:__
 
@@ -4507,7 +4507,7 @@ __Entfallen:__
 *Die USV SOLLTE in ein vorhandenes System- und Netzmanagement eingebunden werden.*
 
 
-#### SYS 1.1.A16
+#### SYS.1.1.A16
 
 __Entfallen:__
 
@@ -4520,7 +4520,7 @@ __Entfallen:__
 *Alle Installationsschritte SOLLTEN so dokumentiert werden, dass die Installation durch einen sachkundigen Dritten nachvollzogen und wiederholt werden kann.*
 
 
-#### SYS 1.1.A17 Die Anforderung ist komplett entfallen.
+#### SYS.1.1.A17 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -4533,7 +4533,7 @@ __Ehemals:__
 *Für die Einsatzfreigabe SOLLTEN die Installations- und Konfigurationsdokumentation und die Funktionsfähigkeit des Servers in einem Test geprüft werden. Die Einsatzfreigabe SOLLTE durch eine in der Institution dafür autorisierte Stelle erfolgen.*
 
 
-#### SYS 1.1.A18 Die Anforderung ist komplett entfallen.
+#### SYS.1.1.A18 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -4544,14 +4544,14 @@ __Ehemals:__
 *Ist dies der Fall, SOLLTE die Verschlüsselung aktiviert werden.*
 
 
-#### SYS 1.1.A19
+#### SYS.1.1.A19
 
 __Hinzugefügt:__:
 
 Die Identität von Remote-Systemen und die Integrität der Verbindungen mit diesen SOLLTE kryptografisch abgesichert sein.
 
 
-#### SYS 1.1.A20 Die Anforderung ist komplett entfallen.
+#### SYS.1.1.A20 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -4564,37 +4564,37 @@ __Ehemals:__
 *Server SOLLTEN möglichst nicht im selben IP-Subnetz wie die Clients platziert werden. Server SOLLTEN zumindest durch einen Router von den Clients getrennt sein.*
 
 
-#### SYS 1.1.A21
+#### SYS.1.1.A21
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 1.1.A22
+#### SYS.1.1.A22
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 1.1.A23
+#### SYS.1.1.A23
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 1.1.A24
+#### SYS.1.1.A24
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 1.1.A25
+#### SYS.1.1.A25
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 1.1.A35
+#### SYS.1.1.A35
 
 Die Anforderung wurde komplett neu hinzugefügt.
 
 
-#### SYS 1.1.A25 Die Anforderung ist komplett entfallen.
+#### SYS.1.1.A25 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -4605,12 +4605,12 @@ __Ehemals:__
 *Vordringlich SOLLTEN alle administrativen Zugänge zum Server mit Mehr-Faktor-Authentisierung abgesichert werden.*
 
 
-#### SYS 1.1.A26
+#### SYS.1.1.A26
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 1.1.A27 Die Anforderung ist komplett entfallen.
+#### SYS.1.1.A27 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -4623,17 +4623,17 @@ __Ehemals:__
 *Für Anwendungssysteme SOLLTEN geeignete Testdaten generiert werden, die keine vertraulichen oder personenbezogenen Inhalte der produktiven Daten enthalten.*
 
 
-#### SYS 1.1.A30
+#### SYS.1.1.A30
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 1.1.A31
+#### SYS.1.1.A31
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 1.1.A32 Die Anforderung ist komplett entfallen.
+#### SYS.1.1.A32 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -4644,40 +4644,40 @@ __Ehemals:__
 *Auch administrative Konten SOLLTEN so eingerichtet werden, dass diese nach einer vorher festgelegten Anzahl fehlerhafter Anmeldeversuche gesperrt werden.*
 
 
-#### SYS 1.1.A33
+#### SYS.1.1.A33
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 1.1.A34
+#### SYS.1.1.A34
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 1.1.A36
+#### SYS.1.1.A36
 
 Die ANforderung wurde komplett neu hinzugefügt.
 
 </details>
 
 
-### SYS 1.2.2
+### SYS.1.2.2
 
 <details>
 <summary> Änderungen
 </summary>
 
-#### SYS 1.2.2.A1
+#### SYS.1.2.2.A1
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 1.2.2.A2
+#### SYS.1.2.2.A2
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 1.2.2.A3
+#### SYS.1.2.2.A3
 
 __Entfallen:__
 
@@ -4696,28 +4696,28 @@ Alle Administratoren, die für das Server-System zuständig sind, MÜSSEN in den
 Webbrowser auf dem Server DÜRFEN NICHT zum Surfen im Web verwendet werden.
 
 
-#### SYS 1.2.2.A4
+#### SYS.1.2.2.A4
 
 __Entfallen:__
 
 *Die Einstellungen SOLLTEN sowohl anfangs als auch bei jeder Änderung vor einer erneuten Inbetriebnahme getestet werden.*
 
 
-#### SYS 1.2.2.A5
+#### SYS.1.2.2.A5
 
 __Entfallen:__
 
 *Die Signaturen SOLLTEN regelmäßig aktualisiert werden.*
 
 
-#### SYS 1.2.2.A6
+#### SYS.1.2.2.A6
 
 __Entfallen:__
 
 *Die Administratoren von Windows Server 2012 SOLLTEN auf ihren eigenen Clients mit beschränkten Rechten arbeiten.*
 
 
-#### SYS 1.2.2.A7 Die Anforderung ist komplett entfallen.
+#### SYS.1.2.2.A7 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -4726,7 +4726,7 @@ __Ehemals:__
 *Die Sicherheitskonfiguration von Windows Server 2012 SOLLTE mittels geeigneter Tools regelmäßig überprüft, dokumentiert und verbessert werden.*
 
 
-#### SYS 1.2.2.A8
+#### SYS.1.2.2.A8
 
 __Entfallen:__
 
@@ -4735,7 +4735,7 @@ __Entfallen:__
 *Die Auswirkungen von Änderungen SOLLTEN vorab getestet werden.*
 
 
-#### SYS 1.2.2.A9 Die Anforderung ist komplett entfallen.
+#### SYS.1.2.2.A9 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -4746,7 +4746,7 @@ __Ehemals:__
 *Die Identität von Remote-Systemen und die Integrität der Verbindungen mit diesen SOLLTE kryptografisch abgesichert sein.*
 
 
-#### SYS 1.2.2.A10 Die Anforderung ist komplett entfallen.
+#### SYS.1.2.2.A10 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -4763,17 +4763,17 @@ __Ehemals:__
 *Bei sehr hohen Anforderungen an die Vertraulichkeit oder Abstreitbarkeit SOLLTE eine Full Volume Encryption erfolgen.*
 
 
-#### SYS 1.2.2.A11
+#### SYS.1.2.2.A11
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 1.2.2.A12
+#### SYS.1.2.2.A12
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 1.2.2.A13 Die Anforderung ist komplett entfallen.
+#### SYS.1.2.2.A13 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -4784,20 +4784,20 @@ __Ehemals:__
 *Für kritische Dienste SOLLTE eine Zwei-Faktor-Authentisierung implementiert sein.*
 
 
-#### SYS 1.2.2.A14
+#### SYS.1.2.2.A14
 
 Keine inhaltlichen Änderungen.
 
 </details>
 
 
-### SYS 1.3
+### SYS.1.3
 
 <details>
 <summary> Änderungen
 </summary>
 
-#### SYS 1.3.A1 Die Anforderung ist komplett entfallen.
+#### SYS.1.3.A1 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -4810,24 +4810,24 @@ __Ehemals:__
 *Wenn mit einem Benutzerkonto nur bestimmte Dienste genutzt werden dürfen, DARF das Benutzerkonto NICHT für andere Dienste genutzt werden können.*
 
 
-#### SYS 1.3.A2
+#### SYS.1.3.A2
 
 __Geändert:__
 
 Bei vernetzten Systemen MUSS außerdem darauf geachtet werden, dass die Vergabe von Benutzer- und Gruppennamen, UID und GID im Systemverbund konsistent erfolgt, wenn beim systemübergreifenden Zugriff die Möglichkeit besteht, dass gleiche UIDs bzw. GIDs auf den Systemen unterschiedlichen Benutzer- bzw. Gruppennamen zugeordnet werden könnten.
 
 
-#### SYS 1.3.A3
+#### SYS.1.3.A3
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 1.3.A4
+#### SYS.1.3.A4
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 1.3.A5
+#### SYS.1.3.A5
 
 __Entfallen:__
 
@@ -4836,24 +4836,24 @@ __Entfallen:__
 *Die Integrität und Authentizität der zu installierenden Softwarepakete MUSS immer geprüft werden.*
 
 
-#### SYS 1.3.A6
+#### SYS.1.3.A6
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 1.3.A7
+#### SYS.1.3.A7
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 1.3.A8
+#### SYS.1.3.A8
 
 __Hinzugefügt:__:
 
 Für die Authentifizierung SOLLTEN Benutzer vorrangig Zertifikate anstatt eines Passwortes verwenden.
 
 
-#### SYS 1.3.A9 Die Anforderung ist komplett entfallen.
+#### SYS.1.3.A9 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -4866,12 +4866,12 @@ __Ehemals:__
 *Es SOLLTE geprüft werden, ob hierfür Secure Boot als Teil der UEFI-Spezifikation genutzt werden kann.*
 
 
-#### SYS 1.3.A10
+#### SYS.1.3.A10
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 1.3.A11 Die Anforderung ist komplett entfallen.
+#### SYS.1.3.A11 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -4886,7 +4886,7 @@ __Ehemals:__
 *Die mountbaren Verzeichnisse SOLLTEN nur für bestimmte IT-Systeme sowie Benutzer unter Berücksichtigung der festgelegten Berechtigungsstruktur freigegeben werden.*
 
 
-#### SYS 1.3.A12 Die Anforderung ist komplett entfallen.
+#### SYS.1.3.A12 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -4899,12 +4899,12 @@ __Ehemals:__
 *Der Server-Prozess ypserv SOLLTE nur Anfragen von vorher festgelegten IT-Systemen beantworten.*
 
 
-#### SYS 1.3.A14
+#### SYS.1.3.A14
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 1.3.A15 Die Anforderung ist komplett entfallen.
+#### SYS.1.3.A15 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -4915,20 +4915,20 @@ __Ehemals:__
 *Nicht benötigtes Schlüsselmaterial SOLLTE entfernt werden.*
 
 
-#### SYS 1.3.A17
+#### SYS.1.3.A17
 
 Keine inhaltlichen Änderungen.
 
 </details>
 
 
-### SYS 1.5
+### SYS.1.5
 
 <details>
 <summary> Änderungen
 </summary>
 
-#### SYS 1.5.A1 Die Anforderung ist komplett entfallen.
+#### SYS.1.5.A1 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -4941,12 +4941,12 @@ __Ehemals:__
 *Vorab MUSS auf einem Testsystem überprüft werden, ob die Sicherheitsupdates kompatibel sind und keine Fehler verursachen.*
 
 
-#### SYS 1.5.A2-A5
+#### SYS.1.5.A2-A5
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 1.5.A6
+#### SYS.1.5.A6
 
 __Entfallen:__
 
@@ -4957,36 +4957,36 @@ __Hinzugefügt:__:
 Auch MUSS überwacht werden, ob die virtuellen Netze den jeweiligen virtuellen IT-Systemen korrekt zugeordnet sind.
 
 
-#### SYS 1.5.A7
+#### SYS.1.5.A7
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 1.5.A8
+#### SYS.1.5.A8
 
 __Entfallen:__
 
 *Die Administratoren SOLLTEN ausreichend qualifiziert sein.*
 
 
-#### SYS 1.5.A9
+#### SYS.1.5.A9
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 1.5.A10
+#### SYS.1.5.A10
 
 __Entfallen:__
 
 *Bevor ein virtuelles IT-System betrieben wird, SOLLTE in einer Test- und Entwicklungsumgebung geprüft werden, ob es für den Produktiveinsatz geeignet ist.*
 
 
-#### SYS 1.5.A11-A17
+#### SYS.1.5.A11-A17
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 1.5.A18 Die Anforderung ist komplett entfallen.
+#### SYS.1.5.A18 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -4997,25 +4997,25 @@ __Ehemals:__
 *In der Schulung SOLLTE vermittelt werden, wie virtuelle Infrastrukturen sicher aufgebaut und betrieben werden können.*
 
 
-#### SYS 1.5.A19-A28
+#### SYS.1.5.A19-A28
 
 Keine inhaltlichen Änderungen.
 
 </details>
 
 
-### SYS 1.7
+### SYS.1.7
 
 <details>
 <summary> Änderungen
 </summary>
 
-#### SYS 1.7.A1-A9
+#### SYS.1.7.A1-A9
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 1.7.A10 Die Anforderung ist komplett entfallen.
+#### SYS.1.7.A10 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -5030,12 +5030,12 @@ __Ehemals:__
 *Beim Zugang aus öffentlichen Netzen zu z/OS-Systemen MUSS außerdem verhindert werden, dass alle Kennungen durch Falscheingabe von Passwörtern gesperrt werden (Notfall-User-Verfahren).*
 
 
-#### SYS 1.7.A11
+#### SYS.1.7.A11
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 1.7.A12 Die Anforderung ist komplett entfallen.
+#### SYS.1.7.A12 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -5048,7 +5048,7 @@ __Ehemals:__
 *Auch die Einbindung in die Prozesse der Institution, die Einhaltung der Sicherheitsvorgaben sowie der Einsatz von qualifiziertem Personal SOLLTEN bei der Planung berücksichtigt werden.*
 
 
-#### SYS 1.7.A13 Die Anforderung ist komplett entfallen.
+#### SYS.1.7.A13 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -5061,12 +5061,12 @@ __Ehemals:__
 *Aber auch technische Aspekte wie Notfall-Systeme und Notfall-User, RACF-Datenbanken, Überprüfung/Monitoring und Prüflisten für Sicherheitseinstellungen SOLLTEN berücksichtigt werden.*
 
 
-#### SYS 1.7.A14
+#### SYS.1.7.A14
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 1.7.A15 Die Anforderung ist komplett entfallen.
+#### SYS.1.7.A15 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -5081,25 +5081,25 @@ __Ehemals:__
 *Außerdem SOLLTEN Hinweise auf potenzielle Sicherheitsverstöße untersucht werden.*
 
 
-#### SYS 1.7.A16-A37
+#### SYS.1.7.A16-A37
 
 Keine inhaltlichen Änderungen.
 
 </details>
 
 
-### SYS 1.8
+### SYS.1.8
 
 <details>
 <summary> Änderungen
 </summary>
   
-#### SYS 1.8.A1
+#### SYS.1.8.A1
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 1.8.A2
+#### SYS.1.8.A2
 
 __Entfallen:__
 
@@ -5108,7 +5108,7 @@ __Entfallen:__
 *Auch MÜSSEN Standard-Passwörter im Einklang mit der Passwortrichtlinie geändert bzw. neue Accounts angelegt werden.*
 
 
-#### SYS 1.8.A3 Die Anforderung ist komplett entfallen.
+#### SYS.1.8.A3 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -5121,12 +5121,12 @@ __Ehemals:__
 *Alle Benutzerkonten DÜRFEN NUR über die notwendigen Berechtigungen verfügen (Prinzip der geringsten Berechtigungen, engl. Least Privileges).*
 
 
-#### SYS 1.8.A4
+#### SYS.1.8.A4
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 1.8.A5 Die Anforderung ist komplett entfallen.
+#### SYS.1.8.A5 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -5135,7 +5135,7 @@ __Ehemals:__
 *Die interne Protokollierung der Speichersysteme MUSS so konfiguriert werden, dass Informationen protokolliert werden, die dazu dienen, Probleme früh zu erkennen.*
 
 
-#### SYS 1.8.A6
+#### SYS.1.8.A6
 
 __Geändert:__
 
@@ -5146,36 +5146,36 @@ __Hinzugefügt:__:
 Gegebenenfalls SOLLTE sie aktualisiert werden.
 
 
-#### SYS 1.8.A7
+#### SYS.1.8.A7
 
 __Entfallen:__
 
 *• Auswahl geeigneter Hardware,*
 
 
-#### SYS 1.8.A8
+#### SYS.1.8.A8
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 1.8.A9
+#### SYS.1.8.A9
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 1.8.A10
+#### SYS.1.8.A10
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 1.8.A11
+#### SYS.1.8.A11
 
 __Entfallen:__
 
 *Alle Änderungen SOLLTEN zudem über das Änderungsmanagement aktiviert und mit allen beteiligten Fachverantwortlichen abgestimmt werden.*
 
 
-#### SYS 1.8.A12 Die Anforderung ist komplett entfallen.
+#### SYS.1.8.A12 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -5190,31 +5190,31 @@ __Ehemals:__
 *Setzt eine Institution neue Produkte ein, SOLLTEN die Administratoren speziell dazu nachgeschult werden.*
 
 
-#### SYS 1.8.A13
+#### SYS.1.8.A13
 
 __Entfallen:__
 
 *Sofern eine Speicherlösung durch einen externen Dienstleister betrieben wird, SOLLTE definiert und dokumentiert werden, wie die vertraglich vereinbarten SLAs überwacht werden.*
 
 
-#### SYS 1.8.A14
+#### SYS.1.8.A14
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 1.8.A15
+#### SYS.1.8.A15
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 1.8.A16
+#### SYS.1.8.A16
 
 __Ehemals:__
 
 *Für das Speichersystem SOLLTE festgelegt werden, welche Informationen mit welchen Verfahren zu löschen sind.*
 
 
-#### SYS 1.8.A17
+#### SYS.1.8.A17
 
 __Ehemals:__
 
@@ -5225,20 +5225,20 @@ __Ehemals:__
 *Sie SOLLTE immer aktuell sein.*
 
 
-#### SYS 1.8.A18-A23
+#### SYS.1.8.A18-A23
 
 Keine inhaltlichen Änderungen.
 
 </details>
 
 
-### SYS 2.1
+### SYS.2.1
 
 <details>
 <summary> Änderungen
 </summary>
 
-#### SYS 2.1.A1
+#### SYS.2.1.A1
 
 __Geändert:__
 
@@ -5251,7 +5251,7 @@ Die Bildschirmsperre DARF NUR durch eine erfolgreiche Benutzerauthentisierung de
 Die Benutzer SOLLTEN verpflichtet werden, sich nach Aufgabenerfüllung vom IT-System bzw. von der IT-Anwendung abzumelden.
 
 
-#### SYS 2.1.A2 Die Anforderung ist komplett entfallen.
+#### SYS.2.1.A2 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -5268,12 +5268,12 @@ __Ehemals:__
 *Ablauf, Rahmenbedingungen und Anforderungen an administrative Aufgaben sowie die Aufgabentrennungen zwischen den verschiedenen Rollen der Benutzer des IT-Systems SOLLTEN in einem Benutzer- und Administrationskonzept festgeschrieben werden.*
 
 
-#### SYS 2.1.A3
+#### SYS.2.1.A3
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 2.1.A4 Die Anforderung ist komplett entfallen.
+#### SYS.2.1.A4 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -5294,7 +5294,7 @@ __Ehemals:__
 *Es MUSS regelmäßig getestet werden, ob die Datensicherung wie gewünscht funktioniert, vor allem, ob gesicherte Daten problemlos zurückgespielt werden können.*
 
 
-#### SYS 2.1.A5 Die Anforderung ist komplett entfallen.
+#### SYS.2.1.A5 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -5307,7 +5307,7 @@ __Ehemals:__
 *Es MUSS sichergestellt sein, dass die Bildschirmsperre erst nach einer erfolgreichen Benutzerauthentisierung deaktiviert werden kann.*
 
 
-#### SYS 2.1.A6
+#### SYS.2.1.A6
 
 __Geändert:__
 
@@ -5324,7 +5324,7 @@ Der gesamte Datenbestand eines Clients MUSS regelmäßig auf Schadsoftware gepr�
 Wenn ein Client infiziert ist, MUSS im Offlinebetrieb untersucht werden, ob ein gefundenes Schadprogramm bereits vertrauliche Daten gesammelt, Schutzfunktionen deaktiviert oder Code aus dem Internet nachgeladen hat.
 
 
-#### SYS 2.1.A7 Die Anforderung ist komplett entfallen.
+#### SYS.2.1.A7 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -5337,34 +5337,34 @@ __Ehemals:__
 *Es SOLLTE geprüft werden, ob die Speicherung der Protokolldaten auf den jeweiligen Clients selbst ausreichend ist oder ob eine zentrale Speicherung erfolgen soll.*
 
 
-#### SYS 2.1.A8
+#### SYS.2.1.A8
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 2.1.A42
+#### SYS.2.1.A42
 
 Die Anforderung wurde komplett neu hinzugefügt.
 
 
-#### SYS 2.1.A9
+#### SYS.2.1.A9
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 2.1.A10
+#### SYS.2.1.A10
 
 __Entfallen:__
 
 *Neben Client-Typ-spezifischen Anforderungsprofilen SOLLTEN Vorgaben zur Authentisierung und Benutzerverwaltung definiert werden.*
 
 
-#### SYS 2.1.A11
+#### SYS.2.1.A11
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 2.1.A12 Die Anforderung ist komplett entfallen.
+#### SYS.2.1.A12 Die Anforderung ist komplett entfallen.
 
 
 __Ehemals:__
@@ -5380,12 +5380,12 @@ __Ehemals:__
 *Vor einer beabsichtigten Hardwareänderung oder bei einer Betriebssystemmigration SOLLTE die Kompatibilität der Treibersoftware für alle betroffenen Komponenten gewährleistet werden.*
 
 
-#### SYS 2.1.A13
+#### SYS.2.1.A13
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 2.1.A14
+#### SYS.2.1.A14
 
 __Entfallen:__
 
@@ -5408,17 +5408,17 @@ Es SOLLTEN NUR Anwendungsprogramme ausgewählt und installiert werden, für die 
 Betriebssysteme, Anwendungsprogramme und Firmware, für die keine regelmäßigen Sicherheitsupdates angeboten werden, DÜRFEN NICHT eingesetzt werden.
 
 
-#### SYS 2.1.A15
+#### SYS.2.1.A15
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 2.1.A16
+#### SYS.2.1.A16
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 2.1.A17 Die Anforderung ist komplett entfallen.
+#### SYS.2.1.A17 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -5433,7 +5433,7 @@ __Ehemals:__
 *Die Einsatzfreigabe SOLLTE durch eine in der Institution dafür autorisierte Stelle erfolgen.*
 
 
-#### SYS 2.1.A18
+#### SYS.2.1.A18
 
 __Entfallen:__
 
@@ -5452,7 +5452,7 @@ __Hinzugefügt:__:
 Neue Zertifikate von Zertifikatsausstellern SOLLTEN erst nach Überprüfung des Fingerprints aktiviert werden.
 
 
-#### SYS 2.1.A19 Die Anforderung ist komplett entfallen.
+#### SYS.2.1.A19 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -5471,7 +5471,7 @@ __Ehemals:__
 *Auch System-Verzeichnisse SOLLTEN nur die notwendigen Privilegien für die Benutzer zur Verfügung stellen.*
 
 
-#### SYS 2.1.A20
+#### SYS.2.1.A20
 
 __Entfallen:__
 
@@ -5480,12 +5480,12 @@ __Entfallen:__
 *Die Administration über das Netz SOLLTE über sichere Protokolle erfolgen.*
 
 
-#### SYS 2.1.A21
+#### SYS.2.1.A21
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 2.1.A22 Die Anforderung ist komplett entfallen.
+#### SYS.2.1.A22 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -5496,12 +5496,12 @@ __Ehemals:__
 *Ist für einen Benutzer absehbar, dass er seine Arbeit nur kurz unterbrechen muss, SOLLTE er die Bildschirmsperre aktivieren, statt sich abzumelden (siehe auch SYS.2.1.A5 Verwendung einer Bildschirmsperre).*
 
 
-#### SYS 2.1.A23
+#### SYS.2.1.A23
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 2.1.A24
+#### SYS.2.1.A24
 
 __Entfallen:__
 
@@ -5518,7 +5518,7 @@ Die unerlaubte Ausführung von Programmen auf bzw. von externen Datenträgern SO
 Es SOLLTE verhindert werden, dass über Wechsellaufwerke oder externe Schnittstellen unberechtigt Daten von den Clients kopiert werden können.
 
 
-#### SYS 2.1.A25 Die Anforderung ist komplett entfallen.
+#### SYS.2.1.A25 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -5545,34 +5545,34 @@ __Ehemals:__
 *Nach größeren Änderungen an der Richtlinie oder nach spätestens zwei Jahren SOLLTEN Benutzer die Richtlinie erneut bestätigen.*
 
 
-#### SYS 2.1.A26
+#### SYS.2.1.A26
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 2.1.A27
+#### SYS.2.1.A27
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 2.1.A43
+#### SYS.2.1.A43
 
 Din Anforderung wurde komplett neu hinzugefügt.
 
 
-#### SYS 2.1.A44
+#### SYS.2.1.A44
 
 Din Anforderung wurde komplett neu hinzugefügt.
 
 
-#### SYS 2.1.A28
+#### SYS.2.1.A28
 
 __Entfallen:__
 
 *Auch verschlüsselte Dateien, Partitionen oder Datenträger SOLLTEN regelmäßig gesichert werden, ohne den Nutzen der Verschlüsselung zu untergraben.*
 
 
-#### SYS 2.1.A30
+#### SYS.2.1.A30
 
 __Entfallen:__
 
@@ -5583,22 +5583,22 @@ __Hinzugefügt:__:
 Die Testfälle SOLLTEN sowohl die Anwendersicht als auch die Betriebsperspektive berücksichtigen.
 
 
-#### SYS 2.1.A31
+#### SYS.2.1.A31
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 2.1.A32
+#### SYS.2.1.A32
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 2.1.A33
+#### SYS.2.1.A33
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 2.1.A34
+#### SYS.2.1.A34
 
 __Geändert:__
 
@@ -5607,12 +5607,12 @@ Um sowohl den Zugriff eines Angreifers auf das Betriebssystem oder andere Anwend
 Dabei SOLLTEN insbesondere sicherheitskritische Anwendungen berücksichtigt werden, die mit Daten aus unsicheren Quellen arbeiten (z.B. Webbrowser und Bürokommunikations-Anwendungen).
 
 
-#### SYS 2.1.A35-A38
+#### SYS.2.1.A35-A38
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 2.1.A39
+#### SYS.2.1.A39
 
 __Entfallen:__
 
@@ -5629,61 +5629,61 @@ __Hinzugefügt:__:
 Clients SOLLTEN vor Überspannung geschützt werden.
 
 
-#### SYS 2.1.A40
+#### SYS.2.1.A40
 
 __Hinzugefügt:__:
 
 Sicherheitsrelevante Aspekte SOLLTEN nachvollziehbar erläutert und hervorgehoben werden.
 
 
-#### SYS 2.1.A41
+#### SYS.2.1.A41
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 2.1.A45
+#### SYS.2.1.A45
 
 Die Anforderung wurde komplett neu hinzugefügt.
 
 </details>
 
 
-### SYS 2.2.2
+### SYS.2.2.2
 
 <details>
 <summary> Änderungen
 </summary>
 
-#### SYS 2.2.2.A1
+#### SYS.2.2.2.A1
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 2.2.2.A2
+#### SYS.2.2.2.A2
 
 __Entfallen:__
 
 *Die festgelegte Vorgehensweise MUSS entsprechend auf allen Clients eingestellt werden.*
 
 
-#### SYS 2.2.2.A3
+#### SYS.2.2.2.A3
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 2.2.2.A4
+#### SYS.2.2.2.A4
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 2.2.2.A5
+#### SYS.2.2.2.A5
 
 __Entfallen:__
 
 *Alle nicht benötigten Anwendungen und Komponenten SOLLTEN deaktiviert werden.*
 
 
-#### SYS 2.2.2.A6 Die Anforderung ist komplett entfallen.
+#### SYS.2.2.2.A6 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -5696,25 +5696,25 @@ __Ehemals:__
 *Insbesondere bei Clients, die von älteren Betriebssystemversionen aktualisiert wurden, SOLLTEN die Berechtigungen der Dateien und Verzeichnisse geprüft werden.*
 
 
-#### SYS 2.2.2.A7-A21
+#### SYS.2.2.2.A7-A21
 
 Keine inhaltlichen Änderungen.
 
 
 
-### SYS 2.2.3
+### SYS.2.2.3
 
-#### SYS 2.2.3.A1
-
-Keine inhaltlichen Änderungen.
-
-
-#### SYS 2.2.3.A2
+#### SYS.2.2.3.A1
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 2.2.3.A4
+#### SYS.2.2.3.A2
+
+Keine inhaltlichen Änderungen.
+
+
+#### SYS.2.2.3.A4
 
 __Geändert:__
 
@@ -5725,17 +5725,17 @@ Diese können nur mit der Einstellung des Telemetrielevels 0 (Security) stark re
 Wenn diese Einstellung nicht wirksam umgesetzt wird, dann MUSS durch geeignete Maßnahmen, etwa auf Netzebene, sichergestellt werden, dass diese Daten nicht an den Hersteller übertragen werden.
 
 
-#### SYS 2.2.3.A5
+#### SYS.2.2.3.A5
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 2.2.3.A6
+#### SYS.2.2.3.A6
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 2.2.3.A7 Die ANforderung ist komplett entfallen.
+#### SYS.2.2.3.A7 Die ANforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -5752,7 +5752,7 @@ __Ehemals:__
 *Sicherheitsrichtlinien SOLLTEN in jedem Fall gesetzt werden, auch dann, wenn das voreingestellte Standardverhalten dadurch nicht verändert wird.*
 
 
-#### SYS 2.2.3.A8 Die ANforderung ist komplett entfallen.
+#### SYS.2.2.3.A8 Die ANforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -5763,12 +5763,12 @@ __Ehemals:__
 *Technisch nicht umsetzbare Konfigurationsparameter SOLLTEN dokumentiert, begründet und mit dem Sicherheitsmanagement abgestimmt werden.*
 
 
-#### SYS 2.2.3.A9
+#### SYS.2.2.3.A9
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 2.2.3.A10 Die ANforderung ist komplett entfallen.
+#### SYS.2.2.3.A10 Die ANforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -5777,39 +5777,39 @@ __Ehemals:__
 *Die Datenausführungsverhinderung (Data Execution Prevention, DEP) SOLLTE für alle Programme und Dienste aktiviert werden (Opt-Out-Modus).*
 
 
-#### SYS 2.2.3.A11-A23
+#### SYS.2.2.3.A11-A23
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 2.2.3.A24
+#### SYS.2.2.3.A24
 
 __Entfallen:__
 
 *Die Ergebnisse der Überprüfung und die Entscheidung über die Aktivierung SOLLTEN dokumentiert werden.*
 
 
-#### SYS 2.2.3.A25
+#### SYS.2.2.3.A25
 
 Keine inhaltlichen Änderungen.
 
 </details>
 
 
-### SYS 2.3
+### SYS.2.3
 
 <details>
 <summary> Änderungen
 </summary>
 
-#### SYS 2.3.A1
+#### SYS.2.3.A1
 
 __Geändert:__
 
 Administratoren DÜRFEN sich NICHT im Normalbetrieb als „root“ anmelden.
 
 
-#### SYS 2.3.A2
+#### SYS.2.3.A2
 
 __Entfallen:__
 
@@ -5820,7 +5820,7 @@ __Entfallen:__
 *Auf Distributionen mit einem Rolling-Release-Modell SOLLTE verzichtet werden.*
 
 
-#### SYS 2.3.A3 Die Anforderung ist komplett entfallen.
+#### SYS.2.3.A3 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -5833,7 +5833,7 @@ __Ehemals:__
 *Die entsprechenden Einstellungen des Betriebssystems MÜSSEN auf Konformität mit den organisatorischen Datenschutz- und Sicherheitsvorgaben überprüft und restriktiv konfiguriert bzw. die Funktionen deaktiviert werden.*
 
 
-#### SYS 2.3.A4
+#### SYS.2.3.A4
 
 __Entfallen:__
 
@@ -5852,7 +5852,7 @@ __Hinzugefügt:__:
 Der Client MUSS zeitnah rebootet werden, nachdem der Kernel des Betriebssystems aktualisiert wurde.
 
 
-#### SYS 2.3.A5
+#### SYS.2.3.A5
 
 __Entfallen:__
 
@@ -5873,24 +5873,24 @@ Wenn zu installierende Software aus dem Quellcode kompiliert werden soll, DARF d
 Anschließend DARF die zu installierende Software NICHT unkontrolliert in das Wurzeldateisystem des Betriebssystems installiert werden.
 
 
-#### SYS 2.3.A6
+#### SYS.2.3.A6
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 2.3.A7
+#### SYS.2.3.A7
 
 __Entfallen:__
 
 *Der Zugriff von Benutzern auf Dateien und Verzeichnisse SOLLTE immer auf das erforderliche Minimum beschränkt werden.*
 
 
-#### SYS 2.3.A8-A15
+#### SYS.2.3.A8-A15
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 2.3.A16 Die Anforderung ist komplett entfallen.
+#### SYS.2.3.A16 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -5901,20 +5901,20 @@ __Ehemals:__
 *Nicht benötigtes Schlüsselmaterial SOLLTE entfernt werden.*
 
 
-#### SYS 2.3.A17-A20
+#### SYS.2.3.A17-A20
 
 Keine inhaltlichen Änderungen.
 
 </details>
 
 
-### SYS 2.4
+### SYS.2.4
 
 <details>
 <summary> Änderungen
 </summary>
 
-#### SYS 2.4.A1
+#### SYS.2.4.A1
 
 __Entfallen:__
 
@@ -5923,25 +5923,25 @@ __Entfallen:__
 *Es MUSS geplant werden, wie der Schutz vor Schadprogrammen in das institutionsweite Konzept integriert werden kann.*
 
 
-#### SYS 2.4.A2-A12
+#### SYS.2.4.A2-A12
 
 Keine inhaltlichen Änderungen.
 
 </details>
 
 
-### SYS 3.1
+### SYS.3.1
 
 <details>
 <summary> Änderungen
 </summary>
 
-#### SYS 3.1.A1
+#### SYS.3.1.A1
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 3.1.A2 Die Anforderung ist komplett entfallen.
+#### SYS.3.1.A2 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -5952,12 +5952,12 @@ __Ehemals:__
 *Es MUSS geprüft werden, ob sich alle Benutzer an die Regeln für den korrekten Umgang mit dem eingerichteten Zugriffsschutz halten.*
 
 
-#### SYS 3.1.A3
+#### SYS.3.1.A3
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 3.1.A4 Die Anforderung ist komplett entfallen.
+#### SYS.3.1.A4 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -5980,7 +5980,7 @@ __Ehemals:__
 *Außerdem MUSS sichergestellt werden, dass die Benutzer keine sicherheitsrelevanten Änderungen an den Einstellungen der Antivirenprogramme vornehmen können.*
 
 
-#### SYS 3.1.A5 Die Anforderung ist komplett entfallen.
+#### SYS.3.1.A5 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -5993,24 +5993,24 @@ __Ehemals:__
 *Die Datensicherung MUSS weitgehend automatisiert werden, sodass die Benutzer möglichst wenig Aktionen selbst durchführen müssen.*
 
 
-#### SYS 3.1.A9 Die Anforderung wurde von einer Standard zu einr Basis Anforderung
+#### SYS.3.1.A9 Die Anforderung wurde von einer Standard zu einr Basis Anforderung
 
 __Geändert:__
 
 Über öffentlich zugängliche Netze DÜRFEN die Benutzer NUR über über einen sicheren Kommunikationskanal auf das interne Netz der Institution zugreifen.
 
 
-#### SYS 3.1.A6
+#### SYS.3.1.A6
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 3.1.A7
+#### SYS.3.1.A7
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 3.1.A8
+#### SYS.3.1.A8
 
 __Entfallen:__
 
@@ -6023,12 +6023,12 @@ __Entfallen:__
 *Nicht benötigte Schnittstellen SOLLTEN bei allen Laptops deaktiviert werden.*
 
 
-#### SYS 3.1.A9-A12
+#### SYS.3.1.A9-A12
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 3.1.A13
+#### SYS.3.1.A13
 
 __Entfallen:__
 
@@ -6039,49 +6039,49 @@ __Entfallen:__
 *Die Schlüssel SOLLTEN geeignet aufbewahrt werden.*
 
 
-#### SYS 3.1.A14
+#### SYS.3.1.A14
 
 __Geändert:__
 
 Abhängig vom Schutzbedarf der darauf gespeicherten Daten SOLLTEN Laptops auch in den Räumen der Institution außerhalb der Nutzungszeiten gegen Diebstahl gesichert bzw. verschlossen aufbewahrt werden.
 
 
-#### SYS 3.1.A15
+#### SYS.3.1.A15
 
 __Entfallen:__
 
 *Sie SOLLTE auch auf zusätzlich benötigte Hardware wie z. B. Dockingstations und Monitore erweitert werden.*
 
 
-#### SYS 3.1.A16
+#### SYS.3.1.A16
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 3.1.A17
+#### SYS.3.1.A17
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 3.1.A18
+#### SYS.3.1.A18
 
 Keine inhaltlichen Änderungen.
 
 </details>
 
 
-### SYS 3.2.1
+### SYS.3.2.1
 
 <details>
 <summary> Änderungen
 </summary>
 
-#### SYS 3.2.1.A1
+#### SYS.3.2.1.A1
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 3.2.1.A2
+#### SYS.3.2.1.A2
 
 __Geändert:__
 
@@ -6090,14 +6090,14 @@ Es MUSS festgelegt werden, ob und in welchem Umfang Cloud-Dienste bei privater N
 Die Benutzer MÜSSEN regelmäßig bezüglich der Nutzung solcher Cloud-Dienste sensibilisiert werden.
 
 
-#### SYS 3.2.1.A3
+#### SYS.3.2.1.A3
 
 __Entfallen:__
 
 *Wenn eine Institution ein MDM einsetzt, MUSS bei der Übergabe des mobilen Endgerätes bereits der MDM-Client installiert sein.*
 
 
-#### SYS 3.2.1.A4
+#### SYS.3.2.1.A4
 
 __Hinzugefügt:__:
 
@@ -6110,7 +6110,7 @@ __Entfallen:__
 *Die Anzahl der Kennworte, nach der sich ein Passwort wiederholen darf, SOLLTE festgelegt werden.*
 
 
-#### SYS 3.2.1.A5
+#### SYS.3.2.1.A5
 
 __Entfallen:__
 
@@ -6123,7 +6123,7 @@ __Entfallen:__
 *Nach der Freigabe MÜSSEN die Aktualisierungen zeitnah ausgerollt werden.*
 
 
-#### SYS 3.2.1.A6
+#### SYS.3.2.1.A6
 
 __Hinzugefügt:__:
 
@@ -6134,14 +6134,14 @@ Wo dies technisch nicht möglich ist, MÜSSEN die Berechtigungseinstellungen reg
 Dies gilt insbesondere auch nach der Installation von Updates.
 
 
-#### SYS 3.2.1.A7 DIe Anforderung wurde komplett geändert.
+#### SYS.3.2.1.A7 DIe Anforderung wurde komplett geändert.
 
 __Geändert:__
 
 Gehen Geräte verloren oder werden unberechtigte Änderungen an Gerät und Software festgestellt, MÜSSEN die Benutzer sofort die Zuständigen informieren.
 
 
-#### SYS 3.2.1.A8 Die Anforderung wurde komplett geändert.
+#### SYS.3.2.1.A8 Die Anforderung wurde komplett geändert.
 
 __Geändert:__
 
@@ -6154,12 +6154,12 @@ Die Institution MUSS festlegen, aus welchen Quellen Apps installiert werden dür
 Es MUSS unterbunden werden, dass sich Apps aus nicht zugelassenen Quellen installieren lassen.
 
 
-#### SYS 3.2.1.A9-A13
+#### SYS.3.2.1.A9-A13
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 3.2.1.A14 Die Anforderung ist komplett entfallen.
+#### SYS.3.2.1.A14 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -6170,7 +6170,7 @@ __Ehemals:__
 *Im verwendeten Browser SOLLTE die Funktion „Safe Browsing“ bzw. die Funktion zur Warnung vor schädlichen Inhalten aktiviert werden.*
 
 
-#### SYS 3.2.1.A15 Die Anforderung ist komplett entfallen.
+#### SYS.3.2.1.A15 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -6179,12 +6179,12 @@ __Ehemals:__
 *Download-Booster, die Daten über die Server des Herstellers leiten, SOLLTEN deaktiviert werden.*
 
 
-#### SYS 3.2.1.A16
+#### SYS.3.2.1.A16
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 3.2.1.A17 Die Anforderung ist komplett entfallen.
+#### SYS.3.2.1.A17 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -6195,17 +6195,17 @@ __Ehemals:__
 *Die Super-PIN/PUK SOLLTE nur im Rahmen der definierten Prozesse von den Verantwortlichen benutzt werden.*
 
 
-#### SYS 3.2.1.A18
+#### SYS.3.2.1.A18
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 3.2.1.A19
+#### SYS.3.2.1.A19
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 3.2.1.A20 Die Anforderung ist komplett entfallen.
+#### SYS.3.2.1.A20 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -6218,7 +6218,7 @@ __Ehemals:__
 *Alle freigegebenen Apps SOLLTEN intern in einem Standardkatalog veröffentlicht werden.*
 
 
-#### SYS 3.2.1.A21 Die Anforderung ist komplett entfallen.
+#### SYS.3.2.1.A21 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -6231,22 +6231,22 @@ __Ehemals:__
 *Die Benutzer der mobilen Endgeräte SOLLTEN nur freigegebene und geprüfte Apps aus als sicher klassifizierten Quellen installieren dürfen.*
 
 
-#### SYS 3.2.1.A22
+#### SYS.3.2.1.A22
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 3.2.1.A28
+#### SYS.3.2.1.A28
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 3.2.1.A31-A34
+#### SYS.3.2.1.A31-A34
 
 Die Anforderungen wurden komplett neu hinzugefügt.
 
 
-#### SYS 3.2.1.A23 Die Anforderung ist komplett entfallen.
+#### SYS.3.2.1.A23 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -6255,7 +6255,7 @@ __Ehemals:__
 *Alle Anwendungen mit vertraulichen Daten SOLLTEN durch einen zusätzlichen Mechanismus zur Authentisierung geschützt werden.*
 
 
-#### SYS 3.2.1.A24 Die Anforderung ist komplett entfallen.
+#### SYS.3.2.1.A24 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -6266,25 +6266,25 @@ __Ehemals:__
 *Die Authentisierung SOLLTE das CHAP-Protokoll nutzen.*
 
 
-#### SYS 3.2.1.A25-A30
+#### SYS.3.2.1.A25-A30
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 3.2.1.A35
+#### SYS.3.2.1.A35
 
 Die Anforderung wurde komplett neu hinzugefügt.
 
 </details>
 
 
-### SYS 3.2.2
+### SYS.3.2.2
 
 <details>
 <summary> Änderungen
 </summary>
 
-#### SYS 3.2.2.A1
+#### SYS.3.2.2.A1
 
 __Hinzugefügt:__:
 
@@ -6295,17 +6295,17 @@ Welche Restriktionen gibt die Institution bei bereitgestellten oder selbst insta
 • Soll das MDM in eine weitere Infrastruktur eingebunden werden?
 
 
-#### SYS 3.2.2.A2
+#### SYS.3.2.2.A2
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 3.2.2.A3
+#### SYS.3.2.2.A3
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 3.2.2.A4
+#### SYS.3.2.2.A4
 
 __Hinzugefügt:__:
 
@@ -6316,24 +6316,24 @@ __Geändert:__
 Alle mobilen Endgeräte MÜSSEN, bevor sie eingesetzt werden, in das MDM integriert werden.
 
 
-#### SYS 3.2.2.A5 Die Anforderung wurde komplett geändert.
+#### SYS.3.2.2.A5 Die Anforderung wurde komplett geändert.
 
 __Geändert:__
 
 Wenn mobile Endgeräte an Mitarbeiter übergeben werden, MUSS, wenn vom Betriebssystem nicht bereits bereitgestellt, darauf der MDM-Client installiert und konfiguriert sein.
 
 
-#### SYS 3.2.2.A20
+#### SYS.3.2.2.A20
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 3.2.2.A6
+#### SYS.3.2.2.A6
 
 Die Anforderung wurde neu hinzugefügt.
 
 
-#### SYS 3.2.2.A7
+#### SYS.3.2.2.A7
 
 __Geändert:__
 
@@ -6342,7 +6342,7 @@ __Geändert:__
 Das MDM SOLLTE eine Black- oder White-List für die Installation von Apps ermöglichen.
 
 
-#### SYS 3.2.2.A8 Die Anforderung ist komplett entfallen.
+#### SYS.3.2.2.A8 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -6357,7 +6357,7 @@ __Ehemals:__
 *Den Benutzern SOLLTEN die Regeln in geeigneter Weise bekannt gegeben werden.*
 
 
-#### SYS 3.2.2.A9 Die Anforderung ist komplett entfallen.
+#### SYS.3.2.2.A9 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -6368,7 +6368,7 @@ __Ehemals:__
 *Die Sicherheits-Apps SOLLTEN durch das MDM automatisch installiert werden.*
 
 
-#### SYS 3.2.2.A10 Die Anforderung ist komplett entfallen.
+#### SYS.3.2.2.A10 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -6381,7 +6381,7 @@ __Ehemals:__
 *Wenn Daten zwischen den mobilen Endgeräten und dem IT-Netz der Institution übertragen werden, SOLLTE durch geeignete Maßnahmen (z. B. VPN) verhindert werden, dass Unbefugte sie verändern oder einsehen können.*
 
 
-#### SYS 3.2.2.A11 Die Anforderung ist komplett entfallen.
+#### SYS.3.2.2.A11 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -6394,7 +6394,7 @@ __Ehemals:__
 *Es SOLLTE regelmäßig überprüft werden, ob die zugeteilten Rechte noch angemessen sind und den Aufgaben entsprechen.*
 
 
-#### SYS 3.2.2.A12
+#### SYS.3.2.2.A12
 
 __Entfallen:__
 
@@ -6403,57 +6403,57 @@ __Entfallen:__
 *Zugriffsberechtigungen und -wege SOLLTEN gemäß dem festgelegten Sicherheitskonzept der Institution konfiguriert werden.*
 
 
-#### SYS 3.2.2.A21
+#### SYS.3.2.2.A21
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 3.2.2.A22
+#### SYS.3.2.2.A22
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 3.2.2.A13-A16
+#### SYS.3.2.2.A13-A16
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 3.2.2.A17
+#### SYS.3.2.2.A17
 
 __Hinzugefügt:__:
 
 Insbesondere SOLLTEN sogenannte Jailbreaks oder sogenanntes Routen erkannt werden.
 
 
-#### SYS 3.2.2.A18
+#### SYS.3.2.2.A18
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 3.2.2.A19
+#### SYS.3.2.2.A19
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 3.2.2.A23
+#### SYS.3.2.2.A23
 
 Keine inhaltlichen Änderungen.
 
 </details>
 
 
-### SYS 3.2.3
+### SYS.3.2.3
 
 <details>
 <summary> Änderungen
 </summary>
 
-#### SYS 3.2.3.A1-A9
+#### SYS.3.2.3.A1-A9
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 3.2.3.A10 Die Anforderung ist komplett entfallen.
+#### SYS.3.2.3.A10 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -6464,7 +6464,7 @@ __Ehemals:__
 *Einhergehend mit der Aktivierung von „Touch ID“ oder „Face ID“ SOLLTEN die Benutzer für die Fälschbarkeit von biometrischen Merkmalen sensibilisiert werden.*
 
 
-#### SYS 3.2.3.A11 Die Anforderung ist komplett entfallen.
+#### SYS.3.2.3.A11 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -6473,12 +6473,12 @@ __Ehemals:__
 *Der Gerätename SOLLTE keine persönlichen Namens- und Institutionsmerkmale enthalten.*
 
 
-#### SYS 3.2.3.A12-A18
+#### SYS.3.2.3.A12-A18
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 3.2.3.A20 Die Anforderung ist komplett entfallen.
+#### SYS.3.2.3.A20 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -6491,7 +6491,7 @@ __Ehemals:__
 *Die Authentisierung SOLLTE bevorzugt durch Einmalpasswörter und Zertifikate statt durch klassische Passwörter erfolgen.*
 
 
-#### SYS 3.2.3.A21
+#### SYS.3.2.3.A21
 
 __Entfallen:__
 
@@ -6508,7 +6508,7 @@ __Hinzugefügt:__:
 Zahlungen im App Store SOLLTE NICHT über biometrische Verfahren bestätigt werden.
 
 
-#### SYS 3.2.3.A23
+#### SYS.3.2.3.A23
 
 __Geändert:__
 
@@ -6525,13 +6525,13 @@ Falls die Frist ohne Zugriff verstricht, sollte das Konfigurationsprofil dieses 
 </details>
 
 
-### SYS 3.2.4
+### SYS.3.2.4
 
 <details>
 <summary> Änderungen
 </summary>
 
-#### SYS 3.2.4.A1 Die Anforderung ist komplett entfallen.
+#### SYS.3.2.4.A1 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -6542,17 +6542,17 @@ __Ehemals:__
 *Die Geräte MÜSSEN mit einer aktuellen Version von Android ausgeliefert werden oder unmittelbar auf diese aktualisiert werden können.*
 
 
-#### SYS 3.2.4.A2
+#### SYS.3.2.4.A2
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 3.2.4.A3
+#### SYS.3.2.4.A3
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 3.2.4.A4 Die Anforderung ist komplett entfallen.
+#### SYS.3.2.4.A4 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -6561,12 +6561,12 @@ __Ehemals:__
 *Cloud-Print SOLLTE nur dann erlaubt sein, wenn sichergestellt ist, dass der Benutzer nur genehmigte Drucker auswählen kann.*
 
 
-#### SYS 3.2.4.A5
+#### SYS.3.2.4.A5
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 3.2.4.A6 Die Anforderung ist komplett entfallen.
+#### SYS.3.2.4.A6 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -6579,7 +6579,7 @@ __Ehemals:__
 *Es SOLLTE eine Software eingesetzt werden, die in unabhängigen Tests als „sehr gut“ bewertet wurde.*
 
 
-#### SYS 3.2.4.A7 Die Anforderung ist komplett entfallen.
+#### SYS.3.2.4.A7 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -6590,35 +6590,35 @@ __Ehemals:__
 </details>
 
 
-### SYS 3.3
+### SYS.3.3
 
 <details>
 <summary> Änderungen
 </summary>
 
-#### SYS 3.3.A1
+#### SYS.3.3.A1
 
 __Geändert:__
 
 Im Hinblick auf die Nutzung und Kontrolle der Geräte MUSS eine
 
 
-#### SYS 3.3.A2
+#### SYS.3.3.A2
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 3.3.A3
+#### SYS.3.3.A3
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 3.3.A4
+#### SYS.3.3.A4
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 3.3.A5
+#### SYS.3.3.A5
 
 __Entfallen:__
 
@@ -6629,54 +6629,54 @@ __Hinzugefügt:__:
 Die Super-PIN/PUK SOLLTE nur im Rahmen der definierten Prozesse von den Zuständigen benutzt werden.
 
 
-#### SYS 3.3.A6
+#### SYS.3.3.A6
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 3.3.A7
+#### SYS.3.3.A7
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 3.3.A8
+#### SYS.3.3.A8
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 3.3.A9
+#### SYS.3.3.A9
 
 Die Anforderung wurde von einer Standard-Anforderung zu einer Anforderung mit erhöhtem Schutzbedarf geändert.
 
 
-#### SYS 3.3.A10
+#### SYS.3.3.A10
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 3.3.A11
+#### SYS.3.3.A11
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 3.3.A12
+#### SYS.3.3.A12
 
 __Entfallen:__
 
 *Bei der Ausgabe SOLLTEN die Benutzer informiert werden, wie die Mobiltelefone aufzubewahren sind.*
 
 
-#### SYS 3.3.A13
+#### SYS.3.3.A13
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 3.3.A14
+#### SYS.3.3.A14
 
 Keine inhaltlichen Änderungen.
 
 
-#### SYS 3.3.A15
+#### SYS.3.3.A15
 
 __Geändert:__
 
@@ -6685,13 +6685,13 @@ Damit vertrauliche Informationen nicht abgehört werden können, SOLLTE dafür g
 </details>
 
 
-### SYS 4.1
+### SYS.4.1
 
 <details>
 <summary> Änderungen
 </summary>
 
-#### SYS 4.1.A1
+#### SYS.4.1.A1
 
 __Entfallen:__
 
@@ -6726,14 +6726,14 @@ Dabei SOLLTEN folgende Kriterien berücksichtigt werden:
 Es MUSS festgelegt werden, wo die Geräte aufgestellt werden dürfen.
 
 
-#### SYS 4.1.A2
+#### SYS.4.1.A2
 
 __Entfallen:__
 
 *Das Passwort DARF NUR berechtigten Benutzern bekannt sein.*
 
 
-#### SYS 4.1.A12 Die Anforderung ist komplett entfallen.
+#### SYS.4.1.A12 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -6746,7 +6746,7 @@ __Ehemals:__
 *Mit der Entsorgung beauftragte Dienstleister MÜSSEN verpflichtet werden, die erforderlichen Sicherheitsmaßnahmen einzuhalten.*
 
 
-#### SYS 4.1.A22
+#### SYS.4.1.A22
 
 __Geändert:__
 
@@ -6755,36 +6755,36 @@ Nicht benötigte, aber ausgedruckte Dokumente mit vertraulichen Informationen M�
 Sind Heimarbeitsplätze mit Druckern, Kopierern oder Multifunktionsgeräten ausgestattet, SOLLTE gewährleistet werden, dass die ausgedruckten Informationen auch direkt vor Ort geeignet vernichtet werden können, wenn sie nicht mehr benötigt werden.
 
 
-#### SYS 4.1.A4
+#### SYS.4.1.A4
 
 __Entfallen:__
 
 *Der ISB SOLLTE auf Basis des Sicherheitskonzepts eine Administrationsrichtlinie ausarbeiten.*
 
 
-#### SYS 4.1.A5-A11
+#### SYS.4.1.A5-A11
 
 Keine inhaltlichen Änderungen
 
 
-#### SYS 4.1.A15
+#### SYS.4.1.A15
 
 Keine inhaltlichen Änderungen
 
 
-#### SYS 4.1.A17
+#### SYS.4.1.A17
 
 Keine inhaltlichen Änderungen
 
 
-#### SYS 4.1.A18
+#### SYS.4.1.A18
 
 __Hinzugefügt:__:
 
 Insbesondere SOLLTEN alle nicht benötigten Daten- und Netzschnittstellen von Druckern, Kopierern und Multifunktionsgeräten deaktiviert werden.
 
 
-#### SYS 4.1.A19 Die Anforderung ist komplett entfallen.
+#### SYS.4.1.A19 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -6797,54 +6797,54 @@ __Ehemals:__
 *Alle nicht mehr benötigten kryptografischen Schlüssel und Zertifikate SOLLTEN sicher gelöscht werden.*
 
 
-#### SYS 4.1.A14
+#### SYS.4.1.A14
 
 Keine inhaltlichen Änderungen
 
 
-#### SYS 4.1.A16
+#### SYS.4.1.A16
 
 Keine inhaltlichen Änderungen
 
 
-#### SYS 4.1.A20
+#### SYS.4.1.A20
 
 __Entfallen:__
 
 *Druckdateien mit vertraulichen Informationen SOLLTEN nur verschlüsselt übertragen werden.*
 
 
-#### SYS 4.1.A21
+#### SYS.4.1.A21
 
 Keine inhaltlichen Änderungen
 
 </details>
 
 
-### SYS 4.3
+### SYS.4.3
 
 <details>
 <summary> Änderungen
 </summary>
 
-#### SYS 4.3.A1
+#### SYS.4.3.A1
 
 __Entfallen:__
 
 *Benutzer und Administratoren SOLLTEN im Umgang mit dem jeweiligen eingebetteten System ausreichend geschult sein.*
 
 
-#### SYS 4.3.A2
+#### SYS.4.3.A2
 
 Keine inhaltlichen Änderungen
 
 
-#### SYS 4.3.A3
+#### SYS.4.3.A3
 
 Keine inhaltlichen Änderungen
 
 
-#### SYS 4.3.A4
+#### SYS.4.3.A4
 
 __Geändert:__
 
@@ -6855,27 +6855,27 @@ __Hinzugefügt:__:
 • Unterstützung eines Trusted Plattform Module (TPM) durch das Betriebssystem,
 
 
-#### SYS 4.3.A5-A18
+#### SYS.4.3.A5-A18
 
 Keine inhaltlichen Änderungen
 
 </details>
 
 
-### SYS 4.4
+### SYS.4.4
 
 <details>
 <summary> Änderungen
 </summary>
 
-#### SYS 4.4.A1
+#### SYS.4.4.A1
 
 __Entfallen:__
 
 *IoT-Geräte MÜSSEN ein Minimum an Sicherheitskriterien erfüllen, damit sie in Institutionen eingesetzt werden können.*
 
 
-#### SYS 4.4.A2
+#### SYS.4.4.A2
 
 __Geändert:__
 
@@ -6884,7 +6884,7 @@ Eine angemessene Authentisierung MUSS aktiviert sein.
 IoT-Gerate MÜSSEN in das Identitäts- und Berechtigungsmanagement der Institution integriert werden.
 
 
-#### SYS 4.4.A3 Die Anforderung ist komplett entfallen.
+#### SYS.4.4.A3 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -6901,12 +6901,12 @@ __Ehemals:__
 *Generell MUSS darauf geachtet werden, dass Patches und Updates nur aus vertrauenswürdigen Quellen bezogen werden.*
 
 
-#### SYS 4.4.A5-A8
+#### SYS.4.4.A5-A8
 
 Keine inhaltlichen Änderungen
 
 
-#### SYS 4.4.A9
+#### SYS.4.4.A9
 
 __Geändert:__
 
@@ -6915,17 +6915,17 @@ Für jedes IoT-Gerät SOLLTE ein Zuständiger für dessen Betrieb benannt werden
 Die Zuständigen SOLLTEN ausreichend über den Umgang mit dem IoT-Gerät informiert werden.
 
 
-#### SYS 4.4.A10
+#### SYS.4.4.A10
 
 Keine inhaltlichen Änderungen
 
 
-#### SYS 4.4.A11
+#### SYS.4.4.A11
 
 Keine inhaltlichen Änderungen
 
 
-#### SYS 4.4.A12 Die Anforderung ist komplett entfallen.
+#### SYS.4.4.A12 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -6934,12 +6934,12 @@ __Ehemals:__
 *Wenn IoT-Geräte in Zusammenhang mit übergeordneten Management-Systemen eingesetzt werden, SOLLTEN sie ausschließlich mit diesen kommunizieren.*
 
 
-#### SYS 4.4.A13
+#### SYS.4.4.A13
 
 Keine inhaltlichen Änderungen
 
 
-#### SYS 4.4.A14 Die Anforderung ist komplett entfallen.
+#### SYS.4.4.A14 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -6954,12 +6954,12 @@ __Ehemals:__
 *Die Freigabe SOLLTE durch eine in der Institution dafür autorisierte Stelle erfolgen.*
 
 
-#### SYS 4.4.A15-A18
+#### SYS.4.4.A15-A18
 
 Keine inhaltlichen Änderungen
 
 
-#### SYS 4.4.A19
+#### SYS.4.4.A19
 
 __Entfallen:__
 
@@ -6968,19 +6968,19 @@ __Entfallen:__
 Die Administration über das Netz SOLLTE über sichere Protokolle erfolgen.
 
 
-#### SYS 4.4.A20
+#### SYS.4.4.A20
 
 __Entfallen:__
 
 Bei der Außerbetriebnahme von IoT-Geräten SOLLTE sichergestellt werden, dass keine wichtigen Daten, die eventuell auf den verbauten Datenträgern gespeichert sind, verloren gehen und dass keine vertraulichen Daten zurückbleiben oder an Dritte weitergegeben werden.
 
 
-#### SYS 4.4.A21
+#### SYS.4.4.A21
 
 Keine inhaltlichen Änderungen
 
 
-#### SYS 4.4.A22
+#### SYS.4.4.A22
 
 __Geändert:__
 
@@ -6993,14 +6993,14 @@ Es SOLLTE geprüft werden, ob die verwendeten Geräte die Anforderung an die Ver
 Alternativ SOLLTE geprüft werden, ob weitere Maßnahmen, wie das Einrichten eines Clusters oder die Beschaffung von Standby-Geräten, erforderlich sind.
 
 
-#### SYS 4.4.A23
+#### SYS.4.4.A23
 
 __Geändert:__
 
 Alle eingesetzten IoT-Geräte SOLLTEN regelmäßig überprüft werden.
 
 
-#### SYS 4.4.A23
+#### SYS.4.4.A23
 
 __Entfallen:__
 
@@ -7021,23 +7021,23 @@ Der Webserver SOLLTE, soweit möglich, NICHT unter einem privilegierten Konto be
 </details>
 
 
-### SYS 4.5
+### SYS.4.5
 
 <details>
 <summary> Änderungen
 </summary>
 
-#### SYS 4.5.A1
+#### SYS.4.5.A1
 
 Keine inhaltlichen Änderungen
 
 
-#### SYS 4.5.A2
+#### SYS.4.5.A2
 
 Keine inhaltlichen Änderungen
 
 
-#### SYS 4.5.A10
+#### SYS.4.5.A10
 
 Wurde von einer Standard-Anforderung zu einer Basis-Anforderung geändert.
 
@@ -7046,56 +7046,56 @@ __Geändert:__
 Wenn Wechseldatenträger außerhalb eines sicheren Bereiches verwendet oder transportiert werden und dabei vertrauliche Daten enthalten, MÜSSEN sie mit einem sicheren Verfahren verschlüsselt werden.
 
 
-#### SYS 4.5.A12
+#### SYS.4.5.A12
 
 Keine inhaltlichen Änderungen
 
 
-#### SYS 4.5.A4
+#### SYS.4.5.A4
 
 Keine inhaltlichen Änderungen
 
 
-#### SYS 4.5.A5
+#### SYS.4.5.A5
 
 Keine inhaltlichen Änderungen
 
 
-#### SYS 4.5.A6
+#### SYS.4.5.A6
 
 Keine inhaltlichen Änderungen
 
 
-#### SYS 4.5.A7
+#### SYS.4.5.A7
 
 __Entfallen:__
 
 *Die Institution SOLLTE den Mitarbeitern dafür geeignete Programme zur Verfügung stellen.*
 
 
-#### SYS 4.5.A13
+#### SYS.4.5.A13
 
 Keine inhaltlichen Änderungen
 
 
-#### SYS 4.5.A11
+#### SYS.4.5.A11
 
 __Geändert:__
 
 Es SOLLTE ein Verfahren zum Schutz gegen zufällige oder vorsätzliche Veränderungen eingesetzt werden, mit dem die Integrität von vertraulichen Informationen sichergestellt wird.
 
 
-#### SYS 4.5.A14
+#### SYS.4.5.A14
 
 Keine inhaltlichen Änderungen
 
 
-#### SYS 4.5.A15
+#### SYS.4.5.A15
 
 Keine inhaltlichen Änderungen
 
 
-#### SYS 4.5.A16
+#### SYS.4.5.A16
 
 Keine inhaltlichen Änderungen
 
@@ -7108,13 +7108,13 @@ Keine inhaltlichen Änderungen
 
 ## IND
 
-### IND 1
+### IND.1
 
 <details>
 <summary> Änderungen
 </summary>
 
-#### IND 1.A1
+#### IND.1.A1
 
 #### Entfallen:
 
@@ -7137,7 +7137,7 @@ Ein Gesamtverantwortlicher für die Informationssicherheit im OT-Bereich MUSS be
 Er MUSS innerhalb der Institution bekannt gegeben werden.
 
 
-#### IND 1.A2 Die Anforderung ist komplett entfallen.
+#### IND.1.A2 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -7148,7 +7148,7 @@ __Ehemals:__
 *Die OT-Verantwortlichen MÜSSEN regelmäßig zur Bedrohungslage und Handlungsbedarfen informiert oder geschult werden.*
 
 
-#### IND 1.A3
+#### IND.1.A3
 
 __Entfallen:__
 
@@ -7165,17 +7165,17 @@ Ist dies nicht der Fall, MUSS der Bedarf an alternativen Schutzverfahren geprüf
 Die Virensignaturen DÜRFEN NICHT von OT-Systemen direkt aus dem Internet bezogen werden.
 
 
-#### IND 1.A18
+#### IND.1.A18
 
 Die Anforderung wurde komplett neu hinzugefügt.
 
 
-#### IND 1.A19
+#### IND.1.A19
 
 Die Anforderung wurde komplett neu hinzugefügt.
 
 
-#### IND 1.A4
+#### IND.1.A4
 
 __Entfallen:__
 
@@ -7186,7 +7186,7 @@ __Entfallen:__
 *Sämtliche Dokumente SOLLTEN sicher abgelegt und mit einer Einstufung bzgl. des Schutzbedarfs versehen werden.*
 
 
-#### IND 1.A5
+#### IND.1.A5
 
 __Geändert:__
 
@@ -7207,19 +7207,19 @@ Bei den Schnittstellen SOLLTEN aktive Netzkomponenten und manuelle Datentransfer
 Zonen und Conduits schützen die OT-Infrastrukur, indem die Automatisierungslösung in Zellen und Kommunikationskanälen strukturiert werden SOLLTE.
 
 
-#### IND 1.A6 Die Anforderung wurde komplett geändert.
+#### IND.1.A6 Die Anforderung wurde komplett geändert.
 
 __Geändert:__
 
 Für Änderungen an der OT SOLLTE ein eigener Änderungsprozess definiert, dokumentiert und gelebt werden.
 
 
-#### IND 1.A7
+#### IND.1.A7
 
 Keine inhaltlichen Änderungen.
 
 
-#### IND 1.A8
+#### IND.1.A8
 
 __Entfallen:__
 
@@ -7234,19 +7234,19 @@ __Entfallen:__
 *Bei höherem Schutzbedarf SOLLTE zudem für kritische administrative Schritte ein Vier-Augen-Prinzip gelten.*
 
 
-#### IND 1.A9
+#### IND.1.A9
 
 Keine inhaltlichen Änderungen.
 
 
-#### IND 1.A10
+#### IND.1.A10
 
 __Entfallen:__
 
 *Der Reaktionsplan SOLLTE regelmäßig getestet und auf Aktualität geprüft werden.*
 
 
-#### IND 1.A11
+#### IND.1.A11
 
 __Hinzugefügt:__:
 
@@ -7255,7 +7255,7 @@ Für ICS-Komponenten SOLLTEN einheitliche und dem Schutzbedarf angemessene Anfor
 Diese SOLLTEN berücksichtigt werden, wenn neue ICS-Komponenten beschafft werden.
 
 
-#### IND 1.A12
+#### IND.1.A12
 
 __Geändert:__
 
@@ -7270,32 +7270,32 @@ Grundlage dafür SOLLTEN Schwachstellenmeldungen von Herstellern oder öffentlic
 Ergänzend hierzu SOLLTEN organisatorische und technische Audits zur Schwachstellenanalyse durchgeführt werden.
 
 
-#### IND 1.A20
+#### IND.1.A20
 
 Die Anforderung wurde komplett neu hinzugefügt.
 
 
-#### IND 1.A21
+#### IND.1.A21
 
 Die Anforderung wurde komplett neu hinzugefügt.
 
 
-#### IND 1.A22
+#### IND.1.A22
 
 Die Anforderung wurde komplett neu hinzugefügt.
 
 
-#### IND 1.A23
+#### IND.1.A23
 
 Die Anforderung wurde komplett neu hinzugefügt.
 
 
-#### IND 1.A13
+#### IND.1.A13
 
 Keine inhaltlichen Änderungen.
 
 
-#### IND 1.A14
+#### IND.1.A14
 
 __Geändert:__
 
@@ -7306,12 +7306,12 @@ Die Authentisierung SOLLTE durch den Einsatz mehrerer Faktoren wie Wissen, Besit
 Es SOLLTE sichergestellt werden, dass die Authentisierung von betrieblich erforderlichen technischen Konten auch in Notfällen durchgeführt werden kann.
 
 
-#### IND 1.A15
+#### IND.1.A15
 
 Keine inhaltlichen Änderungen.
 
 
-#### IND 1.A16
+#### IND.1.A16
 
 __Entfallen:__
 
@@ -7336,37 +7336,37 @@ Durch Realisierung einer oder mehrerer Anbindungszonen (DMZ) in P-A-P-Struktur S
 Erforderliche Sicherheitsprüfungen SOLLTEN so erfolgen, dass die ICS-Anlage nicht angepasst werden muss.
 
 
-#### IND 1.A17
+#### IND.1.A17
 
 Keine inhaltlichen Änderungen.
 
 
-#### IND 1.A24
+#### IND.1.A24
 
 Die Anforderung wurde komplett neu hinzugefügt.
 
 </details>
 
 
-### IND 2.1
+### IND.2.1
 
 <details>
 <summary> Änderungen
 </summary>
 
-#### IND 2.1.A1
+#### IND.2.1.A1
 
 __Entfallen:__
 
 *Die Konfiguration der ICS-Komponente DARF NUR nach einer Freigabe oder nach einer Authentisierung geändert werden.*
 
 
-#### IND 2.1.A2
+#### IND.2.1.A2
 
 Keine inhaltlichen Änderungen.
 
 
-#### IND 2.1.A3 Die Anforderung ist komplett entfallen.
+#### IND.2.1.A3 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -7383,12 +7383,12 @@ __Ehemals:__
 *Generell MÜSSEN alle sicherheitsrelevanten Systemereignisse protokolliert und bei Bedarf ausgewertet werden.*
 
 
-#### IND 2.1.A4
+#### IND.2.1.A4
 
 Keine inhaltlichen Änderungen.
 
 
-#### IND 2.1.A5 Die Anforderung ist komplett entfallen.
+#### IND.2.1.A5 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -7397,24 +7397,24 @@ IND.2.1.A5 Deaktivierung nicht genutzter Benutzerkonten [ICS-Administrator] (B)
 Nicht genutzte und unnötige Benutzerkonten MÜSSEN deaktiviert werden.
 
 
-#### IND 2.1.A6
+#### IND.2.1.A6
 
 Keine inhaltlichen Änderungen.
 
 
-#### IND 2.1.A7 Die Anforderung wurde von einer Basis- zu einer Standard-Anforderung
+#### IND.2.1.A7 Die Anforderung wurde von einer Basis- zu einer Standard-Anforderung
 
 __Geändert:__
 
 Vor jeder Systemänderung an einer ICS-Komponente MÜSSEN Backups erstellt werden.
 
 
-#### IND 2.1.A8
+#### IND.2.1.A8
 
 Keine inhaltlichen Änderungen.
 
 
-#### IND 2.1.A9 Die Anforderung ist komplett entfallen.
+#### IND.2.1.A9 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -7425,7 +7425,7 @@ __Ehemals:__
 *Außerdem SOLLTEN die Kommunikationsverbindungen neu integrierter ICS-Komponenten dokumentiert werden.*
 
 
-#### IND 2.1.A10 Die Anforderung ist komplett entfallen.
+#### IND.2.1.A10 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -7442,12 +7442,12 @@ __Ehemals:__
 *Auch SOLLTE die Dokumentation im Störungsfall noch verfügbar sein.*
 
 
-#### IND 2.1.A11
+#### IND.2.1.A11
 
 Keine inhaltlichen Änderungen.
 
 
-#### IND 2.1.A12 Die Anforderung ist komplett entfallen.
+#### IND.2.1.A12 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -7458,7 +7458,7 @@ __Ehemals:__
 *Diese SOLLTEN berücksichtigt werden, wenn neue ICS-Komponenten beschafft werden.*
 
 
-#### IND 2.1.A13
+#### IND.2.1.A13
 
 __Entfallen:__
 
@@ -7477,7 +7477,7 @@ __Entfallen:__
 *umfassen.*
 
 
-#### IND 2.1.A14 Die Anforderung ist komplett entfallen.
+#### IND.2.1.A14 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -7488,7 +7488,7 @@ __Ehemals:__
 *Es SOLLTE insbesondere sichergestellt sein, dass alle Zugangsdaten nachhaltig entfernt wurden.*
 
 
-#### IND 2.1.A15 Die Anforderung ist komplett entfallen.
+#### IND.2.1.A15 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -7501,49 +7501,49 @@ __Ehemals:__
 *Bei sicherheitskritischen Ereignissen SOLLTE eine automatische Alarmierung erfolgen.*
 
 
-#### IND 2.1.A16
+#### IND.2.1.A16
 
 Keine inhaltlichen Änderungen.
 
 
-#### IND 2.1.A17
+#### IND.2.1.A17
 
 __Geändert:__
 
 Bei Anwendungen mit Echtzeitanforderungen SOLLTE geprüft werden, ob dies umsetzbar ist.
 
 
-#### IND 2.1.A18
+#### IND.2.1.A18
 
 Keine inhaltlichen Änderungen.
 
 
-#### IND 2.1.A19
+#### IND.2.1.A19
 
 Keine inhaltlichen Änderungen.
 
 
-#### IND 2.1.A20
+#### IND.2.1.A20
 
 Keine inhaltlichen Änderungen.
 
 </details>
 
 
-### IND 2.2
+### IND.2.2
 
 <details>
 <summary> Änderungen
 </summary>
 
-#### IND 2.2.A1
+#### IND.2.2.A1
 
 __Geändert:__
 
 Steuerungsprogramme und Konfigurationen SOLLTEN immer gesichert werden, bevor an ihnen etwas verändert wird.
 
 
-#### IND 2.2.A2 Die Anforderung ist komplett entfallen.
+#### IND.2.2.A2 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -7558,25 +7558,25 @@ __Ehemals:__
 *Wenn sich an den Zuständigkeiten der Mitarbeiter etwas ändert, SOLLTEN die Berechtigungen umgehend angepasst werden.*
 
 
-#### IND 2.2.A3
+#### IND.2.2.A3
 
 Keine inhaltlichen Änderungen.
 
 
 
-### IND 2.3
+### IND.2.3
 
-#### IND 2.3.A1
-
-Keine inhaltlichen Änderungen.
-
-
-#### IND 2.3.A2
+#### IND.2.3.A1
 
 Keine inhaltlichen Änderungen.
 
 
-#### IND 2.3.A3
+#### IND.2.3.A2
+
+Keine inhaltlichen Änderungen.
+
+
+#### IND.2.3.A3
 
 __Geändert:__
 
@@ -7585,20 +7585,20 @@ Alle nicht benutzten Kommunikationsschnittstellen SOLLTEN deaktiviert werden.
 </details>
 
 
-### IND 2.4
+### IND.2.4
 
-#### IND 2.4.A1
-
-SOLLTE wurde durch MUSS ersetzt
-
-
-#### IND 2.4.A2
+#### IND.2.4.A1
 
 SOLLTE wurde durch MUSS ersetzt
 
 
+#### IND.2.4.A2
 
-### IND 2.7
+SOLLTE wurde durch MUSS ersetzt
+
+
+
+### IND.2.7
 
 Verantwortlich wurde durch Zuständig ersetzt.
 
@@ -7612,7 +7612,7 @@ Sonst keine inhaltlichen Änderungen.
 
 ## NET
 
-### NET 1.1
+### NET.1.1
 
 Verantwortlich wurde durch Zuständig ersetzt.
 
@@ -7620,36 +7620,36 @@ Verantwortlich wurde durch Zuständig ersetzt.
 <summary> Änderungen
 </summary>
 
-#### NET 1.1.A1
+#### NET.1.1.A1
 
 Keine inhaltlichen Änderungen.
 
 
-#### NET 1.1.A2
+#### NET.1.1.A2
 
 ##### Hinzugefüt:
 
 Die Dokumentation MUSS nachhaltig gepflegt werden.
 
 
-#### NET 1.1.A3-A7
+#### NET.1.1.A3-A7
 
 Keine inhaltlichen Änderungen.
 
 
-#### NET 1.1.A8
+#### NET.1.1.A8
 
 __Entfallen:__
 
 *Der Internetzugang MUSS entsprechend NET.1.1.A4 Netztrennung in Sicherheitszonen gestaltet werden.*
 
 
-#### NET 1.1.A9-A17
+#### NET.1.1.A9-A17
 
 Keine inhaltlichen Änderungen.
 
 
-#### NET 1.1.A18
+#### NET.1.1.A18
 
 __Geändert:__
 
@@ -7680,30 +7680,30 @@ Die interne Firewall MUSS zudem die Angriffsfläche des ALGs oder der Sicherheit
 Authentisierte und vertrauenswürdige Netzzugriffe vom VPN-Gateway ins interne Netz SOLLTEN NICHT das ALG oder die Sicherheits-Proxies der P-A-P-Struktur durchlaufen.
 
 
-#### NET 1.1.A18-A36
+#### NET.1.1.A18-A36
 
 Keine inhaltlichen Änderungen.
 
 </details>
 
 
-### NET 1.2
+### NET.1.2
 
 <details>
 <summary> Änderungen
 </summary>
 
-#### NET 1.2.A1
+#### NET.1.2.A1
 
 Keine inhaltlichen Änderungen.
 
 
-#### NET 1.2.A2
+#### NET.1.2.A2
 
 Keine inhaltlichen Änderungen.
 
 
-#### NET 1.2.A3 Die Anforderung ist komplett entfallen.
+#### NET.1.2.A3 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -7714,7 +7714,7 @@ __Ehemals:__
 *Das Konzept MUSS die speziellen Tätigkeiten und den zugehörigen Zugriff auf Informationen im Netzmanagement abbilden.*
 
 
-#### NET 1.2.A4 Die Anforderung ist komplett entfallen.
+#### NET.1.2.A4 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -7729,7 +7729,7 @@ __Ehemals:__
 *Die neuen Passwörter MÜSSEN ausreichend stark sein.*
 
 
-#### NET 1.2.A5 Die Anforderung ist komplett entfallen.
+#### NET.1.2.A5 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -7740,14 +7740,14 @@ __Ehemals:__
 *Nicht sicherheitsrelevante Updates DÜRFEN NICHT die Sicherheit und Stabilität der Netzmanagement-Lösung beeinträchtigen.*
 
 
-#### NET 1.2.A6
+#### NET.1.2.A6
 
 __Geändert:__
 
 Bei der Datensicherung des Netzmanagements MÜSSEN mindestens die Systemdaten für die Einbindung der zu verwaltenden Komponenten bzw. Objekte, Ereignismeldungen, Statistikdaten sowie vorgehaltene Daten für das Konfigurationsmanagement gesichert werden.
 
 
-#### NET 1.2.A7
+#### NET.1.2.A7
 
 __Geändert:__
 
@@ -7762,24 +7762,24 @@ Mindestens folgende Ereignisse MÜSSEN protokolliert werden:
 • eingeschränkte Erreichbarkeit von Netzkomponenten.
 
 
-#### NET 1.2.A8
+#### NET.1.2.A8
 
 MUSS wurde durch SOLLTE ersetzt
 
 
-#### NET 1.2.A9
+#### NET.1.2.A9
 
 __Hinzugefügt:__:
 
 Falls von einem Netz außerhalb der Managementnetze auf Netzmanagement-Werkzeuge zugegriffen wird, MÜSSEN als sicher geltende Authentisierungs- und Verschlüsselungsmethoden realisiert werden.
 
 
-#### NET 1.2.A10-A18
+#### NET.1.2.A10-A18
 
 Keine inhaltlichen Änderungen.
 
 
-#### NET 1.2.A19 Die Anforderung ist komplett entfallen.
+#### NET.1.2.A19 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -7790,7 +7790,7 @@ __Ehemals:__
 *Die administrativen Zugänge SOLLTEN über einen zentralen Authentisierungsserver mittels personalisierter Konten über entsprechend sichere Protokolle authentisiert werden.*
 
 
-#### NET 1.2.A20 Die Anforderung ist komplett entfallen.
+#### NET.1.2.A20 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -7803,17 +7803,17 @@ __Ehemals:__
 *Falls von einem Netz außerhalb der Managementnetze auf Netzmanagement-Werkzeuge zugegriffen wird, MÜSSEN als sicher geltende Authentisierungs- und Verschlüsselungsmethoden realisiert werden.*
 
 
-#### NET 1.2.A21
+#### NET.1.2.A21
 
 Keine inhaltlichen Änderungen.
 
 
-#### NET 1.2.A22
+#### NET.1.2.A22
 
 Keine inhaltlichen Änderungen.
 
 
-#### NET 1.2.A23 Die Anforderung ist komplett entfallen.
+#### NET.1.2.A23 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -7830,12 +7830,12 @@ __Ehemals:__
 *Wenn Daten archiviert werden, SOLLTE darauf geachtet werden, dass dies gesetzeskonform und revisionssicher durchgeführt wird.*
 
 
-#### NET 1.2.A24-A33
+#### NET.1.2.A24-A33
 
 Keine inhaltlichen Änderungen.
 
 
-#### NET 1.2.A34 Die Anforderung ist komplett entfallen.
+#### NET.1.2.A34 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -7848,24 +7848,24 @@ __Ehemals:__
 *Auch die protokollierten Inhalte der administrativen Sitzungen SOLLTEN in der Datensicherung ausreichend und gesetzeskonform geschützt werden.*
 
 
-#### NET 1.2.A35
+#### NET.1.2.A35
 
 __Entfallen:__
 
 *Es SOLLTEN Vorgehensweisen zur Beweissicherung und zu forensischen Untersuchungen im Rahmen des Netzmanagements festgelegt und dokumentiert werden.*
 
 
-#### NET 1.2.A36
+#### NET.1.2.A36
 
 Keine inhaltlichen Änderungen.
 
 
-#### NET 1.2.A37
+#### NET.1.2.A37
 
 Keine inhaltlichen Änderungen.
 
 
-#### NET 1.2.A38
+#### NET.1.2.A38
 
 Keine inhaltlichen Änderungen.
 
@@ -7873,18 +7873,18 @@ Keine inhaltlichen Änderungen.
 
 
 
-### NET 2.1
+### NET.2.1
 
 <details>
 <summary> Änderungen
 </summary>
 
-#### NET 2.1.A1-A5
+#### NET.2.1.A1-A5
 
 Keine inhaltlichen Änderungen.
 
 
-#### NET 2.1.A6
+#### NET.2.1.A6
 
 __Entfallen:__
 
@@ -7895,58 +7895,58 @@ __Entfallen:__
 *• Wird die WLAN-Schnittstelle über einen längeren Zeitraum nicht genutzt, MUSS diese deaktiviert werden.*
 
 
-#### NET 2.1.A7
+#### NET.2.1.A7
 
 Keine inhaltlichen Änderungen.
 
 
-#### NET 2.1.A8
+#### NET.2.1.A8
 
 __Entfallen:__
 
 *Die möglichen Konsequenzen sicherheitskritischer Ereignisse MÜSSEN untersucht werden.*
 
 
-#### NET 2.1.A9
+#### NET.2.1.A9
 
 Keine inhaltlichen Änderungen.
 
 
-#### NET 2.1.A10
+#### NET.2.1.A10
 
 __Hinzugefügt:__:
 
 Werden die Inhalte der Richtlinie nicht umgesetzt, MUSS geeignet reagiert werden.
 
 
-#### NET 2.1.A11-A18
+#### NET.2.1.A11-A18
 
 Keine inhaltlichen Änderungen.
 
 </details>
 
 
-### NET 2.2
+### NET.2.2
 
 <details>
 <summary> Änderungen
 </summary>
 
-#### NET 2.2.A1
+#### NET.2.2.A1
 
 __Hinzugefügt:__:
 
 Ist dies nicht der Fall, MUSS geeignet reagiert werden.
 
 
-#### NET 2.2.A2
+#### NET.2.2.A2
 
 __Hinzugefügt:__:
 
 Hierfür MÜSSEN geeignete Schulungsinhalte identifiziert und festgelegt werden.
 
 
-#### NET 2.2.A3
+#### NET.2.2.A3
 
 __Hinzugefügt:__:
 
@@ -7957,7 +7957,7 @@ __Hinzugefügt:__:
 • Wird die WLAN-Schnittstelle über einen längeren Zeitraum nicht genutzt, MUSS diese deaktiviert werden.
 
 
-#### NET 2.2.A4
+#### NET.2.2.A4
 
 __Hinzugefügt:__:
 
@@ -7968,13 +7968,13 @@ Wird die WLAN-Schnittstelle über einen längeren Zeitraum nicht genutzt, MUSS d
 </details>
 
 
-### NET 3.1
+### NET.3.1
 
 <details>
 <summary> Änderungen
 </summary>
 
-#### NET 3.1.A1
+#### NET.3.1.A1
 
 __Entfallen:__
 
@@ -7989,7 +7989,7 @@ __Entfallen:__
 *Entsprechend dem Rechte- und Rollenkonzept MÜSSEN anschließend die vorgesehenen Benutzerkonten und -rollen eingerichtet werden.*
 
 
-#### NET 3.1.A2 Die Anforderung ist komplett entfallen.
+#### NET.3.1.A2 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -8008,7 +8008,7 @@ __Ehemals:__
 *Sofern vom Hersteller angeboten, SOLLTEN die Update-Prüfsummen verglichen bzw. die digitalen Signaturen überprüft werden.*
 
 
-#### NET 3.1.A3 Die Anforderung ist komplett entfallen.
+#### NET.3.1.A3 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -8023,22 +8023,22 @@ __Ehemals:__
 *Es MUSS sichergestellt werden, dass nur mit Administrator-Rechten gearbeitet wird, wenn es notwendig ist.*
 
 
-#### NET 3.1.A4
+#### NET.3.1.A4
 
 Keine inhaltlichen Änderungen.
 
 
-#### NET 3.1.A5
+#### NET.3.1.A5
 
 Keine inhaltlichen Änderungen.
 
 
-#### NET 3.1.A6
+#### NET.3.1.A6
 
 Keine inhaltlichen Änderungen.
 
 
-#### NET 3.1.A7
+#### NET.3.1.A7
 
 __Entfallen:__
 
@@ -8047,37 +8047,37 @@ __Entfallen:__
 *Änderungen an der Konfiguration SOLLTEN zudem automatisch protokolliert werden.*
 
 
-#### NET 3.1.A8-A21
+#### NET.3.1.A8-A21
 
 Keine inhaltlichen Änderungen.
 
 
-#### NET 3.1.A22
+#### NET.3.1.A22
 
 __Hinzugefügt:__:
 
 Außerdem SOLLTE geplant und vorbereitet werden, wie die identifizierten Fehler behoben werden können.
 
 
-#### NET 3.1.A23-A28
+#### NET.3.1.A23-A28
 
 Keine inhaltlichen Änderungen.
 
 </details>
 
 
-### NET 3.2
+### NET.3.2
 
 <details>
 <summary> Änderungen
 </summary>
 
-#### NET 3.2.A1
+#### NET.3.2.A1
 
 Keine inhaltlichen Änderungen.
 
 
-#### NET 3.2.A2
+#### NET.3.2.A2
 
 __Entfallen:__
 
@@ -8086,19 +8086,19 @@ __Entfallen:__
 *Es MUSS beachtet werden, dass mögliche Ausnahmen zu dieser Anforderung in den entsprechenden anwendungs- und systemspezifischen Bausteinen geregelt werden.*
 
 
-#### NET 3.2.A3
+#### NET.3.2.A3
 
 Keine inhaltlichen Änderungen.
 
 
-#### NET 3.2.A4
+#### NET.3.2.A4
 
 __Entfallen:__
 
 *Eine Firewall DARF NUR von dafür autorisierten Personen installiert und konfiguriert werden.*
 
 
-#### NET 3.2.A5 Die Anforderung ist komplett entfallen.
+#### NET.3.2.A5 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -8111,22 +8111,22 @@ __Ehemals:__
 *Es MUSS sichergestellt werden, dass mit Administrator-Rechten nur gearbeitet wird, wenn es notwendig ist.*
 
 
-#### NET 3.2.A6
+#### NET.3.2.A6
 
 Keine inhaltlichen Änderungen.
 
 
-#### NET 3.2.A7
+#### NET.3.2.A7
 
 Keine inhaltlichen Änderungen.
 
 
-#### NET 3.2.A8
+#### NET.3.2.A8
 
 Keine inhaltlichen Änderungen.
 
 
-#### NET 3.2.A9
+#### NET.3.2.A9
 
 __Hinzugefügt:__:
 
@@ -8137,12 +8137,12 @@ __Entfallen:__
 *Die Verantwortlichen MÜSSEN darauf achten, dass bei der Protokollierung alle rechtlichen Rahmenbedingungen eingehalten werden.*
 
 
-#### NET 3.2.A10
+#### NET.3.2.A10
 
 Keine inhaltlichen Änderungen.
 
 
-#### NET 3.2.A11 Die Anforderung ist komplett entfallen.
+#### NET.3.2.A11 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -8161,7 +8161,7 @@ __Ehemals:__
 *Darauf MUSS auch bei zugehörigen Diensten innerhalb der Firewall geachtet werden.*
 
 
-#### NET 3.2.A12 Die Anforderung ist komplett entfallen.
+#### NET.3.2.A12 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -8172,7 +8172,7 @@ __Ehemals:__
 *Die Aufgaben und Kompetenzen der betroffenen Mitarbeiter MÜSSEN eindeutig festgelegt werden.*
 
 
-#### NET 3.2.A13 Die Anforderung ist komplett entfallen.
+#### NET.3.2.A13 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -8185,71 +8185,71 @@ __Ehemals:__
 *Wenn gesicherte Datenbestände wieder eingespielt werden, MÜSSEN sich die sicherheitsrelevanten Dateien auf dem sicherheitstechnisch erforderlichen Konfigurationsstand befinden.*
 
 
-#### NET 3.2.A14
+#### NET.3.2.A14
 
 __Entfallen:__
 
 *Änderungen an der Konfiguration MÜSSEN zudem möglichst automatisch protokolliert werden.*
 
 
-#### NET 3.2.A15-A22
+#### NET.3.2.A15-A22
 
 Keine inhaltlichen Änderungen.
 
 
-#### NET 3.2.A23
+#### NET.3.2.A23
 
 __Entfallen:__
 
 Weiterhin SOLLTE ein Prozess definiert werden, der regelt, wie Protokolldaten ausgewertet werden sollen und welche Protokolle regelmäßig, sporadisch oder nur anlassbezogen auszuwerten sind.
 
 
-#### NET 3.2.A24
+#### NET.3.2.A24
 
 Keine inhaltlichen Änderungen.
 
 
-#### NET 3.2.32
+#### NET.3.2.32
 
 Die Anforderung wurde komplett neu hinzugefügt.
 
 
-#### NET 3.2.A25-A31
+#### NET.3.2.A25-A31
 
 Keine inhaltlichen Änderungen.
 
 </details>
 
 
-### NET 3.3
+### NET.3.3
 
 <details>
 <summary> Änderungen
 </summary>
 
-#### NET 3.3.A1
+#### NET.3.3.A1
 
 Keine inhaltlichen Änderungen.
 
 
-#### NET 3.3.A2
+#### NET.3.3.A2
 
 Keine inhaltlichen Änderungen.
 
 
-#### NET 3.3.A3
+#### NET.3.3.A3
 
 __Entfallen:__
 
 *Das zugrunde liegende Betriebssystem der VPN-Plattform MUSS sicher konfiguriert werden.*
 
 
-#### NET 3.3.A4-A10
+#### NET.3.3.A4-A10
 
 Keine inhaltlichen Änderungen.
 
 
-#### NET 3.3.A11
+#### NET.3.3.A11
 
 __Entfallen:__
 
@@ -8258,7 +8258,7 @@ __Entfallen:__
 *Auch das gewählte Verfahren zum Schlüsselaustausch SOLLTE als sicher gelten.*
 
 
-#### NET 3.3.A12
+#### NET.3.3.A12
 
 __Entfallen:__
 
@@ -8269,7 +8269,7 @@ __Entfallen:__
 *Weiterhin SOLLTEN die eingesetzten Server vor unbefugten Zugriffen geschützt sein.*
 
 
-#### NET 3.3.A13
+#### NET.3.3.A13
 
 Keine inhaltlichen Änderungen.
 
@@ -8277,23 +8277,23 @@ Keine inhaltlichen Änderungen.
 
 
 
-### NET 4.1
+### NET.4.1
 
 <details>
 <summary> Änderungen
 </summary>
 
-#### NET 4.1.A1
+#### NET.4.1.A1
 
 Keine inhaltlichen Änderungen.
 
 
-#### NET 4.1.A2
+#### NET.4.1.A2
 
 Keine inhaltlichen Änderungen.
 
 
-#### NET 4.1.A3 Die Anforderung ist komplett entfallen.
+#### NET.4.1.A3 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -8304,7 +8304,7 @@ __Ehemals:__
 *Die Änderungen MÜSSEN durchgeführt werden, bevor die TK-Anlage in Betrieb genommen wird.*
 
 
-#### NET 4.1.A4 Die Anforderung ist komplett entfallen.
+#### NET.4.1.A4 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -8319,42 +8319,42 @@ __Ehemals:__
 *Alle anderen Remote-Zugänge MÜSSEN vor unberechtigtem Zugriff geschützt und auf die notwendigen Personen beschränkt werden.*
 
 
-#### NET 4.1.A5-A16
+#### NET.4.1.A5-A16
 
 Keine inhaltlichen Änderungen.
 
 
-#### NET 4.1.A17
+#### NET.4.1.A17
 
 __Entfallen:__
 
 *Die Datenverbindungen bei IP-basierten Zugängen zur TK-Anlage SOLLTEN verschlüsselt sein.*
 
 
-#### NET 4.1.A18
+#### NET.4.1.A18
 
 Keine inhaltlichen Änderungen.
 
 
-#### NET 4.1.A19
+#### NET.4.1.A19
 
 Keine inhaltlichen Änderungen.
 
 </details>
 
 
-### NET 4.2
+### NET.4.2
 
 <details>
 <summary> Änderungen
 </summary>
 
-#### NET 4.2.A1
+#### NET.4.2.A1
 
 Keine inhaltlichen Änderungen.
 
 
-#### NET 4.2.A2 Die Anforderung ist komplett entfallen.
+#### NET.4.2.A2 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -8365,26 +8365,26 @@ __Ehemals:__
 *Die eingesetzten Software-Komponenten MÜSSEN regelmäßig mit Updates aus vertrauenswürdigen Quellen aktualisiert werden.*
 
 
-#### NET 4.2.A3
+#### NET.4.2.A3
 
 __Entfallen:__
 
 *Die eingesetzten Software-Komponenten MÜSSEN regelmäßig mit Updates aus vertrauenswürdigen Quellen aktualisiert werden.*
 
 
-#### NET 4.2.A4
+#### NET.4.2.A4
 
 Keine inhaltlichen Änderungen
 
 
-#### NET 4.2.A5
+#### NET.4.2.A5
 
 __Entfallen:__
 
 *Es SOLLTE eine Regelung zur restriktiven Anmeldung von Geräten und Benutzern erstellt werden.*
 
 
-#### NET 4.2.A6 Die Anforderung ist komplett entfallen.
+#### NET.4.2.A6 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -8401,24 +8401,24 @@ __Ehemals:__
 *Die Protokolldaten SOLLTEN zeitnah ausgewertet werden.*
 
 
-#### NET 4.2.A7
+#### NET.4.2.A7
 
 __Hinzugefügt:__:
 
 Hierbei SOLLTEN auch die verschiedenen VoIP-Funktionen, wie zum Beispiel Voicemails, betrachtet werden.
 
 
-#### NET 4.2.A8
+#### NET.4.2.A8
 
 Keine inhaltlichen Änderungen
 
 
-#### NET 4.2.A9
+#### NET.4.2.A9
 
 Keine inhaltlichen Änderungen
 
 
-#### NET 4.2.A10 Die Anforderung ist komplett entfallen.
+#### NET.4.2.A10 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -8429,12 +8429,12 @@ __Ehemals:__
 *Die Maßnahmen SOLLTEN die individuellen Einsatzgebiete der Administration von VoIP sowie typische Situationen im Fehlermanagement abdecken.*
 
 
-#### NET 4.2.A11-A14
+#### NET.4.2.A11-A14
 
 Keine inhaltlichen Änderungen
 
 
-#### NET 4.2.A15
+#### NET.4.2.A15
 
 __Geändert:__
 
@@ -8445,7 +8445,7 @@ Die Nutzdaten SOLLTEN durch den Einsatz von Secure Real-Time Transport Protocol 
 </details>
 
 
-### NET 4.3
+### NET.4.3
 
 Keine inhaltlichen Änderungen
 
@@ -8457,42 +8457,42 @@ Keine inhaltlichen Änderungen
 
 ## INF
 
-### INF 1
+### INF.1
 
 <details>
 <summary> Änderungen
 </summary>
 
-#### INF 1.A1
+#### INF.1.A1
 
 Keine inhaltlichen Änderungen.
 
 
-#### INF 1.A2
+#### INF.1.A2
 
 Keine inhaltlichen Änderungen.
 
 
-#### INF 1.A3
+#### INF.1.A3
 
 Keine inhaltlichen Änderungen.
 
 
-#### INF 1.A4
+#### INF.1.A4
 
 __Entfallen:__
 
 *Es MUSS regelmäßig kontrolliert werden, dass die Fluchtwege benutzbar und frei von Hindernissen sind, damit das Gebäude in einer Gefahrensituation schnell geräumt werden kann.*
 
 
-#### INF 1.A5
+#### INF.1.A5
 
 __Hinzugefügt:__:
 
 Die Einweisungen SOLLTEN in zweckmäßigen Zeitabständen wiederholt werden.
 
 
-#### INF 1.A6
+#### INF.1.A6
 
 __Hinzugefügt:__:
 
@@ -8501,29 +8501,29 @@ Die Einweisungen SOLLTEN in zweckmäßigen Zeitabständen wiederholt werden.
 Brand- und Rauchschutztüren DÜRFEN NUR dann dauerhaft offen gehalten werden, wenn dies durch zugelassene Feststellanlagen erfolgt.
 
 
-#### INF 1.A7
+#### INF.1.A7
 
 __Hinzugefügt:__:
 
 Zutrittskontrollen SOLLTEN auch während Umzügen soweit wie möglich vorhanden sein.
 
 
-#### INF 1.A8
+#### INF.1.A8
 
 Keine inhaltlichen Änderungen.
 
 
-#### INF 1.A10
+#### INF.1.A10
 
 Die Anforderung wurde von einer Standard- zu einer Basis-Anfordrung gewandelt.
 
 
-#### INF 1.A9
+#### INF.1.A9
 
 Keine inhaltlichen Änderungen.
 
 
-#### INF 1.A11 Die Anforderung ist komplett entfallen.
+#### INF.1.A11 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -8534,29 +8534,29 @@ __Ehemals:__
 *Es SOLLTE sporadisch überprüft werden, ob dies umgesetzt wird.*
 
 
-#### INF 1.A12-A19
+#### INF.1.A12-A19
 
 Keine inhaltlichen Änderungen.
 
 
-#### INF 1.A20
+#### INF.1.A20
 
 ##### Entfalle:
 
 *Er SOLLTE periodisch aktualisiert werden.*
 
 
-#### INF 1.A27
+#### INF.1.A27
 
 Die Anforderung ist von einer Standard- zu einer Basis-Anforderung geändert wurden.
 
 
-#### INF 1.A36
+#### INF.1.A36
 
 Die Anforderung ist komplett neu hinzugefügt.
 
 
-#### INF 1.A21 Die Anforderung ist komplett entfallen.
+#### INF.1.A21 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -8565,34 +8565,34 @@ __Ehemals:__
 *Die IT-Systeme SOLLTEN über zwei voneinander unabhängige Versorgungsstränge gespeist werden.*
 
 
-#### INF 1.A22
+#### INF.1.A22
 
 Keine inhaltlichen Änderungen.
 
 
-#### INF 1.A23
+#### INF.1.A23
 
 __Entfallen:__
 
 *Es SOLLTE ein Sicherheitszonenkonzept für Gebäude und Grundstück entwickelt und dokumentiert werden.*
 
 
-#### INF 1.A24
+#### INF.1.A24
 
 Keine inhaltlichen Änderungen.
 
 
-#### INF 1.A25
+#### INF.1.A25
 
 Keine inhaltlichen Änderungen.
 
 
-#### INF 1.A26
+#### INF.1.A26
 
 Keine inhaltlichen Änderungen.
 
 
-#### INF 1.A28 Die Anforderung ist komplett entfallen.
+#### INF.1.A28 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -8605,7 +8605,7 @@ __Ehemals:__
 *RLT-Anlagen SOLLTEN regelmäßig gewartet werden.*
 
 
-#### INF 1.A29 Die Anforderung ist komplett entfallen.
+#### INF.1.A29 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -8618,22 +8618,22 @@ __Ehemals:__
 *Reinigungskräfte SOLLTEN in besonders sensitiven Bereichen bei der Arbeit beaufsichtigt werden.*
 
 
-#### INF 1.A30
+#### INF.1.A30
 
 Keine inhaltlichen Änderungen.
 
 
-#### INF 1.A31
+#### INF.1.A31
 
 Keine inhaltlichen Änderungen.
 
 
-#### INF 1.A32
+#### INF.1.A32
 
 Keine inhaltlichen Änderungen.
 
 
-#### INF 1.A33 Die Anforderung ist komplett entfallen.
+#### INF.1.A33 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -8646,7 +8646,7 @@ __Ehemals:__
 *Dies SOLLTE dokumentiert werden.*
 
 
-#### INF 1.A34
+#### INF.1.A34
 
 __Geändert:__
 
@@ -8681,18 +8681,18 @@ Hierbei SOLLTEN mindestens folgende Komponenten auf ihren Nutzen und ihre Umsetz
 </details>
 
 
-### INF 2
+### INF.2
 
 <details>
 <summary> Änderungen
 </summary>
 
-#### INF 2.A1-A5
+#### INF.2.A1-A5
 
 Keine inhaltlichen Änderungen.
 
 
-#### INF 2.A6
+#### INF.2.A6
 
 __Geändert:__
 
@@ -8705,12 +8705,12 @@ Alle Zutrittsmöglichkeiten zum Rechenzentrum MÜSSEN mit Zutrittskontrolleinric
 Jeder Zutritt zum Rechenzentrum MUSS von der Zutrittskontrolle individuell erfasst werden.
 
 
-#### INF 2.A7-A14
+#### INF.2.A7-A14
 
 Keine inhaltlichen Änderungen.
 
 
-#### INF 2.A15
+#### INF.2.A15
 
 __Geändert:__
 
@@ -8723,17 +8723,17 @@ Für alle für den ordnungsgemäßen Betrieb des RZ und dessen Dienstleistungsbe
 Alle Einrichtungen des Überspannungsschutzes SOLLTEN gemäß DIN EN 62305-3, Tabelle E.2 ein Mal im Jahr einer Umfassenden Prüfung unterzogen werden.
 
 
-#### INF 2.A16
+#### INF.2.A16
 
 Keine inhaltlichen Änderungen.
 
 
-#### INF 2.A19
+#### INF.2.A19
 
 Keine inhaltlichen Änderungen.
 
 
-#### INF 2.A20 Die Anforderung ist komplett entfallen.
+#### INF.2.A20 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -8746,24 +8746,24 @@ __Ehemals:__
 *Es SOLLTE mindestens einmal innerhalb von drei Jahren überprüft werden, ob alle relevanten Pläne noch aktuell und korrekt sind.*
 
 
-#### INF 2.A30 Die Anforderung wurde komplett geändert.
+#### INF.2.A30 Die Anforderung wurde komplett geändert.
 
 __Geändert:__
 
 Ein Rechenzentrum SOLLTE mit einer automatischen Lösch- oder Brandvermeidungsanlage ausgestattet werden.
 
 
-#### INF 2.A21
+#### INF.2.A21
 
 Keine inhaltlichen Änderungen.
 
 
-#### INF 2.A22
+#### INF.2.A22
 
 Keine inhaltlichen Änderungen.
 
 
-#### INF 2.A23
+#### INF.2.A23
 
 __Geändert:__
 
@@ -8774,7 +8774,7 @@ Trassen SOLLTEN hinsichtlich Anordnung und Dimensionierung so ausgelegt sein, da
 Zur optimalen Versorgung von IT-Hardware, die über zwei Netzteile verfügt, SOLLTE ab der Niederspannungshauptverteilung für die IT-Betriebsbereiche eine zweizügige sogenannte A-B-Versorgung aufgebaut werden.
 
 
-#### INF 2.A24
+#### INF.2.A24
 
 __Geändert:__
 
@@ -8787,17 +8787,17 @@ Die für eine Videoüberwachung benötigten zentralen Technikkomponenten SOLLTEN
 Es SOLLTE regelmäßig überprüft werden, ob die Videoüberwachungsanlage korrekt funktioniert und ob die mit dem Datenschutzbeauftragten abgestimmten Blickwinkel eingehalten werden.
 
 
-#### INF 2.A25
+#### INF.2.A25
 
 Keine inhaltlichen Änderungen.
 
 
-#### INF 2.A26
+#### INF.2.A26
 
 Keine inhaltlichen Änderungen.
 
 
-#### INF 2.A27 Die Anforderung ist komplett entfallen.
+#### INF.2.A27 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -8810,61 +8810,61 @@ __Ehemals:__
 *Es SOLLTE regelmäßig geprüft werden, ob die Maßnahmen noch korrekt, aktuell und praktikabel sind.*
 
 
-#### INF 2.A28
+#### INF.2.A28
 
 Keine inhaltlichen Änderungen.
 
 </details>
 
 
-### INF 3
+### INF.3
 
 Der Baustein ist komplett entfallen.
 
 
 
-### INF 4
+### INF.4
 
 Der Baustein ist komplett entfallen.
 
 
 
-### INF 5
+### INF.5
 
 <details>
 <summary> Änderungen
 </summary>
 
-#### INF 5.A1-A6
+#### INF.5.A1-A6
 
 Keine inhaltlichen Änderungen.
 
 
-#### INF 5.A7
+#### INF.5.A7
 
 __Geändert:__
 
 Der Raum für technische Infrastruktur DARF NICHT zweckentfremdet werden, z. B. als Abstellraum oder Putzmittellager.
 
 
-#### INF 5.A9
+#### INF.5.A9
 
 Die Anforderung wurde von einer Standard-Anforderung zu einer Basis-Anforderung.
 
 
-#### INF 5.A8-A19
+#### INF.5.A8-A19
 
 Keine inhaltlichen Änderungen.
 
 
-#### INF 5.A20
+#### INF.5.A20
 
 __Entfallen:__
 
 *Sowohl die Trassen der Datenleitungen als auch die der Energieversorgung SOLLTEN im Gebäude über ihre gesamte Länge bis zum Raum vor unbefugten Zugriffen geschützt werden.*
 
 
-#### INF 5.A21 Die Anforderung ist komplett entfallen.
+#### INF.5.A21 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -8875,25 +8875,25 @@ __Ehemals:__
 *Bei sehr hohem Schutzbedarf SOLLTE auch eine Wartungsredundanz vorhanden sein.*
 
 
-#### INF 5.A22-A26
+#### INF.5.A22-A26
 
 Keine inhaltlichen Änderungen.
 
 </details>
 
 
-### INF 6
+### INF.6
 
 <details>
 <summary> Änderungen
 </summary>
 
-#### INF 6.A1-A3
+#### INF.6.A1-A3
 
 Keine inhaltlichen Ánderungen.
 
 
-#### INF 6.A4
+#### INF.6.A4
 
 __Entfallen:__
 
@@ -8906,25 +8906,25 @@ __Entfallen:__
 *Zudem MUSS regelmäßig überprüft werden, ob Fenster und Türen nach Verlassen der Räume ge- bzw. verschlossen sind.*
 
 
-#### INF 6.A5-A9
+#### INF.6.A5-A9
 
 Keine inhaltlichen Ánderungen.
 
 </details>
 
 
-### INF 7
+### INF.7
 
 <details>
 <summary> Änderungen
 </summary>
 
-#### INF 7.A1
+#### INF.7.A1
 
 Keine inhaltlichen Änderungen.
 
 
-#### INF 7.A2
+#### INF.7.A2
 
 __Geändert:__
 
@@ -8933,12 +8933,12 @@ Wenn Mitarbeiter ihre Büroräume verlassen, SOLLTEN alle Fenster geschlossen we
 Befinden sich vertrauliche Informationen in dem Büroraum, MÜSSEN beim Verlassen die Türen abgeschlossen werden.
 
 
-#### INF 7.A3
+#### INF.7.A3
 
 Keine inhaltlichen Änderungen.
 
 
-#### INF 7.A4 Die Anforderung ist komplett entfallen.
+#### INF.7.A4 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -8951,49 +8951,49 @@ __Ehemals:__
 *Zudem SOLLTE regelmäßig überprüft werden, ob die ergriffenen Maßnahmen wirksam sind.*
 
 
-#### INF 7.A5-A8
+#### INF.7.A5-A8
 
 Keine inhaltlichen Änderungen.
 
 </details>
 
 
-### INF 8
+### INF.8
 
 Keine inhaltlichen Änderungen.
 
 
 
-### INF 9
+### INF.9
 
 <details>
 <summary> Änderungen
 </summary>
 
-#### INF 9.A1-A11
+#### INF.9.A1-A11
 
 keine inhaltlichen Änderungen.
 
 
-#### INF 9.A12
+#### INF.9.A12
 
 Die ANforderung ist komplett neu hinzugefügt.
 
 </details>
 
 
-### INF 10
+### INF.10
 
 <details>
 <summary> Änderungen
 </summary>
 
-#### INF 10.A1
+#### INF.10.A1
 
 keine inhaltlichen Änderungen.
 
 
-#### INF 10.A2 Die Anforderung ist komplett entfallen.
+#### INF.10.A2 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -9004,19 +9004,19 @@ __Ehemals:__
 *Mitarbeiter MÜSSEN dazu angehalten werden, fremde Personen nicht unbeaufsichtigt zu lassen.*
 
 
-#### INF 10.A3-A6
+#### INF.10.A3-A6
 
 keine inhaltlichen Änderungen
 
 
-#### INF 10.A7
+#### INF.10.A7
 
 __Entfallen:__
 
 Auf andere Netze SOLLTE nur restriktiv zugegriffen werden können.
 
 
-#### INF 10.A8-A10
+#### INF.10.A8-A10
 
 keine inhaltlichen Änderungen
 
@@ -9024,13 +9024,13 @@ keine inhaltlichen Änderungen
 
 
 
-### INF 11
+### INF.11
 
 Der Baustein ist komplett neu hinzugefügt wurden.
 
 
 
-### INF 12
+### INF.12
 
 Der Baustein ist komplett neu hinzugefügt wurden.
 
