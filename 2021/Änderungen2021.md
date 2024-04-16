@@ -159,6 +159,8 @@ Keine inhaltlichen Änderungen.
 <summary> Änderungen
 </summary>
 
+#### Basis-Anforderungen
+
 #### ORP.1.A1
 
 Keine inhaltlichen Änderungen
@@ -199,11 +201,11 @@ __Ehemals:__
 
 *Es MUSS festgelegt werden, welche Zutritts-, Zugangs- und Zugriffsrechte an welche Personen im Rahmen ihrer Aufgaben und Funktionen vergeben werden (siehe auch ORP.4 Identitäts- und Berechtigungsmanagement).*
 
-
 #### ORP.1.A15
 
 Diese Anforderung wurde komplett neu hinzugefügt.
 
+#### Standard-Anforderungen
 
 #### ORP.1.A6 Die Anforderung ist komplett entfallen.
 
@@ -278,6 +280,9 @@ __Entfallen:__
 
 *Während des Umzugs SOLLTE ein Mindestmaß an Zutritts- und Zugangskontrolle vorhanden sein.*
 
+#### ORP.1.A16 Die Anforderung ist komplett neu hinzugefügt wurden.
+
+#### Anforderungen bei erhöhtem Schutzbedarf
 
 #### ORP.1.A14 Diese Anfroderung ist komplett entfallen.
 
@@ -290,9 +295,6 @@ __Ehemals:__
 *Einfach zu behebende Mängel SOLLTEN sofort behoben werden (z. B. Fenster schließen).*
 
 *Darüber hinaus SOLLTEN Ursachen hinterfragt und beseitigt werden.*
-
-
-#### ORP.1.A16 Die Anforderung ist komplett neu hinzugefügt wurden.
 
 </details>
 
