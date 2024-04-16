@@ -2454,13 +2454,13 @@ Keine inhaltlichen Änderungen.
 
 ## APP
 
-### APP 1.1
+### APP.1.1
 
 <details>
 <summary> Änderungen
 </summary>
 
-#### APP 1.1.A1 Die Anforderung ist komplett entfallen.
+#### APP.1.1.A1 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -2479,7 +2479,7 @@ __Ehemals:__
 *Ebenso wie bei einer Neuinstallation MUSS bei der Installation von Updates sichergestellt werden, dass die Update-Pakete unverändert sind.*
 
 
-#### APP 1.1.A2
+#### APP.1.1.A2
 
 __Geändert:__
 
@@ -2490,7 +2490,7 @@ Falls es dennoch notwendig ist, Aktive Inhalte auszuführen, MUSS darauf geachte
 Alle Benutzer MÜSSEN hinsichtlich der Funktionen, die Aktive Inhalte einschränken, eingewiesen werden.
 
 
-#### APP 1.1.A3
+#### APP.1.1.A3
 
 __Entfallen:__
 
@@ -2503,7 +2503,7 @@ Falls möglich, SOLLTEN sie blockiert werden.
 Durch technische Maßnahmen SOLLTE erzwungen werden, dass Dokumente aus externen Quellen geprüft werden.
 
 
-#### APP 1.1.A4 Die Anforderung ist komplett entfallen.
+#### APP.1.1.A4 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -2518,7 +2518,7 @@ __Ehemals:__
 *Die Vorgaben für die sichere Nutzung von Office-Produkten SOLLTEN in der Sicherheitsrichtlinie integriert werden.*
 
 
-#### APP 1.1.A17 Die Anforderung wurde neu hinzugefügt und hat zum Teil A4 ersetzt.
+#### APP.1.1.A17 Die Anforderung wurde neu hinzugefügt und hat zum Teil A4 ersetzt.
 
 __Geändert:__
 
@@ -2533,7 +2533,7 @@ Den Benutzern SOLLTE vermittelt werden, mit welchen Funktionen sie Dokumente vor
 Benutzer SOLLTEN im Umgang mit den Verschlüsselungsfunktionen in Office-Produkten sensibilisiert werden.
 
 
-#### APP 1.1.A5 Die Anforderung ist komplett entfallen.
+#### APP.1.1.A5 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -2548,14 +2548,14 @@ __Ehemals:__
 *Bei der Auswahl zwischen mehreren Alternativen SOLLTE auch der zusätzliche Aufwand berücksichtigt werden, wie beispielsweise der Mehraufwand für die Schulung von Administratoren und Benutzern oder für die Migration.*
 
 
-#### APP 1.1.A6
+#### APP.1.1.A6
 
 __Entfallen:__
 
 *Zu diesem Zweck SOLLTEN Testmethoden für die Einzeltests (Testarten, -verfahren und -werkzeuge) entwickelt und freigegeben werden.*
 
 
-#### APP 1.1.A7 Die Anforderung ist komplett entfallen.
+#### APP.1.1.A7 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -2576,7 +2576,7 @@ __Ehemals:__
 *Vor und nach den Installationen SOLLTEN Datensicherungen der Office-Produkte auf allen betroffenen IT-Systemen durchgeführt werden.*
 
 
-#### APP 1.1.A8 Die Anforderung ist komplett entfallen.
+#### APP.1.1.A8 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -2587,7 +2587,7 @@ __Ehemals:__
 *Diese Bestandsführung der Software-Lizenzen SOLLTE bei jeder Installation oder Deinstallation aktualisiert werden.*
 
 
-#### APP 1.1.A9 Die Anforderung ist komplett entfallen.
+#### APP.1.1.A9 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -2602,22 +2602,22 @@ __Ehemals:__
 *Dokumente SOLLTEN in einem nicht veränderbaren Format übermittelt werden, wenn keine Bearbeitung durch den Empfänger erforderlich ist.*
 
 
-#### APP 1.1.A10
+#### APP.1.1.A10
 
 Keine inhaltlichen Änderungen.
 
 
-#### APP 1.1.A11
+#### APP.1.1.A11
 
 Keine inhaltlichen Änderungen.
 
 
-#### APP 1.1.A12
+#### APP.1.1.A12
 
 Keine inhaltlichen Änderungen.
 
 
-#### APP 1.1.A13
+#### APP.1.1.A13
 
 __Hinzugefügt:__:
 
@@ -2626,14 +2626,14 @@ In dem geschützten Modus SOLLTEN Daten NICHT unmittelbar bearbeitet werden kön
 Aktive Inhalte, wie Makros und Skripte, SOLLTEN im geschützten Modus NICHT automatisch ausgeführt werden.
 
 
-#### APP 1.1.A14
+#### APP.1.1.A14
 
 __Entfallen:__
 
 *Die Benutzer SOLLTEN darauf hingewiesen werden, wie diese Sicherheitsmechanismen funktionieren und wie sie anzuwenden sind.*
 
 
-#### APP 1.1.A15
+#### APP.1.1.A15
 
 __Entfallen:__
 
@@ -2656,7 +2656,7 @@ Daten mit erhöhtem Schutzbedarf SOLLTEN nur verschlüsselt gespeichert bzw. üb
 Bevor ein in ein Office-Produkt integriertes Verschlüsselungsverfahren genutzt wird, SOLLTE geprüft werden, ob es einen ausreichenden Schutz bietet.
 
 
-#### APP 1.1.A16
+#### APP.1.1.A16
 
 __Entfallen:__
 
@@ -2665,27 +2665,27 @@ __Entfallen:__
 </details>
 
 
-### APP 1.2
+### APP.1.2
 
 <details>
 <summary> Änderungen
 </summary>
 
-#### APP 1.2.A1
+#### APP.1.2.A1
 
 __Geändert:__
 
 Der verwendete Webbrowser MUSS die Content Security Policy (CSP) umsetzen.
 
 
-#### APP 1.2.A2
+#### APP.1.2.A2
 
 __Entfallen:__
 
 *Für alle wichtigen öffentlichen TLS-verschlüsselten Web-Dienste SOLLTEN die Domains in die HSTS-Preload-Liste des Browsers eingefügt werden.*
 
 
-#### APP 1.2.A3
+#### APP.1.2.A3
 
 __Geändert:__
 
@@ -2698,7 +2698,7 @@ Außerdem MUSS sichergestellt werden, dass der Webbrowser Zertifikate lokal wide
 Der Webbrowser MUSS in diesem Fall die Verbindung abbrechen, bis der Benutzer diese ausdrücklich bestätigt hat.
 
 
-#### APP 1.2.A4 Die Anforderung ist komplett entfallen.
+#### APP.1.2.A4 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -2713,7 +2713,7 @@ __Ehemals:__
 *Ist kein Update für eine bekannt gewordene kritische Schwachstelle verfügbar, MÜSSEN zeitnah Maßnahmen zur Risikominderung ergriffen werden.*
 
 
-#### APP 1.2.A6 Die Anforderung wurde von Standard zu Basis-Anforderung geändert.
+#### APP.1.2.A6 Die Anforderung wurde von Standard zu Basis-Anforderung geändert.
 
 __Geändert:__
 
@@ -2728,12 +2728,12 @@ Außerdem MUSS sichergestellt sein, dass die Authentisierung für den kennwortge
 Der IT-Betrieb MUSS sicherstellen, dass der verwendete Browser den Benutzern die Möglichkeit bietet, gespeicherte Passwörter zu löschen.
 
 
-#### APP 1.2.A13
+#### APP.1.2.A13
 
 Die Anforderung wurd komplett neu hinzugefügt.
 
 
-#### APP 1.2.A5 Die Anforderung ist komplett entfallen.
+#### APP.1.2.A5 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -2746,12 +2746,12 @@ __Ehemals:__
 *Der Webbrowser SOLLTE NICHT dauerhaft mit erweiterten Rechten ausgeführt werden.*
 
 
-#### APP 1.2.A7
+#### APP.1.2.A7
 
 Keine inhaltlichen Änderungen.
 
 
-#### APP 1.2.A8 Die Anforderung ist komplett entfallen.
+#### APP.1.2.A8 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -2768,20 +2768,20 @@ __Ehemals:__
 *Der Webbrowser SOLLTE die Möglichkeit bieten, Erweiterungen zu konfigurieren und abzuschalten.*
 
 
-#### APP 1.2.A9-A12
+#### APP.1.2.A9-A12
 
 Keine inhaltlichen Änderungen.
 
 </details>
 
 
-### APP 1.4
+### APP.1.4
 
 <details>
 <summary> Änderungen
 </summary>
 
-#### APP 1.4.A1
+#### APP.1.4.A1
 
 __Entfallen:__
 
@@ -2792,7 +2792,7 @@ __Entfallen:__
 *Außerdem MÜSSEN Schutzbedarf und die rechtlichen Rahmenbedingungen der zu verarbeitenden Daten betrachtet werden.*
 
 
-#### APP 1.4.A2 Die Anforderung ist komplett entfallen.
+#### APP.1.4.A2 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -2813,7 +2813,7 @@ __Ehemals:__
 *Diese Vorgaben MÜSSEN mit den etablierten Regelungen der Institution abgestimmt werden.*
 
 
-#### APP 1.4.A4 Die Anforderung ist komplett entfallen.
+#### APP.1.4.A4 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -2832,12 +2832,12 @@ __Ehemals:__
 *Die Freigabekriterien SOLLTEN bei allen erfüllt sein.*
 
 
-#### APP 1.4.A5
+#### APP.1.4.A5
 
 Keine inhaltlichen Änderungen.
 
 
-#### APP 1.4.A6 Die Anforderung ist komplett entfallen.
+#### APP.1.4.A6 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -2856,17 +2856,17 @@ __Ehemals:__
 *Ist dies nicht möglich, DÜRFEN Apps mit bekannten offenen Schwachstellen NICHT verwendet werden.*
 
 
-#### APP 1.4.A7
+#### APP.1.4.A7
 
 Keine inhaltlichen Änderungen.
 
 
-#### APP 1.4.A8
+#### APP.1.4.A8
 
 Keine inhaltlichen Änderungen.
 
 
-#### APP 1.4.A3 Die Anforderung wurde von einer Basis-Anforderung in eine Standard-Anforderung gewandelt.
+#### APP.1.4.A3 Die Anforderung wurde von einer Basis-Anforderung in eine Standard-Anforderung gewandelt.
 
 __Geändert:__
 
@@ -2875,7 +2875,7 @@ APP.1.4.A3 Verteilung schutzbedürftiger Apps (S)
 Interne Apps der Institution und Apps, die schutzbedürftige Informationen verarbeiten, SOLLTEN über einen institutionseigenen App Store oder via MDM verteilt werden.
 
 
-#### APP 1.4.A9 Die Anforderung ist komplett entfallen.
+#### APP.1.4.A9 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -2888,7 +2888,7 @@ __Ehemals:__
 *Wenn eine App über ein Benutzerkonto auf ein Backend-Systeme zugreift, MUSS dafür ein dediziertes Dienstekonto verwendet werden.*
 
 
-#### APP 1.4.A10 Die Anforderung ist komplett entfallen.
+#### APP.1.4.A10 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -2903,7 +2903,7 @@ __Ehemals:__
 *Wenn Mitarbeiter mobile Endgeräte verlieren, SOLLTE sichergestellt sein, dass kein Unbefugter auf die Apps und damit auf Informationen der Institution zugreifen kann.*
 
 
-#### APP 1.4.A11 Die Anforderung ist komplett entfallen.
+#### APP.1.4.A11 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -2914,7 +2914,7 @@ __Ehemals:__
 *Es SOLLTE über Prüfmechanismen und Whitelists sichergestellt werden, dass nur geprüfte und freigegebene Apps verwendet werden können.*
 
 
-#### APP 1.4.A12
+#### APP.1.4.A12
 
 __Entfallen:__
 
@@ -2929,7 +2929,7 @@ __Hinzugefügt:__:
 Werden Apps deinstalliert, SOLLTEN auch Daten gelöscht werden, die auf externen Systemen, beispielsweise beim App-Anbieter, gespeichert wurden.
 
 
-#### APP 1.4.A13 Die Anforderung ist komplett entfallen.
+#### APP.1.4.A13 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -2940,41 +2940,41 @@ __Ehemals:__
 *Dabei SOLLTE im Vorfeld überlegt werden, wie lang die maximal tolerierbare Ausfallzeit einer App ist und wie sich die betroffenen Geschäftsprozesse anderweitig abbilden lassen, beispielsweise durch ein zentrales Webportal.*
 
 
-#### APP 1.4.A14
+#### APP.1.4.A14
 
 Keine inhaltlichen Änderungen.
 
 
-#### APP 1.4.A15
+#### APP.1.4.A15
 
 Keine inhaltlichen Änderungen.
 
 
-#### APP 1.4.A16
+#### APP.1.4.A16
 
 Die Anforderung wurde komplett neu hinzugefüt.
 
 </details>
 
 
-### APP 2.1
+### APP.2.1
 
 Keine inhaltlichen Änderungen.
 
 
 
-### APP 2.2
+### APP.2.2
 
 <details>
 <summary> Änderungen
 </summary>
 
-#### APP 2.2.A1
+#### APP.2.2.A1
 
 Keine inhaltlichen Änderungen.
 
 
-#### APP 2.2.A2
+#### APP.2.2.A2
 
 __Entfallen:__
 
@@ -2983,12 +2983,12 @@ __Entfallen:__
 *Alle administrativen Aufgabenbereiche und Berechtigungen SOLLTEN geeignet dokumentiert sein.*
 
 
-#### APP 2.2.A3
+#### APP.2.2.A3
 
 Keine inhaltlichen Änderungen.
 
 
-#### APP 2.2.A4 Die Anforderung ist komplett entfallen.
+#### APP.2.2.A4 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -2999,12 +2999,12 @@ __Ehemals:__
 *Sie SOLLTEN für die Arbeit mit Active Directory vor der Einrichtung sowie fortlaufend geschult werden.*
 
 
-#### APP 2.2.A5
+#### APP.2.2.A5
 
 Keine inhaltlichen Änderungen.
 
 
-#### APP 2.2.A6
+#### APP.2.2.A6
 
 __Entfallen:__
 
@@ -3013,7 +3013,7 @@ __Entfallen:__
 *Diese Rechte MÜSSEN in regelmäßigen Abständen überprüft werden.*
 
 
-#### APP 2.2.A7
+#### APP.2.2.A7
 
 __Entfallen:__
 
@@ -3032,27 +3032,27 @@ __Entfallen:__
 *Bei Remote-Administration der Domänen-Controller MUSS der Datenverkehr geeignet verschlüsselt sein.*
 
 
-#### APP 2.2.A8
+#### APP.2.2.A8
 
 Keine inhaltlichen Änderungen.
 
 
-#### APP 2.2.A9
+#### APP.2.2.A9
 
 Keine inhaltlichen Änderungen.
 
 
-#### APP 2.2.A10
+#### APP.2.2.A10
 
 Keine inhaltlichen Änderungen.
 
 
-#### APP 2.2.A11
+#### APP.2.2.A11
 
 Keine inhaltlichen Änderungen.
 
 
-#### APP 2.2.A12
+#### APP.2.2.A12
 
 __Entfallen:__
 
@@ -3061,7 +3061,7 @@ __Entfallen:__
 *Der korrekte Ablauf und das Wiedereinspielen von Datensicherungen der Domänen-Controller SOLLTEN in regelmäßigen Abständen überprüft werden.*
 
 
-#### APP 2.2.A13 Die Anforderung ist komplett entfallen.
+#### APP.2.2.A13 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -3070,30 +3070,30 @@ __Ehemals:__
 *Privilegierte Konten im Bereich des AD SOLLTEN mittels Zwei-Faktor-Authentifizierung geschützt werden.*
 
 
-#### APP 2.2.A14
+#### APP.2.2.A14
 
 Keine inhaltlichen Änderungen.
 
 
-#### APP 2.2.A15
+#### APP.2.2.A15
 
 Keine inhaltlichen Änderungen.
 
 </details>
 
 
-### APP 2.3
+### APP.2.3
 
 <details>
 <summary> Änderungen
 </summary>
 
-#### APP 2.3.A1
+#### APP.2.3.A1
 
 Keine inhaltlichen Änderungen.
 
 
-#### APP 2.3.A2 Die Anforderung ist komplett entfallen.
+#### APP.2.3.A2 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -3108,17 +3108,17 @@ __Ehemals:__
 *Alle Installationsschritte und die Herkunft der OpenLDAP-Installationspakete SOLLTEN dokumentiert werden.*
 
 
-#### APP 2.3.A3
+#### APP.2.3.A3
 
 Keine inhaltlichen Änderungen.
 
 
-#### APP 2.3.A4
+#### APP.2.3.A4
 
 Keine inhaltlichen Änderungen.
 
 
-#### APP 2.3.A5
+#### APP.2.3.A5
 
 __Entfallen:__
 
@@ -3127,12 +3127,12 @@ __Entfallen:__
 *Die dort getroffenen Regelungen MÜSSEN in OpenLDAP technisch umgesetzt werden.*
 
 
-#### APP 2.3.A6
+#### APP.2.3.A6
 
 Keine inhaltlichen Änderungen.
 
 
-#### APP 2.3.A7 Die Anforderung ist komplett entfallen.
+#### APP.2.3.A7 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -3141,29 +3141,29 @@ __Ehemals:__
 *Es SOLLTEN alle Administratoren zu OpenLDAP und den zugehörigen Sicherheitsthemen geschult werden.*
 
 
-#### APP 2.3.A8
+#### APP.2.3.A8
 
 Keine inhaltlichen Änderungen.
 
 
-#### APP 2.3.A9
+#### APP.2.3.A9
 
 Keine inhaltlichen Änderungen.
 
 
-#### APP 2.3.A10
+#### APP.2.3.A10
 
 __Geändert:__
 
 Bei Updates SOLLTE darauf geachtet werden, ob die Änderungen eingesetzte Backends oder Overlays sowie Softwareabhängigkeiten betreffen.
 
 
-#### APP 2.3.A11
+#### APP.2.3.A11
 
 Keine inhaltlichen Änderungen.
 
 
-#### APP 2.3.A12 Die Anforderung ist komplett entfallen.
+#### APP.2.3.A12 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -3180,7 +3180,7 @@ __Ehemals:__
 *OpenLDAP SOLLTE gemeinsam mit dem Server überwacht werden, auf dem OpenLDAP betrieben wird.*
 
 
-#### APP 2.3.A13 Die Anforderung ist komplett entfallen.
+#### APP.2.3.A13 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -3195,13 +3195,13 @@ __Ehemals:__
 </details>
 
 
-### APP 3.1
+### APP.3.1
 
 <details>
 <summary> Änderungen
 </summary>
 
-#### APP 3.1.A1 Die Anforderung wurde komplett geändert.
+#### APP.3.1.A1 Die Anforderung wurde komplett geändert.
 
 __Geändert:__
 
@@ -3214,7 +3214,7 @@ Der Auswahlprozess SOLLTE dokumentiert werden.
 Der IT-Betrieb MUSS geeignete Grenzwerte für fehlgeschlagene Anmeldeversuche festlegen.
 
 
-#### APP 3.1.A2 Die Anforderung ist komplett entfallen.
+#### APP.3.1.A2 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -3239,7 +3239,7 @@ __Ehemals:__
 *Es MUSS zudem ein sicherer Umgang mit temporären Dateien vorgesehen werden.*
 
 
-#### APP 3.1.A3 Die Anforderung ist komplett entfallen.
+#### APP.3.1.A3 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -3266,7 +3266,7 @@ __Ehemals:__
 *Nachdem die Sitzung ungültig ist, MÜSSEN alle Sitzungsdaten sowohl server- als auch clientseitig ungültig und gelöscht sein.*
 
 
-#### APP 3.1.A4 Die Anforderung wurde komplett geändert.
+#### APP.3.1.A4 Die Anforderung wurde komplett geändert.
 
 __Geändert:__
 
@@ -3279,7 +3279,7 @@ Auch MÜSSEN Zugriffs- und Ausführungsrechte restriktiv gesetzt werden.
 Zudem MUSS sichergestellt werden, dass ein Benutzer Dateien nur im vorgegebenen erlaubten Speicherort speichern kann.
 
 
-#### APP 3.1.A5 Die Anforderung ist komplett entfallen.
+#### APP.3.1.A5 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -3292,7 +3292,7 @@ __Ehemals:__
 *Bei der Auswertung der Protokollierungsdaten MUSS sichergestellt werden, dass Schadcode in Protokoll-Einträgen vom Auswertungsprogramm nicht interpretiert wird.*
 
 
-#### APP 3.1.A7
+#### APP.3.1.A7
 
 __Geändert:__
 
@@ -3305,7 +3305,7 @@ __Entfallen:__
 *Wenn die Webanwendung RSS-Feeds oder andere Funktionen enthält, die explizit für die automatisierte Nutzung vorgesehen sind, MUSS dies ebenfalls bei der Konfiguration der Schutzmechanismen berücksichtigt werden.*
 
 
-#### APP 3.1.A14 Die Anforderung wurde komplett geändert
+#### APP.3.1.A14 Die Anforderung wurde komplett geändert
 
 __Geändert:__
 
@@ -3316,7 +3316,7 @@ Dazu MÜSSEN Salted Hash-Verfahren verwendet werden.
 Die Dateien mit den Quelltexten der Webanwendung MÜSSEN vor unerlaubten Abrufen geschützt werden.
 
 
-#### APP 3.1.A16 Die Anforderung ist komplett entfallen.
+#### APP.3.1.A16 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -3335,7 +3335,7 @@ __Ehemals:__
 *Ausgabedaten MÜSSEN so kodiert werden, dass schadhafter Code auf dem Zielsystem nicht interpretiert oder ausgeführt wird.*
 
 
-#### APP 3.1.A19 Die Anforderung ist komplett entfallen.
+#### APP.3.1.A19 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -3346,7 +3346,7 @@ __Ehemals:__
 *Wenn weder Stored Procedures noch Prepared SQL Statements eingesetzt werden können, MÜSSEN die SQL-Queries separat abgesichert werden.*
 
 
-#### APP 3.1.A8 Die Anforderung wurde komplett geändert:
+#### APP.3.1.A8 Die Anforderung wurde komplett geändert:
 
 __Geändert:__
 
@@ -3357,7 +3357,7 @@ Sicherheitsaspekte SOLLTEN bereits während der Planung betrachtet werden.
 Auch SOLLTE darauf geachtet werden, dass die Architektur der Webanwendung die Geschäftslogik der Institution exakt erfasst und korrekt umsetzt.
 
 
-#### APP 3.1.A9 Die Anforderung wurde komplett geändert:
+#### APP.3.1.A9 Die Anforderung wurde komplett geändert:
 
 __Geändert:__
 
@@ -3386,7 +3386,7 @@ Zusätzlich zu den allgemeinen Aspekten der Beschaffung von Software SOLLTE die 
 • Zugriff auf den Quelltext der Webanwendung.
 
 
-#### APP 3.1.A11 Die Anforderung wurde komplett geändert:
+#### APP.3.1.A11 Die Anforderung wurde komplett geändert:
 
 __Geändert:__
 
@@ -3395,7 +3395,7 @@ Der Zugriff auf Hintergrundsysteme, auf denen Funktionen und Daten ausgelagert w
 Bei der Kommunikation über Netz- und Standortgrenzen hinweg SOLLTE der Datenverkehr authentisiert und verschlüsselt werden.
 
 
-#### APP 3.1.A12
+#### APP.3.1.A12
 
 __Geändert:__
 
@@ -3416,7 +3416,7 @@ Folgendes SOLLTE bei der Konfiguration von Webanwendungen umgesetzt werden:
 • Festlegen von Grenzwerten für Zugriffsversuche.
 
 
-#### APP 3.1.A13 Die Anforderung ist komplett entfallen.
+#### APP.3.1.A13 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -3427,7 +3427,7 @@ __Ehemals:__
 *Konfigurationsdateien der Webanwendung SOLLTEN außerhalb des Web-Root-Verzeichnisses gespeichert werden.*
 
 
-#### APP 3.1.A15 Die Anforderung ist komplett entfallen.
+#### APP.3.1.A15 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -3440,7 +3440,7 @@ __Ehemals:__
 *Die Benutzer SOLLTEN über Änderungen mithilfe von Kommunikationswegen außerhalb der Web-Anwendung informiert werden.*
 
 
-#### APP 3.1.A17 Die Anforderung ist komplett entfallen.
+#### APP.3.1.A17 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -3461,19 +3461,19 @@ __Ehemals:__
 *Auch SOLLTE der Fehler möglichst von der Webanwendung selbst behandelt werden.*
 
 
-#### APP 3.1.A21
+#### APP.3.1.A21
 
 __Hinzugefügt:__:
 
 Die verwendeten HTTP-Header SOLLTEN so restriktiv wie möglich sein.
 
 
-#### APP 3.1.A22
+#### APP.3.1.A22
 
 Keine inhaltlichen Änderungen.
 
 
-#### APP 3.1.A23 Die Anforderung ist komplett entfallen.
+#### APP.3.1.A23 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -3484,12 +3484,12 @@ __Ehemals:__
 *Mindestens SOLLTE dabei geprüft werden, ob neben der Session-ID ein geheimes Token für den Zugriff auf geschützte Ressourcen und Funktionen benötigt wird.*
 
 
-#### APP 3.1.A20
+#### APP.3.1.A20
 
 Keine inhaltlichen Änderungen.
 
 
-#### APP 3.1.A24 Die Anforderung ist komplett entfallen.
+#### APP.3.1.A24 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -3500,7 +3500,7 @@ __Ehemals:__
 *Ebenso SOLLTE ein möglicher Überlauf von Protokollierungsdaten bei Webanwendungen überwacht und verhindert werden.*
 
 
-#### APP 3.1.A25 Die Anforderung ist komplett entfallen.
+#### APP.3.1.A25 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -3511,20 +3511,20 @@ __Ehemals:__
 </details>
 
 
-### APP 3.2
+### APP.3.2
 
 <details>
 <summary> Änderungen
 </summary>
 
-#### APP 3.2.A1
+#### APP.3.2.A1
 
 __Hinzugefügt:__:
 
 Ist dies nicht möglich, SOLLTE jeder Webserver auf einem eigenen physischen oder virtuellen Server ausgeführt werden.
 
 
-#### APP 3.2.A2
+#### APP.3.2.A2
 
 __Entfallen:__
 
@@ -3535,24 +3535,24 @@ __Hinzugefügt:__:
 Der IT-Betrieb MUSS regelmäßig überprüfen, ob vertrauliche Dateien in öffentlichen Verzeichnissen gespeichert wurden.
 
 
-#### APP 3.2.A4-A6
+#### APP.3.2.A4-A6
 
 Keine inhaltlichen Änderungen.
 
 
-#### APP 3.2.A7
+#### APP.3.2.A7
 
 __Entfallen:__
 
 *Auch SOLLTEN die Anforderungen an die Barrierefreiheit gemäß Behindertengleichstellungsgesetz beachtet werden.*
 
 
-#### APP 3.2.A11
+#### APP.3.2.A11
 
 Keine inhaltlichen Änderungen.
 
 
-#### APP 3.2.A8
+#### APP.3.2.A8
 
 __Entfallen:__
 
@@ -3565,47 +3565,47 @@ __Geändert:__
 Es SOLLTE geplant und dokumentiert werden, für welchen Zweck der Webserver eingesetzt und welche Inhalte er bereitstellen soll.
 
 
-#### APP 3.2.A9
+#### APP.3.2.A9
 
 Keine inhaltlichen Änderungen.
 
 
-#### APP 3.2.A10
+#### APP.3.2.A10
 
 Keine inhaltlichen Änderungen.
 
 
-#### APP 3.2.A12
+#### APP.3.2.A12
 
 Keine inhaltlichen Änderungen.
 
 
-#### APP 3.2.A13
+#### APP.3.2.A13
 
 Keine inhaltlichen Änderungen.
 
 
-#### APP 3.2.A14
+#### APP.3.2.A14
 
 Keine inhaltlichen Änderungen.
 
 
-#### APP 3.2.A16
+#### APP.3.2.A16
 
 Keine inhaltlichen Änderungen.
 
 
-#### APP 3.2.A20
+#### APP.3.2.A20
 
 Keine inhaltlichen Änderungen.
 
 
-#### APP 3.2.A15
+#### APP.3.2.A15
 
 Keine inhaltlichen Änderungen.
 
 
-#### APP 3.2.A17 Die Aforderung ist komplett entfallen.
+#### APP.3.2.A17 Die Aforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -3614,14 +3614,14 @@ __Ehemals:__
 *Es SOLLTEN erweiterte Authentisierungsmethoden eingesetzt werden, wie z. B. Client-Zertifikate oder eine Mehr-Faktor-Authentisierung.*
 
 
-#### APP 3.2.A18
+#### APP.3.2.A18
 
 Keine inhaltlichen Änderungen.
 
 </details>
 
 
-### APP 3.3
+### APP.3.3
 
 Die Institution wurde in diesem Baustein grundätzlich durch den IT-Betrieb ersetzt.
 
@@ -3629,19 +3629,19 @@ Die Institution wurde in diesem Baustein grundätzlich durch den IT-Betrieb erse
 <summary> Änderungen
 </summary>
 
-#### APP 3.3.A2
+#### APP.3.3.A2
 
 __Entfallen:__
 
 *Bei einem Hardware-RAID SOLLTE der RAID-Controller redundant ausgelegt sein.*
 
 
-#### APP 3.3.A3
+#### APP.3.3.A3
 
 Kein inhaltlichen Änderungen.
 
 
-#### APP 3.3.A5 Die Anforderung ist komplett entfallen.
+#### APP.3.3.A5 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -3660,12 +3660,12 @@ __Ehemals:__
 *Alle Zugriffsrechte MÜSSEN nachvollziehbar dokumentiert werden.*
 
 
-#### APP 3.3.A15
+#### APP.3.3.A15
 
 Kein inhaltlichen Änderungen.
 
 
-#### APP 3.3.A6
+#### APP.3.3.A6
 
 __Entfallen:__
 
@@ -3674,41 +3674,41 @@ __Entfallen:__
 *Anhand dieser Liste SOLLTEN dann die am Markt erhältlichen Produkte und Software bewertet werden.*
 
 
-#### APP 3.3.A7
+#### APP.3.3.A7
 
 Kein inhaltlichen Änderungen.
 
 
-#### APP 3.3.A8
+#### APP.3.3.A8
 
 Kein inhaltlichen Änderungen.
 
 
-#### APP 3.3.A9
+#### APP.3.3.A9
 
 __Entfallen:__
 
 *Weiterhin SOLLTEN die eingesetzten Speicher in das übergeordnete Protokollierungskonzept des Informationsverbunds einbezogen werden.*
 
 
-#### APP 3.3.A11
+#### APP.3.3.A11
 
 Kein inhaltlichen Änderungen.
 
 
-#### APP 3.3.A14
+#### APP.3.3.A14
 
 Kein inhaltlichen Änderungen.
 
 
-#### APP 3.3.A12
+#### APP.3.3.A12
 
 __Entfallen:__
 
 *Kryptografische Schüssel SOLLTEN sicher erzeugt und von den Daten getrennt aufbewahrt werden (siehe auch CON.1 Kryptokonzept).*
 
 
-#### APP 3.3.A13
+#### APP.3.3.A13
 
 __Geändert:__
 
@@ -3717,7 +3717,7 @@ Für hochverfügbare Fileserver SOLLTE eine angemessene Replikation der Daten au
 </details>
 
 
-### APP 3.4
+### APP.3.4
 
 Die Institution wurde in diesem Baustein grundätzlich durch den IT-Betrieb ersetzt.
 
@@ -3725,12 +3725,12 @@ Die Institution wurde in diesem Baustein grundätzlich durch den IT-Betrieb erse
 <summary> Änderungen
 </summary>
 
-#### APP 3.4.A1
+#### APP.3.4.A1
 
 Keine inhaltlichen Änderungen.
 
 
-#### APP 3.4.A2
+#### APP.3.4.A2
 
 __Entfallen:__
 
@@ -3741,7 +3741,7 @@ __Entfallen:__
 *Er MUSS dafür sorgen, dass Benutzer nur auf die Informationen innerhalb ihrer Freigaben zugreifen können.*
 
 
-#### APP 3.4.A3
+#### APP.3.4.A3
 
 __Entfallen:__
 
@@ -3756,34 +3756,34 @@ __Entfallen:__
 *Der NTP-Dienst SOLLTE so gehärtet werden, dass nur autorisierte Clients die Zeit abfragen können.*
 
 
-#### APP 3.4.A4
+#### APP.3.4.A4
 
 Keine inhaltlichen Änderungen.
 
 
-#### APP 3.4.A5
+#### APP.3.4.A5
 
 __Geändert:__
 
 Ferner SOLLTEN die effektiven Zugriffsberechtigungen auf die Freigaben des Samba-Servers regelmäßig überprüft werden.
 
 
-#### APP 3.4.A6
+#### APP.3.4.A6
 
 Keine inhaltlichen Änderungen.
 
 
-#### APP 3.4.A7
+#### APP.3.4.A7
 
 Keine inhaltlichen Änderungen.
 
 
-#### APP 3.4.A8
+#### APP.3.4.A8
 
 Keine inhaltlichen Änderungen.
 
 
-#### APP 3.4.A9
+#### APP.3.4.A9
 
 __Hinzugefügt:__:
 
@@ -3792,12 +3792,12 @@ Wird mit Kerberos authentisiert, SOLLTE der zentrale Zeitserver lokal auf dem Sa
 Der NTP-Dienst SOLLTE so konfiguriert werden, dass nur autorisierte Clients die Zeit abfragen können.
 
 
-#### APP 3.4.A10
+#### APP.3.4.A10
 
 Keine inhaltlichen Änderungen.
 
 
-#### APP 3.4.A11 Die Anforderung ist komplett entfallen.
+#### APP.3.4.A11 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -3808,35 +3808,35 @@ __Ehemals:__
 *Sofern IPv6 eingesetzt wird, SOLLTEN erforderliche Besonderheiten berücksichtigt werden.*
 
 
-#### APP 3.4.A12
+#### APP.3.4.A12
 
 Keine inhaltlichen Änderungen.
 
 
-#### APP 3.4.A13
+#### APP.3.4.A13
 
 Keine inhaltlichen Änderungen.
 
 
-#### APP 3.4.A15
+#### APP.3.4.A15
 
 Keine inhaltlichen Änderungen.
 
 </details>
 
 
-### APP 3.6
+### APP.3.6
 
 <details>
 <summary> Änderungen
 </summary>
 
-#### APP 3.6.A1-A6
+#### APP.3.6.A1-A6
 
 Keine inhaltlichen Änderungen.
 
 
-#### APP 3.6.A7
+#### APP.3.6.A7
 
 __Entfallen:__
 
@@ -3861,17 +3861,17 @@ DNS-Server MÜSSEN so konfiguriert werden, dass mindestens die folgenden sicherh
 • fehlgeschlagene Zonentransfers.
 
 
-#### APP 3.6.A8
+#### APP.3.6.A8
 
 Keine inhaltlichen Änderungen.
 
 
-#### APP 3.6.A1-A11
+#### APP.3.6.A1-A11
 
 Keine inhaltlichen Änderungen.
 
 
-#### APP 3.6.A12 Die Anforderung ist komplett entfallen.
+#### APP.3.6.A12 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -3880,17 +3880,17 @@ __Ehemals:__
 *Es SOLLTE durch Schulungen sichergestellt werden, dass die Verantwortlichen mit den einzelnen Konfigurationsmöglichkeiten und sicherheitsrelevanten Aspekten der DNS-Server vertraut sind.*
 
 
-#### APP 3.6.A13
+#### APP.3.6.A13
 
 Keine inhaltlichen Änderungen.
 
 
-#### APP 3.6.A14
+#### APP.3.6.A14
 
 Keine inhaltichen Änderungen.
 
 
-#### APP 3.6 A15
+#### APP.3.6 A15
 
 __Hinzugefügt:__:
 
@@ -3909,57 +3909,57 @@ Mindestens die folgenden sicherheitsrelevanten Ereignisse SOLLTEN ausgewertet we
 • Veränderungen im Verhältnis von Fehlern zu DNS-Anfragen.
 
 
-#### APP 3.6.A16
+#### APP.3.6.A16
 
 Keine inhaltichen Änderungen.
 
 
-#### APP 3.6.A17
+#### APP.3.6.A17
 
 Keine inhaltichen Änderungen.
 
 
-#### APP 3.6.A18
+#### APP.3.6.A18
 
 Keine inhaltichen Änderungen.
 
 
-#### APP 3.6.A19
+#### APP.3.6.A19
 
 __Entfallen:__
 
 *Wird ein DNS-Server ausgesondert, SOLLTEN alle Speichermedien des Servers sicher gelöscht werden.*
 
 
-#### APP 3.6.A20
+#### APP.3.6.A20
 
 Keine inhaltichen Änderungen.
 
 
-#### APP 3.6.A21
+#### APP.3.6.A21
 
 Keine inhaltichen Änderungen.
 
 
-#### APP 3.6.A22
+#### APP.3.6.A22
 
 Keine inhaltichen Änderungen.
 
 </details>
 
 
-### APP 4.2
+### APP.4.2
 
 <details>
 <summary> Änderungen
 </summary>
 
-#### APP 4.2.A1-A4
+#### APP.4.2.A1-A4
 
 Keine inhaltichen Änderungen.
 
 
-#### APP 4.2.A5
+#### APP.4.2.A5
 
 __Entfallen:__
 
@@ -3968,29 +3968,29 @@ __Entfallen:__
 *Er SOLLTE sein Wissen regelmäßig vertiefen und aktualisieren.*
 
 
-#### APP 4.2.A6
+#### APP.4.2.A6
 
 __Entfallen:__
 
 *Alle Berechtigungen SOLLTEN nach dem Prinzip der minimalen Berechtigungsvergabe zugeteilt werden.*
 
 
-#### APP 4.2.A7
+#### APP.4.2.A7
 
 Keine inhaltichen Änderungen.
 
 
-#### APP 4.2.A8
+#### APP.4.2.A8
 
 Keine inhaltichen Änderungen.
 
 
-#### APP 4.2.A9
+#### APP.4.2.A9
 
 Keine inhaltichen Änderungen.
 
 
-#### APP 4.2.A10 Die Anforderung ist komplett entfallen.
+#### APP.4.2.A10 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -4005,12 +4005,12 @@ __Ehemals:__
 *Das SAP-ERP-System SOLLTE regelmäßig aktualisiert werden.*
 
 
-#### APP 4.2.A11-A20
+#### APP.4.2.A11-A20
 
 Keine inhaltichen Änderungen.
 
 
-#### APP 4.3.A21 Die Anforderung ist komplett entfallen.
+#### APP.4.3.A21 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -4021,20 +4021,20 @@ __Ehemals:__
 *Zudem SOLLTEN passende Profilparameter für das SAL gesetzt werden.*
 
 
-#### APP 4.2.A22-A26
+#### APP.4.2.A22-A26
 
 Keine inhaltichen Änderungen.
 
 </details>
 
 
-### APP 4.3
+### APP.4.3
 
 <details>
 <summary> Änderungen
 </summary>
 
-#### APP 4.3.A1
+#### APP.4.3.A1
 
 __Geändert:__
 
@@ -4049,7 +4049,7 @@ Es MUSS regelmäßig überprüft werden, ob die Richtlinie noch korrekt umgesetz
 Die Ergebnisse MÜSSEN sinnvoll dokumentiert werden.
 
 
-#### APP 4.3.A2 Die Anforderung ist komplett entfallen.
+#### APP.4.3.A2 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -4060,19 +4060,19 @@ __Ehemals:__
 *Bereits veröffentlichte Patches MÜSSEN eingespielt werden, bevor das DBMS betrieben wird.*
 
 
-#### APP 4.3.A3
+#### APP.4.3.A3
 
 __Entfallen:__
 
 *Auch MÜSSEN alle Passwörter entsprechend den internen Anforderungen der Institution geändert werden.*
 
 
-#### APP 4.3.A4
+#### APP.4.3.A4
 
 Keine inhaltlichen Änderungen.
 
 
-#### APP 4.3.A5 Die Anforderung ist komplett entfallen.
+#### APP.4.3.A5 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -4089,7 +4089,7 @@ __Ehemals:__
 *Die eingerichteten Benutzer und die ihnen zugeordneten Berechtigungen MÜSSEN regelmäßig überprüft und, falls erforderlich, angepasst werden.*
 
 
-#### APP 4.3.A6 Die Anforderung ist komplett entfallen.
+#### APP.4.3.A6 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -4102,7 +4102,7 @@ __Ehemals:__
 *Insbesondere bei privilegierten Datenbankaccounts und Dienstkonten SOLLTE ein Passwortwechsel sorgfältig geplant und gegebenenfalls mit den Anwendungsverantwortlichen abgestimmt werden.*
 
 
-#### APP 4.3.A7 Die Anforderung ist komplett entfallen.
+#### APP.4.3.A7 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -4121,7 +4121,7 @@ __Ehemals:__
 *Das Ergebnis SOLLTE nachvollziehbar dokumentiert werden.*
 
 
-#### APP 4.3.A8 Die Anforderung ist komplett entfallen.
+#### APP.4.3.A8 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -4136,12 +4136,12 @@ __Ehemals:__
 *Es SOLLTE so protokolliert werden, dass die Protokolldateien nicht nachträglich verändert werden können.*
 
 
-#### APP 4.3.A9
+#### APP.4.3.A9
 
 Keine inhaltlichen Änderungen.
 
 
-#### APP 4.3.A10 Die Anforderung ist komplett entfallen.
+#### APP.4.3.A10 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -4154,22 +4154,22 @@ __Ehemals:__
 *Die Ergebnisse SOLLTEN dokumentiert werden.*
 
 
-#### APP 4.3.A11
+#### APP.4.3.A11
 
 Keine inhaltlichen Änderungen.
 
 
-#### APP 4.3.A12
+#### APP.4.3.A12
 
 Keine inhaltlichen Änderungen.
 
 
-#### APP 4.3.A13
+#### APP.4.3.A13
 
 Keine inhaltlichen Änderungen.
 
 
-#### APP 4.3.A14 Die Anforderung ist komplett entfallen.
+#### APP.4.3.A14 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -4180,7 +4180,7 @@ __Ehemals:__
 *Die verantwortlichen Mitarbeiter SOLLTEN zudem regelmäßig üben, wie sich Datenbanken im Notfall schnell wiederherstellen lassen.*
 
 
-#### APP 4.3.A15 Die Anforderung ist komplett entfallen.
+#### APP.4.3.A15 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -4191,7 +4191,7 @@ __Ehemals:__
 *Es SOLLTE ein Schulungsplan erstellt werden, mit dem sichergestellt wird, dass Datenbankverantwortliche rechtzeitig zu Themen der Informationssicherheit und Performance sowie zu den Funktionen neuer Versionen des Datenbankmanagementsystems geschult werden.*
 
 
-#### APP 4.3.A16-A25
+#### APP.4.3.A16-A25
 
 Keine inhaltlichen Änderungen.
 
@@ -4199,32 +4199,32 @@ Keine inhaltlichen Änderungen.
 
 
 
-### APP 4.6
+### APP.4.6
 
 Keine inhaltlichen Änderungen.
 
 
 
 
-### APP 5.1
+### APP.5.1
 
 Der Baustein ist komplett entfallen.
 
 
 
 
-### APP 5.2
+### APP.5.2
 
 <details>
 <summary> Änderungen
 </summary>
 
-#### APP 5.2.A1-A9
+#### APP.5.2.A1-A9
 
 keine inhaltlichen Änderungen.
 
 
-#### APP 5.2.A10
+#### APP.5.2.A10
 
 __Entfallen:__
 
@@ -4235,17 +4235,17 @@ __Entfallen:__
 *Vorschaufenster und die Autovorschau SOLLTEN deaktiviert werden.*
 
 
-#### APP 5.2.A11
+#### APP.5.2.A11
 
 keine inhaltlichen Änderungen.
 
 
-#### APP 5.2.A12
+#### APP.5.2.A12
 
 keine inhaltlichen Änderungen.
 
 
-#### APP 5.2.A14 Die Anforderung ist komplett entfallen.
+#### APP.5.2.A14 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -4256,7 +4256,7 @@ __Ehemals:__
 *Die Institution SOLLTE die Benutzer von Outlook regelmäßig entsprechend dem Konzept schulen.*
 
 
-#### APP 5.2.A15 Die Anforderung ist komplett entfallen.
+#### APP.5.2.A15 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -4271,7 +4271,7 @@ __Ehemals:__
 *Änderungen SOLLTEN nachvollziehbar dokumentiert bzw. referenziert sein.*
 
 
-#### APP 5.2.A19 Die Anforderung ist komplett entfallen.
+#### APP.5.2.A19 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -4292,26 +4292,26 @@ __Ehemals:__
 *• festgelegte Administratoren.*
 
 
-#### APP 5.2.A17
+#### APP.5.2.A17
 
 Keine inhaltlichen Änderungen.
 
 </details>
 
 
-### 5.3 
+### APP.5.3 
 
 Der Baustein ist komplett neu hinzugefügt wurden.
 
 
 
-### 6
+### APP.6
 
 Der Baustein ist komplett neu hinzugefügt wurden.
 
 
 
-### 7 
+### APP.7 
 
 Der Baustein ist komplett neu hinzugefügt wurden.
 
