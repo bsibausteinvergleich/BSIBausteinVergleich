@@ -203,7 +203,7 @@ __Ehemals:__
 
 #### ORP.1.A15
 
-Diese Anforderung wurde komplett neu hinzugefügt.
+Diese Anforderung wurde neu hinzugefügt.
 
 #### Standard-Anforderungen
 
@@ -280,11 +280,11 @@ __Entfallen:__
 
 *Während des Umzugs SOLLTE ein Mindestmaß an Zutritts- und Zugangskontrolle vorhanden sein.*
 
-#### ORP.1.A16 Die Anforderung ist komplett neu hinzugefügt wurden.
+#### ORP.1.A16 Die Anforderung ist neu hinzugefügt worden.
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
-#### ORP.1.A14 Diese Anfroderung ist komplett entfallen.
+#### ORP.1.A14 Diese Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -362,10 +362,10 @@ Keine inhaltlichen Änderungen.
 Keine inhaltlichen Änderungen.
 
 
-#### ORP.2.A14 Die Anforderung ist komplett neu hinzugefügt wurden
+#### ORP.2.A14 Die Anforderung ist neu hinzugefügt worden
 
 
-#### ORP.2.A15 Die Anforderung ist komplett neu hinzugefügt wurden
+#### ORP.2.A15 Die Anforderung ist neu hinzugefügt worden
 
 
 #### ORP.2.A6 Diese Anforderung ist komplett entfallen.
@@ -705,7 +705,7 @@ Keine inhaltlichen Änderungen.
 keine inhaltlichen Änderungen
 
 
-#### ORP.4.A24 Anforderung komplett neu hinzugefügt.
+#### ORP.4.A24 Anforderung neu hinzugefügt.
 
 </details>
 
@@ -989,7 +989,7 @@ __Ehemals:__
 *Alle Mitarbeiter SOLLTEN in die Methoden und Verfahrensweisen zum Löschen und Vernichten von Informationen eingewiesen werden.*
 
 
-#### CON.6.A7 Die Anfroderung ist komplett entfallen.
+#### CON.6.A7 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -1011,7 +1011,7 @@ Keine inhaltlichen Änderungen.
 
 #### CON.6.A13
 
-Die Anfroderung wurde komplett neu hinzugefügt.
+Die Anforderung wurde neu hinzugefügt.
 
 
 #### CON.6.A9 Die Anforderung ist komplett entfallen.
@@ -1034,7 +1034,7 @@ __Ehemals:__
 
 #### CON.6.A14
 
-DIe Anforderung wurde komplett neu hinzugefügt.
+DIe Anforderung wurde neu hinzugefügt.
 
 </details>
 
@@ -1210,7 +1210,7 @@ Keine inhaltlichen Änderungen.
 
 #### CON.8.A20
 
-Die Anforderung ist komplett neu hinzugefügt wurden.
+Die Anforderung ist neu hinzugefügt worden.
 
 
 #### CON.8.A11
@@ -1281,12 +1281,12 @@ Keine inhaltlichen Änderungen.
 
 #### CON.8.A21
 
-Die Anforderung wurde komplett neu hinzugefügt.
+Die Anforderung wurde neu hinzugefügt.
 
 
 #### CON.8.A22
 
-Die Anforderung wurde komplett neu hinzugefügt.
+Die Anforderung wurde neu hinzugefügt.
 
 
 #### CON.8.A17
@@ -1383,14 +1383,14 @@ Keine inhaltlichen Änderungen.
 
 #### CON.9.A9
 
-DIe Anfordrung ist komplett neu hinzugefügt wurden.
+Die Anforderung ist neu hinzugefügt worden.
 
 </details>
 
 
 ### CON.10
 
-Der Baustein CON.10 ist komplett neu hinzugefügt wurden.
+Der Baustein CON.10 ist neu hinzugefügt worden.
 
 
 
@@ -1543,12 +1543,12 @@ __Entfallen:__
 
 #### OPS.1.1.3.A15
 
-Anfroderung wurde komplett neu hinzugefügt.
+Anforderung wurde neu hinzugefügt.
 
 
 #### OPS.1.1.3.A16
 
-Anfroderung wurde komplett neu hinzugefügt.
+Anforderung wurde neu hinzugefügt.
 
 
 #### OPS.1.1.3.A4 Die Anforderung ist komplett entfallen.
@@ -1564,7 +1564,7 @@ __Ehemals:__
 *Alle Änderungen von Hard- und Softwareständen, sowie von Konfigurationen, SOLLTEN über den Prozess des Änderungsmanagements gesteuert und kontrolliert werden.*
 
 
-#### OPS.1.1.3.A5 Die Anfroderung wurde komplett geändert.
+#### OPS.1.1.3.A5 Die Anforderung wurde komplett geändert.
 
 __Geändert:__
 
@@ -2006,7 +2006,7 @@ Es SOLLTEN Verfahren dokumentiert werden, wie mit der Testumgebung nach Abschlus
 
 #### OPS.1.1.6.A15
 
-Die Anforderung wurde komplett neu hinzugefügt.
+Die Anforderung wurde neu hinzugefügt.
 
 
 #### OPS.1.1.6.A14
@@ -2016,7 +2016,7 @@ Keine inhaltlichen Änderungen.
 
 #### OPS.1.1.6.A16
 
-Die Anforderung wurde komplett neu hinzugefügt.
+Die Anforderung wurde neu hinzugefügt.
 
 </details>
 
@@ -2157,7 +2157,7 @@ Keine inhaltlichen Änderungen.
 
 #### OPS.1.2.5.A25
 
-Die Anforderung wurde komplett neu hinzugefügt.
+Die Anforderung wurde neu hinzugefügt.
 
 
 #### OPS.1.2.5.A14
@@ -2738,7 +2738,7 @@ Der IT-Betrieb MUSS sicherstellen, dass der verwendete Browser den Benutzern die
 
 #### APP.1.2.A13
 
-Die Anforderung wurd komplett neu hinzugefügt.
+Die Anforderung wurd neu hinzugefügt.
 
 
 #### APP.1.2.A5 Die Anforderung ist komplett entfallen.
@@ -4309,19 +4309,19 @@ Keine inhaltlichen Änderungen.
 
 ### APP.5.3 
 
-Der Baustein ist komplett neu hinzugefügt wurden.
+Der Baustein ist neu hinzugefügt worden.
 
 
 
 ### APP.6
 
-Der Baustein ist komplett neu hinzugefügt wurden.
+Der Baustein ist neu hinzugefügt worden.
 
 
 
 ### APP.7 
 
-Der Baustein ist komplett neu hinzugefügt wurden.
+Der Baustein ist neu hinzugefügt worden.
 
 
 
@@ -4599,7 +4599,7 @@ Keine inhaltlichen Änderungen.
 
 #### SYS.1.1.A35
 
-Die Anforderung wurde komplett neu hinzugefügt.
+Die Anforderung wurde neu hinzugefügt.
 
 
 #### SYS.1.1.A25 Die Anforderung ist komplett entfallen.
@@ -4664,7 +4664,7 @@ Keine inhaltlichen Änderungen.
 
 #### SYS.1.1.A36
 
-Die ANforderung wurde komplett neu hinzugefügt.
+Die ANforderung wurde neu hinzugefügt.
 
 </details>
 
@@ -5352,7 +5352,7 @@ Keine inhaltlichen Änderungen.
 
 #### SYS.2.1.A42
 
-Die Anforderung wurde komplett neu hinzugefügt.
+Die Anforderung wurde neu hinzugefügt.
 
 
 #### SYS.2.1.A9
@@ -5565,12 +5565,12 @@ Keine inhaltlichen Änderungen.
 
 #### SYS.2.1.A43
 
-Din Anforderung wurde komplett neu hinzugefügt.
+Din Anforderung wurde neu hinzugefügt.
 
 
 #### SYS.2.1.A44
 
-Din Anforderung wurde komplett neu hinzugefügt.
+Din Anforderung wurde neu hinzugefügt.
 
 
 #### SYS.2.1.A28
@@ -5651,7 +5651,7 @@ Keine inhaltlichen Änderungen.
 
 #### SYS.2.1.A45
 
-Die Anforderung wurde komplett neu hinzugefügt.
+Die Anforderung wurde neu hinzugefügt.
 
 </details>
 
@@ -6251,7 +6251,7 @@ Keine inhaltlichen Änderungen.
 
 #### SYS.3.2.1.A31-A34
 
-Die Anforderungen wurden komplett neu hinzugefügt.
+Die Anforderungen wurden neu hinzugefügt.
 
 
 #### SYS.3.2.1.A23 Die Anforderung ist komplett entfallen.
@@ -6281,7 +6281,7 @@ Keine inhaltlichen Änderungen.
 
 #### SYS.3.2.1.A35
 
-Die Anforderung wurde komplett neu hinzugefügt.
+Die Anforderung wurde neu hinzugefügt.
 
 </details>
 
@@ -7175,12 +7175,12 @@ Die Virensignaturen DÜRFEN NICHT von OT-Systemen direkt aus dem Internet bezoge
 
 #### IND.1.A18
 
-Die Anforderung wurde komplett neu hinzugefügt.
+Die Anforderung wurde neu hinzugefügt.
 
 
 #### IND.1.A19
 
-Die Anforderung wurde komplett neu hinzugefügt.
+Die Anforderung wurde neu hinzugefügt.
 
 
 #### IND.1.A4
@@ -7280,22 +7280,22 @@ Ergänzend hierzu SOLLTEN organisatorische und technische Audits zur Schwachstel
 
 #### IND.1.A20
 
-Die Anforderung wurde komplett neu hinzugefügt.
+Die Anforderung wurde neu hinzugefügt.
 
 
 #### IND.1.A21
 
-Die Anforderung wurde komplett neu hinzugefügt.
+Die Anforderung wurde neu hinzugefügt.
 
 
 #### IND.1.A22
 
-Die Anforderung wurde komplett neu hinzugefügt.
+Die Anforderung wurde neu hinzugefügt.
 
 
 #### IND.1.A23
 
-Die Anforderung wurde komplett neu hinzugefügt.
+Die Anforderung wurde neu hinzugefügt.
 
 
 #### IND.1.A13
@@ -7351,7 +7351,7 @@ Keine inhaltlichen Änderungen.
 
 #### IND.1.A24
 
-Die Anforderung wurde komplett neu hinzugefügt.
+Die Anforderung wurde neu hinzugefügt.
 
 </details>
 
@@ -8219,7 +8219,7 @@ Keine inhaltlichen Änderungen.
 
 #### NET.3.2.32
 
-Die Anforderung wurde komplett neu hinzugefügt.
+Die Anforderung wurde neu hinzugefügt.
 
 
 #### NET.3.2.A25-A31
@@ -8561,7 +8561,7 @@ Die Anforderung ist von einer Standard- zu einer Basis-Anforderung geändert wur
 
 #### INF.1.A36
 
-Die Anforderung ist komplett neu hinzugefügt.
+Die Anforderung ist neu hinzugefügt.
 
 
 #### INF.1.A21 Die Anforderung ist komplett entfallen.
@@ -8985,7 +8985,7 @@ keine inhaltlichen Änderungen.
 
 #### INF.9.A12
 
-Die ANforderung ist komplett neu hinzugefügt.
+Die ANforderung ist neu hinzugefügt.
 
 </details>
 
@@ -9034,13 +9034,13 @@ keine inhaltlichen Änderungen
 
 ### INF.11
 
-Der Baustein ist komplett neu hinzugefügt wurden.
+Der Baustein ist neu hinzugefügt worden.
 
 
 
 ### INF.12
 
-Der Baustein ist komplett neu hinzugefügt wurden.
+Der Baustein ist neu hinzugefügt worden.
 
 
 
