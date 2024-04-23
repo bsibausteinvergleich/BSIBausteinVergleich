@@ -6143,6 +6143,8 @@ Keine inhaltlichen Änderungen.
 <summary> Änderungen
 </summary>
 
+#### Basis-Anforderungen
+
 #### SYS.2.4.A1
 
 __Entfallen:__
@@ -6151,8 +6153,19 @@ __Entfallen:__
 
 *Es MUSS geplant werden, wie der Schutz vor Schadprogrammen in das institutionsweite Konzept integriert werden kann.*
 
+#### SYS.2.4.A2-A3
 
-#### SYS.2.4.A2-A12
+Keine inhaltlichen Änderungen.
+
+#### Standard-Anforderungen
+
+#### SYS.2.4.A4-A11
+
+Keine inhaltlichen Änderungen.
+
+#### Anforderungen bei erhöhtem Schutzbedarf
+
+#### SYS.2.4.A12
 
 Keine inhaltlichen Änderungen.
 
@@ -6164,6 +6177,8 @@ Keine inhaltlichen Änderungen.
 <details>
 <summary> Änderungen
 </summary>
+
+#### Basis-Anforderungen
 
 #### SYS.3.1.A1
 
@@ -6228,6 +6243,7 @@ __Geändert:__
 
 Über öffentlich zugängliche Netze DÜRFEN die Benutzer NUR über über einen sicheren Kommunikationskanal auf das interne Netz der Institution zugreifen.
 
+#### Standard-Anforderungen
 
 #### SYS.3.1.A6
 
@@ -6281,6 +6297,7 @@ __Entfallen:__
 
 *Sie SOLLTE auch auf zusätzlich benötigte Hardware wie z. B. Dockingstations und Monitore erweitert werden.*
 
+#### Anforderungen bei erhöhtem Schutzbedarf
 
 #### SYS.3.1.A16
 
@@ -6304,6 +6321,8 @@ Keine inhaltlichen Änderungen.
 <details>
 <summary> Änderungen
 </summary>
+
+#### Basis-Anforderungen
 
 #### SYS.3.2.1.A1
 
@@ -6382,6 +6401,7 @@ Die Institution MUSS festlegen, aus welchen Quellen Apps installiert werden dür
 
 Es MUSS unterbunden werden, dass sich Apps aus nicht zugelassenen Quellen installieren lassen.
 
+#### Standard-Anforderungen
 
 #### SYS.3.2.1.A9-A13
 
@@ -6474,6 +6494,7 @@ Keine inhaltlichen Änderungen.
 
 Die Anforderungen wurden neu hinzugefügt.
 
+#### Anforderungen bei erhöhtem Schutzbedarf
 
 #### SYS.3.2.1.A23 Die Anforderung ist komplett entfallen.
 
@@ -6512,6 +6533,8 @@ Die Anforderung wurde neu hinzugefügt.
 <details>
 <summary> Änderungen
 </summary>
+
+#### Basis-Anforderungen
 
 #### SYS.3.2.2.A1
 
@@ -6556,6 +6579,7 @@ Wenn mobile Endgeräte an Mitarbeiter übergeben werden, MUSS, wenn vom Betriebs
 
 Keine inhaltlichen Änderungen.
 
+#### Standard-Anforderungen
 
 #### SYS.3.2.2.A6
 
@@ -6641,6 +6665,7 @@ Keine inhaltlichen Änderungen.
 
 Keine inhaltlichen Änderungen.
 
+#### Anforderungen bei erhöhtem Schutzbedarf
 
 #### SYS.3.2.2.A13-A16
 
@@ -6677,10 +6702,41 @@ Keine inhaltlichen Änderungen.
 <summary> Änderungen
 </summary>
 
-#### SYS.3.2.3.A1-A9
+#### Basis-Anforderungen
+
+#### SYS.3.2.3.A1-A2
 
 Keine inhaltlichen Änderungen.
 
+#### SYS.3.2.3.A3
+
+__Anforderung entfallen.__
+
+#### SYS.3.2.3.A4
+
+__Anforderung entfallen.__
+
+#### SYS.3.2.3.A5
+
+__Anforderung entfallen.__
+
+#### SYS.3.2.3.A6
+
+__Anforderung entfallen.__
+
+#### SYS.3.2.3.A7
+
+Keine inhaltlichen Änderungen.
+
+#### SYS.3.2.3.A8
+
+__Anforderung entfallen.__
+
+#### Standard-Anforderungen
+
+#### SYS.3.2.3.A9
+
+__Anforderung entfallen.__
 
 #### SYS.3.2.3.A10 Die Anforderung ist komplett entfallen.
 
@@ -6736,6 +6792,7 @@ __Hinzugefügt:__:
 
 Zahlungen im App Store SOLLTE NICHT über biometrische Verfahren bestätigt werden.
 
+#### Anforderungen bei erhöhtem Schutzbedarf
 
 #### SYS.3.2.3.A23
 
@@ -6751,6 +6808,9 @@ Falls sicherzustellen ist, ob der Benutzer noch im Besitz des Gerätes ist, SOLL
 
 Falls die Frist ohne Zugriff verstricht, sollte das Konfigurationsprofil dieses Benutzers automatisch gelöscht werden.
 
+#### SYS.3.2.3.A23-A27
+__Keine inhaltlichen Änderungen.__
+
 </details>
 
 
@@ -6759,6 +6819,8 @@ Falls die Frist ohne Zugriff verstricht, sollte das Konfigurationsprofil dieses 
 <details>
 <summary> Änderungen
 </summary>
+
+#### Basis-Anforderungen
 
 #### SYS.3.2.4.A1 Die Anforderung ist komplett entfallen.
 
@@ -6770,6 +6832,7 @@ __Ehemals:__
 
 *Die Geräte MÜSSEN mit einer aktuellen Version von Android ausgeliefert werden oder unmittelbar auf diese aktualisiert werden können.*
 
+#### Standard-Anforderungen
 
 #### SYS.3.2.4.A2
 
@@ -6794,6 +6857,7 @@ __Ehemals:__
 
 Keine inhaltlichen Änderungen.
 
+#### Anforderungen bei erhöhtem Schutzbedarf
 
 #### SYS.3.2.4.A6 Die Anforderung ist komplett entfallen.
 
@@ -6825,6 +6889,8 @@ __Ehemals:__
 <summary> Änderungen
 </summary>
 
+#### Basis-Anforderungen
+
 #### SYS.3.3.A1
 
 __Geändert:__
@@ -6846,6 +6912,7 @@ Keine inhaltlichen Änderungen.
 
 Keine inhaltlichen Änderungen.
 
+#### Standard-Anforderungen
 
 #### SYS.3.3.A5
 
@@ -6862,31 +6929,21 @@ Die Super-PIN/PUK SOLLTE nur im Rahmen der definierten Prozesse von den Zuständ
 
 Keine inhaltlichen Änderungen.
 
-
 #### SYS.3.3.A7
 
 Keine inhaltlichen Änderungen.
-
 
 #### SYS.3.3.A8
 
 Keine inhaltlichen Änderungen.
 
-
-#### SYS.3.3.A9
-
-Die Anforderung wurde von einer Standard-Anforderung zu einer Anforderung mit erhöhtem Schutzbedarf geändert.
-
-
 #### SYS.3.3.A10
 
 Keine inhaltlichen Änderungen.
 
-
 #### SYS.3.3.A11
 
 Keine inhaltlichen Änderungen.
-
 
 #### SYS.3.3.A12
 
@@ -6894,6 +6951,11 @@ __Entfallen:__
 
 *Bei der Ausgabe SOLLTEN die Benutzer informiert werden, wie die Mobiltelefone aufzubewahren sind.*
 
+#### Anforderungen bei erhöhtem Schutzbedarf
+
+#### SYS.3.3.A9
+
+Die Anforderung wurde von einer Standard-Anforderung zu einer Anforderung mit erhöhtem Schutzbedarf geändert.
 
 #### SYS.3.3.A13
 
@@ -6919,6 +6981,8 @@ Damit vertrauliche Informationen nicht abgehört werden können, SOLLTE dafür g
 <details>
 <summary> Änderungen
 </summary>
+
+#### Basis-Anforderungen
 
 #### SYS.4.1.A1
 
@@ -6983,6 +7047,7 @@ Nicht benötigte, aber ausgedruckte Dokumente mit vertraulichen Informationen M�
 
 Sind Heimarbeitsplätze mit Druckern, Kopierern oder Multifunktionsgeräten ausgestattet, SOLLTE gewährleistet werden, dass die ausgedruckten Informationen auch direkt vor Ort geeignet vernichtet werden können, wenn sie nicht mehr benötigt werden.
 
+#### Standard-Anforderungen
 
 #### SYS.4.1.A4
 
@@ -7025,6 +7090,7 @@ __Ehemals:__
 
 *Alle nicht mehr benötigten kryptografischen Schlüssel und Zertifikate SOLLTEN sicher gelöscht werden.*
 
+#### Anforderungen bei erhöhtem Schutzbedarf
 
 #### SYS.4.1.A14
 
@@ -7056,6 +7122,8 @@ Keine inhaltlichen Änderungen
 <summary> Änderungen
 </summary>
 
+#### Basis-Anforderungen
+
 #### SYS.4.3.A1
 
 __Entfallen:__
@@ -7072,6 +7140,7 @@ Keine inhaltlichen Änderungen
 
 Keine inhaltlichen Änderungen
 
+#### Standard-Anforderungen
 
 #### SYS.4.3.A4
 
@@ -7083,8 +7152,13 @@ __Hinzugefügt:__:
 
 • Unterstützung eines Trusted Plattform Module (TPM) durch das Betriebssystem,
 
+#### SYS.4.3.A5-A11
 
-#### SYS.4.3.A5-A18
+Keine inhaltlichen Änderungen
+
+#### Anforderungen bei erhöhtem Schutzbedarf
+
+#### SYS.4.3.A12-A18
 
 Keine inhaltlichen Änderungen
 
@@ -7096,6 +7170,8 @@ Keine inhaltlichen Änderungen
 <details>
 <summary> Änderungen
 </summary>
+
+#### Basis-Anforderungen
 
 #### SYS.4.4.A1
 
@@ -7130,10 +7206,15 @@ __Ehemals:__
 *Generell MUSS darauf geachtet werden, dass Patches und Updates nur aus vertrauenswürdigen Quellen bezogen werden.*
 
 
-#### SYS.4.4.A5-A8
+#### SYS.4.4.A5
 
 Keine inhaltlichen Änderungen
 
+#### Standard-Anforderungen
+
+#### SYS.4.4.A6-A8
+
+Keine inhaltlichen Änderungen
 
 #### SYS.4.4.A9
 
@@ -7203,6 +7284,7 @@ __Entfallen:__
 
 Bei der Außerbetriebnahme von IoT-Geräten SOLLTE sichergestellt werden, dass keine wichtigen Daten, die eventuell auf den verbauten Datenträgern gespeichert sind, verloren gehen und dass keine vertraulichen Daten zurückbleiben oder an Dritte weitergegeben werden.
 
+#### Anforderungen bei erhöhtem Schutzbedarf
 
 #### SYS.4.4.A21
 
@@ -7256,6 +7338,8 @@ Der Webserver SOLLTE, soweit möglich, NICHT unter einem privilegierten Konto be
 <summary> Änderungen
 </summary>
 
+#### Basis-Anforderungen
+
 #### SYS.4.5.A1
 
 Keine inhaltlichen Änderungen
@@ -7279,6 +7363,7 @@ Wenn Wechseldatenträger außerhalb eines sicheren Bereiches verwendet oder tran
 
 Keine inhaltlichen Änderungen
 
+#### Standard-Anforderungen
 
 #### SYS.4.5.A4
 
@@ -7306,6 +7391,7 @@ __Entfallen:__
 
 Keine inhaltlichen Änderungen
 
+#### Anforderungen bei erhöhtem Schutzbedarf
 
 #### SYS.4.5.A11
 
