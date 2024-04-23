@@ -2086,6 +2086,8 @@ Keine inhaltlichen Änderungen.
 <summary> Änderungen
 </summary>
 
+#### Basis-Anforderungen
+
 #### OPS.1.2.4.A1
 
 keine inhaltlichen Änderungen.
@@ -2132,7 +2134,13 @@ __Ehemals:__
 *Es SOLLTEN Backup-Datenträger in der Institution hinterlegt werden.*
 
 
-#### OPS.1.2.4.A5-A10
+#### OPS.1.2.4.A5
+
+Keine inhaltlichen Änderungen.
+
+#### Standard-Anforderungen
+
+#### OPS.1.2.4.A6-A10
 
 Keine inhaltlichen Änderungen.
 
@@ -2144,6 +2152,8 @@ Keine inhaltlichen Änderungen.
 <details>
 <summary> Änderungen
 </summary>
+
+#### Basis-Anforderungen
 
 #### OPS.1.2.5.A1
 
@@ -2180,6 +2190,7 @@ __Ehemals:__
 
 *Es MUSS darauf geachtet werden, dass bestehende Firewall-Regeln nicht umgangen werden.*
 
+#### Standard-Anforderungen
 
 #### OPS.1.2.5.A5-A13
 
@@ -2212,6 +2223,7 @@ Keine inhaltlichen Änderungen.
 
 Die Anforderung wurde neu hinzugefügt.
 
+#### Anforderungen bei erhöhtem Schutzbedarf
 
 #### OPS.1.2.5.A14
 
@@ -2221,6 +2233,10 @@ Keine inhaltlichen Änderungen.
 #### OPS.1.2.5.A22
 
 Keine inhaltlichen Änderungen.
+
+#### OPS.1.2.5.A23 ENTFALLEN
+
+Die Anforderung ist vollständig entfallen.
 
 </details>
 
@@ -2254,6 +2270,8 @@ Keine inhaltlichen Änderungen.
 <details>
 <summary> Änderungen
 </summary>
+
+#### Basis-Anforderungen
 
 #### DER.1.A1
 
@@ -2311,6 +2329,7 @@ __Entfallen:__
 
 *Außerdem MÜSSEN sie regelmäßig aktualisiert werden.*
 
+#### Standard-Anforderungen
 
 #### DER.1.A6
 
@@ -2355,8 +2374,13 @@ __Entfallen:__
 
 *Damit die Daten korreliert und abgeglichen werden können, SOLLTEN sie alle zeitlich synchronisiert werden.*
 
+#### DER.1.A12-A13
 
-#### DER.1.A12-A18
+Keine inhaltlichen Änderungen.
+
+#### Anforderungen bei erhöhtem Schutzbedarf
+
+#### DER.1.A14-A18
 
 Keine inhaltlichen Änderungen.
 
@@ -2368,6 +2392,8 @@ Keine inhaltlichen Änderungen.
 <details>
 <summary> Änderungen
 </summary>
+
+#### Basis-Anforderungen
 
 #### DER.2.1.A1-A4
 
@@ -2387,6 +2413,7 @@ __Entfallen:__
 
 *Wird auf externe Dienstleister zurückgegriffen, um Störungen zu beheben, MUSS geregelt werden, welche Informationen über den Sicherheitsvorfall wem zugänglich gemacht werden.*
 
+#### Anforderungen bei erhöhtem Schutzbedarf
 
 #### DER.2.1.A7
 
@@ -2420,8 +2447,13 @@ __Entfallen:__
 
 *Die Checklisten des Service Desk SOLLTEN auch Fragen enthalten, um Sicherheitsvorfälle identifizieren zu können.*
 
+#### DER.2.1.A16-A18
 
-#### DER.2.1.A16-A20
+Keine inhaltlichen Änderungen.
+
+#### Anforderungen bei erhöhtem Schutzbedarf
+
+#### DER.2.1.A19-A20
 
 Keine inhaltlichen Änderungen.
 
