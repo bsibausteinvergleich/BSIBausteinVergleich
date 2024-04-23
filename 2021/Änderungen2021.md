@@ -4476,18 +4476,14 @@ Keine inhaltlichen Änderungen.
 Der Baustein ist neu hinzugefügt worden.
 
 
-
 ### APP.6
 
 Der Baustein ist neu hinzugefügt worden.
 
 
-
 ### APP.7 
 
 Der Baustein ist neu hinzugefügt worden.
-
-
 
 
 ## SYS
@@ -4497,6 +4493,8 @@ Der Baustein ist neu hinzugefügt worden.
 <details>
 <summary> Änderungen
 </summary>
+
+#### Basis-Anforderungen
 
 #### SYS.1.1.A1
 
@@ -4637,6 +4635,7 @@ __Hinzugefügt:__:
 
 Generell MÜSSEN alle sicherheitsrelevanten Systemereignisse protokolliert werden, dazu gehören mindestens:
 
+#### Standard-Anforderungen
 
 #### SYS.1.1.A11
 
@@ -4765,17 +4764,7 @@ Keine inhaltlichen Änderungen.
 
 Die Anforderung wurde neu hinzugefügt.
 
-
-#### SYS.1.1.A25 Die Anforderung ist komplett entfallen.
-
-__Ehemals:__
-
-*SYS.1.1.A26 Verwendung von Mehr-Faktor-Authentisierung (H)*
-
-*Bei höherem Schutzbedarf SOLLTE eine sichere Mehr-Faktor-Authentisierung für den Zugang zum Server eingerichtet werden, z. B. mit kryptografischen Zertifikaten, Chipkarten oder Token.*
-
-*Vordringlich SOLLTEN alle administrativen Zugänge zum Server mit Mehr-Faktor-Authentisierung abgesichert werden.*
-
+#### Anforderungen bei erhöhtem Schutzbedarf
 
 #### SYS.1.1.A26
 
@@ -4839,6 +4828,8 @@ Die Anforderung wurde neu hinzugefügt.
 <summary> Änderungen
 </summary>
 
+#### Basis-Anforderungen
+
 #### SYS.1.2.2.A1
 
 Keine inhaltlichen Änderungen.
@@ -4867,6 +4858,7 @@ Alle Administratoren, die für das Server-System zuständig sind, MÜSSEN in den
 
 Webbrowser auf dem Server DÜRFEN NICHT zum Surfen im Web verwendet werden.
 
+#### Standard-Anforderungen
 
 #### SYS.1.2.2.A4
 
@@ -4917,6 +4909,7 @@ __Ehemals:__
 
 *Die Identität von Remote-Systemen und die Integrität der Verbindungen mit diesen SOLLTE kryptografisch abgesichert sein.*
 
+#### Anforderungen bei erhöhtem Schutzbedarf
 
 #### SYS.1.2.2.A10 Die Anforderung ist komplett entfallen.
 
@@ -4969,6 +4962,8 @@ Keine inhaltlichen Änderungen.
 <summary> Änderungen
 </summary>
 
+#### Basis-Anforderungen
+
 #### SYS.1.3.A1 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
@@ -5007,6 +5002,7 @@ __Entfallen:__
 
 *Die Integrität und Authentizität der zu installierenden Softwarepakete MUSS immer geprüft werden.*
 
+#### Standard-Anforderungen
 
 #### SYS.1.3.A6
 
@@ -5070,6 +5066,11 @@ __Ehemals:__
 
 *Der Server-Prozess ypserv SOLLTE nur Anfragen von vorher festgelegten IT-Systemen beantworten.*
 
+#### Anforderungen bei erhöhtem Schutzbedarf
+
+#### SYS.1.3.A13
+
+__Anforderung entfallen.__
 
 #### SYS.1.3.A14
 
@@ -5099,6 +5100,8 @@ Keine inhaltlichen Änderungen.
 <details>
 <summary> Änderungen
 </summary>
+
+#### Basis-Anforderungen
 
 #### SYS.1.5.A1 Die Anforderung ist komplett entfallen.
 
@@ -5133,6 +5136,7 @@ Auch MUSS überwacht werden, ob die virtuellen Netze den jeweiligen virtuellen I
 
 Keine inhaltlichen Änderungen.
 
+#### Standard-Anforderungen
 
 #### SYS.1.5.A8
 
@@ -5168,8 +5172,13 @@ __Ehemals:__
 
 *In der Schulung SOLLTE vermittelt werden, wie virtuelle Infrastrukturen sicher aufgebaut und betrieben werden können.*
 
+#### SYS.1.5.A19
 
-#### SYS.1.5.A19-A28
+Keine inhaltlichen Änderungen.
+
+#### Anforderungen bei erhöhtem Schutzbedarf
+
+#### SYS.1.5.A20-A28
 
 Keine inhaltlichen Änderungen.
 
@@ -5181,6 +5190,8 @@ Keine inhaltlichen Änderungen.
 <details>
 <summary> Änderungen
 </summary>
+
+#### Basis-Anforderungen
 
 #### SYS.1.7.A1-A9
 
@@ -5206,6 +5217,7 @@ __Ehemals:__
 
 Keine inhaltlichen Änderungen.
 
+#### Standard-Anforderungen
 
 #### SYS.1.7.A12 Die Anforderung ist komplett entfallen.
 
@@ -5252,8 +5264,13 @@ __Ehemals:__
 
 *Außerdem SOLLTEN Hinweise auf potenzielle Sicherheitsverstöße untersucht werden.*
 
+#### SYS.1.7.A16-A31
 
-#### SYS.1.7.A16-A37
+Keine inhaltlichen Änderungen.
+
+#### Anforderungen bei erhöhtem Schutzbedarf
+
+#### SYS.1.7.A32-A37
 
 Keine inhaltlichen Änderungen.
 
@@ -5265,7 +5282,9 @@ Keine inhaltlichen Änderungen.
 <details>
 <summary> Änderungen
 </summary>
-  
+
+#### Basis-Anforderungen
+
 #### SYS.1.8.A1
 
 Keine inhaltlichen Änderungen.
@@ -5306,6 +5325,7 @@ __Ehemals:__
 
 *Die interne Protokollierung der Speichersysteme MUSS so konfiguriert werden, dass Informationen protokolliert werden, die dazu dienen, Probleme früh zu erkennen.*
 
+#### Standard-Anforderungen
 
 #### SYS.1.8.A6
 
@@ -5396,8 +5416,13 @@ __Ehemals:__
 
 *Sie SOLLTE immer aktuell sein.*
 
+#### SYS.1.8.A18-A20
 
-#### SYS.1.8.A18-A23
+Keine inhaltlichen Änderungen.
+
+#### Anforderungen bei erhöhtem Schutzbedarf
+
+#### SYS.1.8.A21-A23
 
 Keine inhaltlichen Änderungen.
 
@@ -5409,6 +5434,8 @@ Keine inhaltlichen Änderungen.
 <details>
 <summary> Änderungen
 </summary>
+
+#### Basis-Anforderungen
 
 #### SYS.2.1.A1
 
@@ -5518,6 +5545,7 @@ Keine inhaltlichen Änderungen.
 
 Die Anforderung wurde neu hinzugefügt.
 
+#### Standard-Anforderungen
 
 #### SYS.2.1.A9
 
@@ -5736,6 +5764,7 @@ Din Anforderung wurde neu hinzugefügt.
 
 Din Anforderung wurde neu hinzugefügt.
 
+#### Anforderungen bei erhöhtem Schutzbedarf
 
 #### SYS.2.1.A28
 
@@ -5826,6 +5855,8 @@ Die Anforderung wurde neu hinzugefügt.
 <summary> Änderungen
 </summary>
 
+#### Basis-Anforderungen
+
 #### SYS.2.2.2.A1
 
 Keine inhaltlichen Änderungen.
@@ -5842,6 +5873,7 @@ __Entfallen:__
 
 Keine inhaltlichen Änderungen.
 
+#### Standard-Anforderungen
 
 #### SYS.2.2.2.A4
 
@@ -5867,14 +5899,25 @@ __Ehemals:__
 
 *Insbesondere bei Clients, die von älteren Betriebssystemversionen aktualisiert wurden, SOLLTEN die Berechtigungen der Dateien und Verzeichnisse geprüft werden.*
 
-
-#### SYS.2.2.2.A7-A21
+#### SYS.2.2.2.A7-A13
 
 Keine inhaltlichen Änderungen.
 
+#### Anforderungen bei erhöhtem Schutzbedarf
+
+#### SYS.2.2.2.A14-A21
+
+Keine inhaltlichen Änderungen.
+
+</details>
 
 
 ### SYS.2.2.3
+<details>
+<summary> Änderungen
+</summary>
+
+#### Basis-Anforderungen
 
 #### SYS.2.2.3.A1
 
@@ -5906,6 +5949,7 @@ Keine inhaltlichen Änderungen.
 
 Keine inhaltlichen Änderungen.
 
+#### Standard-Anforderungen
 
 #### SYS.2.2.3.A7 Die Anforderung ist komplett entfallen.
 
@@ -5948,8 +5992,13 @@ __Ehemals:__
 
 *Die Datenausführungsverhinderung (Data Execution Prevention, DEP) SOLLTE für alle Programme und Dienste aktiviert werden (Opt-Out-Modus).*
 
+#### SYS.2.2.3.A11-A20
 
-#### SYS.2.2.3.A11-A23
+Keine inhaltlichen Änderungen.
+
+#### Anforderungen bei erhöhtem Schutzbedarf
+
+#### SYS.2.2.3.A21-A23
 
 Keine inhaltlichen Änderungen.
 
@@ -5973,6 +6022,8 @@ Keine inhaltlichen Änderungen.
 <details>
 <summary> Änderungen
 </summary>
+
+#### Basis-Anforderungen
 
 #### SYS.2.3.A1
 
@@ -6044,6 +6095,7 @@ Wenn zu installierende Software aus dem Quellcode kompiliert werden soll, DARF d
 
 Anschließend DARF die zu installierende Software NICHT unkontrolliert in das Wurzeldateisystem des Betriebssystems installiert werden.
 
+#### Standard-Anforderungen
 
 #### SYS.2.3.A6
 
@@ -6056,8 +6108,13 @@ __Entfallen:__
 
 *Der Zugriff von Benutzern auf Dateien und Verzeichnisse SOLLTE immer auf das erforderliche Minimum beschränkt werden.*
 
+#### SYS.2.3.A8-A12
 
-#### SYS.2.3.A8-A15
+Keine inhaltlichen Änderungen.
+
+#### Anforderungen bei erhöhtem Schutzbedarf
+
+#### SYS.2.3.A13-A15
 
 Keine inhaltlichen Änderungen.
 
