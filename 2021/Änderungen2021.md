@@ -7429,6 +7429,8 @@ Keine inhaltlichen Änderungen
 <summary> Änderungen
 </summary>
 
+#### Basis-Anforderungen
+
 #### IND.1.A1
 
 #### Entfallen:
@@ -7489,6 +7491,7 @@ Die Anforderung wurde neu hinzugefügt.
 
 Die Anforderung wurde neu hinzugefügt.
 
+#### Standard-Anforderungen
 
 #### IND.1.A4
 
@@ -7604,6 +7607,7 @@ Die Anforderung wurde neu hinzugefügt.
 
 Die Anforderung wurde neu hinzugefügt.
 
+#### Anforderungen bei erhöhtem Schutzbedarf
 
 #### IND.1.A13
 
