@@ -3741,7 +3741,7 @@ Keine inhaltlichen Änderungen.
 Keine inhaltlichen Änderungen.
 
 
-#### APP.3.2.A17 Die Aforderung ist komplett entfallen.
+#### APP.3.2.A17 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
 
@@ -3764,6 +3764,8 @@ Die Institution wurde in diesem Baustein grundätzlich durch den IT-Betrieb erse
 <details>
 <summary> Änderungen
 </summary>
+
+#### Basis-Anforderungen
 
 #### APP.3.3.A2
 
@@ -3800,6 +3802,7 @@ __Ehemals:__
 
 Kein inhaltlichen Änderungen.
 
+#### Standard-Anforderungen
 
 #### APP.3.3.A6
 
@@ -3836,6 +3839,7 @@ Kein inhaltlichen Änderungen.
 
 Kein inhaltlichen Änderungen.
 
+#### Anforderungen bei erhöhtem Schutzbedarf
 
 #### APP.3.3.A12
 
@@ -3861,6 +3865,8 @@ Die Institution wurde in diesem Baustein grundätzlich durch den IT-Betrieb erse
 <summary> Änderungen
 </summary>
 
+#### Basis-Anforderungen
+
 #### APP.3.4.A1
 
 Keine inhaltlichen Änderungen.
@@ -3876,6 +3882,7 @@ __Entfallen:__
 
 *Er MUSS dafür sorgen, dass Benutzer nur auf die Informationen innerhalb ihrer Freigaben zugreifen können.*
 
+#### Standard-Anforderungen
 
 #### APP.3.4.A3
 
@@ -3953,6 +3960,11 @@ Keine inhaltlichen Änderungen.
 
 Keine inhaltlichen Änderungen.
 
+#### APP.3.4.A14
+
+__Anforderung entfallen.__
+
+#### Anforderungen bei erhöhtem Schutzbedarf
 
 #### APP.3.4.A15
 
@@ -3966,6 +3978,8 @@ Keine inhaltlichen Änderungen.
 <details>
 <summary> Änderungen
 </summary>
+
+#### Basis-Anforderungen
 
 #### APP.3.6.A1-A6
 
@@ -3996,16 +4010,19 @@ DNS-Server MÜSSEN so konfiguriert werden, dass mindestens die folgenden sicherh
 
 • fehlgeschlagene Zonentransfers.
 
-
 #### APP.3.6.A8
 
 Keine inhaltlichen Änderungen.
 
-
-#### APP.3.6.A1-A11
+#### APP.3.6.A1-A9
 
 Keine inhaltlichen Änderungen.
 
+#### Standard-Anforderungen
+
+#### APP.3.6.A10-A11
+
+Keine inhaltlichen Änderungen.
 
 #### APP.3.6.A12 Die Anforderung ist komplett entfallen.
 
@@ -4066,16 +4083,15 @@ __Entfallen:__
 
 *Wird ein DNS-Server ausgesondert, SOLLTEN alle Speichermedien des Servers sicher gelöscht werden.*
 
+#### Anforderungen bei erhöhtem Schutzbedarf
 
 #### APP.3.6.A20
 
 Keine inhaltichen Änderungen.
 
-
 #### APP.3.6.A21
 
 Keine inhaltichen Änderungen.
-
 
 #### APP.3.6.A22
 
@@ -4089,6 +4105,8 @@ Keine inhaltichen Änderungen.
 <details>
 <summary> Änderungen
 </summary>
+
+#### Basis-Anforderungen
 
 #### APP.4.2.A1-A4
 
@@ -4140,6 +4158,7 @@ __Ehemals:__
 
 *Das SAP-ERP-System SOLLTE regelmäßig aktualisiert werden.*
 
+#### Standard-Anforderungen
 
 #### APP.4.2.A11-A20
 
@@ -4157,7 +4176,13 @@ __Ehemals:__
 *Zudem SOLLTEN passende Profilparameter für das SAL gesetzt werden.*
 
 
-#### APP.4.2.A22-A26
+#### APP.4.2.A22-A31
+
+Keine inhaltichen Änderungen.
+
+#### Anforderungen bei erhöhtem Schutzbedarf
+
+#### APP.4.2.A32
 
 Keine inhaltichen Änderungen.
 
@@ -4169,6 +4194,8 @@ Keine inhaltichen Änderungen.
 <details>
 <summary> Änderungen
 </summary>
+
+#### Basis-Anforderungen
 
 #### APP.4.3.A1
 
@@ -4276,6 +4303,7 @@ __Ehemals:__
 
 Keine inhaltlichen Änderungen.
 
+#### Standard-Anforderungen
 
 #### APP.4.3.A10 Die Anforderung ist komplett entfallen.
 
@@ -4315,7 +4343,6 @@ __Ehemals:__
 
 *Die verantwortlichen Mitarbeiter SOLLTEN zudem regelmäßig üben, wie sich Datenbanken im Notfall schnell wiederherstellen lassen.*
 
-
 #### APP.4.3.A15 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
@@ -4326,13 +4353,17 @@ __Ehemals:__
 
 *Es SOLLTE ein Schulungsplan erstellt werden, mit dem sichergestellt wird, dass Datenbankverantwortliche rechtzeitig zu Themen der Informationssicherheit und Performance sowie zu den Funktionen neuer Versionen des Datenbankmanagementsystems geschult werden.*
 
+#### APP.4.3.A16-A20
 
-#### APP.4.3.A16-A25
+Keine inhaltlichen Änderungen.
+
+#### Anforderungen bei erhöhtem Schutzbedarf
+
+#### APP.4.3.A21-A25
 
 Keine inhaltlichen Änderungen.
 
 </details>
-
 
 
 ### APP.4.6
@@ -4340,13 +4371,9 @@ Keine inhaltlichen Änderungen.
 Keine inhaltlichen Änderungen.
 
 
-
-
 ### APP.5.1
 
 Der Baustein ist komplett entfallen.
-
-
 
 
 ### APP.5.2
@@ -4355,7 +4382,15 @@ Der Baustein ist komplett entfallen.
 <summary> Änderungen
 </summary>
 
-#### APP.5.2.A1-A9
+#### Basis-Anforderungen
+
+#### APP.5.2.A1-A5
+
+keine inhaltlichen Änderungen.
+
+#### Standard-Anforderungen
+
+#### APP.5.2.A6-A9
 
 keine inhaltlichen Änderungen.
 
@@ -4427,6 +4462,7 @@ __Ehemals:__
 
 *• festgelegte Administratoren.*
 
+#### Anforderungen bei erhöhtem Schutzbedarf
 
 #### APP.5.2.A17
 
