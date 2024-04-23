@@ -2490,9 +2490,19 @@ Keine inhaltlichen Änderungen.
 <summary> Änderungen
 </summary>
 
-#### DER.3.1.A1-A27
+#### Basis-Anforderungen
+
+#### DER.3.1.A1-A4
 
 Keine inhaltlichen Änderungen.
+
+#### Standard-Anforderungen
+
+#### DER.3.1.A5-A27
+
+Keine inhaltlichen Änderungen.
+
+#### Anforderungen bei erhöhtem Schutzbedarf
 
 #### DER.3.1.A28 Die Anforderung ist komplett entfallen.
 
@@ -2515,10 +2525,19 @@ __Ehemals:__
 <summary> Änderungen
 </summary>
 
-#### DER.3.2.A1-A22
+#### Basis-Anforderungen
+
+#### DER.3.2.A1-A8
 
 Keine inhaltlichen Änderungen.
 
+#### Standard-Anforderungen
+
+#### DER.3.2.A9-A22
+
+Keine inhaltlichen Änderungen.
+
+#### Anforderungen bei erhöhtem Schutzbedarf
 
 #### DER.3.2.A23 Die Anforderung ist komplett entfallen.
 
