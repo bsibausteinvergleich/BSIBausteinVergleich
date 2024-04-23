@@ -2572,6 +2572,8 @@ Keine inhaltlichen Änderungen.
 <summary> Änderungen
 </summary>
 
+#### Basis-Anforderungen
+
 #### APP.1.1.A1 Die Anforderung ist komplett entfallen.
 
 __Ehemals:__
@@ -2629,7 +2631,6 @@ __Ehemals:__
 
 *Die Vorgaben für die sichere Nutzung von Office-Produkten SOLLTEN in der Sicherheitsrichtlinie integriert werden.*
 
-
 #### APP.1.1.A17 Die Anforderung wurde neu hinzugefügt und hat zum Teil A4 ersetzt.
 
 __Geändert:__
@@ -2644,6 +2645,7 @@ Den Benutzern SOLLTE vermittelt werden, mit welchen Funktionen sie Dokumente vor
 
 Benutzer SOLLTEN im Umgang mit den Verschlüsselungsfunktionen in Office-Produkten sensibilisiert werden.
 
+#### Standard-Anforderungen
 
 #### APP.1.1.A5 Die Anforderung ist komplett entfallen.
 
@@ -2659,13 +2661,11 @@ __Ehemals:__
 
 *Bei der Auswahl zwischen mehreren Alternativen SOLLTE auch der zusätzliche Aufwand berücksichtigt werden, wie beispielsweise der Mehraufwand für die Schulung von Administratoren und Benutzern oder für die Migration.*
 
-
 #### APP.1.1.A6
 
 __Entfallen:__
 
 *Zu diesem Zweck SOLLTEN Testmethoden für die Einzeltests (Testarten, -verfahren und -werkzeuge) entwickelt und freigegeben werden.*
-
 
 #### APP.1.1.A7 Die Anforderung ist komplett entfallen.
 
@@ -2744,6 +2744,7 @@ __Entfallen:__
 
 *Die Benutzer SOLLTEN darauf hingewiesen werden, wie diese Sicherheitsmechanismen funktionieren und wie sie anzuwenden sind.*
 
+#### Anforderungen bei erhöhtem Schutzbedarf
 
 #### APP.1.1.A15
 
@@ -2782,6 +2783,8 @@ __Entfallen:__
 <details>
 <summary> Änderungen
 </summary>
+
+#### Basis-Anforderungen
 
 #### APP.1.2.A1
 
@@ -2844,6 +2847,7 @@ Der IT-Betrieb MUSS sicherstellen, dass der verwendete Browser den Benutzern die
 
 Die Anforderung wurd neu hinzugefügt.
 
+#### Standard-Anforderungen
 
 #### APP.1.2.A5 Die Anforderung ist komplett entfallen.
 
@@ -2879,6 +2883,7 @@ __Ehemals:__
 
 *Der Webbrowser SOLLTE die Möglichkeit bieten, Erweiterungen zu konfigurieren und abzuschalten.*
 
+#### Anforderungen bei erhöhtem Schutzbedarf
 
 #### APP.1.2.A9-A12
 
@@ -2892,6 +2897,8 @@ Keine inhaltlichen Änderungen.
 <details>
 <summary> Änderungen
 </summary>
+
+#### Basis-Anforderungen
 
 #### APP.1.4.A1
 
@@ -2977,6 +2984,7 @@ Keine inhaltlichen Änderungen.
 
 Keine inhaltlichen Änderungen.
 
+#### Standard-Anforderungen
 
 #### APP.1.4.A3 Die Anforderung wurde von einer Basis-Anforderung in eine Standard-Anforderung gewandelt.
 
@@ -3040,6 +3048,7 @@ __Hinzugefügt:__:
 
 Werden Apps deinstalliert, SOLLTEN auch Daten gelöscht werden, die auf externen Systemen, beispielsweise beim App-Anbieter, gespeichert wurden.
 
+#### Anforderungen bei erhöhtem Schutzbedarf
 
 #### APP.1.4.A13 Die Anforderung ist komplett entfallen.
 
@@ -3080,6 +3089,8 @@ Keine inhaltlichen Änderungen.
 <details>
 <summary> Änderungen
 </summary>
+
+#### Basis-Anforderungen
 
 #### APP.2.2.A1
 
@@ -3143,6 +3154,7 @@ __Entfallen:__
 
 *Bei Remote-Administration der Domänen-Controller MUSS der Datenverkehr geeignet verschlüsselt sein.*
 
+#### Standard-Anforderungen
 
 #### APP.2.2.A8
 
@@ -3172,6 +3184,7 @@ __Entfallen:__
 
 *Der korrekte Ablauf und das Wiedereinspielen von Datensicherungen der Domänen-Controller SOLLTEN in regelmäßigen Abständen überprüft werden.*
 
+#### Anforderungen bei erhöhtem Schutzbedarf
 
 #### APP.2.2.A13 Die Anforderung ist komplett entfallen.
 
@@ -3199,6 +3212,8 @@ Keine inhaltlichen Änderungen.
 <details>
 <summary> Änderungen
 </summary>
+
+#### Basis-Anforderungen
 
 #### APP.2.3.A1
 
@@ -3243,6 +3258,7 @@ __Entfallen:__
 
 Keine inhaltlichen Änderungen.
 
+#### Standard-Anforderungen
 
 #### APP.2.3.A7 Die Anforderung ist komplett entfallen.
 
@@ -3312,6 +3328,8 @@ __Ehemals:__
 <details>
 <summary> Änderungen
 </summary>
+
+#### Basis-Anforderungen
 
 #### APP.3.1.A1 Die Anforderung wurde komplett geändert.
 
@@ -3457,6 +3475,7 @@ __Ehemals:__
 
 *Wenn weder Stored Procedures noch Prepared SQL Statements eingesetzt werden können, MÜSSEN die SQL-Queries separat abgesichert werden.*
 
+#### Standard-Anforderungen
 
 #### APP.3.1.A8 Die Anforderung wurde komplett geändert:
 
@@ -3595,6 +3614,7 @@ __Ehemals:__
 
 *Mindestens SOLLTE dabei geprüft werden, ob neben der Session-ID ein geheimes Token für den Zugriff auf geschützte Ressourcen und Funktionen benötigt wird.*
 
+#### Anforderungen bei erhöhtem Schutzbedarf
 
 #### APP.3.1.A20
 
@@ -3628,6 +3648,8 @@ __Ehemals:__
 <details>
 <summary> Änderungen
 </summary>
+
+#### Basis-Anforderungen
 
 #### APP.3.2.A1
 
@@ -3663,6 +3685,7 @@ __Entfallen:__
 
 Keine inhaltlichen Änderungen.
 
+#### Standard-Anforderungen
 
 #### APP.3.2.A8
 
@@ -3711,6 +3734,7 @@ Keine inhaltlichen Änderungen.
 
 Keine inhaltlichen Änderungen.
 
+#### Anforderungen bei erhöhtem Schutzbedarf
 
 #### APP.3.2.A15
 
