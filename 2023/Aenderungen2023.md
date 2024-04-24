@@ -61,7 +61,9 @@ Ehemals *Verschlüsselung der Kommunikationsverbindungen*:
 *Ist dies der Fall, SOLLTEN Kommunikationsverbindungen geeignet verschlüsselt werden.*
 
 
-#### CON.1.A4 ist jetzt Basis-Anforderung anstatt Standard-Anforderung
+#### CON.1.A4
+
+Anforderung ist jetzt Basis-Anforderung anstatt Standard-Anforderung.
 
 __Hinzugefügt:__
 
@@ -153,7 +155,9 @@ Ehemals *Erhebung der Einflussfaktoren für kryptografische Verfahren und Produk
 *• gesetzliche Rahmenbedingungen.*
 
 
-#### CON.1.A9 ist jetzt Standard-Anforderung anstatt Anforderung mit erhöhtem Schutzbedarf
+#### CON.1.A9
+
+Anforderung ist jetzt Standard-Anforderung anstatt Anforderung mit erhöhtem Schutzbedarf
 
 ##### Umbenannt in:
 
@@ -164,12 +168,16 @@ War vorher: *Auswahl eines geeigneten kryptografischen Produkts*
 Inhalt grundlegend verändert, auf eine Auflistung wird verzichtet, beinhaltet auch Inhalte aus der nun entfallenen A8.
 
 
-#### CON.1.A10 ist jetzt Standard-Anforderung anstatt Anforderung mit erhöhtem Schutzbedarf
+#### CON.1.A10
+
+Anforderung ist jetzt Standard-Anforderung anstatt Anforderung mit erhöhtem Schutzbedarf
 
 Inhalt grundlegend verändert, auf eine Auflistung wird verzichtet.
 
 
-#### CON.1.A15 ist jetzt Standard-Anforderung anstatt Anforderung mit erhöhtem Schutzbedarf
+#### CON.1.A15
+
+Anforderung ist jetzt Standard-Anforderung anstatt Anforderung mit erhöhtem Schutzbedarf
 
 Inhalt grundlegend verändert, auf eine Auflistung wird verzichtet.
 
