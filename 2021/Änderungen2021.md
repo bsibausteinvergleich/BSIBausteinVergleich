@@ -443,7 +443,7 @@ __Ehemals:__
 
 #### ORP.2.A11 ENTFALLEN
 
-##### Ehemnals:
+__Ehemals:__
 
 *ORP.2.A11 Analyse der Sicherheitskultur (H)*
 
@@ -763,11 +763,11 @@ __Ehemals:__
 
 #### ORP.5.A4
 
-__Hinzugefügt:__:
+__Hinzugefügt:__
 
 In der Institution SOLLTE ein Prozess aufgebaut werden, um alle relevanten gesetzlichen, vertraglichen und sonstigen Vorgaben mit Auswirkungen auf das Informationssicherheitsmanagement zu identifizieren.
 
-##### Geändert:
+__Geändert:__
 
 Dafür SOLLTEN Zuständige für das Compliance Management festgelegt werden.
 
@@ -942,7 +942,9 @@ Der Standort von Vernichtungseinrichtungen auf dem Gelände der Institution MUSS
 Dabei MUSS auch berücksichtigt werden, dass Informationen und Betriebsmittel eventuell erst gesammelt und erst später gelöscht oder vernichtet werden.
 
 
-#### CON.6.A11 Die Anforderung wurde von erhöhtem Schutzbedarf zur Basis-Anforderung.
+#### CON.6.A11
+
+Die Anforderung wurde von erhöhtem Schutzbedarf zur Basis-Anforderung.
 
 __Geändert:__
 
@@ -1073,7 +1075,9 @@ Keine inhaltlichen Änderungen.
 
 #### Standard-Anforderungen
 
-#### CON.7.A11 wurde von einer Basis-Anforderung zu einer Standard-Anforderung.
+#### CON.7.A11 
+
+Die Anforderung wurde von einer Basis-Anforderung zu einer Standard-Anforderung.
 
 Keine inhaltlichen Änderungen.
 
@@ -1167,7 +1171,9 @@ __Entfallen:__
 *Bevor sie verwendet werden, MUSS außerdem die Integrität der Bibliotheken geeignet sichergestellt werden.*
 
 
-#### CON.8.A7 wurde vollständig überarbeitet
+#### CON.8.A7 
+
+Anforderung wurde vollständig überarbeitet.
 
 __Geändert:__
 
@@ -1223,7 +1229,9 @@ Die Anforderung ist neu hinzugefügt worden.
 
 #### Standard-Anforderungen
 
-#### CON.8.A1 wurde von einer Basis Anforderung zu einer Standard Anforderung.
+#### CON.8.A1
+
+Anforderung wurde von einer Basis-Anforderung zu einer Standard-Anforderung.
 
 __Geändert:__
 
@@ -1264,7 +1272,9 @@ __Ehemals:__
 *Werkzeuge für die Software-Entwicklung SOLLTEN nach standardisierten und dokumentierten Vorgehensweisen beschafft werden.*
 
 
-#### CON.8.A14 Die Anforderung hat sich vollständig geändert.
+#### CON.8.A14
+
+Die Anforderung hat sich vollständig geändert.
 
 __Geändert:__
 
@@ -1605,7 +1615,9 @@ __Ehemals:__
 *Alle Änderungen von Hard- und Softwareständen, sowie von Konfigurationen, SOLLTEN über den Prozess des Änderungsmanagements gesteuert und kontrolliert werden.*
 
 
-#### OPS.1.1.3.A5 Die Anforderung wurde vollständig geändert.
+#### OPS.1.1.3.A5
+
+Die Anforderung wurde vollständig geändert.
 
 __Geändert:__
 
@@ -1823,7 +1835,7 @@ Es MUSS regelmäßig überprüft werden, ob die spezifische Sicherheitsrichtlini
 Die Ergebnisse der Überprüfung MÜSSEN dokumentiert werden.
 
 
-#### OPS.1.1.5.A2 Die Andorferung ist vollständig entfallen.
+#### OPS.1.1.5.A2 ENTFALLEN
 
 __Ehemals:__
 
@@ -1859,7 +1871,7 @@ __Hinzugefügt:__:
 Dafür SOLLTE eine zentrale Protokollierungsinfrastruktur im Sinne eines Logserver-Verbunds aufgebaut und in einem hierfür eingerichteten Netzsegment platziert werden (siehe NET.1.1 Netzarchitektur und -design).
 
 
-#### OPS.1.1.5.A7 Die Änforderung ist vollständig entfallen.
+#### OPS.1.1.5.A7 ENTFALLEN
 
 __Ehemals:__
 
@@ -2041,7 +2053,9 @@ Hierbei SOLLTE überprüft werden, ob bisherige bestehende Sicherheitsmechanisme
 Regressionstests SOLLTEN vollständig durchgeführt werden und hierbei auch Erweiterungen sowie Hilfsmittel umfassen.
 
 
-#### OPS.1.1.6.A13 Die Anforderung wurde vollständig geändert.
+#### OPS.1.1.6.A13
+
+Die Anforderung wurde vollständig geändert.
 
 __Geändert:__
 
@@ -2631,7 +2645,9 @@ __Ehemals:__
 
 *Die Vorgaben für die sichere Nutzung von Office-Produkten SOLLTEN in der Sicherheitsrichtlinie integriert werden.*
 
-#### APP.1.1.A17 Die Anforderung wurde neu hinzugefügt und hat zum Teil A4 ersetzt.
+#### APP.1.1.A17
+
+Die Anforderung wurde neu hinzugefügt und hat zum Teil A4 ersetzt.
 
 __Geändert:__
 
@@ -2828,7 +2844,9 @@ __Ehemals:__
 *Ist kein Update für eine bekannt gewordene kritische Schwachstelle verfügbar, MÜSSEN zeitnah Maßnahmen zur Risikominderung ergriffen werden.*
 
 
-#### APP.1.2.A6 Die Anforderung wurde von Standard zu Basis-Anforderung geändert.
+#### APP.1.2.A6
+
+Die Anforderung wurde von Standard- zu Basis-Anforderung geändert.
 
 __Geändert:__
 
@@ -2986,7 +3004,9 @@ Keine inhaltlichen Änderungen.
 
 #### Standard-Anforderungen
 
-#### APP.1.4.A3 Die Anforderung wurde von einer Basis-Anforderung in eine Standard-Anforderung gewandelt.
+#### APP.1.4.A3
+
+Die Anforderung wurde von einer Basis-Anforderung in eine Standard-Anforderung gewandelt.
 
 __Geändert:__
 
