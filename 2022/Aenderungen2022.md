@@ -204,6 +204,8 @@ Keine inhaltlichen Änderungen.
 <summary> Änderungen
 </summary>
 
+#### Standard-Anforderungen
+
 #### OPS.1.1.5.A6
 
 __Geändert:__
@@ -217,6 +219,8 @@ Alle gesammelten sicherheitsrelevanten Protokollierungsdaten SOLLTEN an einer ze
 <details> 
 <summary> Änderungen
 </summary>
+
+#### Basis-Anforderungen
 
 #### OPS.1.1.6.A11
 
@@ -232,6 +236,8 @@ Enthalten diese Daten personenbezogene Informationen, dann MÜSSEN diese Daten m
 __Hinzugefügt:__
 
 Falls möglich, SOLLTEN die Testdaten mit Personenbezug vollständig anonymisiert werden.
+
+#### Standard-Anforderungen
 
 #### OPS.1.1.6.A6
 
@@ -268,12 +274,15 @@ Keine inhaltlichen Änderungen.
 <summary> Änderungen
 </summary>
 
+#### Basis-Anforderungen
+
 #### OPS.1.2.5.A2
 
 __Geändert:__
 
 Wird per Fernwartung auf Desktop-Umgebungen von Clients zugegriffen, MUSS der Benutzer des IT-Systems diesem Zugriff explizit zustimmen.
 
+#### Standard-Anforderungen
 
 #### OPS.1.2.5.A24
 
@@ -292,6 +301,7 @@ Direkte Fernwartungszugriffe eines Administrators von einem Fernwartungs-Client 
 
 Der Zugriff auf Sprungserver SOLLTE nur von vertrauenswürdigen IT-Systemen aus möglich sein.
 
+#### Anforderungen bei erhöhtem Schutzbedarf
 
 #### OPS.1.2.5.A14
 
