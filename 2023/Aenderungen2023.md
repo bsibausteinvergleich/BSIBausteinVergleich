@@ -159,7 +159,7 @@ Ehemals *Erhebung der Einflussfaktoren für kryptografische Verfahren und Produk
 
 Anforderung ist jetzt Standard-Anforderung anstatt Anforderung mit erhöhtem Schutzbedarf
 
-##### Umbenannt in:
+__Umbenannt in:__
 
 Festlegung von Kriterien für die Auswahl von Hard- oder Software mit kryptografischen Funktionen
 
@@ -1573,7 +1573,7 @@ __Neu:__
 *Die Institution SOLLTE die Verwendung von privaten Wechseldatenträgern untersagen.*
 
 
-#### SYS.4.5.A17 Neue Standard-Anforderung
+#### NEU: SYS.4.5.A17
 
 *Falls Wechseldatenträger verwendet werden, um Daten für lange Zeiträume zu speichern, SOLLTE die Institution sicherstellen, dass die verwendeten Wechseldatenträger geeignet sind, um die Integrität und Verfügbarkeit der Daten während des gesamten Nutzungszeitraums sicherzustellen.*
 
