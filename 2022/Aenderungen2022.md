@@ -257,7 +257,7 @@ Der Quellcode SOLLTE NICHT ausschließlich von Testern überprüft werden, die a
 
 </details>
 
-### OPS.1.1.7 Der Baustein wurde neu hinzugefügt.
+### NEU: OPS.1.1.7
 
 
 ### OPS.1.2.2
@@ -313,7 +313,7 @@ Die Netzkommunikation der Administrationssysteme SOLLTE so eingeschränkt werden
 
 </details>
 
-### OPS.1.2.6
+### NEU: OPS.1.2.6
 
 Der Baustein wurde neu hinzugefügt.
 
@@ -539,7 +539,7 @@ Bei den Sicherheitsprüfungen SOLLTEN die systemischen und herstellerspezifische
 
 </details>
 
-### APP.4.4
+### NEU: APP.4.4
 
 Der Baustein wurde neu hinzugefügt.
 
@@ -615,7 +615,7 @@ __Geändert:__
 
 #### Standard-Anforderungen
 
-#### SYS.1.1.A37 
+#### NEU: SYS.1.1.A37 
 
 Anforderung neu hinzugefügt.
 
@@ -673,7 +673,7 @@ __Entfallen:__
 
 </details>
 
-### SYS.1.6
+### NEU: SYS.1.6
 
 Baustein komplett neu hinzugefügt.
 
@@ -743,7 +743,7 @@ Keine inhaltlichen Veränderungen.
 
 #### Standard-Anforderungen
 
-#### SYS.2.1.A34
+#### NEU: SYS.2.1.A34
 
 Anforderung wurde komplett neu hinzugefügt.
 
@@ -879,7 +879,7 @@ Keine inhaltlichen Änderungen
 
 ## IND
 
-### IND.3.2
+### NEU: IND.3.2
 
 Baustein ist komplett neu hinzugefügt.
 
@@ -961,12 +961,12 @@ Keine inhaltlichen Änderungen.
 
 
 
-### INF.13
+### NEU: INF.13
 
 Baustein ist komplett neu hinzugefügt.
 
 
-### INF.14
+### NEU: INF.14
 
 Baustein ist komplett neu hinzugefügt.
 
