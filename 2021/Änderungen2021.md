@@ -3351,7 +3351,9 @@ __Ehemals:__
 
 #### Basis-Anforderungen
 
-#### APP.3.1.A1 Die Anforderung wurde vollständig geändert.
+#### APP.3.1.A1
+
+Die Anforderung wurde vollständig geändert.
 
 __Geändert:__
 
@@ -3416,7 +3418,9 @@ __Ehemals:__
 *Nachdem die Sitzung ungültig ist, MÜSSEN alle Sitzungsdaten sowohl server- als auch clientseitig ungültig und gelöscht sein.*
 
 
-#### APP.3.1.A4 Die Anforderung wurde vollständig geändert.
+#### APP.3.1.A4
+
+Die Anforderung wurde vollständig geändert.
 
 __Geändert:__
 
@@ -3455,7 +3459,9 @@ __Entfallen:__
 *Wenn die Webanwendung RSS-Feeds oder andere Funktionen enthält, die explizit für die automatisierte Nutzung vorgesehen sind, MUSS dies ebenfalls bei der Konfiguration der Schutzmechanismen berücksichtigt werden.*
 
 
-#### APP.3.1.A14 Die Anforderung wurde vollständig geändert
+#### APP.3.1.A14
+
+Die Anforderung wurde vollständig geändert
 
 __Geändert:__
 
@@ -3497,7 +3503,9 @@ __Ehemals:__
 
 #### Standard-Anforderungen
 
-#### APP.3.1.A8 Die Anforderung wurde vollständig geändert:
+#### APP.3.1.A8
+
+Die Anforderung wurde vollständig geändert:
 
 __Geändert:__
 
@@ -3508,7 +3516,9 @@ Sicherheitsaspekte SOLLTEN bereits während der Planung betrachtet werden.
 Auch SOLLTE darauf geachtet werden, dass die Architektur der Webanwendung die Geschäftslogik der Institution exakt erfasst und korrekt umsetzt.
 
 
-#### APP.3.1.A9 Die Anforderung wurde vollständig geändert:
+#### APP.3.1.A9
+
+Die Anforderung wurde vollständig geändert:
 
 __Geändert:__
 
@@ -3537,7 +3547,9 @@ Zusätzlich zu den allgemeinen Aspekten der Beschaffung von Software SOLLTE die 
 • Zugriff auf den Quelltext der Webanwendung.
 
 
-#### APP.3.1.A11 Die Anforderung wurde vollständig geändert:
+#### APP.3.1.A11
+
+Die Anforderung wurde vollständig geändert:
 
 __Geändert:__
 
@@ -4578,7 +4590,9 @@ __Ehemals:__
 *Über die notwendigen Benutzerkennungen hinaus SOLLTEN keine weiteren Benutzer auf dem Server angelegt werden.*
 
 
-#### SYS.1.1.A5 Die Anforderung wurde vollständig geändert.
+#### SYS.1.1.A5
+
+Die Anforderung wurde vollständig geändert.
 
 __Geändert:__
 
@@ -4672,7 +4686,7 @@ Keine inhaltlichen Änderungen.
 Keine inhaltlichen Änderungen.
 
 
-#### SYS.1.1.A14 Die Anforderung ist vollständig entfallen
+#### SYS.1.1.A14 ENTFALLEN
 
 __Ehemals:__
 
@@ -6257,7 +6271,9 @@ __Ehemals:__
 *Die Datensicherung MUSS weitgehend automatisiert werden, sodass die Benutzer möglichst wenig Aktionen selbst durchführen müssen.*
 
 
-#### SYS.3.1.A9 Die Anforderung wurde von einer Standard zu einr Basis Anforderung
+#### SYS.3.1.A9
+
+Die Anforderung wurde von einer Standard- zu einer Basis-Anforderung
 
 __Geändert:__
 
@@ -6402,14 +6418,18 @@ Wo dies technisch nicht möglich ist, MÜSSEN die Berechtigungseinstellungen reg
 Dies gilt insbesondere auch nach der Installation von Updates.
 
 
-#### SYS.3.2.1.A7 DIe Anforderung wurde vollständig geändert.
+#### SYS.3.2.1.A7
+
+Die Anforderung wurde vollständig geändert.
 
 __Geändert:__
 
 Gehen Geräte verloren oder werden unberechtigte Änderungen an Gerät und Software festgestellt, MÜSSEN die Benutzer sofort die Zuständigen informieren.
 
 
-#### SYS.3.2.1.A8 Die Anforderung wurde vollständig geändert.
+#### SYS.3.2.1.A8
+
+Die Anforderung wurde vollständig geändert.
 
 __Geändert:__
 
@@ -6588,7 +6608,9 @@ __Geändert:__
 Alle mobilen Endgeräte MÜSSEN, bevor sie eingesetzt werden, in das MDM integriert werden.
 
 
-#### SYS.3.2.2.A5 Die Anforderung wurde vollständig geändert.
+#### SYS.3.2.2.A5
+
+Die Anforderung wurde vollständig geändert.
 
 __Geändert:__
 
@@ -7744,7 +7766,9 @@ Keine inhaltlichen Änderungen.
 
 #### Standard-Anforderungen
 
-#### IND.2.1.A7 Die Anforderung wurde von einer Basis- zu einer Standard-Anforderung
+#### IND.2.1.A7
+
+Die Anforderung wurde von einer Basis- zu einer Standard-Anforderung
 
 __Geändert:__
 
@@ -7991,7 +8015,7 @@ Keine inhaltlichen Änderungen.
 
 #### NET.1.1.A2
 
-##### Hinzugefüt:
+__Hinzugefügt:__
 
 Die Dokumentation MUSS nachhaltig gepflegt werden.
 
@@ -9204,7 +9228,9 @@ __Ehemals:__
 *Es SOLLTE mindestens einmal innerhalb von drei Jahren überprüft werden, ob alle relevanten Pläne noch aktuell und korrekt sind.*
 
 
-#### INF.2.A30 Die Anforderung wurde vollständig geändert.
+#### INF.2.A30
+
+Die Anforderung wurde vollständig geändert.
 
 __Geändert:__
 
