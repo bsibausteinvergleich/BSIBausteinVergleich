@@ -318,6 +318,8 @@ Keine inhaltlichen Änderungen.
 <summary> Änderungen
 </summary>
 
+#### Anforderungen bei erhöhtem Schutzbedarf
+
 #### ORP.1.A17
 
 Die Anforderung wurde neu hinzugefügt.
@@ -359,6 +361,8 @@ Der Baustein wurde neu hinzugefügt.
 <details>
 <summary> Änderungen
 </summary>
+
+#### Basis-Anforderungen
 
 #### OPS.1.1.2.A2
 
@@ -406,6 +410,7 @@ Die Standard-Anforderung wurd neu hinzugefügt.
 
 Die Standard-Anforderung wurd neu hinzugefügt.
 
+#### Standard-Anforderungen
 
 #### OPS.1.1.2.A7
 
@@ -510,6 +515,7 @@ Standard-Anforderung wurde neu hinzugefügt.
 
 Standard-Anforderung wurde neu hinzugefügt.
 
+#### Anforderungen bei erhöhtem Schutzbedarf
 
 #### OPS.1.1.2.A14 entfallen
 
@@ -559,6 +565,8 @@ Anforderung mit erhöhtem Schutzbedarf wurde neu hinzugefügt.
 <details>
 <summary> Änderungen
 </summary>
+
+#### Basis-Anforderungen
 
 #### OPS.1.1.3.A15
 
@@ -621,6 +629,8 @@ Keine inhaltlichen Änderungen.
 <summary> Änderungen
 </summary>
 
+#### Standard-Anforderungen
+
 #### OPS.1.2.5.A19
 
 __Geändert:__
@@ -629,6 +639,7 @@ __Geändert:__
 
 *Sollten Dienstleistende mehrere Kunden und Kundinnen fernwarten, MUSS gewährleistet sein, dass die Netze der Kunden und Kundinnen nicht miteinander verbunden werden.*
 
+#### Anforderungen bei erhöhtem Schutzbedarf
 
 ##### OPS.1.2.5.A14
 
