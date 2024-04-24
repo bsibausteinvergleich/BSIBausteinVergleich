@@ -151,7 +151,7 @@ Vor der ersten Inbetriebnahme der Geräte SOLLTEN geeignete Prüf- und Genehmigu
 #### ORP.1.A8
 __Keine inhaltlichen Änderungen.__
 
-#### ORP.1.A9
+#### ORP.1.A9 ENTFALLEN
 __Anforderung entfallen.__
 
 #### ORP.1.A10
@@ -262,7 +262,7 @@ __Keine inhaltlichen Änderungen.__
 #### ORP.3.A2
 __Keine inhaltlichen Änderungen.__
 
-#### ORP.3.A3
+#### ORP.3.A3 ENTFALLEN
 __Anforderung entfallen__
 
 #### Standard-Anforderungen
@@ -537,7 +537,7 @@ Es SOLLTE eine Übersicht über alle erteilten Ausnahmegenehmigungen erstellt un
 #### ORP.5.A6
 __Keine inhaltlichen Änderungen.__
 
-#### ORP.5.A7
+#### ORP.5.A7 ENTFALLEN
 __Anforderung entfallen__
 
 #### ORP.5.A8
@@ -545,13 +545,13 @@ _Keine inhaltlichen Änderungen_
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
-#### ORP.5.A9
+#### ORP.5.A9 ENTFALLEN
 __Anforderung entfallen__
 
-#### ORP.5.A10
+#### ORP.5.A10 ENTFALLEN
 __Anforderung entfallen__
 
-#### ORP.5.A11
+#### ORP.5.A11 ENTFALLEN
 __Anforderung entfallen__
 
 </details>
@@ -713,7 +713,7 @@ __Änderung:__\
 __zu:__\
 Dies MUSS wiederum auf Basis der erhobenen Einflussfaktoren und in Abstimmung mit den jeweiligen Fachverantwortlichen der Anwendungen geschehen.
 
-#### CON.3.A3
+#### CON.3.A3 ENTFALLEN
 __Diese Anforderung ist entfallen.__
 
 #### CON.3.A4
@@ -787,7 +787,7 @@ Bevor ein Datensicherungssystem beschafft wird, SOLLTE der Leiter IT eine Anford
 
 Die angeschafften Datensicherungssysteme SOLLTEN die Anforderungen des Datensicherungskonzepts und der gesamten Sicherheitskonzeption der Institution erfüllen.
 
-#### CON.3.A8
+#### CON.3.A8 ENTFALLEN
 __Anforderung entfallen__
 
 #### CON.3.A9
@@ -907,7 +907,7 @@ Hierzu MÜSSEN die mit der Individualsoftware verarbeiteten Informationen und de
 
 Vom IT-Betrieb MÜSSEN die Sicherheitsfunktionen zur Integration in die IT-betriebliche Infrastruktur definiert werden.
 
-#### CON.5.A2
+#### CON.5.A2 ENTFALLEN
 __Anforderung entfallen__
 
 #### CON.5.A3
@@ -928,7 +928,7 @@ CON.5.A4 Heranführen von Benutzerinnen und Benutzern an Individualsoftware (B)
 
 Alle Benutzer der Individualsoftware, darunter auch die zuständigen Administratoren, MÜSSEN an die korrekte Nutzung und Administration der Anwendung einschließlich der Sicherheitsfunktionen herangeführt werden.
 
-#### CON.5.A5
+#### CON.5.A5 ENTFALLEN
 __Anforderung entfallen__
 
 #### Standard-Anforderungen
@@ -936,7 +936,7 @@ __Anforderung entfallen__
 #### CON.5.A6
 __Keine inhaltlichen Änderungen.__
 
-#### CON.5.A7
+#### CON.5.A7 ENTFALLEN
 __Anforderung entfallen__
 
 #### CON.5.A8
@@ -949,7 +949,7 @@ Nicht mehr benötigte Daten SOLLTEN sicher gelöscht werden.
 
 Die Außerbetriebnahme von Individualsoftware sowie der zugehörigen IT-Systeme und Datenträger SOLLTE vom IT-Betrieb nachvollziehbar dokumentiert werden.
 
-#### CON.5.A10
+#### CON.5.A10 ENTFALLEN
 __Anforderung entfallen__
 
 #### CON.5.A11
@@ -1163,8 +1163,8 @@ __Keine inhaltlichen Änderungen.__
 #### OPS.1.1.2.A12
 __Keine inhaltlichen Änderungen.__
 
-#### OPS.1.1.2.A13
-_Anforderung entfallen._#
+#### OPS.1.1.2.A13 ENTFALLEN
+__Anforderung entfallen.__
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
@@ -1500,7 +1500,7 @@ __Anforderung hinzugefügt__
 
 </details>
 
-### OPS.1.2.3
+### OPS.1.2.3 ENTFALLEN
 __OPS.1.2.3 ist vollständig entfallen.__
 
 </details>
@@ -1690,7 +1690,7 @@ __Keine inhaltlichen Änderungen.__
 </details>
 
 
-### OPS.2.4
+### OPS.2.4 ENTFALLEN
 __Diese Anforderungen sind entfallen.__
 
 
@@ -2246,7 +2246,7 @@ __Ergänzung:__ (...) und Fachaufgaben (...)
 #### DER.4.A10
 __Keine inhaltlichen Änderungen.__
 
-#### ENTFALLEN: DER.4.A11
+#### DER.4.A11 ENTFALLEN
 __Diese Anforderung ist entfallen.__
 
 #### DER.4.A12
@@ -2672,7 +2672,7 @@ Die sicherheitsrelevanten Protokollierungsdaten MÜSSEN regelmäßig durch den I
 __Entfallen:__\
 Bei der Protokollierung und beim Umgang mit den Protokollierungsdaten MÜSSEN die gesetzlichen Vorgaben eingehalten werden.
 
-#### ENTFALLEN: APP.3.1.A6
+#### APP.3.1.A6 ENTFALLEN
 __Diese Anforderung ist entfallen.__
 
 #### APP.3.1.A7
@@ -4633,10 +4633,10 @@ __Diese Anforderung ist entfallen.__
 __Änderung:__\
 Es MUSS durch geeignete Maßnahmen, etwa auf Netzebene, sichergestellt werden, dass Daten der Telemetriedienste nicht an Microsoft übertragen werden.
 
-#### SYS.2.2.3.A5
+#### SYS.2.2.3.A5 ENTFALLEN
 __Diese Anforderung ist entfallen.__
 
-#### SYS.2.2.3.A6
+#### SYS.2.2.3.A6 ENTFALLEN
 __Diese Anforderung ist entfallen.__
 
 #### Standard-Anforderungen
