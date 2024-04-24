@@ -1257,6 +1257,8 @@ Keine inhaltlichen Änderungen.
 <summary> Änderungen
 </summary>
 
+#### Basis-Anforderungen
+
 #### IND.3.2.A1
 
 ##### Neu:
@@ -1282,6 +1284,8 @@ Keine inhaltlichen Änderungen.
 <details>
 <summary> Änderungen
 </summary>
+
+#### Basis-Anforderungen
 
 #### SYS.1.1.A1
 
@@ -1313,6 +1317,8 @@ __Geändert:__
 *Die Empfehlungen des Betriebssystemherstellers SOLLTEN hierbei als Orientierung berücksichtigt werden.*
 
 
+#### Standard-Anforderungen
+
 #### SYS.1.1.A16
 
 Grundlegend geändert, Inhalt nahezu vollständig neu.
@@ -1322,13 +1328,12 @@ Grundlegend geändert, Inhalt nahezu vollständig neu.
 
 Anforderung neu als Standard-Anforderung hinzugekommen.
 
-<
+</details>
 
 ### SYS.1.2.3
 
 Der Baustein wurde neu hinzugefügt.
 
-</details>
 
 ### SYS.1.3
 
@@ -1345,6 +1350,8 @@ Keine inhaltlichen Änderungen.
 <details>
 <summary> Änderungen
 </summary>
+
+#### Basis-Anforderungen
 
 #### SYS.1.6.A6
 
@@ -1375,6 +1382,8 @@ Der Baustein wurde neu hinzugefügt.
 <summary> Änderungen
 </summary>
 
+#### Standard-Anforderungen
+
 #### SYS.2.1.A11
 
 ##### Neu (aus entfallener Anforderung SYS.2.1.A14 übernommen):
@@ -1402,6 +1411,8 @@ Ehemals *Updates und Patches für Firmware, Betriebssystem und Anwendungen*.
 
 Jetzt für alle Windows Client Betriebssysteme gültig, nicht mehr nur Windows 10.
 
+#### Basis-Anforderungen
+
 #### SYS.2.2.3.A4
 
 __Geändert:__
@@ -1410,6 +1421,7 @@ __Geändert:__
 
 *Wenn diese Einstellung nicht wirksam umgesetzt wird oder bei anderen Windows-Edition umgesetzt werden kann, dann MUSS durch geeignete Maßnahmen, etwa auf Netzebene, sichergestellt werden, dass die Daten nicht an den Hersteller übertragen werden.*
 
+#### Standard-Anforderungen
 
 #### SYS.2.2.3.A19
 
@@ -1417,6 +1429,7 @@ __Geändert:__
 
 *Die eingesetzten kryptografischen Protokolle und Algorithmen SOLLTEN sicher sein und den internen Vorgaben der Institution entsprechen.*
 
+#### Anforderungen bei erhöhtem Schutzbedarf
 
 #### SYS.2.2.3.A26
 
@@ -1485,6 +1498,8 @@ Keine inhaltlichen Änderungen.
 <summary> Änderungen
 </summary>
 
+#### Basis-Anforderungen
+
 #### SYS.4.3.A1
 
 ##### Entfallen:
@@ -1495,6 +1510,8 @@ Keine inhaltlichen Änderungen.
 
 *Alle eingebetteten Systeme inklusive Schnittstellen MÜSSEN erfasst werden.*
 
+
+#### Standard-Anforderungen
 
 #### SYS.4.3.A11
 
@@ -1515,6 +1532,8 @@ Keine inhaltlichen Änderungen.
 <summary> Änderungen
 </summary>
 
+#### Basis-Anforderungen
+
 #### SYS.4.5.A2
 
 ##### Neu:
@@ -1523,6 +1542,8 @@ Keine inhaltlichen Änderungen.
 
 *Wiedergefundene Wechseldatenträger DÜRFEN NICHT ohne vorherige Überprüfung auf Manipulation und Schadsoftware verwendet werden.*
 
+
+#### Standard-Anforderungen
 
 #### SYS.4.5.A4
 
