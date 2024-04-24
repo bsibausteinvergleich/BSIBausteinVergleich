@@ -280,7 +280,7 @@ __Entfallen:__
 
 *Während des Umzugs SOLLTE ein Mindestmaß an Zutritts- und Zugangskontrolle vorhanden sein.*
 
-#### ORP.1.A16 Die Anforderung ist neu hinzugefügt worden.
+#### NEU: ORP.1.A16
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
@@ -515,7 +515,7 @@ Es SOLLTE ein zielgruppenorientiertes Sensibilisierungs- und Schulungsprogramm z
 Dieses Schulungsprogramm SOLLTE den Mitarbeitern alle Informationen und Fähigkeiten vermitteln, die erforderlich sind, um in der Institution geltende Sicherheitsregelungen und -maßnahmen umsetzen zu können.
 
 
-#### ORP.3.A5 Die Anforderung ist komeplett entfallen.
+#### ORP.3.A5 ENTFALLEN
 
 __Ehemals:__
 
