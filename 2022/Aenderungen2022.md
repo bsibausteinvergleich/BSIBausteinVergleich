@@ -908,11 +908,14 @@ Keine inhaltlichen Änderungen.
 <summary> Änderungen
 </summary>
 
+#### Anforderungen bei erhöhtem Schutzbedarf
+
 #### INF.2.A23
 
 __Geändert:__
 
 Trassen SOLLTEN hinsichtlich Anordnung und Dimensionierung so ausgelegt sein, dass eine Trennung der Spannungsebenen sowie eine sinnvolle Verteilung von Kabeln auf den Trassen möglich sind und dass auch für zukünftige Bedarfsmehrung ausreichend Platz zur Verfügung steht.
+
 </details>
 
 ### INF.5
