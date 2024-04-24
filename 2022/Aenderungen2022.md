@@ -976,6 +976,6 @@ Baustein ist komplett neu hinzugefügt.
 
 Quellen:
 
-[BSI IT Grundschutz Kompendium Edition 2021][(https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Grundschutz/Kompendium/IT_Grundschutz_Kompendium_Edition2021.pdf)]
+[BSI IT Grundschutz Kompendium Edition 2021](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Grundschutz/Kompendium/IT_Grundschutz_Kompendium_Edition2021.pdf)
 
 [BSI IT Grundschutz Kompendium Edition 2022](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Grundschutz/Kompendium/IT_Grundschutz_Kompendium_Edition2022.pdf)
