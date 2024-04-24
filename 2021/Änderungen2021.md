@@ -9007,7 +9007,7 @@ Keine inhaltlichen Änderungen.
 
 #### INF.1.A20
 
-##### Entfalle:
+__Entfallen__
 
 *Er SOLLTE periodisch aktualisiert werden.*
 
