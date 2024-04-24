@@ -1084,11 +1084,11 @@ __Keine inhaltlichen Änderungen.__
 </details>
 
 
-### NEU CON.8
+### NEU: CON.8
 __Die Anforderungen CON.8.A1 bis CON.8.A19 wurden hinzugefügt.__
 
 
-### NEU CON.9
+### NEU: CON.9
 __Die Anforderungen CON.9.A1 bis CON.9.A8 wurden hinzugefügt.__
 
 ___
@@ -1481,21 +1481,21 @@ __Keine inhaltlichen Änderungen.__
 __Ergänzung:__\
 Wenn Archivdaten in neue Formate konvertiert werden, SOLLTE geprüft werden, ob die Daten aufgrund rechtlicher Anforderungen zusätzlich in ihren ursprünglichen Formaten zu archivieren sind.
 
-#### NEU OPS.1.2.2.A17
+#### NEU: OPS.1.2.2.A17
 __Anforderung hinzugefügt__
 
-#### NEU OPS.1.2.2.A18
+#### NEU: OPS.1.2.2.A18
 __Anforderung hinzugefügt__
 
-#### NEU OPS.1.2.2.A19
+#### NEU: OPS.1.2.2.A19
 __Anforderung hinzugefügt__
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
-#### NEU OPS.1.2.2.A20
+#### NEU: OPS.1.2.2.A20
 __Anforderung hinzugefügt__
 
-#### NEU OPS.1.2.2.A21
+#### NEU: OPS.1.2.2.A21
 __Anforderung hinzugefügt__
 
 </details>
@@ -1598,7 +1598,7 @@ __Keine inhaltlichen Änderungen.__
 #### OPS.2.1.A12
 __Keine inhaltlichen Änderungen.__
 
-#### NEU OPS.2.1.A13
+#### NEU: OPS.2.1.A13
 __Anforderung hinzugefügt__
 
 #### OPS.2.1.A14
@@ -3923,7 +3923,7 @@ __Keine inhaltlichen Änderungen.__
 #### SYS.1.1.A33
 __Keine inhaltlichen Änderungen.__
 
-#### NEU SYS.1.1.A34
+#### NEU: SYS.1.1.A34
 __Ergänzung:__\
 SYS.1.1.A34 Festplattenverschlüsselung (H)
 
