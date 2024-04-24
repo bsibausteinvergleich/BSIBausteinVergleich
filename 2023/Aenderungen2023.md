@@ -668,7 +668,7 @@ __Neu:__
 Keine inhaltlichen Änderungen.
 
 
-### OPS.2.1
+### OPS.2.1 ENTFALLEN
 
 Der Baustein "*Outsourcing für Kunden*" ist entfallen. An dessen Stelle wurde der Baustein "*OPS.2.3 Nutzung von Outsourcing*" eingeführt.
 
@@ -958,7 +958,7 @@ __Neu:__
 *Dabei MUSS berücksichtigt werden, dass zwischen den einzelnen Domänen einer Gesamtstruktur produktbedingt keine Sicherheitsgrenzen bestehen und daher keine sichere Begrenzung der administrativen Bereiche innerhalb einer Gesamtstruktur möglich ist.*
 
 
-#### APP.2.2.A2
+#### APP.2.2.A2 ENTFALLEN
 
 Die Anforderung ist ohne Angabe entfallen, wird im 2023er-Kompendium nicht mehr erwähnt, auch nicht der Wegfall.
 
@@ -1011,10 +1011,10 @@ __Geändert:__
 Die Anforderung wurde inhaltlich vollständig überarbeitet.
 
 
-#### APP.2.2.A10 entfallen
+#### APP.2.2.A10 ENTFALLEN
 
 
-#### APP.2.2.A11 entfallen
+#### APP.2.2.A11 ENTFALLEN
 
 
 #### APP.2.2.A12
@@ -1023,7 +1023,7 @@ Die Anforderung wurde inhaltlic vollständig überarbeitet.
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
-#### APP.2.2.A14 entfallen
+#### APP.2.2.A14 ENTFALLEN
 
 
 #### APP.2.2.A15
@@ -1400,12 +1400,12 @@ Der Baustein wurde neu hinzugefügt.
 
 #### SYS.2.1.A11
 
-##### Neu (aus entfallener Anforderung SYS.2.1.A14 übernommen):
+__Neu (aus entfallener Anforderung SYS.2.1.A14 übernommen):__
 
 *Auf Betriebssysteme, die über ein Rolling-Release-Modell aktualisiert werden, SOLLTE verzichtet werden.*
 
 
-#### SYS.2.1.A14 ist entfallen.
+#### SYS.2.1.A14 ENTFALLEN
 
 Ehemals *Updates und Patches für Firmware, Betriebssystem und Anwendungen*.
 
@@ -1710,7 +1710,9 @@ Keine inhaltlichen Änderungen.
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
-#### INF.10.A10 ist entfallen (verschoben zu ORP.1.A17)
+#### INF.10.A10 ENTFALLEN
+
+__Anforderung wurde verschoben zu ORP.1.A17.__
 
 Ehemals *Mitführverbot von Mobiltelefonen*:
 
