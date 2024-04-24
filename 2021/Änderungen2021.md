@@ -8882,6 +8882,8 @@ Keine inhaltlichen Änderungen
 <summary> Änderungen
 </summary>
 
+#### Basis-Anforderungen
+
 #### INF.1.A1
 
 Keine inhaltlichen Änderungen.
@@ -8936,6 +8938,7 @@ Keine inhaltlichen Änderungen.
 
 Die Anforderung wurde von einer Standard- zu einer Basis-Anfordrung gewandelt.
 
+#### Standard-Anforderungen
 
 #### INF.1.A9
 
@@ -8974,6 +8977,7 @@ Die Anforderung ist von einer Standard- zu einer Basis-Anforderung geändert wur
 
 Die Anforderung ist neu hinzugefügt.
 
+#### Anforderungen bei erhöhtem Schutzbedarf
 
 #### INF.1.A21 Die Anforderung ist komplett entfallen.
 
@@ -9106,6 +9110,8 @@ Hierbei SOLLTEN mindestens folgende Komponenten auf ihren Nutzen und ihre Umsetz
 <summary> Änderungen
 </summary>
 
+#### Basis-Anforderungen
+
 #### INF.2.A1-A5
 
 Keine inhaltlichen Änderungen.
@@ -9124,10 +9130,23 @@ Alle Zutrittsmöglichkeiten zum Rechenzentrum MÜSSEN mit Zutrittskontrolleinric
 Jeder Zutritt zum Rechenzentrum MUSS von der Zutrittskontrolle individuell erfasst werden.
 
 
-#### INF.2.A7-A14
+#### INF.2.A7-A11
 
 Keine inhaltlichen Änderungen.
 
+#### INF.2.A17
+
+Keine inhaltlichen Änderungen.
+
+#### INF.2.A29
+
+Keine inhaltlichen Änderungen.
+
+#### Standard-Anforderungen
+
+#### INF.2.A12-14
+
+Keine inhaltlichen Änderungen.
 
 #### INF.2.A15
 
@@ -9171,6 +9190,7 @@ __Geändert:__
 
 Ein Rechenzentrum SOLLTE mit einer automatischen Lösch- oder Brandvermeidungsanlage ausgestattet werden.
 
+#### Anforderungen bei erhöhtem Schutzbedarf
 
 #### INF.2.A21
 
@@ -9254,6 +9274,8 @@ Der Baustein ist komplett entfallen.
 <summary> Änderungen
 </summary>
 
+#### Basis-Anforderungen
+
 #### INF.5.A1-A6
 
 Keine inhaltlichen Änderungen.
@@ -9270,11 +9292,17 @@ Der Raum für technische Infrastruktur DARF NICHT zweckentfremdet werden, z. B. 
 
 Die Anforderung wurde von einer Standard-Anforderung zu einer Basis-Anforderung.
 
+#### Standard-Anforderungen
 
-#### INF.5.A8-A19
+#### INF.5.A8-A17
 
 Keine inhaltlichen Änderungen.
 
+#### Anforderungen bei erhöhtem Schutzbedarf
+
+#### INF.5.A18-A19
+
+Keine inhaltlichen Änderungen.
 
 #### INF.5.A20
 
@@ -9307,6 +9335,8 @@ Keine inhaltlichen Änderungen.
 <summary> Änderungen
 </summary>
 
+#### Basis-Anforderungen
+
 #### INF.6.A1-A3
 
 Keine inhaltlichen Ánderungen.
@@ -9324,8 +9354,15 @@ __Entfallen:__
 
 *Zudem MUSS regelmäßig überprüft werden, ob Fenster und Türen nach Verlassen der Räume ge- bzw. verschlossen sind.*
 
+#### Standard-Anforderungen
 
-#### INF.6.A5-A9
+#### INF.6.A5-A8
+
+Keine inhaltlichen Ánderungen.
+
+#### Anforderungen bei erhöhtem Schutzbedarf
+
+#### INF.6.A9
 
 Keine inhaltlichen Ánderungen.
 
@@ -9337,6 +9374,8 @@ Keine inhaltlichen Ánderungen.
 <details>
 <summary> Änderungen
 </summary>
+
+#### Basis-Anforderungen
 
 #### INF.7.A1
 
@@ -9351,6 +9390,7 @@ Wenn Mitarbeiter ihre Büroräume verlassen, SOLLTEN alle Fenster geschlossen we
 
 Befinden sich vertrauliche Informationen in dem Büroraum, MÜSSEN beim Verlassen die Türen abgeschlossen werden.
 
+#### Standard-Anforderungen
 
 #### INF.7.A3
 
@@ -9370,7 +9410,13 @@ __Ehemals:__
 *Zudem SOLLTE regelmäßig überprüft werden, ob die ergriffenen Maßnahmen wirksam sind.*
 
 
-#### INF.7.A5-A8
+#### INF.7.A5-A7
+
+Keine inhaltlichen Änderungen.
+
+#### Anforderungen bei erhöhtem Schutzbedarf
+
+#### INF.7.A8
 
 Keine inhaltlichen Änderungen.
 
@@ -9389,7 +9435,15 @@ Keine inhaltlichen Änderungen.
 <summary> Änderungen
 </summary>
 
-#### INF.9.A1-A11
+#### Basis-Anforderungen
+
+#### INF.9.A1-A4
+
+keine inhaltlichen Änderungen.
+
+#### Standard-Anforderungen
+
+#### INF.9.A5-A11
 
 keine inhaltlichen Änderungen.
 
@@ -9400,12 +9454,15 @@ Die Anforderung ist neu hinzugefügt.
 
 </details>
 
+#### Anforderungen bei erhöhtem Schutzbedarf
 
 ### INF.10
 
 <details>
 <summary> Änderungen
 </summary>
+
+#### Basis-Anforderungen
 
 #### INF.10.A1
 
@@ -9422,11 +9479,15 @@ __Ehemals:__
 
 *Mitarbeiter MÜSSEN dazu angehalten werden, fremde Personen nicht unbeaufsichtigt zu lassen.*
 
-
-#### INF.10.A3-A6
+#### INF.10.A3
 
 keine inhaltlichen Änderungen
 
+#### Standard-Anforderungen
+
+#### INF.10.A4-A6
+
+keine inhaltlichen Änderungen
 
 #### INF.10.A7
 
@@ -9434,8 +9495,13 @@ __Entfallen:__
 
 Auf andere Netze SOLLTE nur restriktiv zugegriffen werden können.
 
+#### INF.10.A8
 
-#### INF.10.A8-A10
+keine inhaltlichen Änderungen
+
+#### Anforderungen bei erhöhtem Schutzbedarf
+
+#### INF.10.A9-A10
 
 keine inhaltlichen Änderungen
 
