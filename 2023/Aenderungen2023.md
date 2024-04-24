@@ -174,7 +174,9 @@ Inhalt grundlegend verändert, auf eine Auflistung wird verzichtet.
 Inhalt grundlegend verändert, auf eine Auflistung wird verzichtet.
 
 
-#### CON.1.A19 vollständig neu hinzugefügt als Standard-Anforderung
+#### NEU: CON.1.A19 
+
+Anforderung wurde vollständig neu hinzugefügt als Standard-Anforderung.
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
@@ -255,7 +257,9 @@ __Geändert:__
 *Im Kryptokonzept SOLLTE dokumentiert werden, für welche Hardware mit kryptografischen Funktionen Ersatzhardware zur Verfügung steht und wie diese ausgetauscht werden kann.*
 
 
-#### CON.1.A20 vollständig neu hinzugefügt als Anforderung mit erhöhtem Schutzbedarf
+#### NEU: CON.1.A20 
+
+Anforderung wurde vollständig neu hinzugefügt als Anforderung mit erhöhtem Schutzbedarf.
 
 </details>
 
@@ -305,7 +309,9 @@ Keine inhaltlichen Änderungen.
 Keine inhaltlichen Änderungen.
 
 
-### CON.11.1 wurde neu hinzugefügt.
+### NEU: CON.11.1 
+
+Anforderung wurde neu hinzugefügt.
 
 ---
 
@@ -320,7 +326,7 @@ Keine inhaltlichen Änderungen.
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
-#### ORP.1.A17
+#### NEU: ORP.1.A17
 
 Die Anforderung wurde neu hinzugefügt.
 
@@ -351,7 +357,7 @@ Keine inhaltlichen Änderungen.
 
 ## OPS
 
-### OPS.1.1.1
+### NEU: OPS.1.1.1
 
 Der Baustein wurde neu hinzugefügt.
 
@@ -401,12 +407,12 @@ __Hinzugefügt:__
 Anforderung wurde vollständig verändert.
 
 
-#### OPS.1.1.2.A21
+#### NEU: OPS.1.1.2.A21
 
 Die Standard-Anforderung wurd neu hinzugefügt.
 
 
-#### OPS.1.1.2.A22
+#### NEU: OPS.1.1.2.A22
 
 Die Standard-Anforderung wurd neu hinzugefügt.
 
@@ -486,32 +492,32 @@ Ehemals *Verwaltung und Inbetriebnahme von Geräten*:
 *Die Übersicht SOLLTE stets aktuell gehalten werden und mit der Dokumentation von administrativen Tätigkeiten korrespondieren.*
 
 
-#### OPS.1.1.2.A23
+#### NEU: OPS.1.1.2.A23
 
 Standard-Anforderung wurde neu hinzugefügt.
 
 
-#### OPS.1.1.2.A24
+#### NEU: OPS.1.1.2.A24
 
 Standard-Anforderung wurde neu hinzugefügt.
 
 
-#### OPS.1.1.2.A25
+#### NEU: OPS.1.1.2.A25
 
 Standard-Anforderung wurde neu hinzugefügt.
 
 
-#### OPS.1.1.2.A26
+#### NEU: OPS.1.1.2.A26
 
 Standard-Anforderung wurde neu hinzugefügt.
 
 
-#### OPS.1.1.2.A27
+#### NEU: OPS.1.1.2.A27
 
 Standard-Anforderung wurde neu hinzugefügt.
 
 
-#### OPS.1.1.2.A28
+#### NEU: OPS.1.1.2.A28
 
 Standard-Anforderung wurde neu hinzugefügt.
 
@@ -548,12 +554,12 @@ Inhalt wurde grundlegend verändert.
 Inhalt wurde grundlegend verändert.
 
 
-#### OPS.1.1.2.A29
+#### NEU: OPS.1.1.2.A29
 
 Anforderung mit erhöhtem Schutzbedarf wurde neu hinzugefügt.
 
 
-#### OPS.1.1.2.A30
+#### NEU: OPS.1.1.2.A30
 
 Anforderung mit erhöhtem Schutzbedarf wurde neu hinzugefügt.
 
@@ -664,17 +670,17 @@ Der Baustein "*Outsourcing für Kunden*" ist entfallen. An dessen Stelle wurde d
 Keine inhaltlichen Änderungen.
 
 
-### OPS.2.3
+### NEU: OPS.2.3
 
 Der Baustein "*Nutzung von Outsourcing*" wurde neu hinzugefügt anstelle des Bausteins "*OPS.2.1 Outsourcing für Kunden*".
 
 
-### OPS.3.1
+### OPS.3.1 ENTFALLEN
 
 Der Baustein "Outsourcing für Dienstleister" ist entfallen. An dessen Stelle wurde der Baustein "OPS.3.2 Anbieten von Outsourcing" eingeführt.
 
 
-### OPS.3.2
+### NEU: OPS.3.2
 
 Der Baustein "*Anbieten von Outsourcing*" wurde neu hinzugefügt anstelle des Bausteins "*OPS.3.1 Outsourcing für Dienstleister*".
 
@@ -816,7 +822,7 @@ __Neu:__
 *Sofern der Verzeichnisdienst zur Verwaltung von Anmeldedaten verwendet wird, MÜSSEN dedizierte Clients bei der Fernwartung eingesetzt werden.*
 
 
-#### APP.2.1.17
+#### NEU: APP.2.1.17
 
 Die Basis-Anforderung wurde neu hinzugefügt.
 
@@ -895,23 +901,23 @@ __Geändert:__
 *Die Schema-Änderungen, die am Verzeichnisdienst vorgenommen wurden, SOLLTEN vor der Migration analysiert und dokumentiert werden.*
 
 
-#### APP.2.1.A18
+#### NEU: APP.2.1.A18
 
 Die Standard-Anforderung wurde neu hinzugefügt.
 
 
-#### APP.2.1.A19
+#### NEU: APP.2.1.A19
 
 Die Standard-Anforderung wurde neu hinzugefügt.
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
-#### APP.2.1.A20
+#### NEU: APP.2.1.A20
 
 Die Anforderung erhöhten Schutzbedarfs wurde neu hinzugefügt.
 
 
-#### APP.2.1.A21
+#### NEU: APP.2.1.A21
 
 Die Anforderung erhöhten Schutzbedarfs wurde neu hinzugefügt.
 
@@ -964,17 +970,17 @@ Die Anforderung wurde grundlegend überarbeitet und handelt nun von der "*Sicher
 Die Anforderung wurde inhaltlich vollständig überarbeitet.
 
 
-#### APP.2.2.A16
+#### NEU: APP.2.2.A16
 
 Die Basis-Anforderung wurde neu hinzugefügt.
 
 
-#### APP.2.2.A17
+#### NEU: APP.2.2.A17
 
 Die Basis-Anforderung wurde neu hinzugefügt.
 
 
-#### APP.2.2.A18
+#### NEU: APP.2.2.A18
 
 Die Basis-Anforderung wurde neu hinzugefügt.
 
@@ -1017,27 +1023,27 @@ Die Anforderung wurde inhaltlic vollständig überarbeitet.
 Die Anforderung wurde inhaltlic vollständig überarbeitet.
 
 
-#### APP.2.2.A19
+#### NEU: APP.2.2.A19
 
 Die Anforderung für erhöhten Schutzbedarf wurde neu hinzugefügt.
 
 
-#### APP.2.2.A20
+#### NEU: APP.2.2.A20
 
 Die Anforderung für erhöhten Schutzbedarf wurde neu hinzugefügt.
 
 
-#### APP.2.2.A21
+#### NEU: APP.2.2.A21
 
 Die Anforderung für erhöhten Schutzbedarf wurde neu hinzugefügt.
 
 
-#### APP.2.2.A22
+#### NEU: APP.2.2.A22
 
 Die Anforderung für erhöhten Schutzbedarf wurde neu hinzugefügt.
 
 
-#### APP.2.2.A23
+#### NEU: APP.2.2.A23
 
 Die Anforderung für erhöhten Schutzbedarf wurde neu hinzugefügt.
 
@@ -1202,7 +1208,7 @@ __Neu:__
 
 </details>
 
-### APP.5.4
+### NEU: APP.5.4
 
 Der Baustein wurde neu hinzugefügt.
 
@@ -1330,7 +1336,7 @@ Anforderung neu als Standard-Anforderung hinzugekommen.
 
 </details>
 
-### SYS.1.2.3
+### NEU: SYS.1.2.3
 
 Der Baustein wurde neu hinzugefügt.
 
@@ -1371,7 +1377,7 @@ Keine inhaltlichen Änderungen.
 Keine inhaltlichen Änderungen.
 
 
-### SYS.1.9
+### NEU: SYS.1.9
 
 Der Baustein wurde neu hinzugefügt.
 
@@ -1431,7 +1437,7 @@ __Geändert:__
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
-#### SYS.2.2.3.A26
+#### NEU: SYS.2.2.3.A26
 
 Die Anforderung wurde neu hinzugefügt.
 
@@ -1447,12 +1453,12 @@ Keine inhaltlichen Änderungen.
 Keine inhaltlichen Änderungen.
 
 
-### SYS.2.5
+### NEU: SYS.2.5
 
 Der Baustein wurde neu hinzugefügt.
 
 
-### SYS.2.6
+### NEU: SYS.2.6
 
 Der Baustein wurde neu hinzugefügt.
 
@@ -1608,7 +1614,7 @@ Keine inhaltlichen Änderungen.
 Keine inhaltlichen Änderungen.
 
 
-### NET.3.4 Network Access Control (NAC)
+### NEU: NET.3.4 Network Access Control (NAC)
 
 Der Baustein wurde neu hinzugefügt.
 
