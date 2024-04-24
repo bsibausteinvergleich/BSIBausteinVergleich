@@ -38,6 +38,8 @@ Keine inhaltlichen Änderungen.
 <summary> Änderungen
 </summary>
 
+#### Basis-Anforderungen
+
 #### CON.3.A1
 
 __Geändert:__
@@ -132,6 +134,22 @@ Die Speichermedien für die Datensicherung MÜSSEN räumlich getrennt von den ge
 Sie SOLLTEN in einem anderen Brandabschnitt aufbewahrt werden.
 
 Der Aufbewahrungsort SOLLTE so klimatisiert sein, dass die Datenträger entsprechend der zeitlichen Vorgaben des Datensicherungskonzepts aufbewahrt werden können.
+
+#### CON.3.A14-A15
+
+Keine inhaltlichen Änderungen.
+
+#### Standard-Anforderungen
+
+#### CON.3.A6-A9
+
+Keine inhaltlichen Änderungen.
+
+#### Anforderungen bei erhöhtem Schutzbedarf
+
+#### CON.3.A13
+
+Keine inhaltlichen Änderungen.
 
 </details>
 
