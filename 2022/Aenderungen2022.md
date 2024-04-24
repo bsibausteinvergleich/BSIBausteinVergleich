@@ -123,7 +123,9 @@ Alle Mitarbeiter MÜSSEN über die Regelungen zur Datensicherung informiert sein
 Auch MÜSSEN sie darüber informiert werden, welche Aufgaben sie bei der Erstellung von Datensicherungen haben.
 
 
-#### CON.3.A12 ist jetzt Basis-Anforderung anstatt Standard-Anforderung
+#### CON.3.A12 
+
+ist jetzt Basis-Anforderung anstatt Standard-Anforderung
 
 __Geändert:__
 
