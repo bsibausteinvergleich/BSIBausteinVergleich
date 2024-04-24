@@ -364,10 +364,10 @@ Keine inhaltlichen Änderungen.
 Keine inhaltlichen Änderungen.
 
 
-#### ORP.2.A14 Die Anforderung ist neu hinzugefügt worden
+#### NEU: ORP.2.A14 
 
 
-#### ORP.2.A15 Die Anforderung ist neu hinzugefügt worden
+#### NEU: ORP.2.A15 
 
 #### Standard-Anforderungen
 
@@ -716,7 +716,7 @@ Keine inhaltlichen Änderungen.
 keine inhaltlichen Änderungen
 
 
-#### ORP.4.A24 Anforderung neu hinzugefügt.
+#### NEU: ORP.4.A24
 
 </details>
 
@@ -1217,7 +1217,7 @@ __Ehemals:__
 Keine inhaltlichen Änderungen.
 
 
-#### CON.8.A20
+#### NEU: CON.8.A20
 
 Die Anforderung ist neu hinzugefügt worden.
 
@@ -1415,7 +1415,7 @@ Keine inhaltlichen Änderungen.
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
-#### CON.9.A9
+#### NEU: CON.9.A9
 
 Die Anforderung ist neu hinzugefügt worden.
 
