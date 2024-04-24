@@ -599,6 +599,8 @@ Keine inhaltlichen Änderungen
 <summary> Änderungen
 </summary>
 
+#### Basis-Anforderungen
+
 #### SYS.1.1.A1
 
 __Geändert:__
@@ -609,10 +611,13 @@ __Geändert:__
 
 • Aktualisierung von Betriebssystem und Anwendungen sowie
 
+#### Standard-Anforderungen
+
 #### SYS.1.1.A37 
 
 Anforderung neu hinzugefügt.
 
+#### Anforderungen bei erhöhtem Schutzbedarf
 
 #### SYS.1.1.A31
 
@@ -656,6 +661,8 @@ Keine inhaltlichen Änderungen.
 <summary> Änderungen
 </summary>
 
+#### Standard-Anforderungen
+
 #### SYS.1.5.A17
 
 __Entfallen:__
@@ -676,6 +683,8 @@ In den Anforderungen des Bausteins wird anstatt von MVS- , von z/OS- gesprochen.
 <details> 
 <summary> Änderungen
 </summary>
+
+#### Basis-Anforderungen
 
 #### SYS.1.7.A1
 
@@ -702,6 +711,7 @@ __Hinzugefügt:__
 
 Falls RACF PassTickets verwendet werden, MUSS der Enhanced PassTicket Algorithmus aktiviert werden.
 
+#### Standard-Anforderungen
 
 #### SYS.1.7.A22
 
@@ -729,10 +739,13 @@ Keine inhaltlichen Veränderungen.
 <summary> Änderungen
 </summary>
 
+#### Standard-Anforderungen
+
 #### SYS.2.1.A34
 
 Anforderung wurde komplett neu hinzugefügt.
 
+#### Anforderungen bei erhöhtem Schutzbedarf
 
 #### SYS.2.1.A31
 
@@ -749,16 +762,6 @@ SYS.2.1.A33 Einsatz von Ausführungskontrolle (H)
 
 Es SOLLTE über eine Ausführungskontrolle sichergestellt werden, dass nur explizit erlaubte Programme und Skripte ausgeführt werden können.
 
-
-#### SYS.2.1.A34 Anforderung ist entfallen.
-
-__Ehemals:__
-  
-*SYS.2.1.A34 Kapselung von sicherheitskritischen Anwendungen und Betriebssystemkomponenten (H)*
-
-*Um sowohl den Zugriff eines Angreifers auf das Betriebssystem oder andere Anwendungen als auch den Zugriff vom Betriebssystem auf besonders schützenswerte Dateien zu verhindern, SOLLTEN Anwendungen und Betriebssystemkomponenten (wie beispielsweise Authentisierung oder Zertifikatsüberprüfung) besonders gekapselt bzw. anderen Anwendungen und Betriebssystemkomponenten gegenüber isoliert werden.*
-
-*Dabei SOLLTEN insbesondere sicherheitskritische Anwendungen berücksichtigt werden, die mit Daten aus unsicheren Quellen arbeiten (z.B. Webbrowser und Bürokommunikations-Anwendungen).*
 </details>
 
 ### SYS.2.2.2
@@ -771,6 +774,8 @@ Keine inhaltlichen Änderungen.
 <details> 
 <summary> Änderungen
 </summary>
+
+#### Basis-Anforderungen
 
 #### SYS.2.2.3.A4
 
@@ -787,6 +792,7 @@ __Geändert:__
 
 Sofern nicht gleich- oder höherwertige Maßnahmen, wie z. B. Ausführungskontrolle, zum Schutz des IT-Systems vor einer Infektion mit Schadsoftware getroffen wurden, MUSS eine spezialisierte Komponente zum Schutz vor Schadsoftware auf Windows 10-Clients eingesetzt werden.
 
+#### Standard-Anforderungen
 
 #### SYS.2.2.3.A11 entfallen
 
@@ -801,6 +807,7 @@ __Ehemals:__
 *Ist dies nicht möglich, SOLLTE der Schutz des Local Credential Store LSA aktiviert werden (PPL, Protected Mode Light).*
 
 *Die Netzanmeldung von lokalen Konten SOLLTE verboten werden.*
+
 </details>
 
 ### SYS.2.3
