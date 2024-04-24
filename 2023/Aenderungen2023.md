@@ -52,7 +52,7 @@ Langlebige kryptografische Schlüssel MÜSSEN offline, außerhalb der eingesetzt
 
 #### Standard-Anforderungen
 
-#### CON.1.A3 entfallen
+#### CON.1.A3 ENTFALLEN
 
 Ehemals *Verschlüsselung der Kommunikationsverbindungen*:
 
@@ -96,7 +96,7 @@ __Hinzugefügt:__
 Die Vorgehensweisen und eingesetzten Methoden, um nicht mehr benötigte private Schlüssel zu löschen oder zu vernichten, SOLLTEN im Kryptokonzept dokumentiert werden.
 
 
-#### CON.1.A6 entfallen
+#### CON.1.A6 ENTFALLEN
 
 Ehemals *Bedarfserhebung für kryptografische Verfahren und Produkte*:
 
@@ -107,7 +107,7 @@ Ehemals *Bedarfserhebung für kryptografische Verfahren und Produkte*:
 *Diese SOLLTEN durch den IT-Betrieb geeignet kryptografisch abgesichert werden.*
 
 
-#### CON.1.A7 entfallen
+#### CON.1.A7 ENTFALLEN
 
 Ehemals *Erstellung einer Sicherheitsrichtlinie für den Einsatz kryptografischer Verfahren und Produkte*:
 
@@ -131,7 +131,7 @@ Ehemals *Erstellung einer Sicherheitsrichtlinie für den Einsatz kryptografische
 *Die Ergebnisse SOLLTEN sinnvoll dokumentiert werden.*
 
 
-#### CON.1.A8 entfallen
+#### CON.1.A8 ENTFALLEN
 
 Ehemals *Erhebung der Einflussfaktoren für kryptografische Verfahren und Produkte*:
 
@@ -183,7 +183,7 @@ Inhalt grundlegend verändert, auf eine Auflistung wird verzichtet.
 Inhalt grundlegend verändert, auf eine Auflistung wird verzichtet.
 
 
-#### CON.1.A12 entfallen
+#### CON.1.A12 ENTFALLEN
 
 Ehemals *Sichere Rollenteilung beim Einsatz von Kryptomodulen*:
 
@@ -194,7 +194,7 @@ Ehemals *Sichere Rollenteilung beim Einsatz von Kryptomodulen*:
 *Das Kryptomodul SOLLTE so konfiguriert sein, dass bei jedem Rollenwechsel oder bei Inaktivität nach einer bestimmten Zeitdauer die Authentisierungsinformationen erneut eingegeben werden müssen.*
 
 
-#### CON.1.A13 entfallen
+#### CON.1.A13 ENTFALLEN
 
 Ehemals *Anforderungen an die Betriebssystem-Sicherheit beim Einsatz von Kryptomodulen*:
 
@@ -210,7 +210,7 @@ Ehemals *Anforderungen an die Betriebssystem-Sicherheit beim Einsatz von Kryptom
 *• Manipulationsversuche am Kryptomodul erkannt werden.*
 
 
-#### CON.1.A14 entfallen
+#### CON.1.A14 ENTFALLEN
 
 Ehemals *Schulung von Benutzern und Administratoren*:
 
@@ -234,14 +234,14 @@ __Geändert:__
 *Im Kryptokonzept SOLLTE festgelegt werden, wie der IT-Betrieb sicherstellt, dass nicht unautorisiert physisch auf Hardware mit kryptografischen Funktionen zugegriffen werden kann.*
 
 
-##### Entfallen:
+__Entfallen:__
 
 *Hard- und Softwareprodukte, die als Kryptomodule eingesetzt werden, SOLLTEN einen Selbsttest durchführen können.*
 
 
 #### CON.1.A17
 
-##### Entfallen:
+__Entfallen:__
 
 *Getroffene Maßnahmen hinsichtlich der Abstrahlsicherheit SOLLTEN im Kryptokonzept dokumentiert werden.*
 
@@ -369,7 +369,7 @@ Der Baustein wurde neu hinzugefügt.
 Anforderung wurde vollständig verändert, Notfallvorsorge ist aus dieser Anforderung entfallen.
 
 
-#### OPS.1.1.2.A3 entfallen
+#### OPS.1.1.2.A3 ENTFALLEN
 
 Ehemals *Geregelte Einstellung von IT-Administratoren*:
 
@@ -422,7 +422,7 @@ Anforderung wurde vollständig verändert.
 Anforderung wurde vollständig verändert.
 
 
-#### OPS.1.1.2.A9 entfallen
+#### OPS.1.1.2.A9 ENTFALLEN
 
 Ehemals *Ausreichende Ressourcen für den IT-Betrieb*:
 
@@ -433,7 +433,7 @@ Ehemals *Ausreichende Ressourcen für den IT-Betrieb*:
 *Die Ressourcenplanung SOLLTE in regelmäßigen Zyklen geprüft und den aktuellen Erfordernissen angepasst werden.*
 
 
-#### OPS.1.1.2.A10 entfallen
+#### OPS.1.1.2.A10 ENTFALLEN
 
 Ehemals *Fortbildung und Information*:
 
@@ -453,7 +453,7 @@ Ehemals *Fortbildung und Information*:
 Anforderung wurde vollständig verändert.
 
 
-#### OPS.1.1.2.A12 entfallen
+#### OPS.1.1.2.A12 ENTFALLEN
 
 Ehemals *Regelungen für Wartungs- und Reparaturarbeiten*:
 
@@ -473,7 +473,7 @@ Ehemals Anforderung erhöhten Schutzbedarfs, jetzt Standard-Anforderung.
 Inhalt wurde grundlegend verändert.
 
 
-#### OPS.1.1.2.A20 entfallen
+#### OPS.1.1.2.A20 ENTFALLEN
 
 Ehemals *Verwaltung und Inbetriebnahme von Geräten*:
 
@@ -517,14 +517,14 @@ Standard-Anforderung wurde neu hinzugefügt.
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
-#### OPS.1.1.2.A14 entfallen
+#### OPS.1.1.2.A14 ENTFALLEN
 
 Ehemals *Sicherheitsüberprüfung von Administratoren*:
 
 *Bei erhöhtem Schutzbedarf SOLLTEN Administratoren einer zusätzlichen Sicherheitsüberprüfung unterzogen werden.*
 
 
-#### OPS.1.1.2.A15 entfallen
+#### OPS.1.1.2.A15 ENTFALLEN
 
 Ehemals *Aufteilung von Administrationstätigkeiten*:
 
@@ -570,7 +570,7 @@ Anforderung mit erhöhtem Schutzbedarf wurde neu hinzugefügt.
 
 #### OPS.1.1.3.A15
 
-##### Neu:
+__Neu:__
 
 *Für die Bewertung SOLLTE geprüft werden, ob es zu diesem Patch bekannte Schwachstellen gibt.*
 
@@ -579,7 +579,7 @@ Anforderung mit erhöhtem Schutzbedarf wurde neu hinzugefügt.
 *Ist dies nicht der Fall, DÜRFEN diese Hardware- oder Software-Produkte NICHT mehr verwendet werden.*
 
 
-#### OPS.1.1.3.A16 entfallen
+#### OPS.1.1.3.A16 ENTFALLEN
 
 Ehemals *Regelmäßige Suche nach Informationen zu Patches und Schwachstellen*:
 
@@ -643,7 +643,7 @@ __Geändert:__
 
 ##### OPS.1.2.5.A14
 
-##### Neu:
+__Neu:__
 
 *Für Fernwartungszugänge SOLLTEN dedizierte Konten verwendet werden.*
 
@@ -738,7 +738,7 @@ Keine inhaltlichen Änderungen
 
 #### APP.1.2.A13
 
-##### Neu:
+__Neu:__
 
 *Die Institution MUSS entscheiden, ob die verwendeten Browser DNS-over-HTTPS (DoH) verwenden sollen.*
 
@@ -747,7 +747,7 @@ Keine inhaltlichen Änderungen
 *Falls ein interner DNS-Resolver verwendet wird, MUSS dieser auch vom Browser verwendet werden.*
 
 
-##### Entfallen:
+__Entfallen:__
 
 *Die Institution MUSS prüfen, ob die verwendeten Browser DNS-over-HTTPS (DoH) einsetzen.*
 
@@ -761,7 +761,7 @@ Keine inhaltlichen Änderungen
 
 #### APP.1.2.A7
 
-##### Neu:
+__Neu:__
 
 *Wird die Funktion dennoch genutzt, SOLLTEN die Benutzenden diese Daten löschen können.*
 
@@ -800,18 +800,18 @@ __Geändert:__
 
 #### APP.2.1.A5
 
-##### Entfallen:
+__Entfallen:__
 
 *Vor den Konfigurationsänderungen SOLLTEN von allen betroffenen Dateien und Verzeichnissen Datensicherungen angefertigt werden.*
 
 
 #### APP.2.1.A6
 
-##### Entfallen:
+__Entfallen:__
 
 *Die Arbeitsplätze von Verzeichnisdienstadministratoren MÜSSEN ausreichend gesichert sein.*
 
-##### Neu:
+__Neu:__
 
 *Sofern der Verzeichnisdienst zur Verwaltung von Anmeldedaten verwendet wird, MÜSSEN dedizierte Clients bei der Fernwartung eingesetzt werden.*
 
@@ -822,7 +822,7 @@ Die Basis-Anforderung wurde neu hinzugefügt.
 
 #### Standard-Anforderungen
 
-#### APP.2.1.A7 ist entfallen
+#### APP.2.1.A7 ENTFALLEN
 
 Ehemals *Erstellung eines Sicherheitskonzepts für den Einsatz von Verzeichnisdiensten*:
 
@@ -839,14 +839,14 @@ __Geändert:__
 
 *Eine Partitionierung SOLLTE so geplant werden, dass sie die Schadensauswirkungen bei Sicherheitsvorfällen begrenzt, die unabhängige Administration verschiedener Partitionen ermöglicht und organisatorischen bzw. Sicherheitsgrenzen folgt.*
 
-##### Entfallen:
+__Entfallen:__
 
 *Um die Replikationen zeitgerecht ausführen zu können, SOLLTE eine ausreichende Bandbreite sichergestellt werden.*
 
 
 #### APP.2.1.A11
 
-##### Entfallen:
+__Entfallen:__
 
 *Sollen anonymen Benutzern auf einzelne Teilbereiche des Verzeichnisbaums weitergehende Zugriffe eingeräumt werden, so SOLLTE ein gesondertes Benutzerkonto, ein sogenannter Proxy-User, für den anonymen Zugriff eingerichtet werden.*
 
@@ -859,14 +859,14 @@ __Geändert:__
 
 #### APP.2.1.A12
 
-##### Neu:
+__Neu:__
 
 *Insbesondere Änderungen innerhalb des Verzeichnisdienstes sowie Konfigurationsänderungen des Verzeichnisdienstes SOLLTEN vorrangig protokolliert werden.*
 
 
 #### APP.2.1.A13
 
-##### Entfallen:
+__Entfallen:__
 
 *Der Kommunikationsendpunkt des Verzeichnisdienst-Servers SOLLTE aus dem Internet nicht erreichbar sein.*
 
@@ -879,11 +879,11 @@ __Geändert:__
 
 #### APP.2.1.A14
 
-##### Entfallen:
+__Entfallen:__
 
 *Die Zugriffsrechte für Verzeichnisdienst-Objekte bei Systemen, die von Vorgängerversionen aktualisiert bzw. von anderen Verzeichnissystemen übernommen wurden, SOLLTEN aktualisiert werden.*
 
-##### Neu:
+__Neu:__
 
 *In dem Migrationskonzept SOLLTE berücksichtigt werden, ob das Berechtigungsmanagement von altem und neuem Verzeichnisdienst analog funktioniert oder ob neue Berechtigungsstrukturen erforderlich sind.*
 
@@ -927,7 +927,7 @@ Die Anforderung erhöhten Schutzbedarfs wurde neu hinzugefügt.
 
 #### APP.2.2.A1
 
-##### Entfallen:
+__Entfallen:__
 
 *Die geplante Active-Directory-Struktur einschließlich etwaiger Schema-Änderungen SOLLTE nachvollziehbar dokumentiert sein.*
 
@@ -939,7 +939,7 @@ __Geändert:__
 *Ein bedarfsgerechtes Berechtigungskonzept für die Domäne(n) und die Gesamtstruktur MUSS entworfen werden.*
 
 
-##### Neu:
+__Neu:__
 
 *Dabei MUSS berücksichtigt werden, dass zwischen den einzelnen Domänen einer Gesamtstruktur produktbedingt keine Sicherheitsgrenzen bestehen und daher keine sichere Begrenzung der administrativen Bereiche innerhalb einer Gesamtstruktur möglich ist.*
 
@@ -982,7 +982,7 @@ Die Basis-Anforderung wurde neu hinzugefügt.
 
 #### APP.2.2.A8
 
-##### Entfallen:
+__Entfallen:__
 
 *Dabei SOLLTEN alle relevanten Gruppenrichtlinienparameter berücksichtigt werden.*
 
@@ -1059,7 +1059,7 @@ __Geändert:__
 
 #### APP.2.3.A10
 
-##### Neu:
+__Neu:__
 
 *Beim Update auf neue Releases SOLLTE geprüft werden, ob die verwendeten Overlays und Backends in der neuen Version weiterhin zur Verfügung stehen.*
 
@@ -1067,14 +1067,14 @@ __Geändert:__
 
 #### APP.2.3.A11
 
-##### Entfallen:
+__Entfallen:__
 
 *Der slapd-Server SOLLTE auf ein Laufzeitverzeichnis eingeschränkt werden.*
 
 *Hierfür SOLLTE dieses Verzeichnis alle Konfigurationsdateien und Datenbanken beinhalten.*
 
 
-##### Neu:
+__Neu:__
 
 *Die Laufzeitumgebung des slapd-Servers SOLLTE, möglichst mit Mitteln des Betriebssystems, auf die minimal benötigten Dateien, Verzeichnisse und vom Betriebssystem bereitgestellten Funktionen eingeschränkt werden.*
 
@@ -1109,7 +1109,7 @@ Keine inhaltlichen Änderungen.
 
 #### APP.3.4.A6
 
-##### Entfallen:
+__Entfallen:__
 
 *Dabei SOLLTE Winbind Domänen-Benutzernamen in eindeutige Unix-Benutzernamen umsetzen.*
 
@@ -1164,7 +1164,7 @@ __Geändert:__
 
 #### APP.5.3.A2
 
-##### Neu:
+__Neu:__
 
 *Der Empfang von E-Mails über unverschlüsselte Verbindungen SOLLTE deaktiviert werden.*
 
@@ -1181,18 +1181,18 @@ __Geändert:__
 
 #### APP.5.3.A6
 
-##### Entfallen:
+__Entfallen:__
 
 *• wie sich die Kommunikation absichern lässt,*
 
 
 #### APP.5.3.A9
 
-##### Entfallen:
+__Entfallen:__
 
 *Wird SPF verwendet, SOLLTE eindeutig vorgegeben werden, wie mit E-Mails verfahren werden soll.*
 
-##### Neu:
+__Neu:__
 
 *Wird SPF verwendet, SOLLTEN alle sendeberechtigten E-Mail-Server für eine Domain im SPF-Eintrag angegeben werden.*
 
@@ -1261,14 +1261,14 @@ Keine inhaltlichen Änderungen.
 
 #### IND.3.2.A1
 
-##### Neu:
+__Neu:__
 
 *• spezifische gesetzliche Vorgaben, z. B. Schutz von Personen,*
 
 
 #### IND.3.2.A4
 
-##### Neu:
+__Neu:__
 
 *Im industriellen Umfeld MUSS sichergestellt werden, dass Personen an oder in Anlagen und Maschinen weder direkt noch indirekt durch eine aktive Fernwartung gefährdet werden können.*
 
@@ -1296,7 +1296,7 @@ __Geändert:__
 *Physische Server MÜSSEN daher in Rechenzentren, Serverräumen oder abschließbaren Serverschränken aufgestellt beziehungsweise eingebaut werden (siehe hierzu die entsprechenden Bausteine der Schicht INF Infrastruktur).*
 
 
-##### Neu:
+__Neu:__
 
 *Bei virtualisierten Servern MUSS der Zugriff auf die Ressourcen der Instanz und deren Konfiguration ebenfalls auf die berechtigten Personen begrenzt werden.*
 
@@ -1312,7 +1312,7 @@ __Geändert:__
 *Alle nicht benötigten Serverrollen, Features und Funktionen, sonstige Software und Dienste MÜSSEN deaktiviert oder deinstalliert werden, vor allem Netzdienste.*
 
 
-##### Neu:
+__Neu:__
 
 *Die Empfehlungen des Betriebssystemherstellers SOLLTEN hierbei als Orientierung berücksichtigt werden.*
 
@@ -1355,7 +1355,7 @@ Keine inhaltlichen Änderungen.
 
 #### SYS.1.6.A6
 
-##### Neu:
+__Neu:__
 
 *Die Quelle MUSS diesen Umgang mit Sicherheitsproblemen zusichern und einhalten.*
 
@@ -1502,11 +1502,11 @@ Keine inhaltlichen Änderungen.
 
 #### SYS.4.3.A1
 
-##### Entfallen:
+__Entfallen:__
 
 *Um eingebettete Systeme reibungslos zu betreiben, MÜSSEN Zuständige ernannt werden.*
 
-##### Neu:
+__Neu:__
 
 *Alle eingebetteten Systeme inklusive Schnittstellen MÜSSEN erfasst werden.*
 
@@ -1515,7 +1515,7 @@ Keine inhaltlichen Änderungen.
 
 #### SYS.4.3.A11
 
-##### Neu:
+__Neu:__
 
 *Ist dies nicht möglich, SOLLTE das System vernichtet werden.*
 
@@ -1536,7 +1536,7 @@ Keine inhaltlichen Änderungen.
 
 #### SYS.4.5.A2
 
-##### Neu:
+__Neu:__
 
 *Die Institution MUSS festlegen, wie Wechseldatenträger behandelt werden sollen, die nach einem Verlust wiedergefunden wurden.*
 
@@ -1547,12 +1547,12 @@ Keine inhaltlichen Änderungen.
 
 #### SYS.4.5.A4
 
-##### Entfallen:
+__Entfallen:__
 
 *ob und wie private Datenträger genutzt werden dürfen,*
 
 
-##### Neu:
+__Neu:__
 
 *ob Wechseldatenträger an fremde IT-Systeme angeschlossen werden dürfen und was dabei zu beachten ist,*
 
@@ -1652,7 +1652,7 @@ Keine inhaltlichen Änderungen.
 
 #### INF.1.A9
 
-##### Neu:
+__Neu:__
 
 *Es MUSS ein IT-bezogenes Brandschutzkonzept erstellt und umgesetzt werden.*
 
