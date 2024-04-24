@@ -7673,6 +7673,8 @@ Die Anforderung wurde neu hinzugefügt.
 <summary> Änderungen
 </summary>
 
+#### Basis-Anforderungen
+
 #### IND.2.1.A1
 
 __Entfallen:__
@@ -7720,6 +7722,7 @@ Nicht genutzte und unnötige Benutzerkonten MÜSSEN deaktiviert werden.
 
 Keine inhaltlichen Änderungen.
 
+#### Standard-Anforderungen
 
 #### IND.2.1.A7 Die Anforderung wurde von einer Basis- zu einer Standard-Anforderung
 
@@ -7831,6 +7834,7 @@ __Geändert:__
 
 Bei Anwendungen mit Echtzeitanforderungen SOLLTE geprüft werden, ob dies umsetzbar ist.
 
+#### Anforderungen bei erhöhtem Schutzbedarf
 
 #### IND.2.1.A18
 
@@ -7854,6 +7858,8 @@ Keine inhaltlichen Änderungen.
 <details>
 <summary> Änderungen
 </summary>
+
+#### Standard-Anforderungen
 
 #### IND.2.2.A1
 
@@ -7880,20 +7886,27 @@ __Ehemals:__
 #### IND.2.2.A3
 
 Keine inhaltlichen Änderungen.
-
+</details>
 
 
 ### IND.2.3
+<details>
+<summary> Änderungen
+</summary>
+
+#### Basis-Anforderungen
 
 #### IND.2.3.A1
 
 Keine inhaltlichen Änderungen.
 
+#### Standard-Anforderungen
 
 #### IND.2.3.A2
 
 Keine inhaltlichen Änderungen.
 
+#### Anforderungen bei erhöhtem Schutzbedarf
 
 #### IND.2.3.A3
 
@@ -7905,6 +7918,11 @@ Alle nicht benutzten Kommunikationsschnittstellen SOLLTEN deaktiviert werden.
 
 
 ### IND.2.4
+<details>
+<summary> Änderungen
+</summary>
+
+#### Basis-Anforderungen
 
 #### IND.2.4.A1
 
@@ -7915,9 +7933,13 @@ SOLLTE wurde durch MUSS ersetzt
 
 SOLLTE wurde durch MUSS ersetzt
 
+</details>
 
 
 ### IND.2.7
+<details>
+<summary> Änderungen
+</summary>
 
 Verantwortlich wurde durch Zuständig ersetzt.
 
