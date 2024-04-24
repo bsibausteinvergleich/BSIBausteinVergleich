@@ -1639,12 +1639,16 @@ Keine inhaltlichen Änderungen.
 <summary> Änderungen
 </summary>
 
+#### Basis-Anforderungen
+
 #### INF.1.A1
 
 ##### Entfallen (verschoben zu INF.1.A9):
 
 *Es MUSS ein IT-bezogenes Brandschutzkonzept erstellt und umgesetzt werden.*
 
+
+#### Standard-Anforderungen
 
 #### INF.1.A9
 
@@ -1689,6 +1693,8 @@ Keine inhaltlichen Änderungen.
 <details>
 <summary> Änderungen
 </summary>
+
+#### Anforderungen bei erhöhtem Schutzbedarf
 
 #### INF.10.A10 ist entfallen (verschoben zu ORP.1.A17)
 
