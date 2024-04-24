@@ -259,6 +259,7 @@ Der Quellcode SOLLTE NICHT ausschließlich von Testern überprüft werden, die a
 
 ### NEU: OPS.1.1.7
 
+Der Baustein wurde neu hinzugefügt.
 
 ### OPS.1.2.2
 
