@@ -9443,18 +9443,23 @@ keine inhaltlichen Änderungen.
 
 #### Standard-Anforderungen
 
-#### INF.9.A5-A11
+#### INF.9.A5-A9
 
 keine inhaltlichen Änderungen.
-
 
 #### INF.9.A12
 
 Die Anforderung ist neu hinzugefügt.
 
+#### Anforderungen bei erhöhtem Schutzbedarf
+
+#### INF.9.A10-A11
+
+keine inhaltlichen Änderungen.
+
 </details>
 
-#### Anforderungen bei erhöhtem Schutzbedarf
+
 
 ### INF.10
 
