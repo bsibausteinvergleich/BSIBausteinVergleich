@@ -30,7 +30,7 @@ Der Baustein spricht jetzt an mehreren Stellen von *Informationen* statt von *Da
 Anstatt von *Kryptoprodukten* spricht der Baustein nun von *Hard- oder Software mit kryptografischen Funktionen*.
 
 
-#### CON.1.A1:
+#### CON.1.A1
 
 __Hinzugefügt:__
 
@@ -39,7 +39,7 @@ Um eine geeignete Schlüssellänge auszuwählen, SOLLTE berücksichtigt werden, 
 Bei einer längeren Einsatzdauer SOLLTEN entsprechend längere Schlüssellängen eingesetzt werden.
 
 
-#### CON.1.A2:
+#### CON.1.A2
 
 __Entfallen:__
 
