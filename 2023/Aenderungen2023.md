@@ -1657,7 +1657,7 @@ Keine inhaltlichen Änderungen.
 
 #### INF.1.A1
 
-##### Entfallen (verschoben zu INF.1.A9):
+__Entfallen (verschoben zu INF.1.A9):__
 
 *Es MUSS ein IT-bezogenes Brandschutzkonzept erstellt und umgesetzt werden.*
 
