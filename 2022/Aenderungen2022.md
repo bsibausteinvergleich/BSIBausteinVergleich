@@ -183,28 +183,28 @@ Keine inhaltlichen Änderungen.
 
 ## OPS
 
-### OPS 1.1.2
+### OPS.1.1.2
 
 Keine inhaltlichen Änderungen.
 
 
-### OPS 1.1.3
+### OPS.1.1.3
 
 Keine inhaltlichen Änderungen.
 
 
-### OPS 1.1.4
+### OPS.1.1.4
 
 Keine inhaltlichen Änderungen.
 
 
-### OPS 1.1.5
+### OPS.1.1.5
 
 <details> 
 <summary> Änderungen
 </summary>
 
-#### OPS 1.1.5.A6
+#### OPS.1.1.5.A6
 
 __Geändert:__
 
@@ -212,13 +212,13 @@ Alle gesammelten sicherheitsrelevanten Protokollierungsdaten SOLLTEN an einer ze
 
 </details>
 
-### OPS 1.1.6.
+### OPS.1.1.6.
 
 <details> 
 <summary> Änderungen
 </summary>
 
-#### OPS 1.1.6.A11
+#### OPS.1.1.6.A11
 
 __Geändert:__
 
@@ -233,13 +233,13 @@ __Hinzugefügt:__
 
 Falls möglich, SOLLTEN die Testdaten mit Personenbezug vollständig anonymisiert werden.
 
-#### OPS 1.1.6.A6
+#### OPS.1.1.6.A6
 
 __Geändert:__
 
 Die Software-Tester SOLLTEN über die durchzuführenden Testarten und die zu testenden Bereiche einer Software vom Fachverantwortlichen informiert werden.
 
-#### OPS 1.1.6.A7
+#### OPS.1.1.6.A7
 
 __Geändert:__
 
@@ -249,40 +249,40 @@ Der Quellcode SOLLTE NICHT ausschließlich von Testern überprüft werden, die a
 
 </details>
 
-### OPS 1.1.7 Der Baustein wurde neu hinzugefügt.
+### OPS.1.1.7 Der Baustein wurde neu hinzugefügt.
 
 
-### OPS 1.2.2
-
-Keine inhaltlichen Änderungen.
-
-
-### OPS 1.2.4
+### OPS.1.2.2
 
 Keine inhaltlichen Änderungen.
 
 
-### OPS 1.2.5
+### OPS.1.2.4
+
+Keine inhaltlichen Änderungen.
+
+
+### OPS.1.2.5
 
 <details> 
 <summary> Änderungen
 </summary>
 
-#### OPS 1.2.5.A2
+#### OPS.1.2.5.A2
 
 __Geändert:__
 
 Wird per Fernwartung auf Desktop-Umgebungen von Clients zugegriffen, MUSS der Benutzer des IT-Systems diesem Zugriff explizit zustimmen.
 
 
-#### OPS 1.2.5.A24
+#### OPS.1.2.5.A24
 
 __Geändert:__
 
 Die Fernwartungsfunktionen SOLLTEN nur aus einem getrennten Managementnetz erreichbar sein.
 
 
-#### OPS 1.2.5.A25
+#### OPS.1.2.5.A25
 
 __Geändert:__
 
@@ -293,7 +293,7 @@ Direkte Fernwartungszugriffe eines Administrators von einem Fernwartungs-Client 
 Der Zugriff auf Sprungserver SOLLTE nur von vertrauenswürdigen IT-Systemen aus möglich sein.
 
 
-#### OPS 1.2.5.A14
+#### OPS.1.2.5.A14
 
 __Hinzugefügt:__
 
@@ -301,22 +301,22 @@ Die Netzkommunikation der Administrationssysteme SOLLTE so eingeschränkt werden
 
 </details>
 
-### OPS 1.2.6
+### OPS.1.2.6
 
 Der Baustein wurde neu hinzugefügt.
 
 
-### OPS 2.1
+### OPS.2.1
 
 Keine inhaltlichen Änderungen.
 
 
-### OPS 2.2
+### OPS.2.2
 
 Keine inhaltlichen Änderungen.
 
 
-### OPS 3.1
+### OPS.3.1
 
 Keine inhaltlichen Änderungen.
 
@@ -332,43 +332,43 @@ Keine inhaltlichen Änderungen
 
 ## APP
 
-### APP 1.1
+### APP.1.1
 
 Keine Inhaltlichen Änderungen
 
 
-### APP 1.2
+### APP.1.2
 
 Keine Inhaltlichen Änderungen
 
 
-### APP 1.4
+### APP.1.4
 
 Keine Inhaltlichen Änderungen
 
 
-### APP 2.1
+### APP.2.1
 
 Keine Inhaltlichen Änderungen
 
 
-### APP 2.2
+### APP.2.2
 
 Keine Inhaltlichen Änderungen
 
 
-### APP 2.3
+### APP.2.3
 
 Keine Inhaltlichen Änderungen
 
 
-### APP 3.1
+### APP.3.1
 
 <details> 
 <summary> Änderungen
 </summary>
 
-#### APP 3.1.A1
+#### APP.3.1.A1
 
 __Geändert:__
 
@@ -376,7 +376,7 @@ APP.3.1.A1 Authentisierung (B)
 
 Der IT-Betrieb MUSS Webanwendungen und Webservices so konfigurieren, dass sich Benutzer gegenüber der Webanwendung oder dem Webservice authentisieren müssen, wenn diese auf geschützte Ressourcen zugreifen wollen.
 
-#### APP 3.1.A4
+#### APP.3.1.A4
 
 __Geändert:__
 
@@ -385,7 +385,7 @@ APP.3.1.A4 Kontrolliertes Einbinden von Dateien und Inhalten (B)
 Falls eine Webanwendung oder ein Webservice eine Upload-Funktion für Dateien anbietet, MUSS diese Funktion durch den IT-Betrieb so weit wie möglich eingeschränkt werden.
 
 
-#### APP 3.1.A7
+#### APP.3.1.A7
 
 __Geändert:__
 
@@ -398,7 +398,7 @@ Dabei MUSS jedoch berücksichtigt werden, wie sich die Schutzmechanismen auf die
 Wenn die Webanwendung RSS-Feeds oder andere Funktionen enthält, die explizit für die automatisierte Nutzung vorgesehen sind, MUSS dies ebenfalls bei der Konfiguration der Schutzmechanismen berücksichtigt werden.
 
 
-#### APP 3.1.A14
+#### APP.3.1.A14
 
 __Geändert:__
 
@@ -407,7 +407,7 @@ Der IT-Betrieb MUSS sicherstellen, dass Zugangsdaten zur Webanwendung oder zum W
 Die Dateien mit den Quelltexten der Webanwendung oder des Webservices MÜSSEN vor unerlaubten Abrufen geschützt werden.
 
 
-#### APP 3.1.A8
+#### APP.3.1.A8
 
 __Geändert:__
 
@@ -418,7 +418,7 @@ Sicherheitsaspekte SOLLTEN bereits während der Planung von Webanwendungen und W
 Auch SOLLTE darauf geachtet werden, dass die Architektur der Webanwendung oder des Webservice die Geschäftslogik der Institution exakt erfasst und korrekt umsetzt.
 
 
-#### APP 3.1.A9
+#### APP.3.1.A9
 
 __Geändert:__
 
@@ -435,7 +435,7 @@ Zusätzlich zu den allgemeinen Aspekten der Beschaffung von Software SOLLTE die 
 • Zugriff auf den Quelltext der Webanwendung oder des Webservices.
 
 
-#### APP 3.1.A12
+#### APP.3.1.A12
 
 __Geändert:__
 
@@ -446,14 +446,14 @@ Webanwendungen und Webservices SOLLTEN so konfiguriert sein, dass auf ihre Resso
 Folgendes SOLLTE bei der Konfiguration von Webanwendungen und Webservices umgesetzt werden:
 
 
-#### APP 3.1.A22
+#### APP.3.1.A22
 
 __Geändert:__
 
 Webanwendungen und Webservices SOLLTEN regelmäßig auf Sicherheitsprobleme hin überprüft werden.
 
 
-#### APP 3.1.A20
+#### APP.3.1.A20
 
 __Geändert:__
 
@@ -463,23 +463,23 @@ Nach jedem Update der Webanwendung oder des Webservices SOLLTE die Konfiguration
 
 </details>
 
-### APP 3.2
+### APP.3.2
 
 Keine inhaltlichen Veränderungen.
 
 
-### APP 3.3
+### APP.3.3
 
 Keine inhaltlichen Veränderungen.
 
 
-### APP 3.4
+### APP.3.4
 
 <details> 
 <summary> Änderungen
 </summary>
 
-#### APP 3.4.A1
+#### APP.3.4.A1
 
 __Geändert:__
 
@@ -490,23 +490,23 @@ Zudem MUSS in einer betriebsnahen Testumgebung überprüft werden, ob die Integr
 
 </details>
 
-### APP 3.6
+### APP.3.6
 
 Keine inhaltlichen Veränderungen.
 
 
-### APP 4.2
+### APP.4.2
 
 Keine inhaltlichen Veränderungen.
 
 
-### APP 4.3
+### APP.4.3
 
 <details> 
 <summary> Änderungen
 </summary>
 
-#### APP 4.3.A25
+#### APP.4.3.A25
 
 __Geändert:__
 
@@ -518,33 +518,33 @@ Bei den Sicherheitsprüfungen SOLLTEN die systemischen und herstellerspezifische
 
 </details>
 
-### APP 4.4
+### APP.4.4
 
 Der Baustein wurde neu hinzugefügt.
 
 
-### APP 4.6
+### APP.4.6
 
 Keine inhaltlichen Änderungen
 
 
-### APP 5.2
+### APP.5.2
 
 Keine inhaltlichen Änderungen
 
 
-### APP 5.3
+### APP.5.3
 
 Keine inhaltlichen Änderungen
 
 
-### APP 6
+### APP.6
 
 <details> 
 <summary> Änderungen
 </summary>
 
-#### APP 6.A8
+#### APP.6.A8
 
 __Geändert:__
 
@@ -560,7 +560,7 @@ Diese Regelung SOLLTE in das Datensicherungskonzept der Institution integriert w
 
 </details>
 
-### APP 7
+### APP.7
 
 Keine inhaltlichen Änderungen
 
@@ -572,13 +572,13 @@ Keine inhaltlichen Änderungen
 ## SYS
 
 
-### SYS 1.1
+### SYS.1.1
 
 <details> 
 <summary> Änderungen
 </summary>
 
-#### SYS 1.1.A1
+#### SYS.1.1.A1
 
 __Geändert:__
 
@@ -588,12 +588,12 @@ __Geändert:__
 
 • Aktualisierung von Betriebssystem und Anwendungen sowie
 
-#### SYS 1.1.A37 
+#### SYS.1.1.A37 
 
 Anforderung neu hinzugefügt.
 
 
-#### SYS 1.1.A31
+#### SYS.1.1.A31
 
 __Geändert:__
 
@@ -606,36 +606,36 @@ Die Regeln SOLLTEN so eng wie möglich gefasst werden.
 Falls Pfade und Hashes nicht explizit angegeben werden können, SOLLTEN alternativ auch zertifikatsbasierte oder Pfad-Regeln genutzt werden.
 
 
-#### SYS 1.1.A36
+#### SYS.1.1.A36
 
 __Geändert:__
 
 Nicht benötigtes Schlüsselmaterial SOLLTE entfernt werden.
 
 
-#### SYS 1.1.A38
+#### SYS.1.1.A38
 
 Anforderung ist neu hingefüt.
 
 </details>
 
-### SYS 1.2.2
+### SYS.1.2.2
 
 Keine inhaltlichen Änderungen.
 
 
-### SYS 1.3
+### SYS.1.3
 
 Keine inhaltlichen Änderungen.
 
 
-### SYS 1.5
+### SYS.1.5
 
 <details> 
 <summary> Änderungen
 </summary>
 
-#### SYS 1.5.A17
+#### SYS.1.5.A17
 
 __Entfallen:__
 
@@ -643,12 +643,12 @@ __Entfallen:__
 
 </details>
 
-### SYS 1.6
+### SYS.1.6
 
 Baustein komplett neu hinzugefügt.
 
 
-### SYS 1.7
+### SYS.1.7
 
 In den Anforderungen des Bausteins wird anstatt von MVS- , von z/OS- gesprochen.
 
@@ -656,7 +656,7 @@ In den Anforderungen des Bausteins wird anstatt von MVS- , von z/OS- gesprochen.
 <summary> Änderungen
 </summary>
 
-#### SYS 1.7.A1
+#### SYS.1.7.A1
 
 __Geändert:__
 
@@ -668,28 +668,28 @@ __Hinzugefügt:__
 Nicht benötigte Webserver und Fernzugänge MÜSSEN deaktiviert werden, wenn sie nicht benötigt werden.
 
 
-#### SYS 1.7.A6
+#### SYS.1.7.A6
 
 __Geändert:__
   
 Die RSF-Kommunikation MUSS über Proxy-Server und zusätzlich über gesicherte Verbindungen (wie TLS) stattfinden.
 
 
-#### SYS 1.7.A8
+#### SYS.1.7.A8
 
 __Hinzugefügt:__
 
 Falls RACF PassTickets verwendet werden, MUSS der Enhanced PassTicket Algorithmus aktiviert werden.
 
 
-#### SYS 1.7.A22
+#### SYS.1.7.A22
 
 __Geändert:__
 
 SDSF (System Display and Search Facility) und ähnliche Funktionen sowie die Prioritäten-Steuerung für Jobs SOLLTEN mittels RACF vor unberechtigtem Zugriff geschützt werden.
 
 
-#### SYS 1.7.A23
+#### SYS.1.7.A23
 
 __Hinzugefügt:__
 
@@ -697,30 +697,30 @@ Passwörter von realen Usern und Guest-Usern SOLLTEN mittels RACF für z/VM vers
 
 </details>
 
-### SYS 1.8
+### SYS.1.8
 
 Keine inhaltlichen Veränderungen.
 
 
-### SYS 2.1
+### SYS.2.1
 
 <details> 
 <summary> Änderungen
 </summary>
 
-#### SYS 2.1.A34
+#### SYS.2.1.A34
 
 Anforderung wurde komplett neu hinzugefügt.
 
 
-#### SYS 2.1.A31
+#### SYS.2.1.A31
 
 __Geändert:__
 
 Es SOLLTE eine Strategie zur Paketfilter-Implementierung gewählt werden, die nur benötigte Netzkommunikation explizit erlaubt.
 
 
-#### SYS 2.1.A33
+#### SYS.2.1.A33
 
 __Geändert:__
 
@@ -729,7 +729,7 @@ SYS.2.1.A33 Einsatz von Ausführungskontrolle (H)
 Es SOLLTE über eine Ausführungskontrolle sichergestellt werden, dass nur explizit erlaubte Programme und Skripte ausgeführt werden können.
 
 
-#### SYS 2.1.A34 Anforderung ist entfallen.
+#### SYS.2.1.A34 Anforderung ist entfallen.
 
 __Ehemals:__
   
@@ -740,18 +740,18 @@ __Ehemals:__
 *Dabei SOLLTEN insbesondere sicherheitskritische Anwendungen berücksichtigt werden, die mit Daten aus unsicheren Quellen arbeiten (z.B. Webbrowser und Bürokommunikations-Anwendungen).*
 </details>
 
-### SYS 2.2.2
+### SYS.2.2.2
 
 Keine inhaltlichen Änderungen.
 
 
-### SYS 2.2.3
+### SYS.2.2.3
 
 <details> 
 <summary> Änderungen
 </summary>
 
-#### SYS 2.2.3.A4
+#### SYS.2.2.3.A4
 
 __Geändert:__
 
@@ -760,14 +760,14 @@ Diese können nur unter Windows 10 Enterprise mit der Einstellung des Telemetrie
 Wenn diese Einstellung nicht wirksam umgesetzt werden kann, dann MUSS durch geeignete Maßnahmen, etwa auf Netzebene, sichergestellt werden, dass diese Daten nicht an den Hersteller übertragen werden.
 
 
-#### SYS 2.2.3.A5
+#### SYS.2.2.3.A5
 
 __Geändert:__
 
 Sofern nicht gleich- oder höherwertige Maßnahmen, wie z. B. Ausführungskontrolle, zum Schutz des IT-Systems vor einer Infektion mit Schadsoftware getroffen wurden, MUSS eine spezialisierte Komponente zum Schutz vor Schadsoftware auf Windows 10-Clients eingesetzt werden.
 
 
-#### SYS 2.2.3.A11 entfallen
+#### SYS.2.2.3.A11 entfallen
 
 __Ehemals:__
 
@@ -782,62 +782,62 @@ __Ehemals:__
 *Die Netzanmeldung von lokalen Konten SOLLTE verboten werden.*
 </details>
 
-### SYS 2.3
+### SYS.2.3
 
 Keine inhaltlichen Änderungen
 
 
-### SYS 2.4
+### SYS.2.4
 
 Keine inhaltlichen Änderungen
 
 
-### SYS 3.1
+### SYS.3.1
 
 Keine inhaltlichen Änderungen
 
 
-### SYS 3.2.1
+### SYS.3.2.1
 
 Keine inhaltlichen Änderungen
 
 
-### SYS 3.2.2
+### SYS.3.2.2
 
 Keine inhaltlichen Änderungen
 
 
-### SYS 3.2.3
+### SYS.3.2.3
 
 Keine inhaltlichen Änderungen
 
 
-### SYS 3.2.4
+### SYS.3.2.4
 
 Keine inhaltlichen Änderungen
 
 
-### SYS 3.3
+### SYS.3.3
 
 Keine inhaltlichen Änderungen
 
 
-### SYS 4.1
+### SYS.4.1
 
 Keine inhaltlichen Änderungen
 
 
-### SYS 4.3
+### SYS.4.3
 
 Keine inhaltlichen Änderungen
 
 
-### SYS 4.4
+### SYS.4.4
 
 Keine inhaltlichen Änderungen
 
 
-### SYS 4.5
+### SYS.4.5
 
 Keine inhaltlichen Änderungen
 
@@ -849,7 +849,7 @@ Keine inhaltlichen Änderungen
 
 ## IND
 
-### IND 3.2
+### IND.3.2
 
 Baustein ist komplett neu hinzugefügt.
 
@@ -869,71 +869,71 @@ Keine inhaltlichen Änderungen.
 
 ## INF
 
-### INF 1
+### INF.1
 
 Keine inhaltlichen Änderungen.
 
 
-### INF 2
+### INF.2
 
 <details> 
 <summary> Änderungen
 </summary>
 
-#### INF 2.A23
+#### INF.2.A23
 
 __Geändert:__
 
 Trassen SOLLTEN hinsichtlich Anordnung und Dimensionierung so ausgelegt sein, dass eine Trennung der Spannungsebenen sowie eine sinnvolle Verteilung von Kabeln auf den Trassen möglich sind und dass auch für zukünftige Bedarfsmehrung ausreichend Platz zur Verfügung steht.
 </details>
 
-### INF 5
+### INF.5
 
 Keine inhaltlichen Änderungen.
 
 
-### INF 6
+### INF.6
 
 Keine inhaltlichen Änderungen.
 
 
-### INF 7
+### INF.7
 
 Keine inhaltlichen Änderungen.
 
 
-### INF 8
+### INF.8
 
 Keine inhaltlichen Änderungen.
 
 
-### INF 9
+### INF.9
 
 Keine inhaltlichen Änderungen.
 
 
-### INF 10
+### INF.10
 
 Keine inhaltlichen Änderungen.
 
 
-### INF 11
+### INF.11
 
 Keine inhaltlichen Änderungen.
 
 
-### INF 12
+### INF.12
 
 Keine inhaltlichen Änderungen.
 
 
 
-### INF 13
+### INF.13
 
 Baustein ist komplett neu hinzugefügt.
 
 
-### INF 14
+### INF.14
 
 Baustein ist komplett neu hinzugefügt.
 
