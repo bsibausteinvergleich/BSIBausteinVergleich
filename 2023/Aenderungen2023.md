@@ -29,6 +29,7 @@ Der Baustein spricht jetzt an mehreren Stellen von *Informationen* statt von *Da
 
 Anstatt von *Kryptoprodukten* spricht der Baustein nun von *Hard- oder Software mit kryptografischen Funktionen*.
 
+#### Basis-Anforderungen
 
 #### CON.1.A1
 
@@ -49,6 +50,7 @@ __Geändert:__
 
 Langlebige kryptografische Schlüssel MÜSSEN offline, außerhalb der eingesetzten IT-Systeme, aufbewahrt werden.
 
+#### Standard-Anforderungen
 
 #### CON.1.A3 entfallen
 
@@ -174,6 +176,7 @@ Inhalt grundlegend verändert, auf eine Auflistung wird verzichtet.
 
 #### CON.1.A19 vollständig neu hinzugefügt als Standard-Anforderung
 
+#### Anforderungen bei erhöhtem Schutzbedarf
 
 #### CON.1.A11
 
@@ -261,6 +264,8 @@ __Geändert:__
 <details>
 <summary> Änderungen
 </summary>
+
+#### Basis-Anforderungen
 
 #### CON.2.A1
 
