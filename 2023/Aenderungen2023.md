@@ -417,12 +417,12 @@ Anforderung wurde vollständig verändert.
 
 #### NEU: OPS.1.1.2.A21
 
-Die Standard-Anforderung wurd neu hinzugefügt.
+Die Anforderung wurd neu hinzugefügt.
 
 
 #### NEU: OPS.1.1.2.A22
 
-Die Standard-Anforderung wurd neu hinzugefügt.
+Die Anforderung wurd neu hinzugefügt.
 
 #### Standard-Anforderungen
 
