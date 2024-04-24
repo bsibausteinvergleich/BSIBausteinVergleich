@@ -201,7 +201,7 @@ __Ehemals:__
 
 *Es MUSS festgelegt werden, welche Zutritts-, Zugangs- und Zugriffsrechte an welche Personen im Rahmen ihrer Aufgaben und Funktionen vergeben werden (siehe auch ORP.4 Identitäts- und Berechtigungsmanagement).*
 
-#### ORP.1.A15
+#### NEU: ORP.1.A15
 
 Diese Anforderung wurde neu hinzugefügt.
 
@@ -1026,7 +1026,7 @@ __Ehemals:__
 Keine inhaltlichen Änderungen.
 
 
-#### CON.6.A13
+#### NEU: CON.6.A13
 
 Die Anforderung wurde neu hinzugefügt.
 
@@ -1050,9 +1050,9 @@ __Ehemals:__
 *evor Geräte zur Löschung oder Vernichtung von Daten beschafft werden, SOLLTE eine Anforderungsdokumentation erstellt werden, anhand derer die auf dem Markt verfügbaren Werkzeuge miteinander verglichen werden können.*
 
 
-#### CON.6.A14
+#### NEU: CON.6.A14
 
-DIe Anforderung wurde neu hinzugefügt.
+Die Anforderung wurde neu hinzugefügt.
 
 </details>
 
@@ -1321,12 +1321,12 @@ __Ehemals:__
 Keine inhaltlichen Änderungen.
 
 
-#### CON.8.A21
+#### NEU: CON.8.A21
 
 Die Anforderung wurde neu hinzugefügt.
 
 
-#### CON.8.A22
+#### NEU: CON.8.A22
 
 Die Anforderung wurde neu hinzugefügt.
 
@@ -2070,7 +2070,7 @@ Die in der Testumgebung verwendeten Architekturen und Mechanismen SOLLTEN dokume
 Es SOLLTEN Verfahren dokumentiert werden, wie mit der Testumgebung nach Abschluss des Software-Tests zu verfahren ist.
 
 
-#### OPS.1.1.6.A15
+#### NEU: OPS.1.1.6.A15
 
 Die Anforderung wurde neu hinzugefügt.
 
@@ -2081,7 +2081,7 @@ Die Anforderung wurde neu hinzugefügt.
 Keine inhaltlichen Änderungen.
 
 
-#### OPS.1.1.6.A16
+#### NEU: OPS.1.1.6.A16
 
 Die Anforderung wurde neu hinzugefügt.
 
@@ -2233,7 +2233,7 @@ Keine inhaltlichen Änderungen.
 Keine inhaltlichen Änderungen.
 
 
-#### OPS.1.2.5.A25
+#### NEU: OPS.1.2.5.A25
 
 Die Anforderung wurde neu hinzugefügt.
 
@@ -4794,7 +4794,7 @@ Keine inhaltlichen Änderungen.
 Keine inhaltlichen Änderungen.
 
 
-#### SYS.1.1.A35
+#### NEU: SYS.1.1.A35
 
 Die Anforderung wurde neu hinzugefügt.
 
@@ -4849,7 +4849,7 @@ Keine inhaltlichen Änderungen.
 Keine inhaltlichen Änderungen.
 
 
-#### SYS.1.1.A36
+#### NEU: SYS.1.1.A36
 
 Die Anforderung wurde neu hinzugefügt.
 
@@ -5575,7 +5575,7 @@ __Ehemals:__
 Keine inhaltlichen Änderungen.
 
 
-#### SYS.2.1.A42
+#### NEU: SYS.2.1.A42
 
 Die Anforderung wurde neu hinzugefügt.
 
@@ -5876,7 +5876,7 @@ Sicherheitsrelevante Aspekte SOLLTEN nachvollziehbar erläutert und hervorgehobe
 Keine inhaltlichen Änderungen.
 
 
-#### SYS.2.1.A45
+#### NEU: SYS.2.1.A45
 
 Die Anforderung wurde neu hinzugefügt.
 
@@ -6561,7 +6561,7 @@ __Ehemals:__
 Keine inhaltlichen Änderungen.
 
 
-#### SYS.3.2.1.A35
+#### NEU: SYS.3.2.1.A35
 
 Die Anforderung wurde neu hinzugefügt.
 
@@ -6623,7 +6623,7 @@ Keine inhaltlichen Änderungen.
 
 #### Standard-Anforderungen
 
-#### SYS.3.2.2.A6
+#### NEU: SYS.3.2.2.A6
 
 Die Anforderung wurde neu hinzugefügt.
 
@@ -7524,12 +7524,12 @@ Ist dies nicht der Fall, MUSS der Bedarf an alternativen Schutzverfahren geprüf
 Die Virensignaturen DÜRFEN NICHT von OT-Systemen direkt aus dem Internet bezogen werden.
 
 
-#### IND.1.A18
+#### NEU: IND.1.A18
 
 Die Anforderung wurde neu hinzugefügt.
 
 
-#### IND.1.A19
+#### NEU: IND.1.A19
 
 Die Anforderung wurde neu hinzugefügt.
 
@@ -7630,22 +7630,22 @@ Grundlage dafür SOLLTEN Schwachstellenmeldungen von Herstellern oder öffentlic
 Ergänzend hierzu SOLLTEN organisatorische und technische Audits zur Schwachstellenanalyse durchgeführt werden.
 
 
-#### IND.1.A20
+#### NEU: IND.1.A20
 
 Die Anforderung wurde neu hinzugefügt.
 
 
-#### IND.1.A21
+#### NEU: IND.1.A21
 
 Die Anforderung wurde neu hinzugefügt.
 
 
-#### IND.1.A22
+#### NEU: IND.1.A22
 
 Die Anforderung wurde neu hinzugefügt.
 
 
-#### IND.1.A23
+#### NEU: IND.1.A23
 
 Die Anforderung wurde neu hinzugefügt.
 
@@ -7702,7 +7702,7 @@ Erforderliche Sicherheitsprüfungen SOLLTEN so erfolgen, dass die ICS-Anlage nic
 Keine inhaltlichen Änderungen.
 
 
-#### IND.1.A24
+#### NEU: IND.1.A24
 
 Die Anforderung wurde neu hinzugefügt.
 
@@ -8649,7 +8649,7 @@ Weiterhin SOLLTE ein Prozess definiert werden, der regelt, wie Protokolldaten au
 Keine inhaltlichen Änderungen.
 
 
-#### NET.3.2.32
+#### NEU: NET.3.2.32
 
 Die Anforderung wurde neu hinzugefügt.
 
