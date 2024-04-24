@@ -1601,15 +1601,15 @@ __Keine inhaltlichen Änderungen.__
 #### NEU: OPS.2.1.A13
 __Anforderung hinzugefügt__
 
-#### OPS.2.1.A14
+#### NEU: OPS.2.1.A14
 __Anforderung hinzugefügt__
 
-#### OPS.2.1.A15
+#### NEU: OPS.2.1.A15
 __Anforderung hinzugefügt__
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
-#### OPS.2.1.A16
+#### NEU: OPS.2.1.A16
 __Anforderung hinzugefügt__
 
 </details>
