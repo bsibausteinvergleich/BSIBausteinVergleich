@@ -111,7 +111,7 @@ Die Management-Entscheidungen SOLLTEN revisionssicher archiviert werden.
 Keine inhaltlichen Änderungen.
 
 
-#### ISMS.1.A13 Anforderung ist vollständig entfallen.
+#### ISMS.1.A13 ENTFALLEN
 
 __Ehemals:__
 
@@ -193,7 +193,7 @@ Die Mitarbeiter SOLLTEN dazu angehalten werden, institutionsfremde Personen in d
 Keine inhaltlichen Änderungen.
 
 
-#### ORP.1.A5 Die Anforderung ist vollständig entfallen.
+#### ORP.1.A5 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -207,7 +207,7 @@ Diese Anforderung wurde neu hinzugefügt.
 
 #### Standard-Anforderungen
 
-#### ORP.1.A6 Die Anforderung ist vollständig entfallen.
+#### ORP.1.A6 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -218,7 +218,7 @@ __Ehemals:__
 *Arbeitsplätze SOLLTEN stichprobenartig daraufhin kontrolliert werden, ob schützenswerte Informationen offen zugänglich sind.*
 
 
-#### ORP.1.A7 Die Anforderung ist vollständig entfallen.
+#### ORP.1.A7 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -236,10 +236,10 @@ __Ehemals:__
 Keine inhaltlichen Änderungen
 
 
-#### ORP.1.A9 Die Anforderung ist vollständig entfallen.
+#### ORP.1.A9 Die ENTFALLEN
 
 
-#### ORP.1.A10 Die Anforderung ist vollständig entfallen.
+#### ORP.1.A10 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -248,7 +248,7 @@ __Ehemals:__
 *Es SOLLTE geregelt sein, welche Reaktionen bei Verdacht auf Verletzungen der Sicherheitsvorgaben erfolgen, um eine zielgerichtete und zeitnahe Reaktion zu ermöglichen.*
 
 
-#### ORP.1.A11 Die Anforderung ist vollständig entfallen.
+#### ORP.1.A11 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -257,7 +257,7 @@ __Ehemals:__
 *Die Personalvertretung SOLLTE rechtzeitig informiert und beteiligt werden, wenn Verfahren oder Projekte sie betreffen.*
 
 
-#### ORP.1.A12 Die Anforderung ist vollständig entfallen.
+#### ORP.1.A12 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -284,7 +284,7 @@ __Entfallen:__
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
-#### ORP.1.A14 Diese Anforderung ist vollständig entfallen.
+#### ORP.1.A14 Diese ENTFALLEN
 
 __Ehemals:__
 
@@ -371,7 +371,7 @@ Keine inhaltlichen Änderungen.
 
 #### Standard-Anforderungen
 
-#### ORP.2.A6 Diese Anforderung ist vollständig entfallen.
+#### ORP.2.A6 Diese ENTFALLEN
 
 __Ehemals:__
 
@@ -397,7 +397,7 @@ Insbesondere SOLLTE sorgfältig geprüft werden, ob der vorgelegte Lebenslauf ko
 Dabei SOLLTEN auffällig erscheinende Angaben überprüft werden.
 
 
-#### ORP.2.A8 Die Anforderung ist vollständig entfallen.
+#### ORP.2.A8 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -410,7 +410,7 @@ __Ehemals:__
 *Insbesondere SOLLTE vereinbart sein, dass jeder Mitarbeiter auch außerhalb der Arbeitszeit und außerhalb des Betriebsgeländes für die Informationssicherheit der Institution zuständig ist.*
 
 
-#### ORP.2.A9 Die Anforderung ist vollständig entfallen.
+#### ORP.2.A9 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -431,7 +431,7 @@ __Ehemals:__
 *Bei größerem Schulungsbedarf SOLLTEN einzelne Mitarbeiter gesondert geschult und innerhalb des Tätigkeitsbereichs als Multiplikatoren für die übrigen Mitarbeiter eingesetzt werden.*
 
 
-#### ORP.2.A10 Die Anforderung ist vollständig entfallen.
+#### ORP.2.A10 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -441,7 +441,7 @@ __Ehemals:__
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
-#### ORP.2.A11 Die Anforderung ist vollständig entfallen.
+#### ORP.2.A11 Die ENTFALLEN
 
 ##### Ehemnals:
 
@@ -454,7 +454,7 @@ __Ehemals:__
 *Darauf aufbauend SOLLTE untersucht werden, an welcher Stelle die personelle und organisatorische Sicherheit noch verbessert werden kann.*
 
 
-#### ORP.2.A12 Die Anforderung ist vollständig entfallen.
+#### ORP.2.A12 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -487,7 +487,7 @@ Diesbezüglich SOLLTE der ISB den Geheimschutzbeauftragten bzw. Sicherheitsbevol
 Keine inhaltlichen Änderungen.
 
 
-#### ORP.3.A2 Die Anforderung ist vollständig entfallen.
+#### ORP.3.A2 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -747,7 +747,7 @@ __Hinzugefügt:__:
 Führungskräfte, die eine rechtliche Verantwortung für die Institution tragen, MÜSSEN für die Einhaltung der gesetzlichen, vertraglichen und sonstigen Vorgaben sorgen.
 
 
-#### ORP.5.A3 Die Anforderung ist vollständig entfallen.
+#### ORP.5.A3 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -777,7 +777,7 @@ Dafür SOLLTEN Zuständige für das Compliance Management festgelegt werden.
 Keine inhaltlichen Änderungen.
 
 
-#### ORP.5.A6 Die Anforderung ist vollständig entfallen.
+#### ORP.5.A6 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -954,7 +954,7 @@ Die mit der Löschung und Vernichtung beauftragten Unternehmen SOLLTEN regelmä�
 
 #### Standard-Anforderungen
 
-#### CON.6.A3 Die Anforderung ist vollständig entfallen.
+#### CON.6.A3 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -982,7 +982,7 @@ Die ausgewählten Verfahrensweisen SOLLTEN allen verantwortlichen Mitarbeitern b
 Die Institution SOLLTE regelmäßig kontrollieren, ob die gewählten Verfahren noch dem Stand der Technik entsprechen und für die Institution noch ausreichend sicher sind.
 
 
-#### CON.6.A5 Die Anforderung ist vollständig entfallen.
+#### CON.6.A5 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -995,7 +995,7 @@ __Ehemals:__
 *Bei der Aussonderung SOLLTEN neben „klassischen“ IT-Systemen auch alle IT-Systeme berücksichtigt werden, die nichtflüchtige Speicherelemente enthalten.*
 
 
-#### CON.6.A6 Die Anforderung ist vollständig entfallen.
+#### CON.6.A6 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -1004,7 +1004,7 @@ __Ehemals:__
 *Alle Mitarbeiter SOLLTEN in die Methoden und Verfahrensweisen zum Löschen und Vernichten von Informationen eingewiesen werden.*
 
 
-#### CON.6.A7 Die Anforderung ist vollständig entfallen.
+#### CON.6.A7 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -1029,7 +1029,7 @@ Keine inhaltlichen Änderungen.
 Die Anforderung wurde neu hinzugefügt.
 
 
-#### CON.6.A9 Die Anforderung ist vollständig entfallen.
+#### CON.6.A9 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -1039,7 +1039,7 @@ __Ehemals:__
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
-#### CON.6.A10 Die Anforderung ist vollständig entfallen.
+#### CON.6.A10 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -1118,7 +1118,7 @@ Die Sicherheitsanforderungen MÜSSEN dokumentiert werden.
 Keine inhaltlichen Änderungen.
 
 
-#### CON.8.A4 Die Anforderung ist vollständig entfallen.
+#### CON.8.A4 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -1203,7 +1203,7 @@ Werden für verwendete externe Bibliotheken sicherheitskritische Updates bereitg
 Für die Installations-, Update- oder Patchdateien MÜSSEN vom Entwickler Checksummen oder digitale Signaturen bereitgestellt werden.
 
 
-#### CON.8.A9 Die Anforderung ist vollständig entfallen.
+#### CON.8.A9 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -1255,7 +1255,7 @@ Keine inhaltlichen Änderungen.
 Keine inhaltlichen Änderungen.
 
 
-#### CON.8.A13 Die Anforderung ist vollständig entfallen.
+#### CON.8.A13 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -1289,7 +1289,7 @@ Die Entwickler und die übrigen Mitglieder des Entwicklungsteams SOLLTEN zu gene
 • Informationssicherheit, Sicherheitsvorgaben in der Institution und Sicherheitsaspekte in speziellen Bereichen.
 
 
-#### CON.8.A15 Die Anforderung ist vollständig entfallen.
+#### CON.8.A15 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -1442,7 +1442,7 @@ Der Baustein CON.10 ist neu hinzugefügt worden.
 
 #### Basis-Anforderungen
 
-#### OPS.1.1.2.A1 Die Anforderung ist vollständig entfallen.
+#### OPS.1.1.2.A1 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -1592,7 +1592,7 @@ Anforderung wurde neu hinzugefügt.
 
 #### Standard-Anforderungen
 
-#### OPS.1.1.3.A4 Die Anforderung ist vollständig entfallen.
+#### OPS.1.1.3.A4 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -1714,7 +1714,7 @@ __Entfallen:__
 *Es DÜRFEN NUR Cloud-Funktionen solcher Produkte verwendet werden, bei denen keine gravierenden, nachweisbaren Daten- oder Geheimschutzaspekte dagegen sprechen.*
 
 
-#### OPS.1.1.4.A4 Die Anforderung ist vollständig entfallen.
+#### OPS.1.1.4.A4 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -1761,7 +1761,7 @@ Benutzer MÜSSEN sich an die ihnen benannten Ansprechpartner wenden, wenn der Ve
 
 #### Basis-Anforderungen
 
-#### OPS.1.1.4.A8 Die Anforderung ist vollständig entfallen.
+#### OPS.1.1.4.A8 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -1785,7 +1785,7 @@ __Entfallen:__
 Keine inhaltlichen Änderungen.
 
 
-#### OPS.1.1.4.A15 Die Anforderung ist vollständig entfallen.
+#### OPS.1.1.4.A15 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -2001,7 +2001,7 @@ Wird Individualsoftware auf Quellcode-Ebene überprüft, dann SOLLTEN die Tester
 Der Quellcode SOLLTE NICHT ausschließlich von Testern überprüft werden, die an der Erstellung des Quellcodes beteiligt waren.
 
 
-#### OPS.1.1.6.A8 Die Anforderung ist vollständig entfallen.
+#### OPS.1.1.6.A8 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -2012,7 +2012,7 @@ __Ehemals:__
 *Es SOLLTEN Verfahren etabliert werden, mit denen die Software-Tester über Neuerungen informiert werden, die für ihr jeweiliges Aufgabenspektrum relevant sind.*
 
 
-#### OPS.1.1.6.A9 Die Anforderung ist vollständig entfallen.
+#### OPS.1.1.6.A9 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -2100,7 +2100,7 @@ __Entfallen:__
 *Alle Zugangsmöglichkeiten auf die Server der Institution sowie alle Zugriffsrechte auf die darauf gespeicherten Informationen MÜSSEN auf das notwendige Mindestmaß beschränkt sein.*
 
 
-#### OPS.1.2.4.A3 Die Anforderung ist vollständig entfallen.
+#### OPS.1.2.4.A3 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -2117,7 +2117,7 @@ __Ehemals:__
 *Zusätzlich MUSS die Authentizität der Kommunikationspartner gewährleistet sein.*
 
 
-#### OPS.1.2.4.A4 Die Anforderung ist vollständig entfallen.
+#### OPS.1.2.4.A4 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -2180,7 +2180,7 @@ __Hinzugefügt:__:
 Alle anderen Fernwartungsverbindungen SOLLTEN verschlüsselt werden.
 
 
-#### OPS.1.2.5.A4 Die Anforderung ist vollständig entfallen.
+#### OPS.1.2.5.A4 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -2236,7 +2236,7 @@ Keine inhaltlichen Änderungen.
 
 #### OPS.1.2.5.A23 ENTFALLEN
 
-Die Anforderung ist vollständig entfallen.
+Die ENTFALLEN
 
 </details>
 
@@ -2347,7 +2347,7 @@ Wenn neue IT-Komponenten beschafft werden, SOLLTE ein Budget für Schulungen ein
 Bevor die zuständigen Mitarbeiter Schulungen für neue IT-Komponenten bekommen, SOLLTE ein Schulungskonzept erstellt werden.
 
 
-#### DER.1.A8 Die Anforderung ist vollständig entfallen.
+#### DER.1.A8 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -2504,7 +2504,7 @@ Keine inhaltlichen Änderungen.
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
-#### DER.3.1.A28 Die Anforderung ist vollständig entfallen.
+#### DER.3.1.A28 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -2539,7 +2539,7 @@ Keine inhaltlichen Änderungen.
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
-#### DER.3.2.A23 Die Anforderung ist vollständig entfallen.
+#### DER.3.2.A23 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -2574,7 +2574,7 @@ Keine inhaltlichen Änderungen.
 
 #### Basis-Anforderungen
 
-#### APP.1.1.A1 Die Anforderung ist vollständig entfallen.
+#### APP.1.1.A1 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -2617,7 +2617,7 @@ Falls möglich, SOLLTEN sie blockiert werden.
 Durch technische Maßnahmen SOLLTE erzwungen werden, dass Dokumente aus externen Quellen geprüft werden.
 
 
-#### APP.1.1.A4 Die Anforderung ist vollständig entfallen.
+#### APP.1.1.A4 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -2647,7 +2647,7 @@ Benutzer SOLLTEN im Umgang mit den Verschlüsselungsfunktionen in Office-Produkt
 
 #### Standard-Anforderungen
 
-#### APP.1.1.A5 Die Anforderung ist vollständig entfallen.
+#### APP.1.1.A5 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -2667,7 +2667,7 @@ __Entfallen:__
 
 *Zu diesem Zweck SOLLTEN Testmethoden für die Einzeltests (Testarten, -verfahren und -werkzeuge) entwickelt und freigegeben werden.*
 
-#### APP.1.1.A7 Die Anforderung ist vollständig entfallen.
+#### APP.1.1.A7 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -2688,7 +2688,7 @@ __Ehemals:__
 *Vor und nach den Installationen SOLLTEN Datensicherungen der Office-Produkte auf allen betroffenen IT-Systemen durchgeführt werden.*
 
 
-#### APP.1.1.A8 Die Anforderung ist vollständig entfallen.
+#### APP.1.1.A8 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -2699,7 +2699,7 @@ __Ehemals:__
 *Diese Bestandsführung der Software-Lizenzen SOLLTE bei jeder Installation oder Deinstallation aktualisiert werden.*
 
 
-#### APP.1.1.A9 Die Anforderung ist vollständig entfallen.
+#### APP.1.1.A9 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -2813,7 +2813,7 @@ Außerdem MUSS sichergestellt werden, dass der Webbrowser Zertifikate lokal wide
 Der Webbrowser MUSS in diesem Fall die Verbindung abbrechen, bis der Benutzer diese ausdrücklich bestätigt hat.
 
 
-#### APP.1.2.A4 Die Anforderung ist vollständig entfallen.
+#### APP.1.2.A4 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -2849,7 +2849,7 @@ Die Anforderung wurd neu hinzugefügt.
 
 #### Standard-Anforderungen
 
-#### APP.1.2.A5 Die Anforderung ist vollständig entfallen.
+#### APP.1.2.A5 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -2867,7 +2867,7 @@ __Ehemals:__
 Keine inhaltlichen Änderungen.
 
 
-#### APP.1.2.A8 Die Anforderung ist vollständig entfallen.
+#### APP.1.2.A8 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -2911,7 +2911,7 @@ __Entfallen:__
 *Außerdem MÜSSEN Schutzbedarf und die rechtlichen Rahmenbedingungen der zu verarbeitenden Daten betrachtet werden.*
 
 
-#### APP.1.4.A2 Die Anforderung ist vollständig entfallen.
+#### APP.1.4.A2 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -2932,7 +2932,7 @@ __Ehemals:__
 *Diese Vorgaben MÜSSEN mit den etablierten Regelungen der Institution abgestimmt werden.*
 
 
-#### APP.1.4.A4 Die Anforderung ist vollständig entfallen.
+#### APP.1.4.A4 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -2956,7 +2956,7 @@ __Ehemals:__
 Keine inhaltlichen Änderungen.
 
 
-#### APP.1.4.A6 Die Anforderung ist vollständig entfallen.
+#### APP.1.4.A6 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -2995,7 +2995,7 @@ APP.1.4.A3 Verteilung schutzbedürftiger Apps (S)
 Interne Apps der Institution und Apps, die schutzbedürftige Informationen verarbeiten, SOLLTEN über einen institutionseigenen App Store oder via MDM verteilt werden.
 
 
-#### APP.1.4.A9 Die Anforderung ist vollständig entfallen.
+#### APP.1.4.A9 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -3008,7 +3008,7 @@ __Ehemals:__
 *Wenn eine App über ein Benutzerkonto auf ein Backend-Systeme zugreift, MUSS dafür ein dediziertes Dienstekonto verwendet werden.*
 
 
-#### APP.1.4.A10 Die Anforderung ist vollständig entfallen.
+#### APP.1.4.A10 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -3023,7 +3023,7 @@ __Ehemals:__
 *Wenn Mitarbeiter mobile Endgeräte verlieren, SOLLTE sichergestellt sein, dass kein Unbefugter auf die Apps und damit auf Informationen der Institution zugreifen kann.*
 
 
-#### APP.1.4.A11 Die Anforderung ist vollständig entfallen.
+#### APP.1.4.A11 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -3050,7 +3050,7 @@ Werden Apps deinstalliert, SOLLTEN auch Daten gelöscht werden, die auf externen
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
-#### APP.1.4.A13 Die Anforderung ist vollständig entfallen.
+#### APP.1.4.A13 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -3111,7 +3111,7 @@ __Entfallen:__
 Keine inhaltlichen Änderungen.
 
 
-#### APP.2.2.A4 Die Anforderung ist vollständig entfallen.
+#### APP.2.2.A4 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -3186,7 +3186,7 @@ __Entfallen:__
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
-#### APP.2.2.A13 Die Anforderung ist vollständig entfallen.
+#### APP.2.2.A13 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -3220,7 +3220,7 @@ Keine inhaltlichen Änderungen.
 Keine inhaltlichen Änderungen.
 
 
-#### APP.2.3.A2 Die Anforderung ist vollständig entfallen.
+#### APP.2.3.A2 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -3260,7 +3260,7 @@ Keine inhaltlichen Änderungen.
 
 #### Standard-Anforderungen
 
-#### APP.2.3.A7 Die Anforderung ist vollständig entfallen.
+#### APP.2.3.A7 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -3291,7 +3291,7 @@ Bei Updates SOLLTE darauf geachtet werden, ob die Änderungen eingesetzte Backen
 Keine inhaltlichen Änderungen.
 
 
-#### APP.2.3.A12 Die Anforderung ist vollständig entfallen.
+#### APP.2.3.A12 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -3308,7 +3308,7 @@ __Ehemals:__
 *OpenLDAP SOLLTE gemeinsam mit dem Server überwacht werden, auf dem OpenLDAP betrieben wird.*
 
 
-#### APP.2.3.A13 Die Anforderung ist vollständig entfallen.
+#### APP.2.3.A13 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -3344,7 +3344,7 @@ Der Auswahlprozess SOLLTE dokumentiert werden.
 Der IT-Betrieb MUSS geeignete Grenzwerte für fehlgeschlagene Anmeldeversuche festlegen.
 
 
-#### APP.3.1.A2 Die Anforderung ist vollständig entfallen.
+#### APP.3.1.A2 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -3369,7 +3369,7 @@ __Ehemals:__
 *Es MUSS zudem ein sicherer Umgang mit temporären Dateien vorgesehen werden.*
 
 
-#### APP.3.1.A3 Die Anforderung ist vollständig entfallen.
+#### APP.3.1.A3 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -3409,7 +3409,7 @@ Auch MÜSSEN Zugriffs- und Ausführungsrechte restriktiv gesetzt werden.
 Zudem MUSS sichergestellt werden, dass ein Benutzer Dateien nur im vorgegebenen erlaubten Speicherort speichern kann.
 
 
-#### APP.3.1.A5 Die Anforderung ist vollständig entfallen.
+#### APP.3.1.A5 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -3446,7 +3446,7 @@ Dazu MÜSSEN Salted Hash-Verfahren verwendet werden.
 Die Dateien mit den Quelltexten der Webanwendung MÜSSEN vor unerlaubten Abrufen geschützt werden.
 
 
-#### APP.3.1.A16 Die Anforderung ist vollständig entfallen.
+#### APP.3.1.A16 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -3465,7 +3465,7 @@ __Ehemals:__
 *Ausgabedaten MÜSSEN so kodiert werden, dass schadhafter Code auf dem Zielsystem nicht interpretiert oder ausgeführt wird.*
 
 
-#### APP.3.1.A19 Die Anforderung ist vollständig entfallen.
+#### APP.3.1.A19 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -3547,7 +3547,7 @@ Folgendes SOLLTE bei der Konfiguration von Webanwendungen umgesetzt werden:
 • Festlegen von Grenzwerten für Zugriffsversuche.
 
 
-#### APP.3.1.A13 Die Anforderung ist vollständig entfallen.
+#### APP.3.1.A13 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -3558,7 +3558,7 @@ __Ehemals:__
 *Konfigurationsdateien der Webanwendung SOLLTEN außerhalb des Web-Root-Verzeichnisses gespeichert werden.*
 
 
-#### APP.3.1.A15 Die Anforderung ist vollständig entfallen.
+#### APP.3.1.A15 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -3571,7 +3571,7 @@ __Ehemals:__
 *Die Benutzer SOLLTEN über Änderungen mithilfe von Kommunikationswegen außerhalb der Web-Anwendung informiert werden.*
 
 
-#### APP.3.1.A17 Die Anforderung ist vollständig entfallen.
+#### APP.3.1.A17 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -3604,7 +3604,7 @@ Die verwendeten HTTP-Header SOLLTEN so restriktiv wie möglich sein.
 Keine inhaltlichen Änderungen.
 
 
-#### APP.3.1.A23 Die Anforderung ist vollständig entfallen.
+#### APP.3.1.A23 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -3621,7 +3621,7 @@ __Ehemals:__
 Keine inhaltlichen Änderungen.
 
 
-#### APP.3.1.A24 Die Anforderung ist vollständig entfallen.
+#### APP.3.1.A24 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -3632,7 +3632,7 @@ __Ehemals:__
 *Ebenso SOLLTE ein möglicher Überlauf von Protokollierungsdaten bei Webanwendungen überwacht und verhindert werden.*
 
 
-#### APP.3.1.A25 Die Anforderung ist vollständig entfallen.
+#### APP.3.1.A25 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -3741,7 +3741,7 @@ Keine inhaltlichen Änderungen.
 Keine inhaltlichen Änderungen.
 
 
-#### APP.3.2.A17 Die Anforderung ist vollständig entfallen.
+#### APP.3.2.A17 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -3779,7 +3779,7 @@ __Entfallen:__
 Kein inhaltlichen Änderungen.
 
 
-#### APP.3.3.A5 Die Anforderung ist vollständig entfallen.
+#### APP.3.3.A5 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -3940,7 +3940,7 @@ Der NTP-Dienst SOLLTE so konfiguriert werden, dass nur autorisierte Clients die 
 Keine inhaltlichen Änderungen.
 
 
-#### APP.3.4.A11 Die Anforderung ist vollständig entfallen.
+#### APP.3.4.A11 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -4024,7 +4024,7 @@ Keine inhaltlichen Änderungen.
 
 Keine inhaltlichen Änderungen.
 
-#### APP.3.6.A12 Die Anforderung ist vollständig entfallen.
+#### APP.3.6.A12 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -4144,7 +4144,7 @@ Keine inhaltichen Änderungen.
 Keine inhaltichen Änderungen.
 
 
-#### APP.4.2.A10 Die Anforderung ist vollständig entfallen.
+#### APP.4.2.A10 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -4165,7 +4165,7 @@ __Ehemals:__
 Keine inhaltichen Änderungen.
 
 
-#### APP.4.3.A21 Die Anforderung ist vollständig entfallen.
+#### APP.4.3.A21 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -4212,7 +4212,7 @@ Es MUSS regelmäßig überprüft werden, ob die Richtlinie noch korrekt umgesetz
 Die Ergebnisse MÜSSEN sinnvoll dokumentiert werden.
 
 
-#### APP.4.3.A2 Die Anforderung ist vollständig entfallen.
+#### APP.4.3.A2 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -4235,7 +4235,7 @@ __Entfallen:__
 Keine inhaltlichen Änderungen.
 
 
-#### APP.4.3.A5 Die Anforderung ist vollständig entfallen.
+#### APP.4.3.A5 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -4252,7 +4252,7 @@ __Ehemals:__
 *Die eingerichteten Benutzer und die ihnen zugeordneten Berechtigungen MÜSSEN regelmäßig überprüft und, falls erforderlich, angepasst werden.*
 
 
-#### APP.4.3.A6 Die Anforderung ist vollständig entfallen.
+#### APP.4.3.A6 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -4265,7 +4265,7 @@ __Ehemals:__
 *Insbesondere bei privilegierten Datenbankaccounts und Dienstkonten SOLLTE ein Passwortwechsel sorgfältig geplant und gegebenenfalls mit den Anwendungsverantwortlichen abgestimmt werden.*
 
 
-#### APP.4.3.A7 Die Anforderung ist vollständig entfallen.
+#### APP.4.3.A7 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -4284,7 +4284,7 @@ __Ehemals:__
 *Das Ergebnis SOLLTE nachvollziehbar dokumentiert werden.*
 
 
-#### APP.4.3.A8 Die Anforderung ist vollständig entfallen.
+#### APP.4.3.A8 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -4305,7 +4305,7 @@ Keine inhaltlichen Änderungen.
 
 #### Standard-Anforderungen
 
-#### APP.4.3.A10 Die Anforderung ist vollständig entfallen.
+#### APP.4.3.A10 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -4333,7 +4333,7 @@ Keine inhaltlichen Änderungen.
 Keine inhaltlichen Änderungen.
 
 
-#### APP.4.3.A14 Die Anforderung ist vollständig entfallen.
+#### APP.4.3.A14 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -4343,7 +4343,7 @@ __Ehemals:__
 
 *Die verantwortlichen Mitarbeiter SOLLTEN zudem regelmäßig üben, wie sich Datenbanken im Notfall schnell wiederherstellen lassen.*
 
-#### APP.4.3.A15 Die Anforderung ist vollständig entfallen.
+#### APP.4.3.A15 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -4416,7 +4416,7 @@ keine inhaltlichen Änderungen.
 keine inhaltlichen Änderungen.
 
 
-#### APP.5.2.A14 Die Anforderung ist vollständig entfallen.
+#### APP.5.2.A14 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -4427,7 +4427,7 @@ __Ehemals:__
 *Die Institution SOLLTE die Benutzer von Outlook regelmäßig entsprechend dem Konzept schulen.*
 
 
-#### APP.5.2.A15 Die Anforderung ist vollständig entfallen.
+#### APP.5.2.A15 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -4442,7 +4442,7 @@ __Ehemals:__
 *Änderungen SOLLTEN nachvollziehbar dokumentiert bzw. referenziert sein.*
 
 
-#### APP.5.2.A19 Die Anforderung ist vollständig entfallen.
+#### APP.5.2.A19 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -4520,7 +4520,7 @@ __Entfallen:__
 *Für sichere Passwörter SOLLTE es eine Passwort-Richtlinie geben.*
 
 
-#### SYS.1.1.A3 Die Anforderung ist vollständig entfallen.
+#### SYS.1.1.A3 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -4543,7 +4543,7 @@ __Ehemals:__
 *Auch System-Verzeichnisse SOLLTEN nur die notwendigen Privilegien für die Benutzer zur Verfügung stellen.*
 
 
-#### SYS.1.1.A4 Die Anforderung ist vollständig entfallen.
+#### SYS.1.1.A4 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -4578,7 +4578,7 @@ __Entfallen:__
 *Voreingestellte Passwörter von Standard-Kennungen MÜSSEN geändert werden.*
 
 
-#### SYS.1.1.A7 Die Anforderung ist vollständig entfallen.
+#### SYS.1.1.A7 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -4593,7 +4593,7 @@ __Ehemals:__
 *Solange keine entsprechenden Patches zur Verfügung stehen, MÜSSEN abhängig davon, wie schwerwiegend die Schwachstellen und Bedrohungen sind, andere, geeignete Maßnahmen zum Schutz des Systems getroffen werden.*
 
 
-#### SYS.1.1.A8 Die Anforderung ist vollständig entfallen.
+#### SYS.1.1.A8 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -4691,7 +4691,7 @@ __Entfallen:__
 *Alle Installationsschritte SOLLTEN so dokumentiert werden, dass die Installation durch einen sachkundigen Dritten nachvollzogen und wiederholt werden kann.*
 
 
-#### SYS.1.1.A17 Die Anforderung ist vollständig entfallen.
+#### SYS.1.1.A17 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -4704,7 +4704,7 @@ __Ehemals:__
 *Für die Einsatzfreigabe SOLLTEN die Installations- und Konfigurationsdokumentation und die Funktionsfähigkeit des Servers in einem Test geprüft werden. Die Einsatzfreigabe SOLLTE durch eine in der Institution dafür autorisierte Stelle erfolgen.*
 
 
-#### SYS.1.1.A18 Die Anforderung ist vollständig entfallen.
+#### SYS.1.1.A18 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -4722,7 +4722,7 @@ __Hinzugefügt:__:
 Die Identität von Remote-Systemen und die Integrität der Verbindungen mit diesen SOLLTE kryptografisch abgesichert sein.
 
 
-#### SYS.1.1.A20 Die Anforderung ist vollständig entfallen.
+#### SYS.1.1.A20 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -4771,7 +4771,7 @@ Die Anforderung wurde neu hinzugefügt.
 Keine inhaltlichen Änderungen.
 
 
-#### SYS.1.1.A27 Die Anforderung ist vollständig entfallen.
+#### SYS.1.1.A27 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -4794,7 +4794,7 @@ Keine inhaltlichen Änderungen.
 Keine inhaltlichen Änderungen.
 
 
-#### SYS.1.1.A32 Die Anforderung ist vollständig entfallen.
+#### SYS.1.1.A32 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -4881,7 +4881,7 @@ __Entfallen:__
 *Die Administratoren von Windows Server 2012 SOLLTEN auf ihren eigenen Clients mit beschränkten Rechten arbeiten.*
 
 
-#### SYS.1.2.2.A7 Die Anforderung ist vollständig entfallen.
+#### SYS.1.2.2.A7 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -4899,7 +4899,7 @@ __Entfallen:__
 *Die Auswirkungen von Änderungen SOLLTEN vorab getestet werden.*
 
 
-#### SYS.1.2.2.A9 Die Anforderung ist vollständig entfallen.
+#### SYS.1.2.2.A9 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -4911,7 +4911,7 @@ __Ehemals:__
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
-#### SYS.1.2.2.A10 Die Anforderung ist vollständig entfallen.
+#### SYS.1.2.2.A10 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -4938,7 +4938,7 @@ Keine inhaltlichen Änderungen.
 Keine inhaltlichen Änderungen.
 
 
-#### SYS.1.2.2.A13 Die Anforderung ist vollständig entfallen.
+#### SYS.1.2.2.A13 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -4964,7 +4964,7 @@ Keine inhaltlichen Änderungen.
 
 #### Basis-Anforderungen
 
-#### SYS.1.3.A1 Die Anforderung ist vollständig entfallen.
+#### SYS.1.3.A1 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -5021,7 +5021,7 @@ __Hinzugefügt:__:
 Für die Authentifizierung SOLLTEN Benutzer vorrangig Zertifikate anstatt eines Passwortes verwenden.
 
 
-#### SYS.1.3.A9 Die Anforderung ist vollständig entfallen.
+#### SYS.1.3.A9 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -5039,7 +5039,7 @@ __Ehemals:__
 Keine inhaltlichen Änderungen.
 
 
-#### SYS.1.3.A11 Die Anforderung ist vollständig entfallen.
+#### SYS.1.3.A11 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -5054,7 +5054,7 @@ __Ehemals:__
 *Die mountbaren Verzeichnisse SOLLTEN nur für bestimmte IT-Systeme sowie Benutzer unter Berücksichtigung der festgelegten Berechtigungsstruktur freigegeben werden.*
 
 
-#### SYS.1.3.A12 Die Anforderung ist vollständig entfallen.
+#### SYS.1.3.A12 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -5077,7 +5077,7 @@ __Anforderung entfallen.__
 Keine inhaltlichen Änderungen.
 
 
-#### SYS.1.3.A15 Die Anforderung ist vollständig entfallen.
+#### SYS.1.3.A15 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -5103,7 +5103,7 @@ Keine inhaltlichen Änderungen.
 
 #### Basis-Anforderungen
 
-#### SYS.1.5.A1 Die Anforderung ist vollständig entfallen.
+#### SYS.1.5.A1 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -5162,7 +5162,7 @@ __Entfallen:__
 Keine inhaltlichen Änderungen.
 
 
-#### SYS.1.5.A18 Die Anforderung ist vollständig entfallen.
+#### SYS.1.5.A18 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -5198,7 +5198,7 @@ Keine inhaltlichen Änderungen.
 Keine inhaltlichen Änderungen.
 
 
-#### SYS.1.7.A10 Die Anforderung ist vollständig entfallen.
+#### SYS.1.7.A10 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -5219,7 +5219,7 @@ Keine inhaltlichen Änderungen.
 
 #### Standard-Anforderungen
 
-#### SYS.1.7.A12 Die Anforderung ist vollständig entfallen.
+#### SYS.1.7.A12 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -5232,7 +5232,7 @@ __Ehemals:__
 *Auch die Einbindung in die Prozesse der Institution, die Einhaltung der Sicherheitsvorgaben sowie der Einsatz von qualifiziertem Personal SOLLTEN bei der Planung berücksichtigt werden.*
 
 
-#### SYS.1.7.A13 Die Anforderung ist vollständig entfallen.
+#### SYS.1.7.A13 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -5250,7 +5250,7 @@ __Ehemals:__
 Keine inhaltlichen Änderungen.
 
 
-#### SYS.1.7.A15 Die Anforderung ist vollständig entfallen.
+#### SYS.1.7.A15 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -5299,7 +5299,7 @@ __Entfallen:__
 *Auch MÜSSEN Standard-Passwörter im Einklang mit der Passwortrichtlinie geändert bzw. neue Accounts angelegt werden.*
 
 
-#### SYS.1.8.A3 Die Anforderung ist vollständig entfallen.
+#### SYS.1.8.A3 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -5317,7 +5317,7 @@ __Ehemals:__
 Keine inhaltlichen Änderungen.
 
 
-#### SYS.1.8.A5 Die Anforderung ist vollständig entfallen.
+#### SYS.1.8.A5 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -5367,7 +5367,7 @@ __Entfallen:__
 *Alle Änderungen SOLLTEN zudem über das Änderungsmanagement aktiviert und mit allen beteiligten Fachverantwortlichen abgestimmt werden.*
 
 
-#### SYS.1.8.A12 Die Anforderung ist vollständig entfallen.
+#### SYS.1.8.A12 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -5450,7 +5450,7 @@ Die Bildschirmsperre DARF NUR durch eine erfolgreiche Benutzerauthentisierung de
 Die Benutzer SOLLTEN verpflichtet werden, sich nach Aufgabenerfüllung vom IT-System bzw. von der IT-Anwendung abzumelden.
 
 
-#### SYS.2.1.A2 Die Anforderung ist vollständig entfallen.
+#### SYS.2.1.A2 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -5472,7 +5472,7 @@ __Ehemals:__
 Keine inhaltlichen Änderungen.
 
 
-#### SYS.2.1.A4 Die Anforderung ist vollständig entfallen.
+#### SYS.2.1.A4 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -5493,7 +5493,7 @@ __Ehemals:__
 *Es MUSS regelmäßig getestet werden, ob die Datensicherung wie gewünscht funktioniert, vor allem, ob gesicherte Daten problemlos zurückgespielt werden können.*
 
 
-#### SYS.2.1.A5 Die Anforderung ist vollständig entfallen.
+#### SYS.2.1.A5 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -5523,7 +5523,7 @@ Der gesamte Datenbestand eines Clients MUSS regelmäßig auf Schadsoftware gepr�
 Wenn ein Client infiziert ist, MUSS im Offlinebetrieb untersucht werden, ob ein gefundenes Schadprogramm bereits vertrauliche Daten gesammelt, Schutzfunktionen deaktiviert oder Code aus dem Internet nachgeladen hat.
 
 
-#### SYS.2.1.A7 Die Anforderung ist vollständig entfallen.
+#### SYS.2.1.A7 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -5564,7 +5564,7 @@ __Entfallen:__
 Keine inhaltlichen Änderungen.
 
 
-#### SYS.2.1.A12 Die Anforderung ist vollständig entfallen.
+#### SYS.2.1.A12 Die ENTFALLEN
 
 
 __Ehemals:__
@@ -5618,7 +5618,7 @@ Keine inhaltlichen Änderungen.
 Keine inhaltlichen Änderungen.
 
 
-#### SYS.2.1.A17 Die Anforderung ist vollständig entfallen.
+#### SYS.2.1.A17 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -5652,7 +5652,7 @@ __Hinzugefügt:__:
 Neue Zertifikate von Zertifikatsausstellern SOLLTEN erst nach Überprüfung des Fingerprints aktiviert werden.
 
 
-#### SYS.2.1.A19 Die Anforderung ist vollständig entfallen.
+#### SYS.2.1.A19 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -5685,7 +5685,7 @@ __Entfallen:__
 Keine inhaltlichen Änderungen.
 
 
-#### SYS.2.1.A22 Die Anforderung ist vollständig entfallen.
+#### SYS.2.1.A22 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -5718,7 +5718,7 @@ Die unerlaubte Ausführung von Programmen auf bzw. von externen Datenträgern SO
 Es SOLLTE verhindert werden, dass über Wechsellaufwerke oder externe Schnittstellen unberechtigt Daten von den Clients kopiert werden können.
 
 
-#### SYS.2.1.A25 Die Anforderung ist vollständig entfallen.
+#### SYS.2.1.A25 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -5887,7 +5887,7 @@ __Entfallen:__
 *Alle nicht benötigten Anwendungen und Komponenten SOLLTEN deaktiviert werden.*
 
 
-#### SYS.2.2.2.A6 Die Anforderung ist vollständig entfallen.
+#### SYS.2.2.2.A6 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -5951,7 +5951,7 @@ Keine inhaltlichen Änderungen.
 
 #### Standard-Anforderungen
 
-#### SYS.2.2.3.A7 Die Anforderung ist vollständig entfallen.
+#### SYS.2.2.3.A7 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -5968,7 +5968,7 @@ __Ehemals:__
 *Sicherheitsrichtlinien SOLLTEN in jedem Fall gesetzt werden, auch dann, wenn das voreingestellte Standardverhalten dadurch nicht verändert wird.*
 
 
-#### SYS.2.2.3.A8 Die Anforderung ist vollständig entfallen.
+#### SYS.2.2.3.A8 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -5984,7 +5984,7 @@ __Ehemals:__
 Keine inhaltlichen Änderungen.
 
 
-#### SYS.2.2.3.A10 Die Anforderung ist vollständig entfallen.
+#### SYS.2.2.3.A10 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -6043,7 +6043,7 @@ __Entfallen:__
 *Auf Distributionen mit einem Rolling-Release-Modell SOLLTE verzichtet werden.*
 
 
-#### SYS.2.3.A3 Die Anforderung ist vollständig entfallen.
+#### SYS.2.3.A3 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -6119,7 +6119,7 @@ Keine inhaltlichen Änderungen.
 Keine inhaltlichen Änderungen.
 
 
-#### SYS.2.3.A16 Die Anforderung ist vollständig entfallen.
+#### SYS.2.3.A16 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -6185,7 +6185,7 @@ Keine inhaltlichen Änderungen.
 Keine inhaltlichen Änderungen.
 
 
-#### SYS.3.1.A2 Die Anforderung ist vollständig entfallen.
+#### SYS.3.1.A2 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -6201,7 +6201,7 @@ __Ehemals:__
 Keine inhaltlichen Änderungen.
 
 
-#### SYS.3.1.A4 Die Anforderung ist vollständig entfallen.
+#### SYS.3.1.A4 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -6224,7 +6224,7 @@ __Ehemals:__
 *Außerdem MUSS sichergestellt werden, dass die Benutzer keine sicherheitsrelevanten Änderungen an den Einstellungen der Antivirenprogramme vornehmen können.*
 
 
-#### SYS.3.1.A5 Die Anforderung ist vollständig entfallen.
+#### SYS.3.1.A5 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -6408,7 +6408,7 @@ Es MUSS unterbunden werden, dass sich Apps aus nicht zugelassenen Quellen instal
 Keine inhaltlichen Änderungen.
 
 
-#### SYS.3.2.1.A14 Die Anforderung ist vollständig entfallen.
+#### SYS.3.2.1.A14 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -6419,7 +6419,7 @@ __Ehemals:__
 *Im verwendeten Browser SOLLTE die Funktion „Safe Browsing“ bzw. die Funktion zur Warnung vor schädlichen Inhalten aktiviert werden.*
 
 
-#### SYS.3.2.1.A15 Die Anforderung ist vollständig entfallen.
+#### SYS.3.2.1.A15 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -6433,7 +6433,7 @@ __Ehemals:__
 Keine inhaltlichen Änderungen.
 
 
-#### SYS.3.2.1.A17 Die Anforderung ist vollständig entfallen.
+#### SYS.3.2.1.A17 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -6454,7 +6454,7 @@ Keine inhaltlichen Änderungen.
 Keine inhaltlichen Änderungen.
 
 
-#### SYS.3.2.1.A20 Die Anforderung ist vollständig entfallen.
+#### SYS.3.2.1.A20 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -6467,7 +6467,7 @@ __Ehemals:__
 *Alle freigegebenen Apps SOLLTEN intern in einem Standardkatalog veröffentlicht werden.*
 
 
-#### SYS.3.2.1.A21 Die Anforderung ist vollständig entfallen.
+#### SYS.3.2.1.A21 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -6496,7 +6496,7 @@ Die Anforderungen wurden neu hinzugefügt.
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
-#### SYS.3.2.1.A23 Die Anforderung ist vollständig entfallen.
+#### SYS.3.2.1.A23 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -6505,7 +6505,7 @@ __Ehemals:__
 *Alle Anwendungen mit vertraulichen Daten SOLLTEN durch einen zusätzlichen Mechanismus zur Authentisierung geschützt werden.*
 
 
-#### SYS.3.2.1.A24 Die Anforderung ist vollständig entfallen.
+#### SYS.3.2.1.A24 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -6595,7 +6595,7 @@ __Geändert:__
 Das MDM SOLLTE eine Black- oder White-List für die Installation von Apps ermöglichen.
 
 
-#### SYS.3.2.2.A8 Die Anforderung ist vollständig entfallen.
+#### SYS.3.2.2.A8 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -6610,7 +6610,7 @@ __Ehemals:__
 *Den Benutzern SOLLTEN die Regeln in geeigneter Weise bekannt gegeben werden.*
 
 
-#### SYS.3.2.2.A9 Die Anforderung ist vollständig entfallen.
+#### SYS.3.2.2.A9 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -6621,7 +6621,7 @@ __Ehemals:__
 *Die Sicherheits-Apps SOLLTEN durch das MDM automatisch installiert werden.*
 
 
-#### SYS.3.2.2.A10 Die Anforderung ist vollständig entfallen.
+#### SYS.3.2.2.A10 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -6634,7 +6634,7 @@ __Ehemals:__
 *Wenn Daten zwischen den mobilen Endgeräten und dem IT-Netz der Institution übertragen werden, SOLLTE durch geeignete Maßnahmen (z. B. VPN) verhindert werden, dass Unbefugte sie verändern oder einsehen können.*
 
 
-#### SYS.3.2.2.A11 Die Anforderung ist vollständig entfallen.
+#### SYS.3.2.2.A11 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -6738,7 +6738,7 @@ __Anforderung entfallen.__
 
 __Anforderung entfallen.__
 
-#### SYS.3.2.3.A10 Die Anforderung ist vollständig entfallen.
+#### SYS.3.2.3.A10 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -6749,7 +6749,7 @@ __Ehemals:__
 *Einhergehend mit der Aktivierung von „Touch ID“ oder „Face ID“ SOLLTEN die Benutzer für die Fälschbarkeit von biometrischen Merkmalen sensibilisiert werden.*
 
 
-#### SYS.3.2.3.A11 Die Anforderung ist vollständig entfallen.
+#### SYS.3.2.3.A11 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -6763,7 +6763,7 @@ __Ehemals:__
 Keine inhaltlichen Änderungen.
 
 
-#### SYS.3.2.3.A20 Die Anforderung ist vollständig entfallen.
+#### SYS.3.2.3.A20 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -6822,7 +6822,7 @@ __Keine inhaltlichen Änderungen.__
 
 #### Basis-Anforderungen
 
-#### SYS.3.2.4.A1 Die Anforderung ist vollständig entfallen.
+#### SYS.3.2.4.A1 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -6844,7 +6844,7 @@ Keine inhaltlichen Änderungen.
 Keine inhaltlichen Änderungen.
 
 
-#### SYS.3.2.4.A4 Die Anforderung ist vollständig entfallen.
+#### SYS.3.2.4.A4 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -6859,7 +6859,7 @@ Keine inhaltlichen Änderungen.
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
-#### SYS.3.2.4.A6 Die Anforderung ist vollständig entfallen.
+#### SYS.3.2.4.A6 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -6872,7 +6872,7 @@ __Ehemals:__
 *Es SOLLTE eine Software eingesetzt werden, die in unabhängigen Tests als „sehr gut“ bewertet wurde.*
 
 
-#### SYS.3.2.4.A7 Die Anforderung ist vollständig entfallen.
+#### SYS.3.2.4.A7 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -7026,7 +7026,7 @@ __Entfallen:__
 *Das Passwort DARF NUR berechtigten Benutzern bekannt sein.*
 
 
-#### SYS.4.1.A12 Die Anforderung ist vollständig entfallen.
+#### SYS.4.1.A12 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -7078,7 +7078,7 @@ __Hinzugefügt:__:
 Insbesondere SOLLTEN alle nicht benötigten Daten- und Netzschnittstellen von Druckern, Kopierern und Multifunktionsgeräten deaktiviert werden.
 
 
-#### SYS.4.1.A19 Die Anforderung ist vollständig entfallen.
+#### SYS.4.1.A19 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -7189,7 +7189,7 @@ Eine angemessene Authentisierung MUSS aktiviert sein.
 IoT-Gerate MÜSSEN in das Identitäts- und Berechtigungsmanagement der Institution integriert werden.
 
 
-#### SYS.4.4.A3 Die Anforderung ist vollständig entfallen.
+#### SYS.4.4.A3 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -7235,7 +7235,7 @@ Keine inhaltlichen Änderungen
 Keine inhaltlichen Änderungen
 
 
-#### SYS.4.4.A12 Die Anforderung ist vollständig entfallen.
+#### SYS.4.4.A12 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -7249,7 +7249,7 @@ __Ehemals:__
 Keine inhaltlichen Änderungen
 
 
-#### SYS.4.4.A14 Die Anforderung ist vollständig entfallen.
+#### SYS.4.4.A14 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -7454,7 +7454,7 @@ Ein Gesamtverantwortlicher für die Informationssicherheit im OT-Bereich MUSS be
 Er MUSS innerhalb der Institution bekannt gegeben werden.
 
 
-#### IND.1.A2 Die Anforderung ist vollständig entfallen.
+#### IND.1.A2 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -7687,7 +7687,7 @@ __Entfallen:__
 Keine inhaltlichen Änderungen.
 
 
-#### IND.2.1.A3 Die Anforderung ist vollständig entfallen.
+#### IND.2.1.A3 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -7709,7 +7709,7 @@ __Ehemals:__
 Keine inhaltlichen Änderungen.
 
 
-#### IND.2.1.A5 Die Anforderung ist vollständig entfallen.
+#### IND.2.1.A5 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -7736,7 +7736,7 @@ Vor jeder Systemänderung an einer ICS-Komponente MÜSSEN Backups erstellt werde
 Keine inhaltlichen Änderungen.
 
 
-#### IND.2.1.A9 Die Anforderung ist vollständig entfallen.
+#### IND.2.1.A9 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -7747,7 +7747,7 @@ __Ehemals:__
 *Außerdem SOLLTEN die Kommunikationsverbindungen neu integrierter ICS-Komponenten dokumentiert werden.*
 
 
-#### IND.2.1.A10 Die Anforderung ist vollständig entfallen.
+#### IND.2.1.A10 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -7769,7 +7769,7 @@ __Ehemals:__
 Keine inhaltlichen Änderungen.
 
 
-#### IND.2.1.A12 Die Anforderung ist vollständig entfallen.
+#### IND.2.1.A12 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -7799,7 +7799,7 @@ __Entfallen:__
 *umfassen.*
 
 
-#### IND.2.1.A14 Die Anforderung ist vollständig entfallen.
+#### IND.2.1.A14 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -7810,7 +7810,7 @@ __Ehemals:__
 *Es SOLLTE insbesondere sichergestellt sein, dass alle Zugangsdaten nachhaltig entfernt wurden.*
 
 
-#### IND.2.1.A15 Die Anforderung ist vollständig entfallen.
+#### IND.2.1.A15 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -7868,7 +7868,7 @@ __Geändert:__
 Steuerungsprogramme und Konfigurationen SOLLTEN immer gesichert werden, bevor an ihnen etwas verändert wird.
 
 
-#### IND.2.2.A2 Die Anforderung ist vollständig entfallen.
+#### IND.2.2.A2 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -8059,7 +8059,7 @@ Keine inhaltlichen Änderungen.
 Keine inhaltlichen Änderungen.
 
 
-#### NET.1.2.A3 Die Anforderung ist vollständig entfallen.
+#### NET.1.2.A3 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -8070,7 +8070,7 @@ __Ehemals:__
 *Das Konzept MUSS die speziellen Tätigkeiten und den zugehörigen Zugriff auf Informationen im Netzmanagement abbilden.*
 
 
-#### NET.1.2.A4 Die Anforderung ist vollständig entfallen.
+#### NET.1.2.A4 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -8085,7 +8085,7 @@ __Ehemals:__
 *Die neuen Passwörter MÜSSEN ausreichend stark sein.*
 
 
-#### NET.1.2.A5 Die Anforderung ist vollständig entfallen.
+#### NET.1.2.A5 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -8140,7 +8140,7 @@ Keine inhaltlichen Änderungen.
 Keine inhaltlichen Änderungen.
 
 
-#### NET.1.2.A19 Die Anforderung ist vollständig entfallen.
+#### NET.1.2.A19 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -8151,7 +8151,7 @@ __Ehemals:__
 *Die administrativen Zugänge SOLLTEN über einen zentralen Authentisierungsserver mittels personalisierter Konten über entsprechend sichere Protokolle authentisiert werden.*
 
 
-#### NET.1.2.A20 Die Anforderung ist vollständig entfallen.
+#### NET.1.2.A20 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -8174,7 +8174,7 @@ Keine inhaltlichen Änderungen.
 Keine inhaltlichen Änderungen.
 
 
-#### NET.1.2.A23 Die Anforderung ist vollständig entfallen.
+#### NET.1.2.A23 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -8201,7 +8201,7 @@ Keine inhaltlichen Änderungen.
 Keine inhaltlichen Änderungen.
 
 
-#### NET.1.2.A34 Die Anforderung ist vollständig entfallen.
+#### NET.1.2.A34 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -8368,7 +8368,7 @@ __Entfallen:__
 *Entsprechend dem Rechte- und Rollenkonzept MÜSSEN anschließend die vorgesehenen Benutzerkonten und -rollen eingerichtet werden.*
 
 
-#### NET.3.1.A2 Die Anforderung ist vollständig entfallen.
+#### NET.3.1.A2 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -8387,7 +8387,7 @@ __Ehemals:__
 *Sofern vom Hersteller angeboten, SOLLTEN die Update-Prüfsummen verglichen bzw. die digitalen Signaturen überprüft werden.*
 
 
-#### NET.3.1.A3 Die Anforderung ist vollständig entfallen.
+#### NET.3.1.A3 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -8489,7 +8489,7 @@ __Entfallen:__
 *Eine Firewall DARF NUR von dafür autorisierten Personen installiert und konfiguriert werden.*
 
 
-#### NET.3.2.A5 Die Anforderung ist vollständig entfallen.
+#### NET.3.2.A5 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -8533,7 +8533,7 @@ __Entfallen:__
 Keine inhaltlichen Änderungen.
 
 
-#### NET.3.2.A11 Die Anforderung ist vollständig entfallen.
+#### NET.3.2.A11 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -8552,7 +8552,7 @@ __Ehemals:__
 *Darauf MUSS auch bei zugehörigen Diensten innerhalb der Firewall geachtet werden.*
 
 
-#### NET.3.2.A12 Die Anforderung ist vollständig entfallen.
+#### NET.3.2.A12 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -8563,7 +8563,7 @@ __Ehemals:__
 *Die Aufgaben und Kompetenzen der betroffenen Mitarbeiter MÜSSEN eindeutig festgelegt werden.*
 
 
-#### NET.3.2.A13 Die Anforderung ist vollständig entfallen.
+#### NET.3.2.A13 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -8699,7 +8699,7 @@ Keine inhaltlichen Änderungen.
 Keine inhaltlichen Änderungen.
 
 
-#### NET.4.1.A3 Die Anforderung ist vollständig entfallen.
+#### NET.4.1.A3 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -8710,7 +8710,7 @@ __Ehemals:__
 *Die Änderungen MÜSSEN durchgeführt werden, bevor die TK-Anlage in Betrieb genommen wird.*
 
 
-#### NET.4.1.A4 Die Anforderung ist vollständig entfallen.
+#### NET.4.1.A4 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -8768,7 +8768,7 @@ Keine inhaltlichen Änderungen.
 Keine inhaltlichen Änderungen.
 
 
-#### NET.4.2.A2 Die Anforderung ist vollständig entfallen.
+#### NET.4.2.A2 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -8798,7 +8798,7 @@ __Entfallen:__
 *Es SOLLTE eine Regelung zur restriktiven Anmeldung von Geräten und Benutzern erstellt werden.*
 
 
-#### NET.4.2.A6 Die Anforderung ist vollständig entfallen.
+#### NET.4.2.A6 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -8833,7 +8833,7 @@ Keine inhaltlichen Änderungen
 Keine inhaltlichen Änderungen
 
 
-#### NET.4.2.A10 Die Anforderung ist vollständig entfallen.
+#### NET.4.2.A10 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -8945,7 +8945,7 @@ Die Anforderung wurde von einer Standard- zu einer Basis-Anfordrung gewandelt.
 Keine inhaltlichen Änderungen.
 
 
-#### INF.1.A11 Die Anforderung ist vollständig entfallen.
+#### INF.1.A11 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -8979,7 +8979,7 @@ Die Anforderung ist neu hinzugefügt.
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
-#### INF.1.A21 Die Anforderung ist vollständig entfallen.
+#### INF.1.A21 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -9015,7 +9015,7 @@ Keine inhaltlichen Änderungen.
 Keine inhaltlichen Änderungen.
 
 
-#### INF.1.A28 Die Anforderung ist vollständig entfallen.
+#### INF.1.A28 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -9028,7 +9028,7 @@ __Ehemals:__
 *RLT-Anlagen SOLLTEN regelmäßig gewartet werden.*
 
 
-#### INF.1.A29 Die Anforderung ist vollständig entfallen.
+#### INF.1.A29 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -9056,7 +9056,7 @@ Keine inhaltlichen Änderungen.
 Keine inhaltlichen Änderungen.
 
 
-#### INF.1.A33 Die Anforderung ist vollständig entfallen.
+#### INF.1.A33 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -9171,7 +9171,7 @@ Keine inhaltlichen Änderungen.
 Keine inhaltlichen Änderungen.
 
 
-#### INF.2.A20 Die Anforderung ist vollständig entfallen.
+#### INF.2.A20 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -9236,7 +9236,7 @@ Keine inhaltlichen Änderungen.
 Keine inhaltlichen Änderungen.
 
 
-#### INF.2.A27 Die Anforderung ist vollständig entfallen.
+#### INF.2.A27 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -9311,7 +9311,7 @@ __Entfallen:__
 *Sowohl die Trassen der Datenleitungen als auch die der Energieversorgung SOLLTEN im Gebäude über ihre gesamte Länge bis zum Raum vor unbefugten Zugriffen geschützt werden.*
 
 
-#### INF.5.A21 Die Anforderung ist vollständig entfallen.
+#### INF.5.A21 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -9397,7 +9397,7 @@ Befinden sich vertrauliche Informationen in dem Büroraum, MÜSSEN beim Verlasse
 Keine inhaltlichen Änderungen.
 
 
-#### INF.7.A4 Die Anforderung ist vollständig entfallen.
+#### INF.7.A4 Die ENTFALLEN
 
 __Ehemals:__
 
@@ -9474,7 +9474,7 @@ keine inhaltlichen Änderungen.
 keine inhaltlichen Änderungen.
 
 
-#### INF.10.A2 Die Anforderung ist vollständig entfallen.
+#### INF.10.A2 Die ENTFALLEN
 
 __Ehemals:__
 
