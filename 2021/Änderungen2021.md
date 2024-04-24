@@ -9524,12 +9524,14 @@ Der Baustein ist neu hinzugefügt worden.
 
 Der Baustein ist neu hinzugefügt worden.
 
+---
 
 
+Quellen:
 
+[BSI IT Grundschutz Kompendium Edition 2020](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Grundschutz/Kompendium/IT_Grundschutz_Kompendium_Edition2020.pdf)
 
-
-
+[BSI IT Grundschutz Kompendium Edition 2021](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Grundschutz/Kompendium/IT_Grundschutz_Kompendium_Edition2021.pdf)
 
 
 
