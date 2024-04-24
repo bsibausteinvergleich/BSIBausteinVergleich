@@ -1432,7 +1432,7 @@ Die Anforderung ist neu hinzugefügt worden.
 </details>
 
 
-### CON.10
+### NEU: CON.10
 
 Der Baustein CON.10 ist neu hinzugefügt worden.
 
@@ -1591,12 +1591,12 @@ __Entfallen:__
 *Alle beteiligten Personen MÜSSEN mit den Begriffen des Patch- und Änderungsmanagements, der Informationssicherheit und der kryptografischen Verfahren vertraut sein.*
 
 
-#### OPS.1.1.3.A15
+#### NEU: OPS.1.1.3.A15
 
 Anforderung wurde neu hinzugefügt.
 
 
-#### OPS.1.1.3.A16
+#### NEU: OPS.1.1.3.A16
 
 Anforderung wurde neu hinzugefügt.
 
@@ -2645,7 +2645,7 @@ __Ehemals:__
 
 *Die Vorgaben für die sichere Nutzung von Office-Produkten SOLLTEN in der Sicherheitsrichtlinie integriert werden.*
 
-#### APP.1.1.A17
+#### NEU: APP.1.1.A17
 
 Die Anforderung wurde neu hinzugefügt und hat zum Teil A4 ersetzt.
 
@@ -2861,7 +2861,7 @@ Außerdem MUSS sichergestellt sein, dass die Authentisierung für den kennwortge
 Der IT-Betrieb MUSS sicherstellen, dass der verwendete Browser den Benutzern die Möglichkeit bietet, gespeicherte Passwörter zu löschen.
 
 
-#### APP.1.2.A13
+#### NEU: APP.1.2.A13
 
 Die Anforderung wurd neu hinzugefügt.
 
@@ -4503,17 +4503,17 @@ Keine inhaltlichen Änderungen.
 </details>
 
 
-### APP.5.3 
+### NEU: APP.5.3 
 
 Der Baustein ist neu hinzugefügt worden.
 
 
-### APP.6
+### NEU: APP.6
 
 Der Baustein ist neu hinzugefügt worden.
 
 
-### APP.7 
+### NEU: APP.7 
 
 Der Baustein ist neu hinzugefügt worden.
 
@@ -5789,12 +5789,12 @@ Keine inhaltlichen Änderungen.
 Keine inhaltlichen Änderungen.
 
 
-#### SYS.2.1.A43
+#### NEU: SYS.2.1.A43
 
 Din Anforderung wurde neu hinzugefügt.
 
 
-#### SYS.2.1.A44
+#### NEU: SYS.2.1.A44
 
 Din Anforderung wurde neu hinzugefügt.
 
@@ -6530,7 +6530,7 @@ Keine inhaltlichen Änderungen.
 Keine inhaltlichen Änderungen.
 
 
-#### SYS.3.2.1.A31-A34
+#### NEU: SYS.3.2.1.A31-A34
 
 Die Anforderungen wurden neu hinzugefügt.
 
@@ -9017,7 +9017,7 @@ Keine inhaltlichen Änderungen.
 Die Anforderung ist von einer Standard- zu einer Basis-Anforderung geändert wurden.
 
 
-#### INF.1.A36
+#### NEU: INF.1.A36
 
 Die Anforderung ist neu hinzugefügt.
 
@@ -9493,7 +9493,7 @@ keine inhaltlichen Änderungen.
 
 keine inhaltlichen Änderungen.
 
-#### INF.9.A12
+#### NEU: INF.9.A12
 
 Die Anforderung ist neu hinzugefügt.
 
@@ -9560,13 +9560,13 @@ keine inhaltlichen Änderungen
 
 
 
-### INF.11
+### NEU: INF.11
 
 Der Baustein ist neu hinzugefügt worden.
 
 
 
-### INF.12
+### NEU: INF.12
 
 Der Baustein ist neu hinzugefügt worden.
 
