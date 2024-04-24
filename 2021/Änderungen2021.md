@@ -284,7 +284,7 @@ __Entfallen:__
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
-#### ORP.1.A14 Diese ENTFALLEN
+#### ORP.1.A14 ENTFALLEN
 
 __Ehemals:__
 
@@ -371,7 +371,7 @@ Keine inhaltlichen Änderungen.
 
 #### Standard-Anforderungen
 
-#### ORP.2.A6 Diese ENTFALLEN
+#### ORP.2.A6 ENTFALLEN
 
 __Ehemals:__
 
