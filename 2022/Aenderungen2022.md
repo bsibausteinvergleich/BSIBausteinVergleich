@@ -378,6 +378,8 @@ Keine Inhaltlichen Änderungen
 <summary> Änderungen
 </summary>
 
+#### Basis-Anforderungen
+
 #### APP.3.1.A1
 
 __Geändert:__
@@ -416,6 +418,7 @@ Der IT-Betrieb MUSS sicherstellen, dass Zugangsdaten zur Webanwendung oder zum W
 
 Die Dateien mit den Quelltexten der Webanwendung oder des Webservices MÜSSEN vor unerlaubten Abrufen geschützt werden.
 
+#### Standard-Anforderungen
 
 #### APP.3.1.A8
 
@@ -462,6 +465,7 @@ __Geändert:__
 
 Webanwendungen und Webservices SOLLTEN regelmäßig auf Sicherheitsprobleme hin überprüft werden.
 
+#### Anforderungen bei erhöhtem Schutzbedarf
 
 #### APP.3.1.A20
 
@@ -489,6 +493,8 @@ Keine inhaltlichen Veränderungen.
 <summary> Änderungen
 </summary>
 
+#### Basis-Anforderungen
+
 #### APP.3.4.A1
 
 __Geändert:__
@@ -515,6 +521,9 @@ Keine inhaltlichen Veränderungen.
 <details> 
 <summary> Änderungen
 </summary>
+
+
+#### Anforderungen bei erhöhtem Schutzbedarf
 
 #### APP.4.3.A25
 
@@ -553,6 +562,8 @@ Keine inhaltlichen Änderungen
 <details> 
 <summary> Änderungen
 </summary>
+
+#### Standard-Anforderungen
 
 #### APP.6.A8
 
