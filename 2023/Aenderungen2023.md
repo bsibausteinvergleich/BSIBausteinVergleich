@@ -734,6 +734,8 @@ Keine inhaltlichen Änderungen
 <summary> Änderungen
 </summary>
 
+#### Basis-Anforderungen
+
 #### APP.1.2.A13
 
 ##### Neu:
@@ -755,6 +757,7 @@ Keine inhaltlichen Änderungen
 
 *Falls DoH verwendet wird, MUSS die Institution einen vertrauenswürdigen DoH-Server festlegen.*
 
+#### Standard-Anforderungen
 
 #### APP.1.2.A7
 
@@ -779,6 +782,8 @@ Keine inhaltlichen Änderungen.
 <details>
 <summary> Änderungen
 </summary>
+
+#### Basis-Anforderungen
 
 #### APP.2.1.A2
 
@@ -811,10 +816,11 @@ __Geändert:__
 *Sofern der Verzeichnisdienst zur Verwaltung von Anmeldedaten verwendet wird, MÜSSEN dedizierte Clients bei der Fernwartung eingesetzt werden.*
 
 
-##### APP.2.1.17
+#### APP.2.1.17
 
 Die Basis-Anforderung wurde neu hinzugefügt.
 
+#### Standard-Anforderungen
 
 #### APP.2.1.A7 ist entfallen
 
@@ -898,6 +904,7 @@ Die Standard-Anforderung wurde neu hinzugefügt.
 
 Die Standard-Anforderung wurde neu hinzugefügt.
 
+#### Anforderungen bei erhöhtem Schutzbedarf
 
 #### APP.2.1.A20
 
@@ -915,6 +922,8 @@ Die Anforderung erhöhten Schutzbedarfs wurde neu hinzugefügt.
 <details>
 <summary> Änderungen
 </summary>
+
+#### Basis-Anforderungen
 
 #### APP.2.2.A1
 
@@ -969,6 +978,7 @@ Die Basis-Anforderung wurde neu hinzugefügt.
 
 Die Basis-Anforderung wurde neu hinzugefügt.
 
+#### Standard-Anforderungen
 
 #### APP.2.2.A8
 
@@ -997,6 +1007,7 @@ Die Anforderung wurde inhaltlich vollständig überarbeitet.
 
 Die Anforderung wurde inhaltlic vollständig überarbeitet.
 
+#### Anforderungen bei erhöhtem Schutzbedarf
 
 #### APP.2.2.A14 entfallen
 
@@ -1037,6 +1048,8 @@ Die Anforderung für erhöhten Schutzbedarf wurde neu hinzugefügt.
 <details>
 <summary> Änderungen
 </summary>
+
+#### Standard-Anforderungen
 
 #### APP.2.3.A9
 
@@ -1092,6 +1105,8 @@ Keine inhaltlichen Änderungen.
 <summary> Änderungen
 </summary>
 
+#### Standard-Anforderungen
+
 #### APP.3.4.A6
 
 ##### Entfallen:
@@ -1136,6 +1151,8 @@ Keine inhaltlihcen Änderungen.
 <summary> Änderungen
 </summary>
 
+#### Basis-Anforderungen
+
 #### APP.5.3.A1
 
 __Geändert:__
@@ -1160,6 +1177,7 @@ __Geändert:__
 
 *Für den E-Mail-Empfang über nicht vertrauenswürdige Netze MÜSSEN E-Mail-Server eine sichere Transportverschlüsselung anbieten.*
 
+#### Standard-Anforderungen
 
 #### APP.5.3.A6
 
