@@ -7945,6 +7945,7 @@ Verantwortlich wurde durch Zuständig ersetzt.
 
 Sonst keine inhaltlichen Änderungen.
 
+</details>
 
 
 ---
@@ -7955,11 +7956,13 @@ Sonst keine inhaltlichen Änderungen.
 
 ### NET.1.1
 
-Verantwortlich wurde durch Zuständig ersetzt.
-
 <details>
 <summary> Änderungen
 </summary>
+
+Verantwortlich wurde durch Zuständig ersetzt.
+
+#### Basis-Anforderungen
 
 #### NET.1.1.A1
 
@@ -7984,8 +7987,13 @@ __Entfallen:__
 
 *Der Internetzugang MUSS entsprechend NET.1.1.A4 Netztrennung in Sicherheitszonen gestaltet werden.*
 
+#### NET.1.1.A9-A15
 
-#### NET.1.1.A9-A17
+Keine inhaltlichen Änderungen.
+
+#### Standard-Anforderungen
+
+#### NET.1.1.A16-A17
 
 Keine inhaltlichen Änderungen.
 
@@ -8020,8 +8028,13 @@ Die interne Firewall MUSS zudem die Angriffsfläche des ALGs oder der Sicherheit
 
 Authentisierte und vertrauenswürdige Netzzugriffe vom VPN-Gateway ins interne Netz SOLLTEN NICHT das ALG oder die Sicherheits-Proxies der P-A-P-Struktur durchlaufen.
 
+#### NET.1.1.A18-A27
 
-#### NET.1.1.A18-A36
+Keine inhaltlichen Änderungen.
+
+#### Anforderungen bei erhöhtem Schutzbedarf
+
+#### NET.1.1.A28-A36
 
 Keine inhaltlichen Änderungen.
 
@@ -8033,6 +8046,8 @@ Keine inhaltlichen Änderungen.
 <details>
 <summary> Änderungen
 </summary>
+
+#### Basis-Anforderungen
 
 #### NET.1.2.A1
 
@@ -8114,8 +8129,13 @@ __Hinzugefügt:__:
 
 Falls von einem Netz außerhalb der Managementnetze auf Netzmanagement-Werkzeuge zugegriffen wird, MÜSSEN als sicher geltende Authentisierungs- und Verschlüsselungsmethoden realisiert werden.
 
+#### NET.1.2.A10
 
-#### NET.1.2.A10-A18
+Keine inhaltlichen Änderungen.
+
+#### Standard-Anforderungen
+
+#### NET.1.2.A11-A18
 
 Keine inhaltlichen Änderungen.
 
@@ -8170,8 +8190,13 @@ __Ehemals:__
 
 *Wenn Daten archiviert werden, SOLLTE darauf geachtet werden, dass dies gesetzeskonform und revisionssicher durchgeführt wird.*
 
+#### NET.1.2.A24-A29
 
-#### NET.1.2.A24-A33
+Keine inhaltlichen Änderungen.
+
+#### Anforderungen bei erhöhtem Schutzbedarf
+
+#### NET.1.2.A30-A33
 
 Keine inhaltlichen Änderungen.
 
@@ -8220,6 +8245,8 @@ Keine inhaltlichen Änderungen.
 <summary> Änderungen
 </summary>
 
+#### Basis-Anforderungen
+
 #### NET.2.1.A1-A5
 
 Keine inhaltlichen Änderungen.
@@ -8247,6 +8274,7 @@ __Entfallen:__
 
 *Die möglichen Konsequenzen sicherheitskritischer Ereignisse MÜSSEN untersucht werden.*
 
+#### Standard-Anforderungen
 
 #### NET.2.1.A9
 
@@ -8259,8 +8287,13 @@ __Hinzugefügt:__:
 
 Werden die Inhalte der Richtlinie nicht umgesetzt, MUSS geeignet reagiert werden.
 
+#### NET.2.1.A11-A14
 
-#### NET.2.1.A11-A18
+Keine inhaltlichen Änderungen.
+
+#### Anforderungen bei erhöhtem Schutzbedarf
+
+#### NET.2.1.A15-A18
 
 Keine inhaltlichen Änderungen.
 
@@ -8272,6 +8305,8 @@ Keine inhaltlichen Änderungen.
 <details>
 <summary> Änderungen
 </summary>
+
+#### Basis-Anforderungen
 
 #### NET.2.2.A1
 
@@ -8297,6 +8332,7 @@ __Hinzugefügt:__:
 
 • Wird die WLAN-Schnittstelle über einen längeren Zeitraum nicht genutzt, MUSS diese deaktiviert werden.
 
+#### Standard-Anforderungen
 
 #### NET.2.2.A4
 
@@ -8314,6 +8350,8 @@ Wird die WLAN-Schnittstelle über einen längeren Zeitraum nicht genutzt, MUSS d
 <details>
 <summary> Änderungen
 </summary>
+
+#### Basis-Anforderungen
 
 #### NET.3.1.A1
 
@@ -8387,8 +8425,13 @@ __Entfallen:__
 
 *Änderungen an der Konfiguration SOLLTEN zudem automatisch protokolliert werden.*
 
+#### NET.3.1.A8-A9
 
-#### NET.3.1.A8-A21
+Keine inhaltlichen Änderungen.
+
+#### Standard-Anforderungen
+
+#### NET.3.1.A10-A21
 
 Keine inhaltlichen Änderungen.
 
@@ -8399,8 +8442,13 @@ __Hinzugefügt:__:
 
 Außerdem SOLLTE geplant und vorbereitet werden, wie die identifizierten Fehler behoben werden können.
 
+#### NET.3.1.A23
 
-#### NET.3.1.A23-A28
+Keine inhaltlichen Änderungen.
+
+#### Anforderungen bei erhöhtem Schutzbedarf
+
+#### NET.3.1.A24-A28
 
 Keine inhaltlichen Änderungen.
 
@@ -8412,6 +8460,8 @@ Keine inhaltlichen Änderungen.
 <details>
 <summary> Änderungen
 </summary>
+
+#### Basis-Anforderungen
 
 #### NET.3.2.A1
 
@@ -8532,8 +8582,13 @@ __Entfallen:__
 
 *Änderungen an der Konfiguration MÜSSEN zudem möglichst automatisch protokolliert werden.*
 
+#### NET.3.2.A15
 
-#### NET.3.2.A15-A22
+Keine inhaltlichen Änderungen.
+
+#### Standard-Anforderungen
+
+#### NET.3.2.A16-A22
 
 Keine inhaltlichen Änderungen.
 
@@ -8554,6 +8609,7 @@ Keine inhaltlichen Änderungen.
 
 Die Anforderung wurde neu hinzugefügt.
 
+#### Anforderungen bei erhöhtem Schutzbedarf
 
 #### NET.3.2.A25-A31
 
@@ -8567,6 +8623,8 @@ Keine inhaltlichen Änderungen.
 <details>
 <summary> Änderungen
 </summary>
+
+#### Basis-Anforderungen
 
 #### NET.3.3.A1
 
@@ -8584,8 +8642,13 @@ __Entfallen:__
 
 *Das zugrunde liegende Betriebssystem der VPN-Plattform MUSS sicher konfiguriert werden.*
 
+#### NET.3.3.A4-A5
 
-#### NET.3.3.A4-A10
+Keine inhaltlichen Änderungen.
+
+#### Standard-Anforderungen
+
+#### NET.3.3.A6-A10
 
 Keine inhaltlichen Änderungen.
 
@@ -8624,6 +8687,8 @@ Keine inhaltlichen Änderungen.
 <summary> Änderungen
 </summary>
 
+#### Basis-Anforderungen
+
 #### NET.4.1.A1
 
 Keine inhaltlichen Änderungen.
@@ -8659,8 +8724,13 @@ __Ehemals:__
 
 *Alle anderen Remote-Zugänge MÜSSEN vor unberechtigtem Zugriff geschützt und auf die notwendigen Personen beschränkt werden.*
 
+#### NET.4.1.A5
 
-#### NET.4.1.A5-A16
+Keine inhaltlichen Änderungen.
+
+#### Standard-Anforderungen
+
+#### NET.4.1.A6-A16
 
 Keine inhaltlichen Änderungen.
 
@@ -8671,6 +8741,7 @@ __Entfallen:__
 
 *Die Datenverbindungen bei IP-basierten Zugängen zur TK-Anlage SOLLTEN verschlüsselt sein.*
 
+#### Anforderungen bei erhöhtem Schutzbedarf
 
 #### NET.4.1.A18
 
@@ -8689,6 +8760,8 @@ Keine inhaltlichen Änderungen.
 <details>
 <summary> Änderungen
 </summary>
+
+#### Basis-Anforderungen
 
 #### NET.4.2.A1
 
@@ -8741,6 +8814,7 @@ __Ehemals:__
 
 *Die Protokolldaten SOLLTEN zeitnah ausgewertet werden.*
 
+#### Standard-Anforderungen
 
 #### NET.4.2.A7
 
@@ -8769,11 +8843,15 @@ __Ehemals:__
 
 *Die Maßnahmen SOLLTEN die individuellen Einsatzgebiete der Administration von VoIP sowie typische Situationen im Fehlermanagement abdecken.*
 
-
-#### NET.4.2.A11-A14
+#### NET.4.2.A11-A13
 
 Keine inhaltlichen Änderungen
 
+#### Anforderungen bei erhöhtem Schutzbedarf
+
+#### NET.4.2.A14
+
+Keine inhaltlichen Änderungen
 
 #### NET.4.2.A15
 
