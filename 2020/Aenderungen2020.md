@@ -1085,59 +1085,20 @@ Nach einem Angriff MÜSSEN alle Zugangsdaten auf den betroffenen Komponenten ge�
 
 #### Standard-Anforderungen
 
-#### DER.2.1.A7
-Keine inhaltlichen Änderungen.
 
 #### DER.2.1.A8
 __Ergänzung:__ Gegebenenfalls SOLLTE das Sicherheitsvorfall-Team neu zusammengestellt werden.
 
-#### DER.2.1.A9
-Keine inhaltlichen Änderungen.
-
-#### DER.2.1.A10
-Keine inhaltlichen Änderungen.
-
-#### DER.2.1.A11
-Keine inhaltlichen Änderungen.
-
-#### DER.2.1.A12
-Keine inhaltlichen Änderungen.
-
-#### DER.2.1.A13
-Keine inhaltlichen Änderungen.
-
 #### DER.2.1.A14
 __Ergänzung:__ (...) wie z. B. Ticket-Systeme (...)
 
-#### DER.2.1.A15
-Keine inhaltlichen Änderungen.
-
-#### DER.2.1.A16
-Keine inhaltlichen Änderungen.
-
-#### DER.2.1.A17
-Keine inhaltlichen Änderungen.
-
-#### DER.2.1.A18
-Keine inhaltlichen Änderungen.
-
 #### Anforderungen bei erhöhtem Schutzbedarf
-
-#### DER.2.1.A19
-Keine inhaltlichen Änderungen.
-
-#### DER.2.1.A20
-Keine inhaltlichen Änderungen.
-
-#### DER.2.1.A21
-Keine inhaltlichen Änderungen.
 
 #### DER.2.1.A22
 __Änderung:__\
 Es SOLLTEN die Messgrößen ausgewertet werden, die anfallen, wenn Sicherheitsvorfälle aufgenommen, gemeldet und eskaliert werden, z. B. die Zeiträume von der Erstmeldung bis zur verbindlichen Bestätigung eines Sicherheitsvorfalls.
 
 </details>
-
 
 ### DER.2.2
 <details>
@@ -1150,99 +1111,13 @@ Es SOLLTEN die Messgrößen ausgewertet werden, die anfallen, wenn Sicherheitsvo
 __Entfallen:__\
 Im Einzelfall kann es jedoch notwendig sein, das Interesse der Institution gegen das der Mitarbeiter abzuwägen.
 
-#### DER.2.2.A2
-Keine inhaltlichen Änderungen.
-
-#### DER.2.2.A3
-Keine inhaltlichen Änderungen.
-
 #### Standard-Anforderungen
-
-#### DER.2.2.A4
-Keine inhaltlichen Änderungen.
-
-#### DER.2.2.A5
-Keine inhaltlichen Änderungen.
-
-#### DER.2.2.A6
-Keine inhaltlichen Änderungen.
-
-#### DER.2.2.A7
-Keine inhaltlichen Änderungen.
-
-#### DER.2.2.A8
-Keine inhaltlichen Änderungen.
-
-#### DER.2.2.A9
-Keine inhaltlichen Änderungen.
 
 #### DER.2.2.A10
 __Änderung:__\
 Es SOLLTEN schriftlich dokumentierte kryptografische Prüfsummen von den Datenträgern angelegt werden.
 
-#### DER.2.2.A11
-Keine inhaltlichen Änderungen.
-
-#### DER.2.2.A12
-Keine inhaltlichen Änderungen.
-
-#### Anforderungen bei erhöhtem Schutzbedarf
-
-#### DER.2.2.A13
-Keine inhaltlichen Änderungen.
-
-#### DER.2.2.A14
-Keine inhaltlichen Änderungen.
-
-#### DER.2.2.A15
-Keine inhaltlichen Änderungen.
-
 </details>
-
-
-### DER.2.3
-<details>
-<summary> Änderungen
-</summary>
-
-#### Basis-Anforderungen
-
-#### DER.2.3.A1
-Keine inhaltlichen Änderungen.
-
-#### DER.2.3.A2
-Keine inhaltlichen Änderungen.
-
-#### DER.2.3.A3
-Keine inhaltlichen Änderungen.
-
-#### DER.2.3.A4
-Keine inhaltlichen Änderungen.
-
-#### DER.2.3.A5
-Keine inhaltlichen Änderungen.
-
-#### DER.2.3.A6
-Keine inhaltlichen Änderungen.
-
-#### Standard-Anforderungen
-
-#### DER.2.3.A7
-Keine inhaltlichen Änderungen.
-
-#### DER.2.3.A8
-Keine inhaltlichen Änderungen.
-
-#### Anforderungen bei erhöhtem Schutzbedarf
-
-#### DER.2.3.A9
-Keine inhaltlichen Änderungen.
-
-#### DER.2.3.A10
-Keine inhaltlichen Änderungen.
-
-</details>
-
 
 ### DER.3.1
 <details>
@@ -1254,20 +1129,6 @@ Keine inhaltlichen Änderungen.
 #### DER.3.1.A1
 __Änderung:__\
 Der Verantwortliche MUSS sicherstellen, dass die Ergebnisse der Audits und Revisionen dazu verwendet werden, um die Sicherheitsmaßnahmen zu verbessern.
-
-#### DER.3.1.A2
-Keine inhaltlichen Änderungen.
-
-#### DER.3.1.A3
-Keine inhaltlichen Änderungen.
-
-#### DER.3.1.A4
-Keine inhaltlichen Änderungen.
-
-#### Standard-Anforderungen
-
-#### DER.3.1.A5
-Keine inhaltlichen Änderungen.
 
 #### DER.3.1.A6
 __Änderung:__ Die Institution SOLLTE eine einheitliche Prüfungsgrundlage für Audits festlegen.
@@ -1283,73 +1144,19 @@ Der ISB SOLLTE Reserven für unvorhergesehene Ereignisse in der jährlichen Ress
 __Änderung:__\
 Der ISB SOLLTE eine oder mehrere Revisionslisten pflegen, die den aktuellen Stand der Revisionsobjekte sowie die geplanten Revisionen dokumentieren.
 
-#### DER.3.1.A9
-Keine inhaltlichen Änderungen.
-
-#### DER.3.1.A10
-Keine inhaltlichen Änderungen.
-
 #### DER.3.1.A11
 __Änderung:__ Das Auditteam SOLLTE klare Regelungen (...)
 
 __Änderung:__ Das Auditteam SOLLTE durch geeignete Maßnahmen (...)
 
-#### DER.3.1.A12
-Keine inhaltlichen Änderungen.
-
-#### DER.3.1.A13
-Keine inhaltlichen Änderungen.
-
 #### DER.3.1.A14
-__Änderung:__"Maßnahmen" _ersetz durch_ "Anforderungen"
-
-#### DER.3.1.A15
-Keine inhaltlichen Änderungen.
-
-#### DER.3.1.A16
-Keine inhaltlichen Änderungen.
-
-#### DER.3.1.A17
-Keine inhaltlichen Änderungen.
-
-#### DER.3.1.A18
-Keine inhaltlichen Änderungen.
-
-#### DER.3.1.A19
-Keine inhaltlichen Änderungen.
-
-#### DER.3.1.A20
-Keine inhaltlichen Änderungen.
-
-#### DER.3.1.A21
-Keine inhaltlichen Änderungen.
+__Änderung:__"Maßnahmen" _ersetz durch_ "Anforderungen".
 
 #### DER.3.1.A22
 __Entfallen:__\
 Die Ergebnisse des Audits SOLLTEN den Verantwortlichen in einer Präsentation erläutert werden.
 
-#### DER.3.1.A23
-Keine inhaltlichen Änderungen.
-
-#### DER.3.1.A24
-Keine inhaltlichen Änderungen.
-
-#### DER.3.1.A25
-Keine inhaltlichen Änderungen.
-
-#### DER.3.1.A26
-Keine inhaltlichen Änderungen.
-
-#### DER.3.1.A27
-Keine inhaltlichen Änderungen.
-
-#### Anforderungen bei erhöhtem Schutzbedarf
-
-#### DER.3.1.A28
-Keine inhaltlichen Änderungen.
-
 </details>
-
 
 ### DER.3.2
 <details>
@@ -1358,31 +1165,13 @@ Keine inhaltlichen Änderungen.
 
 #### Basis-Anforderungen
 
-#### DER.3.2.A1
-Keine inhaltlichen Änderungen.
-
-#### DER.3.2.A2
-Keine inhaltlichen Änderungen.
-
-#### DER.3.2.A3
-Keine inhaltlichen Änderungen.
-
 #### DER.3.2.A4
 __Änderung:__\
 Wenn die Institution nicht nach ISO 27001 auf Basis von IT-Grundschutz zertifiziert ist, MÜSSEN der Verantwortliche für die IS-Revision und die Institutionsleitung sicherstellen, dass mindestens alle drei Jahre eine IS-Kurz- oder Querschnitts-Revision durchgeführt wird.
 
-#### DER.3.2.A5
-Keine inhaltlichen Änderungen.
-
 #### DER.3.2.A6
 __Entfallen:__\
 Die Institutionsleitung MUSS das IS-Revisionsverfahren initiieren.
-
-#### DER.3.2.A7
-Keine inhaltlichen Änderungen.
-
-#### DER.3.2.A8
-Keine inhaltlichen Änderungen.
 
 #### Standard-Anforderungen
 
@@ -1390,53 +1179,13 @@ Keine inhaltlichen Änderungen.
 __Änderung:__\
 Der Informationssicherheitsbeauftragte SOLLTE sicherstellen, dass IS-Revisionen ein Teil des Sicherheitsprozesses sind.
 
-#### DER.3.2.A10
-Keine inhaltlichen Änderungen.
-
-#### DER.3.2.A11
-Keine inhaltlichen Änderungen.
-
-#### DER.3.2.A12
-Keine inhaltlichen Änderungen.
-
-#### DER.3.2.A13
-Keine inhaltlichen Änderungen.
-
-#### DER.3.2.A14
-Keine inhaltlichen Änderungen.
-
 #### DER.3.2.A15
-Keine inhaltlichen Änderungen.
-
-#### DER.3.2.A16
-Keine inhaltlichen Änderungen.
-
-#### DER.3.2.A17
-Keine inhaltlichen Änderungen.
-
-#### DER.3.2.A18
-Keine inhaltlichen Änderungen.
-
-#### DER.3.2.A19
-Keine inhaltlichen Änderungen.
-
-#### DER.3.2.A20
-Keine inhaltlichen Änderungen.
-
-#### DER.3.2.A21
-Keine inhaltlichen Änderungen.
 
 #### DER.3.2.A22
 __Änderung:__\
 Die im IS-Revisionsbericht festgestellten Abweichungen SOLLTEN in einer angemessenen Zeit durch den ISB korrigiert werden.
 
-#### Anforderungen bei erhöhtem Schutzbedarf
-
-#### DER.3.2.A23
-Keine inhaltlichen Änderungen.
-
 </details>
-
 
 ### DER.4
 <details>
@@ -1445,47 +1194,17 @@ Keine inhaltlichen Änderungen.
 
 #### Standard-Anforderungen
 
-#### DER.4.A1
-Keine inhaltlichen Änderungen.
-
 #### DER.4.A2
 __Änderung:__\
 DER.4.A2 Integration von Notfallmanagement und Informationssicherheitsmanagement [Informationssicherheitsbeauftragter (ISB)] (S)
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
-#### DER.4.A3
-Keine inhaltlichen Änderungen.
-
-#### DER.4.A4
-Keine inhaltlichen Änderungen.
-
-#### DER.4.A5
-Keine inhaltlichen Änderungen.
-
-#### DER.4.A6
-Keine inhaltlichen Änderungen.
-
-#### DER.4.A7
-Keine inhaltlichen Änderungen.
-
-#### DER.4.A8
-Keine inhaltlichen Änderungen.
-
 #### DER.4.A9
 __Ergänzung:__ (...) und Fachaufgaben (...)
 
-#### DER.4.A10
-Keine inhaltlichen Änderungen.
-
 #### DER.4.A11 ENTFALLEN
 __Diese Anforderung ist entfallen.__
-
-#### DER.4.A12
-Keine inhaltlichen Änderungen.
-
-#### DER.4.A13
-Keine inhaltlichen Änderungen.
 
 #### DER.4.A14
 __Ergänzung:__\
@@ -1495,11 +1214,7 @@ Die Überprüfungen SOLLTEN so geplant werden, dass kein relevanter Teil ausgela
 __Änderung:__\
 Diese Messgrößen SOLLTEN regelmäßig ermittelt und mit geeigneten vorangegangenen Werten, mindestens aber mit den Vorjahreswerten, verglichen werden.
 
-#### DER.4.A16
-Keine inhaltlichen Änderungen.
-
 </details>
-
 ___
 ## APP
 ### APP.1.1
@@ -1507,27 +1222,10 @@ ___
 <summary> Änderungen
 </summary>
 
-#### Basis-Anforderungen
-
-#### APP.1.1.A1
-Keine inhaltlichen Änderungen.
-
-#### APP.1.1.A2
-Keine inhaltlichen Änderungen.
-
-#### APP.1.1.A3
-Keine inhaltlichen Änderungen.
-
-#### APP.1.1.A4
-Keine inhaltlichen Änderungen.
-
 #### Standard-Anforderungen
 
 #### APP.1.1.A5
 3.2 Standard-Anforderungen
-
-#### APP.1.1.A6
-Keine inhaltlichen Änderungen.
 
 #### APP.1.1.A7
 __Ergänzung:__\
@@ -1537,35 +1235,11 @@ Die Standardkonfiguration SOLLTE explizit freigegeben werden.
 __Entfallen:__\
 Darüber hinaus SOLLTEN die verschiedenen Konfigurationen der installierten Office-Produkte dokumentiert werden.
 
-#### APP.1.1.A9
-Keine inhaltlichen Änderungen.
-
-#### APP.1.1.A10
-Keine inhaltlichen Änderungen.
-
-#### APP.1.1.A11
-Keine inhaltlichen Änderungen.
-
-#### APP.1.1.A12
-Keine inhaltlichen Änderungen.
-
 #### APP.1.1.A13
 __Änderung:__\
 Es SOLLTE eine Liste vertrauenswürdiger Orte definiert werden, von denen Inhalte unmittelbar geöffnet und bearbeitet werden können.
 
-#### APP.1.1.A14
-Keine inhaltlichen Änderungen.
-
-#### Anforderungen bei erhöhtem Schutzbedarf
-
-#### APP.1.1.A15
-Keine inhaltlichen Änderungen.
-
-#### APP.1.1.A16
-Keine inhaltlichen Änderungen.
-
 </details>
-
 
 ### APP.1.2
 <details>
@@ -1578,46 +1252,11 @@ Keine inhaltlichen Änderungen.
 __Ergänzung:__\
 Der verwendete Webbrowser SOLLTE die aktuelle Version der Content Security Policy (CSP) gemäß den Spezifikationen des World Wide Web Consortium (W3C) umsetzen.
 
-#### APP.1.2.A2
-Keine inhaltlichen Änderungen.
-
-#### APP.1.2.A3
-Keine inhaltlichen Änderungen.
-
-#### APP.1.2.A4
-Keine inhaltlichen Änderungen.
-
-#### Standard-Anforderungen
-
-#### APP.1.2.A5
-Keine inhaltlichen Änderungen.
-
-#### APP.1.2.A6
-Keine inhaltlichen Änderungen.
-
 #### APP.1.2.A7
 __Änderung:__\
 APP.1.2.A7 Datensparsamkeit in Webbrowsern [Benutzer] (S)
 
-#### APP.1.2.A8
-Keine inhaltlichen Änderungen.
-
-#### Anforderungen bei erhöhtem Schutzbedarf
-
-#### APP.1.2.A9
-Keine inhaltlichen Änderungen.
-
-#### APP.1.2.A10
-Keine inhaltlichen Änderungen.
-
-#### APP.1.2.A11
-Keine inhaltlichen Änderungen.
-
-#### APP.1.2.A12
-Keine inhaltlichen Änderungen.
-
 </details>
-
 
 ### APP.1.4
 <details>
@@ -1630,52 +1269,6 @@ Keine inhaltlichen Änderungen.
 __Änderung:__\
 (...) unter Einbeziehung der jeweiligen Fachverantwortlichen (...)
 
-#### APP.1.4.A2
-Keine inhaltlichen Änderungen.
-
-#### APP.1.4.A3
-Keine inhaltlichen Änderungen.
-
-#### APP.1.4.A4
-Keine inhaltlichen Änderungen.
-
-#### APP.1.4.A5
-Keine inhaltlichen Änderungen.
-
-#### APP.1.4.A6
-Keine inhaltlichen Änderungen.
-
-#### APP.1.4.A7
-Keine inhaltlichen Änderungen.
-
-#### APP.1.4.A8
-Keine inhaltlichen Änderungen.
-
-#### Standard-Anforderungen
-
-#### APP.1.4.A9
-Keine inhaltlichen Änderungen.
-
-#### APP.1.4.A10
-Keine inhaltlichen Änderungen.
-
-#### APP.1.4.A11
-Keine inhaltlichen Änderungen.
-
-#### APP.1.4.A12
-Keine inhaltlichen Änderungen.
-
-#### Anforderungen bei erhöhtem Schutzbedarf
-
-#### APP.1.4.A13
-Keine inhaltlichen Änderungen.
-
-#### APP.1.4.A14
-Keine inhaltlichen Änderungen.
-
-#### APP.1.4.A15
-Keine inhaltlichen Änderungen.
-
 </details>
 
 
@@ -1684,174 +1277,24 @@ Keine inhaltlichen Änderungen.
 <summary> Änderungen
 </summary>
 
-#### Basis-Anforderungen
-
-#### APP.2.1.A1
-Keine inhaltlichen Änderungen.
-
-#### APP.2.1.A2
-Keine inhaltlichen Änderungen.
-
-#### APP.2.1.A3
-Keine inhaltlichen Änderungen.
-
-#### APP.2.1.A4
-Keine inhaltlichen Änderungen.
-
-#### APP.2.1.A5
-Keine inhaltlichen Änderungen.
-
-#### APP.2.1.A6
-Keine inhaltlichen Änderungen.
-
 #### Standard-Anforderungen
-
-#### APP.2.1.A7
-Keine inhaltlichen Änderungen.
-
-#### APP.2.1.A8
-Keine inhaltlichen Änderungen.
-
-#### APP.2.1.A9
-Keine inhaltlichen Änderungen.
-
-#### APP.2.1.A10
-Keine inhaltlichen Änderungen.
-
-#### APP.2.1.A11
-Keine inhaltlichen Änderungen.
-
-#### APP.2.1.A12
-Keine inhaltlichen Änderungen.
 
 #### APP.2.1.A13
 __Entfallen:__\
 (...) dies gilt insbesondere bei Außenanbindungen.
-
-#### APP.2.1.A14
-Keine inhaltlichen Änderungen.
-
-#### APP.2.1.A15
-Keine inhaltlichen Änderungen.
-
-#### Anforderungen bei erhöhtem Schutzbedarf
-
-#### APP.2.1.A16
-Keine inhaltlichen Änderungen.
-
-</details>
-
-
-### APP.2.2
-<details>
-<summary> Änderungen
-</summary>
-
-#### Basis-Anforderungen
-
-#### APP.2.2.A1
-Keine inhaltlichen Änderungen.
-
-#### APP.2.2.A2
-Keine inhaltlichen Änderungen.
-
-#### APP.2.2.A3
-Keine inhaltlichen Änderungen.
-
-#### APP.2.2.A4
-Keine inhaltlichen Änderungen.
-
-#### APP.2.2.A5
-Keine inhaltlichen Änderungen.
-
-#### APP.2.2.A6
-Keine inhaltlichen Änderungen.
-
-#### APP.2.2.A7
-Keine inhaltlichen Änderungen.
-
-#### Standard-Anforderungen
-
-#### APP.2.2.A8
-Keine inhaltlichen Änderungen.
-
-#### APP.2.2.A9
-Keine inhaltlichen Änderungen.
-
-#### APP.2.2.A10
-Keine inhaltlichen Änderungen.
-
-#### APP.2.2.A11
-Keine inhaltlichen Änderungen.
-
-#### APP.2.2.A12
-Keine inhaltlichen Änderungen.
-
-#### Anforderungen bei erhöhtem Schutzbedarf
-
-#### APP.2.2.A13
-Keine inhaltlichen Änderungen.
-
-#### APP.2.2.A14
-Keine inhaltlichen Änderungen.
-
-#### APP.2.2.A15
-Keine inhaltlichen Änderungen.
-
-</details>
-
 
 ### APP.2.3
 <details>
 <summary> Änderungen
 </summary>
 
-#### Basis-Anforderungen
-
-#### APP.2.3.A1
-Keine inhaltlichen Änderungen.
-
-#### APP.2.3.A2
-Keine inhaltlichen Änderungen.
-
-#### APP.2.3.A3
-Keine inhaltlichen Änderungen.
-
-#### APP.2.3.A4
-Keine inhaltlichen Änderungen.
-
-#### APP.2.3.A5
-Keine inhaltlichen Änderungen.
-
-#### APP.2.3.A6
-Keine inhaltlichen Änderungen.
-
 #### Standard-Anforderungen
-
-#### APP.2.3.A7
-Keine inhaltlichen Änderungen.
-
-#### APP.2.3.A8
-Keine inhaltlichen Änderungen.
-
-#### APP.2.3.A9
-Keine inhaltlichen Änderungen.
-
-#### APP.2.3.A10
-Keine inhaltlichen Änderungen.
-
-#### APP.2.3.A11
-Keine inhaltlichen Änderungen.
 
 #### APP.2.3.A12
 __Ergänzung:__\
 Dabei SOLLTEN institutionsinterne Vorgaben beachtet werden.
 
-#### APP.2.3.A13
-Keine inhaltlichen Änderungen.
-
 </details>
-
 
 ### APP.3.1
 <details>
