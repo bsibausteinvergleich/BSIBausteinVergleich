@@ -943,34 +943,8 @@ __Änderung:__ "Management" _zu_ "Institutionsleitung"
 #### OPS.1.2.2.A6
 __Änderung:__ Mittlere und große Archive SOLLTEN über redundante Indexdatenbanken verfügen.
 
-#### OPS.1.2.2.A7
-Keine inhaltlichen Änderungen.
-
-#### OPS.1.2.2.A8
-Keine inhaltlichen Änderungen.
-
-#### OPS.1.2.2.A9
-Keine inhaltlichen Änderungen.
-
-#### Standard-Anforderungen
-
-#### OPS.1.2.2.A10
-Keine inhaltlichen Änderungen.
-
-#### OPS.1.2.2.A11
-Keine inhaltlichen Änderungen.
-
 #### OPS.1.2.2.A12
 __Änderung:__ Die auf den Archivmedien vorhandene freie Speicherkapazität SOLLTE kontinuierlich überwacht werden.
-
-#### OPS.1.2.2.A13
-Keine inhaltlichen Änderungen.
-
-#### OPS.1.2.2.A14
-Keine inhaltlichen Änderungen.
-
-#### OPS.1.2.2.A15
-Keine inhaltlichen Änderungen.
 
 #### OPS.1.2.2.A16
 __Ergänzung:__\
@@ -1007,15 +981,9 @@ __OPS.1.2.3 ist vollständig entfallen.__
 
 #### Basis-Anforderungen
 
-#### OPS.1.2.4.A1
-Keine inhaltlichen Änderungen.
-
 #### OPS.1.2.4.A2
 __Änderung:__\
 Alle Zugangsmöglichkeiten auf die Server der Institution sowie alle Zugriffsrechte auf die darauf gespeicherten Informationen MÜSSEN auf das notwendige Mindestmaß beschränkt sein.
-
-#### OPS.1.2.4.A3
-Keine inhaltlichen Änderungen.
 
 #### OPS.1.2.4.A4
 __Änderung:__\
