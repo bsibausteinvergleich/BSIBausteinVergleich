@@ -1416,9 +1416,6 @@ Beim Einsatz eines Enterprise Service Bus (ESB) muss sichergestellt werden, dass
 __Änderung:__\
 Beim Einsatz eines Enterprise Service Bus (ESB) SOLLTE ein eigenes logisches Netzsegment für den ESB vorhanden sein.
 
-#### APP.3.1.A12
-Keine inhaltlichen Änderungen.
-
 #### APP.3.1.A13
 __Entfallen:__\
 Dazu SOLLTE sichergestellt werden,dass:
@@ -1438,9 +1435,6 @@ Administrationszugänge SOLLTEN auf vertrauenswürdige separate Netzsegmente und
 __Ergänzung:__\
 Falls dies nicht möglich ist, SOLLTE die Anwendung auf andere geeignete Weise sicherstellen, dass sich der Benutzer authentisiert.
 
-#### APP.3.1.A17
-Keine inhaltlichen Änderungen.
-
 #### APP.3.1.A18 ENTFALLEN
 __Diese Anforderung ist entfallen.__
 
@@ -1451,9 +1445,6 @@ Zum Schutz vor Clickjacking, Cross-Site-Scripting und anderen Angriffen SOLLTEN 
 Dazu SOLLTEN mindestens die folgenden Direktiven verwendet werden: Content-Security-Policy, möglicherweise X-FRAME-OPTIONS, Strict-Transport-Security, X-XSS-Protection, Content-Type, X-Content-Type-Options sowie Cache-Control.
 
 Cookies SOLLTEN grundsätzlich mit den Attributen secure und httponly gesetzt werden.
-
-#### APP.3.1.A22
-Keine inhaltlichen Änderungen.
 
 #### APP.3.1.A23
 __Änderung:__\
@@ -1474,16 +1465,12 @@ Entwickler und Betreiber einer Webanwendung SOLLTEN sicherstellen, dass vertraul
 
 </details>
 
-
 ### APP.3.2
 <details>
 <summary> Änderungen
 </summary>
 
 #### Basis-Anforderungen
-
-#### APP.3.2.A1
-Keine inhaltlichen Änderungen.
 
 #### APP.3.2.A2
 __Änderung:__\
@@ -1501,18 +1488,12 @@ Zudem MÜSSEN Dokumente von Restinformationen bereinigt werden.
 
 Abrufbare Dateien MÜSSEN auf einer separaten Partition der Festplatte gespeichert sein.
 
-#### APP.3.2.A4
-Keine inhaltlichen Änderungen.
-
 #### APP.3.2.A5
 __Änderung:__\
 Wenn sich Clients mit Hilfe von Passwörtern am Webserver authentisieren, MÜSSEN diese kryptografisch gesichert und vor unbefugtem Zugriff geschützt gespeichert werden.
 
 #### APP.3.2.A6 ENTFALLEN
 __Diese Anforderung ist entfallen.__
-
-#### APP.3.2.A7
-Keine inhaltlichen Änderungen.
 
 #### APP.3.2.A11 (Aktualisiert: Basis-Anforderung)
 Der Webserver MUSS für alle Verbindungen durch nicht vertrauenswürdige Netze eine sichere Verschlüsselung über TLS anbieten (HTTPS).
@@ -1524,12 +1505,6 @@ Wenn eine HTTPS-Verbindung genutzt wird, DÜRFEN alle Inhalte NUR über HTTPS ve
 Sogenannter Mixed Content DARF NICHT verwendet werden.
 
 #### Standard-Anforderungen
-
-#### APP.3.2.A8
-Keine inhaltlichen Änderungen.
-
-#### APP.3.2.A9
-Keine inhaltlichen Änderungen.
 
 #### APP.3.2.A10
 __Entfallen:__\
@@ -1551,15 +1526,6 @@ Die Fehlermeldung SOLLTE ein eindeutiges Merkmal enthalten, das es Administrator
 
 Bei unerwarteten Fehlern SOLLTE sichergestellt sein, dass der Webserver nicht in einem Zustand verbleibt, in dem er anfällig für Angriffe ist.
 
-#### APP.3.2.A13
-Keine inhaltlichen Änderungen.
-
-#### APP.3.2.A14
-Keine inhaltlichen Änderungen.
-
-#### APP.3.2.A16
-Keine inhaltlichen Änderungen.
-
 #### NEU: APP.3.2.A20
 APP.3.2.A20 Benennung von Ansprechpartnern [Fachverantwortliche, Leiter IT] (S)\
 
@@ -1573,17 +1539,10 @@ Für die Behandlung von externen Sicherheitsmeldungen SOLLTE die Institution Pro
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
-#### APP.3.2.A17
-Keine inhaltlichen Änderungen.
-
-#### APP.3.2.A18
-Keine inhaltlichen Änderungen.
-
 #### APP.3.2.A19 ENTFALLEN
 __Diese Anforderung ist entfallen.__
 
 </details>
-
 
 ### APP.3.3
 <details>
@@ -1605,9 +1564,6 @@ Alle Daten MÜSSEN durch ein Viren-Schutzprogramm auf Schadsoftware untersucht w
 
 #### APP.3.3.A4 ENTFALLEN
 __Diese Anforderung ist entfallen.__
-
-#### APP.3.3.A5
-Keine inhaltlichen Änderungen.
 
 #### APP.3.3.A15 (Aktualisiert: Basis-Anforderung)
 
@@ -1686,7 +1642,6 @@ Daten SOLLTEN zudem zwischen unabhängigen Fileservern repliziert werden, die si
 
 </details>
 
-
 ### APP.3.4
 <details>
 <summary> Änderungen
@@ -1730,18 +1685,9 @@ __zu:__\
 __Entfallen:__\
 Wird Samba als primärer AD DC verwendet, SOLLTE der DNS-Dienst auf dem Samba-Server installiert und sorgfältig konfiguriert werden.
 
-#### APP.3.4.A8
-Keine inhaltlichen Änderungen.
-
-#### APP.3.4.A9
-Keine inhaltlichen Änderungen.
-
 #### APP.3.4.A10
 __Änderung:__\
 Sofern IPv6 eingesetzt wird, SOLLTEN erforderliche Besonderheiten berücksichtigt werden.
-
-#### APP.3.4.A12
-Keine inhaltlichen Änderungen.
 
 #### APP.3.4.A13
 __Entfallen:__\
@@ -1752,11 +1698,7 @@ __Diese Anforderung ist entfallen.__
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
-#### APP.3.4.A15
-Keine inhaltlichen Änderungen.
-
 </details>
-
 
 ### APP.3.6
 <details>
@@ -1765,355 +1707,10 @@ Keine inhaltlichen Änderungen.
 
 #### Basis-Anforderungen
 
-#### APP.3.6.A1
-Keine inhaltlichen Änderungen.
-
-#### APP.3.6.A2
-Keine inhaltlichen Änderungen.
-
-#### APP.3.6.A3
-Keine inhaltlichen Änderungen.
-
-#### APP.3.6.A4
-Keine inhaltlichen Änderungen.
-
 #### APP.3.6.A5 ENTFALLEN
 __Diese Anforderung ist entfallen.__
 
-#### APP.3.6.A6
-Keine inhaltlichen Änderungen.
-
-#### APP.3.6.A7
-Keine inhaltlichen Änderungen.
-
-#### APP.3.6.A8
-Keine inhaltlichen Änderungen.
-
-#### APP.3.6.A9
-Keine inhaltlichen Änderungen.
-
-#### Standard-Anforderungen
-
-#### APP.3.6.A10
-Keine inhaltlichen Änderungen.
-
-#### APP.3.6.A11
-Keine inhaltlichen Änderungen.
-
-#### APP.3.6.A12
-Keine inhaltlichen Änderungen.
-
-#### APP.3.6.A13
-Keine inhaltlichen Änderungen.
-
-#### APP.3.6.A14
-Keine inhaltlichen Änderungen.
-
-#### APP.3.6.A15
-Keine inhaltlichen Änderungen.
-
-#### APP.3.6.A16
-Keine inhaltlichen Änderungen.
-
-#### APP.3.6.A17
-Keine inhaltlichen Änderungen.
-
-#### APP.3.6.A18
-Keine inhaltlichen Änderungen.
-
-#### APP.3.6.A19
-Keine inhaltlichen Änderungen.
-
-#### Anforderungen bei erhöhtem Schutzbedarf
-
-#### APP.3.6.A20
-Keine inhaltlichen Änderungen.
-
-#### APP.3.6.A21
-Keine inhaltlichen Änderungen.
-
-#### APP.3.6.A22
-Keine inhaltlichen Änderungen.
-
 </details>
-
-
-### APP.4.2
-<details>
-<summary> Änderungen
-</summary>
-
-#### Basis-Anforderungen
-
-#### APP.4.2.A1
-Keine inhaltlichen Änderungen.
-
-#### APP.4.2.A2
-Keine inhaltlichen Änderungen.
-
-#### APP.4.2.A3
-Keine inhaltlichen Änderungen.
-
-#### APP.4.2.A4
-Keine inhaltlichen Änderungen.
-
-#### APP.4.2.A5
-Keine inhaltlichen Änderungen.
-
-#### APP.4.2.A6
-Keine inhaltlichen Änderungen.
-
-#### APP.4.2.A7
-Keine inhaltlichen Änderungen.
-
-#### APP.4.2.A8
-Keine inhaltlichen Änderungen.
-
-#### APP.4.2.A9
-Keine inhaltlichen Änderungen.
-
-#### APP.4.2.A10
-Keine inhaltlichen Änderungen.
-
-#### Standard-Anforderungen
-
-#### APP.4.2.A11
-Keine inhaltlichen Änderungen.
-
-#### APP.4.2.A12
-Keine inhaltlichen Änderungen.
-
-#### APP.4.2.A13
-Keine inhaltlichen Änderungen.
-
-#### APP.4.2.A14
-Keine inhaltlichen Änderungen.
-
-#### APP.4.2.A15
-Keine inhaltlichen Änderungen.
-
-#### APP.4.2.A16
-Keine inhaltlichen Änderungen.
-
-#### APP.4.2.A17
-Keine inhaltlichen Änderungen.
-
-#### APP.4.2.A18
-Keine inhaltlichen Änderungen.
-
-#### APP.4.2.A19
-Keine inhaltlichen Änderungen.
-
-#### APP.4.2.A20
-Keine inhaltlichen Änderungen.
-
-#### APP.4.2.A21
-Keine inhaltlichen Änderungen.
-
-#### APP.4.2.A22
-Keine inhaltlichen Änderungen.
-
-#### APP.4.2.A23
-Keine inhaltlichen Änderungen.
-
-#### APP.4.2.A24
-Keine inhaltlichen Änderungen.
-
-#### APP.4.2.A25
-Keine inhaltlichen Änderungen.
-
-#### APP.4.2.A26
-Keine inhaltlichen Änderungen.
-
-#### APP.4.2.A27
-Keine inhaltlichen Änderungen.
-
-#### APP.4.2.A28
-Keine inhaltlichen Änderungen.
-
-#### APP.4.2.A29
-Keine inhaltlichen Änderungen.
-
-#### APP.4.2.A30
-Keine inhaltlichen Änderungen.
-
-#### APP.4.2.A31
-Keine inhaltlichen Änderungen.
-
-#### APP.4.2.A32
-Keine inhaltlichen Änderungen.
-
-</details>
-
-
-### APP.4.3
-<details>
-<summary> Änderungen
-</summary>
-
-#### Basis-Anforderungen
-
-#### APP.4.3.A1
-Keine inhaltlichen Änderungen.
-
-#### APP.4.3.A2
-Keine inhaltlichen Änderungen.
-
-#### APP.4.3.A3
-Keine inhaltlichen Änderungen.
-
-#### APP.4.3.A4
-Keine inhaltlichen Änderungen.
-
-#### APP.4.3.A5
-Keine inhaltlichen Änderungen.
-
-#### APP.4.3.A6
-Keine inhaltlichen Änderungen.
-
-#### APP.4.3.A7
-Keine inhaltlichen Änderungen.
-
-#### APP.4.3.A8
-Keine inhaltlichen Änderungen.
-
-#### APP.4.3.A9
-Keine inhaltlichen Änderungen.
-
-#### Standard-Anforderungen
-
-#### APP.4.3.A10
-Keine inhaltlichen Änderungen.
-
-#### APP.4.3.A11
-Keine inhaltlichen Änderungen.
-
-#### APP.4.3.A12
-Keine inhaltlichen Änderungen.
-
-#### APP.4.3.A13
-Keine inhaltlichen Änderungen.
-
-#### APP.4.3.A14
-Keine inhaltlichen Änderungen.
-
-#### APP.4.3.A15
-Keine inhaltlichen Änderungen.
-
-#### APP.4.3.A16
-Keine inhaltlichen Änderungen.
-
-#### APP.4.3.A17
-Keine inhaltlichen Änderungen.
-
-#### APP.4.3.A18
-Keine inhaltlichen Änderungen.
-
-#### APP.4.3.A19
-Keine inhaltlichen Änderungen.
-
-#### APP.4.3.A20
-Keine inhaltlichen Änderungen.
-
-#### Anforderungen bei erhöhtem Schutzbedarf
-
-#### APP.4.3.A21
-Keine inhaltlichen Änderungen.
-
-#### APP.4.3.A22
-Keine inhaltlichen Änderungen.
-
-#### APP.4.3.A23
-Keine inhaltlichen Änderungen.
-
-#### APP.4.3.A24
-Keine inhaltlichen Änderungen.
-
-#### APP.4.3.A25
-Keine inhaltlichen Änderungen.
-
-</details>
-
-
-### APP.4.6
-<details>
-<summary> Änderungen
-</summary>
-
-#### Basis-Anforderungen
-
-#### APP.4.6.A1
-Keine inhaltlichen Änderungen.
-
-#### APP.4.6.A2
-Keine inhaltlichen Änderungen.
-
-#### APP.4.6.A3
-Keine inhaltlichen Änderungen.
-
-#### APP.4.6.A4
-Keine inhaltlichen Änderungen.
-
-#### Standard-Anforderungen
-
-#### APP.4.6.A5
-Keine inhaltlichen Änderungen.
-
-#### APP.4.6.A6
-Keine inhaltlichen Änderungen.
-
-#### APP.4.6.A7
-Keine inhaltlichen Änderungen.
-
-#### APP.4.6.A8
-Keine inhaltlichen Änderungen.
-
-#### APP.4.6.A9
-Keine inhaltlichen Änderungen.
-
-#### APP.4.6.A10
-Keine inhaltlichen Änderungen.
-
-#### APP.4.6.A11
-Keine inhaltlichen Änderungen.
-
-#### APP.4.6.A12
-Keine inhaltlichen Änderungen.
-
-#### APP.4.6.A13
-Keine inhaltlichen Änderungen.
-
-#### APP.4.6.A14
-Keine inhaltlichen Änderungen.
-
-#### APP.4.6.A15
-Keine inhaltlichen Änderungen.
-
-#### APP.4.6.A16
-Keine inhaltlichen Änderungen.
-
-#### APP.4.6.A17
-Keine inhaltlichen Änderungen.
-
-#### APP.4.6.A18
-Keine inhaltlichen Änderungen.
-
-#### APP.4.6.A19
-Keine inhaltlichen Änderungen.
-
-#### APP.4.6.A20
-Keine inhaltlichen Änderungen.
-
-#### APP.4.6.A21
-Keine inhaltlichen Änderungen.
-
-#### Anforderungen bei erhöhtem Schutzbedarf
-
-#### APP.4.6.A22
-Keine inhaltlichen Änderungen.
-
-</details>
-
 
 ### APP.5.1
 <details>
@@ -2310,11 +1907,7 @@ __Diese Anforderung ist entfallen.__
 #### APP.5.1.A20 ENTFALLEN
 __Diese Anforderung ist entfallen.__
 
-#### APP.5.1.A21
-Keine inhaltlichen Änderungen.
-
 </details>
-
 
 ### APP.5.2
 <details>
@@ -2330,9 +1923,6 @@ __Entfallen:__\
 • Vertraulichkeit, Integrität und Verfügbarkeit,
 
 • Integration der Server- und Client-Systeme in die hierfür vorgesehenen Netzsegmente.
-
-#### APP.5.2.A2
-Keine inhaltlichen Änderungen.
 
 #### APP.5.2.A3
 __Änderung:__\
@@ -2429,9 +2019,6 @@ Zusätzlich zum allgemeinen Schulungs- und Sensibilisierungsprogramm SOLLTE die 
 
 Die Institution SOLLTE die Benutzer von Outlook regelmäßig entsprechend dem Konzept schulen.
 
-#### APP.5.2.A15
-Keine inhaltlichen Änderungen.
-
 #### APP.5.2.A16 ENTFALLEN
 __Diese Anforderung ist entfallen.__
 
@@ -2453,9 +2040,6 @@ Die Sicherheitsrichtlinie SOLLTE mindestens folgende Aspekte regeln:
 • festgelegte Administratoren.
 
 #### Anforderungen bei erhöhtem Schutzbedarf
-
-#### APP.5.2.A17
-Keine inhaltlichen Änderungen.
 
 #### APP.5.2.A18 ENTFALLEN
 __Diese Anforderung ist entfallen.__
@@ -2487,12 +2071,6 @@ Soweit möglich, SOLLTE dabei auf zentrale, netzbasierte Authentisierungsdienste
 
 Für sichere Passwörter SOLLTE es eine Passwort-Richtlinie geben.
 
-#### SYS.1.1.A3
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.1.A4
-Keine inhaltlichen Änderungen.
-
 #### SYS.1.1.A5
 __Entfallen:__\
 Für die Anmeldung von Benutzern und Diensten am System MÜSSEN Authentisierungsverfahren eingesetzt werden, die dem Schutzbedarf der Server angemessen sind.
@@ -2506,18 +2084,9 @@ Es MUSS gewährleistet werden, dass nur dafür vorgesehene Wechselspeicher und s
 
 Server DÜRFEN NICHT als Arbeitsplatzrechner genutzt werden.
 
-#### SYS.1.1.A6
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.1.A7
-Keine inhaltlichen Änderungen.
-
 #### SYS.1.1.A8
 __Ergänzung:__\
 Es MUSS regelmäßig getestet werden, ob die Datensicherung wie gewünscht funktioniert, vor allem, ob gesicherte Daten problemlos zurückgespielt werden können.
-
-#### SYS.1.1.A9
-Keine inhaltlichen Änderungen.
 
 #### SYS.1.1.A10
 __Ergänzung:__\
@@ -2529,74 +2098,11 @@ Es SOLLTE geprüft werden, ob die Speicherung der jeweiligen Protokolldaten auf 
 __Ergänzung:__\
 (...) in einer separaten Sicherheitsrichtlinie (...)
 
-#### SYS.1.1.A12
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.1.A13
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.1.A14
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.1.A15
-Keine inhaltlichen Änderungen.
-
 #### SYS.1.1.A16
 __Entfallen:__\
 Server SOLLTEN so aufgesetzt werden, dass bei der Installation ausschließlich die benötigten Dienste ausgewählt werden.
 
-#### SYS.1.1.A17
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.1.A18
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.1.A19
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.1.A20
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.1.A21
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.1.A22
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.1.A23
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.1.A24
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.1.A25
-Keine inhaltlichen Änderungen.
-
 #### Anforderungen bei erhöhtem Schutzbedarf
-
-#### SYS.1.1.A26
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.1.A27
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.1.A28
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.1.A29
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.1.A30
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.1.A31
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.1.A32
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.1.A33
-Keine inhaltlichen Änderungen.
 
 #### NEU: SYS.1.1.A34
 __Ergänzung:__\
@@ -2614,27 +2120,12 @@ Bei sehr hohen Anforderungen an die Vertraulichkeit oder Abstreitbarkeit SOLLTE 
 
 </details>
 
-
 ### SYS.1.2.2
 <details>
 <summary> Änderungen
 </summary>
 
 #### Basis-Anforderungen
-
-#### SYS.1.2.2.A1
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.2.2.A2
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.2.2.A3
-Keine inhaltlichen Änderungen.
-
-#### Standard-Anforderungen
-
-#### SYS.1.2.2.A4
-Keine inhaltlichen Änderungen.
 
 #### SYS.1.2.2.A5
 __Ergänzung:__\
@@ -2648,96 +2139,24 @@ __Entfallen:__\
 __Änderung:__\
 SYS.1.2.2.A7 Prüfung der Sicherheitskonfiguration von Windows Server 2012 (S)
 
-#### SYS.1.2.2.A8
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.2.2.A9
-Keine inhaltlichen Änderungen.
-
-#### Anforderungen bei erhöhtem Schutzbedarf
-
-#### SYS.1.2.2.A10
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.2.2.A11
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.2.2.A12
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.2.2.A13
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.2.2.A14
-Keine inhaltlichen Änderungen.
-
 </details>
-
 
 ### SYS.1.3
 <details>
 <summary> Änderungen
 </summary>
 
-#### Basis-Anforderungen
-
-#### SYS.1.3.A1
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.3.A2
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.3.A3
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.3.A4
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.3.A5
-Keine inhaltlichen Änderungen.
-
 #### Standard-Anforderungen
-
-#### SYS.1.3.A6
-Keine inhaltlichen Änderungen.
 
 #### SYS.1.3.A7 ENTFALLEN
 __Diese Anforderung ist entfallen.__
-
-#### SYS.1.3.A8
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.3.A9
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.3.A10
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.3.A11
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.3.A12
-Keine inhaltlichen Änderungen.
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 #### SYS.1.3.A13 ENTFALLEN
 __Diese Anforderung ist entfallen.__
 
-#### SYS.1.3.A14
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.3.A15
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.3.A16
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.3.A17
-Keine inhaltlichen Änderungen.
-
 </details>
-
 
 ### SYS.1.5
 <details>
@@ -2746,18 +2165,6 @@ Keine inhaltlichen Änderungen.
 
 #### Basis-Anforderungen
 
-#### SYS.1.5.A1
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.5.A2
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.5.A3
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.5.A4
-Keine inhaltlichen Änderungen.
-
 #### SYS.1.5.A5
 __Änderung:__\
 (...) SOLLTEN als sicher geltende Protokolle eingesetzt werden.
@@ -2765,208 +2172,24 @@ __Änderung:__\
 __Änderung:__\
 Sollte dennoch auf unsichere Protokolle zurückgegriffen werden, (...)
 
-#### SYS.1.5.A6
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.5.A7
-Keine inhaltlichen Änderungen.
-
 #### Standard-Anforderungen
-
-#### SYS.1.5.A8
-Keine inhaltlichen Änderungen.
 
 #### SYS.1.5.A9
 __Entfallen:__\
 Dafür SOLLTE der Baustein NET.1.1 Netzarchitektur und -design berücksichtigt werden.
 
-#### SYS.1.5.A10
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.5.A11
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.5.A12
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.5.A13
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.5.A14
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.5.A15
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.5.A16
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.5.A17
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.5.A18
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.5.A19
-Keine inhaltlichen Änderungen.
-
-#### Anforderungen bei erhöhtem Schutzbedarf
-
-#### SYS.1.5.A20
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.5.A21
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.5.A22
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.5.A23
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.5.A24
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.5.A25
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.5.A26
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.5.A27
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.5.A28
-Keine inhaltlichen Änderungen.
-
 </details>
-
 
 ### SYS.1.7
 <details>
 <summary> Änderungen
 </summary>
 
-#### Basis-Anforderungen
-
-#### SYS.1.7.A1
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.7.A2
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.7.A3
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.7.A4
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.7.A5
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.7.A6
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.7.A7
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.7.A8
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.7.A9
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.7.A10
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.7.A11
-Keine inhaltlichen Änderungen.
-
 #### Standard-Anforderungen
-
-#### SYS.1.7.A12
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.7.A13
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.7.A14
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.7.A15
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.7.A16
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.7.A17
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.7.A18
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.7.A19
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.7.A20
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.7.A21
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.7.A22
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.7.A23
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.7.A24
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.7.A25
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.7.A26
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.7.A27
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.7.A28
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.7.A29
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.7.A30
-Keine inhaltlichen Änderungen.
 
 #### SYS.1.7.A31
 __Entfallen:__\
 Für den Fall, dass alle Kennungen mit SPECIAL-Rechten gesperrt sind oder dass in einer Notsituation kein RACF-Administrator zur Verfügung steht, SOLLTE ein Not-User-Verfahren eingerichtet werden.
-
-#### Anforderungen bei erhöhtem Schutzbedarf
-
-#### SYS.1.7.A32
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.7.A33
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.7.A34
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.7.A35
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.7.A36
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.7.A37
-Keine inhaltlichen Änderungen.
-
-#### SYS.1.7.A38
-Keine inhaltlichen Änderungen.
 
 </details>
 
