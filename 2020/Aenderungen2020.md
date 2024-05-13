@@ -402,9 +402,6 @@ Es SOLLTE eine Übersicht über alle erteilten Ausnahmegenehmigungen erstellt un
 #### ORP.5.A7 ENTFALLEN
 __Anforderung entfallen__
 
-#### ORP.5.A8
-_Keine inhaltlichen Änderungen_
-
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 #### ORP.5.A9 ENTFALLEN
@@ -989,28 +986,7 @@ Alle Zugangsmöglichkeiten auf die Server der Institution sowie alle Zugriffsrec
 __Änderung:__\
 Alle Daten, die bei der Telearbeit erstellt und bearbeitet werden, MÜSSEN zeitnah gesichert werden.
 
-#### OPS.1.2.4.A5
-Keine inhaltlichen Änderungen.
-
-#### Standard-Anforderungen
-
-#### OPS.1.2.4.A6
-Keine inhaltlichen Änderungen.
-
-#### OPS.1.2.4.A7
-Keine inhaltlichen Änderungen.
-
-#### OPS.1.2.4.A8
-Keine inhaltlichen Änderungen.
-
-#### OPS.1.2.4.A9
-Keine inhaltlichen Änderungen.
-
-#### OPS.1.2.4.A10
-Keine inhaltlichen Änderungen.
-
 </details>
-
 
 ### NEU OPS.1.2.5
 
@@ -1021,45 +997,7 @@ __OPS.1.2.5.A1 - OPS.1.2.5.A23 sind in 2020 ergänzt worden.__
 <summary> Änderungen
 </summary>
 
-#### Basis-Anforderungen
-
-#### OPS.2.1.A1
-Keine inhaltlichen Änderungen.
-
 #### Standard-Anforderungen
-
-#### OPS.2.1.A2
-Keine inhaltlichen Änderungen.
-
-#### OPS.2.1.A3
-Keine inhaltlichen Änderungen.
-
-#### OPS.2.1.A4
-Keine inhaltlichen Änderungen.
-
-#### OPS.2.1.A5
-Keine inhaltlichen Änderungen.
-
-#### OPS.2.1.A6
-Keine inhaltlichen Änderungen.
-
-#### OPS.2.1.A7
-Keine inhaltlichen Änderungen.
-
-#### OPS.2.1.A8
-Keine inhaltlichen Änderungen.
-
-#### OPS.2.1.A9
-Keine inhaltlichen Änderungen.
-
-#### OPS.2.1.A10
-Keine inhaltlichen Änderungen.
-
-#### OPS.2.1.A11
-Keine inhaltlichen Änderungen.
-
-#### OPS.2.1.A12
-Keine inhaltlichen Änderungen.
 
 #### NEU: OPS.2.1.A13
 __Anforderung hinzugefügt__
@@ -1085,39 +1023,7 @@ __Anforderung hinzugefügt__
 
 __In diesen Anforderungen wurde der Begriff__ "Institution" __weitestgehend durch__ "Cloud-Kunde" __ersetzt.__
 
-#### Basis-Anforderungen
-
-#### OPS.2.2.A1
-Keine inhaltlichen Änderungen.
-
-#### OPS.2.2.A2
-Keine inhaltlichen Änderungen.
-
-#### OPS.2.2.A3
-Keine inhaltlichen Änderungen.
-
-#### OPS.2.2.A4
-Keine inhaltlichen Änderungen.
-
 #### Standard-Anforderungen
-
-#### OPS.2.2.A5
-Keine inhaltlichen Änderungen.
-
-#### OPS.2.2.A6
-Keine inhaltlichen Änderungen.
-
-#### OPS.2.2.A7
-Keine inhaltlichen Änderungen.
-
-#### OPS.2.2.A8
-Keine inhaltlichen Änderungen.
-
-#### OPS.2.2.A9
-Keine inhaltlichen Änderungen.
-
-#### OPS.2.2.A10
-Keine inhaltlichen Änderungen.
 
 #### OPS.2.2.A11
 __Ergänzung:__ Für die genutzten Cloud-Dienste SOLLTE durch den Cloud-Kunden ein Notfallkonzept erstellt werden.
@@ -1127,35 +1033,13 @@ __Ergänzung:__ Alle für die eingesetzten Cloud-Dienste erstellten Dokumentatio
 
 __Änderung:__ Auch SOLLTEN sich der Cloud-Diensteanbieter und der Cloud-Kunde nach Möglichkeit regelmäßig abstimmen.
 
-#### OPS.2.2.A13
-Keine inhaltlichen Änderungen.
-
 #### OPS.2.2.A14
 __Ergänzung:__ (...) oder die Fachaufgaben des Cloud-Kunden (...)
 
-#### Anforderungen bei erhöhtem Schutzbedarf
-
-#### OPS.2.2.A15
-Keine inhaltlichen Änderungen.
-
-#### OPS.2.2.A16
-Keine inhaltlichen Änderungen.
-
-#### OPS.2.2.A17
-Keine inhaltlichen Änderungen.
-
-#### OPS.2.2.A18
-Keine inhaltlichen Änderungen.
-
-#### OPS.2.2.A19
-Keine inhaltlichen Änderungen.
-
 </details>
-
 
 ### OPS.2.4 ENTFALLEN
 __Diese Anforderungen sind entfallen.__
-
 
 ### OPS.3.1
 <details>
@@ -1164,57 +1048,8 @@ __Diese Anforderungen sind entfallen.__
 
 #### Basis-Anforderungen
 
-#### OPS.3.1.A1
-Keine inhaltlichen Änderungen.
-
-#### Standard-Anforderungen
-
-#### OPS.3.1.A2
-Keine inhaltlichen Änderungen.
-
-#### OPS.3.1.A3
-Keine inhaltlichen Änderungen.
-
-#### OPS.3.1.A4
-Keine inhaltlichen Änderungen.
-
-#### OPS.3.1.A5
-Keine inhaltlichen Änderungen.
-
-#### OPS.3.1.A6
-Keine inhaltlichen Änderungen.
-
 #### OPS.3.1.A7
 __Änderung:__ "Mandantenkonzept" __ersetzt durch__ "Mandantentrennungskonzept"
-
-#### OPS.3.1.A8
-Keine inhaltlichen Änderungen.
-
-#### OPS.3.1.A9
-Keine inhaltlichen Änderungen.
-
-#### OPS.3.1.A10
-Keine inhaltlichen Änderungen.
-
-#### OPS.3.1.A11
-Keine inhaltlichen Änderungen.
-
-#### OPS.3.1.A12
-Keine inhaltlichen Änderungen.
-
-#### OPS.3.1.A13
-Keine inhaltlichen Änderungen.
-
-#### OPS.3.1.A14
-Keine inhaltlichen Änderungen.
-
-#### OPS.3.1.A15
-Keine inhaltlichen Änderungen.
-
-#### Anforderungen bei erhöhtem Schutzbedarf
-
-#### OPS.3.1.A16
-Keine inhaltlichen Änderungen.
 
 </details>
 
@@ -1227,66 +1062,15 @@ ___
 
 #### Basis-Anforderungen
 
-#### DER.1.A1
-Keine inhaltlichen Änderungen.
-
-#### DER.1.A2
-Keine inhaltlichen Änderungen.
-
-#### DER.1.A3
-Keine inhaltlichen Änderungen.
-
-#### DER.1.A4
-Keine inhaltlichen Änderungen.
-
 #### DER.1.A5
 __Änderung:__ Liegt ein sicherheitsrelevanter Vorfall vor, MÜSSEN die Meldungen der betroffenen IT-Systeme ausgewertet werden.
 
 #### Standard-Anforderungen
 
-#### DER.1.A6
-Keine inhaltlichen Änderungen.
-
-#### DER.1.A7
-Keine inhaltlichen Änderungen.
-
-#### DER.1.A8
-Keine inhaltlichen Änderungen.
-
-#### DER.1.A9
-Keine inhaltlichen Änderungen.
-
-#### DER.1.A10
-Keine inhaltlichen Änderungen.
-
-#### DER.1.A11
-Keine inhaltlichen Änderungen.
-
-#### DER.1.A12
-Keine inhaltlichen Änderungen.
-
 #### DER.1.A13
 __Änderung:__ (...) in regelmäßigen Audits (...)
 
-#### Anforderungen bei erhöhtem Schutzbedarf
-
-#### DER.1.A14
-Keine inhaltlichen Änderungen.
-
-#### DER.1.A15
-Keine inhaltlichen Änderungen.
-
-#### DER.1.A16
-Keine inhaltlichen Änderungen.
-
-#### DER.1.A17
-Keine inhaltlichen Änderungen.
-
-#### DER.1.A18
-Keine inhaltlichen Änderungen.
-
 </details>
-
 
 ### DER.2.1
 <details>
@@ -1294,21 +1078,6 @@ Keine inhaltlichen Änderungen.
 </summary>
 
 #### Basis-Anforderungen
-
-#### DER.2.1.A1
-Keine inhaltlichen Änderungen.
-
-#### DER.2.1.A2
-Keine inhaltlichen Änderungen.
-
-#### DER.2.1.A3
-Keine inhaltlichen Änderungen.
-
-#### DER.2.1.A4
-Keine inhaltlichen Änderungen.
-
-#### DER.2.1.A5
-Keine inhaltlichen Änderungen.
 
 #### DER.2.1.A6
 __Änderung:__\
