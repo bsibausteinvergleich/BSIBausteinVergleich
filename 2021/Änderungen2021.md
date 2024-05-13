@@ -2599,26 +2599,6 @@ __Entfallen:__
 
 #### Standard-Anforderungen
 
-#### APP.2.2.A8
-
-Keine inhaltlichen Änderungen.
-
-
-#### APP.2.2.A9
-
-Keine inhaltlichen Änderungen.
-
-
-#### APP.2.2.A10
-
-Keine inhaltlichen Änderungen.
-
-
-#### APP.2.2.A11
-
-Keine inhaltlichen Änderungen.
-
-
 #### APP.2.2.A12
 
 __Entfallen:__
@@ -2637,16 +2617,6 @@ __Ehemals:__
 
 *Privilegierte Konten im Bereich des AD SOLLTEN mittels Zwei-Faktor-Authentifizierung geschützt werden.*
 
-
-#### APP.2.2.A14
-
-Keine inhaltlichen Änderungen.
-
-
-#### APP.2.2.A15
-
-Keine inhaltlichen Änderungen.
-
 </details>
 
 
@@ -2657,11 +2627,6 @@ Keine inhaltlichen Änderungen.
 </summary>
 
 #### Basis-Anforderungen
-
-#### APP.2.3.A1
-
-Keine inhaltlichen Änderungen.
-
 
 #### APP.2.3.A2 ENTFALLEN
 
@@ -2678,16 +2643,6 @@ __Ehemals:__
 *Alle Installationsschritte und die Herkunft der OpenLDAP-Installationspakete SOLLTEN dokumentiert werden.*
 
 
-#### APP.2.3.A3
-
-Keine inhaltlichen Änderungen.
-
-
-#### APP.2.3.A4
-
-Keine inhaltlichen Änderungen.
-
-
 #### APP.2.3.A5
 
 __Entfallen:__
@@ -2696,10 +2651,6 @@ __Entfallen:__
 
 *Die dort getroffenen Regelungen MÜSSEN in OpenLDAP technisch umgesetzt werden.*
 
-
-#### APP.2.3.A6
-
-Keine inhaltlichen Änderungen.
 
 #### Standard-Anforderungen
 
@@ -2712,26 +2663,11 @@ __Ehemals:__
 *Es SOLLTEN alle Administratoren zu OpenLDAP und den zugehörigen Sicherheitsthemen geschult werden.*
 
 
-#### APP.2.3.A8
-
-Keine inhaltlichen Änderungen.
-
-
-#### APP.2.3.A9
-
-Keine inhaltlichen Änderungen.
-
-
 #### APP.2.3.A10
 
 __Geändert:__
 
 Bei Updates SOLLTE darauf geachtet werden, ob die Änderungen eingesetzte Backends oder Overlays sowie Softwareabhängigkeiten betreffen.
-
-
-#### APP.2.3.A11
-
-Keine inhaltlichen Änderungen.
 
 
 #### APP.2.3.A12 ENTFALLEN
@@ -3054,11 +2990,6 @@ __Hinzugefügt:__:
 Die verwendeten HTTP-Header SOLLTEN so restriktiv wie möglich sein.
 
 
-#### APP.3.1.A22
-
-Keine inhaltlichen Änderungen.
-
-
 #### APP.3.1.A23 ENTFALLEN
 
 __Ehemals:__
@@ -3070,11 +3001,6 @@ __Ehemals:__
 *Mindestens SOLLTE dabei geprüft werden, ob neben der Session-ID ein geheimes Token für den Zugriff auf geschützte Ressourcen und Funktionen benötigt wird.*
 
 #### Anforderungen bei erhöhtem Schutzbedarf
-
-#### APP.3.1.A20
-
-Keine inhaltlichen Änderungen.
-
 
 #### APP.3.1.A24 ENTFALLEN
 
@@ -3124,21 +3050,12 @@ __Hinzugefügt:__:
 Der IT-Betrieb MUSS regelmäßig überprüfen, ob vertrauliche Dateien in öffentlichen Verzeichnissen gespeichert wurden.
 
 
-#### APP.3.2.A4-A6
-
-Keine inhaltlichen Änderungen.
-
-
 #### APP.3.2.A7
 
 __Entfallen:__
 
 *Auch SOLLTEN die Anforderungen an die Barrierefreiheit gemäß Behindertengleichstellungsgesetz beachtet werden.*
 
-
-#### APP.3.2.A11
-
-Keine inhaltlichen Änderungen.
 
 #### Standard-Anforderungen
 
@@ -3155,46 +3072,7 @@ __Geändert:__
 Es SOLLTE geplant und dokumentiert werden, für welchen Zweck der Webserver eingesetzt und welche Inhalte er bereitstellen soll.
 
 
-#### APP.3.2.A9
-
-Keine inhaltlichen Änderungen.
-
-
-#### APP.3.2.A10
-
-Keine inhaltlichen Änderungen.
-
-
-#### APP.3.2.A12
-
-Keine inhaltlichen Änderungen.
-
-
-#### APP.3.2.A13
-
-Keine inhaltlichen Änderungen.
-
-
-#### APP.3.2.A14
-
-Keine inhaltlichen Änderungen.
-
-
-#### APP.3.2.A16
-
-Keine inhaltlichen Änderungen.
-
-
-#### APP.3.2.A20
-
-Keine inhaltlichen Änderungen.
-
 #### Anforderungen bei erhöhtem Schutzbedarf
-
-#### APP.3.2.A15
-
-Keine inhaltlichen Änderungen.
-
 
 #### APP.3.2.A17 ENTFALLEN
 
@@ -3204,10 +3082,6 @@ __Ehemals:__
 
 *Es SOLLTEN erweiterte Authentisierungsmethoden eingesetzt werden, wie z. B. Client-Zertifikate oder eine Mehr-Faktor-Authentisierung.*
 
-
-#### APP.3.2.A18
-
-Keine inhaltlichen Änderungen.
 
 </details>
 
@@ -3322,11 +3196,6 @@ Die Institution wurde in diesem Baustein grundätzlich durch den IT-Betrieb erse
 
 #### Basis-Anforderungen
 
-#### APP.3.4.A1
-
-Keine inhaltlichen Änderungen.
-
-
 #### APP.3.4.A2
 
 __Entfallen:__
@@ -3354,31 +3223,11 @@ __Entfallen:__
 *Der NTP-Dienst SOLLTE so gehärtet werden, dass nur autorisierte Clients die Zeit abfragen können.*
 
 
-#### APP.3.4.A4
-
-Keine inhaltlichen Änderungen.
-
-
 #### APP.3.4.A5
 
 __Geändert:__
 
 Ferner SOLLTEN die effektiven Zugriffsberechtigungen auf die Freigaben des Samba-Servers regelmäßig überprüft werden.
-
-
-#### APP.3.4.A6
-
-Keine inhaltlichen Änderungen.
-
-
-#### APP.3.4.A7
-
-Keine inhaltlichen Änderungen.
-
-
-#### APP.3.4.A8
-
-Keine inhaltlichen Änderungen.
 
 
 #### APP.3.4.A9
@@ -3388,11 +3237,6 @@ __Hinzugefügt:__:
 Wird mit Kerberos authentisiert, SOLLTE der zentrale Zeitserver lokal auf dem Samba-Server installiert werden.
 
 Der NTP-Dienst SOLLTE so konfiguriert werden, dass nur autorisierte Clients die Zeit abfragen können.
-
-
-#### APP.3.4.A10
-
-Keine inhaltlichen Änderungen.
 
 
 #### APP.3.4.A11 ENTFALLEN
@@ -3406,24 +3250,9 @@ __Ehemals:__
 *Sofern IPv6 eingesetzt wird, SOLLTEN erforderliche Besonderheiten berücksichtigt werden.*
 
 
-#### APP.3.4.A12
-
-Keine inhaltlichen Änderungen.
-
-
-#### APP.3.4.A13
-
-Keine inhaltlichen Änderungen.
-
 #### APP.3.4.A14
 
 __Anforderung entfallen.__
-
-#### Anforderungen bei erhöhtem Schutzbedarf
-
-#### APP.3.4.A15
-
-Keine inhaltlichen Änderungen.
 
 </details>
 
@@ -3435,11 +3264,6 @@ Keine inhaltlichen Änderungen.
 </summary>
 
 #### Basis-Anforderungen
-
-#### APP.3.6.A1-A6
-
-Keine inhaltlichen Änderungen.
-
 
 #### APP.3.6.A7
 
@@ -3465,19 +3289,8 @@ DNS-Server MÜSSEN so konfiguriert werden, dass mindestens die folgenden sicherh
 
 • fehlgeschlagene Zonentransfers.
 
-#### APP.3.6.A8
-
-Keine inhaltlichen Änderungen.
-
-#### APP.3.6.A1-A9
-
-Keine inhaltlichen Änderungen.
 
 #### Standard-Anforderungen
-
-#### APP.3.6.A10-A11
-
-Keine inhaltlichen Änderungen.
 
 #### APP.3.6.A12 ENTFALLEN
 
@@ -3486,16 +3299,6 @@ __Ehemals:__
 *APP.3.6.A12 Schulung der Verantwortlichen [Vorgesetzte] (S)*
 
 *Es SOLLTE durch Schulungen sichergestellt werden, dass die Verantwortlichen mit den einzelnen Konfigurationsmöglichkeiten und sicherheitsrelevanten Aspekten der DNS-Server vertraut sind.*
-
-
-#### APP.3.6.A13
-
-Keine inhaltlichen Änderungen.
-
-
-#### APP.3.6.A14
-
-Keine inhaltichen Änderungen.
 
 
 #### APP.3.6 A15
@@ -3517,40 +3320,11 @@ Mindestens die folgenden sicherheitsrelevanten Ereignisse SOLLTEN ausgewertet we
 • Veränderungen im Verhältnis von Fehlern zu DNS-Anfragen.
 
 
-#### APP.3.6.A16
-
-Keine inhaltichen Änderungen.
-
-
-#### APP.3.6.A17
-
-Keine inhaltichen Änderungen.
-
-
-#### APP.3.6.A18
-
-Keine inhaltichen Änderungen.
-
-
 #### APP.3.6.A19
 
 __Entfallen:__
 
 *Wird ein DNS-Server ausgesondert, SOLLTEN alle Speichermedien des Servers sicher gelöscht werden.*
-
-#### Anforderungen bei erhöhtem Schutzbedarf
-
-#### APP.3.6.A20
-
-Keine inhaltichen Änderungen.
-
-#### APP.3.6.A21
-
-Keine inhaltichen Änderungen.
-
-#### APP.3.6.A22
-
-Keine inhaltichen Änderungen.
 
 </details>
 
@@ -3562,11 +3336,6 @@ Keine inhaltichen Änderungen.
 </summary>
 
 #### Basis-Anforderungen
-
-#### APP.4.2.A1-A4
-
-Keine inhaltichen Änderungen.
-
 
 #### APP.4.2.A5
 
@@ -3685,11 +3454,6 @@ __Entfallen:__
 *Auch MÜSSEN alle Passwörter entsprechend den internen Anforderungen der Institution geändert werden.*
 
 
-#### APP.4.3.A4
-
-Keine inhaltlichen Änderungen.
-
-
 #### APP.4.3.A5 ENTFALLEN
 
 __Ehemals:__
@@ -3754,10 +3518,6 @@ __Ehemals:__
 *Es SOLLTE so protokolliert werden, dass die Protokolldateien nicht nachträglich verändert werden können.*
 
 
-#### APP.4.3.A9
-
-Keine inhaltlichen Änderungen.
-
 #### Standard-Anforderungen
 
 #### APP.4.3.A10 ENTFALLEN
@@ -3771,21 +3531,6 @@ __Ehemals:__
 *Danach SOLLTEN alle infrage kommenden Datenbankmanagementsysteme anhand dieses Katalogs bewertet werden.*
 
 *Die Ergebnisse SOLLTEN dokumentiert werden.*
-
-
-#### APP.4.3.A11
-
-Keine inhaltlichen Änderungen.
-
-
-#### APP.4.3.A12
-
-Keine inhaltlichen Änderungen.
-
-
-#### APP.4.3.A13
-
-Keine inhaltlichen Änderungen.
 
 
 #### APP.4.3.A14 ENTFALLEN
@@ -3808,16 +3553,6 @@ __Ehemals:__
 
 *Es SOLLTE ein Schulungsplan erstellt werden, mit dem sichergestellt wird, dass Datenbankverantwortliche rechtzeitig zu Themen der Informationssicherheit und Performance sowie zu den Funktionen neuer Versionen des Datenbankmanagementsystems geschult werden.*
 
-#### APP.4.3.A16-A20
-
-Keine inhaltlichen Änderungen.
-
-#### Anforderungen bei erhöhtem Schutzbedarf
-
-#### APP.4.3.A21-A25
-
-Keine inhaltlichen Änderungen.
-
 </details>
 
 
@@ -3837,18 +3572,7 @@ Der Baustein ist vollständig entfallen.
 <summary> Änderungen
 </summary>
 
-#### Basis-Anforderungen
-
-#### APP.5.2.A1-A5
-
-keine inhaltlichen Änderungen.
-
 #### Standard-Anforderungen
-
-#### APP.5.2.A6-A9
-
-keine inhaltlichen Änderungen.
-
 
 #### APP.5.2.A10
 
@@ -3859,17 +3583,6 @@ __Entfallen:__
 *Dateianhänge SOLLTEN NICHT automatisch aus E-Mails heraus geöffnet werden können.*
 
 *Vorschaufenster und die Autovorschau SOLLTEN deaktiviert werden.*
-
-
-#### APP.5.2.A11
-
-keine inhaltlichen Änderungen.
-
-
-#### APP.5.2.A12
-
-keine inhaltlichen Änderungen.
-
 
 #### APP.5.2.A14 ENTFALLEN
 
@@ -3916,12 +3629,6 @@ __Ehemals:__
 *• Umgang mit Abwesenheitsbenachrichtigungen sowie*
 
 *• festgelegte Administratoren.*
-
-#### Anforderungen bei erhöhtem Schutzbedarf
-
-#### APP.5.2.A17
-
-Keine inhaltlichen Änderungen.
 
 </details>
 
@@ -4094,21 +3801,6 @@ Generell MÜSSEN alle sicherheitsrelevanten Systemereignisse protokolliert werde
 
 #### Standard-Anforderungen
 
-#### SYS.1.1.A11
-
-Keine inhaltlichen Änderungen.
-
-
-#### SYS.1.1.A12
-
-Keine inhaltlichen Änderungen.
-
-
-#### SYS.1.1.A13
-
-Keine inhaltlichen Änderungen.
-
-
 #### SYS.1.1.A14 ENTFALLEN
 
 __Ehemals:__
@@ -4192,41 +3884,11 @@ __Ehemals:__
 *Server SOLLTEN möglichst nicht im selben IP-Subnetz wie die Clients platziert werden. Server SOLLTEN zumindest durch einen Router von den Clients getrennt sein.*
 
 
-#### SYS.1.1.A21
-
-Keine inhaltlichen Änderungen.
-
-
-#### SYS.1.1.A22
-
-Keine inhaltlichen Änderungen.
-
-
-#### SYS.1.1.A23
-
-Keine inhaltlichen Änderungen.
-
-
-#### SYS.1.1.A24
-
-Keine inhaltlichen Änderungen.
-
-
-#### SYS.1.1.A25
-
-Keine inhaltlichen Änderungen.
-
-
 #### NEU: SYS.1.1.A35
 
 Die Anforderung wurde neu hinzugefügt.
 
 #### Anforderungen bei erhöhtem Schutzbedarf
-
-#### SYS.1.1.A26
-
-Keine inhaltlichen Änderungen.
-
 
 #### SYS.1.1.A27 ENTFALLEN
 
@@ -4241,16 +3903,6 @@ __Ehemals:__
 *Für Anwendungssysteme SOLLTEN geeignete Testdaten generiert werden, die keine vertraulichen oder personenbezogenen Inhalte der produktiven Daten enthalten.*
 
 
-#### SYS.1.1.A30
-
-Keine inhaltlichen Änderungen.
-
-
-#### SYS.1.1.A31
-
-Keine inhaltlichen Änderungen.
-
-
 #### SYS.1.1.A32 ENTFALLEN
 
 __Ehemals:__
@@ -4260,16 +3912,6 @@ __Ehemals:__
 *Passwörter für administrative Konten SOLLTEN in mehrere Teile zerlegt werden. Um diese Anmeldeinformationen zusätzlich zu schützen, SOLLTE das Vier-Augen-Prinzip angewendet werden.*
 
 *Auch administrative Konten SOLLTEN so eingerichtet werden, dass diese nach einer vorher festgelegten Anzahl fehlerhafter Anmeldeversuche gesperrt werden.*
-
-
-#### SYS.1.1.A33
-
-Keine inhaltlichen Änderungen.
-
-
-#### SYS.1.1.A34
-
-Keine inhaltlichen Änderungen.
 
 
 #### NEU: SYS.1.1.A36
@@ -4286,16 +3928,6 @@ Die Anforderung wurde neu hinzugefügt.
 </summary>
 
 #### Basis-Anforderungen
-
-#### SYS.1.2.2.A1
-
-Keine inhaltlichen Änderungen.
-
-
-#### SYS.1.2.2.A2
-
-Keine inhaltlichen Änderungen.
-
 
 #### SYS.1.2.2.A3
 
@@ -4385,16 +4017,6 @@ __Ehemals:__
 *Bei sehr hohen Anforderungen an die Vertraulichkeit oder Abstreitbarkeit SOLLTE eine Full Volume Encryption erfolgen.*
 
 
-#### SYS.1.2.2.A11
-
-Keine inhaltlichen Änderungen.
-
-
-#### SYS.1.2.2.A12
-
-Keine inhaltlichen Änderungen.
-
-
 #### SYS.1.2.2.A13 ENTFALLEN
 
 __Ehemals:__
@@ -4404,11 +4026,6 @@ __Ehemals:__
 *Es SOLLTE ein rollenbasiertes Administrationsmodell für die Administration unterschiedlicher Serverfunktionen entworfen und umgesetzt werden.*
 
 *Für kritische Dienste SOLLTE eine Zwei-Faktor-Authentisierung implementiert sein.*
-
-
-#### SYS.1.2.2.A14
-
-Keine inhaltlichen Änderungen.
 
 </details>
 
@@ -4441,16 +4058,6 @@ __Geändert:__
 Bei vernetzten Systemen MUSS außerdem darauf geachtet werden, dass die Vergabe von Benutzer- und Gruppennamen, UID und GID im Systemverbund konsistent erfolgt, wenn beim systemübergreifenden Zugriff die Möglichkeit besteht, dass gleiche UIDs bzw. GIDs auf den Systemen unterschiedlichen Benutzer- bzw. Gruppennamen zugeordnet werden könnten.
 
 
-#### SYS.1.3.A3
-
-Keine inhaltlichen Änderungen.
-
-
-#### SYS.1.3.A4
-
-Keine inhaltlichen Änderungen.
-
-
 #### SYS.1.3.A5
 
 __Entfallen:__
@@ -4460,16 +4067,6 @@ __Entfallen:__
 *Die Integrität und Authentizität der zu installierenden Softwarepakete MUSS immer geprüft werden.*
 
 #### Standard-Anforderungen
-
-#### SYS.1.3.A6
-
-Keine inhaltlichen Änderungen.
-
-
-#### SYS.1.3.A7
-
-Keine inhaltlichen Änderungen.
-
 
 #### SYS.1.3.A8
 
@@ -4489,11 +4086,6 @@ __Ehemals:__
 *Die hierfür genutzten Schlüssel SOLLTEN bei der Ersteinrichtung überprüft werden.*
 
 *Es SOLLTE geprüft werden, ob hierfür Secure Boot als Teil der UEFI-Spezifikation genutzt werden kann.*
-
-
-#### SYS.1.3.A10
-
-Keine inhaltlichen Änderungen.
 
 
 #### SYS.1.3.A11 ENTFALLEN
@@ -4529,11 +4121,6 @@ __Ehemals:__
 
 __Anforderung entfallen.__
 
-#### SYS.1.3.A14
-
-Keine inhaltlichen Änderungen.
-
-
 #### SYS.1.3.A15 ENTFALLEN
 
 __Ehemals:__
@@ -4543,11 +4130,6 @@ __Ehemals:__
 *Bootloader und Kernel SOLLTEN durch selbstkontrolliertes Schlüsselmaterial signiert werden.*
 
 *Nicht benötigtes Schlüsselmaterial SOLLTE entfernt werden.*
-
-
-#### SYS.1.3.A17
-
-Keine inhaltlichen Änderungen.
 
 </details>
 
@@ -4573,11 +4155,6 @@ __Ehemals:__
 *Vorab MUSS auf einem Testsystem überprüft werden, ob die Sicherheitsupdates kompatibel sind und keine Fehler verursachen.*
 
 
-#### SYS.1.5.A2-A5
-
-Keine inhaltlichen Änderungen.
-
-
 #### SYS.1.5.A6
 
 __Entfallen:__
@@ -4589,10 +4166,6 @@ __Hinzugefügt:__:
 Auch MUSS überwacht werden, ob die virtuellen Netze den jeweiligen virtuellen IT-Systemen korrekt zugeordnet sind.
 
 
-#### SYS.1.5.A7
-
-Keine inhaltlichen Änderungen.
-
 #### Standard-Anforderungen
 
 #### SYS.1.5.A8
@@ -4602,21 +4175,11 @@ __Entfallen:__
 *Die Administratoren SOLLTEN ausreichend qualifiziert sein.*
 
 
-#### SYS.1.5.A9
-
-Keine inhaltlichen Änderungen.
-
-
 #### SYS.1.5.A10
 
 __Entfallen:__
 
 *Bevor ein virtuelles IT-System betrieben wird, SOLLTE in einer Test- und Entwicklungsumgebung geprüft werden, ob es für den Produktiveinsatz geeignet ist.*
-
-
-#### SYS.1.5.A11-A17
-
-Keine inhaltlichen Änderungen.
 
 
 #### SYS.1.5.A18 ENTFALLEN
@@ -4629,16 +4192,6 @@ __Ehemals:__
 
 *In der Schulung SOLLTE vermittelt werden, wie virtuelle Infrastrukturen sicher aufgebaut und betrieben werden können.*
 
-#### SYS.1.5.A19
-
-Keine inhaltlichen Änderungen.
-
-#### Anforderungen bei erhöhtem Schutzbedarf
-
-#### SYS.1.5.A20-A28
-
-Keine inhaltlichen Änderungen.
-
 </details>
 
 
@@ -4649,11 +4202,6 @@ Keine inhaltlichen Änderungen.
 </summary>
 
 #### Basis-Anforderungen
-
-#### SYS.1.7.A1-A9
-
-Keine inhaltlichen Änderungen.
-
 
 #### SYS.1.7.A10 ENTFALLEN
 
@@ -4668,11 +4216,6 @@ __Ehemals:__
 *Nicht benötigte Dienste und Ports MÜSSEN deaktiviert oder gesperrt werden.*
 
 *Beim Zugang aus öffentlichen Netzen zu z/OS-Systemen MUSS außerdem verhindert werden, dass alle Kennungen durch Falscheingabe von Passwörtern gesperrt werden (Notfall-User-Verfahren).*
-
-
-#### SYS.1.7.A11
-
-Keine inhaltlichen Änderungen.
 
 #### Standard-Anforderungen
 
@@ -4702,11 +4245,6 @@ __Ehemals:__
 *Aber auch technische Aspekte wie Notfall-Systeme und Notfall-User, RACF-Datenbanken, Überprüfung/Monitoring und Prüflisten für Sicherheitseinstellungen SOLLTEN berücksichtigt werden.*
 
 
-#### SYS.1.7.A14
-
-Keine inhaltlichen Änderungen.
-
-
 #### SYS.1.7.A15 ENTFALLEN
 
 __Ehemals:__
@@ -4721,16 +4259,6 @@ __Ehemals:__
 
 *Außerdem SOLLTEN Hinweise auf potenzielle Sicherheitsverstöße untersucht werden.*
 
-#### SYS.1.7.A16-A31
-
-Keine inhaltlichen Änderungen.
-
-#### Anforderungen bei erhöhtem Schutzbedarf
-
-#### SYS.1.7.A32-A37
-
-Keine inhaltlichen Änderungen.
-
 </details>
 
 
@@ -4741,11 +4269,6 @@ Keine inhaltlichen Änderungen.
 </summary>
 
 #### Basis-Anforderungen
-
-#### SYS.1.8.A1
-
-Keine inhaltlichen Änderungen.
-
 
 #### SYS.1.8.A2
 
@@ -4767,11 +4290,6 @@ __Ehemals:__
 *Alle auf der jeweiligen Lösung eingerichteten Benutzerkonten MÜSSEN diesem Konzept entsprechen.*
 
 *Alle Benutzerkonten DÜRFEN NUR über die notwendigen Berechtigungen verfügen (Prinzip der geringsten Berechtigungen, engl. Least Privileges).*
-
-
-#### SYS.1.8.A4
-
-Keine inhaltlichen Änderungen.
 
 
 #### SYS.1.8.A5 ENTFALLEN
@@ -4800,21 +4318,6 @@ Gegebenenfalls SOLLTE sie aktualisiert werden.
 __Entfallen:__
 
 *• Auswahl geeigneter Hardware,*
-
-
-#### SYS.1.8.A8
-
-Keine inhaltlichen Änderungen.
-
-
-#### SYS.1.8.A9
-
-Keine inhaltlichen Änderungen.
-
-
-#### SYS.1.8.A10
-
-Keine inhaltlichen Änderungen.
 
 
 #### SYS.1.8.A11
@@ -4846,16 +4349,6 @@ __Entfallen:__
 *Sofern eine Speicherlösung durch einen externen Dienstleister betrieben wird, SOLLTE definiert und dokumentiert werden, wie die vertraglich vereinbarten SLAs überwacht werden.*
 
 
-#### SYS.1.8.A14
-
-Keine inhaltlichen Änderungen.
-
-
-#### SYS.1.8.A15
-
-Keine inhaltlichen Änderungen.
-
-
 #### SYS.1.8.A16
 
 __Ehemals:__
@@ -4872,16 +4365,6 @@ __Ehemals:__
 ##### Hinzugefüt:
 
 *Sie SOLLTE immer aktuell sein.*
-
-#### SYS.1.8.A18-A20
-
-Keine inhaltlichen Änderungen.
-
-#### Anforderungen bei erhöhtem Schutzbedarf
-
-#### SYS.1.8.A21-A23
-
-Keine inhaltlichen Änderungen.
 
 </details>
 
@@ -4922,11 +4405,6 @@ __Ehemals:__
 *Benutzer DÜRFEN NUR ausschließlich lesenden Zugriff auf Systemdateien haben.*
 
 *Ablauf, Rahmenbedingungen und Anforderungen an administrative Aufgaben sowie die Aufgabentrennungen zwischen den verschiedenen Rollen der Benutzer des IT-Systems SOLLTEN in einem Benutzer- und Administrationskonzept festgeschrieben werden.*
-
-
-#### SYS.2.1.A3
-
-Keine inhaltlichen Änderungen.
 
 
 #### SYS.2.1.A4 ENTFALLEN
@@ -4993,32 +4471,17 @@ __Ehemals:__
 *Es SOLLTE geprüft werden, ob die Speicherung der Protokolldaten auf den jeweiligen Clients selbst ausreichend ist oder ob eine zentrale Speicherung erfolgen soll.*
 
 
-#### SYS.2.1.A8
-
-Keine inhaltlichen Änderungen.
-
-
 #### NEU: SYS.2.1.A42
 
 Die Anforderung wurde neu hinzugefügt.
 
 #### Standard-Anforderungen
 
-#### SYS.2.1.A9
-
-Keine inhaltlichen Änderungen.
-
-
 #### SYS.2.1.A10
 
 __Entfallen:__
 
 *Neben Client-Typ-spezifischen Anforderungsprofilen SOLLTEN Vorgaben zur Authentisierung und Benutzerverwaltung definiert werden.*
-
-
-#### SYS.2.1.A11
-
-Keine inhaltlichen Änderungen.
 
 
 #### SYS.2.1.A12 ENTFALLEN
@@ -5035,11 +4498,6 @@ __Ehemals:__
 *Gibt es vom Softwarehersteller oder aus anderen Fachkreisen keine verbindliche Information zur Kompatibilität, SOLLTE die Kompatibilität in einer Testumgebung geprüft werden.*
 
 *Vor einer beabsichtigten Hardwareänderung oder bei einer Betriebssystemmigration SOLLTE die Kompatibilität der Treibersoftware für alle betroffenen Komponenten gewährleistet werden.*
-
-
-#### SYS.2.1.A13
-
-Keine inhaltlichen Änderungen.
 
 
 #### SYS.2.1.A14
@@ -5063,16 +4521,6 @@ Auf Betriebssysteme, die über ein Rolling-Release-Modell aktualisiert werden, S
 Es SOLLTEN NUR Anwendungsprogramme ausgewählt und installiert werden, für die Support angeboten wird.
 
 Betriebssysteme, Anwendungsprogramme und Firmware, für die keine regelmäßigen Sicherheitsupdates angeboten werden, DÜRFEN NICHT eingesetzt werden.
-
-
-#### SYS.2.1.A15
-
-Keine inhaltlichen Änderungen.
-
-
-#### SYS.2.1.A16
-
-Keine inhaltlichen Änderungen.
 
 
 #### SYS.2.1.A17 ENTFALLEN
