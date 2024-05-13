@@ -982,12 +982,6 @@ __Ehemals:__
 
 *Alle Compliance-Anforderungen, die institutionsweiten Sicherheitsrichtlinien, die rechtlichen Anforderungen und die spezifischen Sicherheitsanforderungen MÜSSEN bei der Software-Entwicklung ermittelt und berücksichtigt werden.*
 
-
-#### CON.8.A10
-
-Keine inhaltlichen Änderungen.
-
-
 #### NEU: CON.8.A20
 
 Die Anforderung ist neu hinzugefügt worden.
@@ -1017,15 +1011,6 @@ Die Rollen SOLLTEN dabei fachlich die nachfolgenden Themen abdecken:
 • Software-Tests.
 
 Für jedes Entwicklungsvorhaben SOLLTE ein Zuständiger für die Informationssicherheit benannt werden.
-
-#### CON.8.A11
-
-Keine inhaltlichen Änderungen.
-
-
-#### CON.8.A12
-
-Keine inhaltlichen Änderungen.
 
 
 #### CON.8.A13 ENTFALLEN
@@ -1081,11 +1066,6 @@ __Ehemals:__
 *Der Zugriff auf die Entwicklungsdaten SOLLTE kontrolliert sein.*
 
 
-#### CON.8.A16
-
-Keine inhaltlichen Änderungen.
-
-
 #### NEU: CON.8.A21
 
 Die Anforderung wurde neu hinzugefügt.
@@ -1094,22 +1074,6 @@ Die Anforderung wurde neu hinzugefügt.
 #### NEU: CON.8.A22
 
 Die Anforderung wurde neu hinzugefügt.
-
-#### Anforderungen bei erhöhtem Schutzbedarf
-
-#### CON.8.A17
-
-Keine inhaltlichen Änderungen.
-
-
-#### CON.8.A18
-
-Keine inhaltlichen Änderungen.
-
-
-#### CON.8.A19
-
-Keine inhaltlichen Änderungen.
 
 </details>
 
@@ -1147,15 +1111,8 @@ Falls schutzbedürftige Daten übermittelt werden, MUSS der Informationseigentü
 
 Falls die Informationen schutzbedürftig sind, MUSS der Informationseigentümer den Empfänger außerdem darauf hinweisen, dass dieser die Daten ausschließlich zu dem Zweck nutzen darf, zu dem sie übermittelt wurden.
 
-#### CON.9.A3
-
-Keine inhaltlichen Änderungen.
 
 #### Standard-Anforderungen
-
-#### CON.9.A4
-
-Keine inhaltlichen Änderungen.
 
 #### CON.9.A5
 
@@ -1174,20 +1131,6 @@ __Hinzugefügt:__:
 Die Benutzer SOLLTEN unerwünschte Restinformationen aus Dokumenten und Dateien entfernen.
 
 
-#### CON.9.A6
-
-Keine inhaltlichen Änderungen.
-
-
-#### CON.9.A7
-
-Keine inhaltlichen Änderungen.
-
-
-#### CON.9.A8
-
-Keine inhaltlichen Änderungen.
-
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 #### NEU: CON.9.A9
@@ -1201,10 +1144,7 @@ Die Anforderung ist neu hinzugefügt worden.
 
 Der Baustein CON.10 ist neu hinzugefügt worden.
 
-
-
 ---
-
 
 
 ## OPS
@@ -1265,11 +1205,6 @@ __Entfallen:__
 *Diese Anforderungen MÜSSEN auch dann erfüllt werden, wenn administrative Aufgaben an Dritte übertragen wurden und die dort beschäftigten Mitarbeiter aus ihrer Tätigkeit ausscheiden.*
 
 
-#### OPS.1.1.2.A5
-
-Keine inhaltlichen Änderungen.
-
-
 #### OPS.1.1.2.A6
 
 __Hinzugefügt:__:
@@ -1288,11 +1223,6 @@ __Entfallen:__
 
 #### Standard-Anforderungen
 
-#### OPS.1.1.2.A7-A10
-
-Keine inhaltlichen Änderungen.
-
-
 #### OPS.1.1.2.A11
 
 __Hinzugefügt:__:
@@ -1310,12 +1240,6 @@ __Entfallen:__
 #### OPS.1.1.2.A20
 
 Die Anforderung ist neu hinzugekommen.
-
-#### Anforderungen bei erhöhtem Schutzbedarf
-
-#### OPS.1.1.2.A14-A19
-
-Keine inhaltlichen Änderungen.
 
 </details>
 
@@ -1400,16 +1324,6 @@ __Geändert:__
 Der zu einer Änderung zugehörige Abstimmungsprozess SOLLTE alle relevanten Zielgruppen und die Auswirkungen auf die Informationssicherheit berücksichtigen.
 
 
-#### OPS.1.1.3.A7
-
-Keine inhaltlichen Änderungen.
-
-
-#### OPS.1.1.3.A8
-
-Keine inhaltlichen Änderungen.
-
-
 #### OPS.1.1.3.A9
 
 __Hinzugefügt:__:
@@ -1426,22 +1340,7 @@ Falls ja, SOLLTEN diese vor der Installation des Pakets überprüft werden.
 Software und Updates SOLLTEN grundsätzlich nur aus vertrauenswürdigen Quellen bezogen werden.
 
 
-#### OPS.1.1.3.A11
-
-Keine inhaltlichen Änderungen.
-
 #### Anforderungen bei erhöhtem Schutzbedarf
-
-#### OPS.1.1.3.A12
-
-Keine inhaltlichen Änderungen.
-
-
-#### OPS.1.1.3.A13
-
-Keine inhaltlichen Änderungen.
-
-
 
 #### OPS.1.1.3.A14
 
@@ -1557,11 +1456,6 @@ __Entfallen:__
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
-#### OPS.1.1.4.A10-A14
-
-Keine inhaltlichen Änderungen.
-
-
 #### OPS.1.1.4.A15 ENTFALLEN
 
 __Ehemals:__
@@ -1611,10 +1505,6 @@ __Ehemals:__
 *Diese MÜSSEN sicherstellen, dass die Protokollierungsrichtlinie eingehalten wird.*
 
 
-#### OPS.1.1.5.A3-A5
-
-Keine inhaltlichen Änderungen.
-
 #### Standard-Anforderungen
 
 #### OPS.1.1.5.A6
@@ -1649,16 +1539,6 @@ __Ehemals:__
 *Es SOLLTEN nur Administratoren auf die Protokollierungsserver zugreifen können, die speziell dafür verantwortlich sind (siehe OPS.1.1.5.A2 Festlegung von Rollen und Verantwortlichkeiten).*
 
 
-#### OPS.1.1.5.A8
-
-Keine inhaltlichen Änderungen.
-
-
-#### OPS.1.1.5.A9
-
-Keine inhaltlichen Änderungen.
-
-
 #### OPS.1.1.5.A10
 
 __Entfallen:__
@@ -1678,12 +1558,6 @@ __Entfallen:__
 __Hinzugefügt:__:
 
 Es SOLLTE sichergestellt sein, dass die ausführenden Administratoren selbst keine Berechtigung haben, die aufgezeichneten Protokollierungsdaten zu verändern oder zu löschen.
-
-#### Anforderungen bei erhöhtem Schutzbedarf
-
-#### OPS.1.1.5.A11-A13
-
-Keine inhaltlichen Änderungen.
 
 </details>
 
@@ -1723,21 +1597,6 @@ Die Testumgebung MUSS so ausgewählt werden, sodass diese möglichst repräsenta
 Es SOLLTE dabei getestet werden, ob die Software mit den eingesetzten Betriebssystemen in den vorliegenden Konfigurationen kompatibel und funktionsfähig ist.
 
 
-#### OPS.1.1.6.A2
-
-keine inhaltlichen Änderungen.
-
-
-#### OPS.1.1.6.A3
-
-keine inhaltlichen Änderungen.
-
-
-#### OPS.1.1.6.A4
-
-keine inhaltlichen Änderungen.
-
-
 #### OPS.1.1.6.A5
 
 __Geändert:__
@@ -1751,11 +1610,6 @@ Es MÜSSEN Software-Tests durchgeführt werden, die überprüfen, ob alle wesent
 Die Anforderung wurde von einer Standard-Anforderung zu einer Basis-Anforderung.
 
 #### Standard-Anforderungen
-
-#### OPS.1.1.6.A6
-
-keine inhaltlichen Änderungen.
-
 
 #### OPS.1.1.6.A7
 
@@ -1802,11 +1656,6 @@ Sie SOLLTE ebenfalls dem Test- und Freigabeprozess unterzogen werden.
 Es SOLLTE überprüft werden, ob die Hilfestellungs- und Supportleistungen des Softwareherstellers ausreichend sind.
 
 
-#### OPS.1.1.6.A10
-
-Keine inhaltlichen Änderungen.
-
-
 #### OPS.1.1.6.A12
 
 __Geändert:__
@@ -1841,11 +1690,6 @@ Die Anforderung wurde neu hinzugefügt.
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
-#### OPS.1.1.6.A14
-
-Keine inhaltlichen Änderungen.
-
-
 #### NEU: OPS.1.1.6.A16
 
 Die Anforderung wurde neu hinzugefügt.
@@ -1866,11 +1710,6 @@ Keine inhaltlichen Änderungen.
 </summary>
 
 #### Basis-Anforderungen
-
-#### OPS.1.2.4.A1
-
-keine inhaltlichen Änderungen.
-
 
 #### OPS.1.2.4.A2
 
@@ -1912,16 +1751,6 @@ __Ehemals:__
 
 *Es SOLLTEN Backup-Datenträger in der Institution hinterlegt werden.*
 
-
-#### OPS.1.2.4.A5
-
-Keine inhaltlichen Änderungen.
-
-#### Standard-Anforderungen
-
-#### OPS.1.2.4.A6-A10
-
-Keine inhaltlichen Änderungen.
 
 </details>
 
@@ -1971,47 +1800,17 @@ __Ehemals:__
 
 #### Standard-Anforderungen
 
-#### OPS.1.2.5.A5-A13
-
-Keine inhaltlichen Änderungen.
-
-
-#### OPS.1.2.5.A15-A19
-
-Keine inhaltlichen Änderungen.
-
-
 #### OPS.1.2.5.A20
 
 __Entfallen:__
 
 *Die anfallenden Protokolldaten SOLLTEN regelmäßig ausgewertet werden.*
 
-
-#### OPS.1.2.5.A21
-
-Keine inhaltlichen Änderungen.
-
-
-#### OPS.1.2.5.A24
-
-Keine inhaltlichen Änderungen.
-
-
 #### NEU: OPS.1.2.5.A25
 
 Die Anforderung wurde neu hinzugefügt.
 
 #### Anforderungen bei erhöhtem Schutzbedarf
-
-#### OPS.1.2.5.A14
-
-Keine inhaltlichen Änderungen.
-
-
-#### OPS.1.2.5.A22
-
-Keine inhaltlichen Änderungen.
 
 #### OPS.1.2.5.A23 ENTFALLEN
 
@@ -2071,11 +1870,6 @@ Es MUSS regelmäßig überprüft werden, ob die spezifische Sicherheitsrichtlini
 Die Ergebnisse der Überprüfung MÜSSEN sinnvoll dokumentiert werden.
 
 
-#### DER.1.A2
-
-Keine inhaltlichen Änderungen.
-
-
 #### DER.1.A3
 
 __Entfallen:__
@@ -2110,11 +1904,6 @@ __Entfallen:__
 
 #### Standard-Anforderungen
 
-#### DER.1.A6
-
-Keine inhaltlichen Änderungen.
-
-
 #### DER.1.A7
 
 __Geändert:__
@@ -2142,26 +1931,11 @@ __Hinzugefügt:__:
 Anhand des Netzplans SOLLTE festgelegt werden, welche Netzsegmente durch zusätzliche Detektionssysteme geschützt werden müssen.
 
 
-#### DER.1.A10
-
-Keine inhaltlichen Änderungen.
-
-
 #### DER.1.A11
 
 __Entfallen:__
 
 *Damit die Daten korreliert und abgeglichen werden können, SOLLTEN sie alle zeitlich synchronisiert werden.*
-
-#### DER.1.A12-A13
-
-Keine inhaltlichen Änderungen.
-
-#### Anforderungen bei erhöhtem Schutzbedarf
-
-#### DER.1.A14-A18
-
-Keine inhaltlichen Änderungen.
 
 </details>
 
@@ -2173,11 +1947,6 @@ Keine inhaltlichen Änderungen.
 </summary>
 
 #### Basis-Anforderungen
-
-#### DER.2.1.A1-A4
-
-Keine inhaltlichen Änderungen.
-
 
 #### DER.2.1.A5
 
@@ -2201,21 +1970,11 @@ __Hinzugefügt:__:
 Bei Bedarf SOLLTE die Vorgehensweise angepasst werden.
 
 
-#### DER.2.1.A8-A12
-
-Keine inhaltlichen Änderungen.
-
-
 #### DER.2.1.A13
 
 __Entfallen:__
 
 *Als Teil des Sicherheitsmanagements SOLLTE die Behandlung von Sicherheitsvorfällen in der Sicherheitsleitlinie bzw. im Sicherheitskonzept der Institution geregelt werden*
-
-
-#### DER.2.1.A14
-
-Keine inhaltlichen Änderungen.
 
 
 #### DER.2.1.A15
@@ -2226,15 +1985,8 @@ __Entfallen:__
 
 *Die Checklisten des Service Desk SOLLTEN auch Fragen enthalten, um Sicherheitsvorfälle identifizieren zu können.*
 
-#### DER.2.1.A16-A18
-
-Keine inhaltlichen Änderungen.
 
 #### Anforderungen bei erhöhtem Schutzbedarf
-
-#### DER.2.1.A19-A20
-
-Keine inhaltlichen Änderungen.
 
 
 #### DER.2.1.A21
@@ -2242,11 +1994,6 @@ Keine inhaltlichen Änderungen.
 __Geändert:__
 
 Die Zuständigkeiten des Expertenteams SOLLTEN vorher mit denen des Sicherheitsvorfall-Teams abgestimmt werden.
-
-
-#### DER.2.1.A22
-
-Keine inhaltlichen Änderungen.
 
 </details>
 
@@ -2268,18 +2015,6 @@ Keine inhaltlichen Änderungen.
 <details>
 <summary> Änderungen
 </summary>
-
-#### Basis-Anforderungen
-
-#### DER.3.1.A1-A4
-
-Keine inhaltlichen Änderungen.
-
-#### Standard-Anforderungen
-
-#### DER.3.1.A5-A27
-
-Keine inhaltlichen Änderungen.
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
@@ -2303,18 +2038,6 @@ __Ehemals:__
 <details>
 <summary> Änderungen
 </summary>
-
-#### Basis-Anforderungen
-
-#### DER.3.2.A1-A8
-
-Keine inhaltlichen Änderungen.
-
-#### Standard-Anforderungen
-
-#### DER.3.2.A9-A22
-
-Keine inhaltlichen Änderungen.
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
@@ -2495,21 +2218,6 @@ __Ehemals:__
 *Dokumente SOLLTEN in einem nicht veränderbaren Format übermittelt werden, wenn keine Bearbeitung durch den Empfänger erforderlich ist.*
 
 
-#### APP.1.1.A10
-
-Keine inhaltlichen Änderungen.
-
-
-#### APP.1.1.A11
-
-Keine inhaltlichen Änderungen.
-
-
-#### APP.1.1.A12
-
-Keine inhaltlichen Änderungen.
-
-
 #### APP.1.1.A13
 
 __Hinzugefügt:__:
@@ -2645,11 +2353,6 @@ __Ehemals:__
 *Der Webbrowser SOLLTE NICHT dauerhaft mit erweiterten Rechten ausgeführt werden.*
 
 
-#### APP.1.2.A7
-
-Keine inhaltlichen Änderungen.
-
-
 #### APP.1.2.A8 ENTFALLEN
 
 __Ehemals:__
@@ -2665,12 +2368,6 @@ __Ehemals:__
 *Die Ausführung von Plug-ins SOLLTE immer vom Benutzer bestätigt werden müssen.*
 
 *Der Webbrowser SOLLTE die Möglichkeit bieten, Erweiterungen zu konfigurieren und abzuschalten.*
-
-#### Anforderungen bei erhöhtem Schutzbedarf
-
-#### APP.1.2.A9-A12
-
-Keine inhaltlichen Änderungen.
 
 </details>
 
@@ -2734,11 +2431,6 @@ __Ehemals:__
 *Die Freigabekriterien SOLLTEN bei allen erfüllt sein.*
 
 
-#### APP.1.4.A5
-
-Keine inhaltlichen Änderungen.
-
-
 #### APP.1.4.A6 ENTFALLEN
 
 __Ehemals:__
@@ -2757,15 +2449,6 @@ __Ehemals:__
 
 *Ist dies nicht möglich, DÜRFEN Apps mit bekannten offenen Schwachstellen NICHT verwendet werden.*
 
-
-#### APP.1.4.A7
-
-Keine inhaltlichen Änderungen.
-
-
-#### APP.1.4.A8
-
-Keine inhaltlichen Änderungen.
 
 #### Standard-Anforderungen
 
@@ -2846,16 +2529,6 @@ __Ehemals:__
 *Dabei SOLLTE im Vorfeld überlegt werden, wie lang die maximal tolerierbare Ausfallzeit einer App ist und wie sich die betroffenen Geschäftsprozesse anderweitig abbilden lassen, beispielsweise durch ein zentrales Webportal.*
 
 
-#### APP.1.4.A14
-
-Keine inhaltlichen Änderungen.
-
-
-#### APP.1.4.A15
-
-Keine inhaltlichen Änderungen.
-
-
 #### APP.1.4.A16
 
 Die Anforderung wurde vollständig neu hinzugefüt.
@@ -2877,11 +2550,6 @@ Keine inhaltlichen Änderungen.
 
 #### Basis-Anforderungen
 
-#### APP.2.2.A1
-
-Keine inhaltlichen Änderungen.
-
-
 #### APP.2.2.A2
 
 __Entfallen:__
@@ -2889,11 +2557,6 @@ __Entfallen:__
 *Es MUSS ein rollenbasiertes Berechtigungskonzept erstellt werden.*
 
 *Alle administrativen Aufgabenbereiche und Berechtigungen SOLLTEN geeignet dokumentiert sein.*
-
-
-#### APP.2.2.A3
-
-Keine inhaltlichen Änderungen.
 
 
 #### APP.2.2.A4 ENTFALLEN
@@ -2905,11 +2568,6 @@ __Ehemals:__
 *Die Administratoren MÜSSEN mit allen Sicherheitsmechanismen und -aspekten von Active Directory in ihrem Tätigkeitsbereich vertraut sein.*
 
 *Sie SOLLTEN für die Arbeit mit Active Directory vor der Einrichtung sowie fortlaufend geschult werden.*
-
-
-#### APP.2.2.A5
-
-Keine inhaltlichen Änderungen.
 
 
 #### APP.2.2.A6
