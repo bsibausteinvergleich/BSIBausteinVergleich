@@ -2842,98 +2842,21 @@ Vorab MUSS auf einem Testsystem überprüft werden, (...)
 __Änderung:__\
 Eine eventuell vorhandene Administrationsschnittstelle über das eigentliche Datennetz (In-Band) SOLLTE deaktiviert werden.
 
-#### NET.3.2.A19
-Keine inhaltlichen Änderungen.
-
-#### NET.3.2.A20
-Keine inhaltlichen Änderungen.
-
 #### NET.3.2.A21
 __Änderung:__\
 Hierbei SOLLTEN die rechtlichen Rahmenbedingungen beachtet werden.
 
-#### NET.3.2.A22
-Keine inhaltlichen Änderungen.
-
-#### NET.3.2.A23
-Keine inhaltlichen Änderungen.
-
-#### NET.3.2.A24
-Keine inhaltlichen Änderungen.
-
-#### Anforderungen bei erhöhtem Schutzbedarf
-
-#### NET.3.2.A25
-Keine inhaltlichen Änderungen.
-
-#### NET.3.2.A26
-Keine inhaltlichen Änderungen.
-
-#### NET.3.2.A27
-Keine inhaltlichen Änderungen.
-
-#### NET.3.2.A28
-Keine inhaltlichen Änderungen.
-
-#### NET.3.2.A29
-Keine inhaltlichen Änderungen.
-
-#### NET.3.2.A30
-Keine inhaltlichen Änderungen.
-
-#### NET.3.2.A31
-Keine inhaltlichen Änderungen.
-
 </details>
-
 
 ### NET.3.3
 <details>
 <summary> Änderungen
 </summary>
 
-#### Basis-Anforderungen
-
-#### NET.3.3.A1
-Keine inhaltlichen Änderungen.
-
-#### NET.3.3.A2
-Keine inhaltlichen Änderungen.
-
-#### NET.3.3.A3
-Keine inhaltlichen Änderungen.
-
-#### NET.3.3.A4
-Keine inhaltlichen Änderungen.
-
-#### NET.3.3.A5
-Keine inhaltlichen Änderungen.
-
 #### Standard-Anforderungen
 
 #### NET.3.3.A6
 __Ergänzung:__ (...) beziehungsweise Fachaufgaben,
-
-#### NET.3.3.A7
-Keine inhaltlichen Änderungen.
-
-#### NET.3.3.A8
-Keine inhaltlichen Änderungen.
-
-#### NET.3.3.A9
-Keine inhaltlichen Änderungen.
-
-#### NET.3.3.A10
-Keine inhaltlichen Änderungen.
-
-#### NET.3.3.A11
-Keine inhaltlichen Änderungen.
-
-#### NET.3.3.A12
-Keine inhaltlichen Änderungen.
-
-#### NET.3.3.A13
-Keine inhaltlichen Änderungen.
 
 </details>
 
@@ -2945,70 +2868,16 @@ Keine inhaltlichen Änderungen.
 
 #### Basis-Anforderungen
 
-#### NET.4.1.A1
-Keine inhaltlichen Änderungen.
-
-#### NET.4.1.A2
-Keine inhaltlichen Änderungen.
-
-#### NET.4.1.A3
-Keine inhaltlichen Änderungen.
-
-#### NET.4.1.A4
-Keine inhaltlichen Änderungen.
-
 #### NET.4.1.A5
 __Änderung:__\
 Die protokollierten Informationen SOLLTEN regelmäßig kontrolliert werden.
 
 #### Standard-Anforderungen
 
-#### NET.4.1.A6
-Keine inhaltlichen Änderungen.
-
-#### NET.4.1.A7
-Keine inhaltlichen Änderungen.
-
-#### NET.4.1.A8
-Keine inhaltlichen Änderungen.
-
-#### NET.4.1.A9
-Keine inhaltlichen Änderungen.
-
-#### NET.4.1.A10
-Keine inhaltlichen Änderungen.
-
-#### NET.4.1.A11
-Keine inhaltlichen Änderungen.
-
-#### NET.4.1.A12
-Keine inhaltlichen Änderungen.
-
-#### NET.4.1.A13
-Keine inhaltlichen Änderungen.
-
-#### NET.4.1.A14
-Keine inhaltlichen Änderungen.
-
-#### NET.4.1.A15
-Keine inhaltlichen Änderungen.
-
-#### NET.4.1.A16
-Keine inhaltlichen Änderungen.
-
 #### NET.4.1.A17 (Aktualisiert: Basis-Anforderung)
 Keine inhaltlichen Änderungen.
 
-#### Anforderungen bei erhöhtem Schutzbedarf
-
-#### NET.4.1.A18
-Keine inhaltlichen Änderungen.
-
-#### NET.4.1.A19
-Keine inhaltlichen Änderungen.
-
 </details>
-
 
 ### NET.4.2
 <details>
@@ -3017,60 +2886,15 @@ Keine inhaltlichen Änderungen.
 
 #### Basis-Anforderungen
 
-#### NET.4.2.A1
-Keine inhaltlichen Änderungen.
-
-#### NET.4.2.A2
-Keine inhaltlichen Änderungen.
-
-#### NET.4.2.A3
-Keine inhaltlichen Änderungen.
-
-#### NET.4.2.A4
-Keine inhaltlichen Änderungen.
-
-#### NET.4.2.A5
-Keine inhaltlichen Änderungen.
-
 #### NET.4.2.A6
 __Ergänzung:__\
 Datenschutzrelevante Vorgaben MÜSSEN bei der Protokollierung berücksichtigt werden.
-
-#### NET.4.2.A7
-Keine inhaltlichen Änderungen.
-
-#### NET.4.2.A8
-Keine inhaltlichen Änderungen.
-
-#### NET.4.2.A9
-Keine inhaltlichen Änderungen.
-
-#### NET.4.2.A10
-Keine inhaltlichen Änderungen.
 
 #### NET.4.2.A11
 __Entfallen:__\
 Sie SOLLTEN angewiesen werden, bei Abwesenheit die Endgeräte geeignet zu sperren.
 
-#### NET.4.2.A12
-Keine inhaltlichen Änderungen.
-
-#### NET.4.2.A13
-Keine inhaltlichen Änderungen.
-
-#### Anforderungen bei erhöhtem Schutzbedarf
-
-#### NET.4.2.A14
-Keine inhaltlichen Änderungen.
-
-#### NET.4.2.A15
-Keine inhaltlichen Änderungen.
-
-#### NET.4.2.A16
-Keine inhaltlichen Änderungen.
-
 </details>
-
 
 ### NET.4.3
 <details>
@@ -3085,22 +2909,10 @@ Der Aufstellungsort MUSS über einen geeigneten Netzanschluss für das Faxgerät
 
 Faxgeräte DÜRFTEN NICHT an nicht dafür vorgesehene Netzanschlüsse angeschlossen werden.
 
-#### NET.4.3.A2
-Keine inhaltlichen Änderungen.
-
-#### NET.4.3.A3
-Keine inhaltlichen Änderungen.
-
 #### Standard-Anforderungen
-
-#### NET.4.3.A4
-Keine inhaltlichen Änderungen.
 
 #### NET.4.3.A5 ENTFALLEN
 __Diese Anforderung ist entfallen.__
-
-#### NET.4.3.A6
-Keine inhaltlichen Änderungen.
 
 #### NET.4.3.A7
 __Entfallen:__\
@@ -3110,16 +2922,7 @@ Alle Informationen, die auf dem Faxdeckblatt einzutragen sind, SOLLTEN in geeign
 __Änderung:__\
 (...) unkenntlich gemacht werden (...)
 
-#### NET.4.3.A9
-Keine inhaltlichen Änderungen.
-
-#### NET.4.3.A10
-Keine inhaltlichen Änderungen.
-
 #### Anforderungen bei erhöhtem Schutzbedarf
-
-#### NET.4.3.A11
-Keine inhaltlichen Änderungen.
 
 #### NET.4.3.A12
 __Änderung:__\
@@ -3128,15 +2931,6 @@ Unerwünschte Faxadressen, SOLLTEN blockiert werden.
 Alternativ SOLLTEN nur bestimmte Rufnummern zugelassen werden.
 
 Es SOLLTE geprüft werden, welcher Ansatz in welcher Situation geeignet ist.
-
-#### NET.4.3.A13
-Keine inhaltlichen Änderungen.
-
-#### NET.4.3.A14
-Keine inhaltlichen Änderungen.
-
-#### NET.4.3.A15
-Keine inhaltlichen Änderungen.
 
 </details>
 
@@ -3149,89 +2943,17 @@ ___
 
 #### Basis-Anforderungen
 
-#### INF.1.A1
-Keine inhaltlichen Änderungen.
-
-#### INF.1.A2
-Keine inhaltlichen Änderungen.
-
 #### INF.1.A3
 __Entfallen:__\
 Dazu gehört die regelmäßige Entsorgung von Altpapier und Verpackungsabfällen.
 
-#### INF.1.A4
-Keine inhaltlichen Änderungen.
-
-#### INF.1.A5
-Keine inhaltlichen Änderungen.
-
-#### INF.1.A6
-Keine inhaltlichen Änderungen.
-
-#### INF.1.A7
-Keine inhaltlichen Änderungen.
-
-#### INF.1.A8
-Keine inhaltlichen Änderungen.
-
 #### Standard-Anforderungen
-
-#### INF.1.A9
-Keine inhaltlichen Änderungen.
-
-#### INF.1.A10
-Keine inhaltlichen Änderungen.
 
 #### INF.1.A11
 __Ergänzung:__\
 (...)und der Raum für unberechtigte Personen zugänglich ist.
 
-#### INF.1.A12
-Keine inhaltlichen Änderungen.
-
-#### INF.1.A13
-Keine inhaltlichen Änderungen.
-
-#### INF.1.A14
-Keine inhaltlichen Änderungen.
-
-#### INF.1.A15
-Keine inhaltlichen Änderungen.
-
-#### INF.1.A16
-Keine inhaltlichen Änderungen.
-
-#### INF.1.A17
-Keine inhaltlichen Änderungen.
-
-#### INF.1.A18
-Keine inhaltlichen Änderungen.
-
-#### INF.1.A19
-Keine inhaltlichen Änderungen.
-
-#### INF.1.A20
-Keine inhaltlichen Änderungen.
-
 #### Anforderungen bei erhöhtem Schutzbedarf
-
-#### INF.1.A21
-Keine inhaltlichen Änderungen.
-
-#### INF.1.A22
-Keine inhaltlichen Änderungen.
-
-#### INF.1.A23
-Keine inhaltlichen Änderungen.
-
-#### INF.1.A24
-Keine inhaltlichen Änderungen.
-
-#### INF.1.A25
-Keine inhaltlichen Änderungen.
-
-#### INF.1.A26
-Keine inhaltlichen Änderungen.
 
 #### INF.1.A27
 __Änderung:__\
@@ -3239,45 +2961,12 @@ Bei der Planung, der Umsetzung und im Betrieb SOLLTE beim Einbruchschutz darauf 
 
 Er SOLLTE regelmäßig durch eine fachkundige Person begutachtet werden.
 
-#### INF.1.A28
-Keine inhaltlichen Änderungen.
-
-#### INF.1.A29
-Keine inhaltlichen Änderungen.
-
-#### INF.1.A30
-Keine inhaltlichen Änderungen.
-
-#### INF.1.A31
-Keine inhaltlichen Änderungen.
-
-#### INF.1.A32
-Keine inhaltlichen Änderungen.
-
-#### INF.1.A33
-Keine inhaltlichen Änderungen.
-
-#### INF.1.A34
-Keine inhaltlichen Änderungen.
-
 </details>
-
 
 ### INF.10
 <details>
 <summary> Änderungen
 </summary>
-
-#### Basis-Anforderungen
-
-#### INF.10.A1
-Keine inhaltlichen Änderungen.
-
-#### INF.10.A2
-Keine inhaltlichen Änderungen.
-
-#### INF.10.A3
-Keine inhaltlichen Änderungen.
 
 #### Standard-Anforderungen
 
@@ -3288,25 +2977,7 @@ __Ergänzung:__\
 #### INF.10.A5
 __Entfallen:__ (...) mit einem Kabelschacht(...)
 
-#### INF.10.A6
-Keine inhaltlichen Änderungen.
-
-#### INF.10.A7
-Keine inhaltlichen Änderungen.
-
-#### INF.10.A8
-Keine inhaltlichen Änderungen.
-
-#### Anforderungen bei erhöhtem Schutzbedarf
-
-#### INF.10.A9
-Keine inhaltlichen Änderungen.
-
-#### INF.10.A10
-Keine inhaltlichen Änderungen.
-
 </details>
-
 
 ### INF.2
 <details>
@@ -3363,9 +3034,6 @@ Außerdem MUSS sichergestellt werden, dass Besucher und Fremdpersonal während a
 __Ergänzung:__\
 Sie MÜSSEN mit einem Sichtschutz versehen sein.
 
-#### INF.2.A8
-Keine inhaltlichen Änderungen.
-
 #### INF.2.A9
 __Ergänzung:__\
 (...) oder durch technische (insbesondere durch eine flächendeckende Brandfrüherkennung, siehe INF.2.A17 Brandfrüherkennung) und organisatorische Maßnahmen (geschultes Personal und fallbezogene Reaktionspläne für Meldungen der Brandfrüherkennung) sichergestellt sein, dass unmittelbar (innerhalb von maximal 5 Minuten) auf Meldungen der Brandfrüherkennung reagiert wird.
@@ -3375,12 +3043,6 @@ In Serverräumen und in einem Rechenzentrum ohne Lösch- oder Brandvermeidungsan
 
 __Ergänzung:__\
 Es MUSS beachtet werden, dass darüber hinausgehende baurechtliche Anforderungen hinsichtlich der Ausstattung mit Handfeuerlöschern davon unberührt bleiben.
-
-#### INF.2.A10
-Keine inhaltlichen Änderungen.
-
-#### INF.2.A11
-Keine inhaltlichen Änderungen.
 
 #### INF.2.A17 (Aktualisiert: Basis-Anforderung)
 Durch eine gegebenenfalls installierte Brandfrüherkennung MUSS sichergestellt werden, dass Brandrauch frühestmöglich detektiert wird.
@@ -3414,9 +3076,6 @@ __Ergänzung:__\
 • Maßnahmen zur Beweissicherung (bspw. Videoaufzeichnung) sowie\
 • automatische Alarmierung.
 
-#### INF.2.A13
-Keine inhaltlichen Änderungen.
-
 #### INF.2.A14
 __Ergänzung:__\
 Außerdem SOLLTE regelmäßig kontrolliert werden, ob die Vorräte noch verwendbar sind, vor allem um die sogenannte Dieselpest zu vermeiden.
@@ -3444,12 +3103,6 @@ __Änderung:__\
 #### INF.2.A18 ENTFALLEN
 __Diese Anforderung ist entfallen.__
 
-#### INF.2.A19
-Keine inhaltlichen Änderungen.
-
-#### INF.2.A20
-Keine inhaltlichen Änderungen.
-
 #### NEU: INF.2.A30
 INF.2.A30 Anlagen zur Erkennung, Löschung oder Vermeidung von Bränden [Haustechnik, Planer] (S)
 
@@ -3465,9 +3118,6 @@ Der Schwenk auf das Notfallrechenzentrum SOLLTE regelmäßig getestet und geübt
 
 Die Übertragungswege in das Ausweichrechenzentrum SOLLTEN geeignet abgesichert und entsprechend redundant ausgelegt sein.
 
-#### INF.2.A22
-Keine inhaltlichen Änderungen.
-
 #### INF.2.A23
 __Entfallen:__\
 Für unterschiedliche Netzarten, z. B. Datennetz, Netz für Gefahrenmeldeanlagen und Stromnetz, SOLLTEN getrennte Kabel benutzt werden.
@@ -3477,24 +3127,11 @@ Werden Kabel für verschiedene Netze gemeinsam geführt, SOLLTE sichergestellt s
 __Ergänzung:__\
 Tragsysteme SOLLTEN hinsichtlich Brandbeanspruchung in einem dem Schutzbedarf genügenden Funktionserhalt ausgeführt werden.
 
-#### INF.2.A24
-Keine inhaltlichen Änderungen.
-
-#### INF.2.A25
-Keine inhaltlichen Änderungen.
-
-#### INF.2.A26
-Keine inhaltlichen Änderungen.
-
 #### INF.2.A27
 __Änderung:__\
 Mit dem Personal des Rechenzentrums sowie des Serverraums SOLLTEN regelmäßige Alarmierungs- und Brandschutzübungen durchgeführt werden.
 
-#### INF.2.A28
-Keine inhaltlichen Änderungen.
-
 </details>
-
 
 ### INF.3
 <details>
@@ -3503,62 +3140,15 @@ Keine inhaltlichen Änderungen.
 
 #### Basis-Anforderungen
 
-#### INF.3.A1
-Keine inhaltlichen Änderungen.
-
 #### INF.3.A2
 __Ergänzung:__\
 (...) bevor sie verlegt werden.
-
-#### INF.3.A3
-Keine inhaltlichen Änderungen.
-
-#### Standard-Anforderungen
-
-#### INF.3.A4
-Keine inhaltlichen Änderungen.
-
-#### INF.3.A5
-Keine inhaltlichen Änderungen.
-
-#### INF.3.A6
-Keine inhaltlichen Änderungen.
-
-#### INF.3.A7
-Keine inhaltlichen Änderungen.
-
-#### INF.3.A8
-Keine inhaltlichen Änderungen.
-
-#### INF.3.A9
-Keine inhaltlichen Änderungen.
-
-#### INF.3.A10
-Keine inhaltlichen Änderungen.
-
-#### INF.3.A11
-Keine inhaltlichen Änderungen.
-
-#### INF.3.A12
-Keine inhaltlichen Änderungen.
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 #### INF.3.A13
 __Änderung:__\
 NEA und USV SOLLTEN regelmäßig gewartet werden.
-
-#### INF.3.A14
-Keine inhaltlichen Änderungen.
-
-#### INF.3.A15
-Keine inhaltlichen Änderungen.
-
-#### INF.3.A16
-Keine inhaltlichen Änderungen.
-
-#### INF.3.A17
-Keine inhaltlichen Änderungen.
 
 #### NEU: INF.3.A18
 INF.3.A18 EMV-taugliche Stromversorgung (H)\
@@ -3568,65 +3158,6 @@ Für die störungsfreie Funktion moderner IT-Systeme sowie der für deren Betrie
 Dafür SOLLTE das Stromverteilungsnetz als TN-S-System (frz. Terre Neutre Séparé) aufgebaut sein.
 
 Bei Aufbau und Betrieb des Stromverteilnetzes SOLLTEN die empfohlenen Trennungsabstände soweit wie möglich eingehalten werden.
-
-</details>
-
-
-### INF.4
-<details>
-<summary> Änderungen
-</summary>
-
-#### Basis-Anforderungen
-
-#### INF.4.A1
-Keine inhaltlichen Änderungen.
-
-#### INF.4.A2
-Keine inhaltlichen Änderungen.
-
-#### INF.4.A3
-Keine inhaltlichen Änderungen.
-
-#### Standard-Anforderungen
-
-#### INF.4.A4
-Keine inhaltlichen Änderungen.
-
-#### INF.4.A5
-Keine inhaltlichen Änderungen.
-
-#### INF.4.A6
-Keine inhaltlichen Änderungen.
-
-#### INF.4.A7
-Keine inhaltlichen Änderungen.
-
-#### INF.4.A8
-Keine inhaltlichen Änderungen.
-
-#### INF.4.A9
-Keine inhaltlichen Änderungen.
-
-#### INF.4.A10
-Keine inhaltlichen Änderungen.
-
-#### INF.4.A11
-Keine inhaltlichen Änderungen.
-
-#### Anforderungen bei erhöhtem Schutzbedarf
-
-#### INF.4.A12
-Keine inhaltlichen Änderungen.
-
-#### INF.4.A13
-Keine inhaltlichen Änderungen.
-
-#### INF.4.A14
-Keine inhaltlichen Änderungen.
-
-#### INF.4.A15
-Keine inhaltlichen Änderungen.
 
 </details>
 
@@ -3891,149 +3422,34 @@ Zum Schutz vor Ableitströmen, Strömen auf Schutzleitern, Leitungsschirmen und 
 __Ergänzung:__\
 Mitarbeiter, die in der Nähe eines Datenträgerarchivs tätig sind, (...)
 
-#### INF.6.A2
-Keine inhaltlichen Änderungen.
-
-#### INF.6.A3
-Keine inhaltlichen Änderungen.
-
-#### INF.6.A4
-Keine inhaltlichen Änderungen.
-
-#### Standard-Anforderungen
-
-#### INF.6.A5
-Keine inhaltlichen Änderungen.
-
-#### INF.6.A6
-Keine inhaltlichen Änderungen.
-
-#### INF.6.A7
-Keine inhaltlichen Änderungen.
-
-#### INF.6.A8
-Keine inhaltlichen Änderungen.
-
-#### Anforderungen bei erhöhtem Schutzbedarf
-
-#### INF.6.A9
-Keine inhaltlichen Änderungen.
-
 </details>
-
-
-### INF.7
-<details>
-<summary> Änderungen
-</summary>
-
-#### Basis-Anforderungen
-
-#### INF.7.A1
-Keine inhaltlichen Änderungen.
-
-#### INF.7.A2
-Keine inhaltlichen Änderungen.
-
-#### Standard-Anforderungen
-
-#### INF.7.A3
-Keine inhaltlichen Änderungen.
-
-#### INF.7.A4
-Keine inhaltlichen Änderungen.
-
-#### INF.7.A5
-Keine inhaltlichen Änderungen.
-
-#### INF.7.A6
-Keine inhaltlichen Änderungen.
-
-#### INF.7.A7
-Keine inhaltlichen Änderungen.
-
-#### INF.7.A8
-Keine inhaltlichen Änderungen.
-
-</details>
-
 
 ### INF.8
 <details>
 <summary> Änderungen
 </summary>
 
-#### Basis-Anforderungen
-
-#### INF.8.A1
-Keine inhaltlichen Änderungen.
-
-#### INF.8.A2
-Keine inhaltlichen Änderungen.
-
-#### INF.8.A3
-Keine inhaltlichen Änderungen.
-
 #### Standard-Anforderungen
-
-#### INF.8.A4
-Keine inhaltlichen Änderungen.
 
 #### INF.8.A5
 __Entfallen:__ (...) , also nicht einfach in den Hausmüll.
 
-#### Anforderungen bei erhöhtem Schutzbedarf
-
-#### INF.8.A6
-Keine inhaltlichen Änderungen.
-
 </details>
-
 
 ### INF.9
 <details>
 <summary> Änderungen
 </summary>
 
-#### Basis-Anforderungen
-
-#### INF.9.A1
-Keine inhaltlichen Änderungen.
-
-#### INF.9.A2
-Keine inhaltlichen Änderungen.
-
-#### INF.9.A3
-Keine inhaltlichen Änderungen.
-
-#### INF.9.A4
-Keine inhaltlichen Änderungen.
-
 #### Standard-Anforderungen
 
-#### INF.9.A5
-Keine inhaltlichen Änderungen.
 
 #### INF.9.A6
 __Entfallen:__ (...) , also nicht einfach in den Hausmüll.
 
-#### INF.9.A7
-Keine inhaltlichen Änderungen.
-
 #### INF.9.A8
 __Entfallen:__\
 Ebenso SOLLTE sie festlegen, dass für jeden mobilen Mitarbeiter ein Vertreter benannt und der Vertretungsprozess regelmäßig geprobt wird.
-
-#### INF.9.A9
-Keine inhaltlichen Änderungen.
-
-#### Anforderungen bei erhöhtem Schutzbedarf
-
-#### INF.9.A10
-Keine inhaltlichen Änderungen.
-
-#### INF.9.A11
-Keine inhaltlichen Änderungen.
 
 </details>
 
