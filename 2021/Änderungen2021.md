@@ -4584,12 +4584,6 @@ __Entfallen:__
 
 *Die Administration über das Netz SOLLTE über sichere Protokolle erfolgen.*
 
-
-#### SYS.2.1.A21
-
-Keine inhaltlichen Änderungen.
-
-
 #### SYS.2.1.A22 ENTFALLEN
 
 __Ehemals:__
@@ -4599,11 +4593,6 @@ __Ehemals:__
 *Es SOLLTEN alle Benutzer verpflichtet werden, sich nach Aufgabenerfüllung vom IT-System bzw. von der IT-Anwendung abzumelden.*
 
 *Ist für einen Benutzer absehbar, dass er seine Arbeit nur kurz unterbrechen muss, SOLLTE er die Bildschirmsperre aktivieren, statt sich abzumelden (siehe auch SYS.2.1.A5 Verwendung einer Bildschirmsperre).*
-
-
-#### SYS.2.1.A23
-
-Keine inhaltlichen Änderungen.
 
 
 #### SYS.2.1.A24
@@ -4650,24 +4639,14 @@ __Ehemals:__
 *Nach größeren Änderungen an der Richtlinie oder nach spätestens zwei Jahren SOLLTEN Benutzer die Richtlinie erneut bestätigen.*
 
 
-#### SYS.2.1.A26
-
-Keine inhaltlichen Änderungen.
-
-
-#### SYS.2.1.A27
-
-Keine inhaltlichen Änderungen.
-
-
 #### NEU: SYS.2.1.A43
 
-Din Anforderung wurde neu hinzugefügt.
+Die Anforderung wurde neu hinzugefügt.
 
 
 #### NEU: SYS.2.1.A44
 
-Din Anforderung wurde neu hinzugefügt.
+Die Anforderung wurde neu hinzugefügt.
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
@@ -4689,21 +4668,6 @@ __Hinzugefügt:__:
 Die Testfälle SOLLTEN sowohl die Anwendersicht als auch die Betriebsperspektive berücksichtigen.
 
 
-#### SYS.2.1.A31
-
-Keine inhaltlichen Änderungen.
-
-
-#### SYS.2.1.A32
-
-Keine inhaltlichen Änderungen.
-
-
-#### SYS.2.1.A33
-
-Keine inhaltlichen Änderungen.
-
-
 #### SYS.2.1.A34
 
 __Geändert:__
@@ -4711,11 +4675,6 @@ __Geändert:__
 Um sowohl den Zugriff eines Angreifers auf das Betriebssystem oder andere Anwendungen als auch den Zugriff vom Betriebssystem auf besonders schützenswerte Dateien zu verhindern, SOLLTEN Anwendungen und Betriebssystemkomponenten (wie beispielsweise Authentisierung oder Zertifikatsüberprüfung) besonders gekapselt bzw. anderen Anwendungen und Betriebssystemkomponenten gegenüber isoliert werden.
 
 Dabei SOLLTEN insbesondere sicherheitskritische Anwendungen berücksichtigt werden, die mit Daten aus unsicheren Quellen arbeiten (z.B. Webbrowser und Bürokommunikations-Anwendungen).
-
-
-#### SYS.2.1.A35-A38
-
-Keine inhaltlichen Änderungen.
 
 
 #### SYS.2.1.A39
@@ -4742,11 +4701,6 @@ __Hinzugefügt:__:
 Sicherheitsrelevante Aspekte SOLLTEN nachvollziehbar erläutert und hervorgehoben werden.
 
 
-#### SYS.2.1.A41
-
-Keine inhaltlichen Änderungen.
-
-
 #### NEU: SYS.2.1.A45
 
 Die Anforderung wurde neu hinzugefügt.
@@ -4762,11 +4716,6 @@ Die Anforderung wurde neu hinzugefügt.
 
 #### Basis-Anforderungen
 
-#### SYS.2.2.2.A1
-
-Keine inhaltlichen Änderungen.
-
-
 #### SYS.2.2.2.A2
 
 __Entfallen:__
@@ -4774,16 +4723,7 @@ __Entfallen:__
 *Die festgelegte Vorgehensweise MUSS entsprechend auf allen Clients eingestellt werden.*
 
 
-#### SYS.2.2.2.A3
-
-Keine inhaltlichen Änderungen.
-
 #### Standard-Anforderungen
-
-#### SYS.2.2.2.A4
-
-Keine inhaltlichen Änderungen.
-
 
 #### SYS.2.2.2.A5
 
@@ -4804,16 +4744,6 @@ __Ehemals:__
 
 *Insbesondere bei Clients, die von älteren Betriebssystemversionen aktualisiert wurden, SOLLTEN die Berechtigungen der Dateien und Verzeichnisse geprüft werden.*
 
-#### SYS.2.2.2.A7-A13
-
-Keine inhaltlichen Änderungen.
-
-#### Anforderungen bei erhöhtem Schutzbedarf
-
-#### SYS.2.2.2.A14-A21
-
-Keine inhaltlichen Änderungen.
-
 </details>
 
 
@@ -4824,16 +4754,6 @@ Keine inhaltlichen Änderungen.
 
 #### Basis-Anforderungen
 
-#### SYS.2.2.3.A1
-
-Keine inhaltlichen Änderungen.
-
-
-#### SYS.2.2.3.A2
-
-Keine inhaltlichen Änderungen.
-
-
 #### SYS.2.2.3.A4
 
 __Geändert:__
@@ -4843,16 +4763,6 @@ Die Telemetriedienste übertragen Diagnose- und Nutzungsdaten, die der Herstelle
 Diese können nur mit der Einstellung des Telemetrielevels 0 (Security) stark reduziert werden.
 
 Wenn diese Einstellung nicht wirksam umgesetzt wird, dann MUSS durch geeignete Maßnahmen, etwa auf Netzebene, sichergestellt werden, dass diese Daten nicht an den Hersteller übertragen werden.
-
-
-#### SYS.2.2.3.A5
-
-Keine inhaltlichen Änderungen.
-
-
-#### SYS.2.2.3.A6
-
-Keine inhaltlichen Änderungen.
 
 #### Standard-Anforderungen
 
@@ -4884,11 +4794,6 @@ __Ehemals:__
 *Technisch nicht umsetzbare Konfigurationsparameter SOLLTEN dokumentiert, begründet und mit dem Sicherheitsmanagement abgestimmt werden.*
 
 
-#### SYS.2.2.3.A9
-
-Keine inhaltlichen Änderungen.
-
-
 #### SYS.2.2.3.A10 ENTFALLEN
 
 __Ehemals:__
@@ -4897,27 +4802,12 @@ __Ehemals:__
 
 *Die Datenausführungsverhinderung (Data Execution Prevention, DEP) SOLLTE für alle Programme und Dienste aktiviert werden (Opt-Out-Modus).*
 
-#### SYS.2.2.3.A11-A20
-
-Keine inhaltlichen Änderungen.
-
-#### Anforderungen bei erhöhtem Schutzbedarf
-
-#### SYS.2.2.3.A21-A23
-
-Keine inhaltlichen Änderungen.
-
 
 #### SYS.2.2.3.A24
 
 __Entfallen:__
 
 *Die Ergebnisse der Überprüfung und die Entscheidung über die Aktivierung SOLLTEN dokumentiert werden.*
-
-
-#### SYS.2.2.3.A25
-
-Keine inhaltlichen Änderungen.
 
 </details>
 
@@ -5002,26 +4892,13 @@ Anschließend DARF die zu installierende Software NICHT unkontrolliert in das Wu
 
 #### Standard-Anforderungen
 
-#### SYS.2.3.A6
-
-Keine inhaltlichen Änderungen.
-
-
 #### SYS.2.3.A7
 
 __Entfallen:__
 
 *Der Zugriff von Benutzern auf Dateien und Verzeichnisse SOLLTE immer auf das erforderliche Minimum beschränkt werden.*
 
-#### SYS.2.3.A8-A12
-
-Keine inhaltlichen Änderungen.
-
 #### Anforderungen bei erhöhtem Schutzbedarf
-
-#### SYS.2.3.A13-A15
-
-Keine inhaltlichen Änderungen.
 
 
 #### SYS.2.3.A16 ENTFALLEN
@@ -5033,11 +4910,6 @@ __Ehemals:__
 *Bootloader und Kernel SOLLTEN durch selbstkontrolliertes Schlüsselmaterial signiert werden.*
 
 *Nicht benötigtes Schlüsselmaterial SOLLTE entfernt werden.*
-
-
-#### SYS.2.3.A17-A20
-
-Keine inhaltlichen Änderungen.
 
 </details>
 
@@ -5058,22 +4930,6 @@ __Entfallen:__
 
 *Es MUSS geplant werden, wie der Schutz vor Schadprogrammen in das institutionsweite Konzept integriert werden kann.*
 
-#### SYS.2.4.A2-A3
-
-Keine inhaltlichen Änderungen.
-
-#### Standard-Anforderungen
-
-#### SYS.2.4.A4-A11
-
-Keine inhaltlichen Änderungen.
-
-#### Anforderungen bei erhöhtem Schutzbedarf
-
-#### SYS.2.4.A12
-
-Keine inhaltlichen Änderungen.
-
 </details>
 
 
@@ -5085,11 +4941,6 @@ Keine inhaltlichen Änderungen.
 
 #### Basis-Anforderungen
 
-#### SYS.3.1.A1
-
-Keine inhaltlichen Änderungen.
-
-
 #### SYS.3.1.A2 ENTFALLEN
 
 __Ehemals:__
@@ -5099,12 +4950,6 @@ __Ehemals:__
 *Auf allen Laptops MUSS ein angemessener Zugriffsschutz vorhanden sein, der verhindert, dass das Gerät unberechtigt benutzt werden kann.*
 
 *Es MUSS geprüft werden, ob sich alle Benutzer an die Regeln für den korrekten Umgang mit dem eingerichteten Zugriffsschutz halten.*
-
-
-#### SYS.3.1.A3
-
-Keine inhaltlichen Änderungen.
-
 
 #### SYS.3.1.A4 ENTFALLEN
 
@@ -5152,16 +4997,6 @@ __Geändert:__
 
 #### Standard-Anforderungen
 
-#### SYS.3.1.A6
-
-Keine inhaltlichen Änderungen.
-
-
-#### SYS.3.1.A7
-
-Keine inhaltlichen Änderungen.
-
-
 #### SYS.3.1.A8
 
 __Entfallen:__
@@ -5173,11 +5008,6 @@ __Entfallen:__
 *Es SOLLTEN sich nur zugelassene Laptops am internen Netz der Institution anmelden können.*
 
 *Nicht benötigte Schnittstellen SOLLTEN bei allen Laptops deaktiviert werden.*
-
-
-#### SYS.3.1.A9-A12
-
-Keine inhaltlichen Änderungen.
 
 
 #### SYS.3.1.A13
@@ -5204,22 +5034,6 @@ __Entfallen:__
 
 *Sie SOLLTE auch auf zusätzlich benötigte Hardware wie z. B. Dockingstations und Monitore erweitert werden.*
 
-#### Anforderungen bei erhöhtem Schutzbedarf
-
-#### SYS.3.1.A16
-
-Keine inhaltlichen Änderungen.
-
-
-#### SYS.3.1.A17
-
-Keine inhaltlichen Änderungen.
-
-
-#### SYS.3.1.A18
-
-Keine inhaltlichen Änderungen.
-
 </details>
 
 
@@ -5230,11 +5044,6 @@ Keine inhaltlichen Änderungen.
 </summary>
 
 #### Basis-Anforderungen
-
-#### SYS.3.2.1.A1
-
-Keine inhaltlichen Änderungen.
-
 
 #### SYS.3.2.1.A2
 
@@ -5314,11 +5123,6 @@ Es MUSS unterbunden werden, dass sich Apps aus nicht zugelassenen Quellen instal
 
 #### Standard-Anforderungen
 
-#### SYS.3.2.1.A9-A13
-
-Keine inhaltlichen Änderungen.
-
-
 #### SYS.3.2.1.A14 ENTFALLEN
 
 __Ehemals:__
@@ -5339,11 +5143,6 @@ __Ehemals:__
 *Download-Booster, die Daten über die Server des Herstellers leiten, SOLLTEN deaktiviert werden.*
 
 
-#### SYS.3.2.1.A16
-
-Keine inhaltlichen Änderungen.
-
-
 #### SYS.3.2.1.A17 ENTFALLEN
 
 __Ehemals:__
@@ -5353,16 +5152,6 @@ __Ehemals:__
 *Die Nutzung der SIM-Karte der Institution SOLLTE durch eine PIN geschützt werden.*
 
 *Die Super-PIN/PUK SOLLTE nur im Rahmen der definierten Prozesse von den Verantwortlichen benutzt werden.*
-
-
-#### SYS.3.2.1.A18
-
-Keine inhaltlichen Änderungen.
-
-
-#### SYS.3.2.1.A19
-
-Keine inhaltlichen Änderungen.
 
 
 #### SYS.3.2.1.A20 ENTFALLEN
@@ -5391,16 +5180,6 @@ __Ehemals:__
 *Die Benutzer der mobilen Endgeräte SOLLTEN nur freigegebene und geprüfte Apps aus als sicher klassifizierten Quellen installieren dürfen.*
 
 
-#### SYS.3.2.1.A22
-
-Keine inhaltlichen Änderungen.
-
-
-#### SYS.3.2.1.A28
-
-Keine inhaltlichen Änderungen.
-
-
 #### NEU: SYS.3.2.1.A31-A34
 
 Die Anforderungen wurden neu hinzugefügt.
@@ -5425,12 +5204,6 @@ __Ehemals:__
 *Das Passwort für den Zugangspunkt (Access Point Name, APN) einer geschlossenen Benutzergruppe SOLLTE komplex sein.*
 
 *Die Authentisierung SOLLTE das CHAP-Protokoll nutzen.*
-
-
-#### SYS.3.2.1.A25-A30
-
-Keine inhaltlichen Änderungen.
-
 
 #### NEU: SYS.3.2.1.A35
 
@@ -5458,16 +5231,6 @@ Welche Restriktionen gibt die Institution bei bereitgestellten oder selbst insta
 • Soll das MDM in eine weitere Infrastruktur eingebunden werden?
 
 
-#### SYS.3.2.2.A2
-
-Keine inhaltlichen Änderungen.
-
-
-#### SYS.3.2.2.A3
-
-Keine inhaltlichen Änderungen.
-
-
 #### SYS.3.2.2.A4
 
 __Hinzugefügt:__:
@@ -5486,11 +5249,6 @@ Die Anforderung wurde vollständig geändert.
 __Geändert:__
 
 Wenn mobile Endgeräte an Mitarbeiter übergeben werden, MUSS, wenn vom Betriebssystem nicht bereits bereitgestellt, darauf der MDM-Client installiert und konfiguriert sein.
-
-
-#### SYS.3.2.2.A20
-
-Keine inhaltlichen Änderungen.
 
 #### Standard-Anforderungen
 
@@ -5569,42 +5327,13 @@ __Entfallen:__
 *Zugriffsberechtigungen und -wege SOLLTEN gemäß dem festgelegten Sicherheitskonzept der Institution konfiguriert werden.*
 
 
-#### SYS.3.2.2.A21
-
-Keine inhaltlichen Änderungen.
-
-
-#### SYS.3.2.2.A22
-
-Keine inhaltlichen Änderungen.
-
 #### Anforderungen bei erhöhtem Schutzbedarf
-
-#### SYS.3.2.2.A13-A16
-
-Keine inhaltlichen Änderungen.
-
 
 #### SYS.3.2.2.A17
 
 __Hinzugefügt:__:
 
 Insbesondere SOLLTEN sogenannte Jailbreaks oder sogenanntes Routen erkannt werden.
-
-
-#### SYS.3.2.2.A18
-
-Keine inhaltlichen Änderungen.
-
-
-#### SYS.3.2.2.A19
-
-Keine inhaltlichen Änderungen.
-
-
-#### SYS.3.2.2.A23
-
-Keine inhaltlichen Änderungen.
 
 </details>
 
@@ -5616,10 +5345,6 @@ Keine inhaltlichen Änderungen.
 </summary>
 
 #### Basis-Anforderungen
-
-#### SYS.3.2.3.A1-A2
-
-Keine inhaltlichen Änderungen.
 
 #### SYS.3.2.3.A3
 
@@ -5636,10 +5361,6 @@ __Anforderung entfallen.__
 #### SYS.3.2.3.A6
 
 __Anforderung entfallen.__
-
-#### SYS.3.2.3.A7
-
-Keine inhaltlichen Änderungen.
 
 #### SYS.3.2.3.A8
 
@@ -5669,12 +5390,6 @@ __Ehemals:__
 *SYS.3.2.3.A11 Verwendung nicht personalisierter Gerätenamen (S)*
 
 *Der Gerätename SOLLTE keine persönlichen Namens- und Institutionsmerkmale enthalten.*
-
-
-#### SYS.3.2.3.A12-A18
-
-Keine inhaltlichen Änderungen.
-
 
 #### SYS.3.2.3.A20 ENTFALLEN
 
@@ -5721,9 +5436,6 @@ Falls sicherzustellen ist, ob der Benutzer noch im Besitz des Gerätes ist, SOLL
 
 Falls die Frist ohne Zugriff verstricht, sollte das Konfigurationsprofil dieses Benutzers automatisch gelöscht werden.
 
-#### SYS.3.2.3.A23-A27
-__Keine inhaltlichen Änderungen.__
-
 </details>
 
 
@@ -5747,16 +5459,6 @@ __Ehemals:__
 
 #### Standard-Anforderungen
 
-#### SYS.3.2.4.A2
-
-Keine inhaltlichen Änderungen.
-
-
-#### SYS.3.2.4.A3
-
-Keine inhaltlichen Änderungen.
-
-
 #### SYS.3.2.4.A4 ENTFALLEN
 
 __Ehemals:__
@@ -5764,11 +5466,6 @@ __Ehemals:__
 *SYS.3.2.4.A4 Regelung und Konfiguration von Cloud-Print (S)*
 
 *Cloud-Print SOLLTE nur dann erlaubt sein, wenn sichergestellt ist, dass der Benutzer nur genehmigte Drucker auswählen kann.*
-
-
-#### SYS.3.2.4.A5
-
-Keine inhaltlichen Änderungen.
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
@@ -5810,21 +5507,6 @@ __Geändert:__
 
 Im Hinblick auf die Nutzung und Kontrolle der Geräte MUSS eine
 
-
-#### SYS.3.3.A2
-
-Keine inhaltlichen Änderungen.
-
-
-#### SYS.3.3.A3
-
-Keine inhaltlichen Änderungen.
-
-
-#### SYS.3.3.A4
-
-Keine inhaltlichen Änderungen.
-
 #### Standard-Anforderungen
 
 #### SYS.3.3.A5
@@ -5837,27 +5519,6 @@ __Hinzugefügt:__:
 
 Die Super-PIN/PUK SOLLTE nur im Rahmen der definierten Prozesse von den Zuständigen benutzt werden.
 
-
-#### SYS.3.3.A6
-
-Keine inhaltlichen Änderungen.
-
-#### SYS.3.3.A7
-
-Keine inhaltlichen Änderungen.
-
-#### SYS.3.3.A8
-
-Keine inhaltlichen Änderungen.
-
-#### SYS.3.3.A10
-
-Keine inhaltlichen Änderungen.
-
-#### SYS.3.3.A11
-
-Keine inhaltlichen Änderungen.
-
 #### SYS.3.3.A12
 
 __Entfallen:__
@@ -5869,16 +5530,6 @@ __Entfallen:__
 #### SYS.3.3.A9
 
 Die Anforderung wurde von einer Standard-Anforderung zu einer Anforderung mit erhöhtem Schutzbedarf geändert.
-
-#### SYS.3.3.A13
-
-Keine inhaltlichen Änderungen.
-
-
-#### SYS.3.3.A14
-
-Keine inhaltlichen Änderungen.
-
 
 #### SYS.3.3.A15
 
@@ -5968,22 +5619,6 @@ __Entfallen:__
 
 *Der ISB SOLLTE auf Basis des Sicherheitskonzepts eine Administrationsrichtlinie ausarbeiten.*
 
-
-#### SYS.4.1.A5-A11
-
-Keine inhaltlichen Änderungen
-
-
-#### SYS.4.1.A15
-
-Keine inhaltlichen Änderungen
-
-
-#### SYS.4.1.A17
-
-Keine inhaltlichen Änderungen
-
-
 #### SYS.4.1.A18
 
 __Hinzugefügt:__:
@@ -6005,26 +5640,11 @@ __Ehemals:__
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
-#### SYS.4.1.A14
-
-Keine inhaltlichen Änderungen
-
-
-#### SYS.4.1.A16
-
-Keine inhaltlichen Änderungen
-
-
 #### SYS.4.1.A20
 
 __Entfallen:__
 
 *Druckdateien mit vertraulichen Informationen SOLLTEN nur verschlüsselt übertragen werden.*
-
-
-#### SYS.4.1.A21
-
-Keine inhaltlichen Änderungen
 
 </details>
 
@@ -6043,16 +5663,6 @@ __Entfallen:__
 
 *Benutzer und Administratoren SOLLTEN im Umgang mit dem jeweiligen eingebetteten System ausreichend geschult sein.*
 
-
-#### SYS.4.3.A2
-
-Keine inhaltlichen Änderungen
-
-
-#### SYS.4.3.A3
-
-Keine inhaltlichen Änderungen
-
 #### Standard-Anforderungen
 
 #### SYS.4.3.A4
@@ -6064,16 +5674,6 @@ Die Anforderungsliste SOLLTE mindestens folgende sicherheitsrelevante Aspekte um
 __Hinzugefügt:__:
 
 • Unterstützung eines Trusted Plattform Module (TPM) durch das Betriebssystem,
-
-#### SYS.4.3.A5-A11
-
-Keine inhaltlichen Änderungen
-
-#### Anforderungen bei erhöhtem Schutzbedarf
-
-#### SYS.4.3.A12-A18
-
-Keine inhaltlichen Änderungen
 
 </details>
 
@@ -6118,16 +5718,7 @@ __Ehemals:__
 
 *Generell MUSS darauf geachtet werden, dass Patches und Updates nur aus vertrauenswürdigen Quellen bezogen werden.*
 
-
-#### SYS.4.4.A5
-
-Keine inhaltlichen Änderungen
-
 #### Standard-Anforderungen
-
-#### SYS.4.4.A6-A8
-
-Keine inhaltlichen Änderungen
 
 #### SYS.4.4.A9
 
@@ -6137,17 +5728,6 @@ Für jedes IoT-Gerät SOLLTE ein Zuständiger für dessen Betrieb benannt werden
 
 Die Zuständigen SOLLTEN ausreichend über den Umgang mit dem IoT-Gerät informiert werden.
 
-
-#### SYS.4.4.A10
-
-Keine inhaltlichen Änderungen
-
-
-#### SYS.4.4.A11
-
-Keine inhaltlichen Änderungen
-
-
 #### SYS.4.4.A12 ENTFALLEN
 
 __Ehemals:__
@@ -6155,12 +5735,6 @@ __Ehemals:__
 *SYS.4.4.A12 Sichere Integration in übergeordnete Systeme (S)*
 
 *Wenn IoT-Geräte in Zusammenhang mit übergeordneten Management-Systemen eingesetzt werden, SOLLTEN sie ausschließlich mit diesen kommunizieren.*
-
-
-#### SYS.4.4.A13
-
-Keine inhaltlichen Änderungen
-
 
 #### SYS.4.4.A14 ENTFALLEN
 
@@ -6175,11 +5749,6 @@ __Ehemals:__
 *Für die Einsatzfreigabe SOLLTEN die Installations- und Konfigurationsdokumentation und die Funktionsfähigkeit der IoT-Geräte in einem Test geprüft werden.*
 
 *Die Freigabe SOLLTE durch eine in der Institution dafür autorisierte Stelle erfolgen.*
-
-
-#### SYS.4.4.A15-A18
-
-Keine inhaltlichen Änderungen
 
 
 #### SYS.4.4.A19
@@ -6198,11 +5767,6 @@ __Entfallen:__
 Bei der Außerbetriebnahme von IoT-Geräten SOLLTE sichergestellt werden, dass keine wichtigen Daten, die eventuell auf den verbauten Datenträgern gespeichert sind, verloren gehen und dass keine vertraulichen Daten zurückbleiben oder an Dritte weitergegeben werden.
 
 #### Anforderungen bei erhöhtem Schutzbedarf
-
-#### SYS.4.4.A21
-
-Keine inhaltlichen Änderungen
-
 
 #### SYS.4.4.A22
 
@@ -6253,16 +5817,6 @@ Der Webserver SOLLTE, soweit möglich, NICHT unter einem privilegierten Konto be
 
 #### Basis-Anforderungen
 
-#### SYS.4.5.A1
-
-Keine inhaltlichen Änderungen
-
-
-#### SYS.4.5.A2
-
-Keine inhaltlichen Änderungen
-
-
 #### SYS.4.5.A10
 
 Wurde von einer Standard-Anforderung zu einer Basis-Anforderung geändert.
@@ -6272,37 +5826,13 @@ __Geändert:__
 Wenn Wechseldatenträger außerhalb eines sicheren Bereiches verwendet oder transportiert werden und dabei vertrauliche Daten enthalten, MÜSSEN sie mit einem sicheren Verfahren verschlüsselt werden.
 
 
-#### SYS.4.5.A12
-
-Keine inhaltlichen Änderungen
-
 #### Standard-Anforderungen
-
-#### SYS.4.5.A4
-
-Keine inhaltlichen Änderungen
-
-
-#### SYS.4.5.A5
-
-Keine inhaltlichen Änderungen
-
-
-#### SYS.4.5.A6
-
-Keine inhaltlichen Änderungen
-
 
 #### SYS.4.5.A7
 
 __Entfallen:__
 
 *Die Institution SOLLTE den Mitarbeitern dafür geeignete Programme zur Verfügung stellen.*
-
-
-#### SYS.4.5.A13
-
-Keine inhaltlichen Änderungen
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
@@ -6311,21 +5841,6 @@ Keine inhaltlichen Änderungen
 __Geändert:__
 
 Es SOLLTE ein Verfahren zum Schutz gegen zufällige oder vorsätzliche Veränderungen eingesetzt werden, mit dem die Integrität von vertraulichen Informationen sichergestellt wird.
-
-
-#### SYS.4.5.A14
-
-Keine inhaltlichen Änderungen
-
-
-#### SYS.4.5.A15
-
-Keine inhaltlichen Änderungen
-
-
-#### SYS.4.5.A16
-
-Keine inhaltlichen Änderungen
 
 </details>
 
