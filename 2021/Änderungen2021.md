@@ -5959,12 +5959,6 @@ __Geändert:__
 
 Für Änderungen an der OT SOLLTE ein eigener Änderungsprozess definiert, dokumentiert und gelebt werden.
 
-
-#### IND.1.A7
-
-Keine inhaltlichen Änderungen.
-
-
 #### IND.1.A8
 
 __Entfallen:__
@@ -5978,11 +5972,6 @@ __Entfallen:__
 *Dabei SOLLTE darauf geachtet werden, dass es nicht möglich ist, unerwünschte Tunnel aufzubauen.*
 
 *Bei höherem Schutzbedarf SOLLTE zudem für kritische administrative Schritte ein Vier-Augen-Prinzip gelten.*
-
-
-#### IND.1.A9
-
-Keine inhaltlichen Änderungen.
 
 
 #### IND.1.A10
@@ -6037,11 +6026,6 @@ Die Anforderung wurde neu hinzugefügt.
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
-#### IND.1.A13
-
-Keine inhaltlichen Änderungen.
-
-
 #### IND.1.A14
 
 __Geändert:__
@@ -6051,12 +6035,6 @@ Zur sicheren Authentisierung von privilegierten Benutzern in Steuerungssystemen 
 Die Authentisierung SOLLTE durch den Einsatz mehrerer Faktoren wie Wissen, Besitz oder Biometrie zusätzlich abgesichert werden.
 
 Es SOLLTE sichergestellt werden, dass die Authentisierung von betrieblich erforderlichen technischen Konten auch in Notfällen durchgeführt werden kann.
-
-
-#### IND.1.A15
-
-Keine inhaltlichen Änderungen.
-
 
 #### IND.1.A16
 
@@ -6082,12 +6060,6 @@ Durch Realisierung einer oder mehrerer Anbindungszonen (DMZ) in P-A-P-Struktur S
 
 Erforderliche Sicherheitsprüfungen SOLLTEN so erfolgen, dass die ICS-Anlage nicht angepasst werden muss.
 
-
-#### IND.1.A17
-
-Keine inhaltlichen Änderungen.
-
-
 #### NEU: IND.1.A24
 
 Die Anforderung wurde neu hinzugefügt.
@@ -6109,12 +6081,6 @@ __Entfallen:__
 
 *Die Konfiguration der ICS-Komponente DARF NUR nach einer Freigabe oder nach einer Authentisierung geändert werden.*
 
-
-#### IND.2.1.A2
-
-Keine inhaltlichen Änderungen.
-
-
 #### IND.2.1.A3 ENTFALLEN
 
 __Ehemals:__
@@ -6131,12 +6097,6 @@ __Ehemals:__
 
 *Generell MÜSSEN alle sicherheitsrelevanten Systemereignisse protokolliert und bei Bedarf ausgewertet werden.*
 
-
-#### IND.2.1.A4
-
-Keine inhaltlichen Änderungen.
-
-
 #### IND.2.1.A5 ENTFALLEN
 
 __Ehemals:__
@@ -6144,11 +6104,6 @@ __Ehemals:__
 IND.2.1.A5 Deaktivierung nicht genutzter Benutzerkonten [ICS-Administrator] (B)
 
 Nicht genutzte und unnötige Benutzerkonten MÜSSEN deaktiviert werden.
-
-
-#### IND.2.1.A6
-
-Keine inhaltlichen Änderungen.
 
 #### Standard-Anforderungen
 
@@ -6159,12 +6114,6 @@ Die Anforderung wurde von einer Basis- zu einer Standard-Anforderung
 __Geändert:__
 
 Vor jeder Systemänderung an einer ICS-Komponente MÜSSEN Backups erstellt werden.
-
-
-#### IND.2.1.A8
-
-Keine inhaltlichen Änderungen.
-
 
 #### IND.2.1.A9 ENTFALLEN
 
@@ -6192,12 +6141,6 @@ __Ehemals:__
 *Es SOLLTE sichergestellt sein, dass nur berechtigte Mitarbeiter auf die Systemdokumentation zugreifen können.*
 
 *Auch SOLLTE die Dokumentation im Störungsfall noch verfügbar sein.*
-
-
-#### IND.2.1.A11
-
-Keine inhaltlichen Änderungen.
-
 
 #### IND.2.1.A12 ENTFALLEN
 
@@ -6252,33 +6195,11 @@ __Ehemals:__
 
 *Bei sicherheitskritischen Ereignissen SOLLTE eine automatische Alarmierung erfolgen.*
 
-
-#### IND.2.1.A16
-
-Keine inhaltlichen Änderungen.
-
-
 #### IND.2.1.A17
 
 __Geändert:__
 
 Bei Anwendungen mit Echtzeitanforderungen SOLLTE geprüft werden, ob dies umsetzbar ist.
-
-#### Anforderungen bei erhöhtem Schutzbedarf
-
-#### IND.2.1.A18
-
-Keine inhaltlichen Änderungen.
-
-
-#### IND.2.1.A19
-
-Keine inhaltlichen Änderungen.
-
-
-#### IND.2.1.A20
-
-Keine inhaltlichen Änderungen.
 
 </details>
 
@@ -6312,10 +6233,6 @@ __Ehemals:__
 
 *Wenn sich an den Zuständigkeiten der Mitarbeiter etwas ändert, SOLLTEN die Berechtigungen umgehend angepasst werden.*
 
-
-#### IND.2.2.A3
-
-Keine inhaltlichen Änderungen.
 </details>
 
 
@@ -6323,18 +6240,6 @@ Keine inhaltlichen Änderungen.
 <details>
 <summary> Änderungen
 </summary>
-
-#### Basis-Anforderungen
-
-#### IND.2.3.A1
-
-Keine inhaltlichen Änderungen.
-
-#### Standard-Anforderungen
-
-#### IND.2.3.A2
-
-Keine inhaltlichen Änderungen.
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
