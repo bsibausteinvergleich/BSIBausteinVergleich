@@ -427,20 +427,6 @@ ___
 
 #### Basis-Anforderungen
 
-#### CON.1.A1
-Keine inhaltlichen Änderungen.
-
-#### CON.1.A2
-Keine inhaltlichen Änderungen.
-
-#### Standard-Anforderungen
-
-#### CON.1.A3
-Keine inhaltlichen Änderungen.
-
-#### CON.1.A4
-Keine inhaltlichen Änderungen.
-
 #### CON.1.A5
 __Entfallen:__ Auf Produkte mit unkontrollierbarer Schlüsselablage SOLLTE generell verzichtet werden.
 
@@ -459,26 +445,8 @@ Diese SOLLTEN durch den IT-Betrieb geeignet kryptografisch abgesichert werden.
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
-#### CON.1.A7
-Keine inhaltlichen Änderungen.
-
-#### CON.1.A8
-Keine inhaltlichen Änderungen.
-
 #### CON.1.A9
 __Ergänzt:__ Auf Produkte mit unkontrollierbarer Schlüsselablage SOLLTE generell verzichtet werden.
-
-#### CON.1.A10
-Keine inhaltlichen Änderungen.
-
-#### CON.1.A11
-Keine inhaltlichen Änderungen.
-
-#### CON.1.A12
-Keine inhaltlichen Änderungen.
-
-#### CON.1.A13
-Keine inhaltlichen Änderungen.
 
 #### CON.1.A14
 __Änderung:__\
@@ -487,21 +455,12 @@ __Änderung:__\
 __zu:__\
 Die Administratoren SOLLTEN zudem gezielt dazu geschult werden, wie die Kryptomodule zu administrieren sind.
 
-#### CON.1.A15
-Keine inhaltlichen Änderungen.
-
 #### CON.1.A16
 __Änderung:__\
 ~~Es SOLLTE verhindert werden, dass~~(...)\
 
 __zu:__\
 Der Leiter IT SOLLTE sicherstellen, dass nicht (...)
-
-#### CON.1.A17
-Keine inhaltlichen Änderungen.
-
-#### CON.1.A18
-Keine inhaltlichen Änderungen.
 
 </details>
 
@@ -659,9 +618,6 @@ __Ergänzt:__\
 __Ergänzt:__\
 • (Verschlüsselung der Daten) auf dem Online-Speicher sowie
 
-#### CON.3.A10
-Keine inhaltlichen Änderungen.
-
 #### CON.3.A11
 __Änderung:__\
 ~~Von eingesetzten Softwareprogrammen SOLLTEN Sicherungskopien angefertigt werden,(...)~~
@@ -702,29 +658,6 @@ Um die Vertraulichkeit und Integrität der gesicherten Daten zu gewährleisten, 
 
 #### Basis-Anforderungen
 
-#### CON.4.A1
-Keine inhaltlichen Änderungen.
-
-#### CON.4.A2
-Keine inhaltlichen Änderungen.
-
-#### CON.4.A3
-Keine inhaltlichen Änderungen.
-
-#### Standard-Anforderungen
-
-#### CON.4.A4
-Keine inhaltlichen Änderungen.
-
-#### CON.4.A5
-Keine inhaltlichen Änderungen.
-
-#### CON.4.A6
-Keine inhaltlichen Änderungen.
-
-#### CON.4.A7
-Keine inhaltlichen Änderungen.
-
 #### CON.4.A8
 __Änderung:__\
 ~~Lizenzpflichtige Standardsoftware-Produkte, die auf IT-Systemen der Institution eingesetzt werden, SOLLTEN lizenziert sein.~~
@@ -733,20 +666,6 @@ __zu:__\
 Lizenzpflichtige Standardsoftware-Produkte, die auf IT-Systemen der Institution eingesetzt werden, SOLLTEN korrekt lizenziert sein.
 
 Die Lizenzen SOLLTEN die tatsächliche Nutzeranzahl und den Einsatzzweck abdecken.
-
-#### CON.4.A9
-Keine inhaltlichen Änderungen.
-
-#### Anforderungen bei erhöhtem Schutzbedarf
-
-#### CON.4.A10
-Keine inhaltlichen Änderungen.
-
-#### CON.4.A11
-Keine inhaltlichen Änderungen.
-
-#### CON.4.A12
-Keine inhaltlichen Änderungen.
 
 </details>
 
@@ -795,14 +714,8 @@ __Anforderung entfallen__
 
 #### Standard-Anforderungen
 
-#### CON.5.A6
-Keine inhaltlichen Änderungen.
-
 #### CON.5.A7 ENTFALLEN
 __Anforderung entfallen__
-
-#### CON.5.A8
-Keine inhaltlichen Änderungen.
 
 #### CON.5.A9
 __Änderung:__\
@@ -818,9 +731,6 @@ __Anforderung entfallen__
 _Diese Anforderung wurde aus dem erhöhten Schutzbedarf in die Standard-Anforderungen verschoben._
 
 #### Anforderungen bei erhöhtem Schutzbedarf
-
-#### CON.5.A12
-Keine inhaltlichen Änderungen.
 
 #### CON.5.A13
 __Änderung:__\
@@ -838,41 +748,13 @@ Das Redundanzkonzept SOLLTE zwischen dem IT-Betrieb und dem Notfallbeauftragten 
 <summary> Änderungen
 </summary>
 
-#### Basis-Anforderungen
-
-#### CON.6.A1
-Keine inhaltlichen Änderungen.
-
-#### CON.6.A2
-Keine inhaltlichen Änderungen.
 
 #### Standard-Anforderungen
-
-#### CON.6.A3
-Keine inhaltlichen Änderungen.
-
-#### CON.6.A4
-Keine inhaltlichen Änderungen.
-
-#### CON.6.A5
-Keine inhaltlichen Änderungen.
 
 #### CON.6.A6
 __Entfallen:__ ~~Dabei SOLLTE nach den Anforderungen des Bausteins ORP.3 Sensibilisierung und Schulung vorgegangen werden.~~
 
-#### CON.6.A7
-Keine inhaltlichen Änderungen.
-
-#### CON.6.A8
-Keine inhaltlichen Änderungen.
-
 #### Anforderungen bei erhöhtem Schutzbedarf
-
-#### CON.6.A9
-Keine inhaltlichen Änderungen.
-
-#### CON.6.A10
-Keine inhaltlichen Änderungen.
 
 #### CON.6.A11
 __Entfallen:__ ~~Zudem SOLLTEN die in OPS.2.1 Outsourcing für Kunden beschriebenen generellen Anforderungen an Dienstleister und deren Mitarbeiter umgesetzt werden.~~
@@ -889,44 +771,8 @@ __Entfallen:__ ~~Zudem SOLLTEN die in OPS.2.1 Outsourcing für Kunden beschriebe
 #### CON.7.A1
 __Ergänzung:__ Die Umsetzung des Sicherheitskonzeptes MUSS regelmäßig überprüft werden.
 
-#### CON.7.A2
-Keine inhaltlichen Änderungen.
-
-#### CON.7.A3
-Keine inhaltlichen Änderungen.
-
-#### CON.7.A4
-Keine inhaltlichen Änderungen.
-
-#### CON.7.A5
-Keine inhaltlichen Änderungen.
-
-#### CON.7.A6
-Keine inhaltlichen Änderungen.
-
-#### CON.7.A7
-Keine inhaltlichen Änderungen.
-
-#### CON.7.A8
-Keine inhaltlichen Änderungen.
-
-#### CON.7.A9
-Keine inhaltlichen Änderungen.
-
-#### CON.7.A10
-Keine inhaltlichen Änderungen.
-
-#### CON.7.A11
-Keine inhaltlichen Änderungen.
-
 #### CON.7.A12
 __Entfallen:__ Insbesondere im Ausland können Dokumente und andere schutzbedürftige Datenträger nicht immer sicher entsorgt werden.
-
-#### CON.7.A13
-Keine inhaltlichen Änderungen.
-
-#### CON.7.A14
-Keine inhaltlichen Änderungen.
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
@@ -934,17 +780,7 @@ Keine inhaltlichen Änderungen.
 __Änderung:__\
 Die Institution SOLLTE prüfen, ob die mitgeführten Informationen einen besonderen Schutzbedarf haben, und entsprechend abstrahlarme bzw. -sichere Datenträger und Clients einsetzen.
 
-#### CON.7.A16
-Keine inhaltlichen Änderungen.
-
-#### CON.7.A17
-Keine inhaltlichen Änderungen.
-
-#### CON.7.A18
-Keine inhaltlichen Änderungen.
-
 </details>
-
 
 ### NEU: CON.8
 __Die Anforderungen CON.8.A1 bis CON.8.A19 wurden hinzugefügt.__
@@ -974,15 +810,6 @@ Administrative Rollen MÜSSEN von kontrollierenden Rollen (z. B. Revision) getre
 __Entfallen:__\
 Diese Anforderungen MÜSSEN auch dann erfüllt werden, wenn administrative Aufgaben an Dritte übertragen werden.
 
-#### OPS.1.1.2.A2
-Keine inhaltlichen Änderungen.
-
-#### OPS.1.1.2.A3
-Keine inhaltlichen Änderungen.
-
-#### OPS.1.1.2.A4
-Keine inhaltlichen Änderungen.
-
 #### OPS.1.1.2.A5
 __Änderung:__\
 OPS.1.1.2.A5 Nachweisbarkeit von administrativen Tätigkeiten (B)\
@@ -1006,35 +833,14 @@ Jeder Anmeldevorgang über eine Administrationskennung (Login) MUSS protokollier
 
 #### Standard-Anforderungen
 
-#### OPS.1.1.2.A7
-Keine inhaltlichen Änderungen.
-
 #### OPS.1.1.2.A8
 __Ergänzung:__\
 Dabei SOLLTEN die Bedürfnisse des Fachbereichs berücksichtigt werden.
-
-#### OPS.1.1.2.A9
-Keine inhaltlichen Änderungen.
-
-#### OPS.1.1.2.A10
-Keine inhaltlichen Änderungen.
-
-#### OPS.1.1.2.A11
-Keine inhaltlichen Änderungen.
-
-#### OPS.1.1.2.A12
-Keine inhaltlichen Änderungen.
 
 #### OPS.1.1.2.A13 ENTFALLEN
 __Anforderung entfallen.__
 
 #### Anforderungen bei erhöhtem Schutzbedarf
-
-#### OPS.1.1.2.A14
-Keine inhaltlichen Änderungen.
-
-#### OPS.1.1.2.A15
-Keine inhaltlichen Änderungen.
 
 #### OPS.1.1.2.A16
 __Änderung:__\
@@ -1043,12 +849,6 @@ Der Zugang zu administrativen Oberflächen oder Schnittstellen SOLLTE mit Filter
 Oberflächen und Schnittstellen SOLLTEN für Personen außerhalb der zuständigen Administrationsteams nicht erreichbar sein.
 
 Auf IT-Systeme in anderen Schutzzonen SOLLTE ausschließlich über einen Sprungserver in der jeweiligen Sicherheitszone administrativ zugegriffen werden.
-
-#### OPS.1.1.2.A17
-Keine inhaltlichen Änderungen.
-
-#### OPS.1.1.2.A18
-Keine inhaltlichen Änderungen.
 
 #### OPS.1.1.2.A19
 _Entfallen:_ Dies erfordert im Regelfall eine umfassende Hochverfügbarkeitsplanung.
@@ -1062,51 +862,8 @@ _Entfallen:_ Dies erfordert im Regelfall eine umfassende Hochverfügbarkeitsplan
 
 #### Basis-Anforderungen
 
-#### OPS.1.1.3.A1
-Keine inhaltlichen Änderungen.
-
-#### OPS.1.1.3.A2
-Keine inhaltlichen Änderungen.
-
 #### OPS.1.1.3.A3
 __Entfallen:__ (...) um den Vorgaben aus dem Konzept zum Patchmanagement gerecht zu werden.
-
-#### Standard-Anforderungen
-
-#### OPS.1.1.3.A4
-Keine inhaltlichen Änderungen.
-
-#### OPS.1.1.3.A5
-Keine inhaltlichen Änderungen.
-
-#### OPS.1.1.3.A6
-Keine inhaltlichen Änderungen.
-
-#### OPS.1.1.3.A7
-Keine inhaltlichen Änderungen.
-
-#### OPS.1.1.3.A8
-Keine inhaltlichen Änderungen.
-
-#### OPS.1.1.3.A9
-Keine inhaltlichen Änderungen.
-
-#### OPS.1.1.3.A10
-Keine inhaltlichen Änderungen.
-
-#### OPS.1.1.3.A11
-Keine inhaltlichen Änderungen.
-
-#### Anforderungen bei erhöhtem Schutzbedarf
-
-#### OPS.1.1.3.A12
-Keine inhaltlichen Änderungen.
-
-#### OPS.1.1.3.A13
-Keine inhaltlichen Änderungen.
-
-#### OPS.1.1.3.A14
-Keine inhaltlichen Änderungen.
 
 </details>
 
@@ -1121,52 +878,9 @@ Keine inhaltlichen Änderungen.
 __Ergänzung:__\
 (Das Konzept SOLLTE nachvollziehbar dokumentiert) und aktuell gehalten werden.
 
-#### OPS.1.1.4.A2
-Keine inhaltlichen Änderungen.
-
-#### OPS.1.1.4.A3
-Keine inhaltlichen Änderungen.
-
 #### OPS.1.1.4.A4
 __Änderung:__\
 An das Produkt für Gateways und IT-Systeme zum Datenaustausch MÜSSEN die gleichen Forderungen wie an Endgeräte gestellt werden (siehe OPS.1.1.4.A3 Auswahl eines Virenschutzprogramms für Endgeräte).
-
-#### OPS.1.1.4.A5
-Keine inhaltlichen Änderungen.
-
-#### OPS.1.1.4.A6
-Keine inhaltlichen Änderungen.
-
-#### OPS.1.1.4.A7
-Keine inhaltlichen Änderungen.
-
-#### Standard-Anforderungen
-
-#### OPS.1.1.4.A8
-Keine inhaltlichen Änderungen.
-
-#### OPS.1.1.4.A9
-Keine inhaltlichen Änderungen.
-
-#### Anforderungen bei erhöhtem Schutzbedarf
-
-#### OPS.1.1.4.A10
-Keine inhaltlichen Änderungen.
-
-#### OPS.1.1.4.A11
-Keine inhaltlichen Änderungen.
-
-#### OPS.1.1.4.A12
-Keine inhaltlichen Änderungen.
-
-#### OPS.1.1.4.A13
-Keine inhaltlichen Änderungen.
-
-#### OPS.1.1.4.A14
-Keine inhaltlichen Änderungen.
-
-#### OPS.1.1.4.A15
-Keine inhaltlichen Änderungen.
 
 </details>
 
@@ -1174,23 +888,6 @@ Keine inhaltlichen Änderungen.
 <details>
 <summary> Änderungen
 </summary>
-
-#### Basis-Anforderungen
-
-#### OPS.1.1.5.A1
-Keine inhaltlichen Änderungen.
-
-#### OPS.1.1.5.A2
-Keine inhaltlichen Änderungen.
-
-#### OPS.1.1.5.A3
-Keine inhaltlichen Änderungen.
-
-#### OPS.1.1.5.A4
-Keine inhaltlichen Änderungen.
-
-#### OPS.1.1.5.A5
-Keine inhaltlichen Änderungen.
 
 #### Standard-Anforderungen
 
@@ -1200,29 +897,9 @@ Die Protokollierungsinfrastruktur SOLLTE ausreichend dimensioniert sein.
 
 Die Möglichkeit einer Skalierung im Sinne einer erweiterten Protokollierung SOLLTE berücksichtigt werden.
 
-#### OPS.1.1.5.A7
-Keine inhaltlichen Änderungen.
-
-#### OPS.1.1.5.A8
-Keine inhaltlichen Änderungen.
-
 #### OPS.1.1.5.A9
 __Änderung:__\
 (...) ~~mithilfe einer Protokollierungsanwendung~~ (...)
-
-#### OPS.1.1.5.A10
-Keine inhaltlichen Änderungen.
-
-#### Anforderungen bei erhöhtem Schutzbedarf
-
-#### OPS.1.1.5.A11
-Keine inhaltlichen Änderungen.
-
-#### OPS.1.1.5.A12
-Keine inhaltlichen Änderungen.
-
-#### OPS.1.1.5.A13
-Keine inhaltlichen Änderungen.
 
 </details>
 
@@ -1236,15 +913,6 @@ Keine inhaltlichen Änderungen.
 #### OPS.1.1.6.A1
 __Ergänzung:__\ (...) und diese möglichst vollständig abdecken.
 
-#### OPS.1.1.6.A2
-Keine inhaltlichen Änderungen.
-
-#### OPS.1.1.6.A3
-Keine inhaltlichen Änderungen.
-
-#### OPS.1.1.6.A4
-Keine inhaltlichen Änderungen.
-
 #### OPS.1.1.6.A5
 __Änderung:__\
 Insbesondere MÜSSEN sicherheitsspezifische Software-Tests durchgeführt werden, wenn die Anwendung sicherheitskritische Funktionen mitbringt.
@@ -1253,35 +921,12 @@ Die durchgeführten Testfälle, sowie die Testergebnisse, MÜSSEN dokumentiert w
 
 #### Standard-Anforderungen
 
-#### OPS.1.1.6.A6
-Keine inhaltlichen Änderungen.
-
 #### OPS.1.1.6.A7
 __Ergänzung:__\
 Darüber hinaus SOLLTE eine entsprechende Rollentrennung erfolgen, sodass Quellcode nicht ausschließlich von Testern überprüft wird, die an der Erstellung des Quellcodes beteiligt waren.
 
-#### OPS.1.1.6.A8
-Keine inhaltlichen Änderungen.
-
-#### OPS.1.1.6.A9
-Keine inhaltlichen Änderungen.
-
-#### OPS.1.1.6.A10
-Keine inhaltlichen Änderungen.
-
-#### OPS.1.1.6.A11
-Keine inhaltlichen Änderungen.
-
-#### OPS.1.1.6.A12
-Keine inhaltlichen Änderungen.
-
 #### OPS.1.1.6.A13
 __Änderung:__ ~~"Testlandschaft" und "Qualitätsmanagement-Umgebung"~~ _zu:_ "Test- und Qualitätsmanagement-Umgebung"
-
-#### Anforderungen bei erhöhtem Schutzbedarf
-
-#### OPS.1.1.6.A14
-Keine inhaltlichen Änderungen.
 
 </details>
 
@@ -1292,20 +937,8 @@ Keine inhaltlichen Änderungen.
 
 #### Basis-Anforderungen
 
-#### OPS.1.2.2.A1
-Keine inhaltlichen Änderungen.
-
 #### OPS.1.2.2.A2
 __Änderung:__ "Management" _zu_ "Institutionsleitung"
-
-#### OPS.1.2.2.A3
-Keine inhaltlichen Änderungen.
-
-#### OPS.1.2.2.A4
-Keine inhaltlichen Änderungen.
-
-#### OPS.1.2.2.A5
-Keine inhaltlichen Änderungen.
 
 #### OPS.1.2.2.A6
 __Änderung:__ Mittlere und große Archive SOLLTEN über redundante Indexdatenbanken verfügen.
