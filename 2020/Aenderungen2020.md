@@ -22,27 +22,10 @@ Der Sicherheitsprozess MUSS durch die Institutionsleitung initiiert und etablier
 
 „Geschäftsprozesse [der Behörde]“ __durch__ „Fachaufgaben“ __ergänzt.__
 
-#### ISMS.1.A3
-Keine inhaltlichen Änderungen.
-
-#### ISMS.1.A4
-Keine inhaltlichen Änderungen.
-
-#### ISMS.1.A5
-Keine inhaltlichen Änderungen.
-
-#### ISMS.1.A6
-Keine inhaltlichen Änderungen.
-
-#### ISMS.1.A7
-Keine inhaltlichen Änderungen.
-
 #### ISMS.1.A8
 __Satzteil gestrichen:__\
 Sie MÜSSEN in die Lage versetzt werden, Sicherheit aktiv mitzugestalten, ~~also in ihre Geschäftsprozesse mit einzubringen.~~
 
-#### ISMS.1.A9
-Keine inhaltlichen Änderungen.
 #### Standard-Anforderungen
 
 #### ISMS.1.A10
@@ -52,26 +35,6 @@ Es SOLLTE entschieden werden, ob das Sicherheitskonzept aus einem oder aus mehre
 #### ISMS.1.A11
 __Satzteil gestrichen:__\
 (...) ~~um das weitere Vorgehen im Sicherheitsprozess steuern zu können.~~
-
-#### ISMS.1.A12
-Keine inhaltlichen Änderungen.
-
-#### ISMS.1.A13
-Keine inhaltlichen Änderungen.
-
-#### ISMS.1.A14
-Keine inhaltlichen Änderungen.
-
-#### ISMS.1.A15
-Keine inhaltlichen Änderungen.
-
-#### Anforderungen bei erhöhtem Schutzbedarf
-
-#### ISMS.1.A16
-Keine inhaltlichen Änderungen.
-
-#### ISMS.1.A17
-Keine inhaltlichen Änderungen.
 
 </details>
 
@@ -134,9 +97,6 @@ __Entfallen:__\
 
 #### Standard-Anforderungen
 
-#### ORP.1.A6
-Keine inhaltlichen Änderungen.
-
 #### ORP.1.A7
 __Änderung:__\
 ~~Dazu gehören neben IT-Systemen und ICS-Komponenten auch solche aus dem Bereich Internet of Things.~~
@@ -148,23 +108,8 @@ Dazu SOLLTEN neben IT-Systemen und ICS-Komponenten auch Geräte aus dem Bereich 
 
 Vor der ersten Inbetriebnahme der Geräte SOLLTEN geeignete Prüf- und Genehmigungsverfahren vorgeschaltet werden.
 
-#### ORP.1.A8
-Keine inhaltlichen Änderungen.
-
 #### ORP.1.A9 ENTFALLEN
 __Anforderung entfallen.__
-
-#### ORP.1.A10
-Keine inhaltlichen Änderungen.
-
-#### ORP.1.A11
-Keine inhaltlichen Änderungen.
-
-#### ORP.1.A12
-Keine inhaltlichen Änderungen.
-
-#### ORP.1.A13
-Keine inhaltlichen Änderungen.
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
@@ -207,33 +152,10 @@ Die Vorgesetzten MÜSSEN dafür sorgen, dass im laufenden Betrieb Vertretungsreg
 __Änderung:__\
 Es MUSS sichergestellt werden, dass die Vertretung über das dafür nötige Wissen verfügt.
 
-#### ORP.2.A4
-Keine inhaltlichen Änderungen.
-
 #### ORP.2.A5
 "institutionsinternen" __ersetzt__ "organisationsinternen"
 
-#### Standard-Anforderungen
-
-#### ORP.2.A6
-Keine inhaltlichen Änderungen.
-
-#### ORP.2.A7
-Keine inhaltlichen Änderungen.
-
-#### ORP.2.A8
-Keine inhaltlichen Änderungen.
-
-#### ORP.2.A9
-Keine inhaltlichen Änderungen.
-
-#### ORP.2.A10
-Keine inhaltlichen Änderungen.
-
 #### Anforderungen bei erhöhtem Schutzbedarf
-
-#### ORP.2.A11
-Keine inhaltlichen Änderungen.
 
 #### ORP.2.A12
 __Änderung:__\
@@ -243,9 +165,6 @@ __Änderung:__\
 
 __zu:__\
 Für die Mitarbeiter SOLLTE eine Vertrauensperson als Ansprechpartner benannt werden.
-
-#### ORP.2.A13
-Keine inhaltlichen Änderungen.
 
 </details>
 
@@ -259,19 +178,10 @@ Keine inhaltlichen Änderungen.
 #### ORP.3.A1
 "Management" __ersetzt durch__ "Institutsleitung"
 
-#### ORP.3.A2
-Keine inhaltlichen Änderungen.
-
 #### ORP.3.A3 ENTFALLEN
 __Anforderung entfallen__
 
 #### Standard-Anforderungen
-
-#### ORP.3.A4
-Keine inhaltlichen Änderungen.
-
-#### ORP.3.A5
-Keine inhaltlichen Änderungen.
 
 #### ORP.3.A6
 __Änderung:__\
@@ -296,9 +206,6 @@ Wurde ein Schulungsbedarf identifiziert, SOLLTE eine geeignete IT-Grundschutz-Sc
 Für die Planung einer Schulung SOLLTE der Online-Kurs des BSI zum IT-Grundschutz berücksichtigt werden.
 
 Es SOLLTE geprüft werden, ob die Informationssicherheitsbeauftragten sich zu einem BSI IT-Grundschutz-Praktiker qualifizieren lassen sollten.
-
-#### ORP.3.A8
-Keine inhaltlichen Änderungen.
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
@@ -333,12 +240,6 @@ ORP.4.A1 Regelung für die Einrichtung und Löschung von Benutzern und Benutzerg
 Es MUSS geregelt werden, wie Benutzerkennungen und Benutzergruppen einzurichten und zu löschen sind.
 
 Alle Benutzer und Benutzergruppen DÜRFEN NUR über separate administrative Rollen eingerichtet und gelöscht werden.
-
-#### ORP.4.A2
-Keine inhaltlichen Änderungen.
-
-#### ORP.4.A3
-Keine inhaltlichen Änderungen.
 
 #### ORP.4.A4
 __Änderung:__\
@@ -407,9 +308,6 @@ Die Nutzung eines Passwort-Managers SOLLTE geprüft werden.
 
 Ein Passwort MUSS gewechselt werden, wenn es unautorisierten Personen bekannt geworden ist oder der Verdacht dazu besteht.
 
-#### ORP.4.A9
-Keine inhaltlichen Änderungen.
-
 #### NEU: ORP.4.A22
 ORP.4.A22 Regelung zur Passwortqualität [IT-Betrieb] (B)
 
@@ -453,36 +351,12 @@ __Änderung:__\
 __zu:__\
 Benutzerkennungen mit weitreichenden Berechtigungen SOLLTEN mit einer Mehr-Faktor-Authentisierung, z. B. mit kryptografischen Zertifikaten, Chipkarten oder Token geschützt werden.
 
-#### ORP.4.A11
-Keine inhaltlichen Änderungen.
-
 #### ORP.4.A12
 __Änderung:__\
 ~~Authentisierungsinformationen SOLLTEN kryptografisch sicher geschützt übertragen und gespeichert werden.~~
 
 __zu:__\
 Authentisierungsinformationen MÜSSEN kryptografisch sicher übertragen und gespeichert werden.
-
-#### ORP.4.A13
-Keine inhaltlichen Änderungen.
-
-#### ORP.4.A14
-Keine inhaltlichen Änderungen.
-
-#### ORP.4.A15
-Keine inhaltlichen Änderungen.
-
-#### ORP.4.A16
-Keine inhaltlichen Änderungen.
-
-#### ORP.4.A17
-Keine inhaltlichen Änderungen.
-
-#### ORP.4.A18
-Keine inhaltlichen Änderungen.
-
-#### ORP.4.A19
-Keine inhaltlichen Änderungen.
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
@@ -495,9 +369,6 @@ Es SOLLTEN Vorkehrungen getroffen werden, um bei einem ausgefallenen Identitäts
 
 Insbesondere SOLLTE das im Notfallkonzept vorgesehene Berechtigungskonzept weiterhin anwendbar sein, wenn das Identitäts- und Berechtigungsmanagement-System ausgefallen ist.
 
-#### ORP.4.A21
-Keine inhaltlichen Änderungen.
-
 </details>
 
 ### ORP.5
@@ -509,12 +380,6 @@ Keine inhaltlichen Änderungen.
 
 #### ORP.5.A1
 "Sicherheitsmanagement" __ersetzt durch__ "Informationssicherheitsmanagement"
-
-#### ORP.5.A2
-Keine inhaltlichen Änderungen.
-
-#### ORP.5.A3
-Keine inhaltlichen Änderungen.
 
 #### Standard-Anforderungen
 
@@ -533,9 +398,6 @@ __Änderung:__\
 
 __zu:__\
 Es SOLLTE eine Übersicht über alle erteilten Ausnahmegenehmigungen erstellt und gepflegt werden.
-
-#### ORP.5.A6
-Keine inhaltlichen Änderungen.
 
 #### ORP.5.A7 ENTFALLEN
 __Anforderung entfallen__
