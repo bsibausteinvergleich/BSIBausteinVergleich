@@ -32,22 +32,6 @@ Die Institutionsleitung MUSS die Zuständigkeiten für Informationssicherheit fe
 
 Insbesondere MUSS sich die Institutionsleitung über mögliche Risiken und Konsequenzen aufgrund fehlender Sicherheitsmaßnahmen informieren lassen.
 
-
-#### ISMS.1.A2
-
-Keine inhaltlichen Änderungen.
-
-
-#### ISMS.1.A3
-
-Keine inhaltlichen Änderungen.
-
-
-#### ISMS.1.A4
-
-Keine inhaltlichen Änderungen.
-
-
 #### ISMS.1.A5
 
 __Entfallen:__
@@ -60,12 +44,6 @@ __Entfallen:__
 __Geändert:__
 
 Die Aufgaben, Rollen, Verantwortungen und Kompetenzen im Sicherheitsmanagement MÜSSEN nachvollziehbar definiert und zugewiesen sein.
-
-
-#### ISMS.1.A7
-
-Keine inhaltlichen Änderungen
-
 
 #### ISMS.1.A8
 
@@ -84,11 +62,6 @@ __Entfallen:__
 
 #### Standard-Anforderungen
 
-#### ISMS.1.A11
-
-Keine inhaltlichen Änderungen.
-
-
 #### ISMS.1.A12
 
 __Geändert:__
@@ -104,11 +77,6 @@ Die Management-Berichte SOLLTEN revisionssicher archiviert werden.
 
 
 Die Management-Entscheidungen SOLLTEN revisionssicher archiviert werden.
-
-
-#### ISMS.1.A13
-
-Keine inhaltlichen Änderungen.
 
 
 #### ISMS.1.A13 ENTFALLEN
@@ -141,11 +109,6 @@ __Geändert:__
 
 Neben den allgemeinen SOLLTE es auch zielgruppenorientierte Sicherheitsrichtlinien geben, die jeweils bedarfsgerecht die relevanten Sicherheitsthemen abbilden.
 
-
-#### ISMS.1.A17
-
-Keine inhaltlichen Änderungen.
-
 </details>
 
 ---
@@ -160,11 +123,6 @@ Keine inhaltlichen Änderungen.
 </summary>
 
 #### Basis-Anforderungen
-
-#### ORP.1.A1
-
-Keine inhaltlichen Änderungen
-
 
 #### ORP.1.A2
 
@@ -186,12 +144,6 @@ Institutionsfremde Personen MÜSSEN von Mitarbeitern zu den Räumen begleitet we
 Die Mitarbeiter der Institution MÜSSEN institutionsfremde Personen in sensiblen Bereichen beaufsichtigen.
 
 Die Mitarbeiter SOLLTEN dazu angehalten werden, institutionsfremde Personen in den Räumen der Institution nicht unbeaufsichtigt zu lassen.
-
-
-#### ORP.1.A4
-
-Keine inhaltlichen Änderungen.
-
 
 #### ORP.1.A5 ENTFALLEN
 
@@ -229,11 +181,6 @@ __Ehemals:__
 *Dazu SOLLTEN neben IT-Systemen und ICS-Komponenten auch Geräte aus dem Bereich „Internet der Dinge“ (engl. „Internet of Things “, IoT) berücksichtigt werden.*
 
 *Vor der ersten Inbetriebnahme der Geräte SOLLTEN geeignete Prüf- und Genehmigungsverfahren vorgeschaltet werden.*
-
-
-#### ORP.1.A8
-
-Keine inhaltlichen Änderungen
 
 
 #### ORP.1.A9 ENTFALLEN
@@ -347,22 +294,6 @@ Zudem SOLLTE es einen festen Ansprechpartner der Personalabteilung geben, der de
 __Geändert:__
 
 Damit alle verbundenen Aufgaben, die beim Ausscheiden des Mitarbeiters anfallen, erledigt werden, SOLLTE hier ebenfalls eine Checkliste angelegt werden.
-
-
-#### ORP.2.A3
-
-Keine inhaltlichen Änderungen.
-
-
-#### ORP.2.A4
-
-Keine inhaltlichen Änderungen.
-
-
-#### ORP.2.A5
-
-Keine inhaltlichen Änderungen.
-
 
 #### NEU: ORP.2.A14 
 
@@ -482,11 +413,6 @@ Diesbezüglich SOLLTE der ISB den Geheimschutzbeauftragten bzw. Sicherheitsbevol
 
 #### Basis-Anforderungen
 
-#### ORP.3.A1
-
-Keine inhaltlichen Änderungen.
-
-
 #### ORP.3.A2 ENTFALLEN
 
 __Ehemals:__
@@ -494,11 +420,6 @@ __Ehemals:__
 *ORP.3.A2 Ansprechpartner zu Sicherheitsfragen (B)*
 
 *In jeder Institution MUSS es Ansprechpartner für Sicherheitsfragen geben, die sowohl scheinbar einfache wie auch komplexe oder technische Fragen beantwosicheren Umgang mit IT [Vorgesetzte, Personalabteilung, IT-Betrieb] (B)*
-
-
-#### ORP.3.A3
-
-Keine inhaltlichen Änderungen.
 
 #### Standard-Anforderungen
 
@@ -539,11 +460,6 @@ __Entfallen:__
 *Der Informationssicherheitsbeauftragte SOLLTE sich regelmäßig mit der Personalabteilung und den anderen für die Sicherheit relevanten Ansprechpartnern (Datenschutz, Gesundheits- und Arbeitsschutz, Brandschutz etc.) über die Effizienz der Aus- und Weiterbildung austauschen.*
 
 
-#### ORP.3.A7
-
-Keine inhaltlichen Änderungen.
-
-
 #### ORP.3.A8
 
 __Geändert:__
@@ -555,12 +471,6 @@ Die Messungen SOLLTEN sowohl quantitative als auch qualitative Aspekte der Sensi
 Die Ergebnisse SOLLTEN bei der Verbesserung des Sensibilisierungs- und Schulungsangebots zur Informationssicherheit in geeigneter Weise einfließen.
 
 Der Informationssicherheitsbeauftragte SOLLTE sich regelmäßig mit der Personalabteilung und den anderen für die Sicherheit relevanten Ansprechpartnern (Datenschutz, Gesundheits- und Arbeitsschutz, Brandschutz etc.) über die Effizienz der Aus- und Weiterbildung austauschen.
-
-#### Anforderungen bei erhöhtem Schutzbedarf
-
-#### ORP.3.A9
-
-Keine inhaltlichen Änderungen.
 
 </details>
 
@@ -604,41 +514,11 @@ __Geändert:__
 Die Dokumentation der zugelassenen Benutzer, angelegten Benutzergruppen und Rechteprofile MUSS regelmäßig daraufhin überprüft werden, ob sie den tatsächlichen Stand der Rechtevergabe widerspiegelt und ob die Rechtevergabe noch den Sicherheitsanforderungen und den aktuellen Aufgaben der Benutzer entspricht.
 
 
-#### ORP.4.A4
-
-Keine inhaltlichen Änderungen.
-
-
-#### ORP.4.A5
-
-Keine inhaltlichen Änderungen.
-
-
-#### ORP.4.A6
-
-Keine inhaltlichen Änderungen.
-
-
-#### ORP.4.A7
-
-Keine inhaltlichen Änderungen.
-
-
 #### ORP.4.A8
 
 __Hinzugefügt:__:
 
 Bei Passwort-Managern mit Funktionen oder Plug-ins, mit denen Passwörter über Onlinedienste Dritter synchronisiert oder anderweitig an Dritte übertragen werden, MÜSSEN diese Funktionen und Plug-ins deaktiviert werden.
-
-
-#### ORP.4.A9
-
-Keine inhaltlichen Änderungen.
-
-#### ORP.4.A22
-
-Keine inhaltlichen Änderungen.
-
 
 #### ORP.4.A23
 
@@ -647,11 +527,6 @@ __Hinzugefügt:__:
 Bei Kennungen für technische Benutzer, Dienstkonten, Schnittstellen oder Vergleichbares SOLLTE ein Passwortwechsel sorgfältig geplant und gegebenenfalls mit den Anwendungsverantwortlichen abgestimmt werden.
 
 #### Standard-Anforderungen
-
-#### ORP.4.A10
-
-Keine inhaltlichen Änderungen.
-
 
 #### ORP.4.A11
 
@@ -671,16 +546,6 @@ Die Gesamtdauer eines Anmeldeversuchs SOLLTE begrenzt werden können.
 Nach Überschreitung der vorgegebenen Anzahl erfolgloser Authentisierungsversuche SOLLTE das IT-System bzw. die IT-Anwendung die Benutzerkennung sperren.
 
 
-#### ORP.4.A14
-
-Keine inhaltlichen Änderungen.
-
-
-#### ORP.4.A15
-
-Keine inhaltlichen Änderungen.
-
-
 #### ORP.4.A16
 
 __Entfallen:__
@@ -689,32 +554,7 @@ __Entfallen:__
 
 *Es SOLLTE geregelt sein, dass Benutzer nur auf IT-Systeme und Dienste zugreifen können, wenn sie vorher angemessen identifiziert und authentisiert wurden.*
 
-
-### ORP.4.A17
-
-Keine inhaltlichen Änderungen.
-
-
-#### ORP.4.A18
-
-Keine inhaltlichen Änderungen.
-
-
-### ORP.4.A19
-
-Keine inhaltlichen Änderungen.
-
 #### Anforderungen bei erhöhtem Schutzbedarf
-
-#### ORP.4.A20
-
-Keine inhaltlichen Änderungen.
-
-
-#### ORP.4.A21
-
-keine inhaltlichen Änderungen
-
 
 #### NEU: ORP.4.A24
 
@@ -772,11 +612,6 @@ __Geändert:__
 Dafür SOLLTEN Zuständige für das Compliance Management festgelegt werden.
 
 
-#### ORP.5.A5
-
-Keine inhaltlichen Änderungen.
-
-
 #### ORP.5.A6 ENTFALLEN
 
 __Ehemals:__
@@ -791,10 +626,6 @@ __Ehemals:__
 
 *Veränderungen SOLLTEN den Mitarbeitern rechtzeitig bekannt gegeben werden.*
 
-
-#### ORP.5.A8
-
-Keine inhaltlichen Änderungen.
 
 </details>
 
@@ -811,39 +642,13 @@ Keine inhaltlichen Änderungen.
 <summary> Änderungen
 </summary>
 
-#### Basis-Anforderungen
-
-#### CON.1.A1
-
-Keine inhaltlichen Änderungen
-
-
-#### CON.1.A2
-
-Keine inhaltlichen Änderungen
-
 #### Standard-Anforderungen
-
-#### CON.1.A3
-
-Keine inhaltlichen Änderungen
-
 
 #### CON.1.A4
 
 __Hinzugefügt:__:
 
 Der Austausch von kyptografischen Schlüsseln SOLLTE mit einem als sicher geltenden Verfahren durchgeführt werden.
-
-
-#### CON.1.A5
-
-Keine inhaltlichen Änderungen
-
-
-#### CON.1.A6
-
-Keine inhaltlichen Änderungen
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
@@ -853,10 +658,6 @@ __Geändert:__
 
 In der Sicherheitsrichtlinie SOLLTE geregelt werden, wer für den sicheren Betrieb der kryptografischen Produkte zuständig ist.\
 
-
-#### CON.1.A8-A17
-
-Keine inhaltlichen Änderungen
 
 </details>
 
@@ -877,10 +678,6 @@ Keine inhaltlichen Änderungen
 __Geändert:__
 
 Dazu MUSS der IT-Betrieb die Fachverantwortlichen für die Anwendungen und die Zuständigen für die jeweiligen IT-Systeme befragen.
-
-#### CON.3.A2-A13
-
-Keine inhaltlichen Änderugen.
 
 </details>
 
@@ -1021,11 +818,6 @@ __Ehemals:__
 *Es SOLLTE stichprobenartig überprüft werden, ob die in Dateien enthaltenen Restinformationen auch wirklich gelöscht werden.*
 
 
-#### CON.6.A8
-
-Keine inhaltlichen Änderungen.
-
-
 #### NEU: CON.6.A13
 
 Die Anforderung wurde neu hinzugefügt.
@@ -1063,31 +855,11 @@ Die Anforderung wurde neu hinzugefügt.
 <summary> Änderungen
 </summary>
 
-#### Basis-Anforderungen
-
-#### CON.7.A1-A10
-
-Keine inhaltlichen Änderungen.
-
-#### CON.7.A12
-
-Keine inhaltlichen Änderungen.
-
 #### Standard-Anforderungen
 
 #### CON.7.A11 
 
 Die Anforderung wurde von einer Basis-Anforderung zu einer Standard-Anforderung.
-
-Keine inhaltlichen Änderungen.
-
-#### CON.7.A13-A14
-
-Keine inhaltlichen Änderungen.
-
-#### Anforderungen bei erhöhtem Schutzbedarf
-
-#### CON.7.A15-A18
 
 Keine inhaltlichen Änderungen.
 
@@ -1099,8 +871,6 @@ Keine inhaltlichen Änderungen.
 <details>
 <summary> Änderungen
 </summary>
-
-
 
 #### Basis-Anforderungen
 
@@ -1115,11 +885,6 @@ Das ausgewählte Vorgehensmodell, einschließlich der festgelegten Sicherheitsan
 __Entfallen:__
 
 Die Sicherheitsanforderungen MÜSSEN dokumentiert werden.
-
-
-#### CON.8.A3
-
-Keine inhaltlichen Änderungen.
 
 
 #### CON.8.A4 ENTFALLEN
