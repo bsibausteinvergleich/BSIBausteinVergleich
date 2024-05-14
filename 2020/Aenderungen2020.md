@@ -12,14 +12,7 @@ ___
 
 #### Basis-Anforderungen
 
-#### ISMS.1.A1
-__Begriff__ „Leitungsebene“ __durch__ „Institutionsleitung“ __ersetzt:__\
-Die Institutionsleitung MUSS sich regelmäßig über den Status der Informationssicherheit informieren lassen.
-
 #### ISMS.1.A2
-__Begriff__ „Leitungsebene“ __durch__ „Institutionsleitung“ __ersetzt:__\
-Der Sicherheitsprozess MUSS durch die Institutionsleitung initiiert und etabliert werden.
-
 „Geschäftsprozesse [der Behörde]“ __durch__ „Fachaufgaben“ __ergänzt.__
 
 #### ISMS.1.A8
@@ -27,10 +20,6 @@ __Satzteil gestrichen:__\
 Sie MÜSSEN in die Lage versetzt werden, Sicherheit aktiv mitzugestalten, ~~also in ihre Geschäftsprozesse mit einzubringen.~~
 
 #### Standard-Anforderungen
-
-#### ISMS.1.A10
-__Angepasst, um der „SOLLTE“-Priorisierung zu entsprechen:__\
-Es SOLLTE entschieden werden, ob das Sicherheitskonzept aus einem oder aus mehreren Teilkonzepten bestehen soll, die sukzessive erstellt werden, um zunächst in ausgewählten Bereichen das erforderliche Sicherheitsniveau herzustellen.
 
 #### ISMS.1.A11
 __Satzteil gestrichen:__\
@@ -77,15 +66,9 @@ Für alle Geschäftsprozesse, Anwendungen, IT-Systeme, Räume und Gebäude sowie
 
 Alle Mitarbeiter MÜSSEN darüber informiert sein, insbesondere wofür sie verantwortlich sind und welche damit verbundenen Aufgaben sie wahrnehmen.
 
-#### ORP.1.A3
-__Änderung:__\
-~~Die Mitarbeiter MÜSSEN dazu angehalten werden, betriebsfremde Personen nicht unbeaufsichtigt zu lassen.~~
-__zu:__\
-Die Mitarbeiter MÜSSEN dazu angehalten werden, institutionsfremde Personen in den Räumen der Institution nicht unbeaufsichtigt zu lassen.
-
 #### ORP.1.A4
 __Entfallen:__\
-Innerhalb einer Institution SOLLTEN alle relevanten Aufgaben und Funktionen definiert und klar voneinander abgegrenzt sein. 
+~~Innerhalb einer Institution SOLLTEN alle relevanten Aufgaben und Funktionen definiert und klar voneinander abgegrenzt sein.~~
 
 #### ORP.1.A5
 __Entfallen:__\
@@ -97,24 +80,8 @@ __Entfallen:__\
 
 #### Standard-Anforderungen
 
-#### ORP.1.A7
-__Änderung:__\
-~~Dazu gehören neben IT-Systemen und ICS-Komponenten auch solche aus dem Bereich Internet of Things.~~
-
-~~Es SOLLTE geeignete Prüf- und Genehmigungsverfahren vor Einsatz der Geräte geben.~~
-
-__zu:__\
-Dazu SOLLTEN neben IT-Systemen und ICS-Komponenten auch Geräte aus dem Bereich „Internet der Dinge“ (engl. „Internet of Things “, IoT) berücksichtigt werden.
-
-Vor der ersten Inbetriebnahme der Geräte SOLLTEN geeignete Prüf- und Genehmigungsverfahren vorgeschaltet werden.
-
 #### ORP.1.A9 ENTFALLEN
 __Anforderung entfallen.__
-
-#### Anforderungen bei erhöhtem Schutzbedarf
-
-#### ORP.1.A14
-"Nachlässigkeiten" __durch__ "Mängel" __ersetzt__.
 
 </details>
 
@@ -141,30 +108,13 @@ Alle Mitarbeiter MÜSSEN dazu verpflichtet werden, einschlägige Gesetze, Vorsch
 
 #### ORP.2.A2
 __Entfallen:__\
-Die IT-Administration MUSS außerdem dafür Sorge tragen, dass ehemaligen Mitarbeitern sämtliche Zugriffsberechtigungen auf IT-Systeme entzogen bzw. diese bei Aufgabenwechseln angepasst werden.
+~~Die IT-Administration MUSS außerdem dafür Sorge tragen, dass ehemaligen Mitarbeitern sämtliche Zugriffsberechtigungen auf IT-Systeme entzogen bzw. diese bei Aufgabenwechseln angepasst werden.~~
 
 #### ORP.2.A3
 __Änderung:__\
 ORP.2.A3 Festlegung von Vertretungsregelungen [Vorgesetzte] (B)
 
 Die Vorgesetzten MÜSSEN dafür sorgen, dass im laufenden Betrieb Vertretungsregelungen umgesetzt werden.
-
-__Änderung:__\
-Es MUSS sichergestellt werden, dass die Vertretung über das dafür nötige Wissen verfügt.
-
-#### ORP.2.A5
-"institutionsinternen" __ersetzt__ "organisationsinternen"
-
-#### Anforderungen bei erhöhtem Schutzbedarf
-
-#### ORP.2.A12
-__Änderung:__\
-~~Zur Zufriedenheit der Mitarbeiter SOLLTE ein Verantwortlicher als vertrauenswürdiger Ansprechpartner benannt werden.~~
-
-~~Im Fall von größeren organisatorischen oder technischen Veränderungen SOLLTE die Benennung eines solchen Ansprechpartners geprüft werden.~~
-
-__zu:__\
-Für die Mitarbeiter SOLLTE eine Vertrauensperson als Ansprechpartner benannt werden.
 
 </details>
 
@@ -174,9 +124,6 @@ Für die Mitarbeiter SOLLTE eine Vertrauensperson als Ansprechpartner benannt we
 </summary>
 
 #### Basis-Anforderungen
-
-#### ORP.3.A1
-"Management" __ersetzt durch__ "Institutsleitung"
 
 #### ORP.3.A3 ENTFALLEN
 __Anforderung entfallen__
@@ -206,15 +153,6 @@ Wurde ein Schulungsbedarf identifiziert, SOLLTE eine geeignete IT-Grundschutz-Sc
 Für die Planung einer Schulung SOLLTE der Online-Kurs des BSI zum IT-Grundschutz berücksichtigt werden.
 
 Es SOLLTE geprüft werden, ob die Informationssicherheitsbeauftragten sich zu einem BSI IT-Grundschutz-Praktiker qualifizieren lassen sollten.
-
-#### Anforderungen bei erhöhtem Schutzbedarf
-
-#### ORP.3.A9
-__Änderung:__\
-~~Besonders exponierte Personen wie Funktionsträger sowie die Mitarbeiter in besonders exponierten Institutionen oder Organisationsbereichen (...)~~
-
-__zu:__\
-Besonders exponierte Personen
 
 </details>
 
@@ -386,19 +324,6 @@ Insbesondere SOLLTE das im Notfallkonzept vorgesehene Berechtigungskonzept weite
 #### ORP.5.A4
 __Ergänzt__: "(...) basierend auf der Identifikation und Beachtung der rechtlichen Rahmenbedingungen, (...)
 
-__Änderung:__\
-~~Compliance Manager und ISB SOLLTEN regelmäßig zusammenarbeiten.~~
-
-__zu:__\
-Compliance Manager und Informationssicherheitsbeauftragte (ISB) SOLLTEN sich regelmäßig austauschen.
-
-#### ORP.5.A5
-__Änderung:__\
-~~Es SOLLTE eine Übersicht über alle erteilten Ausnahmegenehmigungen geben.~~
-
-__zu:__\
-Es SOLLTE eine Übersicht über alle erteilten Ausnahmegenehmigungen erstellt und gepflegt werden.
-
 #### ORP.5.A7 ENTFALLEN
 __Anforderung entfallen__
 
@@ -425,20 +350,8 @@ ___
 #### Basis-Anforderungen
 
 #### CON.1.A5
-__Entfallen:__ Auf Produkte mit unkontrollierbarer Schlüsselablage SOLLTE generell verzichtet werden.
-
-#### CON.1.A6
-__Änderung:__\
-~~Es SOLLTE festgelegt werden, für welche Aufgaben kryptografische Verfahren eingesetzt werden sollen.~~
-
-__zu:__\
-Es SOLLTE festgelegt werden, für welche Geschäftsprozesse oder Fachverfahren kryptografische Verfahren eingesetzt werden sollen.
-
-__Änderung:__\
-~~Diese SOLLTEN kryptografisch abgesichert werden.~~
-
-__zu:__\
-Diese SOLLTEN durch den IT-Betrieb geeignet kryptografisch abgesichert werden.
+__Entfallen:__\
+~~Auf Produkte mit unkontrollierbarer Schlüsselablage SOLLTE generell verzichtet werden.~~
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
@@ -451,13 +364,6 @@ __Änderung:__\
 
 __zu:__\
 Die Administratoren SOLLTEN zudem gezielt dazu geschult werden, wie die Kryptomodule zu administrieren sind.
-
-#### CON.1.A16
-__Änderung:__\
-~~Es SOLLTE verhindert werden, dass~~(...)\
-
-__zu:__\
-Der Leiter IT SOLLTE sicherstellen, dass nicht (...)
 
 </details>
 
