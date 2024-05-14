@@ -137,22 +137,6 @@ Sie SOLLTEN in einem anderen Brandabschnitt aufbewahrt werden.
 
 Der Aufbewahrungsort SOLLTE so klimatisiert sein, dass die Datenträger entsprechend der zeitlichen Vorgaben des Datensicherungskonzepts aufbewahrt werden können.
 
-#### CON.3.A14-A15
-
-Keine inhaltlichen Änderungen.
-
-#### Standard-Anforderungen
-
-#### CON.3.A6-A9
-
-Keine inhaltlichen Änderungen.
-
-#### Anforderungen bei erhöhtem Schutzbedarf
-
-#### CON.3.A13
-
-Keine inhaltlichen Änderungen.
-
 </details>
 
 ### CON.6
