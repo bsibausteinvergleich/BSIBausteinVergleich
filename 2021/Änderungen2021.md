@@ -1,4 +1,4 @@
-# Übersicht der Änderungen des IT-Grundschutz-Kompendiums von Version 2020 zu 2021
+1# Übersicht der Änderungen des IT-Grundschutz-Kompendiums von Version 2020 zu 2021
 
 Übergreifend wurden Formulierungen angepasst, die keinen Einfluss auf Bedeutung und Inhalt haben. Es wurden beispielsweise Sätze getrennt oder Formulierungen angepasst, die den Sprachfluss anpassen oder Gliederungen vereinheitlichen.
 
@@ -6299,22 +6299,11 @@ Verantwortlich wurde durch Zuständig ersetzt.
 
 #### Basis-Anforderungen
 
-#### NET.1.1.A1
-
-Keine inhaltlichen Änderungen.
-
-
 #### NET.1.1.A2
 
 __Hinzugefügt:__
 
 Die Dokumentation MUSS nachhaltig gepflegt werden.
-
-
-#### NET.1.1.A3-A7
-
-Keine inhaltlichen Änderungen.
-
 
 #### NET.1.1.A8
 
@@ -6322,16 +6311,7 @@ __Entfallen:__
 
 *Der Internetzugang MUSS entsprechend NET.1.1.A4 Netztrennung in Sicherheitszonen gestaltet werden.*
 
-#### NET.1.1.A9-A15
-
-Keine inhaltlichen Änderungen.
-
 #### Standard-Anforderungen
-
-#### NET.1.1.A16-A17
-
-Keine inhaltlichen Änderungen.
-
 
 #### NET.1.1.A18
 
@@ -6363,16 +6343,6 @@ Die interne Firewall MUSS zudem die Angriffsfläche des ALGs oder der Sicherheit
 
 Authentisierte und vertrauenswürdige Netzzugriffe vom VPN-Gateway ins interne Netz SOLLTEN NICHT das ALG oder die Sicherheits-Proxies der P-A-P-Struktur durchlaufen.
 
-#### NET.1.1.A18-A27
-
-Keine inhaltlichen Änderungen.
-
-#### Anforderungen bei erhöhtem Schutzbedarf
-
-#### NET.1.1.A28-A36
-
-Keine inhaltlichen Änderungen.
-
 </details>
 
 
@@ -6383,16 +6353,6 @@ Keine inhaltlichen Änderungen.
 </summary>
 
 #### Basis-Anforderungen
-
-#### NET.1.2.A1
-
-Keine inhaltlichen Änderungen.
-
-
-#### NET.1.2.A2
-
-Keine inhaltlichen Änderungen.
-
 
 #### NET.1.2.A3 ENTFALLEN
 
@@ -6464,16 +6424,7 @@ __Hinzugefügt:__:
 
 Falls von einem Netz außerhalb der Managementnetze auf Netzmanagement-Werkzeuge zugegriffen wird, MÜSSEN als sicher geltende Authentisierungs- und Verschlüsselungsmethoden realisiert werden.
 
-#### NET.1.2.A10
-
-Keine inhaltlichen Änderungen.
-
 #### Standard-Anforderungen
-
-#### NET.1.2.A11-A18
-
-Keine inhaltlichen Änderungen.
-
 
 #### NET.1.2.A19 ENTFALLEN
 
@@ -6498,17 +6449,6 @@ __Ehemals:__
 
 *Falls von einem Netz außerhalb der Managementnetze auf Netzmanagement-Werkzeuge zugegriffen wird, MÜSSEN als sicher geltende Authentisierungs- und Verschlüsselungsmethoden realisiert werden.*
 
-
-#### NET.1.2.A21
-
-Keine inhaltlichen Änderungen.
-
-
-#### NET.1.2.A22
-
-Keine inhaltlichen Änderungen.
-
-
 #### NET.1.2.A23 ENTFALLEN
 
 __Ehemals:__
@@ -6525,16 +6465,7 @@ __Ehemals:__
 
 *Wenn Daten archiviert werden, SOLLTE darauf geachtet werden, dass dies gesetzeskonform und revisionssicher durchgeführt wird.*
 
-#### NET.1.2.A24-A29
-
-Keine inhaltlichen Änderungen.
-
 #### Anforderungen bei erhöhtem Schutzbedarf
-
-#### NET.1.2.A30-A33
-
-Keine inhaltlichen Änderungen.
-
 
 #### NET.1.2.A34 ENTFALLEN
 
@@ -6555,21 +6486,6 @@ __Entfallen:__
 
 *Es SOLLTEN Vorgehensweisen zur Beweissicherung und zu forensischen Untersuchungen im Rahmen des Netzmanagements festgelegt und dokumentiert werden.*
 
-
-#### NET.1.2.A36
-
-Keine inhaltlichen Änderungen.
-
-
-#### NET.1.2.A37
-
-Keine inhaltlichen Änderungen.
-
-
-#### NET.1.2.A38
-
-Keine inhaltlichen Änderungen.
-
 </details>
 
 
@@ -6582,11 +6498,6 @@ Keine inhaltlichen Änderungen.
 
 #### Basis-Anforderungen
 
-#### NET.2.1.A1-A5
-
-Keine inhaltlichen Änderungen.
-
-
 #### NET.2.1.A6
 
 __Entfallen:__
@@ -6597,12 +6508,6 @@ __Entfallen:__
 
 *• Wird die WLAN-Schnittstelle über einen längeren Zeitraum nicht genutzt, MUSS diese deaktiviert werden.*
 
-
-#### NET.2.1.A7
-
-Keine inhaltlichen Änderungen.
-
-
 #### NET.2.1.A8
 
 __Entfallen:__
@@ -6611,26 +6516,11 @@ __Entfallen:__
 
 #### Standard-Anforderungen
 
-#### NET.2.1.A9
-
-Keine inhaltlichen Änderungen.
-
-
 #### NET.2.1.A10
 
 __Hinzugefügt:__:
 
 Werden die Inhalte der Richtlinie nicht umgesetzt, MUSS geeignet reagiert werden.
-
-#### NET.2.1.A11-A14
-
-Keine inhaltlichen Änderungen.
-
-#### Anforderungen bei erhöhtem Schutzbedarf
-
-#### NET.2.1.A15-A18
-
-Keine inhaltlichen Änderungen.
 
 </details>
 
@@ -6736,22 +6626,6 @@ __Ehemals:__
 
 *Es MUSS sichergestellt werden, dass nur mit Administrator-Rechten gearbeitet wird, wenn es notwendig ist.*
 
-
-#### NET.3.1.A4
-
-Keine inhaltlichen Änderungen.
-
-
-#### NET.3.1.A5
-
-Keine inhaltlichen Änderungen.
-
-
-#### NET.3.1.A6
-
-Keine inhaltlichen Änderungen.
-
-
 #### NET.3.1.A7
 
 __Entfallen:__
@@ -6760,32 +6634,13 @@ __Entfallen:__
 
 *Änderungen an der Konfiguration SOLLTEN zudem automatisch protokolliert werden.*
 
-#### NET.3.1.A8-A9
-
-Keine inhaltlichen Änderungen.
-
 #### Standard-Anforderungen
-
-#### NET.3.1.A10-A21
-
-Keine inhaltlichen Änderungen.
-
 
 #### NET.3.1.A22
 
 __Hinzugefügt:__:
 
 Außerdem SOLLTE geplant und vorbereitet werden, wie die identifizierten Fehler behoben werden können.
-
-#### NET.3.1.A23
-
-Keine inhaltlichen Änderungen.
-
-#### Anforderungen bei erhöhtem Schutzbedarf
-
-#### NET.3.1.A24-A28
-
-Keine inhaltlichen Änderungen.
 
 </details>
 
@@ -6798,11 +6653,6 @@ Keine inhaltlichen Änderungen.
 
 #### Basis-Anforderungen
 
-#### NET.3.2.A1
-
-Keine inhaltlichen Änderungen.
-
-
 #### NET.3.2.A2
 
 __Entfallen:__
@@ -6810,12 +6660,6 @@ __Entfallen:__
 *Es DÜRFEN KEINE IT-Systeme von außen über die Firewall auf das interne Netz zugreifen (siehe Vorgaben aus dem Baustein NET.1.1 Netz-Architektur und -design).*
 
 *Es MUSS beachtet werden, dass mögliche Ausnahmen zu dieser Anforderung in den entsprechenden anwendungs- und systemspezifischen Bausteinen geregelt werden.*
-
-
-#### NET.3.2.A3
-
-Keine inhaltlichen Änderungen.
-
 
 #### NET.3.2.A4
 
@@ -6836,22 +6680,6 @@ __Ehemals:__
 
 *Es MUSS sichergestellt werden, dass mit Administrator-Rechten nur gearbeitet wird, wenn es notwendig ist.*
 
-
-#### NET.3.2.A6
-
-Keine inhaltlichen Änderungen.
-
-
-#### NET.3.2.A7
-
-Keine inhaltlichen Änderungen.
-
-
-#### NET.3.2.A8
-
-Keine inhaltlichen Änderungen.
-
-
 #### NET.3.2.A9
 
 __Hinzugefügt:__:
@@ -6861,12 +6689,6 @@ __Hinzugefügt:__:
 __Entfallen:__
 
 *Die Verantwortlichen MÜSSEN darauf achten, dass bei der Protokollierung alle rechtlichen Rahmenbedingungen eingehalten werden.*
-
-
-#### NET.3.2.A10
-
-Keine inhaltlichen Änderungen.
-
 
 #### NET.3.2.A11 ENTFALLEN
 
@@ -6917,16 +6739,7 @@ __Entfallen:__
 
 *Änderungen an der Konfiguration MÜSSEN zudem möglichst automatisch protokolliert werden.*
 
-#### NET.3.2.A15
-
-Keine inhaltlichen Änderungen.
-
 #### Standard-Anforderungen
-
-#### NET.3.2.A16-A22
-
-Keine inhaltlichen Änderungen.
-
 
 #### NET.3.2.A23
 
@@ -6934,21 +6747,9 @@ __Entfallen:__
 
 Weiterhin SOLLTE ein Prozess definiert werden, der regelt, wie Protokolldaten ausgewertet werden sollen und welche Protokolle regelmäßig, sporadisch oder nur anlassbezogen auszuwerten sind.
 
-
-#### NET.3.2.A24
-
-Keine inhaltlichen Änderungen.
-
-
 #### NEU: NET.3.2.32
 
 Die Anforderung wurde neu hinzugefügt.
-
-#### Anforderungen bei erhöhtem Schutzbedarf
-
-#### NET.3.2.A25-A31
-
-Keine inhaltlichen Änderungen.
 
 </details>
 
@@ -6961,32 +6762,13 @@ Keine inhaltlichen Änderungen.
 
 #### Basis-Anforderungen
 
-#### NET.3.3.A1
-
-Keine inhaltlichen Änderungen.
-
-
-#### NET.3.3.A2
-
-Keine inhaltlichen Änderungen.
-
-
 #### NET.3.3.A3
 
 __Entfallen:__
 
 *Das zugrunde liegende Betriebssystem der VPN-Plattform MUSS sicher konfiguriert werden.*
 
-#### NET.3.3.A4-A5
-
-Keine inhaltlichen Änderungen.
-
 #### Standard-Anforderungen
-
-#### NET.3.3.A6-A10
-
-Keine inhaltlichen Änderungen.
-
 
 #### NET.3.3.A11
 
@@ -7007,11 +6789,6 @@ __Entfallen:__
 
 *Weiterhin SOLLTEN die eingesetzten Server vor unbefugten Zugriffen geschützt sein.*
 
-
-#### NET.3.3.A13
-
-Keine inhaltlichen Änderungen.
-
 </details>
 
 
@@ -7023,16 +6800,6 @@ Keine inhaltlichen Änderungen.
 </summary>
 
 #### Basis-Anforderungen
-
-#### NET.4.1.A1
-
-Keine inhaltlichen Änderungen.
-
-
-#### NET.4.1.A2
-
-Keine inhaltlichen Änderungen.
-
 
 #### NET.4.1.A3 ENTFALLEN
 
@@ -7059,33 +6826,13 @@ __Ehemals:__
 
 *Alle anderen Remote-Zugänge MÜSSEN vor unberechtigtem Zugriff geschützt und auf die notwendigen Personen beschränkt werden.*
 
-#### NET.4.1.A5
-
-Keine inhaltlichen Änderungen.
-
 #### Standard-Anforderungen
-
-#### NET.4.1.A6-A16
-
-Keine inhaltlichen Änderungen.
-
 
 #### NET.4.1.A17
 
 __Entfallen:__
 
 *Die Datenverbindungen bei IP-basierten Zugängen zur TK-Anlage SOLLTEN verschlüsselt sein.*
-
-#### Anforderungen bei erhöhtem Schutzbedarf
-
-#### NET.4.1.A18
-
-Keine inhaltlichen Änderungen.
-
-
-#### NET.4.1.A19
-
-Keine inhaltlichen Änderungen.
 
 </details>
 
@@ -7097,11 +6844,6 @@ Keine inhaltlichen Änderungen.
 </summary>
 
 #### Basis-Anforderungen
-
-#### NET.4.2.A1
-
-Keine inhaltlichen Änderungen.
-
 
 #### NET.4.2.A2 ENTFALLEN
 
@@ -7119,12 +6861,6 @@ __Ehemals:__
 __Entfallen:__
 
 *Die eingesetzten Software-Komponenten MÜSSEN regelmäßig mit Updates aus vertrauenswürdigen Quellen aktualisiert werden.*
-
-
-#### NET.4.2.A4
-
-Keine inhaltlichen Änderungen
-
 
 #### NET.4.2.A5
 
@@ -7157,17 +6893,6 @@ __Hinzugefügt:__:
 
 Hierbei SOLLTEN auch die verschiedenen VoIP-Funktionen, wie zum Beispiel Voicemails, betrachtet werden.
 
-
-#### NET.4.2.A8
-
-Keine inhaltlichen Änderungen
-
-
-#### NET.4.2.A9
-
-Keine inhaltlichen Änderungen
-
-
 #### NET.4.2.A10 ENTFALLEN
 
 __Ehemals:__
@@ -7178,15 +6903,7 @@ __Ehemals:__
 
 *Die Maßnahmen SOLLTEN die individuellen Einsatzgebiete der Administration von VoIP sowie typische Situationen im Fehlermanagement abdecken.*
 
-#### NET.4.2.A11-A13
-
-Keine inhaltlichen Änderungen
-
 #### Anforderungen bei erhöhtem Schutzbedarf
-
-#### NET.4.2.A14
-
-Keine inhaltlichen Änderungen
 
 #### NET.4.2.A15
 
@@ -7219,21 +6936,6 @@ Keine inhaltlichen Änderungen
 
 #### Basis-Anforderungen
 
-#### INF.1.A1
-
-Keine inhaltlichen Änderungen.
-
-
-#### INF.1.A2
-
-Keine inhaltlichen Änderungen.
-
-
-#### INF.1.A3
-
-Keine inhaltlichen Änderungen.
-
-
 #### INF.1.A4
 
 __Entfallen:__
@@ -7264,21 +6966,11 @@ __Hinzugefügt:__:
 Zutrittskontrollen SOLLTEN auch während Umzügen soweit wie möglich vorhanden sein.
 
 
-#### INF.1.A8
-
-Keine inhaltlichen Änderungen.
-
-
 #### INF.1.A10
 
 Die Anforderung wurde von einer Standard- zu einer Basis-Anfordrung gewandelt.
 
 #### Standard-Anforderungen
-
-#### INF.1.A9
-
-Keine inhaltlichen Änderungen.
-
 
 #### INF.1.A11 ENTFALLEN
 
@@ -7289,12 +6981,6 @@ __Ehemals:__
 *Mitarbeiter SOLLTEN angewiesen werden, ihr Büro abzuschließen oder ihre Arbeitsunterlagen wegzuschließen, wenn sie den Raum verlassen und der Raum für unberechtigte Personen zugänglich ist.*
 
 *Es SOLLTE sporadisch überprüft werden, ob dies umgesetzt wird.*
-
-
-#### INF.1.A12-A19
-
-Keine inhaltlichen Änderungen.
-
 
 #### INF.1.A20
 
@@ -7322,32 +7008,11 @@ __Ehemals:__
 
 *Die IT-Systeme SOLLTEN über zwei voneinander unabhängige Versorgungsstränge gespeist werden.*
 
-
-#### INF.1.A22
-
-Keine inhaltlichen Änderungen.
-
-
 #### INF.1.A23
 
 __Entfallen:__
 
 *Es SOLLTE ein Sicherheitszonenkonzept für Gebäude und Grundstück entwickelt und dokumentiert werden.*
-
-
-#### INF.1.A24
-
-Keine inhaltlichen Änderungen.
-
-
-#### INF.1.A25
-
-Keine inhaltlichen Änderungen.
-
-
-#### INF.1.A26
-
-Keine inhaltlichen Änderungen.
 
 
 #### INF.1.A28 ENTFALLEN
@@ -7374,22 +7039,6 @@ __Ehemals:__
 *Die Reinigungskräfte SOLLTEN über den Umgang mit der IT ausreichend informiert sein.*
 
 *Reinigungskräfte SOLLTEN in besonders sensitiven Bereichen bei der Arbeit beaufsichtigt werden.*
-
-
-#### INF.1.A30
-
-Keine inhaltlichen Änderungen.
-
-
-#### INF.1.A31
-
-Keine inhaltlichen Änderungen.
-
-
-#### INF.1.A32
-
-Keine inhaltlichen Änderungen.
-
 
 #### INF.1.A33 ENTFALLEN
 
@@ -7447,11 +7096,6 @@ Hierbei SOLLTEN mindestens folgende Komponenten auf ihren Nutzen und ihre Umsetz
 
 #### Basis-Anforderungen
 
-#### INF.2.A1-A5
-
-Keine inhaltlichen Änderungen.
-
-
 #### INF.2.A6
 
 __Geändert:__
@@ -7464,25 +7108,6 @@ Alle Zutrittsmöglichkeiten zum Rechenzentrum MÜSSEN mit Zutrittskontrolleinric
 
 Jeder Zutritt zum Rechenzentrum MUSS von der Zutrittskontrolle individuell erfasst werden.
 
-
-#### INF.2.A7-A11
-
-Keine inhaltlichen Änderungen.
-
-#### INF.2.A17
-
-Keine inhaltlichen Änderungen.
-
-#### INF.2.A29
-
-Keine inhaltlichen Änderungen.
-
-#### Standard-Anforderungen
-
-#### INF.2.A12-14
-
-Keine inhaltlichen Änderungen.
-
 #### INF.2.A15
 
 __Geändert:__
@@ -7494,17 +7119,6 @@ Dabei sind die für den ordnungsgemäßen Betrieb des RZ erforderlichen Blitzsch
 Für alle für den ordnungsgemäßen Betrieb des RZ und dessen Dienstleistungsbereitstellung erforderlichen Einrichtungen SOLLTE das mindestens die LPZ 2 sein.
 
 Alle Einrichtungen des Überspannungsschutzes SOLLTEN gemäß DIN EN 62305-3, Tabelle E.2 ein Mal im Jahr einer Umfassenden Prüfung unterzogen werden.
-
-
-#### INF.2.A16
-
-Keine inhaltlichen Änderungen.
-
-
-#### INF.2.A19
-
-Keine inhaltlichen Änderungen.
-
 
 #### INF.2.A20 ENTFALLEN
 
@@ -7529,16 +7143,6 @@ Ein Rechenzentrum SOLLTE mit einer automatischen Lösch- oder Brandvermeidungsan
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
-#### INF.2.A21
-
-Keine inhaltlichen Änderungen.
-
-
-#### INF.2.A22
-
-Keine inhaltlichen Änderungen.
-
-
 #### INF.2.A23
 
 __Geändert:__
@@ -7562,17 +7166,6 @@ Die für eine Videoüberwachung benötigten zentralen Technikkomponenten SOLLTEN
 
 Es SOLLTE regelmäßig überprüft werden, ob die Videoüberwachungsanlage korrekt funktioniert und ob die mit dem Datenschutzbeauftragten abgestimmten Blickwinkel eingehalten werden.
 
-
-#### INF.2.A25
-
-Keine inhaltlichen Änderungen.
-
-
-#### INF.2.A26
-
-Keine inhaltlichen Änderungen.
-
-
 #### INF.2.A27 ENTFALLEN
 
 __Ehemals:__
@@ -7584,11 +7177,6 @@ __Ehemals:__
 *Diese SOLLTEN auf einem Alarmierungsplan basieren, in dem die zu ergreifenden Maßnahmen dokumentiert sind.*
 
 *Es SOLLTE regelmäßig geprüft werden, ob die Maßnahmen noch korrekt, aktuell und praktikabel sind.*
-
-
-#### INF.2.A28
-
-Keine inhaltlichen Änderungen.
 
 </details>
 
@@ -7613,11 +7201,6 @@ Der Baustein ist vollständig entfallen.
 
 #### Basis-Anforderungen
 
-#### INF.5.A1-A6
-
-Keine inhaltlichen Änderungen.
-
-
 #### INF.5.A7
 
 __Geändert:__
@@ -7629,17 +7212,7 @@ Der Raum für technische Infrastruktur DARF NICHT zweckentfremdet werden, z. B. 
 
 Die Anforderung wurde von einer Standard-Anforderung zu einer Basis-Anforderung.
 
-#### Standard-Anforderungen
-
-#### INF.5.A8-A17
-
-Keine inhaltlichen Änderungen.
-
 #### Anforderungen bei erhöhtem Schutzbedarf
-
-#### INF.5.A18-A19
-
-Keine inhaltlichen Änderungen.
 
 #### INF.5.A20
 
@@ -7658,11 +7231,6 @@ __Ehemals:__
 
 *Bei sehr hohem Schutzbedarf SOLLTE auch eine Wartungsredundanz vorhanden sein.*
 
-
-#### INF.5.A22-A26
-
-Keine inhaltlichen Änderungen.
-
 </details>
 
 
@@ -7673,11 +7241,6 @@ Keine inhaltlichen Änderungen.
 </summary>
 
 #### Basis-Anforderungen
-
-#### INF.6.A1-A3
-
-Keine inhaltlichen Ánderungen.
-
 
 #### INF.6.A4
 
@@ -7691,18 +7254,6 @@ __Entfallen:__
 
 *Zudem MUSS regelmäßig überprüft werden, ob Fenster und Türen nach Verlassen der Räume ge- bzw. verschlossen sind.*
 
-#### Standard-Anforderungen
-
-#### INF.6.A5-A8
-
-Keine inhaltlichen Ánderungen.
-
-#### Anforderungen bei erhöhtem Schutzbedarf
-
-#### INF.6.A9
-
-Keine inhaltlichen Ánderungen.
-
 </details>
 
 
@@ -7714,11 +7265,6 @@ Keine inhaltlichen Ánderungen.
 
 #### Basis-Anforderungen
 
-#### INF.7.A1
-
-Keine inhaltlichen Änderungen.
-
-
 #### INF.7.A2
 
 __Geändert:__
@@ -7728,11 +7274,6 @@ Wenn Mitarbeiter ihre Büroräume verlassen, SOLLTEN alle Fenster geschlossen we
 Befinden sich vertrauliche Informationen in dem Büroraum, MÜSSEN beim Verlassen die Türen abgeschlossen werden.
 
 #### Standard-Anforderungen
-
-#### INF.7.A3
-
-Keine inhaltlichen Änderungen.
-
 
 #### INF.7.A4 ENTFALLEN
 
@@ -7745,17 +7286,6 @@ __Ehemals:__
 *Dafür SOLLTE ein Sicherheitskonzept erstellt und umgesetzt werden.*
 
 *Zudem SOLLTE regelmäßig überprüft werden, ob die ergriffenen Maßnahmen wirksam sind.*
-
-
-#### INF.7.A5-A7
-
-Keine inhaltlichen Änderungen.
-
-#### Anforderungen bei erhöhtem Schutzbedarf
-
-#### INF.7.A8
-
-Keine inhaltlichen Änderungen.
 
 </details>
 
@@ -7772,27 +7302,11 @@ Keine inhaltlichen Änderungen.
 <summary> Änderungen
 </summary>
 
-#### Basis-Anforderungen
-
-#### INF.9.A1-A4
-
-keine inhaltlichen Änderungen.
-
 #### Standard-Anforderungen
-
-#### INF.9.A5-A9
-
-keine inhaltlichen Änderungen.
 
 #### NEU: INF.9.A12
 
 Die Anforderung ist neu hinzugefügt.
-
-#### Anforderungen bei erhöhtem Schutzbedarf
-
-#### INF.9.A10-A11
-
-keine inhaltlichen Änderungen.
 
 </details>
 
@@ -7806,11 +7320,6 @@ keine inhaltlichen Änderungen.
 
 #### Basis-Anforderungen
 
-#### INF.10.A1
-
-keine inhaltlichen Änderungen.
-
-
 #### INF.10.A2 ENTFALLEN
 
 __Ehemals:__
@@ -7821,31 +7330,13 @@ __Ehemals:__
 
 *Mitarbeiter MÜSSEN dazu angehalten werden, fremde Personen nicht unbeaufsichtigt zu lassen.*
 
-#### INF.10.A3
-
-keine inhaltlichen Änderungen
-
 #### Standard-Anforderungen
-
-#### INF.10.A4-A6
-
-keine inhaltlichen Änderungen
 
 #### INF.10.A7
 
 __Entfallen:__
 
 Auf andere Netze SOLLTE nur restriktiv zugegriffen werden können.
-
-#### INF.10.A8
-
-keine inhaltlichen Änderungen
-
-#### Anforderungen bei erhöhtem Schutzbedarf
-
-#### INF.10.A9-A10
-
-keine inhaltlichen Änderungen
 
 </details>
 
