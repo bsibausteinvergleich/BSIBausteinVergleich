@@ -469,6 +469,8 @@ Dies MUSS wiederum auf Basis der erhobenen Einflussfaktoren und in Abstimmung mi
 
 #### CON.3.A3 ENTFALLEN
 __Diese Anforderung ist entfallen:__
+~~CON.3.A3 Ermittlung von rechtlichen Einflussfaktoren auf die Datensicherung
+Die rechtlichen Anforderungen an die Datensicherung MÜSSEN ermittelt und in das Minimal- bzw. in das Datensicherungskonzept einfließen.~~
 
 #### CON.3.A4
 __Änderung:__\
@@ -1157,6 +1159,11 @@ __Ergänzung:__ (...) und Fachaufgaben (...)
 
 #### DER.4.A11 ENTFALLEN
 __Diese Anforderung ist entfallen:__
+~~DER.4.A11 Überprüfung und Aufrechterhaltung der Maßnahmen zur Notfallvorsorge und -reaktion (CIA)
+Es SOLLTEN die identifizierten Maßnahmen zur Notfallvorsorge und -reaktion regelmäßig und anlassbezogen überprüft werden.
+Die Überprüfungen SOLLTEN so geplant werden, dass kein relevanter Teil ausgelassen wird.
+Die Ergebnisse der Überprüfungen SOLLTEN ausgewertet und gegebenenfalls in Korrekturmaßnahmen umgesetzt werden.
+Die Korrekturmaßnahmen SOLLTEN geplant und die Umsetzung kontrolliert werden.~~
 
 #### DER.4.A14
 __Ergänzung:__\
@@ -1301,6 +1308,12 @@ Bei der Protokollierung und beim Umgang mit den Protokollierungsdaten MÜSSEN di
 
 #### APP.3.1.A6 ENTFALLEN
 __Diese Anforderung ist entfallen:__
+~~APP.3.1.A6 Zeitnahes Einspielen sicherheitsrelevanter Patches und Updates
+Administratoren MÜSSEN sich regelmäßig über aktuelle Schwachstellen informieren und sicherheitsrelevante Updates zeitnah einspielen.
+Software-Updates und Patches für Webanwendungen MÜSSEN aus vertrauenswürdigen Quellen bezogen werden.
+Sie MÜSSEN vor dem Roll-Out ausreichend getestet werden.
+Bevor Updates oder Patches installiert werden, MUSS stets sichergestellt sein, dass der ursprüngliche Zustand der Webanwendung wiederhergestellt werden kann.
+Das aktuelle Patchlevel MUSS dokumentiert werden.~~
 
 #### APP.3.1.A7
 __Ergänzung:__\
@@ -1353,10 +1366,13 @@ Dabei SOLLTEN mindestens die Sicherheitszonen Webschicht, Anwendungsschicht und 
 
 Aus diesen Zonen SOLLTE NICHT auf Systeme im Intranet zugegriffen werden können.
 
-#### APP.3.1.A9
-
 #### APP.3.1.A10 ENTFALLEN
 __Diese Anforderung ist entfallen:__
+~~APP.3.1.A10 Test und Freigabe von Webanwendungen [Leiter IT]
+Bevor Webanwendungen oder Erweiterungen und Anpassungen, die selbst oder im Auftrag entwickelt wurden, in den Produktivbetrieb übernommen werden, SOLLTEN sie getestet werden.
+Die Ergebnisse der Tests SOLLTEN dokumentiert werden.
+Wenn die Tests erfolgreich verlaufen sind, SOLLTE die Webanwendung formal freigegeben werden.
+Darüber hinaus SOLLTE ein Verfahren zur Fehlerbehebung etabliert werden.~~
 
 #### APP.3.1.A11
 __Entfallen:__\
@@ -1389,6 +1405,11 @@ Falls dies nicht möglich ist, SOLLTE die Anwendung auf andere geeignete Weise s
 
 #### APP.3.1.A18 ENTFALLEN
 __Diese Anforderung ist entfallen:__
+~~APP.3.1.A18 Kontrolle der Protokollierungsdaten
+Es SOLLTE für jede Webanwendung ein Konzept erstellt werden, das festlegt, wie umfangreich die Protokollierung sein soll und wie die Daten auszuwerten sind.
+Zudem SOLLTE ein Verantwortlicher benannt werden, der die Protokollierungsdaten auswertet.
+Die Ergebnisse SOLLTEN dem ISB oder einem anderen hierfür bestimmten Mitarbeiter vorgelegt werden.~~
+
 
 #### APP.3.1.A21
 __Änderung:__\
@@ -1446,6 +1467,11 @@ Wenn sich Clients mit Hilfe von Passwörtern am Webserver authentisieren, MÜSSE
 
 #### APP.3.2.A6 ENTFALLEN
 __Diese Anforderung ist entfallen:__
+~~DER.3.2.A6 Vorbereitung einer IS-Revision [Institutionsleitung]
+Die Institutionsleitung MUSS das IS-Revisionsverfahren initiieren.
+Hierfür MUSS sie das IS-Revisionsteam mit einer IS-Revision beauftragen.
+Das IS-Revisionsteam MUSS festlegen, welche Referenzdokumente für eine IS-Revision benötigt werden.
+Die zu prüfende Institution MUSS das Sicherheitskonzept und alle weiteren erforderlichen Dokumente an das IS-Revisionsteam übergeben.~~
 
 #### APP.3.2.A11 (Aktualisiert: Basis-Anforderung)
 Der Webserver MUSS für alle Verbindungen durch nicht vertrauenswürdige Netze eine sichere Verschlüsselung über TLS anbieten (HTTPS).
@@ -1493,6 +1519,11 @@ Für die Behandlung von externen Sicherheitsmeldungen SOLLTE die Institution Pro
 
 #### APP.3.2.A19 ENTFALLEN
 __Diese Anforderung ist entfallen:__
+~~APP.3.2.A19 Einrichtung eines Internet-Redaktionsteams [Leiter IT, Fachverantwortliche] (CIA)
+Um Webangebote zu pflegen, SOLLTE eine eigenständige Internetredaktion eingerichtet werden.
+Die Internetredaktion SOLLTE alle Rollen enthalten, die im Konzept für Webangebote als Verantwortliche genannt wurden.
+Bei umfangreichen Webangeboten SOLLTE zusätzlich ein Ansprechpartner für Webanwendungen bestimmt werden.
+Ebenso SOLLTEN Prozesse, Vorgehensweisen und Verantwortliche benannt werden für den Fall von Problemen oder Sicherheitsvorfällen.~~
 
 </details>
 
