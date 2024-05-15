@@ -521,13 +521,6 @@ __Ergänzt:__\
 __Ergänzt:__\
 • (Verschlüsselung der Daten) auf dem Online-Speicher sowie
 
-#### CON.3.A11
-__Änderung:__\
-~~Von eingesetzten Softwareprogrammen SOLLTEN Sicherungskopien angefertigt werden,(...)~~
-
-__zu:__\
-Der IT-Betrieb SOLLTE Sicherungskopien von eingesetzten Softwareprogrammen anfertigen,(...)
-
 #### CON.3.A12
 __Änderung:__\
 ~~Die Backup-Datenträger SOLLTEN vor unbefugtem Zugriff geschützt werden.~~
