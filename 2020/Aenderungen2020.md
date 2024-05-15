@@ -1536,6 +1536,12 @@ Ebenso SOLLTEN Prozesse, Vorgehensweisen und Verantwortliche benannt werden für
 
 #### APP.3.3.A1 ENTFALLEN
 __Diese Anforderung ist entfallen:__
+~~APP.3.3.A1 Geeignete Aufstellung [Haustechnik]
+Fileserver DÜRFEN NICHT in Büroräumen oder als Arbeitsplatzrechner betrieben werden.
+Sie MÜSSEN an Orten aufgestellt werden, zu denen nur berechtigte Personen Zutritt haben.
+Zudem MUSS auf eine schwingungsfreie bzw. erschütterungsfreie Umgebung des Fileservers geachtet werden.
+Auch Fileserver mit weiteren Funktionen, wie NAS-Systeme kombiniert mit einem WLAN-Access-Point oder mit Direktanschlüssen für Speicherkarten, MÜSSEN an geeigneten Orten aufgestellt werden.
+Des Weiteren MÜSSEN eine sichere Stromversorgung und eine entsprechend den Herstellervorgaben empfohlene Umgebungstemperatur und Luftfeuchte sichergestellt sein.~~
 
 #### APP.3.3.A2
 __Entfallen:__\
@@ -1547,6 +1553,12 @@ Alle Daten MÜSSEN durch ein Viren-Schutzprogramm auf Schadsoftware untersucht w
 
 #### APP.3.3.A4 ENTFALLEN
 __Diese Anforderung ist entfallen:__
+~~APP.3.3.A4 Regelmäßige Datensicherung
+Es MÜSSEN regelmäßig alle auf dem Fileserver befindlichen Daten gesichert werden.
+Dazu MUSS ein Datensicherungskonzept erstellt werden, das unter anderem definiert, in welchen Intervallen das Backup durchgeführt werden soll.
+Außerdem MUSS eine Datensicherung durchgeführt werden, wenn auf dem Fileserver etwas installiert oder neu konfiguriert wird.
+Alle gesicherten Daten MÜSSEN sich jederzeit wiederherstellen lassen.
+Dabei SOLLTE die maximale Wiederanlaufzeit erhoben und im Datensicherungskonzept berücksichtigt werden.~~
 
 #### APP.3.3.A15 (Aktualisiert: Basis-Anforderung)
 
@@ -1599,6 +1611,12 @@ Es sollten mindestens nicht-autorisierte Zugriffsversuche auf Dateien und von Zu
 
 #### APP.3.3.A10 ENTFALLEN
 __Diese Anforderung ist entfallen:__
+~~APP.3.3.A10 Regelmäßige Tests des Datensicherungs- bzw. Wiederherstellungskonzepts
+Es SOLLTE regelmäßig getestet werden, ob die Datensicherung und -wiederherstellung korrekt funktionieren.
+Dafür SOLLTE ein Zeitplan ausgearbeitet werden.
+Es SOLLTEN genügend Ressourcen bereitgestellt werden, um die Tests planen, konzipieren und durchführen zu können.
+Die Ergebnisse SOLLTEN ausreichend dokumentiert werden.
+Aufgedeckte Mängel SOLLTEN dazu führen, dass das Datensicherungskonzept überarbeitet wird.~~
 
 #### APP.3.3.A11
 __Änderung:__\
@@ -1678,6 +1696,12 @@ Die Konfigurationsdaten, Statusinformationen und Systemdateien SOLLTEN kompatibe
 
 #### APP.3.4.A14 ENTFALLEN
 __Diese Anforderung ist entfallen:__
+~~APP.3.4.A14 Erstellen eines Notfallplans für den Ausfall von Samba-Servern
+Um den Samba-Server im Notfall schnell neu installieren zu können, SOLLTEN die notwendigen Installationspakete und Informationen an einem festgelegten Ort hinterlegt werden.
+Es SOLLTE gewährleistet sein, dass sie jederzeit verfügbar sind.
+Die Dokumentation der Samba-Konfiguration SOLLTE dabei stets aktuell und nachvollziehbar sein.
+Für den Samba-Server SOLLTE abhängig von der Serverrolle und den Verfügbarkeitsanforderungen getestet werden, ob er sich wiederherstellen lässt und wie lange das dauert.
+Anhand der Ergebnisse SOLLTE der Notfallplan verbessert werden.~~
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
@@ -1692,6 +1716,11 @@ __Diese Anforderung ist entfallen:__
 
 #### APP.3.6.A5 ENTFALLEN
 __Diese Anforderung ist entfallen:__
+~~APP.3.6.A5 Zeitnahes Einspielen sicherheitsrelevanter Patches und Updates
+Die verantwortlichen Mitarbeiter MÜSSEN sich regelmäßig bei verschiedenen Quellen über neu bekannt gewordene Schwachstellen im eingesetzten DNS-Server-Produkt informieren und sicherheitsrelevante Updates zeitnah einspielen.
+Vorab MUSS jedoch auf einem Testsystem überprüft werden, ob die Sicherheitsupdates kompatibel sind und keine Fehler verursachen.
+Solange keine Patches bei bekannten Schwachstellen verfügbar sind, MÜSSEN andere geeignete Maßnahmen getroffen werden, um die DNS-Server zu schützen.
+Bevor ein Patch eingespielt wird, MÜSSEN die Zonen- und Konfigurationsdateien gesichert werden.~~
 
 </details>
 
@@ -1791,6 +1820,13 @@ Wenn ein E-Mail-Scanner genutzt wird, MÜSSEN darüber alle Mitarbeiter, der Dat
 
 #### APP.5.1.A5 ENTFALLEN
 __Diese Anforderung ist entfallen:__
+~~APP.5.1.A5 Festlegung der Kommunikationspartner [Leiter Organisation, Leiter IT, Informationssicherheitsbeauftragter (ISB), Datenschutzbeauftragter]
+Es SOLLTE festgelegt werden, welche Kommunikationspartner welche Informationen erhalten dürfen.
+Sollen Informationen an einen Kommunikationspartner außerhalb der eigenen Institution übertragen werden, SOLLTE sichergestellt werden, dass der Empfänger berechtigt ist, diese Informationen weiterzuverarbeiten.
+Alle Informationen SOLLTEN entsprechend ihrer strategischen Bedeutung für die Institution klassifiziert werden.
+Die Kommunikationspartner SOLLTEN darauf hingewiesen werden, dass die übermittelten Daten nur zu dem Zweck benutzt werden dürfen, zu dem sie weitergegeben wurden.
+Auch aus Datenschutzgründen (Bundesdatenschutzgesetz (BDSG), Weitergabekontrolle) SOLLTE eine Übersicht erstellt werden, welche Empfänger berechtigt sind, Informationen, insbesondere personenbezogene Daten, zu erhalten.
+Bei zu übermittelnden Daten SOLLTE ersichtlich sein, welche Kommunikationspartner Informationen erhalten haben bzw. erhalten werden.~~
 
 #### APP.5.1.A6
 __Änderung:__\
@@ -1835,12 +1871,38 @@ Die Groupware-Sicherheitsrichtlinien SOLLTEN den Umgang mit Newsgroups und Maili
 
 #### APP.5.1.A9 ENTFALLEN
 __Diese Anforderung ist entfallen:__
+~~APP.5.1.A9 Sichere Administration von Groupware-Systemen [Leiter IT]
+Administrative Zugänge sowie die dazugehörigen Aufgaben SOLLTEN abhängig ihrer Zuständigkeit getrennt werden.
+Um ein Groupware-System reibungslos zu betreiben, SOLLTEN Administratoren ernannt und geschult werden.
+Alle Administrationsaufgaben im Bereich Groupware und die vergebenen Berechtigungen SOLLTEN ausreichend dokumentiert werden.
+An Administratoren SOLLTEN nur die für die jeweiligen Aufgaben notwendigen Berechtigungen vergeben werden.
+Nachdem alle Groupware-Komponenten installiert wurden, SOLLTEN sie sicher konfiguriert werden.
+Es SOLLTE darauf geachtet werden, dass die genutzten Groupware-Systeme ausreichend dimensioniert sind.
+Auch SOLLTEN vertrauenswürdige Groupware-Dokumentationen bei der Administration berücksichtigt werden.
+Es SOLLTE regelmäßig überprüft werden, ob die vorhandenen Dokumentationen aktuell sind.~~
 
 #### APP.5.1.A10 ENTFALLEN
 __Diese Anforderung ist entfallen:__
+~~APP.5.1.A10 Schulung zur Systemarchitektur und Sicherheit von Groupware-Systemen für Administratoren [Leiter IT, Informationssicherheitsbeauftragter (ISB)]
+Um ein Groupware-System korrekt und sicher administrieren zu können, SOLLTEN die verantwortlichen Administratoren geschult werden.
+Für die Schulungen SOLLTE überlegt werden, einen Schulungsplan festzulegen.
+Die Administratoren SOLLTEN in allen sicherheitsrelevanten Bereichen des Groupware-Systems ausgebildet werden.
+Weitere Schulungsschwerpunkte SOLLTEN sein:
+• Überblick über Lösungen für Kommunikationssicherheit (z. B. Verschlüsselung, VPN),
+• Protokollierung,
+• Sichern und Verwalten von Konfigurationsdaten,
+• Datensicherung,
+• Incident Handling sowie
+• Disaster-Recovery-Maßnahmen.~~
 
 #### APP.5.1.A11 ENTFALLEN
 __Diese Anforderung ist entfallen:__
+~~APP.5.1.A11 Berechtigungsverwaltung für Groupware-Systeme [Leiter IT, Informationssicherheitsbeauftragter (ISB)]
+Die vergebenen Berechtigungen, vor allem die privilegierten, SOLLTEN regelmäßig mit dem Berechtigungskonzept abgeglichen und zeitnah angepasst werden, wenn sich die Aufgaben der Benutzer und der Administratoren ändern.
+Es SOLLTE ein Berechtigungskonzept erstellt werden, das alle Groupware-Komponenten umfasst.
+Berechtigungen SOLLTEN möglichst restriktiv vergeben werden.
+Administrative Tätigkeiten auf Betriebssystemebene und Groupware-Anwendungsebene SOLLTEN soweit wie möglich voneinander getrennt werden.
+Auch innerhalb der Administration SOLLTEN Rollen und Verantwortlichkeiten getrennt werden.~~
 
 #### APP.5.1.A12
 __Änderung:__\
@@ -1856,12 +1918,26 @@ Sie SOLLTE Benutzer auch davor warnen, die HTML-Darstellung bei unerwarteten E-M
 
 #### APP.5.1.A13 ENTFALLEN
 __Diese Anforderung ist entfallen:__
+~~APP.5.1.A13 Verifizierung der zu übertragenden Daten vor Weitergabe und Beseitigung von Restinformationen [Leiter IT, Benutzer]
+Bevor eine Datei per E-Mail über einen Groupware-Dienst verschickt wird, SOLLTE überprüft werden, ob diese Restinformationen enthält, die nicht veröffentlicht werden dürfen.
+Alle Benutzer SOLLTEN über die Gefahren von Rest- und Zusatzinformationen in Dateien sensibilisiert werden.
+Um diese Gefahren zu minimieren, SOLLTEN Dateienstichprobenhaft auf enthaltene Restinformationen überprüft werden.
+Alle Zusatzinformationen (Dateieigenschaften) von Dateien in Standardsoftwareformaten SOLLTEN ermittelt, überprüft und falls erforderlich angepasst werden, bevor sie weitergegeben werden.
+Ebenso SOLLTE darauf geachtet werden, dass die Dateien keine sogenannten Slack Bytes enthalten.~~
 
 #### APP.5.1.A14 ENTFALLEN
 __Diese Anforderung ist entfallen:__
+~~APP.5.1.A14 Vermeidung problematischer Dateiformate [Benutzer]
+Es SOLLTE vorgegeben werden, wie mit E-Mails im HTML-Format, mit anderen Dateiformaten und Dateianhängen umzugehen ist.
+Für HTML-formatierte E-Mails SOLLTE eine Richtlinie erstellt werden, die auf entsprechende Inhalte von Benutzerschulungen, Weiterleitungseinstellungen, Umwandlungsoptionen (z. B. in Textformate), Benutzerhinweise sowie auf mögliche sichere und gesonderte Arbeitsplätze eingeht.~~
 
 #### APP.5.1.A15 ENTFALLEN
 __Diese Anforderung ist entfallen:__
+~~APP.5.1.A15 Protokollierung von Groupware-Systemen [Leiter IT]
+Es SOLLTEN alle sicherheitsrelevanten Ereignisse von Groupware-Systemen protokolliert werden.
+Dafür SOLLTE ein geeignetes Protokollierungskonzept erstellt werden.
+Der Zugriff auf die Protokolldaten SOLLTE eingeschränkt werden.
+Wichtige Systemereignisse wie Änderungen, Fehler und Störungen an Hardware, Betriebssystem, Treibern, Diensten und sonstiger Software SOLLTEN protokolliert und regelmäßig ausgewertet werden.~~
 
 #### APP.5.1.A16
 __Entfallen:__\
@@ -1884,11 +1960,20 @@ Die Institution SOLLTE Domain-based Message Authentication, Reporting and Confor
 
 #### APP.5.1.A19 ENTFALLEN
 __Diese Anforderung ist entfallen:__
+~~APP.5.1.A19 Verschlüsselung von Groupware [Leiter IT, Informationssicherheitsbeauftragter (ISB), Benutzer]
+Daten, die durch Groupware-Systeme übermittelt werden, SOLLTEN mithilfe geeigneter Schutzmechanismen abgesichert werden.
+So SOLLTE mit Verschlüsselungsverfahren und digitalen Signaturen die Integrität und Vertraulichkeit elektronisch übermittelter Informationen sichergestellt werden, beispielsweise durch eine TLS-Verbindungsverschlüsselung.~~
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 #### APP.5.1.A20 ENTFALLEN
 __Diese Anforderung ist entfallen:__
+~~APP.5.1.A20 Erstellen eines Notfallplans für den Ausfall von Groupware-Systemen [Notfallbeauftragter, Leiter IT, Informationssicherheitsbeauftragter (ISB)] (A)
+Es SOLLTE ein Konzept entworfen werden, wie die Folgen eines Ausfalls minimiert werden können und was bei einem Ausfall zu tun ist.
+Die Notfallplanung für das eingesetzte Groupware-System SOLLTE den existierenden Notfallplan der Institution berücksichtigen.
+Wichtige Aufgaben, um das Groupware-System aufrechtzuerhalten bzw. wieder in Betrieb nehmen zu können, SOLLTEN so beschrieben sein, dass sie von entsprechend geschultem Personal durchgeführt werden können.
+Es SOLLTE ein Wiederanlaufplan für das Groupware-System erstellt werden, der beschreibt, wie die Systeme nach einem Ausfall wieder geregelt hochzufahren sind.
+Notfallübungen zur Systemwiederherstellung SOLLTEN regelmäßig durchgeführt werden, wobei auch alle Aspekte eines Systemausfalls bzw. einer Kompromittierung zu berücksichtigen sind.~~
 
 </details>
 
@@ -1917,6 +2002,10 @@ Er MUSS die Standard-NTFS-Berechtigungen für das Microsoft Exchange-Verzeichnis
 
 #### APP.5.2.A4 ENTFALLEN
 __Diese Anforderung ist entfallen:__
+~~APP.5.2.A4 Zugriffsrechte auf Microsoft Exchange-Objekte
+Die Zugriffsberechtigungen auf Microsoft Exchange-Objekte MÜSSEN auf Grundlage der das Prinzip des geringsten Privilegs (least privilege) festgelegt werden.
+Es MÜSSEN serverseitige Benutzerprofile für einen rechnerunabhängigen Zugriff auf Microsoft Exchange-Daten verwendet werden.
+Die Standard-NTFS-Berechtigungen auf das Microsoft Exchange-Verzeichnis MÜSSEN angepasst werden, sodass nur autorisierte Administratoren und Systemkonten auf die Daten in diesem Verzeichnis zugreifen können.~~
 
 #### APP.5.2.A5
 __Ergänzung:__\
@@ -1926,6 +2015,10 @@ Gelöschte Exchange-Objekte SOLLTEN erst nach einiger Zeit aus der Datenbank ent
 
 #### APP.5.2.A6 ENTFALLEN
 __Diese Anforderung ist entfallen:__
+~~APP.5.2.A6 Sichere Installation eines Microsoft Exchange-Systems
+Die Installation SOLLTE auf Basis der Einsatzplanung von Microsoft Exchange und Outlook und der festgelegten Sicherheitsrichtlinie erfolgen (siehe APP.5.2.A1 Planung des Einsatzes von Microsoft Exchange und Outlook).
+Da sich Microsoft Exchange-Systeme sehr stark in die Windows-Umgebung integrieren, speziell in das Active Directory, SOLLTEN die entsprechenden spezifischen Sicherheitsrichtlinien berücksichtigt werden.
+Die Systeme, auf denen Microsoft Exchange und Outlook installiert werden soll, SOLLTEN geeignet abgesichert sein.~~
 
 #### APP.5.2.A7
 __Änderung:__\
@@ -1939,6 +2032,12 @@ Das neue System SOLLTE, bevor es installiert wird, in einem separaten Testnetz g
 
 #### APP.5.2.A8 ENTFALLEN
 __Diese Anforderung ist entfallen:__
+~~APP.5.2.A8 Sicherer Betrieb von Microsoft Exchange
+Alle Systeme und Anwendungen der Infrastruktur SOLLTEN so konfiguriert sein, dass sie den Schutzbedarf angemessen erfüllen.
+Dafür SOLLTE eine passende Basiskonfiguration zusammengestellt und dokumentiert werden.
+Die Einstellungen der einzelnen Konnektoren SOLLTEN ebenfalls angepasst werden.
+Die Verantwortlichen SOLLTEN bekannt gewordene Schwachstellen zeitnah in Abhängigkeit vom Schutzbedarf und der Kritikalität beheben.
+Generell SOLLTE darauf geachtet werden, dass Patches und Updates nur aus vertrauenswürdigen Quellen bezogen werden.~~
 
 #### APP.5.2.A9
 __Änderung:__\
@@ -1995,6 +2094,8 @@ Der Zugriff auf Microsoft Exchange über das Internet SOLLTE auf die notwendigen
 
 #### APP.5.2.A13 ENTFALLEN
 __Diese Anforderung ist entfallen:__
+~~APP.5.2.A13 Schulung von Administratoren [Leiter IT]
+Für den Betrieb der Komponenten der Microsoft Exchange-Infrastruktur SOLLTE nur geeignetes und geschultes Personal eingesetzt werden.~~
 
 #### APP.5.2.A14
 __Änderung:__\
@@ -2004,6 +2105,9 @@ Die Institution SOLLTE die Benutzer von Outlook regelmäßig entsprechend dem Ko
 
 #### APP.5.2.A16 ENTFALLEN
 __Diese Anforderung ist entfallen:__
+~~APP.5.2.A16 Erstellung eines Notfallplans für den Ausfall von Microsoft Exchange und Outlook [Notfallbeauftragter]
+Im Rahmen der Notfallvorsorge SOLLTE ein Konzept entworfen werden, mit dem sich die Folgen eines Ausfalls der Microsoft Exchange- und Outlook-Komponenten minimieren lassen.
+Im Notfallplan SOLLTE definiert werden, was bei einem Ausfall zu tun ist, um eine zeitnahe Wiederherstellung des Normalbetriebs zu gewährleisten.~~
 
 #### NEU:APP.5.2.A19
 APP.5.2.A19 Erstellung einer Sicherheitsrichtlinie für Microsoft Exchange (S)\
@@ -2026,6 +2130,17 @@ Die Sicherheitsrichtlinie SOLLTE mindestens folgende Aspekte regeln:
 
 #### APP.5.2.A18 ENTFALLEN
 __Diese Anforderung ist entfallen:__
+~~APP.5.2.A18 Regelmäßige Sicherheitsprüfungen für Microsoft Exchange-Systeme (CIA)
+Das Microsoft Exchange-System SOLLTE regelmäßig auf Fehlkonfigurationen und Schwachstellen geprüft wird.
+Dafür SOLLTE es regelmäßig einer Sicherheitsprüfung durch unterschiedliche Personen unterzogen werden.
+Es empfiehlt sich, dafür eine Prüfliste aufzubauen, um einen definierten Prüfumfang zu gewährleisten.
+Folgende Aspekte SOLLTEN bei einer Prüfung berücksichtigt werden:
+• regelmäßige Recherchen sicherheitsrelevanter Informationen,
+• Berechtigungen für Revisionsbenutzer,
+• regelmäßige Prüfung der Berechtigungen,
+• Prüfung der Aktualität der Updates und
+• Prüfung der Sicherheit der Kommunikationsschnittstellen.
+Die Microsoft Exchange-Berechtigungen SOLLTEN regelmäßig mindestens stichprobenartig geprüft werden.~~
 
 </details>
 
