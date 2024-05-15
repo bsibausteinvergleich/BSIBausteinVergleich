@@ -468,7 +468,7 @@ __zu:__\
 Dies MUSS wiederum auf Basis der erhobenen Einflussfaktoren und in Abstimmung mit den jeweiligen Fachverantwortlichen der Anwendungen geschehen.
 
 #### CON.3.A3 ENTFALLEN
-__Diese Anforderung ist entfallen.__
+__Diese Anforderung ist entfallen:__
 
 #### CON.3.A4
 __Änderung:__\
@@ -1156,7 +1156,7 @@ DER.4.A2 Integration von Notfallmanagement und Informationssicherheitsmanagement
 __Ergänzung:__ (...) und Fachaufgaben (...)
 
 #### DER.4.A11 ENTFALLEN
-__Diese Anforderung ist entfallen.__
+__Diese Anforderung ist entfallen:__
 
 #### DER.4.A14
 __Ergänzung:__\
@@ -1300,7 +1300,7 @@ __Entfallen:__\
 Bei der Protokollierung und beim Umgang mit den Protokollierungsdaten MÜSSEN die gesetzlichen Vorgaben eingehalten werden.
 
 #### APP.3.1.A6 ENTFALLEN
-__Diese Anforderung ist entfallen.__
+__Diese Anforderung ist entfallen:__
 
 #### APP.3.1.A7
 __Ergänzung:__\
@@ -1356,7 +1356,7 @@ Aus diesen Zonen SOLLTE NICHT auf Systeme im Intranet zugegriffen werden können
 #### APP.3.1.A9
 
 #### APP.3.1.A10 ENTFALLEN
-__Diese Anforderung ist entfallen.__
+__Diese Anforderung ist entfallen:__
 
 #### APP.3.1.A11
 __Entfallen:__\
@@ -1388,7 +1388,7 @@ __Ergänzung:__\
 Falls dies nicht möglich ist, SOLLTE die Anwendung auf andere geeignete Weise sicherstellen, dass sich der Benutzer authentisiert.
 
 #### APP.3.1.A18 ENTFALLEN
-__Diese Anforderung ist entfallen.__
+__Diese Anforderung ist entfallen:__
 
 #### APP.3.1.A21
 __Änderung:__\
@@ -1445,7 +1445,7 @@ __Änderung:__\
 Wenn sich Clients mit Hilfe von Passwörtern am Webserver authentisieren, MÜSSEN diese kryptografisch gesichert und vor unbefugtem Zugriff geschützt gespeichert werden.
 
 #### APP.3.2.A6 ENTFALLEN
-__Diese Anforderung ist entfallen.__
+__Diese Anforderung ist entfallen:__
 
 #### APP.3.2.A11 (Aktualisiert: Basis-Anforderung)
 Der Webserver MUSS für alle Verbindungen durch nicht vertrauenswürdige Netze eine sichere Verschlüsselung über TLS anbieten (HTTPS).
@@ -1492,7 +1492,7 @@ Für die Behandlung von externen Sicherheitsmeldungen SOLLTE die Institution Pro
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 #### APP.3.2.A19 ENTFALLEN
-__Diese Anforderung ist entfallen.__
+__Diese Anforderung ist entfallen:__
 
 </details>
 
@@ -1504,7 +1504,7 @@ __Diese Anforderung ist entfallen.__
 #### Basis-Anforderungen
 
 #### APP.3.3.A1 ENTFALLEN
-__Diese Anforderung ist entfallen.__
+__Diese Anforderung ist entfallen:__
 
 #### APP.3.3.A2
 __Entfallen:__\
@@ -1515,7 +1515,7 @@ __Änderung:__\
 Alle Daten MÜSSEN durch ein Viren-Schutzprogramm auf Schadsoftware untersucht werden, bevor sie auf dem Fileserver abgelegt werden.
 
 #### APP.3.3.A4 ENTFALLEN
-__Diese Anforderung ist entfallen.__
+__Diese Anforderung ist entfallen:__
 
 #### APP.3.3.A15 (Aktualisiert: Basis-Anforderung)
 
@@ -1567,7 +1567,7 @@ __Änderung:__\
 Es sollten mindestens nicht-autorisierte Zugriffsversuche auf Dateien und von Zugriffsrechten protokolliert werden.
 
 #### APP.3.3.A10 ENTFALLEN
-__Diese Anforderung ist entfallen.__
+__Diese Anforderung ist entfallen:__
 
 #### APP.3.3.A11
 __Änderung:__\
@@ -1646,7 +1646,7 @@ __Entfallen:__\
 Die Konfigurationsdaten, Statusinformationen und Systemdateien SOLLTEN kompatibel zueinander sein.
 
 #### APP.3.4.A14 ENTFALLEN
-__Diese Anforderung ist entfallen.__
+__Diese Anforderung ist entfallen:__
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
@@ -1660,7 +1660,7 @@ __Diese Anforderung ist entfallen.__
 #### Basis-Anforderungen
 
 #### APP.3.6.A5 ENTFALLEN
-__Diese Anforderung ist entfallen.__
+__Diese Anforderung ist entfallen:__
 
 </details>
 
@@ -1759,7 +1759,7 @@ Wenn ein E-Mail-Scanner genutzt wird, MÜSSEN darüber alle Mitarbeiter, der Dat
 #### Standard-Anforderungen
 
 #### APP.5.1.A5 ENTFALLEN
-__Diese Anforderung ist entfallen.__
+__Diese Anforderung ist entfallen:__
 
 #### APP.5.1.A6
 __Änderung:__\
@@ -1803,13 +1803,13 @@ Auch Angaben zu berechtigten Zugriffspunkten, von denen aus auf einen Groupware-
 Die Groupware-Sicherheitsrichtlinien SOLLTEN den Umgang mit Newsgroups und Mailinglisten regeln.
 
 #### APP.5.1.A9 ENTFALLEN
-__Diese Anforderung ist entfallen.__
+__Diese Anforderung ist entfallen:__
 
 #### APP.5.1.A10 ENTFALLEN
-__Diese Anforderung ist entfallen.__
+__Diese Anforderung ist entfallen:__
 
 #### APP.5.1.A11 ENTFALLEN
-__Diese Anforderung ist entfallen.__
+__Diese Anforderung ist entfallen:__
 
 #### APP.5.1.A12
 __Änderung:__\
@@ -1824,13 +1824,13 @@ Darüber hinaus SOLLTE die Institution die Benutzer auf die Gefahren hinweisen, 
 Sie SOLLTE Benutzer auch davor warnen, die HTML-Darstellung bei unerwarteten E-Mails zu aktivieren.
 
 #### APP.5.1.A13 ENTFALLEN
-__Diese Anforderung ist entfallen.__
+__Diese Anforderung ist entfallen:__
 
 #### APP.5.1.A14 ENTFALLEN
-__Diese Anforderung ist entfallen.__
+__Diese Anforderung ist entfallen:__
 
 #### APP.5.1.A15 ENTFALLEN
-__Diese Anforderung ist entfallen.__
+__Diese Anforderung ist entfallen:__
 
 #### APP.5.1.A16
 __Entfallen:__\
@@ -1852,12 +1852,12 @@ Die Institution SOLLTE selbst DomainKeys und SPF einsetzen, um von ihr versendet
 Die Institution SOLLTE Domain-based Message Authentication, Reporting and Conformance (DMARC) nutzen, um festzulegen, wie von ihr versendete E-Mails durch den empfangenden E-Mail-Server überprüft werden sollen.
 
 #### APP.5.1.A19 ENTFALLEN
-__Diese Anforderung ist entfallen.__
+__Diese Anforderung ist entfallen:__
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 #### APP.5.1.A20 ENTFALLEN
-__Diese Anforderung ist entfallen.__
+__Diese Anforderung ist entfallen:__
 
 </details>
 
@@ -1885,7 +1885,7 @@ Der IT-Betrieb MUSS serverseitige Benutzerprofile für einen rechnerunabhängige
 Er MUSS die Standard-NTFS-Berechtigungen für das Microsoft Exchange-Verzeichnis so anpassen, dass nur autorisierte Administratoren und Systemkonten auf die Daten in diesem Verzeichnis zugreifen können.
 
 #### APP.5.2.A4 ENTFALLEN
-__Diese Anforderung ist entfallen.__
+__Diese Anforderung ist entfallen:__
 
 #### APP.5.2.A5
 __Ergänzung:__\
@@ -1894,7 +1894,7 @@ Dabei MÜSSEN insbesondere die Exchange-Server-Datenbanken gesichert werden.
 Gelöschte Exchange-Objekte SOLLTEN erst nach einiger Zeit aus der Datenbank entfernt werden.
 
 #### APP.5.2.A6 ENTFALLEN
-__Diese Anforderung ist entfallen.__
+__Diese Anforderung ist entfallen:__
 
 #### APP.5.2.A7
 __Änderung:__\
@@ -1907,7 +1907,7 @@ Außerdem SOLLTE er Funktionsunterschiede zwischen verschiedenen Versionen von M
 Das neue System SOLLTE, bevor es installiert wird, in einem separaten Testnetz geprüft werden.
 
 #### APP.5.2.A8 ENTFALLEN
-__Diese Anforderung ist entfallen.__
+__Diese Anforderung ist entfallen:__
 
 #### APP.5.2.A9
 __Änderung:__\
@@ -1963,7 +1963,7 @@ Der IT-Betrieb SOLLTE Outlook Anywhere, MAPI over HTTP und die Outlook Web App e
 Der Zugriff auf Microsoft Exchange über das Internet SOLLTE auf die notwendigen Benutzer beschränkt werden.
 
 #### APP.5.2.A13 ENTFALLEN
-__Diese Anforderung ist entfallen.__
+__Diese Anforderung ist entfallen:__
 
 #### APP.5.2.A14
 __Änderung:__\
@@ -1972,7 +1972,7 @@ Zusätzlich zum allgemeinen Schulungs- und Sensibilisierungsprogramm SOLLTE die 
 Die Institution SOLLTE die Benutzer von Outlook regelmäßig entsprechend dem Konzept schulen.
 
 #### APP.5.2.A16 ENTFALLEN
-__Diese Anforderung ist entfallen.__
+__Diese Anforderung ist entfallen:__
 
 #### NEU:APP.5.2.A19
 APP.5.2.A19 Erstellung einer Sicherheitsrichtlinie für Microsoft Exchange (S)\
@@ -1994,7 +1994,7 @@ Die Sicherheitsrichtlinie SOLLTE mindestens folgende Aspekte regeln:
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 #### APP.5.2.A18 ENTFALLEN
-__Diese Anforderung ist entfallen.__
+__Diese Anforderung ist entfallen:__
 
 </details>
 
@@ -2101,12 +2101,12 @@ SYS.1.2.2.A7 Prüfung der Sicherheitskonfiguration von Windows Server 2012 (S)
 #### Standard-Anforderungen
 
 #### SYS.1.3.A7 ENTFALLEN
-__Diese Anforderung ist entfallen.__
+__Diese Anforderung ist entfallen:__
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 #### SYS.1.3.A13 ENTFALLEN
-__Diese Anforderung ist entfallen.__
+__Diese Anforderung ist entfallen:__
 
 </details>
 
@@ -2208,17 +2208,17 @@ __Ergänzung:__\
 #### Basis-Anforderungen
 
 #### SYS.2.2.3.A3 ENTFALLEN
-__Diese Anforderung ist entfallen.__
+__Diese Anforderung ist entfallen:__
 
 #### SYS.2.2.3.A4
 __Änderung:__\
 Es MUSS durch geeignete Maßnahmen, etwa auf Netzebene, sichergestellt werden, dass Daten der Telemetriedienste nicht an Microsoft übertragen werden.
 
 #### SYS.2.2.3.A5 ENTFALLEN
-__Diese Anforderung ist entfallen.__
+__Diese Anforderung ist entfallen:__
 
 #### SYS.2.2.3.A6 ENTFALLEN
-__Diese Anforderung ist entfallen.__
+__Diese Anforderung ist entfallen:__
 
 #### Standard-Anforderungen
 
@@ -2240,12 +2240,12 @@ SYS.2.2.3.A17 Keine Speicherung von Daten zur automatischen Anmeldung (S)
 #### Standard-Anforderungen
 
 #### SYS.2.3.A10 ENTFALLEN
-__Diese Anforderung ist entfallen.__
+__Diese Anforderung ist entfallen:__
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 #### SYS.2.3.A13 ENTFALLEN
-__Diese Anforderung ist entfallen.__
+__Diese Anforderung ist entfallen:__
 
 </details>
 
@@ -2318,20 +2318,20 @@ __Ergänzung:__\
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 #### SYS.3.2.2.A13 ENTFALLEN
-__Diese Anforderung ist entfallen.__
+__Diese Anforderung ist entfallen:__
 
 #### SYS.3.2.2.A14
 __Entfallen:__\
 Dabei handelt es sich um einen externen Dienst, der Apps nach bestimmten Kriterien untersucht und die Ergebnisse als Service bereitstellt.
 
 #### SYS.3.2.2.A15 ENTFALLEN
-__Diese Anforderung ist entfallen.__
+__Diese Anforderung ist entfallen:__
 
 #### SYS.3.2.2.A16 ENTFALLEN
-__Diese Anforderung ist entfallen.__
+__Diese Anforderung ist entfallen:__
 
 #### SYS.3.2.2.A18 ENTFALLEN
-__Diese Anforderung ist entfallen.__
+__Diese Anforderung ist entfallen:__
 
 </details>
 
@@ -2347,24 +2347,24 @@ __Ergänzung:__\
 Außerdem MÜSSEN Jailbreaks organisatorisch untersagt und nach Möglichkeit technisch verhindert werden, etwa über eine Jailbreak-Erkennung durch das MDM.
 
 #### SYS.3.2.3.A3 ENTFALLEN
-__Diese Anforderung ist entfallen.__
+__Diese Anforderung ist entfallen:__
 
 #### SYS.3.2.3.A4 ENTFALLEN
-__Diese Anforderung ist entfallen.__
+__Diese Anforderung ist entfallen:__
 
 #### SYS.3.2.3.A5 ENTFALLEN
-__Diese Anforderung ist entfallen.__
+__Diese Anforderung ist entfallen:__
 
 #### SYS.3.2.3.A6 ENTFALLEN
-__Diese Anforderung ist entfallen.__
+__Diese Anforderung ist entfallen:__
 
 #### SYS.3.2.3.A8 ENTFALLEN
-__Diese Anforderung ist entfallen.__
+__Diese Anforderung ist entfallen:__
 
 #### Standard-Anforderungen
 
 #### SYS.3.2.3.A9 ENTFALLEN
-__Diese Anforderung ist entfallen.__
+__Diese Anforderung ist entfallen:__
 
 #### SYS.3.2.3.A12
 __Änderung:__\
@@ -2375,10 +2375,10 @@ Werden Dienste verwendet, für die eine Apple-ID erforderlich ist, SOLLTE statt 
 Falls möglich, SOLLTE der Apple Business Manager für Volumenlizenzen (früher Volume Purchase Program, VPP) sowie eine zentralisierte Installation von Apps verwendet werden.
 
 #### SYS.3.2.3.A16 ENTFALLEN
-__Diese Anforderung ist entfallen.__
+__Diese Anforderung ist entfallen:__
 
 #### SYS.3.2.3.A19 ENTFALLEN
-__Diese Anforderung ist entfallen.__
+__Diese Anforderung ist entfallen:__
 
 #### SYS.3.2.3.A21
 __Änderung:__\
@@ -2387,13 +2387,13 @@ Wenn zusätzliche Apps von Drittanbietern eingesetzt werden (siehe SYS.3.2.3.A1 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 #### SYS.3.2.3.A22 ENTFALLEN
-__Diese Anforderung ist entfallen.__
+__Diese Anforderung ist entfallen:__
 
 #### SYS.3.2.3.A24 ENTFALLEN
-__Diese Anforderung ist entfallen.__
+__Diese Anforderung ist entfallen:__
 
 #### SYS.3.2.3.A27 ENTFALLEN
-__Diese Anforderung ist entfallen.__
+__Diese Anforderung ist entfallen:__
 
 </details>
 
@@ -2412,7 +2412,7 @@ __Änderung:__\
 Diese MÜSSEN die Vorgaben des Identitäts- und Berechtigungsmanagement der Institution erfüllen. Das Passwort DARF NUR berechtigten Benutzern bekannt sein.
 
 #### SYS.4.1.A3 ENTFALLEN
-__Diese Anforderung ist entfallen.__
+__Diese Anforderung ist entfallen:__
 
 #### SYS.4.1.A12
 __Entfallen:__\
@@ -2421,7 +2421,7 @@ Nicht benötigte, aber ausgedruckte Dokumente mit sensiblen Informationen MÜSSE
 Auch für Heimarbeitsplätze SOLLTEN geeignete Regelungen hierfür festgelegt werden.
 
 #### SYS.4.1.A13 ENTFALLEN
-__Diese Anforderung ist entfallen.__
+__Diese Anforderung ist entfallen:__
 
 #### NEU: SYS.4.1.A22
 SYS.4.1.A22 Ordnungsgemäße Entsorgung ausgedruckter Dokumente (B)\
@@ -2441,16 +2441,16 @@ __Ergänzung:__\
 Für den sicheren Umgang mit Druckern und Multifunktionsgeräten SOLLTE eine Administrationsrichtlinie ausgearbeitet werden.
 
 #### SYS.4.1.A6 ENTFALLEN
-__Diese Anforderung ist entfallen.__
+__Diese Anforderung ist entfallen:__
 
 #### SYS.4.1.A8 ENTFALLEN
-__Diese Anforderung ist entfallen.__
+__Diese Anforderung ist entfallen:__
 
 #### SYS.4.1.A9 ENTFALLEN
-__Diese Anforderung ist entfallen.__
+__Diese Anforderung ist entfallen:__
 
 #### SYS.4.1.A10 ENTFALLEN
-__Diese Anforderung ist entfallen.__
+__Diese Anforderung ist entfallen:__
 
 #### SYS.4.1.A11
 __Ergänzung:__\
@@ -2496,7 +2496,7 @@ __Ergänzung:__\
 Zudem MÜSSEN IoT-Gerate in das Identitäts- und Berechtigungsmanagement der Institution integriert werden.
 
 #### SYS.4.4.A4 ENTFALLEN
-__Diese Anforderung ist entfallen.__
+__Diese Anforderung ist entfallen:__
 
 #### SYS.4.4.A5
 __Entfallen:__\
@@ -2864,7 +2864,7 @@ Faxgeräte DÜRFTEN NICHT an nicht dafür vorgesehene Netzanschlüsse angeschlos
 #### Standard-Anforderungen
 
 #### NET.4.3.A5 ENTFALLEN
-__Diese Anforderung ist entfallen.__
+__Diese Anforderung ist entfallen:__
 
 #### NET.4.3.A7
 __Entfallen:__\
@@ -3053,7 +3053,7 @@ __Änderung:__\
 (...) in IT-Betriebsbereichen (...)
 
 #### INF.2.A18 ENTFALLEN
-__Diese Anforderung ist entfallen.__
+__Diese Anforderung ist entfallen:__
 
 #### NEU: INF.2.A30
 INF.2.A30 Anlagen zur Erkennung, Löschung oder Vermeidung von Bränden [Haustechnik, Planer] (S)
