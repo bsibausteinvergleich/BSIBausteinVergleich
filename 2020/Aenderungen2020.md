@@ -647,11 +647,22 @@ Alle Benutzer der Individualsoftware, darunter auch die zuständigen Administrat
 
 #### CON.5.A5 ENTFALLEN
 __Anforderung entfallen:__
+~~CON.5.A5 Sicherer Betrieb einer Fachanwendung [IT-Betrieb]
+Berechtigungen zur Nutzung und Administration einer Fachanwendung MÜSSEN korrekt vergeben und regelmäßig auf Korrektheit hin überprüft werden.
+Nicht mehr benötigte Berechtigungen MÜSSEN wieder entzogen werden.
+Es MUSS sichergestellt werden, dass Protokolldaten regelmäßig ausgewertet und gesetzlich vorgegebene Speicherfristen für Protokolldaten eingehalten werden.
+Sicherheitskritische Patches und Updates MÜSSEN durch den Hersteller der Anwendung auf Grundlage geeigneter vertraglicher Vereinbarungen bereitgestellt und zeitnah eingespielt werden.
+Dabei MUSS sichergestellt werden, dass Patches und Updates zuvor in geeigneter Weise getestet und freigegeben wurden.
+Es MÜSSEN regelmäßig Datensicherungen und Rücksicherungsübungen durchgeführt werden.~~
 
 #### Standard-Anforderungen
 
 #### CON.5.A7 ENTFALLEN
 __Anforderung entfallen:__
+~~CON.5.A7 Erstellung eines Mandantenkonzeptes [Leiter IT]
+Es SOLLTE mit einem Mandantenkonzept sichergestellt werden, dass Anwendungen und Daten verschiedener Kunden sauber getrennt betrieben werden.
+Dieses SOLLTE durch den Betreiber der mandantenfähigen Anwendung erstellt und den nutzenden Institutionen zur Verfügung gestellt werden.
+Die benötigten Mechanismen zur Mandantentrennung beim Dienstleister SOLLTEN ausreichend umgesetzt sein.~~
 
 #### CON.5.A9
 __Änderung:__\
@@ -662,6 +673,8 @@ Die Außerbetriebnahme von Individualsoftware sowie der zugehörigen IT-Systeme 
 
 #### CON.5.A10 ENTFALLEN
 __Anforderung entfallen:__
+~~CON.5.A10 Notfallvorsorge für Anwendungen [Leiter IT]
+Die Fachanwendungen SOLLTEN in die Planung zur Notfallvorsorge aufgenommen werden.~~
 
 #### CON.5.A11
 _Diese Anforderung wurde aus dem erhöhten Schutzbedarf in die Standard-Anforderungen verschoben._
