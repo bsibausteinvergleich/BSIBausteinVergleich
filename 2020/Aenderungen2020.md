@@ -81,8 +81,13 @@ __Entfallen:__\
 #### Standard-Anforderungen
 
 #### ORP.1.A9 ENTFALLEN
-__Anforderung entfallen.__
-
+__Anforderung entfallen:__
+~~ORP.1.A9 Ordnungsgemäße Entsorgung von schützenswerten Betriebsmitteln [Mitarbeiter, Informationssicherheitsbeauftragter (ISB)]
+Betriebs- und Sachmittel SOLLTEN so entsorgt werden, dass keine Rückschlüsse auf ihre Verwendung oder Inhalte gezogen werden können.
+Die Entsorgung von schutzbedürftigen Materialien SOLLTE geregelt sein.
+Alle Mitarbeiter SOLLTEN diese Regelungen kennen.
+Zur Entsorgung von schutzbedürftigem Material SOLLTEN geeignete Entsorgungseinrichtungen wie z. B. Aktenvernichter vorhanden sein.
+Zur Entsorgung gesammeltes schutzbedürftiges Material SOLLTE vor unberechtigtem Zugriff geschützt sein.~~
 </details>
 
 ### ORP.2
@@ -126,7 +131,11 @@ Die Vorgesetzten MÜSSEN dafür sorgen, dass im laufenden Betrieb Vertretungsreg
 #### Basis-Anforderungen
 
 #### ORP.3.A3 ENTFALLEN
-__Anforderung entfallen__
+__Anforderung entfallen:__
+~~ORP.3.A3 Einweisung des Personals in den sicheren Umgang mit IT [Vorgesetzte, Personalabteilung, IT-Betrieb]
+Alle Mitarbeiter und externen Benutzer MÜSSEN in den sicheren Umgang mit IT-, ICS- und IoT-Komponenten eingewiesen und sensibilisiert werden, soweit dies für ihre Arbeitszusammenhänge relevant ist.
+Dafür MÜSSEN verbindliche, verständliche, aktuelle und verfügbare Richtlinien zur Nutzung der jeweiligen Komponenten zur Verfügung stehen.
+Werden IT-, ICS- oder IoT-Systeme oder Dienste in einer Weise benutzt, die den Interessen der Institution widersprechen, MUSS dies kommuniziert werden.~~
 
 #### Standard-Anforderungen
 
@@ -325,18 +334,39 @@ Insbesondere SOLLTE das im Notfallkonzept vorgesehene Berechtigungskonzept weite
 __Ergänzt__: "(...) basierend auf der Identifikation und Beachtung der rechtlichen Rahmenbedingungen, (...)
 
 #### ORP.5.A7 ENTFALLEN
-__Anforderung entfallen__
+__Anforderung entfallen:__
+~~ORP.5.A7 Aufrechterhaltung der Informationssicherheit [Informationssicherheitsbeauftragter (ISB)]
+Um das bestehende Sicherheitsniveau aufrechtzuerhalten und fortlaufend zu verbessern, SOLLTEN alle Sicherheitsmaßnahmen des Sicherheitskonzeptes regelmäßig auf Einhaltung und Verbesserungsbedarf überprüft werden.
+Die Prüfungen SOLLTEN durch unabhängige, fachlich qualifizierte, interne oder externe Personen durchgeführt werden.
+Die Ergebnisse der Überprüfungen SOLLTEN nachvollziehbar dokumentiert und der Leitung bekannt gegeben werden.
+Gefundene Mängel SOLLTEN zeitnah behoben werden.~~
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 #### ORP.5.A9 ENTFALLEN
-__Anforderung entfallen__
+__Anforderung entfallen:__
+~~ORP.5.A9 Schutz gegen nachträgliche Veränderungen von Informationen
+[Informationssicherheitsbeauftragter (ISB), Benutzer] (I)
+Damit Dateien nicht unbemerkt verändert werden können, SOLLTEN ausreichende Sicherheitsmaßnahmen ergriffen werden.
+Je nach Datenformat und Schutzbedarf SOLLTEN dafür geeignete Methoden ausgewählt werden.
+Dazu gehören beispielsweise digitale Signaturen und andere kryptografische Verfahren, Copyright-Vermerke oder die Verwendung von Dateiformaten, die nachträgliche Änderungen bzw. auszugsweise Weiterverarbeitung erschweren.
+Die Mitarbeiter SOLLTEN informiert werden, welche Sicherheitsmechanismen hierfür eingesetzt werden sollen und wie diese zu benutzen sind.~~
 
 #### ORP.5.A10 ENTFALLEN
-__Anforderung entfallen__
+__Anforderung entfallen:__
+~~ORP.5.A10 Klassifizierung von Informationen (CIA)
+Es gibt in vielen Bereichen einer Institution Informationen, die einen höheren Schutzbedarf haben oder besonderen Restriktionen unterliegen, z. B. personenbezogene, finanzrelevante, vertrauliche oder durch Copyright geschützte Daten.
+Für diese gelten je nach ihrer Kategorisierung unterschiedliche Beschränkungen im Umgang mit ihnen.
+Daher SOLLTEN möglichst alle Informationen entsprechend ihrem Schutzbedarf klassifiziert und, falls möglich, gekennzeichnet werden.
+Die Mitarbeiter SOLLTEN regelmäßig auf den sorgfältigen Umgang mit Informationen hingewiesen sowie über die Restriktionen beim Umgang mit klassifizierten Daten informiert werden.~~
 
 #### ORP.5.A11 ENTFALLEN
-__Anforderung entfallen__
+__Anforderung entfallen:__
+~~ORP.5.A11 Erhebung der rechtlichen Rahmenbedingungen für kryptografische Verfahren und Produkte [IT-Betrieb, Verantwortliche der einzelnen Anwendungen] (CI)
+Beim Einsatz kryptografischer Produkte sind diverse gesetzliche Rahmenbedingungen zu beachten.
+Die rechtlichen Rahmenbedingungen für den Einsatz kryptografischer Verfahren und Produkte SOLLTEN für alle Länder ermittelt und dokumentiert werden, in denen diese genutzt werden sollen.~~
+
+~~
 
 </details>
 
@@ -512,7 +542,9 @@ Bevor ein Datensicherungssystem beschafft wird, SOLLTE der Leiter IT eine Anford
 Die angeschafften Datensicherungssysteme SOLLTEN die Anforderungen des Datensicherungskonzepts und der gesamten Sicherheitskonzeption der Institution erfüllen.
 
 #### CON.3.A8 ENTFALLEN
-__Anforderung entfallen__
+__Anforderung entfallen:__
+~~CON.3.A8 Funktionstests und Überprüfung der Wiederherstellbarkeit [IT-Betrieb]
+Es SOLLTE regelmäßig getestet werden, ob die Datensicherung auch wie gewünscht funktioniert, und vor allem, ob gesicherte Daten problemlos und in angemessener Zeit zurückgespielt werden können.~~
 
 #### CON.3.A9
 __Ergänzt:__\
@@ -585,7 +617,15 @@ Hierzu MÜSSEN die mit der Individualsoftware verarbeiteten Informationen und de
 Vom IT-Betrieb MÜSSEN die Sicherheitsfunktionen zur Integration in die IT-betriebliche Infrastruktur definiert werden.
 
 #### CON.5.A2 ENTFALLEN
-__Anforderung entfallen__
+__Anforderung entfallen:__
+~~CON.5.A2 Test und Freigabe von Fachanwendungen [Leiter IT, Datenschutzbeauftragter]
+Für einen geordneten Betriebsübergang einer Anwendung sowie bei wesentlichen Änderungen MUSS ein geeignetes Vorgehen bei Test und Freigabe entwickelt werden.
+Dabei MÜSSEN berücksichtigt werden:
+• die fachliche Ebene (vertreten durch die Fachverantwortlichen),
+• die Ebene des IT-Betriebes (vertreten durch den IT-Leiter),
+• die Ebene der Informationssicherheit (vertreten durch den Informationssicherheitsbeauftragten),
+• die Ebene des Datenschutzes (vertreten durch den Datenschutzbeauftragten) sowie
+• je nach Art und Komplexität einer Anwendung weitere Funktionsträger wie z.B. die Personalvertretung.~~
 
 #### CON.5.A3
 __Änderung:__\
@@ -606,12 +646,12 @@ CON.5.A4 Heranführen von Benutzerinnen und Benutzern an Individualsoftware (B)
 Alle Benutzer der Individualsoftware, darunter auch die zuständigen Administratoren, MÜSSEN an die korrekte Nutzung und Administration der Anwendung einschließlich der Sicherheitsfunktionen herangeführt werden.
 
 #### CON.5.A5 ENTFALLEN
-__Anforderung entfallen__
+__Anforderung entfallen:__
 
 #### Standard-Anforderungen
 
 #### CON.5.A7 ENTFALLEN
-__Anforderung entfallen__
+__Anforderung entfallen:__
 
 #### CON.5.A9
 __Änderung:__\
@@ -621,7 +661,7 @@ Nicht mehr benötigte Daten SOLLTEN sicher gelöscht werden.
 Die Außerbetriebnahme von Individualsoftware sowie der zugehörigen IT-Systeme und Datenträger SOLLTE vom IT-Betrieb nachvollziehbar dokumentiert werden.
 
 #### CON.5.A10 ENTFALLEN
-__Anforderung entfallen__
+__Anforderung entfallen:__
 
 #### CON.5.A11
 _Diese Anforderung wurde aus dem erhöhten Schutzbedarf in die Standard-Anforderungen verschoben._
