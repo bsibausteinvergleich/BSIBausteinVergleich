@@ -2240,19 +2240,7 @@ SYS.1.2.2.A7 Prüfung der Sicherheitskonfiguration von Windows Server 2012 (S)
 </details>
 
 ### SYS.1.3
-<details>
-<summary> Änderungen
-</summary>
-
-#### Standard-Anforderungen
-
-#### SYS.1.3.A7 ENTFALLEN
-__Diese Anforderung ist entfallen:__
-
-#### Anforderungen bei erhöhtem Schutzbedarf
-
-#### SYS.1.3.A13 ENTFALLEN
-__Diese Anforderung ist entfallen:__
+Keine inhaltlichen Änderungen.
 
 </details>
 
@@ -2355,16 +2343,14 @@ __Ergänzung:__\
 
 #### SYS.2.2.3.A3 ENTFALLEN
 __Diese Anforderung ist entfallen:__
+~~SYS.2.2.3.A3 Geeignetes Patch- und Änderungsmanagement
+Um alle Änderungen erfassen und bewerten zu können, MÜSSEN alle Windows 10-Systeme einem Patch- und Änderungsmanagement unterstellt sein.
+Für komplexe Patches oder Änderungen MÜSSEN in einem Umsetzungsplan Tests, Kontroll- und Abbruchpunkte sowie Prioritäten für die Verteilung definiert sein.
+Nach einem funktionalen Update des Betriebssystems MUSS überprüft werden, ob alle Anforderungen aus dem IT-Grundschutz und den internen Vorgaben weiterhin erfüllt werden.~~
 
 #### SYS.2.2.3.A4
 __Änderung:__\
 Es MUSS durch geeignete Maßnahmen, etwa auf Netzebene, sichergestellt werden, dass Daten der Telemetriedienste nicht an Microsoft übertragen werden.
-
-#### SYS.2.2.3.A5 ENTFALLEN
-__Diese Anforderung ist entfallen:__
-
-#### SYS.2.2.3.A6 ENTFALLEN
-__Diese Anforderung ist entfallen:__
 
 #### Standard-Anforderungen
 
@@ -2383,15 +2369,12 @@ SYS.2.2.3.A17 Keine Speicherung von Daten zur automatischen Anmeldung (S)
 <summary> Änderungen
 </summary>
 
-#### Standard-Anforderungen
-
-#### SYS.2.3.A10 ENTFALLEN
-__Diese Anforderung ist entfallen:__
-
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 #### SYS.2.3.A13 ENTFALLEN
 __Diese Anforderung ist entfallen:__
+~~SYS.2.3.A13 Schutz vor unbefugten Anmeldungen (CIA)
+Es SOLLTE eine Zwei-Faktor-Authentisierung verwendet werden.~~
 
 </details>
 
@@ -2463,21 +2446,9 @@ __Ergänzung:__\
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
-#### SYS.3.2.2.A13 ENTFALLEN
-__Diese Anforderung ist entfallen:__
-
 #### SYS.3.2.2.A14
 __Entfallen:__\
 Dabei handelt es sich um einen externen Dienst, der Apps nach bestimmten Kriterien untersucht und die Ergebnisse als Service bereitstellt.
-
-#### SYS.3.2.2.A15 ENTFALLEN
-__Diese Anforderung ist entfallen:__
-
-#### SYS.3.2.2.A16 ENTFALLEN
-__Diese Anforderung ist entfallen:__
-
-#### SYS.3.2.2.A18 ENTFALLEN
-__Diese Anforderung ist entfallen:__
 
 </details>
 
@@ -2492,25 +2463,7 @@ __Diese Anforderung ist entfallen:__
 __Ergänzung:__\
 Außerdem MÜSSEN Jailbreaks organisatorisch untersagt und nach Möglichkeit technisch verhindert werden, etwa über eine Jailbreak-Erkennung durch das MDM.
 
-#### SYS.3.2.3.A3 ENTFALLEN
-__Diese Anforderung ist entfallen:__
-
-#### SYS.3.2.3.A4 ENTFALLEN
-__Diese Anforderung ist entfallen:__
-
-#### SYS.3.2.3.A5 ENTFALLEN
-__Diese Anforderung ist entfallen:__
-
-#### SYS.3.2.3.A6 ENTFALLEN
-__Diese Anforderung ist entfallen:__
-
-#### SYS.3.2.3.A8 ENTFALLEN
-__Diese Anforderung ist entfallen:__
-
 #### Standard-Anforderungen
-
-#### SYS.3.2.3.A9 ENTFALLEN
-__Diese Anforderung ist entfallen:__
 
 #### SYS.3.2.3.A12
 __Änderung:__\
@@ -2520,26 +2473,9 @@ Werden Dienste verwendet, für die eine Apple-ID erforderlich ist, SOLLTE statt 
 
 Falls möglich, SOLLTE der Apple Business Manager für Volumenlizenzen (früher Volume Purchase Program, VPP) sowie eine zentralisierte Installation von Apps verwendet werden.
 
-#### SYS.3.2.3.A16 ENTFALLEN
-__Diese Anforderung ist entfallen:__
-
-#### SYS.3.2.3.A19 ENTFALLEN
-__Diese Anforderung ist entfallen:__
-
 #### SYS.3.2.3.A21
 __Änderung:__\
 Wenn zusätzliche Apps von Drittanbietern eingesetzt werden (siehe SYS.3.2.3.A1 Strategie für die iOS-Nutzung), SOLLTE durch die Verantwortlichen der interne Software-Freigabeprozess bezüglich der Validierung und Freigabe von Anwendungen (Apps) aus dem Apple App Store ergänzt werden.
-
-#### Anforderungen bei erhöhtem Schutzbedarf
-
-#### SYS.3.2.3.A22 ENTFALLEN
-__Diese Anforderung ist entfallen:__
-
-#### SYS.3.2.3.A24 ENTFALLEN
-__Diese Anforderung ist entfallen:__
-
-#### SYS.3.2.3.A27 ENTFALLEN
-__Diese Anforderung ist entfallen:__
 
 </details>
 
@@ -2559,15 +2495,17 @@ Diese MÜSSEN die Vorgaben des Identitäts- und Berechtigungsmanagement der Inst
 
 #### SYS.4.1.A3 ENTFALLEN
 __Diese Anforderung ist entfallen:__
+~~SYS.4.1.A3 Regelmäßige Aktualisierung von Druckern, Kopieren und Multifunktionsgeräten
+Es MUSS regelmäßig überprüft werden, ob die Drucker, Kopierer und Multifunktionsgeräte auf dem aktuellen Stand sind.
+Wenn Sicherheitslücken identifiziert werden, MÜSSEN diese so schnell wie möglich behoben werden.
+Vorhandene Patches und Updates MÜSSEN sofort eingespielt werden oder anderweitige Sicherheitsmaßnahmen ergriffen werden, wenn keine Patches zur Verfügung stehen.
+Generell MUSS darauf geachtet werden, dass Patches und Updates nur aus vertrauenswürdigen Quellen bezogen werden.~~
 
 #### SYS.4.1.A12
 __Entfallen:__\
 Nicht benötigte, aber ausgedruckte Dokumente mit sensiblen Informationen MÜSSEN in geeigneter Weise entsorgt werden, z. B. in geeigneten Papiercontainern.
 
 Auch für Heimarbeitsplätze SOLLTEN geeignete Regelungen hierfür festgelegt werden.
-
-#### SYS.4.1.A13 ENTFALLEN
-__Diese Anforderung ist entfallen:__
 
 #### NEU: SYS.4.1.A22
 SYS.4.1.A22 Ordnungsgemäße Entsorgung ausgedruckter Dokumente (B)\
@@ -2585,18 +2523,6 @@ Der ISB SOLLTE auf Basis des Sicherheitskonzepts eine Administrationsrichtlinie 
 #### SYS.4.1.A5
 __Ergänzung:__\
 Für den sicheren Umgang mit Druckern und Multifunktionsgeräten SOLLTE eine Administrationsrichtlinie ausgearbeitet werden.
-
-#### SYS.4.1.A6 ENTFALLEN
-__Diese Anforderung ist entfallen:__
-
-#### SYS.4.1.A8 ENTFALLEN
-__Diese Anforderung ist entfallen:__
-
-#### SYS.4.1.A9 ENTFALLEN
-__Diese Anforderung ist entfallen:__
-
-#### SYS.4.1.A10 ENTFALLEN
-__Diese Anforderung ist entfallen:__
 
 #### SYS.4.1.A11
 __Ergänzung:__\
