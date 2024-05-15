@@ -2569,6 +2569,9 @@ Zudem MÜSSEN IoT-Gerate in das Identitäts- und Berechtigungsmanagement der Ins
 
 #### SYS.4.4.A4 ENTFALLEN
 __Diese Anforderung ist entfallen:__
+~~SYS.4.4.A4 Aktivieren von Autoupdate-Mechanismen
+Automatische Update-Mechanismen (Autoupdate) MÜSSEN aktiviert werden, sofern nicht andere Mechanismen wie regelmäßige manuelle Wartung oder ein zentrales Softwareverteilungssystem für Updates eingesetzt werden.
+Wenn für Autoupdate-Mechanismen ein Zeitintervall vorgegeben werden kann, SOLLTE mindestens täglich automatisch nach Updates gesucht und diese installiert werden.~~
 
 #### SYS.4.4.A5
 __Entfallen:__\
@@ -2937,6 +2940,17 @@ Faxgeräte DÜRFTEN NICHT an nicht dafür vorgesehene Netzanschlüsse angeschlos
 
 #### NET.4.3.A5 ENTFALLEN
 __Diese Anforderung ist entfallen:__
+~~NET.4.3.A5 Ernennung eines Fax-Verantwortlichen [IT-Betrieb, Vorgesetzte]
+Es SOLLTE ein Fax-Verantwortlicher ernannt werden.
+Dieser SOLLTE gewährleisten, dass
+• die eingehenden Faxsendungen an die Empfänger verteilt,
+• das Faxgerät mit notwendigen Verbrauchsgütern versorgt,
+• die Fax-Verbrauchsgüter geeignet entsorgt,
+• Restinformationen gelöscht,
+• Wartungs- und Reparaturarbeiten beaufsichtigt sowie
+• die programmierbare Zieladressen und Protokolle regelmäßig kontrolliert
+werden. Hierfür SOLLTE der Fax-Verantwortliche in geeigneter Weise eingewiesen sein.
+Für die Benutzer SOLLTE der Fax-Verantwortliche während der Arbeitszeiten erreichbar sein.~~
 
 #### NET.4.3.A7
 __Entfallen:__\
@@ -3126,6 +3140,12 @@ __Änderung:__\
 
 #### INF.2.A18 ENTFALLEN
 __Diese Anforderung ist entfallen:__
+~~INF.2.A18 Schutz vor Wasseraustritt [Haustechnik]
+In Bereichen, in denen sich IT-Geräte mit zentralen Funktionen befinden, SOLLTEN wasserführende Leitungen vermieden werden.
+So SOLLTE es beispielsweise keine Heizkörper im Rechenzentrum geben.
+Sind wasserführende Leitungen (z. B. für die Kühlung direkt auf der RZ-Fläche) unvermeidbar, SOLLTE sichergestellt sein, dass Wasseraustritte möglichst frühzeitig erkannt und die Auswirkungen minimiert werden.
+Durch Sichtprüfungen SOLLTEN die vorhandenen Wasserleitungen regelmäßig daraufhin überprüft werden, ob sie noch dicht sind.
+Meldungen einer Detektionsanlage SOLLTEN an verantwortliche Mitarbeiter gemeldet werden, sodass diese anhand von Reaktionsplänen und einer aktuellen Dokumentation schnell eingreifen können (siehe INF.2.A13 Planung und Installation von Gefahrenmeldeanlagen).~~
 
 #### NEU: INF.2.A30
 INF.2.A30 Anlagen zur Erkennung, Löschung oder Vermeidung von Bränden [Haustechnik, Planer] (S)
