@@ -99,6 +99,14 @@ Zur Entsorgung gesammeltes schutzbedürftiges Material SOLLTE vor unberechtigtem
 
 #### ORP.2.A1
 __Änderung:__\
+~~ORP.2.A1 Geregelte Einarbeitung neuer Mitarbeiter [Vorgesetzte]
+Die Personalabteilung sowie die Vorgesetzten MÜSSEN dafür sorgen, dass neue Mitarbeiter zu Beginn ihrer Beschäftigung in ihre neuen Aufgaben eingearbeitet und über bestehende Regelungen, Gepflogenheiten und Verfahrensweisen informiert werden.
+Hierbei SOLLTE eine Checkliste unterstützend wirken.
+Zur geregelten Einarbeitung neuer Mitarbeiter MÜSSEN diese auf bestehende Regelungen und Handlungsanweisungen zur Informationssicherheit hingewiesen werden.
+Alle Mitarbeiter MÜSSEN über Regelungen zur Informationssicherheit, deren Veränderungen und ihre spezifischen Auswirkungen auf einen Geschäftsprozess oder auf das jeweilige Arbeitsumfeld unterrichtet werden.
+Alle Mitarbeiter MÜSSEN explizit darauf verpflichtet werden, einschlägige Gesetze, Vorschriften und interne Regelungen einzuhalten.~~
+
+__zu:__\
 Die Personalabteilung sowie die Vorgesetzten MÜSSEN dafür sorgen, dass neue Mitarbeiter zu Beginn ihrer Beschäftigung in ihre neuen Aufgaben eingearbeitet werden.
 
 Sie MÜSSEN über bestehende Regelungen, Handlungsanweisungen und Verfahrensweisen informiert werden.
@@ -117,6 +125,10 @@ __Entfallen:__\
 
 #### ORP.2.A3
 __Änderung:__\
+~~ORP.2.A3 Vertretungsregelungen [Vorgesetzte]
+Die Vorgesetzten MÜSSEN für die Einführung und Aufrechterhaltung von Vertretungsregelungen Sorge tragen.~~
+
+__zu:__\
 ORP.2.A3 Festlegung von Vertretungsregelungen [Vorgesetzte] (B)
 
 Die Vorgesetzten MÜSSEN dafür sorgen, dass im laufenden Betrieb Vertretungsregelungen umgesetzt werden.
@@ -229,6 +241,16 @@ Die Anwender SOLLTEN auf den korrekten Umgang mit Chipkarten oder Token geschult
 
 #### ORP.4.A8
 __Änderung:__\
+~~ORP.4.A8 Regelung des Passwortgebrauchs [Benutzer, Leiter IT]
+Die Institution MUSS den Passwortgebrauch verbindlich regeln.
+Dabei MUSS festgelegt werden, dass nur Passwörter mit ausreichender Länge und Komplexität verwendet werden.
+Die Passwörter SOLLTEN in angemessenen Zeitabständen geändert werden.
+Die Passwörter MÜSSEN sofort gewechselt, sobald sie unautorisierten Personen bekannt geworden sind oder der Verdacht darauf besteht.
+Passwörter MÜSSEN geheim gehalten werden.
+Standard-passwörter MÜSSEN durch ausreichend starke Passwörter ersetzt und vordefinierte Logins geändert werden.
+Es SOLLTE überprüft werden, dass die mögliche Passwortlänge auch im vollen Umfang von dem IT-System geprüft wird.~~
+
+__zu:__\
 Die Institution MUSS den Passwortgebrauch verbindlich regeln (siehe auch ORP.4.A22 Regelung zur Passwortqualität und ORP.4.A23 Regelung für Passwort-verarbeitende Anwendungen und IT-Systeme).
 
 Dabei MUSS geprüft werden, ob Passwörter als alleiniges Authentisierungsverfahren eingesetzt werden sollen, oder ob andere Authentisierungsmerkmale bzw. -verfahren zusätzlich zu oder anstelle von Passwörtern verwendet werden können.
@@ -531,9 +553,7 @@ Die Mitarbeiter SOLLTEN über den Teil des Datensicherungskonzepts unterrichtet 
 #### CON.3.A7
 __Änderung:__\
 ~~CON.3.A7 Beschaffung eines geeigneten Datensicherungssystems [Leiter IT, IT-Betrieb]\
-
 Bevor ein Datensicherungssystem beschafft wird, SOLLTE eine Anforderungsliste erstellt werden, nach der die am Markt erhältlichen Produkte bewertet werden.
-
 Die angeschafften Datensicherungssysteme SOLLTEN die Anforderungen des Sicherheits- und des Datensicherungskonzepts erfüllen.~~
 
 __zu:__\
@@ -643,6 +663,10 @@ Bei in der Anwendung und bei funktionalen Updates MUSS die Installationsanweisun
 
 #### CON.5.A4
 __Änderung:__\
+~~CON.5.A4 Heranführen von Nutzerinnen und Nutzern an die Anwendung
+Benutzer und Administratoren MÜSSEN an die korrekte Nutzung und Administration der Anwendung einschließlich der Sicherheitsfunktionen herangeführt werden.~~
+
+__zu:__\
 CON.5.A4 Heranführen von Benutzerinnen und Benutzern an Individualsoftware (B)
 
 Alle Benutzer der Individualsoftware, darunter auch die zuständigen Administratoren, MÜSSEN an die korrekte Nutzung und Administration der Anwendung einschließlich der Sicherheitsfunktionen herangeführt werden.
@@ -668,6 +692,11 @@ Die benötigten Mechanismen zur Mandantentrennung beim Dienstleister SOLLTEN aus
 
 #### CON.5.A9
 __Änderung:__\
+~~Die Außerbetriebnahme von Anwendungen SOLLTE geplant werden.
+Es SOLLTE für alle Daten geklärt sein, welche Daten migriert, archiviert oder gelöscht werden. Nicht mehr benötigte Daten SOLLTEN sicher gelöscht werden.
+Die Außerbetriebnahme von Anwendungen sowie der zugehörigen IT-Systeme und Datenträger SOLLTE nachvollziehbar dokumentiert werden.~~
+
+__zu:__\
 Der Fachverantwortliche SOLLTE für alle Daten mit dem IT-Betrieb klären, ob diese migriert, archiviert oder gelöscht werden.
 Nicht mehr benötigte Daten SOLLTEN sicher gelöscht werden.
 
@@ -685,11 +714,19 @@ _Diese Anforderung wurde aus dem erhöhten Schutzbedarf in die Standard-Anforder
 
 #### CON.5.A13
 __Änderung:__\
+~~CON.5.A13 Entwicklung eines Redundanzkonzeptes für Anwendungen [Fachverantwortliche, Leiter IT] (A)
+Besteht hinsichtlich der Verfügbarkeit einer Anwendung ein hoher oder sehr hoher Schutzbedarf, so SOLLTE ein Redundanzkonzept erstellt werden.~~
+
+__zu:__\
+
 CON.5.A13 Entwicklung eines Redundanzkonzeptes für Anwendungen [IT-Betrieb, Notfallbeauftragter] (H)
 
 Es SOLLTE ein Redundanzkonzept vom IT-Betrieb in Abstimmung mit dem Fachverantwortlichen erstellt werden.
 
 __Änderung:__\
+~~Das Redundanzkonzept SOLLTE mit dem Notfallkonzept abgestimmt sein.~~
+
+__zu:__\
 Das Redundanzkonzept SOLLTE zwischen dem IT-Betrieb und dem Notfallbeauftragten mit Hinsicht auf das Notfallkonzept abgestimmt werden.
 
 </details>
