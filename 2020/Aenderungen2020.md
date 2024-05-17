@@ -3209,6 +3209,9 @@ __Ergänzung:__ (...) beziehungsweise Fachaufgaben,
 
 #### NET.4.1.A5
 __Änderung:__\
+~~Die protokollierten Informationen MÜSSEN regelmäßig kontrolliert werden.~~
+
+__zu:__\
 Die protokollierten Informationen SOLLTEN regelmäßig kontrolliert werden.
 
 #### Standard-Anforderungen
@@ -3231,7 +3234,7 @@ Datenschutzrelevante Vorgaben MÜSSEN bei der Protokollierung berücksichtigt we
 
 #### NET.4.2.A11
 __Entfallen:__\
-Sie SOLLTEN angewiesen werden, bei Abwesenheit die Endgeräte geeignet zu sperren.
+~~Sie SOLLTEN angewiesen werden, bei Abwesenheit die Endgeräte geeignet zu sperren.~~
 
 </details>
 
@@ -3266,16 +3269,22 @@ Für die Benutzer SOLLTE der Fax-Verantwortliche während der Arbeitszeiten erre
 
 #### NET.4.3.A7
 __Entfallen:__\
-Alle Informationen, die auf dem Faxdeckblatt einzutragen sind, SOLLTEN in geeigneter Weise ausgewählt werden.
+~~Alle Informationen, die auf dem Faxdeckblatt einzutragen sind, SOLLTEN in geeigneter Weise ausgewählt werden.~~
 
 #### NET.4.3.A8
 __Änderung:__\
+(...) ~~vernichtet~~ (...)
+
+__zu:__\
 (...) unkenntlich gemacht werden (...)
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 #### NET.4.3.A12
 __Änderung:__\
+~~Unerwünschte Faxadressen, beispielsweise die von per Fax werbenden Unternehmen, SOLLTEN blockiert bzw. nur bestimmte Rufnummern zugelassen werden.~~
+
+__zu:__\
 Unerwünschte Faxadressen, SOLLTEN blockiert werden.
 
 Alternativ SOLLTEN nur bestimmte Rufnummern zugelassen werden.
@@ -3295,7 +3304,7 @@ ___
 
 #### INF.1.A3
 __Entfallen:__\
-Dazu gehört die regelmäßige Entsorgung von Altpapier und Verpackungsabfällen.
+~~Dazu gehört die regelmäßige Entsorgung von Altpapier und Verpackungsabfällen.~~
 
 #### Standard-Anforderungen
 
@@ -3307,6 +3316,9 @@ __Ergänzung:__\
 
 #### INF.1.A27
 __Änderung:__\
+~~Gleichwertigkeit und Durchgängigkeit des Einbruchsschutzes bei der Planung, der Umsetzung und im Betrieb SOLLTEN regelmäßig durch eine fachkundige Person begutachtet werden.~~
+
+__zu:__\
 Bei der Planung, der Umsetzung und im Betrieb SOLLTE beim Einbruchschutz darauf geachtet werden, dass er gleichwertig und durchgängig ist.
 
 Er SOLLTE regelmäßig durch eine fachkundige Person begutachtet werden.
@@ -3325,7 +3337,7 @@ __Ergänzung:__\
 (...) oder ausschließlich von Besuchern (...)
 
 #### INF.10.A5
-__Entfallen:__ (...) mit einem Kabelschacht(...)
+__Entfallen:__ (...) ~~mit einem Kabelschacht~~(...)
 
 </details>
 
@@ -3338,15 +3350,23 @@ __Entfallen:__ (...) mit einem Kabelschacht(...)
 
 #### INF.2.A1
 __Änderung:__\
+~~Wenn ein Rechenzentrum geplant wird oder geeignete Räumlichkeiten ausgewählt werden, MÜSSEN potenzielle Gefährdungen durch Umgebungseinflüsse sowie das Sicherheitsniveau der IT-Komponenten (insbesondere Verfügbarkeit) mitbetrachtet werden.
+Weiterhin MÜSSEN auch Schutzmaßnahmen vor potenziellen internen und externen Angriffen in die Gesamtbetrachtung einfließen.~~
+
+__zu:__\
 Wenn ein Rechenzentrum geplant wird oder geeignete Räumlichkeiten ausgewählt werden, MÜSSEN auch geeignete Sicherheitsmaßnahmen unter Berücksichtigung des Schutzbedarfs der IT-Komponenten (insbesondere der Verfügbarkeit) mit geplant werden.
 
 __Entfallen:__\
-Auch MUSS darauf geachtet werden, dass Versorgungsleitungen (z. B. für Wasser oder Gas) möglichst nicht in unmittelbarer Nähe von schutzbedürftigen Technikkomponenten verlaufen.
+~~Auch MUSS darauf geachtet werden, dass Versorgungsleitungen (z. B. für Wasser oder Gas) möglichst nicht in unmittelbarer Nähe von schutzbedürftigen Technikkomponenten verlaufen.
 
-Vorhandene Versorgungsleitungen MÜSSEN zumindest an den kritischen Stellen regelmäßig überprüft werden, ob sie noch dicht sind.
+Vorhandene Versorgungsleitungen MÜSSEN zumindest an den kritischen Stellen regelmäßig überprüft werden, ob sie noch dicht sind.~~
 
 #### INF.2.A2
 __Änderung:__\
+~~Schutzziel für die Brandwand bzw. den Brandabschnitt MUSS nicht nur der Personen- und Gebäudeschutz, sondern auch der Schutz des Inventars und dessen Verfügbarkeit sein.
+Somit MUSS nicht nur verhindert werden, dass sich ein Brand durch Flammen und heiße Rauchgase ausbreitet, sondern es MÜSSEN auch die Wärmestrahlung und die Ausbreitung von kaltem Rauch blockiert werden.~~
+
+__zu:__\
 Die Brand- und Rauchabschnitte MÜSSEN über den baurechtlich vorgeschriebenen Rahmen hinaus auch Schutz für die darin befindlichen technischen Einrichtungen und deren Verfügbarkeit bieten.
 
 Es MUSS verhindert werden, dass sich Brand und Rauch ausbreiten.
@@ -3356,12 +3376,18 @@ __Ergänzung:__\
 Sie SOLLTE dazu vorzugsweise räumlich getrennt von der Leistungselektronik der USV platziert werden.
 
 __Entfallen:__\
-Um sicherzustellen, dass die USV die erforderliche Stützzeit bereitstellt, MUSS regelmäßig sowie zusätzlich, wenn sich bei den Verbrauchern etwas ändert, die tatsächliche Stützzeit ermittelt werden.
+~~Um sicherzustellen, dass die USV die erforderliche Stützzeit bereitstellt, MUSS regelmäßig sowie zusätzlich, wenn sich bei den Verbrauchern etwas ändert, die tatsächliche Stützzeit ermittelt werden.~~
 
-Wenn IT-Geräte über eine USV versorgt werden, DÜRFEN diese NICHT über geschirmte Leitungen mit weiteren IT-Geräten verbunden werden.
+~~Wenn IT-Geräte über eine USV versorgt werden, DÜRFEN diese NICHT über geschirmte Leitungen mit weiteren IT-Geräten verbunden werden.~~
 
 #### INF.2.A4
 __Änderung:__\
+~~Für den Notfall MUSS es geeignete Möglichkeiten geben, das Rechenzentrum spannungsfrei zu schalten.
+Dafür SOLLTE beispielsweise ein Not-Aus-Schalter installiert werden.
+Ein solcher Schalter MUSS nicht nur die externe Energieversorgung abtrennen, sondern auch die komplette USV-Anlage abschalten.
+Alle Not-Aus-Schalter MÜSSEN so geschützt sein, dass sie nicht unbeabsichtigt betätigt werden können.~~
+
+__zu:__\
 Es MUSS geeignete Möglichkeiten geben, elektrische Verbraucher im Rechenzentrum spannungsfrei zu schalten.
 
 Dabei MUSS darauf geachtet werden, ob und wie eine vorhandene USV räumlich und funktional in die Stromversorgung eingebunden ist.
@@ -3374,11 +3400,14 @@ Alle Not-Aus-Schalter MÜSSEN so geschützt sein, dass sie nicht unbeabsichtigt 
 
 #### INF.2.A5
 __Änderung:__\
+~~Wenn die beiden Parameter „Temperatur“ und „Feuchtigkeit“ vom Normwert abweichen, MÜSSEN sie über eine repräsentative Dauer hinweg in einem der Situation angepassten Zeitintervall aufgezeichnet werden.~~
+
+__zu:__\
 Die Parameter Temperatur und Feuchtigkeit MÜSSEN mindestens so aufgezeichnet werden, dass sich rückwirkend erkennen lässt, ob Grenzwerte überschritten wurden, und dass sie bei der Lokalisierung der Ursache der Abweichung sowie bei der Beseitigung der Ursache unterstützend genutzt werden können.
 
 #### INF.2.A6
 __Entfallen:__\
-Außerdem MUSS sichergestellt werden, dass Besucher und Fremdpersonal während aller Arbeiten im Rechenzentrum von der Zutrittskontrolle individuell erfasst sowie beaufsichtigt werden.
+~~Außerdem MUSS sichergestellt werden, dass Besucher und Fremdpersonal während aller Arbeiten im Rechenzentrum von der Zutrittskontrolle individuell erfasst sowie beaufsichtigt werden.~~
 
 #### INF.2.A7
 __Ergänzung:__\
@@ -3389,6 +3418,9 @@ __Ergänzung:__\
 (...) oder durch technische (insbesondere durch eine flächendeckende Brandfrüherkennung, siehe INF.2.A17 Brandfrüherkennung) und organisatorische Maßnahmen (geschultes Personal und fallbezogene Reaktionspläne für Meldungen der Brandfrüherkennung) sichergestellt sein, dass unmittelbar (innerhalb von maximal 5 Minuten) auf Meldungen der Brandfrüherkennung reagiert wird.
 
 __Änderung:__\
+~~In Serverräumen SOLLTEN hierfür Handfeuerlöscher in ausreichender Zahl und Größe benutzt werden.~~
+
+__zu:__\
 In Serverräumen und in einem Rechenzentrum ohne Lösch- oder Brandvermeidungsanlage MÜSSEN Handfeuerlöscher mit geeigneten Löschmitteln in ausreichender Zahl und Größe vorhanden sein.
 
 __Ergänzung:__\
@@ -3440,15 +3472,11 @@ Wenn für einen Serverraum auf den Einsatz einer NEA verzichtet wird, SOLLTE alt
 
 #### INF.2.A15
 __Entfallen:__\
-Blitz- und Überspannungsschutzeinrichtungen SOLLTEN periodisch und nach bekannten Ereignissen geprüft und falls erforderlich ersetzt werden.
+~~Blitz- und Überspannungsschutzeinrichtungen SOLLTEN periodisch und nach bekannten Ereignissen geprüft und falls erforderlich ersetzt werden.~~
 
-Unabhängig von Umfang und Ausbau des Überspannungsschutzes SOLLTE beachtet werden, dass ein umfassender und durchgängiger Potenzialausgleich aller in den Überspannungsschutz einbezogenen elektrischen Betriebsmittel erforderlich ist.
+~~Unabhängig von Umfang und Ausbau des Überspannungsschutzes SOLLTE beachtet werden, dass ein umfassender und durchgängiger Potenzialausgleich aller in den Überspannungsschutz einbezogenen elektrischen Betriebsmittel erforderlich ist.~~
 
-Bei Nachinstallationen SOLLTE darauf geachtet werden, dass der Potenzialausgleich mitgeführt wird.
-
-#### INF.2.A16
-__Änderung:__\
-(...) in IT-Betriebsbereichen (...)
+~~Bei Nachinstallationen SOLLTE darauf geachtet werden, dass der Potenzialausgleich mitgeführt wird.~~
 
 #### INF.2.A18 ENTFALLEN
 __Diese Anforderung ist entfallen:__
@@ -3476,15 +3504,18 @@ Die Übertragungswege in das Ausweichrechenzentrum SOLLTEN geeignet abgesichert 
 
 #### INF.2.A23
 __Entfallen:__\
-Für unterschiedliche Netzarten, z. B. Datennetz, Netz für Gefahrenmeldeanlagen und Stromnetz, SOLLTEN getrennte Kabel benutzt werden.
+~~Für unterschiedliche Netzarten, z. B. Datennetz, Netz für Gefahrenmeldeanlagen und Stromnetz, SOLLTEN getrennte Kabel benutzt werden.~~
 
-Werden Kabel für verschiedene Netze gemeinsam geführt, SOLLTE sichergestellt sein, dass gegenseitige Störungen minimiert werden.
+~~Werden Kabel für verschiedene Netze gemeinsam geführt, SOLLTE sichergestellt sein, dass gegenseitige Störungen minimiert werden.~~
 
 __Ergänzung:__\
 Tragsysteme SOLLTEN hinsichtlich Brandbeanspruchung in einem dem Schutzbedarf genügenden Funktionserhalt ausgeführt werden.
 
 #### INF.2.A27
 __Änderung:__\
+~~Mit den Angestellten der Institution SOLLTEN regelmäßige Alarmierungs- und Brandschutzübungen durchgeführt werden.~~
+
+__zu:__\
 Mit dem Personal des Rechenzentrums sowie des Serverraums SOLLTEN regelmäßige Alarmierungs- und Brandschutzübungen durchgeführt werden.
 
 </details>
@@ -3504,6 +3535,9 @@ __Ergänzung:__\
 
 #### INF.3.A13
 __Änderung:__\
+~~NEA und USV MÜSSEN regelmäßig gewartet werden.~~
+
+__zu:__\
 NEA und USV SOLLTEN regelmäßig gewartet werden.
 
 #### NEU: INF.3.A18
@@ -3788,7 +3822,7 @@ Mitarbeiter, die in der Nähe eines Datenträgerarchivs tätig sind, (...)
 #### Standard-Anforderungen
 
 #### INF.8.A5
-__Entfallen:__ (...) , also nicht einfach in den Hausmüll.
+__Entfallen:__ (...) ~~, also nicht einfach in den Hausmüll.~~
 
 </details>
 
@@ -3801,11 +3835,11 @@ __Entfallen:__ (...) , also nicht einfach in den Hausmüll.
 
 
 #### INF.9.A6
-__Entfallen:__ (...) , also nicht einfach in den Hausmüll.
+__Entfallen:__ (...) ~~, also nicht einfach in den Hausmüll.~~
 
 #### INF.9.A8
 __Entfallen:__\
-Ebenso SOLLTE sie festlegen, dass für jeden mobilen Mitarbeiter ein Vertreter benannt und der Vertretungsprozess regelmäßig geprobt wird.
+~~Ebenso SOLLTE sie festlegen, dass für jeden mobilen Mitarbeiter ein Vertreter benannt und der Vertretungsprozess regelmäßig geprobt wird.~~
 
 </details>
 
