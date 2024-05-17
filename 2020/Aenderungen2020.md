@@ -80,7 +80,7 @@ __Entfallen:__\
 
 #### Standard-Anforderungen
 
-#### ORP.1.A9 ENTFALLEN
+#### ENTFALLEN: ORP.1.A9
 __Anforderung entfallen:__
 ~~ORP.1.A9 Ordnungsgemäße Entsorgung von schützenswerten Betriebsmitteln [Mitarbeiter, Informationssicherheitsbeauftragter (ISB)]
 Betriebs- und Sachmittel SOLLTEN so entsorgt werden, dass keine Rückschlüsse auf ihre Verwendung oder Inhalte gezogen werden können.
@@ -142,7 +142,7 @@ Die Vorgesetzten MÜSSEN dafür sorgen, dass im laufenden Betrieb Vertretungsreg
 
 #### Basis-Anforderungen
 
-#### ORP.3.A3 ENTFALLEN
+#### ENTFALLEN: ORP.3.A3
 __Anforderung entfallen:__
 ~~ORP.3.A3 Einweisung des Personals in den sicheren Umgang mit IT [Vorgesetzte, Personalabteilung, IT-Betrieb]
 Alle Mitarbeiter und externen Benutzer MÜSSEN in den sicheren Umgang mit IT-, ICS- und IoT-Komponenten eingewiesen und sensibilisiert werden, soweit dies für ihre Arbeitszusammenhänge relevant ist.
@@ -355,7 +355,7 @@ Insbesondere SOLLTE das im Notfallkonzept vorgesehene Berechtigungskonzept weite
 #### ORP.5.A4
 __Ergänzt__: "(...) basierend auf der Identifikation und Beachtung der rechtlichen Rahmenbedingungen, (...)
 
-#### ORP.5.A7 ENTFALLEN
+#### ENTFALLEN: ORP.5.A7
 __Anforderung entfallen:__
 ~~ORP.5.A7 Aufrechterhaltung der Informationssicherheit [Informationssicherheitsbeauftragter (ISB)]
 Um das bestehende Sicherheitsniveau aufrechtzuerhalten und fortlaufend zu verbessern, SOLLTEN alle Sicherheitsmaßnahmen des Sicherheitskonzeptes regelmäßig auf Einhaltung und Verbesserungsbedarf überprüft werden.
@@ -365,7 +365,7 @@ Gefundene Mängel SOLLTEN zeitnah behoben werden.~~
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
-#### ORP.5.A9 ENTFALLEN
+#### ENTFALLEN: ORP.5.A9
 __Anforderung entfallen:__
 ~~ORP.5.A9 Schutz gegen nachträgliche Veränderungen von Informationen
 [Informationssicherheitsbeauftragter (ISB), Benutzer] (I)
@@ -374,7 +374,7 @@ Je nach Datenformat und Schutzbedarf SOLLTEN dafür geeignete Methoden ausgewäh
 Dazu gehören beispielsweise digitale Signaturen und andere kryptografische Verfahren, Copyright-Vermerke oder die Verwendung von Dateiformaten, die nachträgliche Änderungen bzw. auszugsweise Weiterverarbeitung erschweren.
 Die Mitarbeiter SOLLTEN informiert werden, welche Sicherheitsmechanismen hierfür eingesetzt werden sollen und wie diese zu benutzen sind.~~
 
-#### ORP.5.A10 ENTFALLEN
+#### ENTFALLEN: ORP.5.A10
 __Anforderung entfallen:__
 ~~ORP.5.A10 Klassifizierung von Informationen (CIA)
 Es gibt in vielen Bereichen einer Institution Informationen, die einen höheren Schutzbedarf haben oder besonderen Restriktionen unterliegen, z. B. personenbezogene, finanzrelevante, vertrauliche oder durch Copyright geschützte Daten.
@@ -382,7 +382,7 @@ Für diese gelten je nach ihrer Kategorisierung unterschiedliche Beschränkungen
 Daher SOLLTEN möglichst alle Informationen entsprechend ihrem Schutzbedarf klassifiziert und, falls möglich, gekennzeichnet werden.
 Die Mitarbeiter SOLLTEN regelmäßig auf den sorgfältigen Umgang mit Informationen hingewiesen sowie über die Restriktionen beim Umgang mit klassifizierten Daten informiert werden.~~
 
-#### ORP.5.A11 ENTFALLEN
+#### ENTFALLEN: ORP.5.A11
 __Anforderung entfallen:__
 ~~ORP.5.A11 Erhebung der rechtlichen Rahmenbedingungen für kryptografische Verfahren und Produkte [IT-Betrieb, Verantwortliche der einzelnen Anwendungen] (CI)
 Beim Einsatz kryptografischer Produkte sind diverse gesetzliche Rahmenbedingungen zu beachten.
@@ -489,7 +489,7 @@ __Änderung:__\
 __zu:__\
 Dies MUSS wiederum auf Basis der erhobenen Einflussfaktoren und in Abstimmung mit den jeweiligen Fachverantwortlichen der Anwendungen geschehen.
 
-#### CON.3.A3 ENTFALLEN
+#### ENTFALLEN: CON.3.A3
 __Diese Anforderung ist entfallen:__
 ~~CON.3.A3 Ermittlung von rechtlichen Einflussfaktoren auf die Datensicherung
 Die rechtlichen Anforderungen an die Datensicherung MÜSSEN ermittelt und in das Minimal- bzw. in das Datensicherungskonzept einfließen.~~
@@ -563,7 +563,7 @@ Bevor ein Datensicherungssystem beschafft wird, SOLLTE der Leiter IT eine Anford
 
 Die angeschafften Datensicherungssysteme SOLLTEN die Anforderungen des Datensicherungskonzepts und der gesamten Sicherheitskonzeption der Institution erfüllen.
 
-#### CON.3.A8 ENTFALLEN
+#### ENTFALLEN: CON.3.A8
 __Anforderung entfallen:__
 ~~CON.3.A8 Funktionstests und Überprüfung der Wiederherstellbarkeit [IT-Betrieb]
 Es SOLLTE regelmäßig getestet werden, ob die Datensicherung auch wie gewünscht funktioniert, und vor allem, ob gesicherte Daten problemlos und in angemessener Zeit zurückgespielt werden können.~~
@@ -638,7 +638,7 @@ Hierzu MÜSSEN die mit der Individualsoftware verarbeiteten Informationen und de
 
 Vom IT-Betrieb MÜSSEN die Sicherheitsfunktionen zur Integration in die IT-betriebliche Infrastruktur definiert werden.
 
-#### CON.5.A2 ENTFALLEN
+#### ENTFALLEN: CON.5.A2
 __Anforderung entfallen:__
 ~~CON.5.A2 Test und Freigabe von Fachanwendungen [Leiter IT, Datenschutzbeauftragter]
 Für einen geordneten Betriebsübergang einer Anwendung sowie bei wesentlichen Änderungen MUSS ein geeignetes Vorgehen bei Test und Freigabe entwickelt werden.
@@ -671,7 +671,7 @@ CON.5.A4 Heranführen von Benutzerinnen und Benutzern an Individualsoftware (B)
 
 Alle Benutzer der Individualsoftware, darunter auch die zuständigen Administratoren, MÜSSEN an die korrekte Nutzung und Administration der Anwendung einschließlich der Sicherheitsfunktionen herangeführt werden.
 
-#### CON.5.A5 ENTFALLEN
+#### ENTFALLEN: CON.5.A5
 __Anforderung entfallen:__
 ~~CON.5.A5 Sicherer Betrieb einer Fachanwendung [IT-Betrieb]
 Berechtigungen zur Nutzung und Administration einer Fachanwendung MÜSSEN korrekt vergeben und regelmäßig auf Korrektheit hin überprüft werden.
@@ -683,7 +683,7 @@ Es MÜSSEN regelmäßig Datensicherungen und Rücksicherungsübungen durchgefüh
 
 #### Standard-Anforderungen
 
-#### CON.5.A7 ENTFALLEN
+#### ENTFALLEN: CON.5.A7
 __Anforderung entfallen:__
 ~~CON.5.A7 Erstellung eines Mandantenkonzeptes [Leiter IT]
 Es SOLLTE mit einem Mandantenkonzept sichergestellt werden, dass Anwendungen und Daten verschiedener Kunden sauber getrennt betrieben werden.
@@ -702,7 +702,7 @@ Nicht mehr benötigte Daten SOLLTEN sicher gelöscht werden.
 
 Die Außerbetriebnahme von Individualsoftware sowie der zugehörigen IT-Systeme und Datenträger SOLLTE vom IT-Betrieb nachvollziehbar dokumentiert werden.
 
-#### CON.5.A10 ENTFALLEN
+#### ENTFALLEN: CON.5.A10
 __Anforderung entfallen:__
 ~~CON.5.A10 Notfallvorsorge für Anwendungen [Leiter IT]
 Die Fachanwendungen SOLLTEN in die Planung zur Notfallvorsorge aufgenommen werden.~~
@@ -836,7 +836,7 @@ __Entfallen:__\
 __Ergänzung:__\
 Dabei SOLLTEN die Bedürfnisse des Fachbereichs berücksichtigt werden.
 
-#### OPS.1.1.2.A13 ENTFALLEN
+#### ENTFALLEN: OPS.1.1.2.A13
 __Anforderung entfallen.__
 
 #### Anforderungen bei erhöhtem Schutzbedarf
@@ -980,7 +980,7 @@ __Anforderung hinzugefügt__
 
 </details>
 
-### OPS.1.2.3 ENTFALLEN
+### ENTFALLEN: OPS.1.2.3
 __OPS.1.2.3 ist vollständig entfallen.__
 
 </details>
@@ -1049,7 +1049,7 @@ __Ergänzung:__ (...) oder die Fachaufgaben des Cloud-Kunden (...)
 
 </details>
 
-### OPS.2.4 ENTFALLEN
+### ENTFALLEN: OPS.2.4
 __Diese Anforderungen sind entfallen.__
 
 ### OPS.3.1
@@ -1227,7 +1227,7 @@ DER.4.A2 Integration von Notfallmanagement und Informationssicherheitsmanagement
 #### DER.4.A9
 __Ergänzung:__ (...) und Fachaufgaben (...)
 
-#### DER.4.A11 ENTFALLEN
+#### ENTFALLEN: DER.4.A11
 __Diese Anforderung ist entfallen:__
 ~~DER.4.A11 Überprüfung und Aufrechterhaltung der Maßnahmen zur Notfallvorsorge und -reaktion (CIA)
 Es SOLLTEN die identifizierten Maßnahmen zur Notfallvorsorge und -reaktion regelmäßig und anlassbezogen überprüft werden.
@@ -1396,7 +1396,7 @@ Die sicherheitsrelevanten Protokollierungsdaten MÜSSEN regelmäßig durch den I
 __Entfallen:__\
 ~~Bei der Protokollierung und beim Umgang mit den Protokollierungsdaten MÜSSEN die gesetzlichen Vorgaben eingehalten werden.~~
 
-#### APP.3.1.A6 ENTFALLEN
+#### ENTFALLEN: APP.3.1.A6
 __Diese Anforderung ist entfallen:__
 ~~APP.3.1.A6 Zeitnahes Einspielen sicherheitsrelevanter Patches und Updates
 Administratoren MÜSSEN sich regelmäßig über aktuelle Schwachstellen informieren und sicherheitsrelevante Updates zeitnah einspielen.
@@ -1453,7 +1453,7 @@ __Entfallen:__\
 
 ~~Aus diesen Zonen SOLLTE NICHT auf Systeme im Intranet zugegriffen werden können.~~
 
-#### APP.3.1.A10 ENTFALLEN
+#### ENTFALLEN: APP.3.1.A10
 __Diese Anforderung ist entfallen:__
 ~~APP.3.1.A10 Test und Freigabe von Webanwendungen [Leiter IT]
 Bevor Webanwendungen oder Erweiterungen und Anpassungen, die selbst oder im Auftrag entwickelt wurden, in den Produktivbetrieb übernommen werden, SOLLTEN sie getestet werden.
@@ -1494,7 +1494,7 @@ __Entfallen:__\
 __Ergänzung:__\
 Falls dies nicht möglich ist, SOLLTE die Anwendung auf andere geeignete Weise sicherstellen, dass sich der Benutzer authentisiert.
 
-#### APP.3.1.A18 ENTFALLEN
+#### ENTFALLEN: APP.3.1.A18
 __Diese Anforderung ist entfallen:__
 ~~APP.3.1.A18 Kontrolle der Protokollierungsdaten
 Es SOLLTE für jede Webanwendung ein Konzept erstellt werden, das festlegt, wie umfangreich die Protokollierung sein soll und wie die Daten auszuwerten sind.
@@ -1556,7 +1556,7 @@ __Entfallen:__\
 __Änderung:__\
 Wenn sich Clients mit Hilfe von Passwörtern am Webserver authentisieren, MÜSSEN diese kryptografisch gesichert und vor unbefugtem Zugriff geschützt gespeichert werden.
 
-#### APP.3.2.A6 ENTFALLEN
+#### ENTFALLEN: APP.3.2.A6
 __Diese Anforderung ist entfallen:__
 ~~DER.3.2.A6 Vorbereitung einer IS-Revision [Institutionsleitung]
 Die Institutionsleitung MUSS das IS-Revisionsverfahren initiieren.
@@ -1613,7 +1613,7 @@ Für die Behandlung von externen Sicherheitsmeldungen SOLLTE die Institution Pro
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
-#### APP.3.2.A19 ENTFALLEN
+#### ENTFALLEN: APP.3.2.A19
 __Diese Anforderung ist entfallen:__
 ~~APP.3.2.A19 Einrichtung eines Internet-Redaktionsteams [Leiter IT, Fachverantwortliche] (CIA)
 Um Webangebote zu pflegen, SOLLTE eine eigenständige Internetredaktion eingerichtet werden.
@@ -1630,7 +1630,7 @@ Ebenso SOLLTEN Prozesse, Vorgehensweisen und Verantwortliche benannt werden für
 
 #### Basis-Anforderungen
 
-#### APP.3.3.A1 ENTFALLEN
+#### ENTFALLEN: APP.3.3.A1
 __Diese Anforderung ist entfallen:__
 ~~APP.3.3.A1 Geeignete Aufstellung [Haustechnik]
 Fileserver DÜRFEN NICHT in Büroräumen oder als Arbeitsplatzrechner betrieben werden.
@@ -1647,7 +1647,7 @@ Die RAID-Level MÜSSEN dem Stand der Technik entsprechen.
 __Änderung:__\
 Alle Daten MÜSSEN durch ein Viren-Schutzprogramm auf Schadsoftware untersucht werden, bevor sie auf dem Fileserver abgelegt werden.
 
-#### APP.3.3.A4 ENTFALLEN
+#### ENTFALLEN: APP.3.3.A4
 __Diese Anforderung ist entfallen:__
 ~~APP.3.3.A4 Regelmäßige Datensicherung
 Es MÜSSEN regelmäßig alle auf dem Fileserver befindlichen Daten gesichert werden.
@@ -1711,7 +1711,7 @@ __Änderung:__\
 __zu:__\
 Es sollten mindestens nicht-autorisierte Zugriffsversuche auf Dateien und von Zugriffsrechten protokolliert werden.
 
-#### APP.3.3.A10 ENTFALLEN
+#### ENTFALLEN: APP.3.3.A10
 __Diese Anforderung ist entfallen:__
 ~~APP.3.3.A10 Regelmäßige Tests des Datensicherungs- bzw. Wiederherstellungskonzepts
 Es SOLLTE regelmäßig getestet werden, ob die Datensicherung und -wiederherstellung korrekt funktionieren.
@@ -1811,7 +1811,7 @@ __Entfallen:__\
 __Entfallen:__\
 ~~Die Konfigurationsdaten, Statusinformationen und Systemdateien SOLLTEN kompatibel zueinander sein.~~
 
-#### APP.3.4.A14 ENTFALLEN
+#### ENTFALLEN: APP.3.4.A14
 __Diese Anforderung ist entfallen:__
 ~~APP.3.4.A14 Erstellen eines Notfallplans für den Ausfall von Samba-Servern
 Um den Samba-Server im Notfall schnell neu installieren zu können, SOLLTEN die notwendigen Installationspakete und Informationen an einem festgelegten Ort hinterlegt werden.
@@ -1831,7 +1831,7 @@ Anhand der Ergebnisse SOLLTE der Notfallplan verbessert werden.~~
 
 #### Basis-Anforderungen
 
-#### APP.3.6.A5 ENTFALLEN
+#### ENTFALLEN: APP.3.6.A5
 __Diese Anforderung ist entfallen:__
 ~~APP.3.6.A5 Zeitnahes Einspielen sicherheitsrelevanter Patches und Updates
 Die verantwortlichen Mitarbeiter MÜSSEN sich regelmäßig bei verschiedenen Quellen über neu bekannt gewordene Schwachstellen im eingesetzten DNS-Server-Produkt informieren und sicherheitsrelevante Updates zeitnah einspielen.
@@ -1976,7 +1976,7 @@ Wenn ein E-Mail-Scanner genutzt wird, MÜSSEN darüber alle Mitarbeiter, der Dat
 
 #### Standard-Anforderungen
 
-#### APP.5.1.A5 ENTFALLEN
+#### ENTFALLEN: APP.5.1.A5
 __Diese Anforderung ist entfallen:__
 ~~APP.5.1.A5 Festlegung der Kommunikationspartner [Leiter Organisation, Leiter IT, Informationssicherheitsbeauftragter (ISB), Datenschutzbeauftragter]
 Es SOLLTE festgelegt werden, welche Kommunikationspartner welche Informationen erhalten dürfen.
@@ -2044,7 +2044,7 @@ Auch Angaben zu berechtigten Zugriffspunkten, von denen aus auf einen Groupware-
 
 Die Groupware-Sicherheitsrichtlinien SOLLTEN den Umgang mit Newsgroups und Mailinglisten regeln.
 
-#### APP.5.1.A9 ENTFALLEN
+#### ENTFALLEN: APP.5.1.A9
 __Diese Anforderung ist entfallen:__
 ~~APP.5.1.A9 Sichere Administration von Groupware-Systemen [Leiter IT]
 Administrative Zugänge sowie die dazugehörigen Aufgaben SOLLTEN abhängig ihrer Zuständigkeit getrennt werden.
@@ -2056,7 +2056,7 @@ Es SOLLTE darauf geachtet werden, dass die genutzten Groupware-Systeme ausreiche
 Auch SOLLTEN vertrauenswürdige Groupware-Dokumentationen bei der Administration berücksichtigt werden.
 Es SOLLTE regelmäßig überprüft werden, ob die vorhandenen Dokumentationen aktuell sind.~~
 
-#### APP.5.1.A10 ENTFALLEN
+#### ENTFALLEN: APP.5.1.A10
 __Diese Anforderung ist entfallen:__
 ~~APP.5.1.A10 Schulung zur Systemarchitektur und Sicherheit von Groupware-Systemen für Administratoren [Leiter IT, Informationssicherheitsbeauftragter (ISB)]
 Um ein Groupware-System korrekt und sicher administrieren zu können, SOLLTEN die verantwortlichen Administratoren geschult werden.
@@ -2070,7 +2070,7 @@ Weitere Schulungsschwerpunkte SOLLTEN sein:
 • Incident Handling sowie
 • Disaster-Recovery-Maßnahmen.~~
 
-#### APP.5.1.A11 ENTFALLEN
+#### ENTFALLEN: APP.5.1.A11
 __Diese Anforderung ist entfallen:__
 ~~APP.5.1.A11 Berechtigungsverwaltung für Groupware-Systeme [Leiter IT, Informationssicherheitsbeauftragter (ISB)]
 Die vergebenen Berechtigungen, vor allem die privilegierten, SOLLTEN regelmäßig mit dem Berechtigungskonzept abgeglichen und zeitnah angepasst werden, wenn sich die Aufgaben der Benutzer und der Administratoren ändern.
@@ -2098,7 +2098,7 @@ Darüber hinaus SOLLTE die Institution die Benutzer auf die Gefahren hinweisen, 
 
 Sie SOLLTE Benutzer auch davor warnen, die HTML-Darstellung bei unerwarteten E-Mails zu aktivieren.
 
-#### APP.5.1.A13 ENTFALLEN
+#### ENTFALLEN: APP.5.1.A13
 __Diese Anforderung ist entfallen:__
 ~~APP.5.1.A13 Verifizierung der zu übertragenden Daten vor Weitergabe und Beseitigung von Restinformationen [Leiter IT, Benutzer]
 Bevor eine Datei per E-Mail über einen Groupware-Dienst verschickt wird, SOLLTE überprüft werden, ob diese Restinformationen enthält, die nicht veröffentlicht werden dürfen.
@@ -2107,13 +2107,13 @@ Um diese Gefahren zu minimieren, SOLLTEN Dateienstichprobenhaft auf enthaltene R
 Alle Zusatzinformationen (Dateieigenschaften) von Dateien in Standardsoftwareformaten SOLLTEN ermittelt, überprüft und falls erforderlich angepasst werden, bevor sie weitergegeben werden.
 Ebenso SOLLTE darauf geachtet werden, dass die Dateien keine sogenannten Slack Bytes enthalten.~~
 
-#### APP.5.1.A14 ENTFALLEN
+#### ENTFALLEN: APP.5.1.A14
 __Diese Anforderung ist entfallen:__
 ~~APP.5.1.A14 Vermeidung problematischer Dateiformate [Benutzer]
 Es SOLLTE vorgegeben werden, wie mit E-Mails im HTML-Format, mit anderen Dateiformaten und Dateianhängen umzugehen ist.
 Für HTML-formatierte E-Mails SOLLTE eine Richtlinie erstellt werden, die auf entsprechende Inhalte von Benutzerschulungen, Weiterleitungseinstellungen, Umwandlungsoptionen (z. B. in Textformate), Benutzerhinweise sowie auf mögliche sichere und gesonderte Arbeitsplätze eingeht.~~
 
-#### APP.5.1.A15 ENTFALLEN
+#### ENTFALLEN: APP.5.1.A15
 __Diese Anforderung ist entfallen:__
 ~~APP.5.1.A15 Protokollierung von Groupware-Systemen [Leiter IT]
 Es SOLLTEN alle sicherheitsrelevanten Ereignisse von Groupware-Systemen protokolliert werden.
@@ -2145,7 +2145,7 @@ Die Institution SOLLTE selbst DomainKeys und SPF einsetzen, um von ihr versendet
 
 Die Institution SOLLTE Domain-based Message Authentication, Reporting and Conformance (DMARC) nutzen, um festzulegen, wie von ihr versendete E-Mails durch den empfangenden E-Mail-Server überprüft werden sollen.
 
-#### APP.5.1.A19 ENTFALLEN
+#### ENTFALLEN: APP.5.1.A19
 __Diese Anforderung ist entfallen:__
 ~~APP.5.1.A19 Verschlüsselung von Groupware [Leiter IT, Informationssicherheitsbeauftragter (ISB), Benutzer]
 Daten, die durch Groupware-Systeme übermittelt werden, SOLLTEN mithilfe geeigneter Schutzmechanismen abgesichert werden.
@@ -2153,7 +2153,7 @@ So SOLLTE mit Verschlüsselungsverfahren und digitalen Signaturen die Integritä
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
-#### APP.5.1.A20 ENTFALLEN
+#### ENTFALLEN: APP.5.1.A20
 __Diese Anforderung ist entfallen:__
 ~~APP.5.1.A20 Erstellen eines Notfallplans für den Ausfall von Groupware-Systemen [Notfallbeauftragter, Leiter IT, Informationssicherheitsbeauftragter (ISB)] (A)
 Es SOLLTE ein Konzept entworfen werden, wie die Folgen eines Ausfalls minimiert werden können und was bei einem Ausfall zu tun ist.
@@ -2192,7 +2192,7 @@ Der IT-Betrieb MUSS serverseitige Benutzerprofile für einen rechnerunabhängige
 
 Er MUSS die Standard-NTFS-Berechtigungen für das Microsoft Exchange-Verzeichnis so anpassen, dass nur autorisierte Administratoren und Systemkonten auf die Daten in diesem Verzeichnis zugreifen können.
 
-#### APP.5.2.A4 ENTFALLEN
+#### ENTFALLEN: APP.5.2.A4
 __Diese Anforderung ist entfallen:__
 ~~APP.5.2.A4 Zugriffsrechte auf Microsoft Exchange-Objekte
 Die Zugriffsberechtigungen auf Microsoft Exchange-Objekte MÜSSEN auf Grundlage der das Prinzip des geringsten Privilegs (least privilege) festgelegt werden.
@@ -2205,7 +2205,7 @@ Dabei MÜSSEN insbesondere die Exchange-Server-Datenbanken gesichert werden.
 
 Gelöschte Exchange-Objekte SOLLTEN erst nach einiger Zeit aus der Datenbank entfernt werden.
 
-#### APP.5.2.A6 ENTFALLEN
+#### ENTFALLEN: APP.5.2.A6
 __Diese Anforderung ist entfallen:__
 ~~APP.5.2.A6 Sichere Installation eines Microsoft Exchange-Systems
 Die Installation SOLLTE auf Basis der Einsatzplanung von Microsoft Exchange und Outlook und der festgelegten Sicherheitsrichtlinie erfolgen (siehe APP.5.2.A1 Planung des Einsatzes von Microsoft Exchange und Outlook).
@@ -2229,7 +2229,7 @@ Außerdem SOLLTE er Funktionsunterschiede zwischen verschiedenen Versionen von M
 
 Das neue System SOLLTE, bevor es installiert wird, in einem separaten Testnetz geprüft werden.
 
-#### APP.5.2.A8 ENTFALLEN
+#### ENTFALLEN: APP.5.2.A8
 __Diese Anforderung ist entfallen:__
 ~~APP.5.2.A8 Sicherer Betrieb von Microsoft Exchange
 Alle Systeme und Anwendungen der Infrastruktur SOLLTEN so konfiguriert sein, dass sie den Schutzbedarf angemessen erfüllen.
@@ -2324,7 +2324,7 @@ Der IT-Betrieb SOLLTE Outlook Anywhere, MAPI over HTTP und die Outlook Web App e
 
 Der Zugriff auf Microsoft Exchange über das Internet SOLLTE auf die notwendigen Benutzer beschränkt werden.
 
-#### APP.5.2.A13 ENTFALLEN
+#### ENTFALLEN: APP.5.2.A13
 __Diese Anforderung ist entfallen:__
 ~~APP.5.2.A13 Schulung von Administratoren [Leiter IT]
 Für den Betrieb der Komponenten der Microsoft Exchange-Infrastruktur SOLLTE nur geeignetes und geschultes Personal eingesetzt werden.~~
@@ -2340,7 +2340,7 @@ Zusätzlich zum allgemeinen Schulungs- und Sensibilisierungsprogramm SOLLTE die 
 
 Die Institution SOLLTE die Benutzer von Outlook regelmäßig entsprechend dem Konzept schulen.
 
-#### APP.5.2.A16 ENTFALLEN
+#### ENTFALLEN: APP.5.2.A16
 __Diese Anforderung ist entfallen:__
 ~~APP.5.2.A16 Erstellung eines Notfallplans für den Ausfall von Microsoft Exchange und Outlook [Notfallbeauftragter]
 Im Rahmen der Notfallvorsorge SOLLTE ein Konzept entworfen werden, mit dem sich die Folgen eines Ausfalls der Microsoft Exchange- und Outlook-Komponenten minimieren lassen.
@@ -2365,7 +2365,7 @@ Die Sicherheitsrichtlinie SOLLTE mindestens folgende Aspekte regeln:
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
-#### APP.5.2.A18 ENTFALLEN
+#### ENTFALLEN: APP.5.2.A18
 __Diese Anforderung ist entfallen:__
 ~~APP.5.2.A18 Regelmäßige Sicherheitsprüfungen für Microsoft Exchange-Systeme (CIA)
 Das Microsoft Exchange-System SOLLTE regelmäßig auf Fehlkonfigurationen und Schwachstellen geprüft wird.
@@ -2590,7 +2590,7 @@ __Ergänzung:__\
 
 #### Basis-Anforderungen
 
-#### SYS.2.2.3.A3 ENTFALLEN
+#### ENTFALLEN: SYS.2.2.3.A3
 __Diese Anforderung ist entfallen:__
 ~~SYS.2.2.3.A3 Geeignetes Patch- und Änderungsmanagement
 Um alle Änderungen erfassen und bewerten zu können, MÜSSEN alle Windows 10-Systeme einem Patch- und Änderungsmanagement unterstellt sein.
@@ -2613,7 +2613,7 @@ Es MUSS durch geeignete Maßnahmen, etwa auf Netzebene, sichergestellt werden, d
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
-#### SYS.2.3.A13 ENTFALLEN
+#### ENTFALLEN: SYS.2.3.A13
 __Diese Anforderung ist entfallen:__
 ~~SYS.2.3.A13 Schutz vor unbefugten Anmeldungen (CIA)
 Es SOLLTE eine Zwei-Faktor-Authentisierung verwendet werden.~~
@@ -2735,7 +2735,7 @@ Wenn zusätzliche Apps von Drittanbietern eingesetzt werden (siehe SYS.3.2.3.A1 
 
 </details>
 
-### SYS.3.4: ENTFALLEN
+### ENTFALLEN: SYS.3.4
 __Dieser Baustein ist entfallen.__
 
 ### SYS.4.1
@@ -2753,7 +2753,7 @@ Nicht benötigte Gerätefunktionen SOLLTEN abgeschaltet werden.~~
 __zu:__\
 Diese MÜSSEN die Vorgaben des Identitäts- und Berechtigungsmanagement der Institution erfüllen. Das Passwort DARF NUR berechtigten Benutzern bekannt sein.
 
-#### SYS.4.1.A3 ENTFALLEN
+#### ENTFALLEN: SYS.4.1.A3
 __Diese Anforderung ist entfallen:__
 ~~SYS.4.1.A3 Regelmäßige Aktualisierung von Druckern, Kopieren und Multifunktionsgeräten
 Es MUSS regelmäßig überprüft werden, ob die Drucker, Kopierer und Multifunktionsgeräte auf dem aktuellen Stand sind.
@@ -2834,7 +2834,7 @@ __Entfallen:__\
 __Ergänzung:__\
 Zudem MÜSSEN IoT-Gerate in das Identitäts- und Berechtigungsmanagement der Institution integriert werden.
 
-#### SYS.4.4.A4 ENTFALLEN
+#### ENTFALLEN: SYS.4.4.A4
 __Diese Anforderung ist entfallen:__
 ~~SYS.4.4.A4 Aktivieren von Autoupdate-Mechanismen
 Automatische Update-Mechanismen (Autoupdate) MÜSSEN aktiviert werden, sofern nicht andere Mechanismen wie regelmäßige manuelle Wartung oder ein zentrales Softwareverteilungssystem für Updates eingesetzt werden.
@@ -3253,7 +3253,7 @@ Faxgeräte DÜRFTEN NICHT an nicht dafür vorgesehene Netzanschlüsse angeschlos
 
 #### Standard-Anforderungen
 
-#### NET.4.3.A5 ENTFALLEN
+#### ENTFALLEN: NET.4.3.A5
 __Diese Anforderung ist entfallen:__
 ~~NET.4.3.A5 Ernennung eines Fax-Verantwortlichen [IT-Betrieb, Vorgesetzte]
 Es SOLLTE ein Fax-Verantwortlicher ernannt werden.
@@ -3478,7 +3478,7 @@ __Entfallen:__\
 
 ~~Bei Nachinstallationen SOLLTE darauf geachtet werden, dass der Potenzialausgleich mitgeführt wird.~~
 
-#### INF.2.A18 ENTFALLEN
+#### ENTFALLEN: INF.2.A18
 __Diese Anforderung ist entfallen:__
 ~~INF.2.A18 Schutz vor Wasseraustritt [Haustechnik]
 In Bereichen, in denen sich IT-Geräte mit zentralen Funktionen befinden, SOLLTEN wasserführende Leitungen vermieden werden.
