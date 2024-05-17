@@ -1265,10 +1265,13 @@ Die Standardkonfiguration SOLLTE explizit freigegeben werden.
 
 #### APP.1.1.A8
 __Entfallen:__\
-Darüber hinaus SOLLTEN die verschiedenen Konfigurationen der installierten Office-Produkte dokumentiert werden.
+~~Darüber hinaus SOLLTEN die verschiedenen Konfigurationen der installierten Office-Produkte dokumentiert werden.~~
 
 #### APP.1.1.A13
 __Änderung:__\
+~~Es kann eine Liste vertrauenswürdiger Orte definiert werden, von denen Inhalte unmittelbar geöffnet und bearbeitet werden können.~~
+
+__zu:__\
 Es SOLLTE eine Liste vertrauenswürdiger Orte definiert werden, von denen Inhalte unmittelbar geöffnet und bearbeitet werden können.
 
 </details>
@@ -1286,6 +1289,9 @@ Der verwendete Webbrowser SOLLTE die aktuelle Version der Content Security Polic
 
 #### APP.1.2.A7
 __Änderung:__\
+~~APP.1.2.A7 Schutz von Daten [Benutzer]~~
+
+__zu:__\
 APP.1.2.A7 Datensparsamkeit in Webbrowsern [Benutzer] (S)
 
 </details>
@@ -1298,7 +1304,7 @@ APP.1.2.A7 Datensparsamkeit in Webbrowsern [Benutzer] (S)
 #### Basis-Anforderungen
 
 #### APP.1.4.A1
-__Änderung:__\
+__Ergänzung:__\
 (...) unter Einbeziehung der jeweiligen Fachverantwortlichen (...)
 
 </details>
@@ -1313,7 +1319,7 @@ __Änderung:__\
 
 #### APP.2.1.A13
 __Entfallen:__\
-(...) dies gilt insbesondere bei Außenanbindungen.
+(...) ~~dies gilt insbesondere bei Außenanbindungen.~~
 
 ### APP.2.3
 <details>
@@ -1337,26 +1343,33 @@ Dabei SOLLTEN institutionsinterne Vorgaben beachtet werden.
 
 #### APP.3.1.A1
 __Änderung:__\
+~~Um auf geschützte Ressourcen einer Webanwendung zugreifen zu können, MÜSSEN sich Benutzer gegenüber der Anwendung authentisieren.~~
+
+__zu:__\
 Der IT-Betrieb und die Entwickler von Webanwendungen MÜSSEN sicherstellen, dass sich Benutzer gegenüber der Anwendung geeignet authentisieren, wenn diese auf geschützte Ressourcen zugreifen wollen.
 
 __Änderung:__\
+~~Wird Basic-Auth verwendet, MUSS eine Transportverschlüsselung eingesetzt werden.
+Die Passwortdateien auf dem Webserver MÜSSEN ausreichend geschützt werden.~~
+
+__zu:__\
 Die Zugangsdaten MÜSSEN angemessen geschützt werden.
 
 __Entfallen:__\
-Um sicherzugehen, dass eine gültige Sitzung (Session-ID) nicht von einem Angreifer übernommen wurde, MÜSSEN sich bei kritischen Funktionen die Benutzer erneut authentisieren.
+~~Um sicherzugehen, dass eine gültige Sitzung (Session-ID) nicht von einem Angreifer übernommen wurde, MÜSSEN sich bei kritischen Funktionen die Benutzer erneut authentisieren.~~
 
 #### APP.3.1.A2
 __Ergänzung:__\
 (...) durch die Entwickler einer Webanwendung (...)
 
 __Entfallen:__\
-Allen Benutzern MÜSSEN restriktive Zugriffsrechte ordnungsgemäß zugewiesen werden.
+~~Allen Benutzern MÜSSEN restriktive Zugriffsrechte ordnungsgemäß zugewiesen werden.~~
 
-Wenn Mitarbeiter für eine Webanwendung Zugriffsrechte erhalten oder sich diese verändern, MÜSSEN die Verantwortlichen dies prüfen, bestätigen und nachvollziehbar dokumentieren.
+~~Wenn Mitarbeiter für eine Webanwendung Zugriffsrechte erhalten oder sich diese verändern, MÜSSEN die Verantwortlichen dies prüfen, bestätigen und nachvollziehbar dokumentieren.~~
 
-Die Dokumentation der vergebenen Zugriffsrechte MUSS immer auf dem aktuellen Stand sein.
+~~Die Dokumentation der vergebenen Zugriffsrechte MUSS immer auf dem aktuellen Stand sein.~~
 
-Auch MUSS es ein geregeltes Verfahren geben, um Benutzern Zugriffsrechte wieder zu entziehen.
+~~Auch MUSS es ein geregeltes Verfahren geben, um Benutzern Zugriffsrechte wieder zu entziehen.~~
 
 #### APP.3.1.A3
 __Ergänzung:__\
@@ -1371,13 +1384,17 @@ __Ergänzung:__\
 
 #### APP.3.1.A5
 __Ergänzung:__\
-(...) Entwickler MÜSSEN sicherstellen, (...)
+Entwickler MÜSSEN sicherstellen, (...)
 
 __Änderung:__\
+~~Der Zugriff auf die Protokollierungsdaten MUSS auf wenige befugte Personen eingeschränkt werden.~~(...)
+~~Bei der Protokollierung und beim Umgang mit den Protokollierungsdaten MÜSSEN die gesetzlichen Vorgaben eingehalten werden.~~
+
+__zu:__\
 Die sicherheitsrelevanten Protokollierungsdaten MÜSSEN regelmäßig durch den IT-Betrieb ausgewertet werden.
 
 __Entfallen:__\
-Bei der Protokollierung und beim Umgang mit den Protokollierungsdaten MÜSSEN die gesetzlichen Vorgaben eingehalten werden.
+~~Bei der Protokollierung und beim Umgang mit den Protokollierungsdaten MÜSSEN die gesetzlichen Vorgaben eingehalten werden.~~
 
 #### APP.3.1.A6 ENTFALLEN
 __Diese Anforderung ist entfallen:__
@@ -1427,17 +1444,14 @@ Wenn weder Stored Procedures noch Prepared SQL Statements eingesetzt werden kön
 
 #### APP.3.1.A8
 __Ergänzung:__\
-(...) der Beschaffer (...)
-
-__Änderung:__\
-In der Systemarchitektur SOLLTE der IT-Betrieb vorsehen, dass die Serverdienste durch jeweils separate IT-Systeme voneinander getrennt sind.
+(Bereits in der Entwurfsphase einer Webanwendung SOLLTE) der Beschaffer (Sicherheitsaspekte beachten.)
 
 __Entfallen:__\
-Die Netzarchitektur SOLLTE einen mehrschichtigen Ansatz verfolgen (Multi-Tier-Architektur).
+~~Die Netzarchitektur SOLLTE einen mehrschichtigen Ansatz verfolgen (Multi-Tier-Architektur).~~
 
-Dabei SOLLTEN mindestens die Sicherheitszonen Webschicht, Anwendungsschicht und Datenschicht berücksichtigt werden.
+~~Dabei SOLLTEN mindestens die Sicherheitszonen Webschicht, Anwendungsschicht und Datenschicht berücksichtigt werden.~~
 
-Aus diesen Zonen SOLLTE NICHT auf Systeme im Intranet zugegriffen werden können.
+~~Aus diesen Zonen SOLLTE NICHT auf Systeme im Intranet zugegriffen werden können.~~
 
 #### APP.3.1.A10 ENTFALLEN
 __Diese Anforderung ist entfallen:__
@@ -1449,28 +1463,32 @@ Darüber hinaus SOLLTE ein Verfahren zur Fehlerbehebung etabliert werden.~~
 
 #### APP.3.1.A11
 __Entfallen:__\
-Der Datenverkehr zwischen den Benutzern und der Webanwendung bzw. den Anwendungen und weiteren Diensten sowie den Hintergrundsystemen SOLLTE durch Sicherheitsgateways reglementiert werden.
+~~Der Datenverkehr zwischen den Benutzern und der Webanwendung bzw. den Anwendungen und weiteren Diensten sowie den Hintergrundsystemen SOLLTE durch Sicherheitsgateways reglementiert werden.~~
 
 __Entfallen:__\
-Beim Einsatz eines Enterprise Service Bus (ESB) muss sichergestellt werden, dass sich alle Dienste gegenüber dem ESB authentisieren, bevor ihnen ein Zugriff erlaubt wird.
+~~Beim Einsatz eines Enterprise Service Bus (ESB) muss sichergestellt werden, dass sich alle Dienste gegenüber dem ESB authentisieren, bevor ihnen ein Zugriff erlaubt wird.~~
 
 __Änderung:__\
+~~Beim Einsatz eines Enterprise Service Bus (ESB) muss sichergestellt werden, dass sich alle Dienste gegenüber dem ESB authentisieren, bevor ihnen ein Zugriff erlaubt wird.
+Es SOLLTE ein eigenes logisches Netzsegment für den ESB vorhanden sein.~~
+
+__zu:__\
 Beim Einsatz eines Enterprise Service Bus (ESB) SOLLTE ein eigenes logisches Netzsegment für den ESB vorhanden sein.
 
 #### APP.3.1.A13
 __Entfallen:__\
-Dazu SOLLTE sichergestellt werden,dass:
+~~Dazu SOLLTE sichergestellt werden,dass:~~
 
-• nur neutrale Fehlermeldungen ausgegeben werden,\
+~~• nur neutrale Fehlermeldungen ausgegeben werden,\
 • keine sicherheitsrelevanten Kommentare oder Produkt- und Versionsangaben preisgegeben werden,\
 • nur eingeschränkt auf sicherheitsrelevante Dokumentation zugegriffen werden kann\
 • nicht benötigte Dateien regelmäßig gelöscht werden,\
 • externe Suchmaschinen die Webanwendung geeignet erfassen sowie\
-• auf absolute lokale Pfadangaben verzichtet wird.
+• auf absolute lokale Pfadangaben verzichtet wird.~~
 
-Die Webanwendung SOLLTE NICHT aus unsicheren Netzen administriert werden.
+~~Die Webanwendung SOLLTE NICHT aus unsicheren Netzen administriert werden.~~
 
-Administrationszugänge SOLLTEN auf vertrauenswürdige separate Netzsegmente und IT-Systeme beschränkt werden.
+~~Administrationszugänge SOLLTEN auf vertrauenswürdige separate Netzsegmente und IT-Systeme beschränkt werden.~~
 
 #### APP.3.1.A15
 __Ergänzung:__\
@@ -1486,23 +1504,23 @@ Die Ergebnisse SOLLTEN dem ISB oder einem anderen hierfür bestimmten Mitarbeite
 
 #### APP.3.1.A21
 __Änderung:__\
+~~Zum Schutz vor Clickjacking-Angriffen SOLLTE in den HTTP-Response-Headern der Webanwendung die Direktive X-FRAME-OPTIONS mit geeigneten Parametern gesetzt werden.
+Darüber hinaus SOLLTE eine HTTP-Content-Security-Policy eingesetzt werden.~~
+
+__zu:__\
 Zum Schutz vor Clickjacking, Cross-Site-Scripting und anderen Angriffen SOLLTEN die Entwickler sowie der IT-Betrieb geeignete HTTP-Response-Header setzen.
 
 Dazu SOLLTEN mindestens die folgenden Direktiven verwendet werden: Content-Security-Policy, möglicherweise X-FRAME-OPTIONS, Strict-Transport-Security, X-XSS-Protection, Content-Type, X-Content-Type-Options sowie Cache-Control.
 
 Cookies SOLLTEN grundsätzlich mit den Attributen secure und httponly gesetzt werden.
 
-#### APP.3.1.A23
-__Änderung:__\
-Die Entwickler einer Webanwendung SOLLTEN diese mit Sicherheitsmechanismen ausstatten (...)
-
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 #### APP.3.1.A24
 __Entfallen:__\
-SOAP-Nachrichten SOLLTEN anhand eines entsprechenden XML-Schemas validiert werden.
+~~SOAP-Nachrichten SOLLTEN anhand eines entsprechenden XML-Schemas validiert werden.~~
 
-Bei kritischen Diensten und Anwendungen SOLLTE geprüft werden, ob eine Zusammenarbeit mit DDoS-Mitigation-Dienstleistern sinnvoll ist.
+~~Bei kritischen Diensten und Anwendungen SOLLTE geprüft werden, ob eine Zusammenarbeit mit DDoS-Mitigation-Dienstleistern sinnvoll ist.~~
 
 #### NEU: APP.3.1.A25
 APP.3.1.A25 Kryptografische Sicherung vertraulicher Daten [Entwickler] (H)
@@ -1520,19 +1538,19 @@ Entwickler und Betreiber einer Webanwendung SOLLTEN sicherstellen, dass vertraul
 
 #### APP.3.2.A2
 __Änderung:__\
-Der Webserver MUSS so konfiguriert sein, dass er nur Dateien ausliefert, die sich innerhalb des WWW-Wurzelverzeichnisses befinden.
+~~Ressourcen außerhalb des WWW-Verzeichnisses DÜRFEN NICHT aus diesem heraus verlinkt oder verknüpft werden.~~
 
-__Änderung:__\
-Der IT-Betrieb MUSS alle nicht benötigten Funktionen, die Verzeichnisse auflisten, deaktivieren.
+__zu:__\
+Der Webserver MUSS so konfiguriert sein, dass er nur Dateien ausliefert, die sich innerhalb des WWW-Wurzelverzeichnisses befinden.
 
 __Ergänzung:__\
 Insbesondere MUSS der IT-Betrieb sicherstellen, dass vertrauliche Dateien nicht in öffentlichen Verzeichnissen des Webservers liegen.
 
 #### APP.3.2.A3
 __Entfallen:__\
-Zudem MÜSSEN Dokumente von Restinformationen bereinigt werden.
+~~Zudem MÜSSEN Dokumente von Restinformationen bereinigt werden.~~
 
-Abrufbare Dateien MÜSSEN auf einer separaten Partition der Festplatte gespeichert sein.
+~~Abrufbare Dateien MÜSSEN auf einer separaten Partition der Festplatte gespeichert sein.~~
 
 #### APP.3.2.A5
 __Änderung:__\
@@ -1559,14 +1577,19 @@ Sogenannter Mixed Content DARF NICHT verwendet werden.
 
 #### APP.3.2.A10
 __Entfallen:__\
-Bei allen angebotenen Produkten SOLLTE die Basisinstallation sicher gestaltet werden.
+~~Bei allen angebotenen Produkten SOLLTE die Basisinstallation sicher gestaltet werden.~~
 
-Der Dienstleister SOLLTE seine Kunden über die Risiken von zusätzlichen Anwendungen und Erweiterungen (Plug-ins) informieren.
+~~Der Dienstleister SOLLTE seine Kunden über die Risiken von zusätzlichen Anwendungen und Erweiterungen (Plug-ins) informieren.~~
 
-Darüber hinaus SOLLTE er sich dazu verpflichten, regelmäßig auf vorhandene Updates der genutzten Programme hinzuweisen.
+~~Darüber hinaus SOLLTE er sich dazu verpflichten, regelmäßig auf vorhandene Updates der genutzten Programme hinzuweisen.~~
 
 #### APP.3.2.A12
 __Änderung:__\
+~~Aus den HTTP-Informationen und den angezeigten Fehlermeldungen SOLLTEN NICHT der Name und die Version der Webserver-Software ersichtlich sein.
+Auch SOLLTE sichergestellt werden, dass der Webserver ausschließlich anwendungsspezifische Fehlermeldungen ausgibt, die der Information des Benutzers dienen.
+Bei unerwarteten Fehlern SOLLTE der Webserver in einen sicheren Zustand übergehen.~~
+
+__zu:__\
 Aus den HTTP-Informationen und den angezeigten Fehlermeldungen SOLLTEN weder der Name noch die verwendete Version des Webservers ersichtlich sein.
 
 Fehlermeldungen SOLLTEN keine Details zu Systeminformationen oder Konfigurationen ausgeben.
@@ -1667,9 +1690,9 @@ __Ergänzung:__\
 Das Dateisystem SOLLTE den Anforderungen der Institution entsprechen.
 
 __Entfallen:__\
-Es SOLLTE ein Dateisystem ausgewählt werden, das eine festgelegte Overhead-Grenze nicht überschreitet.
+~~Es SOLLTE ein Dateisystem ausgewählt werden, das eine festgelegte Overhead-Grenze nicht überschreitet.~~
 
-Für Hochverfügbarkeitslösungen SOLLTEN verteilte Dateisysteme verwendet werden.
+~~Für Hochverfügbarkeitslösungen SOLLTEN verteilte Dateisysteme verwendet werden.~~
 
 #### APP.3.3.A8
 __Ergänzung:__\
@@ -1677,9 +1700,15 @@ Die Dateien SOLLTEN NUR strukturiert auf den Fileserver abgelegt werden.
 
 #### APP.3.3.A9
 __Entfallen:__\
-Es SOLLTEN alle Speicherressourcen des Fileservers katalogisiert werden, z. B. Festplatten, Flash-Speicher, Bandlaufwerke.
+~~Es SOLLTEN alle Speicherressourcen des Fileservers katalogisiert werden, z. B. Festplatten, Flash-Speicher, Bandlaufwerke.~~
 
 __Änderung:__\
+~~Folgende Ereignisse SOLLTEN mindestens protokolliert werden:
+• Aktivitäten (Modifizieren, Hinzufügen bzw. Löschen von Daten),
+• nicht autorisierte Zugriffe auf Daten und
+• Änderungen von Zugriffsrechten.~~
+
+__zu:__\
 Es sollten mindestens nicht-autorisierte Zugriffsversuche auf Dateien und von Zugriffsrechten protokolliert werden.
 
 #### APP.3.3.A10 ENTFALLEN
@@ -1693,6 +1722,9 @@ Aufgedeckte Mängel SOLLTEN dazu führen, dass das Datensicherungskonzept übera
 
 #### APP.3.3.A11
 __Änderung:__\
+~~APP.3.3.A11 Einsatz von Quotas~~
+
+__zu:__\
 APP.3.3.A11 Einsatz von Speicherbeschränkungen (S)
 
 #### APP.3.3.A14 (Aktualisiert: Basis-Anforderung)
@@ -1708,10 +1740,16 @@ Der IT-Betrieb SOLLTE beachten, dass, je nach eingesetztem Verfahren, Fehler nur
 
 #### APP.3.3.A12
 __Änderung:__\
+~~Dazu SOLLTEN die Datenträger vollständig verschlüsselt werden.~~
+
+__zu:__\
 Falls Hardwareverschlüsselung eingesetzt wird, SOLLTEN Produkte verwendet werden, deren Verschlüsselungsfunktion zertifiziert wurde.
 
 #### APP.3.3.A13
 __Änderung:__\
+~~Daten SOLLTEN zudem zwischen unabhängigen Geräten oder unabhängigen Standorten repliziert werden.~~
+
+__zu:__\
 Daten SOLLTEN zudem zwischen unabhängigen Fileservern repliziert werden, die sich zudem an unabhängigen Standorten befinden.
 
 </details>
@@ -1729,18 +1767,24 @@ Je nach Betriebssystem der Clients und anderen vorhandenen Schutzmechanismen MUS
 
 #### APP.3.4.A2
 __Entfallen:__\
-(...) und dass es sich nur mit sicheren Netzadressen verbindet.
+(...) ~~und dass es sich nur mit sicheren Netzadressen verbindet.~~
 
 #### Standard-Anforderungen
 
 #### APP.3.4.A3
 __Änderung:__\
+~~Mit einem lokalen Paketfilter SOLLTEN Ports, über die der Samba-Server nicht erreichbar sein soll, geblockt werden.~~
+
+__zu:__\
 Samba SOLLTE so konfiguriert werden, dass nur benötigte Netzports geöffnet werden.
 
 Falls dies nicht möglich ist, SOLLTEN die Ports, über die der Samba-Server nicht erreichbar sein soll, mit einem lokalen Paketfilter geblockt werden.
 
 #### APP.3.4.A4
 __Änderung:__\
+~~APP.3.4.A4 Sicherstellung der NTFS-Eigenschaften auf einem Samba-Server~~
+
+__zu:__\
 APP.3.4.A4 Vermeidung der NTFS-Eigenschaften auf einem Samba-Server (S)
 
 #### APP.3.4.A5
@@ -1757,15 +1801,15 @@ __zu:__\
 
 #### APP.3.4.A7
 __Entfallen:__\
-Wird Samba als primärer AD DC verwendet, SOLLTE der DNS-Dienst auf dem Samba-Server installiert und sorgfältig konfiguriert werden.
+~~Wird Samba als primärer AD DC verwendet, SOLLTE der DNS-Dienst auf dem Samba-Server installiert und sorgfältig konfiguriert werden.~~
 
-#### APP.3.4.A10
-__Änderung:__\
-Sofern IPv6 eingesetzt wird, SOLLTEN erforderliche Besonderheiten berücksichtigt werden.
+#### APP.3.4.A11
+__Entfallen:__\
+~~Falls Netware-Systeme auf den Samba-Server zugreifen müssen, SOLLTE berücksichtigt werden, dass Internetwork Packet Exchange (IPX) benötigt wird.~~
 
 #### APP.3.4.A13
 __Entfallen:__\
-Die Konfigurationsdaten, Statusinformationen und Systemdateien SOLLTEN kompatibel zueinander sein.
+~~Die Konfigurationsdaten, Statusinformationen und Systemdateien SOLLTEN kompatibel zueinander sein.~~
 
 #### APP.3.4.A14 ENTFALLEN
 __Diese Anforderung ist entfallen:__
@@ -1806,12 +1850,25 @@ Bevor ein Patch eingespielt wird, MÜSSEN die Zonen- und Konfigurationsdateien g
 
 #### APP.5.1.A1
 __Änderung:__\
+~~Alle für ein Groupware-System benötigten Komponenten (z. B. auch die Sicherheitsgateways) MÜSSEN entsprechend der geplanten Systemlandschaft sicher installiert und konfiguriert werden.
+Während das System installiert wird, MÜSSEN alle Passwörter sicher gewählt sein.
+Nicht genutzte Komponenten MÜSSEN deaktiviert werden.~~
+
+__zu:__\
 Der IT-Betrieb MUSS alle für ein Groupware-System benötigten Komponenten entsprechend der geplanten Systemlandschaft sicher installieren und konfigurieren.
 
 Nicht genutzte Komponenten des Groupware-Systems MÜSSEN deaktiviert werden.
 
 #### APP.5.1.A2
 __Änderung:__\
+~~Die Groupware-Clients der Benutzer MÜSSEN durch den Administrator so vorkonfiguriert sein, dass sie, ohne dass der Benutzer etwas tun muss, maximal sicher sind.
+Die Benutzer MÜSSEN darauf hingewiesen werden, dass die Konfiguration nicht selbstständig geändert werden darf.
+Es MUSS zudem verhindert und untersagt sein, dass Passwörter im Klartext gespeichert werden.
+Werden Nachrichten auf einem Mailserver gespeichert und wird z. B. über Internet Message Access Protocol (IMAP) darauf zugegriffen, MUSS eine Größenbeschränkung für das serverseitige Postfach eingerichtet werden.
+Bevor Dateianhänge ausgeführt werden, MÜSSEN sie mit einem Schutzprogramm vor Schadsoftware überprüft werden.
+Es MÜSSEN sichere Einstellungen für E-Mails im HTML-Format, die Vorschaufunktionen und die E-Mail-Filterregeln sowie für die sichere automatische Weiterleitung von E-Mails gewählt werden.~~
+
+__zu:__\
 Die Institution MUSS eine Konfiguration für die Groupware-Clients vorgeben.
 
 Die Clients MÜSSEN den Benutzern vorkonfiguriert übergeben werden.
@@ -1832,6 +1889,16 @@ E-Mail-Filterregeln sowie die unkontrolliert, automatische Weiterleitung von E-M
 
 #### APP.5.1.A3
 __Änderung:__\
+~~Es MÜSSEN alle sicherheitsrelevanten Servicepacks, Updates und Patches für das jeweilige Softwareprodukt eingespielt werden.
+Administratoren MÜSSEN sich daher regelmäßig über neu bekannt gewordene Schwachstellen der eingesetzten Groupware-Systeme und der genutzten Betriebssysteme informieren und sie zeitnah schließen.
+Um Groupware-Systeme in der Institution abzusichern, MÜSSEN Schutzmechanismen gegen Denial-of-Service-(DoS)-Attacken ergriffen werden.
+Die lokale Kommunikation MUSS angemessen geschützt sein.
+Die Kommunikation über öffentliche Netze MUSS verschlüsselt sein.
+Außerdem MÜSSEN die Zugriffsrechte auf die lokal angeschlossenen Benutzer beschränkt werden.
+Es SOLLTE eine Richtlinie erstellt werden, die über die in der jeweiligen Groupware erlaubten Protokolle und Dienste informiert.
+Insbesondere der Mailserver MUSS so eingestellt werden, dass er nicht als Spam Relay missbraucht werden kann.~~
+
+__zu:__\
 Administratoren MÜSSEN sich regelmäßig über neu bekannt gewordene Schwachstellen der eingesetzten Groupware-Systeme informieren und sie zeitnah beheben.
 
 Der IT-Betrieb MUSS Schutzmechanismen gegen Denial-of-Service-Attacken (DoS) ergreifen.
@@ -1851,6 +1918,14 @@ Diese Größenbeschränkung MUSS geeignet festgelegt werden.
 
 #### APP.5.1.A4
 __Änderung:__\
+~~Bei einem Groupware-System MÜSSEN die Daten regelmäßig gesichert werden.
+Dafür MUSS geregelt werden, wie die gesendeten und empfangenen E-Mails der E-Mail-Clients und auf E-Mail-Servern gesichert werden.
+Auch SOLLTE eine dokumentierte Vorgehensweise erstellt werden, wie E-Mails zu archivieren sind.
+Dabei SOLLTE grundsätzlich geregelt sein, wie, wann und wo gesendete und empfangene E-Mails archiviert werden, beispielsweise ob zentral oder dezentral ggf. von den Benutzern selbst.
+Bei der Archivierung von E-Mails SOLLTEN z. B. zeitliche und organisatorische Sicherheitsaspekte beachtet werden.
+Der erforderliche Zeitraum SOLLTE überprüft, die Archivierung geplant und zudem überlegt werden, wie sich die E-Mails wieder einspielen lassen.~~
+
+__zu:__\
 Der IT-Betrieb MUSS die Daten der Groupware-Systeme regelmäßig sichern.
 
 Dafür MUSS die Institution regeln, wie die gesendeten und empfangenen E-Mails der E-Mail-Clients sowie die E-Mails auf den Servern gesichert werden.
@@ -1863,6 +1938,16 @@ Der IT-Betrieb SOLLTE planen und testen, wie archivierte E-Mails wieder eingespi
 
 #### APP.5.1.A7 (Aktualisiert: Basis-Anforderung)
 __Änderung:__\
+~~Bevor eine Institution ein Groupware-System einführt, SOLLTE entschieden werden, wofür es genutzt wird und welche Informationscluster zukünftig auf dem Groupware-System verarbeitet werden sollen.
+Es SOLLTE entschieden werden, ob ein eigener Groupware-Server in der Institution eingesetzt oder ein Provider genutzt werden soll.
+Auch SOLLTE ermittelt werden, wie die Groupware-Clients auf die Server zugreifen.
+Für jede benutzte Funktion einer Groupware SOLLTE eine eigene Planung durchgeführt werden, bei der auch deren Sicherheitsaspekte berücksichtigt werden.
+Bei der Planung SOLLTE auch festgelegt werden, welche Daten unter welchen Rahmenbedingungen über Groupware-Dienste übermittelt werden dürfen und wie sich dies auf den Schutzbedarf auswirkt.
+Es SOLLTE ebenso beschrieben werden, wie ein ordnungsgemäßer Dateitransfer gewährleistet werden kann, z. B. durch organisatorische Regelungen oder technische Maßnahmen.
+Darüber hinaus SOLLTE auch geregelt werden, ob und wie Groupware-Dienste privat benutzt werden dürfen.
+Auch SOLLTEN Institutionen regeln, wie Mitarbeiter mit Webmail umgehen sollen.~~
+
+__zu:__\
 APP.5.1.A7 Planung des sicheren Einsatzes von Groupware-Systemen (B)
 
 Bevor eine Institution Groupware-Systeme einführt, MUSS sie entscheiden, wofür die Groupware-Systeme genutzt und welche Informationen darauf verarbeitet werden.
@@ -1879,8 +1964,8 @@ Darüber hinaus MUSS sie regeln, ob und wie Groupware-Dienste privat genutzt wer
 
 Die Institution SOLLTE regeln, wie Mitarbeiter mit Webmail-Anwendungen umgehen sollen.
 
-#### APP.5.1.A22 (Aktualisiert: Basis-Anforderung)
-__Änderung:__\
+#### APP.5.1.A22 (NEU)
+__NEU:__\
 APP.5.1.A22 Spam- und Virenschutz auf dem E-Mailserver (B)
 
 Der IT-Betrieb MUSS auf dem zentralen E-Mailserver einen E-Mail-Scanner mit einem integrierten Virenschutzprogramm installieren, der eingehende und ausgehende E-Mails, insbesondere deren Anhänge, auf Spam-Merkmale und schädliche Inhalte überprüft.
@@ -1903,6 +1988,14 @@ Bei zu übermittelnden Daten SOLLTE ersichtlich sein, welche Kommunikationspartn
 
 #### APP.5.1.A6
 __Änderung:__\
+~~Für die E-Mail-Bearbeitung SOLLTE für jeden Mitarbeiter jederzeit ein geeigneter Vertreter benannt sein.
+Vertreter SOLLTEN auf das Postfach des Vertretenden zugreifen können.
+Alternativ SOLLTEN die E-Mails an den Vertreter weitergeleitet werden.
+Werden E-Mails weitergeleitet, SOLLTEN die vertretenen Benutzer mindestens darüber informiert werden.
+Um die Vertreterregelungsprozesse zu unterstützen, SOLLTEN für Autoreply-Funktionen in E-Mail-Programmen spezielle Regelungen etabliert werden, mit denen diese Funktionen sicher gesteuert werden können.
+Wenn Mitarbeiter die Autoreply-Funktionen benutzen, SOLLTEN KEINE internen Informationen weitergegeben werden.~~
+
+__zu:__\
 Die Institution SOLLTE Vertretungsregelungen für die Bearbeitung von E-Mails aufstellen und dokumentieren.
 
 Dabei MÜSSEN datenschutzrechtliche Aspekte berücksichtigt werden.
@@ -1917,6 +2010,15 @@ Wenn Mitarbeiter die Autoreply-Funktionen nutzen, SOLLTEN keine internen Informa
 
 #### APP.5.1.A8
 __Änderung:__\
+~~Es SOLLTE eine Sicherheitsrichtlinie für Groupware-Systeme und -Anwendungen erstellt und regelmäßig aktualisiert werden.
+Alle Benutzer und Administratoren SOLLTEN über neue oder veränderte Sicherheitsvorgaben für Groupware-Systeme informiert werden.
+Die Groupware-Sicherheitsrichtlinie SOLLTE konform zu den geltenden übergeordneten Sicherheitsrichtlinien der Institution sein.
+Es SOLLTE geprüft werden, ob die Sicherheitsrichtlinien korrekt angewendet werden.
+Es SOLLTE eine Sicherheitsrichtlinie für Benutzer und eine für Administratoren erstellt werden.
+Für die Benutzer SOLLTE darin angegeben werden, wie sich die Kommunikation absichern lässt (z. B. für die Netz- oder E-Mail-Kommunikation), welche Benutzerzugriffsrechte es gibt (z. B. auf Groupware-Server oder -Datenbanken), wie Informationen an Kommunikationspartner weitergegeben werden sollen und wie sich übermittelte Informationen absichern lassen (z. B. Signaturen/Verschlüsselungen).
+Die zu regelnden Inhalte für Administratoren SOLLTEN darüber hinaus die Einstellungsoptionen der Groupware-Komponenten beinhalten, außerdem die Vorgaben für mögliche Zugriffe von anderen Servern auf einen Groupware-Server und Angaben zum berechtigten Zugriffspunkt, von dem aus auf einen Groupware-Server zugegriffen werden darf.~~
+
+__zu:__\
 Die Institution SOLLTE Sicherheitsrichtlinien für Groupware-Systeme und -Anwendungen auf Basis der gemachten Planung erstellen und regelmäßig aktualisieren.
 
 Sie SOLLTE alle Benutzer und Administratoren über neue oder veränderte Sicherheitsvorgaben für Groupware-Systeme informieren.
@@ -1979,6 +2081,13 @@ Auch innerhalb der Administration SOLLTEN Rollen und Verantwortlichkeiten getren
 
 #### APP.5.1.A12
 __Änderung:__\
+~~Es SOLLTEN alle Benutzer für die Arbeit mit dem Groupware-Client geschult und eingewiesen werden.
+Dabei SOLLTE den Benutzern gezeigt werden, welche Sicherheitsmechanismen verfügbar sind und wie sie eingesetzt werden können.
+Wer Groupware nutzt, SOLLTE für Gefährdungen und einzuhaltende Sicherheitsmaßnahmen sensibilisiert werden.
+Die Benutzer SOLLTEN über potenzielles Fehlverhalten belehrt werden.
+Sie SOLLTEN auch davor gewarnt werden, an E-Mail-Kettenbriefen teilzunehmen und viele Mailinglisten zu abonnieren.~~
+
+__zu:__\
 Die Institution SOLLTE die Benutzer über potenzielles Fehlverhalten im Bezug auf Groupware aufklären.
 
 Dies SOLLTE zusätzlich zur allgemeinen Schulung und Sensibilisierung geschehen.
@@ -2014,10 +2123,10 @@ Wichtige Systemereignisse wie Änderungen, Fehler und Störungen an Hardware, Be
 
 #### APP.5.1.A16
 __Entfallen:__\
-(...) oder ein Anhang NICHT ausgeführt werden.
+(...) ~~oder ein Anhang NICHT ausgeführt werden.~~
 
 __Entfallen:__\
-Für Newsgroups und Mailinglisten SOLLTEN Regelungen erstellt werden.
+~~Für Newsgroups und Mailinglisten SOLLTEN Regelungen erstellt werden.~~
 
 #### APP.5.1.A17
 __Ergänzung:__\
@@ -2025,6 +2134,11 @@ Die Institution SOLLTE mit dem Dienstleister Vereinbarungen zu SLAs treffen.
 
 #### APP.5.1.A18
 __Änderung:__\
+~~Auf dem zentralen Mailserver SOLLTE ein E-Mail-Scanner mit einem integrierten speicherresistenten Virenschutzprogramm installiert werden, der eingehende und ausgehende E-Mails, insbesondere deren Anhänge, auf SpamMerkmale und schädliche Inhalte überprüft.
+Da verschlüsselte E-Mails nicht automatisch überprüft werden können, SOLLTE auch festgelegt werden, wie mit solchen E-Mails zu verfahren ist.
+Wenn ein E-Mail-Scanner genutzt wird, SOLLTEN darüber alle Mitarbeiter, der Datenschutzbeauftragte und die Personalvertretung informiert werden.~~
+
+__zu:__\
 Die E-Mail-Server einer Institution SOLLTEN eingehende E-Mails mittels des Sender Policy Framework (SPF) und mit Hilfe von DomainKeys überprüfen.
 
 Die Institution SOLLTE selbst DomainKeys und SPF einsetzen, um von ihr versendete E-Mails zu authentisieren.
