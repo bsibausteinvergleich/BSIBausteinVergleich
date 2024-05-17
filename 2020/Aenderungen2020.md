@@ -2696,7 +2696,7 @@ __Ergänzung:__\
 
 #### SYS.3.2.2.A14
 __Entfallen:__\
-Dabei handelt es sich um einen externen Dienst, der Apps nach bestimmten Kriterien untersucht und die Ergebnisse als Service bereitstellt.
+~~Dabei handelt es sich um einen externen Dienst, der Apps nach bestimmten Kriterien untersucht und die Ergebnisse als Service bereitstellt.~~
 
 </details>
 
@@ -2715,6 +2715,11 @@ Außerdem MÜSSEN Jailbreaks organisatorisch untersagt und nach Möglichkeit tec
 
 #### SYS.3.2.3.A12
 __Änderung:__\
+~~SYS.3.2.3.A12 Verwendung institutionsbezogener Apple IDs
+Statt mit einer persönlichen Apple ID des Benutzers SOLLTE das iOS-basierte Gerät mit einer institutionsbezogenen Apple ID verwendet werden.
+Als zusätzliche Vorsorgemaßnahme zur Verhinderung des Missbrauchs dienstlicher Zahlungsmittel (Kreditkarten) SOLLTE das Programm für Volumenlizenz (VPP) von Apple verwendet werden.~~
+
+__zu:__\
 SYS.3.2.3.A12 Verwendung von Apple-IDs (S)
 
 Werden Dienste verwendet, für die eine Apple-ID erforderlich ist, SOLLTE statt einer persönlichen Apple-ID des Benutzers eine anonymisierte Apple-ID verwendet werden.
@@ -2723,6 +2728,9 @@ Falls möglich, SOLLTE der Apple Business Manager für Volumenlizenzen (früher 
 
 #### SYS.3.2.3.A21
 __Änderung:__\
+~~Wenn zusätzliche Apps von Drittanbietern eingesetzt werden (siehe SYS.3.2.3.A1), MUSS durch die Verantwortlichen der interne Software-Freigabeprozess bzgl. der Validierung und Freigabe von Anwendungen (Apps) aus dem Apple App Store ergänzt werden.~~
+
+__zu:__\
 Wenn zusätzliche Apps von Drittanbietern eingesetzt werden (siehe SYS.3.2.3.A1 Strategie für die iOS-Nutzung), SOLLTE durch die Verantwortlichen der interne Software-Freigabeprozess bezüglich der Validierung und Freigabe von Anwendungen (Apps) aus dem Apple App Store ergänzt werden.
 
 </details>
@@ -2739,6 +2747,10 @@ __Dieser Baustein ist entfallen.__
 
 #### SYS.4.1.A2
 __Änderung:__\
+~~Das Passwort DARF ausschließlich berechtigten Benutzern bekannt sein und MUSS regelmäßig geändert werden.
+Nicht benötigte Gerätefunktionen SOLLTEN abgeschaltet werden.~~
+
+__zu:__\
 Diese MÜSSEN die Vorgaben des Identitäts- und Berechtigungsmanagement der Institution erfüllen. Das Passwort DARF NUR berechtigten Benutzern bekannt sein.
 
 #### SYS.4.1.A3 ENTFALLEN
@@ -2751,9 +2763,9 @@ Generell MUSS darauf geachtet werden, dass Patches und Updates nur aus vertrauen
 
 #### SYS.4.1.A12
 __Entfallen:__\
-Nicht benötigte, aber ausgedruckte Dokumente mit sensiblen Informationen MÜSSEN in geeigneter Weise entsorgt werden, z. B. in geeigneten Papiercontainern.
+~~Nicht benötigte, aber ausgedruckte Dokumente mit sensiblen Informationen MÜSSEN in geeigneter Weise entsorgt werden, z. B. in geeigneten Papiercontainern.~~
 
-Auch für Heimarbeitsplätze SOLLTEN geeignete Regelungen hierfür festgelegt werden.
+~~Auch für Heimarbeitsplätze SOLLTEN geeignete Regelungen hierfür festgelegt werden.~~
 
 #### NEU: SYS.4.1.A22
 SYS.4.1.A22 Ordnungsgemäße Entsorgung ausgedruckter Dokumente (B)\
@@ -2778,6 +2790,13 @@ Netzdrucker und Multifunktionsgeräte SOLLTEN in einem eigenen Netzsegment, das 
 
 #### SYS.4.1.A18
 __Änderung:__\
+~~Alle Drucker und Multifunktionsgeräte SOLLTEN entsprechend einer definierten Sicherheitsrichtlinie konfiguriert werden.
+Die Geräte SOLLTEN ausschließlich über verschlüsselte Protokolle wie https und SNMPv3 verwaltet werden.
+Sämtliche Protokolle, mit denen unverschlüsselt auf Drucker und Multifunktionsgeräte zugegriffen werden kann, SOLLTEN durch verschlüsselte ersetzt und abgeschaltet werden.
+Das SOLLTE insbesondere für Protokolle umgesetzt werden, mit denen sich die Gerätekonfiguration verändern lässt, z. B. SNMP, Telnet und PJL.
+Der voreingestellte SNMP Set Community Name SOLLTE geändert werden.~~
+
+__zu:__\
 Alle Drucker und Multifunktionsgeräte SOLLTEN geeignet vom IT-Betrieb konfiguriert werden.
 
 Nicht benötigte Gerätefunktionen SOLLTEN abgeschaltet werden.
@@ -2794,7 +2813,7 @@ Der voreingestellte „SNMP Set Community Name“ SOLLTE geändert werden.
 
 #### SYS.4.1.A20
 __Entfallen:__\
-Alternativ SOLLTEN die Geräte so eingestellt werden, dass sich eingescannte Dokumente nur an eine fest eingetragene Adresse senden lassen.
+~~Alternativ SOLLTEN die Geräte so eingestellt werden, dass sich eingescannte Dokumente nur an eine fest eingetragene Adresse senden lassen.~~
 
 </details>
 
@@ -2807,10 +2826,10 @@ Alternativ SOLLTEN die Geräte so eingestellt werden, dass sich eingescannte Dok
 
 #### SYS.4.4.A2
 __Entfallen:__\
-Diese Passwörter MÜSSEN komplex genug sein, geheim gehalten und regelmäßig gewechselt werden.
+~~Diese Passwörter MÜSSEN komplex genug sein, geheim gehalten und regelmäßig gewechselt werden.~~
 
 __Entfallen:__\
-Zusätzlich empfiehlt sich die Verwendung von alternativen Authentisierungsmechanismen, wie z. B. zertifikatsbasierte Authentisierung.
+~~Zusätzlich empfiehlt sich die Verwendung von alternativen Authentisierungsmechanismen, wie z. B. zertifikatsbasierte Authentisierung.~~
 
 __Ergänzung:__\
 Zudem MÜSSEN IoT-Gerate in das Identitäts- und Berechtigungsmanagement der Institution integriert werden.
@@ -2823,35 +2842,48 @@ Wenn für Autoupdate-Mechanismen ein Zeitintervall vorgegeben werden kann, SOLLT
 
 #### SYS.4.4.A5
 __Entfallen:__\
-• Signaturen auf Intrusion-Prevention-Systemen (IPS).
+~~• Signaturen auf Intrusion-Prevention-Systemen (IPS).~~
 
 __Änderung:__\
+~~• Konfiguration von Virtual Private Networks (VPNs) zwischen den Netzen mit IoT-Geräten und Sensor-Netzen und den Management-Netzen.~~
+
+__zu:__\
 • Die Konfiguration von Virtual Private Networks (VPNs) zwischen den Netzen mit IoT-Geräten und Sensor-Netzen und den Management-Netzen SOLLTE restriktiv erfolgen.
 
 #### Standard-Anforderungen
 
 #### SYS.4.4.A7
 __Entfallen:__\
-Dabei SOLLTEN Vorgaben zur Authentisierung, Update-Mechanismen und Netzanbindung definiert werden.
+~~Dabei SOLLTEN Vorgaben zur Authentisierung, Update-Mechanismen und Netzanbindung definiert werden.~~
 
 #### SYS.4.4.A8
 __Entfallen:__\
-IoT-Geräte mit einem Cloud-Konzept SOLLTEN nicht beschafft werden.
+~~IoT-Geräte mit einem Cloud-Konzept SOLLTEN nicht beschafft werden.~~
 
 #### SYS.4.4.A10
 __Änderung:__\
+~~Falls möglich, SOLLTEN IoT-Geräte erst mit IT-Netzen verbunden werden, nachdem die Installation und die Konfiguration abgeschlossen sind; dies gilt vor allem für öffentliche Netze.~~
+
+__zu:__\
 Falls möglich, SOLLTEN IoT-Geräte erst mit Datennetzen verbunden werden, nachdem die Installation und die Konfiguration abgeschlossen sind.
 
 #### SYS.4.4.A11
 __Änderung:__\
+~~Daten SOLLTEN nur verschlüsselt übertragen werden. IoT-Geräte SOLLTEN ein auf Verschlüsselung basierendes Protokoll (z. B. SSL/TLS bzw. SSH) unterstützen.
+Bietet das Produkt selbst keine Verschlüsselung, SOLLTE dies bei der Inbetriebnahme, z. B. über ein Virtual Private Network (VPN), flankierend umgesetzt werden.~~
+
+__zu:__\
 IoT-Geräte SOLLTEN nur Daten verschlüsselt übertragen.
 
 #### SYS.4.4.A13
 __Entfallen:__\
-Dies gilt insbesondere für unsichere Dienste, wie z. B. Telnet oder SNMPv1/v2.
+~~Dies gilt insbesondere für unsichere Dienste, wie z. B. Telnet oder SNMPv1/v2.~~
 
 #### SYS.4.4.A17
 __Änderung:__\
+~~Es SOLLTE überwacht werden, ob Netzverkehr von den IoT-Geräten oder Sensor-Systemen zu Nicht-Managementsystemen erfolgt.~~
+
+__zu:__\
 Es SOLLTE überwacht werden, ob die IoT-Geräte oder Sensor-Systeme nur mit IT-Systemen kommunizieren, die für den Betrieb der IoT-Geräte notwendig sind.
 
 #### SYS.4.4.A19
@@ -3001,13 +3033,19 @@ ___
 
 #### IND.1.A3
 __Entfallen:__\
-Der Bezug und die Verteilung von Signaturen können automatisiert erfolgen.
+~~Der Bezug und die Verteilung von Signaturen können automatisiert erfolgen.~~
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 #### IND.1.A16
 __Änderung:__\
+~~Durch Realisierung einer oder mehrerer Anbindungszonen (DMZ) in P-A-P-Struktur (durch Firewalls gekapselte Application Layer Gateways) KÖNNEN durchgängige Außenverbindungen terminiert werden und erforderliche Sicherheitsprüfungen (Virenschutz, Formatierung von Daten, Prüfung und Filterung von Inhalten, Medienbrüche) erfolgen, ohne dass Anpassungen an der ICS-Anlage notwendig sind.~~
+
+~~Die Umsetzung dieser Anforderung erhöht die Perimetersicherheit.~~
+
+__zu:__\
 Mithilfe von einer oder mehrerer Anbindungszonen (DMZ) in einer P-A-P-Struktur SOLLTEN durchgängige Außenverbindungen terminiert werden.
+Es SOLLTEN zudem erforderliche Sicherheitsprüfungen erfolgen, ohne dass Anpassungen an der ICS-Anlage notwendig sind.
 
 </details>
 
@@ -3033,17 +3071,23 @@ ___
 #### Basis-Anforderungen
 
 #### NET.1.2.A4
-__Entfallen:__ (...) und regelmäßig geändert werden.
+__Entfallen:__ (...) ~~und regelmäßig geändert werden.~~
 
 #### Standard-Anforderungen
 
 #### NET.1.2.A19
 __Änderung:__\
+(...)~~dem Stand der Technik entsprechende~~(...)
+
+__zu:__\
 (...) als sicher geltende (...)
 
 #### NET.1.2.A20
 __Änderung:__\
-(...) durch eine als sicher geltende (...)
+(...)~~dem Stand der Technik entsprechende~~(...)
+
+__zu:__\
+(...) als sicher geltende (...)
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
@@ -3051,7 +3095,7 @@ __Änderung:__\
 __Ergänzung:__\ (...) von den produktiven Netzen (...)
 
 #### NET.1.2.A38
-__Entfallen:__\ (...), mit denen die administrativen Tätigkeiten im Notfall durchgeführt werden können
+__Entfallen:__\ (...), ~~mit denen die administrativen Tätigkeiten im Notfall durchgeführt werden können~~
 
 </details>
 
@@ -3063,10 +3107,15 @@ __Entfallen:__\ (...), mit denen die administrativen Tätigkeiten im Notfall dur
 #### Basis-Anforderungen
 
 #### NET.2.1.A3
-_Entfallen:_ Außerdem MUSS dieser regelmäßig gewechselt werden.
+__Entfallen:__ ~~Außerdem MUSS dieser regelmäßig gewechselt werden.~~
 
 #### NET.2.1.A4
 __Änderung:__\
+~~Access Points MÜSSEN zugriffssicher montiert werden.~~
+~~Darüber hinaus MUSS darauf geachtet werden, dass die Ausbreitung der Funkwellen in Bereichen, die nicht durch das WLAN versorgt werden sollen, möglichst stark reduziert ist.~~
+~~Außeninstallationen MÜSSEN vor Witterungseinflüssen und elektrischen Entladungen wie z. B. Blitzschlag in geeigneter Weise geschützt werden.~~
+
+__zu:__\
 Access Points MÜSSEN zugriffs- und diebstahlsicher montiert werden.
 
 Wenn sie aufgestellt werden, MÜSSEN die erforderlichen Bereiche ausreichend abgedeckt werden.
@@ -3101,24 +3150,39 @@ Für typische Ausfallszenarien SOLLTEN entsprechende Handlungsanweisungen defini
 
 #### NET.3.2.A3
 __Änderung:__\
+~~Auch für die verbindungslosen Protokolle UDP und ICMP SOLLTEN zustandsbehaftete Filterregeln konfiguriert werden.~~
+
+__zu:__\
 Auch für die verbindungslosen Protokolle UDP und ICMP MÜSSEN zustandsbehaftete Filterregeln konfiguriert werden.
 
 #### NET.3.2.A4
 __Änderung:__\
+~~Die Integrität der Konfigurationsdateien SOLLTE geeignet geschützt werden.~~
+
+__zu:__\
 Die Integrität der Konfigurationsdateien MUSS geeignet geschützt werden.
 
 #### NET.3.2.A11
 __Änderung:__\
+~~Vorab SOLLTE auf einem Testsystem überprüft werden, (...)~~
+
+__zu:__\
 Vorab MUSS auf einem Testsystem überprüft werden, (...)
 
 #### Standard-Anforderungen
 
 #### NET.3.2.A18
 __Änderung:__\
+~~Eine eventuell vorhandene Administrationsschnittstelle über das eigentliche Datennetz (In-Band) MUSS deaktiviert werden.~~
+
+__zu:__\
 Eine eventuell vorhandene Administrationsschnittstelle über das eigentliche Datennetz (In-Band) SOLLTE deaktiviert werden.
 
 #### NET.3.2.A21
 __Änderung:__\
+~~Hierbei MÜSSEN die rechtlichen Rahmenbedingungen beachtet werden.~~
+
+__zu:__\
 Hierbei SOLLTEN die rechtlichen Rahmenbedingungen beachtet werden.
 
 </details>
