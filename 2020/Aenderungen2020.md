@@ -760,12 +760,16 @@ __Entfallen:__ ~~Zudem SOLLTEN die in OPS.2.1 Outsourcing für Kunden beschriebe
 __Ergänzung:__ Die Umsetzung des Sicherheitskonzeptes MUSS regelmäßig überprüft werden.
 
 #### CON.7.A12
-__Entfallen:__ Insbesondere im Ausland können Dokumente und andere schutzbedürftige Datenträger nicht immer sicher entsorgt werden.
+__Entfallen:__ ~~Insbesondere im Ausland können Dokumente und andere schutzbedürftige Datenträger nicht immer sicher entsorgt werden.~~
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 #### CON.7.A15
 __Änderung:__\
+~~Informationstragende oder auch bloßstellende Abstrahlung dieser Datenträger und Clients kann von anderen empfangen bzw. abgefangen werden, sodass Informationen rekonstruiert und die Vertraulichkeit dieser Daten in Frage gestellt werden können.
+Die Institution SOLLTE hier prüfen, ob ein solcher Schutzbedarf für vertrauliche Informationen vorliegt, und entsprechend abstrahlarme bzw. -sichere Datenträger und Clients einsetzen.~~
+
+__zu:__\
 Die Institution SOLLTE prüfen, ob die mitgeführten Informationen einen besonderen Schutzbedarf haben, und entsprechend abstrahlarme bzw. -sichere Datenträger und Clients einsetzen.
 
 </details>
@@ -787,19 +791,26 @@ ___
 #### Basis-Anforderungen
 
 #### OPS.1.1.2.A1
-__Änderung:__\
+__Ergänzung:__\
 (...) der von ihnen betreuten IT-Systeme, Anwendungen und Plattformen (...)
 
-__Entfallen:__ (...) und über ausreichende Englischkenntnisse zum Verständnis typischer IT-Dokumentationen verfügen.
+__Entfallen:__ ~~(...) und über ausreichende Englischkenntnisse zum Verständnis typischer IT-Dokumentationen verfügen.~~
 
 __Änderung:__\
 Administrative Rollen MÜSSEN von kontrollierenden Rollen (z. B. Revision) getrennt werden.
 
 __Entfallen:__\
-Diese Anforderungen MÜSSEN auch dann erfüllt werden, wenn administrative Aufgaben an Dritte übertragen werden.
+~~Diese Anforderungen MÜSSEN auch dann erfüllt werden, wenn administrative Aufgaben an Dritte übertragen werden.~~
 
 #### OPS.1.1.2.A5
 __Änderung:__\
+~~Jeder Administrator und jeder Vertreter eines Administrators MUSS eine eigene, eindeutige Administratorkennung haben.
+Die vergebenen Administrationsrechte MÜSSEN sich aus den Erfordernissen der jeweils übernommenen IT-Administrationsaufgaben ableiten.
+Administratoren DÜRFEN unter diesen Kennungen nur administrative Arbeiten durchführen.
+Sie DÜRFEN NICHT für Routinetätigkeiten benutzt werden, für die keine erweiterten Berechtigungen erforderlich sind, z. B. E-Mail-Kommunikation, Informationsrecherche im Internet.
+Für solche Aufgaben MÜSSEN den Administratoren zusätzlich persönliche, nicht privilegierte Konten eingerichtet werden.~~
+
+__zu:__\
 OPS.1.1.2.A5 Nachweisbarkeit von administrativen Tätigkeiten (B)\
 
 Die Institution MUSS jederzeit nachweisen können, welcher Administrator welche Aktion durchgeführt hat.
@@ -811,13 +822,13 @@ Auch Vertreter von Administratoren SOLLTEN eigene Benutzerkennungen erhalten.
 Jeder Anmeldevorgang über eine Administrationskennung (Login) MUSS protokolliert werden.
 
 #### OPS.1.1.2.A6
-__Änderung:__\
+__Ergänzung:__\
 Aktionen und Tätigkeiten, für die keine erhöhten Berechtigungen erforderlich sind, DÜRFEN NICHT mit administrativen Berechtigungen durchgeführt werden.
 
 __Entfallen:__\
-Diese MÜSSEN sicherstellen, dass die Kommunikation nach dem Stand der Technik verschlüsselt ist.
+~~Diese MÜSSEN sicherstellen, dass die Kommunikation nach dem Stand der Technik verschlüsselt ist.~~
 
-Jeder Anmeldevorgang über eine Administrationskennung (Login) MUSS protokolliert werden, sodass nachvollziehbar ist, wann, auf welchem Weg und unter welcher Nutzerkennung auf das System zugegriffen wurde.
+~~Jeder Anmeldevorgang über eine Administrationskennung (Login) MUSS protokolliert werden, sodass nachvollziehbar ist, wann, auf welchem Weg und unter welcher Nutzerkennung auf das System zugegriffen wurde.~~
 
 #### Standard-Anforderungen
 
@@ -832,6 +843,10 @@ __Anforderung entfallen.__
 
 #### OPS.1.1.2.A16
 __Änderung:__\
+~~Bei erhöhtem Schutzbedarf SOLLTE der Zugang zu administrativen Oberflächen oder Schnittstellen mit Filter- und Separierungsmaßnahmen technisch beschränkt werden, d. h. sie SOLLTEN für Personen außerhalb der zuständigen Administrationsteams nicht erreichbar sein.
+Administrative Zugriffe auf IT-Systeme in anderen Schutzzonen SOLLTEN stets mittelbar über einen Sprungserver in der jeweiligen Sicherheitszone erfolgen.~~
+
+__zu:__\
 Der Zugang zu administrativen Oberflächen oder Schnittstellen SOLLTE mit Filter- und Separierungsmaßnahmen technisch beschränkt werden.
 
 Oberflächen und Schnittstellen SOLLTEN für Personen außerhalb der zuständigen Administrationsteams nicht erreichbar sein.
@@ -839,7 +854,7 @@ Oberflächen und Schnittstellen SOLLTEN für Personen außerhalb der zuständige
 Auf IT-Systeme in anderen Schutzzonen SOLLTE ausschließlich über einen Sprungserver in der jeweiligen Sicherheitszone administrativ zugegriffen werden.
 
 #### OPS.1.1.2.A19
-_Entfallen:_ Dies erfordert im Regelfall eine umfassende Hochverfügbarkeitsplanung.
+__Entfallen:__ ~~Dies erfordert im Regelfall eine umfassende Hochverfügbarkeitsplanung.~~
 
 </details>
 
@@ -851,7 +866,7 @@ _Entfallen:_ Dies erfordert im Regelfall eine umfassende Hochverfügbarkeitsplan
 #### Basis-Anforderungen
 
 #### OPS.1.1.3.A3
-__Entfallen:__ (...) um den Vorgaben aus dem Konzept zum Patchmanagement gerecht zu werden.
+__Entfallen:__ ~~(...) um den Vorgaben aus dem Konzept zum Patchmanagement gerecht zu werden.~~
 
 </details>
 
@@ -868,6 +883,11 @@ __Ergänzung:__\
 
 #### OPS.1.1.4.A4
 __Änderung:__\
+~~Es DÜRFEN NUR Produkte für den Enterprise-Bereich mit auf die Institution zugeschnittenen Service- und Supportleistungen eingesetzt werden.
+Produkte für reine Heimanwender oder Produkte ohne Herstellersupport DÜRFEN NICHT im professionellen Betrieb eingesetzt werden.
+Es DÜRFEN NUR Cloud-Funktionen solcher Produkte verwendet werden, bei denen keine gravierenden, nachweisbaren Daten- oder Geheimschutzaspekte dagegen sprechen.~~
+
+__zu:__\
 An das Produkt für Gateways und IT-Systeme zum Datenaustausch MÜSSEN die gleichen Forderungen wie an Endgeräte gestellt werden (siehe OPS.1.1.4.A3 Auswahl eines Virenschutzprogramms für Endgeräte).
 
 </details>
@@ -878,12 +898,6 @@ An das Produkt für Gateways und IT-Systeme zum Datenaustausch MÜSSEN die gleic
 </summary>
 
 #### Standard-Anforderungen
-
-#### OPS.1.1.5.A6
-__Änderung:__\
-Die Protokollierungsinfrastruktur SOLLTE ausreichend dimensioniert sein.
-
-Die Möglichkeit einer Skalierung im Sinne einer erweiterten Protokollierung SOLLTE berücksichtigt werden.
 
 #### OPS.1.1.5.A9
 __Änderung:__\
@@ -903,6 +917,10 @@ __Ergänzung:__\ (...) und diese möglichst vollständig abdecken.
 
 #### OPS.1.1.6.A5
 __Änderung:__\
+~~Insbesondere SOLLTEN sicherheitsspezifische Software-Tests durchgeführt werden, wenn die Anwendung sicherheitskritische Funktionen mitbringt.
+Die durchgeführten Testfälle als auch die Testergebnisse SOLLTEN dokumentiert werden.~~
+
+__zu:__\
 Insbesondere MÜSSEN sicherheitsspezifische Software-Tests durchgeführt werden, wenn die Anwendung sicherheitskritische Funktionen mitbringt.
 
 Die durchgeführten Testfälle, sowie die Testergebnisse, MÜSSEN dokumentiert werden.
@@ -912,9 +930,6 @@ Die durchgeführten Testfälle, sowie die Testergebnisse, MÜSSEN dokumentiert w
 #### OPS.1.1.6.A7
 __Ergänzung:__\
 Darüber hinaus SOLLTE eine entsprechende Rollentrennung erfolgen, sodass Quellcode nicht ausschließlich von Testern überprüft wird, die an der Erstellung des Quellcodes beteiligt waren.
-
-#### OPS.1.1.6.A13
-__Änderung:__ ~~"Testlandschaft" und "Qualitätsmanagement-Umgebung"~~ _zu:_ "Test- und Qualitätsmanagement-Umgebung"
 
 </details>
 
@@ -926,13 +941,21 @@ __Änderung:__ ~~"Testlandschaft" und "Qualitätsmanagement-Umgebung"~~ _zu:_ "T
 #### Basis-Anforderungen
 
 #### OPS.1.2.2.A2
-__Änderung:__ "Management" _zu_ "Institutionsleitung"
+__Änderung:__ ~~"Management"~~ __zu__ "Institutionsleitung"
 
 #### OPS.1.2.2.A6
-__Änderung:__ Mittlere und große Archive SOLLTEN über redundante Indexdatenbanken verfügen.
+__Änderung:__
+~~Mittlere und große Archive MÜSSEN über redundante Indexdatenbanken verfügen.~~
+
+__zu:__\
+Mittlere und große Archive SOLLTEN über redundante Indexdatenbanken verfügen.
 
 #### OPS.1.2.2.A12
-__Änderung:__ Die auf den Archivmedien vorhandene freie Speicherkapazität SOLLTE kontinuierlich überwacht werden.
+__Änderung:__ 
+~~Die auf den Archivmedien vorhandene freie Speicherkapazität MUSS kontinuierlich überwacht werden.~~
+
+__zu:__\
+Die auf den Archivmedien vorhandene freie Speicherkapazität SOLLTE kontinuierlich überwacht werden.
 
 #### OPS.1.2.2.A16
 __Ergänzung:__\
@@ -971,11 +994,10 @@ __OPS.1.2.3 ist vollständig entfallen.__
 
 #### OPS.1.2.4.A2
 __Änderung:__\
-Alle Zugangsmöglichkeiten auf die Server der Institution sowie alle Zugriffsrechte auf die darauf gespeicherten Informationen MÜSSEN auf das notwendige Mindestmaß beschränkt sein.
+~~Alle Zugangs- und Zugriffsmöglichkeiten auf die Kommunikationsrechner der Institution MÜSSEN auf das notwendige Mindestmaß beschränkt sein.~~
 
-#### OPS.1.2.4.A4
-__Änderung:__\
-Alle Daten, die bei der Telearbeit erstellt und bearbeitet werden, MÜSSEN zeitnah gesichert werden.
+__zu:__\
+Alle Zugangsmöglichkeiten auf die Server der Institution sowie alle Zugriffsrechte auf die darauf gespeicherten Informationen MÜSSEN auf das notwendige Mindestmaß beschränkt sein.
 
 </details>
 
@@ -1022,8 +1044,6 @@ __Ergänzung:__ Für die genutzten Cloud-Dienste SOLLTE durch den Cloud-Kunden e
 #### OPS.2.2.A12
 __Ergänzung:__ Alle für die eingesetzten Cloud-Dienste erstellten Dokumentationen und Richtlinien SOLLTEN durch den Cloud-Kunden regelmäßig aktualisiert werden.
 
-__Änderung:__ Auch SOLLTEN sich der Cloud-Diensteanbieter und der Cloud-Kunde nach Möglichkeit regelmäßig abstimmen.
-
 #### OPS.2.2.A14
 __Ergänzung:__ (...) oder die Fachaufgaben des Cloud-Kunden (...)
 
@@ -1040,7 +1060,7 @@ __Diese Anforderungen sind entfallen.__
 #### Basis-Anforderungen
 
 #### OPS.3.1.A7
-__Änderung:__ "Mandantenkonzept" __ersetzt durch__ "Mandantentrennungskonzept"
+__Änderung:__ ~~"Mandantenkonzept"~~ __ersetzt durch__ "Mandantentrennungskonzept"
 
 </details>
 
@@ -1054,12 +1074,16 @@ ___
 #### Basis-Anforderungen
 
 #### DER.1.A5
-__Änderung:__ Liegt ein sicherheitsrelevanter Vorfall vor, MÜSSEN die Meldungen der betroffenen IT-Systeme ausgewertet werden.
+__Änderung:__
+~~Liegt ein sicherheitsrelevanter Vorfall vor, MÜSSEN die Meldungen mindestens lokal ausgewertet werden.~~
+
+__zu:__\
+Liegt ein sicherheitsrelevanter Vorfall vor, MÜSSEN die Meldungen der betroffenen IT-Systeme ausgewertet werden.
 
 #### Standard-Anforderungen
 
 #### DER.1.A13
-__Änderung:__ (...) in regelmäßigen Audits (...)
+__Ergänzung:__ (...) in regelmäßigen Audits (...)
 
 </details>
 
@@ -1067,12 +1091,6 @@ __Änderung:__ (...) in regelmäßigen Audits (...)
 <details>
 <summary> Änderungen
 </summary>
-
-#### Basis-Anforderungen
-
-#### DER.2.1.A6
-__Änderung:__\
-Nach einem Angriff MÜSSEN alle Zugangsdaten auf den betroffenen Komponenten geändert werden, bevor sie wieder in Betrieb genommen werden.
 
 #### Standard-Anforderungen
 
@@ -1086,8 +1104,8 @@ __Ergänzung:__ (...) wie z. B. Ticket-Systeme (...)
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 #### DER.2.1.A22
-__Änderung:__\
-Es SOLLTEN die Messgrößen ausgewertet werden, die anfallen, wenn Sicherheitsvorfälle aufgenommen, gemeldet und eskaliert werden, z. B. die Zeiträume von der Erstmeldung bis zur verbindlichen Bestätigung eines Sicherheitsvorfalls.
+__Ergänzung:__\
+(Es SOLLTEN die Messgrößen ausgewertet werden, die anfallen, wenn Sicherheitsvorfälle aufgenommen, gemeldet und eskaliert werden,) z. B. die Zeiträume von der Erstmeldung bis zur verbindlichen Bestätigung eines Sicherheitsvorfalls.
 
 </details>
 
@@ -1106,6 +1124,9 @@ Im Einzelfall kann es jedoch notwendig sein, das Interesse der Institution gegen
 
 #### DER.2.2.A10
 __Änderung:__\
+~~Existieren kryptografische Prüfsummen von forensischen Kopien oder Originalen, kann die Integrität auch darüber nachgewiesen werden.~~
+
+__zu:__\
 Es SOLLTEN schriftlich dokumentierte kryptografische Prüfsummen von den Datenträgern angelegt werden.
 
 </details>
@@ -1119,10 +1140,10 @@ Es SOLLTEN schriftlich dokumentierte kryptografische Prüfsummen von den Datentr
 
 #### DER.3.1.A1
 __Änderung:__\
-Der Verantwortliche MUSS sicherstellen, dass die Ergebnisse der Audits und Revisionen dazu verwendet werden, um die Sicherheitsmaßnahmen zu verbessern.
+~~Der Verantwortliche MUSS überwachen, dass die Ergebnisse der Audits und Revisionen bearbeitet werden.~~
 
-#### DER.3.1.A6
-__Änderung:__ Die Institution SOLLTE eine einheitliche Prüfungsgrundlage für Audits festlegen.
+__zu:__\
+Der Verantwortliche MUSS sicherstellen, dass die Ergebnisse der Audits und Revisionen dazu verwendet werden, um die Sicherheitsmaßnahmen zu verbessern.
 
 #### DER.3.1.A7
 __Änderung:__\
@@ -1133,19 +1154,22 @@ Der ISB SOLLTE Reserven für unvorhergesehene Ereignisse in der jährlichen Ress
 
 #### DER.3.1.A8
 __Änderung:__\
+~~Es SOLLTE ein Auditprogramm für mehrere Jahre aufgestellt werden, das alle durchzuführenden Audits und Revisionen erfasst.~~
+
+__zu:__\
 Der ISB SOLLTE eine oder mehrere Revisionslisten pflegen, die den aktuellen Stand der Revisionsobjekte sowie die geplanten Revisionen dokumentieren.
 
 #### DER.3.1.A11
-__Änderung:__ Das Auditteam SOLLTE klare Regelungen (...)
+__Ergänzung:__ Das Auditteam SOLLTE klare Regelungen (...)
 
-__Änderung:__ Das Auditteam SOLLTE durch geeignete Maßnahmen (...)
+__Ergänzung:__ Das Auditteam SOLLTE durch geeignete Maßnahmen (...)
 
 #### DER.3.1.A14
-__Änderung:__"Maßnahmen" _ersetz durch_ "Anforderungen".
+__Änderung:__ ~~"Maßnahmen"~~ _ersetz durch_ "Anforderungen".
 
 #### DER.3.1.A22
 __Entfallen:__\
-Die Ergebnisse des Audits SOLLTEN den Verantwortlichen in einer Präsentation erläutert werden.
+~~Die Ergebnisse des Audits SOLLTEN den Verantwortlichen in einer Präsentation erläutert werden.~~
 
 </details>
 
@@ -1158,22 +1182,31 @@ Die Ergebnisse des Audits SOLLTEN den Verantwortlichen in einer Präsentation er
 
 #### DER.3.2.A4
 __Änderung:__\
+~~Institutionen, deren gesamte Organisation nicht nach ISO 27001 auf der Basis von IT-Grundschutz zertifiziert sind, MÜSSEN mindestens alle drei Jahre eine IS-Kurz- oder IS-Querschnitts-Revision durchführen lassen.~~
+
+__zu:__\
 Wenn die Institution nicht nach ISO 27001 auf Basis von IT-Grundschutz zertifiziert ist, MÜSSEN der Verantwortliche für die IS-Revision und die Institutionsleitung sicherstellen, dass mindestens alle drei Jahre eine IS-Kurz- oder Querschnitts-Revision durchgeführt wird.
 
 #### DER.3.2.A6
 __Entfallen:__\
-Die Institutionsleitung MUSS das IS-Revisionsverfahren initiieren.
+~~Die Institutionsleitung MUSS das IS-Revisionsverfahren initiieren.~~
 
 #### Standard-Anforderungen
 
 #### DER.3.2.A9
 __Änderung:__\
+~~Es SOLLTE sichergestellt werden, dass IS-Revisionen ein Teil des Sicherheitsprozesses sind und durch diesen initiiert werden.~~
+
+__zu:__\
 Der Informationssicherheitsbeauftragte SOLLTE sicherstellen, dass IS-Revisionen ein Teil des Sicherheitsprozesses sind.
 
 #### DER.3.2.A15
 
 #### DER.3.2.A22
 __Änderung:__\
+~~Die im IS-Revisionsbericht festgestellten Abweichungen SOLLTEN in einer angemessenen Zeit abgestellt werden.~~
+
+__zu:__\
 Die im IS-Revisionsbericht festgestellten Abweichungen SOLLTEN in einer angemessenen Zeit durch den ISB korrigiert werden.
 
 </details>
@@ -1208,6 +1241,9 @@ Die Überprüfungen SOLLTEN so geplant werden, dass kein relevanter Teil ausgela
 
 #### DER.4.A15
 __Änderung:__\
+~~Diese Messgrößen SOLLTEN regelmäßig ermittelt und mit den Vorjahreswerten verglichen werden.~~
+
+__zu:__\
 Diese Messgrößen SOLLTEN regelmäßig ermittelt und mit geeigneten vorangegangenen Werten, mindestens aber mit den Vorjahreswerten, verglichen werden.
 
 </details>
