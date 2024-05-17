@@ -2023,14 +2023,19 @@ Notfallübungen zur Systemwiederherstellung SOLLTEN regelmäßig durchgeführt w
 
 #### APP.5.2.A1
 __Entfallen:__\
-• Absicherung der Zugangsports der Server-/Client-Komponenten,
+~~• Absicherung der Zugangsports der Server-/Client-Komponenten,~~
 
-• Vertraulichkeit, Integrität und Verfügbarkeit,
+~~• Vertraulichkeit, Integrität und Verfügbarkeit,~~
 
-• Integration der Server- und Client-Systeme in die hierfür vorgesehenen Netzsegmente.
+~~• Integration der Server- und Client-Systeme in die hierfür vorgesehenen Netzsegmente.~~
 
 #### APP.5.2.A3
 __Änderung:__\
+~~Für die Systeme der Microsoft Exchange-Infrastruktur MUSS ein Berichtigungskonzept erstellt, geeignet dokumentiert und angewendet werden.
+Es MÜSSEN den privilegierten Anwendern sowie den Administratoren nur so viele Berechtigungen eingeräumt werden, wie für die Aufgabenerfüllung notwendig ist (Minimalprinzip).
+Es MUSS regelmäßig überprüft werden, ob die zugeteilten Rechte noch angemessen sind.~~
+
+__zu__:\
 Zusätzlich zum allgemeinen Berechtigungskonzept MUSS die Institution ein Berichtigungskonzept für die Systeme der Microsoft Exchange-Infrastruktur erstellen, geeignet dokumentieren und anwenden.
 
 Der IT-Betrieb MUSS serverseitige Benutzerprofile für einen rechnerunabhängigen Zugriff der Benutzer auf Microsoft Exchange-Daten verwenden.
@@ -2059,6 +2064,13 @@ Die Systeme, auf denen Microsoft Exchange und Outlook installiert werden soll, S
 
 #### APP.5.2.A7
 __Änderung:__\
+~~APP.5.2.A7 Migration von Microsoft Exchange-Systemen
+Alle Migrationsschritte SOLLTEN gründlich geplant und dokumentiert werden.
+Es SOLLTEN die Microsoft Windows-Systemadministratoren an der Planung beteiligt werden.
+Es SOLLTEN bei der Planung der Migration Postfächer, Objekte, Sicherheitsrichtlinien, Active Directory-Konzepte, E-Mail-Systeme und Funktionsunterschiede bei Microsoft Exchange und Outlook in den verschiedenen Versionen berücksichtigt werden.
+Das neue System SOLLTE, bevor es installiert wird, in einem separaten Testnetz geprüft werden, um Softwarefehlern und Kompatibilätsproblemen entgegenzuwirken.~~
+
+__zu:__\
 Der IT-Betrieb SOLLTE alle Migrationsschritte gründlich planen und dokumentieren.
 
 Der IT-Betrieb SOLLTE dabei Postfächer, Objekte, Sicherheitsrichtlinien, Active-Directory-Konzepte sowie die Anbindung an andere E-Mail-Systeme berücksichtigen.
@@ -2078,6 +2090,14 @@ Generell SOLLTE darauf geachtet werden, dass Patches und Updates nur aus vertrau
 
 #### APP.5.2.A9
 __Änderung:__\
+~~APP.5.2.A9 Sichere Konfiguration von Microsoft Exchange-Servern
+Microsoft Exchange-Server SOLLTEN aufbauend auf den Vorgaben aus dem Sicherheitskonzept konfiguriert werden.
+Es SOLLTE eine maximal zulässige Größe sowohl für eingehende als auch für ausgehende Nachrichten eingestellt werden.
+Vorhandene Konnektoren SOLLTEN geeignet konfiguriert werden.
+Die Protokollierung des Microsoft-Exchange-Systems SOLLTE aktiviert werden. Für vorhandenes Customizing SOLLTE ein entsprechendes Konzept erstellt werden.
+Bei der Verwendung von funktionalen Erweiterungen (z. B. Microsoft Exchange ActiveSync, Spiegelport, Spamfilter, Outlook Web-App oder Data Loss Prevention) SOLLTE sichergestellt sein, dass die definierten Anforderungen an die Schutzziele Vertraulichkeit, Integrität und Verfügbarkeit weiterhin erfüllt sind.~~
+
+__zu:__\
 Der IT-Betrieb SOLLTE Microsoft Exchange-Server entsprechend der Vorgaben aus der Sicherheitsrichtlinie installieren und konfigurieren.
 Konnektoren SOLLTEN sicher konfiguriert werden.
 
@@ -2089,6 +2109,15 @@ Bei der Verwendung von funktionalen Erweiterungen SOLLTE sichergestellt sein, da
 
 #### APP.5.2.A10
 __Änderung:__\
+~~APP.5.2.A10 Einstellungen von Outlook
+Nur Administratoren SOLLTEN die Outlook-Umgebung ändern können.
+Dazu SOLLTE für jeden Anwender ein eigenes Outlook-Profil mit den benutzerspezifischen Einstellungen angelegt werden.
+Die Anwender SOLLTEN nur ausgewählte Einstellungen (z. B. Signatur einrichten, Abwesenheitsagent aktivieren) benutzerdefiniert verändern können.
+Dateianhänge SOLLTEN prinzipiell nicht automatisch aus E-Mails heraus geöffnet werden können.
+Vorschaufenster und die Autovorschau SOLLTE deaktiviert werden.
+E-Mails SOLLTEN NICHT automatisiert weitergeleitet werden.~~
+
+__zu:__\
 APP.5.2.A10 Sichere Konfiguration von Outlook (S)\
 
 Der IT-Betrieb SOLLTE für jeden Benutzer ein eigenes Outlook-Profil mit benutzerspezifischen Einstellungen anlegen.
@@ -2107,6 +2136,17 @@ Lesebestätigungen und Informationen, die auf die interne Struktur der Instituti
 
 #### APP.5.2.A11
 __Änderung:__\
+~~Es SOLLTE nachvollziehbar entschieden werden, mit welchen Schutzmechanismen die Kommunikation von und zu Microsoft Exchange-Systemen abgesichert wird.
+Es SOLLTE entschieden und nachvollziehbar dokumentiert werden, welches der verschiedenen möglichen Verfahren Internet Protocol Security (IPSec) oder Transport Layer Security (TLS) eingesetzt werden soll.
+Es SOLLTEN die
+• Administrationsschnittstellen,
+• Client-Server-Kommunikation,
+• vorhandene Web-based-Distributed-Authoring-and-Versioning-(WebDAV)-Schnittstellen,
+• die Server-Server-Kommunikation, die Nachrichten-Kommunikation und
+• die Public-Key-Infrastruktur, die auf der E-Mail-Verschlüsselung von Microsoft Outlook (S/MIME) basieren,
+verschlüsselt werden.~~
+
+__zu:__\
 Der IT-Betrieb SOLLTE nachvollziehbar entscheiden, mit welchen Schutzmechanismen die Kommunikation zwischen Microsoft Exchange-Systemen abgesichert wird.
 
 Insbesondere SOLLTE der IT-Betrieb festlegen, wie die Kommunikation zu folgenden Schnittstellen abgesichert wird:
@@ -2123,6 +2163,11 @@ Insbesondere SOLLTE der IT-Betrieb festlegen, wie die Kommunikation zu folgenden
 
 #### APP.5.2.A12
 __Änderung:__\
+~~Outlook Anywhere SOLLTE entsprechend den Sicherheitsanforderungen der Institution konfiguriert werden.
+Der Zugriff auf Microsoft Exchange über das Internet SOLLTE auf die notwendigen Anwender beschränkt werden.
+Die Kommunikation zu Outlook Anywhere SOLLTE verschlüsselt werden (siehe APP.5.2.A11 Absicherung der Kommunikation von und zu Microsoft Exchange-Systemen).~~
+
+__zu:__\
 APP.5.2.A12 Einsatz von Outlook Anywhere, MAPI over HTTP und Outlook Web App (S)\
 
 Der IT-Betrieb SOLLTE Outlook Anywhere, MAPI over HTTP und die Outlook Web App entsprechend den Sicherheitsanforderungen der Institution konfigurieren.
@@ -2136,6 +2181,11 @@ Für den Betrieb der Komponenten der Microsoft Exchange-Infrastruktur SOLLTE nur
 
 #### APP.5.2.A14
 __Änderung:__\
+~~Outlook-Anwender SOLLTEN regelmäßig über bestehende und neue Gefahren beim Arbeiten mit Microsoft Outlook sensibilisiert und geschult werden.
+Allen Anwendern SOLLTEN relevante Sicherheitsmechanismen und die entsprechenden Vorgehensweisen innerhalb von Outlook vermittelt werden.
+Hierbei SOLLTEN Regelungen, z. B. für Zugriffsmechanismen, Authentisierungsformen und kryptografische Vorgaben für die E-Mail-Verschlüsselung, berücksichtigt werden.~~
+
+__zu:__\
 Zusätzlich zum allgemeinen Schulungs- und Sensibilisierungsprogramm SOLLTE die Institution ein Schulungskonzept erarbeiten, das auf die besonderen Gefahren und Sicherheitsmaßnahmen bei Outlook eingeht.
 
 Die Institution SOLLTE die Benutzer von Outlook regelmäßig entsprechend dem Konzept schulen.
@@ -2192,12 +2242,18 @@ ___
 
 #### SYS.1.1.A1
 __Entfallen:__\
-Server DÜRFEN NICHT als Arbeitsplatzrechner genutzt werden.
+~~Server DÜRFEN NICHT als Arbeitsplatzrechner genutzt werden.~~
 
-Es MUSS gewährleistet werden, dass nur dafür vorgesehene Wechselspeicher und sonstige Geräte an die Server angeschlossen werden können.
+~~Es MUSS gewährleistet werden, dass nur dafür vorgesehene Wechselspeicher und sonstige Geräte an die Server angeschlossen werden können.~~
 
 #### SYS.1.1.A2
 __Änderung:__\
+~~Um den Server zu nutzen, MÜSSEN sich die Benutzer gegenüber dem IT-System authentisieren.
+Sollen hierfür die Benutzer und Administratoren Passwörter verwenden, MÜSSEN sichere Passwörter benutzt werden.
+Hierfür SOLLTE es eine Passwort-Richtlinie geben.
+Diese Passwörter MÜSSEN komplex genug sein, geheim gehalten und regelmäßig gewechselt werden.~~
+
+__zu:__\
 Für die Anmeldung von Benutzern und Diensten am Server MÜSSEN Authentisierungsverfahren eingesetzt werden, die dem Schutzbedarf der Server angemessen sind.
 
 Dies SOLLTE in besonderem Maße für administrative Zugänge berücksichtigt werden.
@@ -2208,11 +2264,11 @@ Für sichere Passwörter SOLLTE es eine Passwort-Richtlinie geben.
 
 #### SYS.1.1.A5
 __Entfallen:__\
-Für die Anmeldung von Benutzern und Diensten am System MÜSSEN Authentisierungsverfahren eingesetzt werden, die dem Schutzbedarf der Server angemessen sind.
+~~Für die Anmeldung von Benutzern und Diensten am System MÜSSEN Authentisierungsverfahren eingesetzt werden, die dem Schutzbedarf der Server angemessen sind.~~
 
-Dies SOLLTE in besonderem Maße für administrative Zugänge berücksichtigt werden.
+~~Dies SOLLTE in besonderem Maße für administrative Zugänge berücksichtigt werden.~~
 
-Soweit möglich, SOLLTE dabei auf zentrale, netzbasierte Authentisierungsdienste zurückgegriffen werden.
+~~Soweit möglich, SOLLTE dabei auf zentrale, netzbasierte Authentisierungsdienste zurückgegriffen werden.~~
 
 __Ergänzung:__\
 Es MUSS gewährleistet werden, dass nur dafür vorgesehene Wechselspeicher und sonstige Geräte an die Server angeschlossen werden können.
@@ -2235,7 +2291,7 @@ __Ergänzung:__\
 
 #### SYS.1.1.A16
 __Entfallen:__\
-Server SOLLTEN so aufgesetzt werden, dass bei der Installation ausschließlich die benötigten Dienste ausgewählt werden.
+~~Server SOLLTEN so aufgesetzt werden, dass bei der Installation ausschließlich die benötigten Dienste ausgewählt werden.~~
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
@@ -2268,11 +2324,7 @@ __Ergänzung:__\
 
 #### SYS.1.2.2.A6
 __Entfallen:__\
-(...) damit die Passwörter der Dienste regelmäßig und vollautomatisch gemäß der AD-Richtlinien gewechselt werden.
-
-#### SYS.1.2.2.A7
-__Änderung:__\
-SYS.1.2.2.A7 Prüfung der Sicherheitskonfiguration von Windows Server 2012 (S)
+~~(...) damit die Passwörter der Dienste regelmäßig und vollautomatisch gemäß der AD-Richtlinien gewechselt werden.~~
 
 </details>
 
@@ -2290,16 +2342,22 @@ Keine inhaltlichen Änderungen.
 
 #### SYS.1.5.A5
 __Änderung:__\
+~~SOLLTEN ausreichend verschlüsselte Protokolle eingesetzt werden.~~
+
+__zu:__\
 (...) SOLLTEN als sicher geltende Protokolle eingesetzt werden.
 
 __Änderung:__\
+~~Sollte dennoch auf unverschlüsselte und damit unsichere Protokolle zurückgegriffen werden,~~
+
+__zu:__\
 Sollte dennoch auf unsichere Protokolle zurückgegriffen werden, (...)
 
 #### Standard-Anforderungen
 
 #### SYS.1.5.A9
 __Entfallen:__\
-Dafür SOLLTE der Baustein NET.1.1 Netzarchitektur und -design berücksichtigt werden.
+~~Dafür SOLLTE der Baustein NET.1.1 Netzarchitektur und -design berücksichtigt werden.~~
 
 </details>
 
@@ -2312,7 +2370,7 @@ Dafür SOLLTE der Baustein NET.1.1 Netzarchitektur und -design berücksichtigt w
 
 #### SYS.1.7.A31
 __Entfallen:__\
-Für den Fall, dass alle Kennungen mit SPECIAL-Rechten gesperrt sind oder dass in einer Notsituation kein RACF-Administrator zur Verfügung steht, SOLLTE ein Not-User-Verfahren eingerichtet werden.
+~~Für den Fall, dass alle Kennungen mit SPECIAL-Rechten gesperrt sind oder dass in einer Notsituation kein RACF-Administrator zur Verfügung steht, SOLLTE ein Not-User-Verfahren eingerichtet werden.~~
 
 </details>
 
@@ -2326,6 +2384,10 @@ Für den Fall, dass alle Kennungen mit SPECIAL-Rechten gesperrt sind oder dass i
 
 #### SYS.1.8.A4
 __Änderung:__\
+~~Es SOLLTEN ausreichend verschlüsselte Protokolle eingesetzt werden.
+Sollte dennoch auf unverschlüsselte und damit unsichere Protokolle zurückgegriffen werden, MUSS für die Administration ein eigenes Administrationsnetz genutzt werden.~~
+
+__zu:__\
 Es SOLLTEN als sicher geltende Protokolle eingesetzt werden.
 
 Sollten dennoch unsichere Protokolle verwendet werden, MUSS für die Administration ein eigenes Administrationsnetz genutzt werden.
@@ -2341,9 +2403,9 @@ Sollten dennoch unsichere Protokolle verwendet werden, MUSS für die Administrat
 
 #### SYS.2.1.A4
 __Entfallen:__\
-In den meisten Rechnersystemen können diese weitgehend automatisiert erfolgen.
+~~In den meisten Rechnersystemen können diese weitgehend automatisiert erfolgen.~~
 
-Es MÜSSEN Regelungen getroffen werden, welche lokal abgespeicherten Daten von wem wann gesichert werden.
+~~Es MÜSSEN Regelungen getroffen werden, welche lokal abgespeicherten Daten von wem wann gesichert werden.~~
 
 #### SYS.2.1.A7
 __Ergänzung:__\
@@ -2353,7 +2415,7 @@ Es SOLLTE geprüft werden, ob die Speicherung der Protokolldaten auf den jeweili
 
 #### SYS.2.1.A22
 __Entfallen:__\
-Wenn technisch möglich, SOLLTE die Bildschirmsperre nach längerer Inaktivität automatisch aktiviert bzw. der Benutzer automatisch abgemeldet werden.
+~~Wenn technisch möglich, SOLLTE die Bildschirmsperre nach längerer Inaktivität automatisch aktiviert bzw. der Benutzer automatisch abgemeldet werden.~~
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
@@ -2387,17 +2449,10 @@ Nach einem funktionalen Update des Betriebssystems MUSS überprüft werden, ob a
 
 #### SYS.2.2.3.A4
 __Änderung:__\
+~~Die Telemetriedienste, also die Diagnose- und Nutzungsdaten, die Microsoft zur Identifizierung und Lösung von Problemen, zur Verbesserung der Dienste und Produkte und zur Personalisierung des Systems mit eindeutigen Identifizierungsmerkmalen verknüpft in die USA überträgt, können im Betriebssystem nicht vollständig abgeschaltet werden.~~
+
+__zu:__\
 Es MUSS durch geeignete Maßnahmen, etwa auf Netzebene, sichergestellt werden, dass Daten der Telemetriedienste nicht an Microsoft übertragen werden.
-
-#### Standard-Anforderungen
-
-#### SYS.2.2.3.A11
-__Änderung:__\
-Zusätzlich SOLLTE der Windows Defender Credential Guard gegen (...)
-
-#### SYS.2.2.3.A17
-__Änderung:__\
-SYS.2.2.3.A17 Keine Speicherung von Daten zur automatischen Anmeldung (S)
 
 </details>
 
@@ -2428,6 +2483,9 @@ Es SOLLTE geprüft werden, ob ein institutioneller Wiederherstellungsschlüssel 
 
 #### SYS.2.4.A5
 __Änderung:__\
+~~SYS.2.4.A5 Erhöhung des Schutzes von Daten~~
+
+__zu:__\
 SYS.2.4.A5 Deaktivierung sicherheitskritischer Funktionen von macOS (S)
 
 #### SYS.2.4.A8
@@ -2468,6 +2526,9 @@ Keine inhaltlichen Änderungen.
 
 #### SYS.3.2.1.A2
 __Änderung:__\
+~~Die Institution MUSS für mobile Endgeräte eine generelle Strategie für die Cloud-Nutzung und Informationskontrolle sowie für den Schutz der Informationen festlegen.~~
+
+__zu:__\
 (...) im Zusammenhang mit Smartphones und Tablets eine generelle Strategie (...)
 
 #### SYS.3.2.1.A6
