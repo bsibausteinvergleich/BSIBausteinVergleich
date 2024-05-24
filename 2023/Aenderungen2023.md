@@ -336,7 +336,7 @@ Diese Anforderung wurde neu hinzugefügt.
 
 #### NEU: ORP.1.A17
 
-Die Diese Anforderung wurde neu hinzugefügt.
+Diese Anforderung wurde neu hinzugefügt.
 
 </details>
 
@@ -1447,7 +1447,7 @@ __Geändert:__
 
 #### NEU: SYS.2.2.3.A26
 
-Die Diese Anforderung wurde neu hinzugefügt.
+Diese Anforderung wurde neu hinzugefügt.
 
 </details>
 
