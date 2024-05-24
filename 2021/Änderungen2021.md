@@ -79,7 +79,7 @@ Die Management-Berichte SOLLTEN revisionssicher archiviert werden.
 Die Management-Entscheidungen SOLLTEN revisionssicher archiviert werden.
 
 
-#### ISMS.1.A13 ENTFALLEN
+#### ENTFALLEN: ISMS.1.A13
 
 __Ehemals:__
 
@@ -145,7 +145,7 @@ Die Mitarbeiter der Institution MÜSSEN institutionsfremde Personen in sensiblen
 
 Die Mitarbeiter SOLLTEN dazu angehalten werden, institutionsfremde Personen in den Räumen der Institution nicht unbeaufsichtigt zu lassen.
 
-#### ORP.1.A5 ENTFALLEN
+#### ENTFALLEN: ORP.1.A5
 
 __Ehemals:__
 
@@ -159,7 +159,7 @@ Diese Anforderung wurde neu hinzugefügt.
 
 #### Standard-Anforderungen
 
-#### ORP.1.A6 ENTFALLEN
+#### ENTFALLEN: ORP.1.A6
 
 __Ehemals:__
 
@@ -170,7 +170,7 @@ __Ehemals:__
 *Arbeitsplätze SOLLTEN stichprobenartig daraufhin kontrolliert werden, ob schützenswerte Informationen offen zugänglich sind.*
 
 
-#### ORP.1.A7 ENTFALLEN
+#### ENTFALLEN: ORP.1.A7
 
 __Ehemals:__
 
@@ -183,10 +183,10 @@ __Ehemals:__
 *Vor der ersten Inbetriebnahme der Geräte SOLLTEN geeignete Prüf- und Genehmigungsverfahren vorgeschaltet werden.*
 
 
-#### ORP.1.A9 ENTFALLEN
+#### ENTFALLEN: ORP.1.A9
 
 
-#### ORP.1.A10 ENTFALLEN
+#### ENTFALLEN: ORP.1.A10
 
 __Ehemals:__
 
@@ -195,7 +195,7 @@ __Ehemals:__
 *Es SOLLTE geregelt sein, welche Reaktionen bei Verdacht auf Verletzungen der Sicherheitsvorgaben erfolgen, um eine zielgerichtete und zeitnahe Reaktion zu ermöglichen.*
 
 
-#### ORP.1.A11 ENTFALLEN
+#### ENTFALLEN: ORP.1.A11
 
 __Ehemals:__
 
@@ -204,7 +204,7 @@ __Ehemals:__
 *Die Personalvertretung SOLLTE rechtzeitig informiert und beteiligt werden, wenn Verfahren oder Projekte sie betreffen.*
 
 
-#### ORP.1.A12 ENTFALLEN
+#### ENTFALLEN: ORP.1.A12
 
 __Ehemals:__
 
@@ -231,7 +231,7 @@ __Entfallen:__
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
-#### ORP.1.A14 ENTFALLEN
+#### ENTFALLEN: ORP.1.A14
 
 __Ehemals:__
 
@@ -302,7 +302,7 @@ Damit alle verbundenen Aufgaben, die beim Ausscheiden des Mitarbeiters anfallen,
 
 #### Standard-Anforderungen
 
-#### ORP.2.A6 ENTFALLEN
+#### ENTFALLEN: ORP.2.A6
 
 __Ehemals:__
 
@@ -328,7 +328,7 @@ Insbesondere SOLLTE sorgfältig geprüft werden, ob der vorgelegte Lebenslauf ko
 Dabei SOLLTEN auffällig erscheinende Angaben überprüft werden.
 
 
-#### ORP.2.A8 ENTFALLEN
+#### ENTFALLEN: ORP.2.A8
 
 __Ehemals:__
 
@@ -341,7 +341,7 @@ __Ehemals:__
 *Insbesondere SOLLTE vereinbart sein, dass jeder Mitarbeiter auch außerhalb der Arbeitszeit und außerhalb des Betriebsgeländes für die Informationssicherheit der Institution zuständig ist.*
 
 
-#### ORP.2.A9 ENTFALLEN
+#### ENTFALLEN: ORP.2.A9
 
 __Ehemals:__
 
@@ -362,7 +362,7 @@ __Ehemals:__
 *Bei größerem Schulungsbedarf SOLLTEN einzelne Mitarbeiter gesondert geschult und innerhalb des Tätigkeitsbereichs als Multiplikatoren für die übrigen Mitarbeiter eingesetzt werden.*
 
 
-#### ORP.2.A10 ENTFALLEN
+#### ENTFALLEN: ORP.2.A10
 
 __Ehemals:__
 
@@ -372,7 +372,7 @@ __Ehemals:__
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
-#### ORP.2.A11 ENTFALLEN
+#### ENTFALLEN: ORP.2.A11
 
 __Ehemals:__
 
@@ -385,7 +385,7 @@ __Ehemals:__
 *Darauf aufbauend SOLLTE untersucht werden, an welcher Stelle die personelle und organisatorische Sicherheit noch verbessert werden kann.*
 
 
-#### ORP.2.A12 ENTFALLEN
+#### ENTFALLEN: ORP.2.A12
 
 __Ehemals:__
 
@@ -413,7 +413,7 @@ Diesbezüglich SOLLTE der ISB den Geheimschutzbeauftragten bzw. Sicherheitsbevol
 
 #### Basis-Anforderungen
 
-#### ORP.3.A2 ENTFALLEN
+#### ENTFALLEN: ORP.3.A2
 
 __Ehemals:__
 
@@ -436,7 +436,7 @@ Es SOLLTE ein zielgruppenorientiertes Sensibilisierungs- und Schulungsprogramm z
 Dieses Schulungsprogramm SOLLTE den Mitarbeitern alle Informationen und Fähigkeiten vermitteln, die erforderlich sind, um in der Institution geltende Sicherheitsregelungen und -maßnahmen umsetzen zu können.
 
 
-#### ORP.3.A5 ENTFALLEN
+#### ENTFALLEN: ORP.3.A5
 
 __Ehemals:__
 
@@ -587,7 +587,7 @@ __Hinzugefügt:__:
 Führungskräfte, die eine rechtliche Verantwortung für die Institution tragen, MÜSSEN für die Einhaltung der gesetzlichen, vertraglichen und sonstigen Vorgaben sorgen.
 
 
-#### ORP.5.A3 ENTFALLEN
+#### ENTFALLEN: ORP.5.A3
 
 __Ehemals:__
 
@@ -612,7 +612,7 @@ __Geändert:__
 Dafür SOLLTEN Zuständige für das Compliance Management festgelegt werden.
 
 
-#### ORP.5.A6 ENTFALLEN
+#### ENTFALLEN: ORP.5.A6
 
 __Ehemals:__
 
@@ -753,7 +753,7 @@ Die mit der Löschung und Vernichtung beauftragten Unternehmen SOLLTEN regelmä�
 
 #### Standard-Anforderungen
 
-#### CON.6.A3 ENTFALLEN
+#### ENTFALLEN: CON.6.A3
 
 __Ehemals:__
 
@@ -781,7 +781,7 @@ Die ausgewählten Verfahrensweisen SOLLTEN allen verantwortlichen Mitarbeitern b
 Die Institution SOLLTE regelmäßig kontrollieren, ob die gewählten Verfahren noch dem Stand der Technik entsprechen und für die Institution noch ausreichend sicher sind.
 
 
-#### CON.6.A5 ENTFALLEN
+#### ENTFALLEN: CON.6.A5
 
 __Ehemals:__
 
@@ -794,7 +794,7 @@ __Ehemals:__
 *Bei der Aussonderung SOLLTEN neben „klassischen“ IT-Systemen auch alle IT-Systeme berücksichtigt werden, die nichtflüchtige Speicherelemente enthalten.*
 
 
-#### CON.6.A6 ENTFALLEN
+#### ENTFALLEN: CON.6.A6
 
 __Ehemals:__
 
@@ -803,7 +803,7 @@ __Ehemals:__
 *Alle Mitarbeiter SOLLTEN in die Methoden und Verfahrensweisen zum Löschen und Vernichten von Informationen eingewiesen werden.*
 
 
-#### CON.6.A7 ENTFALLEN
+#### ENTFALLEN: CON.6.A7
 
 __Ehemals:__
 
@@ -823,7 +823,7 @@ __Ehemals:__
 Die Anforderung wurde neu hinzugefügt.
 
 
-#### CON.6.A9 ENTFALLEN
+#### ENTFALLEN: CON.6.A9
 
 __Ehemals:__
 
@@ -833,7 +833,7 @@ __Ehemals:__
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
-#### CON.6.A10 ENTFALLEN
+#### ENTFALLEN: CON.6.A10
 
 __Ehemals:__
 
@@ -887,7 +887,7 @@ __Entfallen:__
 Die Sicherheitsanforderungen MÜSSEN dokumentiert werden.
 
 
-#### CON.8.A4 ENTFALLEN
+#### ENTFALLEN: CON.8.A4
 
 __Ehemals:__
 
@@ -974,7 +974,7 @@ Werden für verwendete externe Bibliotheken sicherheitskritische Updates bereitg
 Für die Installations-, Update- oder Patchdateien MÜSSEN vom Entwickler Checksummen oder digitale Signaturen bereitgestellt werden.
 
 
-#### CON.8.A9 ENTFALLEN
+#### ENTFALLEN: CON.8.A9
 
 __Ehemals:__
 
@@ -1013,7 +1013,7 @@ Die Rollen SOLLTEN dabei fachlich die nachfolgenden Themen abdecken:
 Für jedes Entwicklungsvorhaben SOLLTE ein Zuständiger für die Informationssicherheit benannt werden.
 
 
-#### CON.8.A13 ENTFALLEN
+#### ENTFALLEN: CON.8.A13
 
 __Ehemals:__
 
@@ -1049,7 +1049,7 @@ Die Entwickler und die übrigen Mitglieder des Entwicklungsteams SOLLTEN zu gene
 • Informationssicherheit, Sicherheitsvorgaben in der Institution und Sicherheitsaspekte in speziellen Bereichen.
 
 
-#### CON.8.A15 ENTFALLEN
+#### ENTFALLEN: CON.8.A15
 
 __Ehemals:__
 
@@ -1157,7 +1157,7 @@ Der Baustein CON.10 ist neu hinzugefügt worden.
 
 #### Basis-Anforderungen
 
-#### OPS.1.1.2.A1 ENTFALLEN
+#### ENTFALLEN: OPS.1.1.2.A1
 
 __Ehemals:__
 
@@ -1291,7 +1291,7 @@ Anforderung wurde neu hinzugefügt.
 
 #### Standard-Anforderungen
 
-#### OPS.1.1.3.A4 ENTFALLEN
+#### ENTFALLEN: OPS.1.1.3.A4
 
 __Ehemals:__
 
@@ -1390,7 +1390,7 @@ __Entfallen:__
 *Es DÜRFEN NUR Cloud-Funktionen solcher Produkte verwendet werden, bei denen keine gravierenden, nachweisbaren Daten- oder Geheimschutzaspekte dagegen sprechen.*
 
 
-#### OPS.1.1.4.A4 ENTFALLEN
+#### ENTFALLEN: OPS.1.1.4.A4
 
 __Ehemals:__
 
@@ -1437,7 +1437,7 @@ Benutzer MÜSSEN sich an die ihnen benannten Ansprechpartner wenden, wenn der Ve
 
 #### Basis-Anforderungen
 
-#### OPS.1.1.4.A8 ENTFALLEN
+#### ENTFALLEN: OPS.1.1.4.A8
 
 __Ehemals:__
 
@@ -1456,7 +1456,7 @@ __Entfallen:__
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
-#### OPS.1.1.4.A15 ENTFALLEN
+#### ENTFALLEN: OPS.1.1.4.A15
 
 __Ehemals:__
 
@@ -1494,7 +1494,7 @@ Es MUSS regelmäßig überprüft werden, ob die spezifische Sicherheitsrichtlini
 Die Ergebnisse der Überprüfung MÜSSEN dokumentiert werden.
 
 
-#### OPS.1.1.5.A2 ENTFALLEN
+#### ENTFALLEN: OPS.1.1.5.A2
 
 __Ehemals:__
 
@@ -1526,7 +1526,7 @@ __Hinzugefügt:__:
 Dafür SOLLTE eine zentrale Protokollierungsinfrastruktur im Sinne eines Logserver-Verbunds aufgebaut und in einem hierfür eingerichteten Netzsegment platziert werden (siehe NET.1.1 Netzarchitektur und -design).
 
 
-#### OPS.1.1.5.A7 ENTFALLEN
+#### ENTFALLEN: OPS.1.1.5.A7
 
 __Ehemals:__
 
@@ -1632,7 +1632,7 @@ Wird Individualsoftware auf Quellcode-Ebene überprüft, dann SOLLTEN die Tester
 Der Quellcode SOLLTE NICHT ausschließlich von Testern überprüft werden, die an der Erstellung des Quellcodes beteiligt waren.
 
 
-#### OPS.1.1.6.A8 ENTFALLEN
+#### ENTFALLEN: OPS.1.1.6.A8
 
 __Ehemals:__
 
@@ -1643,7 +1643,7 @@ __Ehemals:__
 *Es SOLLTEN Verfahren etabliert werden, mit denen die Software-Tester über Neuerungen informiert werden, die für ihr jeweiliges Aufgabenspektrum relevant sind.*
 
 
-#### OPS.1.1.6.A9 ENTFALLEN
+#### ENTFALLEN: OPS.1.1.6.A9
 
 __Ehemals:__
 
@@ -1718,7 +1718,7 @@ __Entfallen:__
 *Alle Zugangsmöglichkeiten auf die Server der Institution sowie alle Zugriffsrechte auf die darauf gespeicherten Informationen MÜSSEN auf das notwendige Mindestmaß beschränkt sein.*
 
 
-#### OPS.1.2.4.A3 ENTFALLEN
+#### ENTFALLEN: OPS.1.2.4.A3
 
 __Ehemals:__
 
@@ -1735,7 +1735,7 @@ __Ehemals:__
 *Zusätzlich MUSS die Authentizität der Kommunikationspartner gewährleistet sein.*
 
 
-#### OPS.1.2.4.A4 ENTFALLEN
+#### ENTFALLEN: OPS.1.2.4.A4
 
 __Ehemals:__
 
@@ -1788,7 +1788,7 @@ __Hinzugefügt:__:
 Alle anderen Fernwartungsverbindungen SOLLTEN verschlüsselt werden.
 
 
-#### OPS.1.2.5.A4 ENTFALLEN
+#### ENTFALLEN: OPS.1.2.5.A4
 
 __Ehemals:__
 
@@ -1812,7 +1812,7 @@ Die Anforderung wurde neu hinzugefügt.
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
-#### OPS.1.2.5.A23 ENTFALLEN
+#### ENTFALLEN: OPS.1.2.5.A23
 
 ENTFALLEN
 
@@ -1915,7 +1915,7 @@ Wenn neue IT-Komponenten beschafft werden, SOLLTE ein Budget für Schulungen ein
 Bevor die zuständigen Mitarbeiter Schulungen für neue IT-Komponenten bekommen, SOLLTE ein Schulungskonzept erstellt werden.
 
 
-#### DER.1.A8 ENTFALLEN
+#### ENTFALLEN: DER.1.A8
 
 __Ehemals:__
 
@@ -2018,7 +2018,7 @@ Keine inhaltlichen Änderungen.
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
-#### DER.3.1.A28 ENTFALLEN
+#### ENTFALLEN: DER.3.1.A28
 
 __Ehemals:__
 
@@ -2041,7 +2041,7 @@ __Ehemals:__
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
-#### DER.3.2.A23 ENTFALLEN
+#### ENTFALLEN: DER.3.2.A23
 
 __Ehemals:__
 
@@ -2076,7 +2076,7 @@ Keine inhaltlichen Änderungen.
 
 #### Basis-Anforderungen
 
-#### APP.1.1.A1 ENTFALLEN
+#### ENTFALLEN: APP.1.1.A1
 
 __Ehemals:__
 
@@ -2119,7 +2119,7 @@ Falls möglich, SOLLTEN sie blockiert werden.
 Durch technische Maßnahmen SOLLTE erzwungen werden, dass Dokumente aus externen Quellen geprüft werden.
 
 
-#### APP.1.1.A4 ENTFALLEN
+#### ENTFALLEN: APP.1.1.A4
 
 __Ehemals:__
 
@@ -2151,7 +2151,7 @@ Benutzer SOLLTEN im Umgang mit den Verschlüsselungsfunktionen in Office-Produkt
 
 #### Standard-Anforderungen
 
-#### APP.1.1.A5 ENTFALLEN
+#### ENTFALLEN: APP.1.1.A5
 
 __Ehemals:__
 
@@ -2171,7 +2171,7 @@ __Entfallen:__
 
 *Zu diesem Zweck SOLLTEN Testmethoden für die Einzeltests (Testarten, -verfahren und -werkzeuge) entwickelt und freigegeben werden.*
 
-#### APP.1.1.A7 ENTFALLEN
+#### ENTFALLEN: APP.1.1.A7
 
 __Ehemals:__
 
@@ -2192,7 +2192,7 @@ __Ehemals:__
 *Vor und nach den Installationen SOLLTEN Datensicherungen der Office-Produkte auf allen betroffenen IT-Systemen durchgeführt werden.*
 
 
-#### APP.1.1.A8 ENTFALLEN
+#### ENTFALLEN: APP.1.1.A8
 
 __Ehemals:__
 
@@ -2203,7 +2203,7 @@ __Ehemals:__
 *Diese Bestandsführung der Software-Lizenzen SOLLTE bei jeder Installation oder Deinstallation aktualisiert werden.*
 
 
-#### APP.1.1.A9 ENTFALLEN
+#### ENTFALLEN: APP.1.1.A9
 
 __Ehemals:__
 
@@ -2302,7 +2302,7 @@ Außerdem MUSS sichergestellt werden, dass der Webbrowser Zertifikate lokal wide
 Der Webbrowser MUSS in diesem Fall die Verbindung abbrechen, bis der Benutzer diese ausdrücklich bestätigt hat.
 
 
-#### APP.1.2.A4 ENTFALLEN
+#### ENTFALLEN: APP.1.2.A4
 
 __Ehemals:__
 
@@ -2340,7 +2340,7 @@ Die Anforderung wurd neu hinzugefügt.
 
 #### Standard-Anforderungen
 
-#### APP.1.2.A5 ENTFALLEN
+#### ENTFALLEN: APP.1.2.A5
 
 __Ehemals:__
 
@@ -2353,7 +2353,7 @@ __Ehemals:__
 *Der Webbrowser SOLLTE NICHT dauerhaft mit erweiterten Rechten ausgeführt werden.*
 
 
-#### APP.1.2.A8 ENTFALLEN
+#### ENTFALLEN: APP.1.2.A8
 
 __Ehemals:__
 
@@ -2391,7 +2391,7 @@ __Entfallen:__
 *Außerdem MÜSSEN Schutzbedarf und die rechtlichen Rahmenbedingungen der zu verarbeitenden Daten betrachtet werden.*
 
 
-#### APP.1.4.A2 ENTFALLEN
+#### ENTFALLEN: APP.1.4.A2
 
 __Ehemals:__
 
@@ -2412,7 +2412,7 @@ __Ehemals:__
 *Diese Vorgaben MÜSSEN mit den etablierten Regelungen der Institution abgestimmt werden.*
 
 
-#### APP.1.4.A4 ENTFALLEN
+#### ENTFALLEN: APP.1.4.A4
 
 __Ehemals:__
 
@@ -2431,7 +2431,7 @@ __Ehemals:__
 *Die Freigabekriterien SOLLTEN bei allen erfüllt sein.*
 
 
-#### APP.1.4.A6 ENTFALLEN
+#### ENTFALLEN: APP.1.4.A6
 
 __Ehemals:__
 
@@ -2463,7 +2463,7 @@ APP.1.4.A3 Verteilung schutzbedürftiger Apps (S)
 Interne Apps der Institution und Apps, die schutzbedürftige Informationen verarbeiten, SOLLTEN über einen institutionseigenen App Store oder via MDM verteilt werden.
 
 
-#### APP.1.4.A9 ENTFALLEN
+#### ENTFALLEN: APP.1.4.A9
 
 __Ehemals:__
 
@@ -2476,7 +2476,7 @@ __Ehemals:__
 *Wenn eine App über ein Benutzerkonto auf ein Backend-Systeme zugreift, MUSS dafür ein dediziertes Dienstekonto verwendet werden.*
 
 
-#### APP.1.4.A10 ENTFALLEN
+#### ENTFALLEN: APP.1.4.A10
 
 __Ehemals:__
 
@@ -2491,7 +2491,7 @@ __Ehemals:__
 *Wenn Mitarbeiter mobile Endgeräte verlieren, SOLLTE sichergestellt sein, dass kein Unbefugter auf die Apps und damit auf Informationen der Institution zugreifen kann.*
 
 
-#### APP.1.4.A11 ENTFALLEN
+#### ENTFALLEN: APP.1.4.A11
 
 __Ehemals:__
 
@@ -2518,7 +2518,7 @@ Werden Apps deinstalliert, SOLLTEN auch Daten gelöscht werden, die auf externen
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
-#### APP.1.4.A13 ENTFALLEN
+#### ENTFALLEN: APP.1.4.A13
 
 __Ehemals:__
 
@@ -2559,7 +2559,7 @@ __Entfallen:__
 *Alle administrativen Aufgabenbereiche und Berechtigungen SOLLTEN geeignet dokumentiert sein.*
 
 
-#### APP.2.2.A4 ENTFALLEN
+#### ENTFALLEN: APP.2.2.A4
 
 __Ehemals:__
 
@@ -2609,7 +2609,7 @@ __Entfallen:__
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
-#### APP.2.2.A13 ENTFALLEN
+#### ENTFALLEN: APP.2.2.A13
 
 __Ehemals:__
 
@@ -2628,7 +2628,7 @@ __Ehemals:__
 
 #### Basis-Anforderungen
 
-#### APP.2.3.A2 ENTFALLEN
+#### ENTFALLEN: APP.2.3.A2
 
 __Ehemals:__
 
@@ -2654,7 +2654,7 @@ __Entfallen:__
 
 #### Standard-Anforderungen
 
-#### APP.2.3.A7 ENTFALLEN
+#### ENTFALLEN: APP.2.3.A7
 
 __Ehemals:__
 
@@ -2670,7 +2670,7 @@ __Geändert:__
 Bei Updates SOLLTE darauf geachtet werden, ob die Änderungen eingesetzte Backends oder Overlays sowie Softwareabhängigkeiten betreffen.
 
 
-#### APP.2.3.A12 ENTFALLEN
+#### ENTFALLEN: APP.2.3.A12
 
 __Ehemals:__
 
@@ -2687,7 +2687,7 @@ __Ehemals:__
 *OpenLDAP SOLLTE gemeinsam mit dem Server überwacht werden, auf dem OpenLDAP betrieben wird.*
 
 
-#### APP.2.3.A13 ENTFALLEN
+#### ENTFALLEN: APP.2.3.A13
 
 __Ehemals:__
 
@@ -2725,7 +2725,7 @@ Der Auswahlprozess SOLLTE dokumentiert werden.
 Der IT-Betrieb MUSS geeignete Grenzwerte für fehlgeschlagene Anmeldeversuche festlegen.
 
 
-#### APP.3.1.A2 ENTFALLEN
+#### ENTFALLEN: APP.3.1.A2
 
 __Ehemals:__
 
@@ -2750,7 +2750,7 @@ __Ehemals:__
 *Es MUSS zudem ein sicherer Umgang mit temporären Dateien vorgesehen werden.*
 
 
-#### APP.3.1.A3 ENTFALLEN
+#### ENTFALLEN: APP.3.1.A3
 
 __Ehemals:__
 
@@ -2792,7 +2792,7 @@ Auch MÜSSEN Zugriffs- und Ausführungsrechte restriktiv gesetzt werden.
 Zudem MUSS sichergestellt werden, dass ein Benutzer Dateien nur im vorgegebenen erlaubten Speicherort speichern kann.
 
 
-#### APP.3.1.A5 ENTFALLEN
+#### ENTFALLEN: APP.3.1.A5
 
 __Ehemals:__
 
@@ -2831,7 +2831,7 @@ Dazu MÜSSEN Salted Hash-Verfahren verwendet werden.
 Die Dateien mit den Quelltexten der Webanwendung MÜSSEN vor unerlaubten Abrufen geschützt werden.
 
 
-#### APP.3.1.A16 ENTFALLEN
+#### ENTFALLEN: APP.3.1.A16
 
 __Ehemals:__
 
@@ -2850,7 +2850,7 @@ __Ehemals:__
 *Ausgabedaten MÜSSEN so kodiert werden, dass schadhafter Code auf dem Zielsystem nicht interpretiert oder ausgeführt wird.*
 
 
-#### APP.3.1.A19 ENTFALLEN
+#### ENTFALLEN: APP.3.1.A19
 
 __Ehemals:__
 
@@ -2938,7 +2938,7 @@ Folgendes SOLLTE bei der Konfiguration von Webanwendungen umgesetzt werden:
 • Festlegen von Grenzwerten für Zugriffsversuche.
 
 
-#### APP.3.1.A13 ENTFALLEN
+#### ENTFALLEN: APP.3.1.A13
 
 __Ehemals:__
 
@@ -2949,7 +2949,7 @@ __Ehemals:__
 *Konfigurationsdateien der Webanwendung SOLLTEN außerhalb des Web-Root-Verzeichnisses gespeichert werden.*
 
 
-#### APP.3.1.A15 ENTFALLEN
+#### ENTFALLEN: APP.3.1.A15
 
 __Ehemals:__
 
@@ -2962,7 +2962,7 @@ __Ehemals:__
 *Die Benutzer SOLLTEN über Änderungen mithilfe von Kommunikationswegen außerhalb der Web-Anwendung informiert werden.*
 
 
-#### APP.3.1.A17 ENTFALLEN
+#### ENTFALLEN: APP.3.1.A17
 
 __Ehemals:__
 
@@ -2990,7 +2990,7 @@ __Hinzugefügt:__:
 Die verwendeten HTTP-Header SOLLTEN so restriktiv wie möglich sein.
 
 
-#### APP.3.1.A23 ENTFALLEN
+#### ENTFALLEN: APP.3.1.A23
 
 __Ehemals:__
 
@@ -3002,7 +3002,7 @@ __Ehemals:__
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
-#### APP.3.1.A24 ENTFALLEN
+#### ENTFALLEN: APP.3.1.A24
 
 __Ehemals:__
 
@@ -3013,7 +3013,7 @@ __Ehemals:__
 *Ebenso SOLLTE ein möglicher Überlauf von Protokollierungsdaten bei Webanwendungen überwacht und verhindert werden.*
 
 
-#### APP.3.1.A25 ENTFALLEN
+#### ENTFALLEN: APP.3.1.A25
 
 __Ehemals:__
 
@@ -3074,7 +3074,7 @@ Es SOLLTE geplant und dokumentiert werden, für welchen Zweck der Webserver eing
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
-#### APP.3.2.A17 ENTFALLEN
+#### ENTFALLEN: APP.3.2.A17
 
 __Ehemals:__
 
@@ -3108,7 +3108,7 @@ __Entfallen:__
 Kein inhaltlichen Änderungen.
 
 
-#### APP.3.3.A5 ENTFALLEN
+#### ENTFALLEN: APP.3.3.A5
 
 __Ehemals:__
 
@@ -3239,7 +3239,7 @@ Wird mit Kerberos authentisiert, SOLLTE der zentrale Zeitserver lokal auf dem Sa
 Der NTP-Dienst SOLLTE so konfiguriert werden, dass nur autorisierte Clients die Zeit abfragen können.
 
 
-#### APP.3.4.A11 ENTFALLEN
+#### ENTFALLEN: APP.3.4.A11
 
 __Ehemals:__
 
@@ -3292,7 +3292,7 @@ DNS-Server MÜSSEN so konfiguriert werden, dass mindestens die folgenden sicherh
 
 #### Standard-Anforderungen
 
-#### APP.3.6.A12 ENTFALLEN
+#### ENTFALLEN: APP.3.6.A12
 
 __Ehemals:__
 
@@ -3368,7 +3368,7 @@ Keine inhaltichen Änderungen.
 Keine inhaltichen Änderungen.
 
 
-#### APP.4.2.A10 ENTFALLEN
+#### ENTFALLEN: APP.4.2.A10
 
 __Ehemals:__
 
@@ -3389,7 +3389,7 @@ __Ehemals:__
 Keine inhaltichen Änderungen.
 
 
-#### APP.4.3.A21 ENTFALLEN
+#### ENTFALLEN: APP.4.3.A21
 
 __Ehemals:__
 
@@ -3436,7 +3436,7 @@ Es MUSS regelmäßig überprüft werden, ob die Richtlinie noch korrekt umgesetz
 Die Ergebnisse MÜSSEN sinnvoll dokumentiert werden.
 
 
-#### APP.4.3.A2 ENTFALLEN
+#### ENTFALLEN: APP.4.3.A2
 
 __Ehemals:__
 
@@ -3454,7 +3454,7 @@ __Entfallen:__
 *Auch MÜSSEN alle Passwörter entsprechend den internen Anforderungen der Institution geändert werden.*
 
 
-#### APP.4.3.A5 ENTFALLEN
+#### ENTFALLEN: APP.4.3.A5
 
 __Ehemals:__
 
@@ -3471,7 +3471,7 @@ __Ehemals:__
 *Die eingerichteten Benutzer und die ihnen zugeordneten Berechtigungen MÜSSEN regelmäßig überprüft und, falls erforderlich, angepasst werden.*
 
 
-#### APP.4.3.A6 ENTFALLEN
+#### ENTFALLEN: APP.4.3.A6
 
 __Ehemals:__
 
@@ -3484,7 +3484,7 @@ __Ehemals:__
 *Insbesondere bei privilegierten Datenbankaccounts und Dienstkonten SOLLTE ein Passwortwechsel sorgfältig geplant und gegebenenfalls mit den Anwendungsverantwortlichen abgestimmt werden.*
 
 
-#### APP.4.3.A7 ENTFALLEN
+#### ENTFALLEN: APP.4.3.A7
 
 __Ehemals:__
 
@@ -3503,7 +3503,7 @@ __Ehemals:__
 *Das Ergebnis SOLLTE nachvollziehbar dokumentiert werden.*
 
 
-#### APP.4.3.A8 ENTFALLEN
+#### ENTFALLEN: APP.4.3.A8
 
 __Ehemals:__
 
@@ -3520,7 +3520,7 @@ __Ehemals:__
 
 #### Standard-Anforderungen
 
-#### APP.4.3.A10 ENTFALLEN
+#### ENTFALLEN: APP.4.3.A10
 
 __Ehemals:__
 
@@ -3533,7 +3533,7 @@ __Ehemals:__
 *Die Ergebnisse SOLLTEN dokumentiert werden.*
 
 
-#### APP.4.3.A14 ENTFALLEN
+#### ENTFALLEN: APP.4.3.A14
 
 __Ehemals:__
 
@@ -3543,7 +3543,7 @@ __Ehemals:__
 
 *Die verantwortlichen Mitarbeiter SOLLTEN zudem regelmäßig üben, wie sich Datenbanken im Notfall schnell wiederherstellen lassen.*
 
-#### APP.4.3.A15 ENTFALLEN
+#### ENTFALLEN: APP.4.3.A15
 
 __Ehemals:__
 
@@ -3584,7 +3584,7 @@ __Entfallen:__
 
 *Vorschaufenster und die Autovorschau SOLLTEN deaktiviert werden.*
 
-#### APP.5.2.A14 ENTFALLEN
+#### ENTFALLEN: APP.5.2.A14
 
 __Ehemals:__
 
@@ -3595,7 +3595,7 @@ __Ehemals:__
 *Die Institution SOLLTE die Benutzer von Outlook regelmäßig entsprechend dem Konzept schulen.*
 
 
-#### APP.5.2.A15 ENTFALLEN
+#### ENTFALLEN: APP.5.2.A15
 
 __Ehemals:__
 
