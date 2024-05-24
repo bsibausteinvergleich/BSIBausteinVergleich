@@ -1000,7 +1000,7 @@ Alle Zugangsmöglichkeiten auf die Server der Institution sowie alle Zugriffsrec
 
 ### NEU OPS.1.2.5
 
-__OPS.1.2.5.A1 - OPS.1.2.5.A23 sind in 2020 hinzugefügt worden.__
+Der Baustein wurde neu hinzugefügt.
 
 ### OPS.2.1
 <details>
