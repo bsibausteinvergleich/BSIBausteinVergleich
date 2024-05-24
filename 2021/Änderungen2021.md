@@ -56,11 +56,11 @@ Die Mitarbeiter MÜSSEN darüber aufgeklärt werden, welche Konsequenzen eine Ve
 
 __Entfallen:__
 
-*Es SOLLTE regelmäßig überprüft werden, ob die ausgewählten Maßnahmen geeignet, angemessen, umsetzbar und effizient sind, um die Sicherheitsziele und -anforderungen zu erreichen.*
+*Es SOLLTE regelmäßig überprüft werden, ob die ausgewählten Maßnahmen geeignet, angemessen, umsetzbar und effizient sind, um die Sicherheitsziele und -en zu erreichen.*
 
 *Jeder Mitarbeiter SOLLTE zumindest über die ihn unmittelbar betreffenden Teile des Sicherheitskonzeptes informiert sein.*
 
-#### Standard-Anforderungen
+#### Standard-en
 
 #### ISMS.1.A12
 
@@ -984,7 +984,7 @@ __Ehemals:__
 
 #### NEU: CON.8.A20
 
-Die Anforderung ist neu hinzugefügt worden.
+Diese Anforderung wurde neu hinzugefügt.
 
 #### Standard-Anforderungen
 
@@ -1135,7 +1135,7 @@ Die Benutzer SOLLTEN unerwünschte Restinformationen aus Dokumenten und Dateien 
 
 #### NEU: CON.9.A9
 
-Die Anforderung ist neu hinzugefügt worden.
+Diese Anforderung wurde neu hinzugefügt.
 
 </details>
 
