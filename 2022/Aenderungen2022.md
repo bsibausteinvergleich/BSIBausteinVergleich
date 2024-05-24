@@ -1,7 +1,8 @@
 # Übersicht der Änderungen des IT-Grundschutz-Kompendiums von Version 2021 zu 2022
 
+Übergreifend wurden Formulierungen angepasst, die keinen Einfluss auf Bedeutung und Inhalt haben. Es wurden beispielsweise Sätze getrennt oder Formulierungen angepasst, die den Sprachfluss anpassen oder Gliederungen vereinheitlichen.
 
----
+___
 
 
 ## ISMS
