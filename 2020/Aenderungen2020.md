@@ -37,12 +37,12 @@ ___
 #### Basis-Anforderungen
 
 #### ORP.1.A1
-__Änderung:__\
+__Geändert:__\
 ~~Für alle sicherheitsrelevanten Aufgaben MÜSSEN sowohl Verantwortlichkeiten als auch Befugnisse festgelegt sein.~~
 __zu:__\
 Innerhalb einer Institution SOLLTEN alle relevanten Aufgaben und Funktionen klar definiert und voneinander abgegrenzt sein.
 
-__Änderung:__\
+__Geändert:__\
 ~~Es MUSS auch klar geregelt sein, welche Informationen mit wem ausgetauscht werden dürfen und wie diese dabei zu schützen sind.~~
 
 ~~Die Regelungen MÜSSEN anlassbezogen überarbeitet werden. Die Regelungen MÜSSEN regelmäßig überarbeitet werden.~~
@@ -98,7 +98,7 @@ Zur Entsorgung gesammeltes schutzbedürftiges Material SOLLTE vor unberechtigtem
 #### Basis-Anforderungen
 
 #### ORP.2.A1
-__Änderung:__\
+__Geändert:__\
 ~~ORP.2.A1 Geregelte Einarbeitung neuer Mitarbeiter [Vorgesetzte]
 Die Personalabteilung sowie die Vorgesetzten MÜSSEN dafür sorgen, dass neue Mitarbeiter zu Beginn ihrer Beschäftigung in ihre neuen Aufgaben eingearbeitet und über bestehende Regelungen, Gepflogenheiten und Verfahrensweisen informiert werden.
 Hierbei SOLLTE eine Checkliste unterstützend wirken.
@@ -124,7 +124,7 @@ __Entfallen:__\
 ~~Die IT-Administration MUSS außerdem dafür Sorge tragen, dass ehemaligen Mitarbeitern sämtliche Zugriffsberechtigungen auf IT-Systeme entzogen bzw. diese bei Aufgabenwechseln angepasst werden.~~
 
 #### ORP.2.A3
-__Änderung:__\
+__Geändert:__\
 ~~ORP.2.A3 Vertretungsregelungen [Vorgesetzte]
 Die Vorgesetzten MÜSSEN für die Einführung und Aufrechterhaltung von Vertretungsregelungen Sorge tragen.~~
 
@@ -152,7 +152,7 @@ Werden IT-, ICS- oder IoT-Systeme oder Dienste in einer Weise benutzt, die den I
 #### Standard-Anforderungen
 
 #### ORP.3.A6
-__Änderung:__\
+__Geändert:__\
 ~~Die geplanten Sensibilisierungs- und Schulungsmaßnahmen SOLLTEN gemäß dieser Planung in adäquater Form umgesetzt werden.~~
 
 ~~Sensibilisierungs- und Schulungsprogramme SOLLTEN regelmäßig auf Aktualität überprüft und bei geändertem Bedarf angepasst bzw. weiterentwickelt werden.~~
@@ -161,7 +161,7 @@ __zu:__\
 Der Informationssicherheitsbeauftragte SOLLTE sich regelmäßig mit der Personalabteilung und den anderen für die Sicherheit relevanten Ansprechpartnern (Datenschutz, Gesundheits- und Arbeitsschutz, Brandschutz etc.) über die Effizienz der Aus- und Weiterbildung austauschen.
 
 #### ORP.3.A7
-__Änderung:__\
+__Geändert:__\
 ~~Sicherheitsverantwortliche SOLLTEN mit der IT-Grundschutz-Methodik vertraut sein.~~
 
 ~~Wurde ein Schulungsbedarf verifiziert, SOLLTE eine entsprechende IT-Grundschutz-Schulung geplant und deren Inhalt vorher festgelegt werden.~~
@@ -188,7 +188,7 @@ __Die Rolle__ "Leiter IT" __wurde in allen Anforderungen der ORP.4 durch__ "IT-B
 #### Basis-Anforderungen
 
 #### ORP.4.A1
-__Änderung:__\
+__Geändert:__\
 ~~ORP.4.A1 Regelung für die Einrichtung von Benutzern und Benutzergruppen [Administrator, Leiter IT] Es MUSS geregelt werden, wie Benutzer und Benutzergruppen einzurichten sind.~~
 
 ~~Alle Benutzer und Benutzergruppen DÜRFEN NUR über separate administrative Rollen eingerichtet werden.~~
@@ -201,7 +201,7 @@ Es MUSS geregelt werden, wie Benutzerkennungen und Benutzergruppen einzurichten 
 Alle Benutzer und Benutzergruppen DÜRFEN NUR über separate administrative Rollen eingerichtet und gelöscht werden.
 
 #### ORP.4.A4
-__Änderung:__\
+__Geändert:__\
 ~~Es MÜSSEN die für den IT-Einsatz relevanten Aufgaben und Funktionen definiert werden.~~
 
 ~~Auch MUSS festgelegt werden, welche Aufgaben und Funktionen nicht miteinander vereinbar sind.~~
@@ -212,7 +212,7 @@ __zu:__\
 Die von der Institution definierten unvereinbaren Aufgaben und Funktionen (siehe Baustein ORP.1 Organisation) MÜSSEN durch das Identitäts- und Berechtigungsmanagement getrennt werden.
 
 #### ORP.4.A5
-__Änderung:__\
+__Geändert:__\
 ~~Es MUSS festgelegt werden, welche Zutrittsberechtigungen an welche Personen im Rahmen ihrer Funktion vergeben werden.~~
 
 ~~Werden Zutrittsmittel wie Chipkarten verwendet, so MUSS die Ausgabe bzw. der Entzug dokumentiert werden.~~
@@ -229,7 +229,7 @@ __Hinzugefügt:__\
 Wenn Zugangsmittel kompromittiert wurden, MÜSSEN sie ausgewechselt werden.
 
 #### ORP.4.A7
-__Änderung:__\
+__Geändert:__\
 ~~Werden Zugangsmittel wie Chipkarten verwendet, so MUSS die Ausgabe bzw. der Entzug dokumentiert werden.~~
 
 ~~Die Zugriffsrechte SOLLTEN auf den korrekten Umgang mit den Zugangsmitteln geschult werden.~~
@@ -240,7 +240,7 @@ Werden im Rahmen der Zugriffskontrolle Chipkarten oder Token verwendet, so MUSS 
 Die Anwender SOLLTEN auf den korrekten Umgang mit Chipkarten oder Token geschult werden.
 
 #### ORP.4.A8
-__Änderung:__\
+__Geändert:__\
 ~~ORP.4.A8 Regelung des Passwortgebrauchs [Benutzer, Leiter IT]
 Die Institution MUSS den Passwortgebrauch verbindlich regeln.
 Dabei MUSS festgelegt werden, dass nur Passwörter mit ausreichender Länge und Komplexität verwendet werden.
@@ -314,14 +314,14 @@ Bei erfolglosen Anmeldeversuchen SOLLTE das System keinen Hinweis darauf geben, 
 #### Standard-Anforderungen
 
 #### ORP.4.A10
-__Änderung:__\
+__Geändert:__\
 ~~Benutzerkonten mit weitreichenden Berechtigungen SOLLTEN mit mindestens zwei Authentisierungsmerkmalen geschützt werden.~~
 
 __zu:__\
 Benutzerkennungen mit weitreichenden Berechtigungen SOLLTEN mit einer Mehr-Faktor-Authentisierung, z. B. mit kryptografischen Zertifikaten, Chipkarten oder Token geschützt werden.
 
 #### ORP.4.A12
-__Änderung:__\
+__Geändert:__\
 ~~Authentisierungsinformationen SOLLTEN kryptografisch sicher geschützt übertragen und gespeichert werden.~~
 
 __zu:__\
@@ -330,7 +330,7 @@ Authentisierungsinformationen MÜSSEN kryptografisch sicher übertragen und gesp
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 #### ORP.4.A20
-__Änderung:__\
+__Geändert:__\
 ~~Für Notfälle SOLLTE ein Berechtigungskonzept vorhanden sein und es SOLLTEN Notfallberechtigungen existieren.~~
 
 __zu:__\
@@ -411,7 +411,7 @@ __Entfallen:__\
 __Hinzugefügt:__ Auf Produkte mit unkontrollierbarer Schlüsselablage SOLLTE generell verzichtet werden.
 
 #### CON.1.A14
-__Änderung:__\
+__Geändert:__\
 ~~Administratoren SOLLTEN zudem lernen, wie sie mit Hilfsmitteln zur Untersuchung kryptografischer Einstellungen umgehen müssen.~~
 
 __zu:__\
@@ -451,7 +451,7 @@ Wird die SDM-Methodik nicht berücksichtigt, die Maßnahmen also nicht auf der B
 #### Basis-Anforderungen
 
 #### CON.3.A1
-__Änderung:__\
+__Geändert:__\
 ~~Für jedes IT-System und eventuell für einzelne besonders wichtige IT-Anwendung MÜSSEN die relevanten Einflussfaktoren ermittelt werden, wie z. B. Änderungsvolumen, Änderungszeitpunkte, Verfügbarkeitsanforderungen, Integritätsbedarf.~~
 
 ~~Dazu SOLLTEN die Administratoren und die Verantwortlichen der einzelnen IT-Anwendungen befragt werden.~~
@@ -470,20 +470,20 @@ Der IT-Betrieb MUSS mindestens die nachfolgenden Rahmenbedingungen berücksichti
 • Integritätsbedarf sowie\
 • rechtliche Anforderungen.
 
-__Änderung:__\
+__Geändert:__\
 ~~Neue Anforderungen MÜSSEN zeitnah in einem aktualisierten Datensicherungskonzept berücksichtigt werden.~~
 
 __zu:__\
 Neue Anforderungen MÜSSEN zeitnah berücksichtigt werden.
 
 #### CON.3.A2
-__Änderung:__\
+__Geändert:__\
 ~~Für jedes IT-System und für jede Datenart MUSS ein Verfahren festgelegt werden, wie die Daten zu sichern sind.~~
 
 __zu:__\
 Der IT-Betrieb MUSS für jedes IT-System ein Verfahren festlegen, das definiert, welche Daten des IT-Systems wie gesichert werden.
 
-__Änderung:__\
+__Geändert:__\
 ~~Weiterhin MÜSSEN die Verantwortlichkeiten für die Datensicherungen festgelegt werden.~~
 
 __zu:__\
@@ -495,7 +495,7 @@ __Diese Anforderung ist entfallen:__
 Die rechtlichen Anforderungen an die Datensicherung MÜSSEN ermittelt und in das Minimal- bzw. in das Datensicherungskonzept einfließen.~~
 
 #### CON.3.A4
-__Änderung:__\
+__Geändert:__\
 ~~Es MUSS ein Minimaldatensicherungskonzept erstellt werden, das festgelegt, welche Anforderungen für die Datensicherung mindestens einzuhalten sind.~~
 ~~Dazu zählen kurze Beschreibungen, wie die Datensicherung erstellt und wiederhergestellt werden kann, welche Parameter gewählt wurden und welche Hard- und Software eingesetzt wird.~~
 
@@ -512,7 +512,7 @@ Das Minimaldatensicherungskonzept MUSS mindestens eine kurze Beschreibung dazu e
 • welche Hard- und Software eingesetzt wird.
 
 #### CON.3.A5
-__Änderung:__\
+__Geändert:__\
 ~~Es MÜSSEN regelmäßige Datensicherungen durchgeführt werden. Dabei MÜSSEN mindestens die Daten regelmäßig gesichert werden, die nicht aus anderen Informationen ableitbar sind.~~
 __zu:__\
 Der IT-Betrieb MUSS regelmäßige Datensicherungen gemäß dem (Minimal-)Datensicherungskonzept erstellen.
@@ -522,7 +522,7 @@ Es MUSS regelmäßig getestet werden, ob die Datensicherung wie gewünscht funkt
 #### Standard-Anforderungen
 
 #### CON.3.A6
-__Änderung:__\
+__Geändert:__\
 ~~CON.3.A6 Entwicklung eines Datensicherungskonzepts [Leiter IT, Fachverantwortliche]~~
 
 ~~Es SOLLTE ein Datensicherungskonzept erstellt werden.~~
@@ -551,7 +551,7 @@ Der IT-Betrieb SOLLTE das Datensicherungskonzept mit den jeweiligen Fachverantwo
 Die Mitarbeiter SOLLTEN über den Teil des Datensicherungskonzepts unterrichtet werden, der sie betrifft.
 
 #### CON.3.A7
-__Änderung:__\
+__Geändert:__\
 ~~CON.3.A7 Beschaffung eines geeigneten Datensicherungssystems [Leiter IT, IT-Betrieb]\
 Bevor ein Datensicherungssystem beschafft wird, SOLLTE eine Anforderungsliste erstellt werden, nach der die am Markt erhältlichen Produkte bewertet werden.
 Die angeschafften Datensicherungssysteme SOLLTEN die Anforderungen des Sicherheits- und des Datensicherungskonzepts erfüllen.~~
@@ -576,7 +576,7 @@ __Hinzugefügt:__\
 • (Verschlüsselung der Daten) auf dem Online-Speicher sowie
 
 #### CON.3.A12
-__Änderung:__\
+__Geändert:__\
 ~~Die Backup-Datenträger SOLLTEN vor unbefugtem Zugriff geschützt werden.~~
 
 ~~Sie SOLLTEN räumlich von den Quellsystemen getrennt werden.~~
@@ -593,7 +593,7 @@ Der Aufbewahrungsort SOLLTE so klimatisiert sein, dass die Datenträger entsprec
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 #### CON.3.A13
-__Änderung:__\
+__Geändert:__\
 ~~Um die Vertraulichkeit und Integrität der gesicherten Daten zu gewährleisten, SOLLTEN alle Daten verschlüsselt werden.~~
 
 __zu:__\
@@ -609,7 +609,7 @@ Um die Vertraulichkeit und Integrität der gesicherten Daten zu gewährleisten, 
 #### Basis-Anforderungen
 
 #### CON.4.A8
-__Änderung:__\
+__Geändert:__\
 ~~Lizenzpflichtige Standardsoftware-Produkte, die auf IT-Systemen der Institution eingesetzt werden, SOLLTEN lizenziert sein.~~
 
 __zu:__\
@@ -629,7 +629,7 @@ _Die Begriffe_ "Anwendung" _bzw._ "Fachanwendung" _wurden durch_ "Individualsoft
 #### Basis-Anforderungen
 
 #### CON.5.A1
-__Änderung:__\
+__Geändert:__\
 CON.5.A1 Festlegung benötigter Sicherheitsfunktionen der Individualsoftware [IT-Betrieb] (B)
 
 Der Fachverantwortliche MUSS bereits bei der Anforderungserhebung und -dokumentation die erforderlichen Sicherheitsfunktionen für die Individualsoftware definieren.
@@ -650,7 +650,7 @@ Dabei MÜSSEN berücksichtigt werden:
 • je nach Art und Komplexität einer Anwendung weitere Funktionsträger wie z.B. die Personalvertretung.~~
 
 #### CON.5.A3
-__Änderung:__\
+__Geändert:__\
 CON.5.A3 Sichere Installation von Individualsoftware [IT-Betrieb] (B)
 
 Es MUSS eine Installationsanweisung erstellt werden, die alle benötigten Anwendungskomponenten (einschließlich erforderlicher Bibliotheken), die Installationsreihenfolge und die Konfiguration der Anwendungsmodule enthält.
@@ -662,7 +662,7 @@ Ebenso MUSS der IT-Betrieb die Individualsoftware gemäß der Installationsanwei
 Bei in der Anwendung und bei funktionalen Updates MUSS die Installationsanweisung aktualisiert werden.
 
 #### CON.5.A4
-__Änderung:__\
+__Geändert:__\
 ~~CON.5.A4 Heranführen von Nutzerinnen und Nutzern an die Anwendung
 Benutzer und Administratoren MÜSSEN an die korrekte Nutzung und Administration der Anwendung einschließlich der Sicherheitsfunktionen herangeführt werden.~~
 
@@ -691,7 +691,7 @@ Dieses SOLLTE durch den Betreiber der mandantenfähigen Anwendung erstellt und d
 Die benötigten Mechanismen zur Mandantentrennung beim Dienstleister SOLLTEN ausreichend umgesetzt sein.~~
 
 #### CON.5.A9
-__Änderung:__\
+__Geändert:__\
 ~~Die Außerbetriebnahme von Anwendungen SOLLTE geplant werden.
 Es SOLLTE für alle Daten geklärt sein, welche Daten migriert, archiviert oder gelöscht werden. Nicht mehr benötigte Daten SOLLTEN sicher gelöscht werden.
 Die Außerbetriebnahme von Anwendungen sowie der zugehörigen IT-Systeme und Datenträger SOLLTE nachvollziehbar dokumentiert werden.~~
@@ -713,7 +713,7 @@ _Diese Anforderung wurde aus dem erhöhten Schutzbedarf in die Standard-Anforder
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 #### CON.5.A13
-__Änderung:__\
+__Geändert:__\
 ~~CON.5.A13 Entwicklung eines Redundanzkonzeptes für Anwendungen [Fachverantwortliche, Leiter IT] (A)
 Besteht hinsichtlich der Verfügbarkeit einer Anwendung ein hoher oder sehr hoher Schutzbedarf, so SOLLTE ein Redundanzkonzept erstellt werden.~~
 
@@ -723,7 +723,7 @@ CON.5.A13 Entwicklung eines Redundanzkonzeptes für Anwendungen [IT-Betrieb, Not
 
 Es SOLLTE ein Redundanzkonzept vom IT-Betrieb in Abstimmung mit dem Fachverantwortlichen erstellt werden.
 
-__Änderung:__\
+__Geändert:__\
 ~~Das Redundanzkonzept SOLLTE mit dem Notfallkonzept abgestimmt sein.~~
 
 __zu:__\
@@ -765,7 +765,7 @@ __Entfallen:__ ~~Insbesondere im Ausland können Dokumente und andere schutzbed�
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 #### CON.7.A15
-__Änderung:__\
+__Geändert:__\
 ~~Informationstragende oder auch bloßstellende Abstrahlung dieser Datenträger und Clients kann von anderen empfangen bzw. abgefangen werden, sodass Informationen rekonstruiert und die Vertraulichkeit dieser Daten in Frage gestellt werden können.
 Die Institution SOLLTE hier prüfen, ob ein solcher Schutzbedarf für vertrauliche Informationen vorliegt, und entsprechend abstrahlarme bzw. -sichere Datenträger und Clients einsetzen.~~
 
@@ -796,14 +796,14 @@ __Ergänzung:__\
 
 __Entfallen:__ ~~(...) und über ausreichende Englischkenntnisse zum Verständnis typischer IT-Dokumentationen verfügen.~~
 
-__Änderung:__\
+__Geändert:__\
 Administrative Rollen MÜSSEN von kontrollierenden Rollen (z. B. Revision) getrennt werden.
 
 __Entfallen:__\
 ~~Diese Anforderungen MÜSSEN auch dann erfüllt werden, wenn administrative Aufgaben an Dritte übertragen werden.~~
 
 #### OPS.1.1.2.A5
-__Änderung:__\
+__Geändert:__\
 ~~Jeder Administrator und jeder Vertreter eines Administrators MUSS eine eigene, eindeutige Administratorkennung haben.
 Die vergebenen Administrationsrechte MÜSSEN sich aus den Erfordernissen der jeweils übernommenen IT-Administrationsaufgaben ableiten.
 Administratoren DÜRFEN unter diesen Kennungen nur administrative Arbeiten durchführen.
@@ -842,7 +842,7 @@ __Anforderung entfallen.__
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 #### OPS.1.1.2.A16
-__Änderung:__\
+__Geändert:__\
 ~~Bei erhöhtem Schutzbedarf SOLLTE der Zugang zu administrativen Oberflächen oder Schnittstellen mit Filter- und Separierungsmaßnahmen technisch beschränkt werden, d. h. sie SOLLTEN für Personen außerhalb der zuständigen Administrationsteams nicht erreichbar sein.
 Administrative Zugriffe auf IT-Systeme in anderen Schutzzonen SOLLTEN stets mittelbar über einen Sprungserver in der jeweiligen Sicherheitszone erfolgen.~~
 
@@ -882,7 +882,7 @@ __Ergänzung:__\
 (Das Konzept SOLLTE nachvollziehbar dokumentiert) und aktuell gehalten werden.
 
 #### OPS.1.1.4.A4
-__Änderung:__\
+__Geändert:__\
 ~~Es DÜRFEN NUR Produkte für den Enterprise-Bereich mit auf die Institution zugeschnittenen Service- und Supportleistungen eingesetzt werden.
 Produkte für reine Heimanwender oder Produkte ohne Herstellersupport DÜRFEN NICHT im professionellen Betrieb eingesetzt werden.
 Es DÜRFEN NUR Cloud-Funktionen solcher Produkte verwendet werden, bei denen keine gravierenden, nachweisbaren Daten- oder Geheimschutzaspekte dagegen sprechen.~~
@@ -900,7 +900,7 @@ An das Produkt für Gateways und IT-Systeme zum Datenaustausch MÜSSEN die gleic
 #### Standard-Anforderungen
 
 #### OPS.1.1.5.A9
-__Änderung:__\
+__Geändert:__\
 (...) ~~mithilfe einer Protokollierungsanwendung~~ (...)
 
 </details>
@@ -916,7 +916,7 @@ __Änderung:__\
 __Ergänzung:__\ (...) und diese möglichst vollständig abdecken.
 
 #### OPS.1.1.6.A5
-__Änderung:__\
+__Geändert:__\
 ~~Insbesondere SOLLTEN sicherheitsspezifische Software-Tests durchgeführt werden, wenn die Anwendung sicherheitskritische Funktionen mitbringt.
 Die durchgeführten Testfälle als auch die Testergebnisse SOLLTEN dokumentiert werden.~~
 
@@ -941,17 +941,17 @@ Darüber hinaus SOLLTE eine entsprechende Rollentrennung erfolgen, sodass Quellc
 #### Basis-Anforderungen
 
 #### OPS.1.2.2.A2
-__Änderung:__ ~~"Management"~~ __zu__ "Institutionsleitung"
+__Geändert:__ ~~"Management"~~ __zu__ "Institutionsleitung"
 
 #### OPS.1.2.2.A6
-__Änderung:__
+__Geändert:__
 ~~Mittlere und große Archive MÜSSEN über redundante Indexdatenbanken verfügen.~~
 
 __zu:__\
 Mittlere und große Archive SOLLTEN über redundante Indexdatenbanken verfügen.
 
 #### OPS.1.2.2.A12
-__Änderung:__ 
+__Geändert:__ 
 ~~Die auf den Archivmedien vorhandene freie Speicherkapazität MUSS kontinuierlich überwacht werden.~~
 
 __zu:__\
@@ -993,7 +993,7 @@ __OPS.1.2.3 ist vollständig entfallen.__
 #### Basis-Anforderungen
 
 #### OPS.1.2.4.A2
-__Änderung:__\
+__Geändert:__\
 ~~Alle Zugangs- und Zugriffsmöglichkeiten auf die Kommunikationsrechner der Institution MÜSSEN auf das notwendige Mindestmaß beschränkt sein.~~
 
 __zu:__\
@@ -1060,7 +1060,7 @@ __Diese Anforderungen sind entfallen.__
 #### Basis-Anforderungen
 
 #### OPS.3.1.A7
-__Änderung:__ ~~"Mandantenkonzept"~~ __ersetzt durch__ "Mandantentrennungskonzept"
+__Geändert:__ ~~"Mandantenkonzept"~~ __ersetzt durch__ "Mandantentrennungskonzept"
 
 </details>
 
@@ -1074,7 +1074,7 @@ ___
 #### Basis-Anforderungen
 
 #### DER.1.A5
-__Änderung:__
+__Geändert:__
 ~~Liegt ein sicherheitsrelevanter Vorfall vor, MÜSSEN die Meldungen mindestens lokal ausgewertet werden.~~
 
 __zu:__\
@@ -1123,7 +1123,7 @@ Im Einzelfall kann es jedoch notwendig sein, das Interesse der Institution gegen
 #### Standard-Anforderungen
 
 #### DER.2.2.A10
-__Änderung:__\
+__Geändert:__\
 ~~Existieren kryptografische Prüfsummen von forensischen Kopien oder Originalen, kann die Integrität auch darüber nachgewiesen werden.~~
 
 __zu:__\
@@ -1139,21 +1139,21 @@ Es SOLLTEN schriftlich dokumentierte kryptografische Prüfsummen von den Datentr
 #### Basis-Anforderungen
 
 #### DER.3.1.A1
-__Änderung:__\
+__Geändert:__\
 ~~Der Verantwortliche MUSS überwachen, dass die Ergebnisse der Audits und Revisionen bearbeitet werden.~~
 
 __zu:__\
 Der Verantwortliche MUSS sicherstellen, dass die Ergebnisse der Audits und Revisionen dazu verwendet werden, um die Sicherheitsmaßnahmen zu verbessern.
 
 #### DER.3.1.A7
-__Änderung:__\
+__Geändert:__\
 Der ISB SOLLTE ein Auditprogramm für mehrere Jahre aufstellen, das alle durchzuführenden Audits und Revisionen erfasst.
 
-__Änderung:__\
+__Geändert:__\
 Der ISB SOLLTE Reserven für unvorhergesehene Ereignisse in der jährlichen Ressourcenplanung vorsehen.
 
 #### DER.3.1.A8
-__Änderung:__\
+__Geändert:__\
 ~~Es SOLLTE ein Auditprogramm für mehrere Jahre aufgestellt werden, das alle durchzuführenden Audits und Revisionen erfasst.~~
 
 __zu:__\
@@ -1165,7 +1165,7 @@ __Ergänzung:__ Das Auditteam SOLLTE klare Regelungen (...)
 __Ergänzung:__ Das Auditteam SOLLTE durch geeignete Maßnahmen (...)
 
 #### DER.3.1.A14
-__Änderung:__ ~~"Maßnahmen"~~ _ersetz durch_ "Anforderungen".
+__Geändert:__ ~~"Maßnahmen"~~ _ersetz durch_ "Anforderungen".
 
 #### DER.3.1.A22
 __Entfallen:__\
@@ -1181,7 +1181,7 @@ __Entfallen:__\
 #### Basis-Anforderungen
 
 #### DER.3.2.A4
-__Änderung:__\
+__Geändert:__\
 ~~Institutionen, deren gesamte Organisation nicht nach ISO 27001 auf der Basis von IT-Grundschutz zertifiziert sind, MÜSSEN mindestens alle drei Jahre eine IS-Kurz- oder IS-Querschnitts-Revision durchführen lassen.~~
 
 __zu:__\
@@ -1194,7 +1194,7 @@ __Entfallen:__\
 #### Standard-Anforderungen
 
 #### DER.3.2.A9
-__Änderung:__\
+__Geändert:__\
 ~~Es SOLLTE sichergestellt werden, dass IS-Revisionen ein Teil des Sicherheitsprozesses sind und durch diesen initiiert werden.~~
 
 __zu:__\
@@ -1203,7 +1203,7 @@ Der Informationssicherheitsbeauftragte SOLLTE sicherstellen, dass IS-Revisionen 
 #### DER.3.2.A15
 
 #### DER.3.2.A22
-__Änderung:__\
+__Geändert:__\
 ~~Die im IS-Revisionsbericht festgestellten Abweichungen SOLLTEN in einer angemessenen Zeit abgestellt werden.~~
 
 __zu:__\
@@ -1219,7 +1219,7 @@ Die im IS-Revisionsbericht festgestellten Abweichungen SOLLTEN in einer angemess
 #### Standard-Anforderungen
 
 #### DER.4.A2
-__Änderung:__\
+__Geändert:__\
 DER.4.A2 Integration von Notfallmanagement und Informationssicherheitsmanagement [Informationssicherheitsbeauftragter (ISB)] (S)
 
 #### Anforderungen bei erhöhtem Schutzbedarf
@@ -1240,7 +1240,7 @@ __Ergänzung:__\
 Die Überprüfungen SOLLTEN so geplant werden, dass kein relevanter Teil ausgelassen wird.
 
 #### DER.4.A15
-__Änderung:__\
+__Geändert:__\
 ~~Diese Messgrößen SOLLTEN regelmäßig ermittelt und mit den Vorjahreswerten verglichen werden.~~
 
 __zu:__\
@@ -1269,7 +1269,7 @@ __Entfallen:__\
 ~~Darüber hinaus SOLLTEN die verschiedenen Konfigurationen der installierten Office-Produkte dokumentiert werden.~~
 
 #### APP.1.1.A13
-__Änderung:__\
+__Geändert:__\
 ~~Es kann eine Liste vertrauenswürdiger Orte definiert werden, von denen Inhalte unmittelbar geöffnet und bearbeitet werden können.~~
 
 __zu:__\
@@ -1289,7 +1289,7 @@ __Ergänzung:__\
 Der verwendete Webbrowser SOLLTE die aktuelle Version der Content Security Policy (CSP) gemäß den Spezifikationen des World Wide Web Consortium (W3C) umsetzen.
 
 #### APP.1.2.A7
-__Änderung:__\
+__Geändert:__\
 ~~APP.1.2.A7 Schutz von Daten [Benutzer]~~
 
 __zu:__\
@@ -1345,13 +1345,13 @@ Dabei SOLLTEN institutionsinterne Vorgaben beachtet werden.
 #### Basis-Anforderungen
 
 #### APP.3.1.A1
-__Änderung:__\
+__Geändert:__\
 ~~Um auf geschützte Ressourcen einer Webanwendung zugreifen zu können, MÜSSEN sich Benutzer gegenüber der Anwendung authentisieren.~~
 
 __zu:__\
 Der IT-Betrieb und die Entwickler von Webanwendungen MÜSSEN sicherstellen, dass sich Benutzer gegenüber der Anwendung geeignet authentisieren, wenn diese auf geschützte Ressourcen zugreifen wollen.
 
-__Änderung:__\
+__Geändert:__\
 ~~Wird Basic-Auth verwendet, MUSS eine Transportverschlüsselung eingesetzt werden.
 Die Passwortdateien auf dem Webserver MÜSSEN ausreichend geschützt werden.~~
 
@@ -1389,7 +1389,7 @@ __Ergänzung:__\
 __Ergänzung:__\
 Entwickler MÜSSEN sicherstellen, (...)
 
-__Änderung:__\
+__Geändert:__\
 ~~Der Zugriff auf die Protokollierungsdaten MUSS auf wenige befugte Personen eingeschränkt werden.~~(...)
 ~~Bei der Protokollierung und beim Umgang mit den Protokollierungsdaten MÜSSEN die gesetzlichen Vorgaben eingehalten werden.~~
 
@@ -1471,7 +1471,7 @@ __Entfallen:__\
 __Entfallen:__\
 ~~Beim Einsatz eines Enterprise Service Bus (ESB) muss sichergestellt werden, dass sich alle Dienste gegenüber dem ESB authentisieren, bevor ihnen ein Zugriff erlaubt wird.~~
 
-__Änderung:__\
+__Geändert:__\
 ~~Beim Einsatz eines Enterprise Service Bus (ESB) muss sichergestellt werden, dass sich alle Dienste gegenüber dem ESB authentisieren, bevor ihnen ein Zugriff erlaubt wird.
 Es SOLLTE ein eigenes logisches Netzsegment für den ESB vorhanden sein.~~
 
@@ -1506,7 +1506,7 @@ Die Ergebnisse SOLLTEN dem ISB oder einem anderen hierfür bestimmten Mitarbeite
 
 
 #### APP.3.1.A21
-__Änderung:__\
+__Geändert:__\
 ~~Zum Schutz vor Clickjacking-Angriffen SOLLTE in den HTTP-Response-Headern der Webanwendung die Direktive X-FRAME-OPTIONS mit geeigneten Parametern gesetzt werden.
 Darüber hinaus SOLLTE eine HTTP-Content-Security-Policy eingesetzt werden.~~
 
@@ -1540,7 +1540,7 @@ Entwickler und Betreiber einer Webanwendung SOLLTEN sicherstellen, dass vertraul
 #### Basis-Anforderungen
 
 #### APP.3.2.A2
-__Änderung:__\
+__Geändert:__\
 ~~Ressourcen außerhalb des WWW-Verzeichnisses DÜRFEN NICHT aus diesem heraus verlinkt oder verknüpft werden.~~
 
 __zu:__\
@@ -1556,7 +1556,7 @@ __Entfallen:__\
 ~~Abrufbare Dateien MÜSSEN auf einer separaten Partition der Festplatte gespeichert sein.~~
 
 #### APP.3.2.A5
-__Änderung:__\
+__Geändert:__\
 Wenn sich Clients mit Hilfe von Passwörtern am Webserver authentisieren, MÜSSEN diese kryptografisch gesichert und vor unbefugtem Zugriff geschützt gespeichert werden.
 
 #### ENTFALLEN: APP.3.2.A6
@@ -1587,7 +1587,7 @@ __Entfallen:__\
 ~~Darüber hinaus SOLLTE er sich dazu verpflichten, regelmäßig auf vorhandene Updates der genutzten Programme hinzuweisen.~~
 
 #### APP.3.2.A12
-__Änderung:__\
+__Geändert:__\
 ~~Aus den HTTP-Informationen und den angezeigten Fehlermeldungen SOLLTEN NICHT der Name und die Version der Webserver-Software ersichtlich sein.
 Auch SOLLTE sichergestellt werden, dass der Webserver ausschließlich anwendungsspezifische Fehlermeldungen ausgibt, die der Information des Benutzers dienen.
 Bei unerwarteten Fehlern SOLLTE der Webserver in einen sicheren Zustand übergehen.~~
@@ -1647,7 +1647,7 @@ __Entfallen:__\
 Die RAID-Level MÜSSEN dem Stand der Technik entsprechen.
 
 #### APP.3.3.A3
-__Änderung:__\
+__Geändert:__\
 Alle Daten MÜSSEN durch ein Viren-Schutzprogramm auf Schadsoftware untersucht werden, bevor sie auf dem Fileserver abgelegt werden.
 
 #### ENTFALLEN: APP.3.3.A4
@@ -1705,7 +1705,7 @@ Die Dateien SOLLTEN NUR strukturiert auf den Fileserver abgelegt werden.
 __Entfallen:__\
 ~~Es SOLLTEN alle Speicherressourcen des Fileservers katalogisiert werden, z. B. Festplatten, Flash-Speicher, Bandlaufwerke.~~
 
-__Änderung:__\
+__Geändert:__\
 ~~Folgende Ereignisse SOLLTEN mindestens protokolliert werden:
 • Aktivitäten (Modifizieren, Hinzufügen bzw. Löschen von Daten),
 • nicht autorisierte Zugriffe auf Daten und
@@ -1724,7 +1724,7 @@ Die Ergebnisse SOLLTEN ausreichend dokumentiert werden.
 Aufgedeckte Mängel SOLLTEN dazu führen, dass das Datensicherungskonzept überarbeitet wird.~~
 
 #### APP.3.3.A11
-__Änderung:__\
+__Geändert:__\
 ~~APP.3.3.A11 Einsatz von Quotas~~
 
 __zu:__\
@@ -1742,14 +1742,14 @@ Der IT-Betrieb SOLLTE beachten, dass, je nach eingesetztem Verfahren, Fehler nur
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 #### APP.3.3.A12
-__Änderung:__\
+__Geändert:__\
 ~~Dazu SOLLTEN die Datenträger vollständig verschlüsselt werden.~~
 
 __zu:__\
 Falls Hardwareverschlüsselung eingesetzt wird, SOLLTEN Produkte verwendet werden, deren Verschlüsselungsfunktion zertifiziert wurde.
 
 #### APP.3.3.A13
-__Änderung:__\
+__Geändert:__\
 ~~Daten SOLLTEN zudem zwischen unabhängigen Geräten oder unabhängigen Standorten repliziert werden.~~
 
 __zu:__\
@@ -1775,7 +1775,7 @@ __Entfallen:__\
 #### Standard-Anforderungen
 
 #### APP.3.4.A3
-__Änderung:__\
+__Geändert:__\
 ~~Mit einem lokalen Paketfilter SOLLTEN Ports, über die der Samba-Server nicht erreichbar sein soll, geblockt werden.~~
 
 __zu:__\
@@ -1784,20 +1784,20 @@ Samba SOLLTE so konfiguriert werden, dass nur benötigte Netzports geöffnet wer
 Falls dies nicht möglich ist, SOLLTEN die Ports, über die der Samba-Server nicht erreichbar sein soll, mit einem lokalen Paketfilter geblockt werden.
 
 #### APP.3.4.A4
-__Änderung:__\
+__Geändert:__\
 ~~APP.3.4.A4 Sicherstellung der NTFS-Eigenschaften auf einem Samba-Server~~
 
 __zu:__\
 APP.3.4.A4 Vermeidung der NTFS-Eigenschaften auf einem Samba-Server (S)
 
 #### APP.3.4.A5
-__Änderung:__\
+__Geändert:__\
 ~~Linux~~
 __zu:__\
 (...) Unix (...)
 
 #### APP.3.4.A6
-__Änderung:__\
+__Geändert:__\
 ~~Linux~~
 __zu:__\
 (...) Unix (...)
@@ -1852,7 +1852,7 @@ Bevor ein Patch eingespielt wird, MÜSSEN die Zonen- und Konfigurationsdateien g
 #### Basis-Anforderungen
 
 #### APP.5.1.A1
-__Änderung:__\
+__Geändert:__\
 ~~Alle für ein Groupware-System benötigten Komponenten (z. B. auch die Sicherheitsgateways) MÜSSEN entsprechend der geplanten Systemlandschaft sicher installiert und konfiguriert werden.
 Während das System installiert wird, MÜSSEN alle Passwörter sicher gewählt sein.
 Nicht genutzte Komponenten MÜSSEN deaktiviert werden.~~
@@ -1863,7 +1863,7 @@ Der IT-Betrieb MUSS alle für ein Groupware-System benötigten Komponenten entsp
 Nicht genutzte Komponenten des Groupware-Systems MÜSSEN deaktiviert werden.
 
 #### APP.5.1.A2
-__Änderung:__\
+__Geändert:__\
 ~~Die Groupware-Clients der Benutzer MÜSSEN durch den Administrator so vorkonfiguriert sein, dass sie, ohne dass der Benutzer etwas tun muss, maximal sicher sind.
 Die Benutzer MÜSSEN darauf hingewiesen werden, dass die Konfiguration nicht selbstständig geändert werden darf.
 Es MUSS zudem verhindert und untersagt sein, dass Passwörter im Klartext gespeichert werden.
@@ -1891,7 +1891,7 @@ Vorschaufunktionen für Datei-Anhänge MÜSSEN so konfiguriert werden, dass sie 
 E-Mail-Filterregeln sowie die unkontrolliert, automatische Weiterleitung von E-Mails MÜSSEN beschränkt werden.
 
 #### APP.5.1.A3
-__Änderung:__\
+__Geändert:__\
 ~~Es MÜSSEN alle sicherheitsrelevanten Servicepacks, Updates und Patches für das jeweilige Softwareprodukt eingespielt werden.
 Administratoren MÜSSEN sich daher regelmäßig über neu bekannt gewordene Schwachstellen der eingesetzten Groupware-Systeme und der genutzten Betriebssysteme informieren und sie zeitnah schließen.
 Um Groupware-Systeme in der Institution abzusichern, MÜSSEN Schutzmechanismen gegen Denial-of-Service-(DoS)-Attacken ergriffen werden.
@@ -1920,7 +1920,7 @@ Werden Nachrichten auf einem E-Mailserver gespeichert, MUSS der IT-Betrieb eine 
 Diese Größenbeschränkung MUSS geeignet festgelegt werden.
 
 #### APP.5.1.A4
-__Änderung:__\
+__Geändert:__\
 ~~Bei einem Groupware-System MÜSSEN die Daten regelmäßig gesichert werden.
 Dafür MUSS geregelt werden, wie die gesendeten und empfangenen E-Mails der E-Mail-Clients und auf E-Mail-Servern gesichert werden.
 Auch SOLLTE eine dokumentierte Vorgehensweise erstellt werden, wie E-Mails zu archivieren sind.
@@ -1940,7 +1940,7 @@ Die Vorgehensweise SOLLTE regeln, wie, wann, wie lange und wo gesendete und empf
 Der IT-Betrieb SOLLTE planen und testen, wie archivierte E-Mails wieder eingespielt werden können.
 
 #### APP.5.1.A7 (Aktualisiert: Basis-Anforderung)
-__Änderung:__\
+__Geändert:__\
 ~~Bevor eine Institution ein Groupware-System einführt, SOLLTE entschieden werden, wofür es genutzt wird und welche Informationscluster zukünftig auf dem Groupware-System verarbeitet werden sollen.
 Es SOLLTE entschieden werden, ob ein eigener Groupware-Server in der Institution eingesetzt oder ein Provider genutzt werden soll.
 Auch SOLLTE ermittelt werden, wie die Groupware-Clients auf die Server zugreifen.
@@ -1990,7 +1990,7 @@ Auch aus Datenschutzgründen (Bundesdatenschutzgesetz (BDSG), Weitergabekontroll
 Bei zu übermittelnden Daten SOLLTE ersichtlich sein, welche Kommunikationspartner Informationen erhalten haben bzw. erhalten werden.~~
 
 #### APP.5.1.A6
-__Änderung:__\
+__Geändert:__\
 ~~Für die E-Mail-Bearbeitung SOLLTE für jeden Mitarbeiter jederzeit ein geeigneter Vertreter benannt sein.
 Vertreter SOLLTEN auf das Postfach des Vertretenden zugreifen können.
 Alternativ SOLLTEN die E-Mails an den Vertreter weitergeleitet werden.
@@ -2012,7 +2012,7 @@ Die Regelungen SOLLTEN beschreiben, wie diese Funktionen sicher gesteuert werden
 Wenn Mitarbeiter die Autoreply-Funktionen nutzen, SOLLTEN keine internen Informationen weitergegeben werden.
 
 #### APP.5.1.A8
-__Änderung:__\
+__Geändert:__\
 ~~Es SOLLTE eine Sicherheitsrichtlinie für Groupware-Systeme und -Anwendungen erstellt und regelmäßig aktualisiert werden.
 Alle Benutzer und Administratoren SOLLTEN über neue oder veränderte Sicherheitsvorgaben für Groupware-Systeme informiert werden.
 Die Groupware-Sicherheitsrichtlinie SOLLTE konform zu den geltenden übergeordneten Sicherheitsrichtlinien der Institution sein.
@@ -2083,7 +2083,7 @@ Administrative Tätigkeiten auf Betriebssystemebene und Groupware-Anwendungseben
 Auch innerhalb der Administration SOLLTEN Rollen und Verantwortlichkeiten getrennt werden.~~
 
 #### APP.5.1.A12
-__Änderung:__\
+__Geändert:__\
 ~~Es SOLLTEN alle Benutzer für die Arbeit mit dem Groupware-Client geschult und eingewiesen werden.
 Dabei SOLLTE den Benutzern gezeigt werden, welche Sicherheitsmechanismen verfügbar sind und wie sie eingesetzt werden können.
 Wer Groupware nutzt, SOLLTE für Gefährdungen und einzuhaltende Sicherheitsmaßnahmen sensibilisiert werden.
@@ -2136,7 +2136,7 @@ __Ergänzung:__\
 Die Institution SOLLTE mit dem Dienstleister Vereinbarungen zu SLAs treffen.
 
 #### APP.5.1.A18
-__Änderung:__\
+__Geändert:__\
 ~~Auf dem zentralen Mailserver SOLLTE ein E-Mail-Scanner mit einem integrierten speicherresistenten Virenschutzprogramm installiert werden, der eingehende und ausgehende E-Mails, insbesondere deren Anhänge, auf SpamMerkmale und schädliche Inhalte überprüft.
 Da verschlüsselte E-Mails nicht automatisch überprüft werden können, SOLLTE auch festgelegt werden, wie mit solchen E-Mails zu verfahren ist.
 Wenn ein E-Mail-Scanner genutzt wird, SOLLTEN darüber alle Mitarbeiter, der Datenschutzbeauftragte und die Personalvertretung informiert werden.~~
@@ -2183,7 +2183,7 @@ __Entfallen:__\
 ~~• Integration der Server- und Client-Systeme in die hierfür vorgesehenen Netzsegmente.~~
 
 #### APP.5.2.A3
-__Änderung:__\
+__Geändert:__\
 ~~Für die Systeme der Microsoft Exchange-Infrastruktur MUSS ein Berichtigungskonzept erstellt, geeignet dokumentiert und angewendet werden.
 Es MÜSSEN den privilegierten Anwendern sowie den Administratoren nur so viele Berechtigungen eingeräumt werden, wie für die Aufgabenerfüllung notwendig ist (Minimalprinzip).
 Es MUSS regelmäßig überprüft werden, ob die zugeteilten Rechte noch angemessen sind.~~
@@ -2216,7 +2216,7 @@ Da sich Microsoft Exchange-Systeme sehr stark in die Windows-Umgebung integriere
 Die Systeme, auf denen Microsoft Exchange und Outlook installiert werden soll, SOLLTEN geeignet abgesichert sein.~~
 
 #### APP.5.2.A7
-__Änderung:__\
+__Geändert:__\
 ~~APP.5.2.A7 Migration von Microsoft Exchange-Systemen
 Alle Migrationsschritte SOLLTEN gründlich geplant und dokumentiert werden.
 Es SOLLTEN die Microsoft Windows-Systemadministratoren an der Planung beteiligt werden.
@@ -2242,7 +2242,7 @@ Die Verantwortlichen SOLLTEN bekannt gewordene Schwachstellen zeitnah in Abhäng
 Generell SOLLTE darauf geachtet werden, dass Patches und Updates nur aus vertrauenswürdigen Quellen bezogen werden.~~
 
 #### APP.5.2.A9
-__Änderung:__\
+__Geändert:__\
 ~~APP.5.2.A9 Sichere Konfiguration von Microsoft Exchange-Servern
 Microsoft Exchange-Server SOLLTEN aufbauend auf den Vorgaben aus dem Sicherheitskonzept konfiguriert werden.
 Es SOLLTE eine maximal zulässige Größe sowohl für eingehende als auch für ausgehende Nachrichten eingestellt werden.
@@ -2261,7 +2261,7 @@ Für vorhandene benutzerspezifische Anpassungen SOLLTE ein entsprechendes Konzep
 Bei der Verwendung von funktionalen Erweiterungen SOLLTE sichergestellt sein, dass die definierten Anforderungen an die Schutzziele Vertraulichkeit, Integrität und Verfügbarkeit weiterhin erfüllt sind.
 
 #### APP.5.2.A10
-__Änderung:__\
+__Geändert:__\
 ~~APP.5.2.A10 Einstellungen von Outlook
 Nur Administratoren SOLLTEN die Outlook-Umgebung ändern können.
 Dazu SOLLTE für jeden Anwender ein eigenes Outlook-Profil mit den benutzerspezifischen Einstellungen angelegt werden.
@@ -2288,7 +2288,7 @@ Der IT-Betrieb SOLLTE die Benutzer darüber informieren, welche Informationen au
 Lesebestätigungen und Informationen, die auf die interne Struktur der Institution schließen lassen, SOLLTEN NICHT an externe Anwender übermittelt werden.
 
 #### APP.5.2.A11
-__Änderung:__\
+__Geändert:__\
 ~~Es SOLLTE nachvollziehbar entschieden werden, mit welchen Schutzmechanismen die Kommunikation von und zu Microsoft Exchange-Systemen abgesichert wird.
 Es SOLLTE entschieden und nachvollziehbar dokumentiert werden, welches der verschiedenen möglichen Verfahren Internet Protocol Security (IPSec) oder Transport Layer Security (TLS) eingesetzt werden soll.
 Es SOLLTEN die
@@ -2315,7 +2315,7 @@ Insbesondere SOLLTE der IT-Betrieb festlegen, wie die Kommunikation zu folgenden
 • Public-Key-Infrastruktur, auf der die E-Mail-Verschlüsselung von Microsoft Outlook basiert.
 
 #### APP.5.2.A12
-__Änderung:__\
+__Geändert:__\
 ~~Outlook Anywhere SOLLTE entsprechend den Sicherheitsanforderungen der Institution konfiguriert werden.
 Der Zugriff auf Microsoft Exchange über das Internet SOLLTE auf die notwendigen Anwender beschränkt werden.
 Die Kommunikation zu Outlook Anywhere SOLLTE verschlüsselt werden (siehe APP.5.2.A11 Absicherung der Kommunikation von und zu Microsoft Exchange-Systemen).~~
@@ -2333,7 +2333,7 @@ __Diese Anforderung ist entfallen:__
 Für den Betrieb der Komponenten der Microsoft Exchange-Infrastruktur SOLLTE nur geeignetes und geschultes Personal eingesetzt werden.~~
 
 #### APP.5.2.A14
-__Änderung:__\
+__Geändert:__\
 ~~Outlook-Anwender SOLLTEN regelmäßig über bestehende und neue Gefahren beim Arbeiten mit Microsoft Outlook sensibilisiert und geschult werden.
 Allen Anwendern SOLLTEN relevante Sicherheitsmechanismen und die entsprechenden Vorgehensweisen innerhalb von Outlook vermittelt werden.
 Hierbei SOLLTEN Regelungen, z. B. für Zugriffsmechanismen, Authentisierungsformen und kryptografische Vorgaben für die E-Mail-Verschlüsselung, berücksichtigt werden.~~
@@ -2400,7 +2400,7 @@ __Entfallen:__\
 ~~Es MUSS gewährleistet werden, dass nur dafür vorgesehene Wechselspeicher und sonstige Geräte an die Server angeschlossen werden können.~~
 
 #### SYS.1.1.A2
-__Änderung:__\
+__Geändert:__\
 ~~Um den Server zu nutzen, MÜSSEN sich die Benutzer gegenüber dem IT-System authentisieren.
 Sollen hierfür die Benutzer und Administratoren Passwörter verwenden, MÜSSEN sichere Passwörter benutzt werden.
 Hierfür SOLLTE es eine Passwort-Richtlinie geben.
@@ -2494,13 +2494,13 @@ Keine inhaltlichen Änderungen.
 #### Basis-Anforderungen
 
 #### SYS.1.5.A5
-__Änderung:__\
+__Geändert:__\
 ~~SOLLTEN ausreichend verschlüsselte Protokolle eingesetzt werden.~~
 
 __zu:__\
 (...) SOLLTEN als sicher geltende Protokolle eingesetzt werden.
 
-__Änderung:__\
+__Geändert:__\
 ~~Sollte dennoch auf unverschlüsselte und damit unsichere Protokolle zurückgegriffen werden,~~
 
 __zu:__\
@@ -2536,7 +2536,7 @@ __Entfallen:__\
 #### Basis-Anforderungen
 
 #### SYS.1.8.A4
-__Änderung:__\
+__Geändert:__\
 ~~Es SOLLTEN ausreichend verschlüsselte Protokolle eingesetzt werden.
 Sollte dennoch auf unverschlüsselte und damit unsichere Protokolle zurückgegriffen werden, MUSS für die Administration ein eigenes Administrationsnetz genutzt werden.~~
 
@@ -2601,7 +2601,7 @@ Für komplexe Patches oder Änderungen MÜSSEN in einem Umsetzungsplan Tests, Ko
 Nach einem funktionalen Update des Betriebssystems MUSS überprüft werden, ob alle Anforderungen aus dem IT-Grundschutz und den internen Vorgaben weiterhin erfüllt werden.~~
 
 #### SYS.2.2.3.A4
-__Änderung:__\
+__Geändert:__\
 ~~Die Telemetriedienste, also die Diagnose- und Nutzungsdaten, die Microsoft zur Identifizierung und Lösung von Problemen, zur Verbesserung der Dienste und Produkte und zur Personalisierung des Systems mit eindeutigen Identifizierungsmerkmalen verknüpft in die USA überträgt, können im Betriebssystem nicht vollständig abgeschaltet werden.~~
 
 __zu:__\
@@ -2635,7 +2635,7 @@ __Ergänzung:__\
 Es SOLLTE geprüft werden, ob ein institutioneller Wiederherstellungsschlüssel für FileVault verwendet werden soll.
 
 #### SYS.2.4.A5
-__Änderung:__\
+__Geändert:__\
 ~~SYS.2.4.A5 Erhöhung des Schutzes von Daten~~
 
 __zu:__\
@@ -2678,7 +2678,7 @@ Keine inhaltlichen Änderungen.
 #### Basis-Anforderungen
 
 #### SYS.3.2.1.A2
-__Änderung:__\
+__Geändert:__\
 ~~Die Institution MUSS für mobile Endgeräte eine generelle Strategie für die Cloud-Nutzung und Informationskontrolle sowie für den Schutz der Informationen festlegen.~~
 
 __zu:__\
@@ -2717,7 +2717,7 @@ Außerdem MÜSSEN Jailbreaks organisatorisch untersagt und nach Möglichkeit tec
 #### Standard-Anforderungen
 
 #### SYS.3.2.3.A12
-__Änderung:__\
+__Geändert:__\
 ~~SYS.3.2.3.A12 Verwendung institutionsbezogener Apple IDs
 Statt mit einer persönlichen Apple ID des Benutzers SOLLTE das iOS-basierte Gerät mit einer institutionsbezogenen Apple ID verwendet werden.
 Als zusätzliche Vorsorgemaßnahme zur Verhinderung des Missbrauchs dienstlicher Zahlungsmittel (Kreditkarten) SOLLTE das Programm für Volumenlizenz (VPP) von Apple verwendet werden.~~
@@ -2730,7 +2730,7 @@ Werden Dienste verwendet, für die eine Apple-ID erforderlich ist, SOLLTE statt 
 Falls möglich, SOLLTE der Apple Business Manager für Volumenlizenzen (früher Volume Purchase Program, VPP) sowie eine zentralisierte Installation von Apps verwendet werden.
 
 #### SYS.3.2.3.A21
-__Änderung:__\
+__Geändert:__\
 ~~Wenn zusätzliche Apps von Drittanbietern eingesetzt werden (siehe SYS.3.2.3.A1), MUSS durch die Verantwortlichen der interne Software-Freigabeprozess bzgl. der Validierung und Freigabe von Anwendungen (Apps) aus dem Apple App Store ergänzt werden.~~
 
 __zu:__\
@@ -2749,7 +2749,7 @@ __Dieser Baustein ist entfallen.__
 #### Basis-Anforderungen
 
 #### SYS.4.1.A2
-__Änderung:__\
+__Geändert:__\
 ~~Das Passwort DARF ausschließlich berechtigten Benutzern bekannt sein und MUSS regelmäßig geändert werden.
 Nicht benötigte Gerätefunktionen SOLLTEN abgeschaltet werden.~~
 
@@ -2792,7 +2792,7 @@ __Ergänzung:__\
 Netzdrucker und Multifunktionsgeräte SOLLTEN in einem eigenen Netzsegment, das von den Clients und Servern der Institution getrennt ist, betrieben werden.
 
 #### SYS.4.1.A18
-__Änderung:__\
+__Geändert:__\
 ~~Alle Drucker und Multifunktionsgeräte SOLLTEN entsprechend einer definierten Sicherheitsrichtlinie konfiguriert werden.
 Die Geräte SOLLTEN ausschließlich über verschlüsselte Protokolle wie https und SNMPv3 verwaltet werden.
 Sämtliche Protokolle, mit denen unverschlüsselt auf Drucker und Multifunktionsgeräte zugegriffen werden kann, SOLLTEN durch verschlüsselte ersetzt und abgeschaltet werden.
@@ -2847,7 +2847,7 @@ Wenn für Autoupdate-Mechanismen ein Zeitintervall vorgegeben werden kann, SOLLT
 __Entfallen:__\
 ~~• Signaturen auf Intrusion-Prevention-Systemen (IPS).~~
 
-__Änderung:__\
+__Geändert:__\
 ~~• Konfiguration von Virtual Private Networks (VPNs) zwischen den Netzen mit IoT-Geräten und Sensor-Netzen und den Management-Netzen.~~
 
 __zu:__\
@@ -2864,14 +2864,14 @@ __Entfallen:__\
 ~~IoT-Geräte mit einem Cloud-Konzept SOLLTEN nicht beschafft werden.~~
 
 #### SYS.4.4.A10
-__Änderung:__\
+__Geändert:__\
 ~~Falls möglich, SOLLTEN IoT-Geräte erst mit IT-Netzen verbunden werden, nachdem die Installation und die Konfiguration abgeschlossen sind; dies gilt vor allem für öffentliche Netze.~~
 
 __zu:__\
 Falls möglich, SOLLTEN IoT-Geräte erst mit Datennetzen verbunden werden, nachdem die Installation und die Konfiguration abgeschlossen sind.
 
 #### SYS.4.4.A11
-__Änderung:__\
+__Geändert:__\
 ~~Daten SOLLTEN nur verschlüsselt übertragen werden. IoT-Geräte SOLLTEN ein auf Verschlüsselung basierendes Protokoll (z. B. SSL/TLS bzw. SSH) unterstützen.
 Bietet das Produkt selbst keine Verschlüsselung, SOLLTE dies bei der Inbetriebnahme, z. B. über ein Virtual Private Network (VPN), flankierend umgesetzt werden.~~
 
@@ -2883,7 +2883,7 @@ __Entfallen:__\
 ~~Dies gilt insbesondere für unsichere Dienste, wie z. B. Telnet oder SNMPv1/v2.~~
 
 #### SYS.4.4.A17
-__Änderung:__\
+__Geändert:__\
 ~~Es SOLLTE überwacht werden, ob Netzverkehr von den IoT-Geräten oder Sensor-Systemen zu Nicht-Managementsystemen erfolgt.~~
 
 __zu:__\
@@ -3041,7 +3041,7 @@ __Entfallen:__\
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 #### IND.1.A16
-__Änderung:__\
+__Geändert:__\
 ~~Durch Realisierung einer oder mehrerer Anbindungszonen (DMZ) in P-A-P-Struktur (durch Firewalls gekapselte Application Layer Gateways) KÖNNEN durchgängige Außenverbindungen terminiert werden und erforderliche Sicherheitsprüfungen (Virenschutz, Formatierung von Daten, Prüfung und Filterung von Inhalten, Medienbrüche) erfolgen, ohne dass Anpassungen an der ICS-Anlage notwendig sind.~~
 
 ~~Die Umsetzung dieser Anforderung erhöht die Perimetersicherheit.~~
@@ -3079,14 +3079,14 @@ __Entfallen:__ (...) ~~und regelmäßig geändert werden.~~
 #### Standard-Anforderungen
 
 #### NET.1.2.A19
-__Änderung:__\
+__Geändert:__\
 (...)~~dem Stand der Technik entsprechende~~(...)
 
 __zu:__\
 (...) als sicher geltende (...)
 
 #### NET.1.2.A20
-__Änderung:__\
+__Geändert:__\
 (...)~~dem Stand der Technik entsprechende~~(...)
 
 __zu:__\
@@ -3113,7 +3113,7 @@ __Entfallen:__\ (...), ~~mit denen die administrativen Tätigkeiten im Notfall d
 __Entfallen:__ ~~Außerdem MUSS dieser regelmäßig gewechselt werden.~~
 
 #### NET.2.1.A4
-__Änderung:__\
+__Geändert:__\
 ~~Access Points MÜSSEN zugriffssicher montiert werden.~~
 ~~Darüber hinaus MUSS darauf geachtet werden, dass die Ausbreitung der Funkwellen in Bereichen, die nicht durch das WLAN versorgt werden sollen, möglichst stark reduziert ist.~~
 ~~Außeninstallationen MÜSSEN vor Witterungseinflüssen und elektrischen Entladungen wie z. B. Blitzschlag in geeigneter Weise geschützt werden.~~
@@ -3152,21 +3152,21 @@ Für typische Ausfallszenarien SOLLTEN entsprechende Handlungsanweisungen defini
 #### Basis-Anforderungen
 
 #### NET.3.2.A3
-__Änderung:__\
+__Geändert:__\
 ~~Auch für die verbindungslosen Protokolle UDP und ICMP SOLLTEN zustandsbehaftete Filterregeln konfiguriert werden.~~
 
 __zu:__\
 Auch für die verbindungslosen Protokolle UDP und ICMP MÜSSEN zustandsbehaftete Filterregeln konfiguriert werden.
 
 #### NET.3.2.A4
-__Änderung:__\
+__Geändert:__\
 ~~Die Integrität der Konfigurationsdateien SOLLTE geeignet geschützt werden.~~
 
 __zu:__\
 Die Integrität der Konfigurationsdateien MUSS geeignet geschützt werden.
 
 #### NET.3.2.A11
-__Änderung:__\
+__Geändert:__\
 ~~Vorab SOLLTE auf einem Testsystem überprüft werden, (...)~~
 
 __zu:__\
@@ -3175,14 +3175,14 @@ Vorab MUSS auf einem Testsystem überprüft werden, (...)
 #### Standard-Anforderungen
 
 #### NET.3.2.A18
-__Änderung:__\
+__Geändert:__\
 ~~Eine eventuell vorhandene Administrationsschnittstelle über das eigentliche Datennetz (In-Band) MUSS deaktiviert werden.~~
 
 __zu:__\
 Eine eventuell vorhandene Administrationsschnittstelle über das eigentliche Datennetz (In-Band) SOLLTE deaktiviert werden.
 
 #### NET.3.2.A21
-__Änderung:__\
+__Geändert:__\
 ~~Hierbei MÜSSEN die rechtlichen Rahmenbedingungen beachtet werden.~~
 
 __zu:__\
@@ -3211,7 +3211,7 @@ __Ergänzung:__ (...) beziehungsweise Fachaufgaben,
 #### Basis-Anforderungen
 
 #### NET.4.1.A5
-__Änderung:__\
+__Geändert:__\
 ~~Die protokollierten Informationen MÜSSEN regelmäßig kontrolliert werden.~~
 
 __zu:__\
@@ -3275,7 +3275,7 @@ __Entfallen:__\
 ~~Alle Informationen, die auf dem Faxdeckblatt einzutragen sind, SOLLTEN in geeigneter Weise ausgewählt werden.~~
 
 #### NET.4.3.A8
-__Änderung:__\
+__Geändert:__\
 (...) ~~vernichtet~~ (...)
 
 __zu:__\
@@ -3284,7 +3284,7 @@ __zu:__\
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 #### NET.4.3.A12
-__Änderung:__\
+__Geändert:__\
 ~~Unerwünschte Faxadressen, beispielsweise die von per Fax werbenden Unternehmen, SOLLTEN blockiert bzw. nur bestimmte Rufnummern zugelassen werden.~~
 
 __zu:__\
@@ -3318,7 +3318,7 @@ __Ergänzung:__\
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 #### INF.1.A27
-__Änderung:__\
+__Geändert:__\
 ~~Gleichwertigkeit und Durchgängigkeit des Einbruchsschutzes bei der Planung, der Umsetzung und im Betrieb SOLLTEN regelmäßig durch eine fachkundige Person begutachtet werden.~~
 
 __zu:__\
@@ -3352,7 +3352,7 @@ __Entfallen:__ (...) ~~mit einem Kabelschacht~~(...)
 #### Basis-Anforderungen
 
 #### INF.2.A1
-__Änderung:__\
+__Geändert:__\
 ~~Wenn ein Rechenzentrum geplant wird oder geeignete Räumlichkeiten ausgewählt werden, MÜSSEN potenzielle Gefährdungen durch Umgebungseinflüsse sowie das Sicherheitsniveau der IT-Komponenten (insbesondere Verfügbarkeit) mitbetrachtet werden.
 Weiterhin MÜSSEN auch Schutzmaßnahmen vor potenziellen internen und externen Angriffen in die Gesamtbetrachtung einfließen.~~
 
@@ -3365,7 +3365,7 @@ __Entfallen:__\
 Vorhandene Versorgungsleitungen MÜSSEN zumindest an den kritischen Stellen regelmäßig überprüft werden, ob sie noch dicht sind.~~
 
 #### INF.2.A2
-__Änderung:__\
+__Geändert:__\
 ~~Schutzziel für die Brandwand bzw. den Brandabschnitt MUSS nicht nur der Personen- und Gebäudeschutz, sondern auch der Schutz des Inventars und dessen Verfügbarkeit sein.
 Somit MUSS nicht nur verhindert werden, dass sich ein Brand durch Flammen und heiße Rauchgase ausbreitet, sondern es MÜSSEN auch die Wärmestrahlung und die Ausbreitung von kaltem Rauch blockiert werden.~~
 
@@ -3384,7 +3384,7 @@ __Entfallen:__\
 ~~Wenn IT-Geräte über eine USV versorgt werden, DÜRFEN diese NICHT über geschirmte Leitungen mit weiteren IT-Geräten verbunden werden.~~
 
 #### INF.2.A4
-__Änderung:__\
+__Geändert:__\
 ~~Für den Notfall MUSS es geeignete Möglichkeiten geben, das Rechenzentrum spannungsfrei zu schalten.
 Dafür SOLLTE beispielsweise ein Not-Aus-Schalter installiert werden.
 Ein solcher Schalter MUSS nicht nur die externe Energieversorgung abtrennen, sondern auch die komplette USV-Anlage abschalten.
@@ -3402,7 +3402,7 @@ Die Notabschaltung MUSS sinnvoll parzelliert und zielgerichtet erfolgen.
 Alle Not-Aus-Schalter MÜSSEN so geschützt sein, dass sie nicht unbeabsichtigt oder unbefugt betätigt werden können.
 
 #### INF.2.A5
-__Änderung:__\
+__Geändert:__\
 ~~Wenn die beiden Parameter „Temperatur“ und „Feuchtigkeit“ vom Normwert abweichen, MÜSSEN sie über eine repräsentative Dauer hinweg in einem der Situation angepassten Zeitintervall aufgezeichnet werden.~~
 
 __zu:__\
@@ -3420,7 +3420,7 @@ Sie MÜSSEN mit einem Sichtschutz versehen sein.
 __Ergänzung:__\
 (...) oder durch technische (insbesondere durch eine flächendeckende Brandfrüherkennung, siehe INF.2.A17 Brandfrüherkennung) und organisatorische Maßnahmen (geschultes Personal und fallbezogene Reaktionspläne für Meldungen der Brandfrüherkennung) sichergestellt sein, dass unmittelbar (innerhalb von maximal 5 Minuten) auf Meldungen der Brandfrüherkennung reagiert wird.
 
-__Änderung:__\
+__Geändert:__\
 ~~In Serverräumen SOLLTEN hierfür Handfeuerlöscher in ausreichender Zahl und Größe benutzt werden.~~
 
 __zu:__\
@@ -3515,7 +3515,7 @@ __Ergänzung:__\
 Tragsysteme SOLLTEN hinsichtlich Brandbeanspruchung in einem dem Schutzbedarf genügenden Funktionserhalt ausgeführt werden.
 
 #### INF.2.A27
-__Änderung:__\
+__Geändert:__\
 ~~Mit den Angestellten der Institution SOLLTEN regelmäßige Alarmierungs- und Brandschutzübungen durchgeführt werden.~~
 
 __zu:__\
@@ -3537,7 +3537,7 @@ __Ergänzung:__\
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 #### INF.3.A13
-__Änderung:__\
+__Geändert:__\
 ~~NEA und USV MÜSSEN regelmäßig gewartet werden.~~
 
 __zu:__\
