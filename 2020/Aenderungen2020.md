@@ -962,21 +962,21 @@ __Ergänzung:__\
 Wenn Archivdaten in neue Formate konvertiert werden, SOLLTE geprüft werden, ob die Daten aufgrund rechtlicher Anforderungen zusätzlich in ihren ursprünglichen Formaten zu archivieren sind.
 
 #### NEU: OPS.1.2.2.A17
-__Anforderung hinzugefügt__
+Diese Anforderung wurde neu hinzugefügt.
 
 #### NEU: OPS.1.2.2.A18
-__Anforderung hinzugefügt__
+Diese Anforderung wurde neu hinzugefügt.
 
 #### NEU: OPS.1.2.2.A19
-__Anforderung hinzugefügt__
+Diese Anforderung wurde neu hinzugefügt.
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 #### NEU: OPS.1.2.2.A20
-__Anforderung hinzugefügt__
+Diese Anforderung wurde neu hinzugefügt.
 
 #### NEU: OPS.1.2.2.A21
-__Anforderung hinzugefügt__
+Diese Anforderung wurde neu hinzugefügt.
 
 </details>
 
@@ -1013,18 +1013,18 @@ __OPS.1.2.5.A1 - OPS.1.2.5.A23 sind in 2020 ergänzt worden.__
 #### Standard-Anforderungen
 
 #### NEU: OPS.2.1.A13
-__Anforderung hinzugefügt__
+Diese Anforderung wurde neu hinzugefügt.
 
 #### NEU: OPS.2.1.A14
-__Anforderung hinzugefügt__
+Diese Anforderung wurde neu hinzugefügt.
 
 #### NEU: OPS.2.1.A15
-__Anforderung hinzugefügt__
+Diese Anforderung wurde neu hinzugefügt.
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 #### NEU: OPS.2.1.A16
-__Anforderung hinzugefügt__
+Diese Anforderung wurde neu hinzugefügt.
 
 </details>
 
