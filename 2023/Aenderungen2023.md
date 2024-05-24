@@ -98,7 +98,7 @@ __Hinzugefügt:__
 Die Vorgehensweisen und eingesetzten Methoden, um nicht mehr benötigte private Schlüssel zu löschen oder zu vernichten, SOLLTEN im Kryptokonzept dokumentiert werden.
 
 
-#### CON.1.A6 ENTFALLEN
+#### ENTFALLEN: CON.1.A6
 
 Ehemals *Bedarfserhebung für kryptografische Verfahren und Produkte*:
 
@@ -109,7 +109,7 @@ Ehemals *Bedarfserhebung für kryptografische Verfahren und Produkte*:
 *Diese SOLLTEN durch den IT-Betrieb geeignet kryptografisch abgesichert werden.*
 
 
-#### CON.1.A7 ENTFALLEN
+#### ENTFALLEN: CON.1.A7
 
 Ehemals *Erstellung einer Sicherheitsrichtlinie für den Einsatz kryptografischer Verfahren und Produkte*:
 
@@ -133,7 +133,7 @@ Ehemals *Erstellung einer Sicherheitsrichtlinie für den Einsatz kryptografische
 *Die Ergebnisse SOLLTEN sinnvoll dokumentiert werden.*
 
 
-#### CON.1.A8 ENTFALLEN
+#### ENTFALLEN: CON.1.A8
 
 Ehemals *Erhebung der Einflussfaktoren für kryptografische Verfahren und Produkte*:
 
@@ -193,7 +193,7 @@ Anforderung wurde vollständig neu hinzugefügt als Standard-Anforderung.
 Inhalt grundlegend verändert, auf eine Auflistung wird verzichtet.
 
 
-#### CON.1.A12 ENTFALLEN
+#### ENTFALLEN: CON.1.A12
 
 Ehemals *Sichere Rollenteilung beim Einsatz von Kryptomodulen*:
 
@@ -204,7 +204,7 @@ Ehemals *Sichere Rollenteilung beim Einsatz von Kryptomodulen*:
 *Das Kryptomodul SOLLTE so konfiguriert sein, dass bei jedem Rollenwechsel oder bei Inaktivität nach einer bestimmten Zeitdauer die Authentisierungsinformationen erneut eingegeben werden müssen.*
 
 
-#### CON.1.A13 ENTFALLEN
+#### ENTFALLEN: CON.1.A13
 
 Ehemals *Anforderungen an die Betriebssystem-Sicherheit beim Einsatz von Kryptomodulen*:
 
@@ -220,7 +220,7 @@ Ehemals *Anforderungen an die Betriebssystem-Sicherheit beim Einsatz von Kryptom
 *• Manipulationsversuche am Kryptomodul erkannt werden.*
 
 
-#### CON.1.A14 ENTFALLEN
+#### ENTFALLEN: CON.1.A14
 
 Ehemals *Schulung von Benutzern und Administratoren*:
 
