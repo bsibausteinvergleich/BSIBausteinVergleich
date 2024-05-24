@@ -1,4 +1,4 @@
-1# Übersicht der Änderungen des IT-Grundschutz-Kompendiums von Version 2020 zu 2021
+# Übersicht der Änderungen des IT-Grundschutz-Kompendiums von Version 2020 zu 2021
 
 Übergreifend wurden Formulierungen angepasst, die keinen Einfluss auf Bedeutung und Inhalt haben. Es wurden beispielsweise Sätze getrennt oder Formulierungen angepasst, die den Sprachfluss anpassen oder Gliederungen vereinheitlichen.
 
