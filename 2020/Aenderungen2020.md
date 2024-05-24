@@ -50,7 +50,7 @@ __zu:__\
 Die Regelungen MÜSSEN anlassbezogen überarbeitet werden.
 
 #### ORP.1.A2
-__Ersetzt:__\
+__Geändert:__\
 *ORP.1.A2 Zuweisung der Verantwortung für Informationen, Anwendungen und IT-Komponenten [Leiter IT,Informationssicherheitsbeauftragter (ISB), Institutionsleitung]*
 
 
@@ -59,7 +59,7 @@ __Ersetzt:__\
 
 *Alle Mitarbeiter MÜSSEN darüber informiert sein, insbesondere wofür sie in welcher Weise verantwortlich sind.*
 
-__durch:__\
+__zu:__\
 ORP.1.A2 Zuweisung der Verantwortung [Institutionsleitung] (B)
 
 Für alle Geschäftsprozesse, Anwendungen, IT-Systeme, Räume und Gebäude sowie Kommunikationsverbindungen MUSS festgelegt werden, wer für diese und deren Sicherheit verantwortlich ist.
@@ -427,14 +427,14 @@ Die Administratoren SOLLTEN zudem gezielt dazu geschult werden, wie die Kryptomo
 #### Basis-Anforderungen
 
 #### CON.2.A1
-__Ersetzt:__\
+__Geändert:__\
 *CON.2.A1 Umsetzung Standard-Datenschutzmodell*
 
 *Es MUSS geprüft werden, ob das Standard-Datenschutzmodell angewendet wird.*
 
 *Eine etwaige Nichtberücksichtigung des vollständigen Schutzziele-Katalogs und eine Nichtanwendung der SDM-Methodik sowie der Referenzmaßnahmen MÜSSEN begründet werden.*
 
-__durch:__\
+__zu:__\
 CON.2.A1 Umsetzung Standard-Datenschutzmodell (B)\
 
 Die gesetzlichen Bestimmungen zum Datenschutz (DSGVO, BDSG und LDSG) MÜSSEN eingehalten werden.
