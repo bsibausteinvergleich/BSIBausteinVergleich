@@ -225,7 +225,7 @@ Die Ausgabe bzw. der Entzug von verwendeten Zutrittsmittel wie Chipkarten MUSS d
 Wenn Zutrittsmittel kompromittiert wurden, MÜSSEN sie ausgewechselt werden.
 
 #### ORP.4.A6
-__Ergänzt:__\
+__Hinzugefügt:__\
 Wenn Zugangsmittel kompromittiert wurden, MÜSSEN sie ausgewechselt werden.
 
 #### ORP.4.A7
@@ -408,7 +408,7 @@ __Entfallen:__\
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 #### CON.1.A9
-__Ergänzt:__ Auf Produkte mit unkontrollierbarer Schlüsselablage SOLLTE generell verzichtet werden.
+__Hinzugefügt:__ Auf Produkte mit unkontrollierbarer Schlüsselablage SOLLTE generell verzichtet werden.
 
 #### CON.1.A14
 __Änderung:__\
@@ -569,10 +569,10 @@ __Ehemals:__
 Es SOLLTE regelmäßig getestet werden, ob die Datensicherung auch wie gewünscht funktioniert, und vor allem, ob gesicherte Daten problemlos und in angemessener Zeit zurückgespielt werden können.~~
 
 #### CON.3.A9
-__Ergänzt:__\
+__Hinzugefügt:__\
 • (Vereinbarungen zur Dienstgüte (SLA),) insbesondere in Hinsicht auf die Verfügbarkeit,\
 
-__Ergänzt:__\
+__Hinzugefügt:__\
 • (Verschlüsselung der Daten) auf dem Online-Speicher sowie
 
 #### CON.3.A12
