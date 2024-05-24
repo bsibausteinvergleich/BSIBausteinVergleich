@@ -16,13 +16,13 @@ ___
 „Geschäftsprozesse [der Behörde]“ __durch__ „Fachaufgaben“ __ergänzt.__
 
 #### ISMS.1.A8
-__Satzteil gestrichen:__\
+__Entfallen:__\
 Sie MÜSSEN in die Lage versetzt werden, Sicherheit aktiv mitzugestalten, *also in ihre Geschäftsprozesse mit einzubringen.*
 
 #### Standard-Anforderungen
 
 #### ISMS.1.A11
-__Satzteil gestrichen:__\
+__Entfallen:__\
 (...) *um das weitere Vorgehen im Sicherheitsprozess steuern zu können.*
 
 </details>
