@@ -52,7 +52,7 @@ Langlebige kryptografische Schlüssel MÜSSEN offline, außerhalb der eingesetzt
 
 #### Standard-Anforderungen
 
-#### CON.1.A3 ENTFALLEN
+#### ENTFALLEN: CON.1.A3
 
 Ehemals *Verschlüsselung der Kommunikationsverbindungen*:
 
@@ -383,7 +383,7 @@ Der Baustein wurde neu hinzugefügt.
 Anforderung wurde vollständig verändert, Notfallvorsorge ist aus dieser Anforderung entfallen.
 
 
-#### OPS.1.1.2.A3 ENTFALLEN
+#### ENTFALLEN: OPS.1.1.2.A3
 
 Ehemals *Geregelte Einstellung von IT-Administratoren*:
 
@@ -436,7 +436,7 @@ Anforderung wurde vollständig verändert.
 Anforderung wurde vollständig verändert.
 
 
-#### OPS.1.1.2.A9 ENTFALLEN
+#### ENTFALLEN: OPS.1.1.2.A9
 
 Ehemals *Ausreichende Ressourcen für den IT-Betrieb*:
 
@@ -447,7 +447,7 @@ Ehemals *Ausreichende Ressourcen für den IT-Betrieb*:
 *Die Ressourcenplanung SOLLTE in regelmäßigen Zyklen geprüft und den aktuellen Erfordernissen angepasst werden.*
 
 
-#### OPS.1.1.2.A10 ENTFALLEN
+#### ENTFALLEN: OPS.1.1.2.A10
 
 Ehemals *Fortbildung und Information*:
 
@@ -467,7 +467,7 @@ Ehemals *Fortbildung und Information*:
 Anforderung wurde vollständig verändert.
 
 
-#### OPS.1.1.2.A12 ENTFALLEN
+#### ENTFALLEN: OPS.1.1.2.A12
 
 Ehemals *Regelungen für Wartungs- und Reparaturarbeiten*:
 
@@ -487,7 +487,7 @@ Ehemals Anforderung erhöhten Schutzbedarfs, jetzt Standard-Anforderung.
 Inhalt wurde grundlegend verändert.
 
 
-#### OPS.1.1.2.A20 ENTFALLEN
+#### ENTFALLEN: OPS.1.1.2.A20
 
 Ehemals *Verwaltung und Inbetriebnahme von Geräten*:
 
@@ -531,14 +531,14 @@ Standard-Anforderung wurde neu hinzugefügt.
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
-#### OPS.1.1.2.A14 ENTFALLEN
+#### ENTFALLEN: OPS.1.1.2.A14
 
 Ehemals *Sicherheitsüberprüfung von Administratoren*:
 
 *Bei erhöhtem Schutzbedarf SOLLTEN Administratoren einer zusätzlichen Sicherheitsüberprüfung unterzogen werden.*
 
 
-#### OPS.1.1.2.A15 ENTFALLEN
+#### ENTFALLEN: OPS.1.1.2.A15
 
 Ehemals *Aufteilung von Administrationstätigkeiten*:
 
@@ -593,7 +593,7 @@ __Neu:__
 *Ist dies nicht der Fall, DÜRFEN diese Hardware- oder Software-Produkte NICHT mehr verwendet werden.*
 
 
-#### OPS.1.1.3.A16 ENTFALLEN
+#### ENTFALLEN: OPS.1.1.3.A16
 
 Ehemals *Regelmäßige Suche nach Informationen zu Patches und Schwachstellen*:
 
@@ -668,7 +668,7 @@ __Neu:__
 Keine inhaltlichen Änderungen.
 
 
-### OPS.2.1 ENTFALLEN
+### ENTFALLEN: OPS.2.1
 
 Der Baustein "*Outsourcing für Kunden*" ist entfallen. An dessen Stelle wurde der Baustein "*OPS.2.3 Nutzung von Outsourcing*" eingeführt.
 
@@ -683,7 +683,7 @@ Keine inhaltlichen Änderungen.
 Der Baustein "*Nutzung von Outsourcing*" wurde neu hinzugefügt anstelle des Bausteins "*OPS.2.1 Outsourcing für Kunden*".
 
 
-### OPS.3.1 ENTFALLEN
+### ENTFALLEN: OPS.3.1
 
 Der Baustein "Outsourcing für Dienstleister" ist entfallen. An dessen Stelle wurde der Baustein "OPS.3.2 Anbieten von Outsourcing" eingeführt.
 
@@ -836,7 +836,7 @@ Die Basis-Anforderung wurde neu hinzugefügt.
 
 #### Standard-Anforderungen
 
-#### APP.2.1.A7 ENTFALLEN
+#### ENTFALLEN: APP.2.1.A7
 
 Ehemals *Erstellung eines Sicherheitskonzepts für den Einsatz von Verzeichnisdiensten*:
 
@@ -958,7 +958,7 @@ __Neu:__
 *Dabei MUSS berücksichtigt werden, dass zwischen den einzelnen Domänen einer Gesamtstruktur produktbedingt keine Sicherheitsgrenzen bestehen und daher keine sichere Begrenzung der administrativen Bereiche innerhalb einer Gesamtstruktur möglich ist.*
 
 
-#### APP.2.2.A2 ENTFALLEN
+#### ENTFALLEN: APP.2.2.A2
 
 Die Anforderung ist ohne Angabe entfallen, wird im 2023er-Kompendium nicht mehr erwähnt, auch nicht der Wegfall.
 
@@ -1011,10 +1011,10 @@ __Geändert:__
 Die Anforderung wurde inhaltlich vollständig überarbeitet.
 
 
-#### APP.2.2.A10 ENTFALLEN
+#### ENTFALLEN: APP.2.2.A10
 
 
-#### APP.2.2.A11 ENTFALLEN
+#### ENTFALLEN: APP.2.2.A11
 
 
 #### APP.2.2.A12
@@ -1023,7 +1023,7 @@ Die Anforderung wurde inhaltlic vollständig überarbeitet.
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
-#### APP.2.2.A14 ENTFALLEN
+#### ENTFALLEN: APP.2.2.A14
 
 
 #### APP.2.2.A15
@@ -1405,7 +1405,7 @@ __Neu (aus entfallener Anforderung SYS.2.1.A14 übernommen):__
 *Auf Betriebssysteme, die über ein Rolling-Release-Modell aktualisiert werden, SOLLTE verzichtet werden.*
 
 
-#### SYS.2.1.A14 ENTFALLEN
+#### ENTFALLEN: SYS.2.1.A14
 
 Ehemals *Updates und Patches für Firmware, Betriebssystem und Anwendungen*.
 
@@ -1710,7 +1710,7 @@ Keine inhaltlichen Änderungen.
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
-#### INF.10.A10 ENTFALLEN
+#### ENTFALLEN: INF.10.A10
 
 __Anforderung wurde verschoben zu ORP.1.A17.__
 
