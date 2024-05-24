@@ -83,11 +83,6 @@ Besonders schützenswerte Speichermedien für die Datensicherung SOLLTEN nur wä
 In virtuellen Umgebungen sowie für Storage-Systeme SOLLTE geprüft werden, ob das IT-System ergänzend durch Snapshot-Mechanismen gesichert werden kann, um hierdurch mehrere schnell wiederherstellbare Zwischenversionen zwischen den vollständigen Datensicherungen zu erstellen.
 
 
-#### CON.3.A3
-
-Entfallen
-
-
 #### CON.3.A4
 
 __Geändert:__
@@ -781,7 +776,7 @@ Sofern nicht gleich- oder höherwertige Maßnahmen, wie z. B. Ausführungskontro
 
 #### Standard-Anforderungen
 
-#### SYS.2.2.3.A11 entfallen
+#### ENTFALLEN: SYS.2.2.3.A11
 
 __Ehemals:__
 
