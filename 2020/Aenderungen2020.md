@@ -81,7 +81,7 @@ __Entfallen:__\
 #### Standard-Anforderungen
 
 #### ENTFALLEN: ORP.1.A9
-__Anforderung entfallen:__
+__Ehemals:__
 ~~ORP.1.A9 Ordnungsgemäße Entsorgung von schützenswerten Betriebsmitteln [Mitarbeiter, Informationssicherheitsbeauftragter (ISB)]
 Betriebs- und Sachmittel SOLLTEN so entsorgt werden, dass keine Rückschlüsse auf ihre Verwendung oder Inhalte gezogen werden können.
 Die Entsorgung von schutzbedürftigen Materialien SOLLTE geregelt sein.
@@ -143,7 +143,7 @@ Die Vorgesetzten MÜSSEN dafür sorgen, dass im laufenden Betrieb Vertretungsreg
 #### Basis-Anforderungen
 
 #### ENTFALLEN: ORP.3.A3
-__Anforderung entfallen:__
+__Ehemals:__
 ~~ORP.3.A3 Einweisung des Personals in den sicheren Umgang mit IT [Vorgesetzte, Personalabteilung, IT-Betrieb]
 Alle Mitarbeiter und externen Benutzer MÜSSEN in den sicheren Umgang mit IT-, ICS- und IoT-Komponenten eingewiesen und sensibilisiert werden, soweit dies für ihre Arbeitszusammenhänge relevant ist.
 Dafür MÜSSEN verbindliche, verständliche, aktuelle und verfügbare Richtlinien zur Nutzung der jeweiligen Komponenten zur Verfügung stehen.
@@ -356,7 +356,7 @@ Insbesondere SOLLTE das im Notfallkonzept vorgesehene Berechtigungskonzept weite
 __Ergänzt__: "(...) basierend auf der Identifikation und Beachtung der rechtlichen Rahmenbedingungen, (...)
 
 #### ENTFALLEN: ORP.5.A7
-__Anforderung entfallen:__
+__Ehemals:__
 ~~ORP.5.A7 Aufrechterhaltung der Informationssicherheit [Informationssicherheitsbeauftragter (ISB)]
 Um das bestehende Sicherheitsniveau aufrechtzuerhalten und fortlaufend zu verbessern, SOLLTEN alle Sicherheitsmaßnahmen des Sicherheitskonzeptes regelmäßig auf Einhaltung und Verbesserungsbedarf überprüft werden.
 Die Prüfungen SOLLTEN durch unabhängige, fachlich qualifizierte, interne oder externe Personen durchgeführt werden.
@@ -366,7 +366,7 @@ Gefundene Mängel SOLLTEN zeitnah behoben werden.~~
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 #### ENTFALLEN: ORP.5.A9
-__Anforderung entfallen:__
+__Ehemals:__
 ~~ORP.5.A9 Schutz gegen nachträgliche Veränderungen von Informationen
 [Informationssicherheitsbeauftragter (ISB), Benutzer] (I)
 Damit Dateien nicht unbemerkt verändert werden können, SOLLTEN ausreichende Sicherheitsmaßnahmen ergriffen werden.
@@ -375,7 +375,7 @@ Dazu gehören beispielsweise digitale Signaturen und andere kryptografische Verf
 Die Mitarbeiter SOLLTEN informiert werden, welche Sicherheitsmechanismen hierfür eingesetzt werden sollen und wie diese zu benutzen sind.~~
 
 #### ENTFALLEN: ORP.5.A10
-__Anforderung entfallen:__
+__Ehemals:__
 ~~ORP.5.A10 Klassifizierung von Informationen (CIA)
 Es gibt in vielen Bereichen einer Institution Informationen, die einen höheren Schutzbedarf haben oder besonderen Restriktionen unterliegen, z. B. personenbezogene, finanzrelevante, vertrauliche oder durch Copyright geschützte Daten.
 Für diese gelten je nach ihrer Kategorisierung unterschiedliche Beschränkungen im Umgang mit ihnen.
@@ -383,7 +383,7 @@ Daher SOLLTEN möglichst alle Informationen entsprechend ihrem Schutzbedarf klas
 Die Mitarbeiter SOLLTEN regelmäßig auf den sorgfältigen Umgang mit Informationen hingewiesen sowie über die Restriktionen beim Umgang mit klassifizierten Daten informiert werden.~~
 
 #### ENTFALLEN: ORP.5.A11
-__Anforderung entfallen:__
+__Ehemals:__
 ~~ORP.5.A11 Erhebung der rechtlichen Rahmenbedingungen für kryptografische Verfahren und Produkte [IT-Betrieb, Verantwortliche der einzelnen Anwendungen] (CI)
 Beim Einsatz kryptografischer Produkte sind diverse gesetzliche Rahmenbedingungen zu beachten.
 Die rechtlichen Rahmenbedingungen für den Einsatz kryptografischer Verfahren und Produkte SOLLTEN für alle Länder ermittelt und dokumentiert werden, in denen diese genutzt werden sollen.~~
@@ -564,7 +564,7 @@ Bevor ein Datensicherungssystem beschafft wird, SOLLTE der Leiter IT eine Anford
 Die angeschafften Datensicherungssysteme SOLLTEN die Anforderungen des Datensicherungskonzepts und der gesamten Sicherheitskonzeption der Institution erfüllen.
 
 #### ENTFALLEN: CON.3.A8
-__Anforderung entfallen:__
+__Ehemals:__
 ~~CON.3.A8 Funktionstests und Überprüfung der Wiederherstellbarkeit [IT-Betrieb]
 Es SOLLTE regelmäßig getestet werden, ob die Datensicherung auch wie gewünscht funktioniert, und vor allem, ob gesicherte Daten problemlos und in angemessener Zeit zurückgespielt werden können.~~
 
@@ -639,7 +639,7 @@ Hierzu MÜSSEN die mit der Individualsoftware verarbeiteten Informationen und de
 Vom IT-Betrieb MÜSSEN die Sicherheitsfunktionen zur Integration in die IT-betriebliche Infrastruktur definiert werden.
 
 #### ENTFALLEN: CON.5.A2
-__Anforderung entfallen:__
+__Ehemals:__
 ~~CON.5.A2 Test und Freigabe von Fachanwendungen [Leiter IT, Datenschutzbeauftragter]
 Für einen geordneten Betriebsübergang einer Anwendung sowie bei wesentlichen Änderungen MUSS ein geeignetes Vorgehen bei Test und Freigabe entwickelt werden.
 Dabei MÜSSEN berücksichtigt werden:
@@ -672,7 +672,7 @@ CON.5.A4 Heranführen von Benutzerinnen und Benutzern an Individualsoftware (B)
 Alle Benutzer der Individualsoftware, darunter auch die zuständigen Administratoren, MÜSSEN an die korrekte Nutzung und Administration der Anwendung einschließlich der Sicherheitsfunktionen herangeführt werden.
 
 #### ENTFALLEN: CON.5.A5
-__Anforderung entfallen:__
+__Ehemals:__
 ~~CON.5.A5 Sicherer Betrieb einer Fachanwendung [IT-Betrieb]
 Berechtigungen zur Nutzung und Administration einer Fachanwendung MÜSSEN korrekt vergeben und regelmäßig auf Korrektheit hin überprüft werden.
 Nicht mehr benötigte Berechtigungen MÜSSEN wieder entzogen werden.
@@ -684,7 +684,7 @@ Es MÜSSEN regelmäßig Datensicherungen und Rücksicherungsübungen durchgefüh
 #### Standard-Anforderungen
 
 #### ENTFALLEN: CON.5.A7
-__Anforderung entfallen:__
+__Ehemals:__
 ~~CON.5.A7 Erstellung eines Mandantenkonzeptes [Leiter IT]
 Es SOLLTE mit einem Mandantenkonzept sichergestellt werden, dass Anwendungen und Daten verschiedener Kunden sauber getrennt betrieben werden.
 Dieses SOLLTE durch den Betreiber der mandantenfähigen Anwendung erstellt und den nutzenden Institutionen zur Verfügung gestellt werden.
@@ -703,7 +703,7 @@ Nicht mehr benötigte Daten SOLLTEN sicher gelöscht werden.
 Die Außerbetriebnahme von Individualsoftware sowie der zugehörigen IT-Systeme und Datenträger SOLLTE vom IT-Betrieb nachvollziehbar dokumentiert werden.
 
 #### ENTFALLEN: CON.5.A10
-__Anforderung entfallen:__
+__Ehemals:__
 ~~CON.5.A10 Notfallvorsorge für Anwendungen [Leiter IT]
 Die Fachanwendungen SOLLTEN in die Planung zur Notfallvorsorge aufgenommen werden.~~
 
