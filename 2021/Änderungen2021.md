@@ -3610,7 +3610,7 @@ __Ehemals:__
 *Änderungen SOLLTEN nachvollziehbar dokumentiert bzw. referenziert sein.*
 
 
-#### APP.5.2.A19 ENTFALLEN
+#### ENTFALLEN: APP.5.2.A19
 
 __Ehemals:__
 
@@ -3682,7 +3682,7 @@ __Entfallen:__
 *Für sichere Passwörter SOLLTE es eine Passwort-Richtlinie geben.*
 
 
-#### SYS.1.1.A3 ENTFALLEN
+#### ENTFALLEN: SYS.1.1.A3
 
 __Ehemals:__
 
@@ -3705,7 +3705,7 @@ __Ehemals:__
 *Auch System-Verzeichnisse SOLLTEN nur die notwendigen Privilegien für die Benutzer zur Verfügung stellen.*
 
 
-#### SYS.1.1.A4 ENTFALLEN
+#### ENTFALLEN: SYS.1.1.A4
 
 __Ehemals:__
 
@@ -3742,7 +3742,7 @@ __Entfallen:__
 *Voreingestellte Passwörter von Standard-Kennungen MÜSSEN geändert werden.*
 
 
-#### SYS.1.1.A7 ENTFALLEN
+#### ENTFALLEN: SYS.1.1.A7
 
 __Ehemals:__
 
@@ -3757,7 +3757,7 @@ __Ehemals:__
 *Solange keine entsprechenden Patches zur Verfügung stehen, MÜSSEN abhängig davon, wie schwerwiegend die Schwachstellen und Bedrohungen sind, andere, geeignete Maßnahmen zum Schutz des Systems getroffen werden.*
 
 
-#### SYS.1.1.A8 ENTFALLEN
+#### ENTFALLEN: SYS.1.1.A8
 
 __Ehemals:__
 
@@ -3801,7 +3801,7 @@ Generell MÜSSEN alle sicherheitsrelevanten Systemereignisse protokolliert werde
 
 #### Standard-Anforderungen
 
-#### SYS.1.1.A14 ENTFALLEN
+#### ENTFALLEN: SYS.1.1.A14
 
 __Ehemals:__
 
@@ -3840,7 +3840,7 @@ __Entfallen:__
 *Alle Installationsschritte SOLLTEN so dokumentiert werden, dass die Installation durch einen sachkundigen Dritten nachvollzogen und wiederholt werden kann.*
 
 
-#### SYS.1.1.A17 ENTFALLEN
+#### ENTFALLEN: SYS.1.1.A17
 
 __Ehemals:__
 
@@ -3853,7 +3853,7 @@ __Ehemals:__
 *Für die Einsatzfreigabe SOLLTEN die Installations- und Konfigurationsdokumentation und die Funktionsfähigkeit des Servers in einem Test geprüft werden. Die Einsatzfreigabe SOLLTE durch eine in der Institution dafür autorisierte Stelle erfolgen.*
 
 
-#### SYS.1.1.A18 ENTFALLEN
+#### ENTFALLEN: SYS.1.1.A18
 
 __Ehemals:__
 
@@ -3871,7 +3871,7 @@ __Hinzugefügt:__:
 Die Identität von Remote-Systemen und die Integrität der Verbindungen mit diesen SOLLTE kryptografisch abgesichert sein.
 
 
-#### SYS.1.1.A20 ENTFALLEN
+#### ENTFALLEN: SYS.1.1.A20
 
 __Ehemals:__
 
@@ -3890,7 +3890,7 @@ Die Anforderung wurde neu hinzugefügt.
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
-#### SYS.1.1.A27 ENTFALLEN
+#### ENTFALLEN: SYS.1.1.A27
 
 __Ehemals:__
 
@@ -3903,7 +3903,7 @@ __Ehemals:__
 *Für Anwendungssysteme SOLLTEN geeignete Testdaten generiert werden, die keine vertraulichen oder personenbezogenen Inhalte der produktiven Daten enthalten.*
 
 
-#### SYS.1.1.A32 ENTFALLEN
+#### ENTFALLEN: SYS.1.1.A32
 
 __Ehemals:__
 
@@ -3970,7 +3970,7 @@ __Entfallen:__
 *Die Administratoren von Windows Server 2012 SOLLTEN auf ihren eigenen Clients mit beschränkten Rechten arbeiten.*
 
 
-#### SYS.1.2.2.A7 ENTFALLEN
+#### ENTFALLEN: SYS.1.2.2.A7
 
 __Ehemals:__
 
@@ -3988,7 +3988,7 @@ __Entfallen:__
 *Die Auswirkungen von Änderungen SOLLTEN vorab getestet werden.*
 
 
-#### SYS.1.2.2.A9 ENTFALLEN
+#### ENTFALLEN: SYS.1.2.2.A9
 
 __Ehemals:__
 
@@ -4000,7 +4000,7 @@ __Ehemals:__
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
-#### SYS.1.2.2.A10 ENTFALLEN
+#### ENTFALLEN: SYS.1.2.2.A10
 
 __Ehemals:__
 
@@ -4017,7 +4017,7 @@ __Ehemals:__
 *Bei sehr hohen Anforderungen an die Vertraulichkeit oder Abstreitbarkeit SOLLTE eine Full Volume Encryption erfolgen.*
 
 
-#### SYS.1.2.2.A13 ENTFALLEN
+#### ENTFALLEN: SYS.1.2.2.A13
 
 __Ehemals:__
 
@@ -4038,7 +4038,7 @@ __Ehemals:__
 
 #### Basis-Anforderungen
 
-#### SYS.1.3.A1 ENTFALLEN
+#### ENTFALLEN: SYS.1.3.A1
 
 __Ehemals:__
 
@@ -4075,7 +4075,7 @@ __Hinzugefügt:__:
 Für die Authentifizierung SOLLTEN Benutzer vorrangig Zertifikate anstatt eines Passwortes verwenden.
 
 
-#### SYS.1.3.A9 ENTFALLEN
+#### ENTFALLEN: SYS.1.3.A9
 
 __Ehemals:__
 
@@ -4088,7 +4088,7 @@ __Ehemals:__
 *Es SOLLTE geprüft werden, ob hierfür Secure Boot als Teil der UEFI-Spezifikation genutzt werden kann.*
 
 
-#### SYS.1.3.A11 ENTFALLEN
+#### SYS.1.3.A11
 
 __Ehemals:__
 
@@ -4103,7 +4103,7 @@ __Ehemals:__
 *Die mountbaren Verzeichnisse SOLLTEN nur für bestimmte IT-Systeme sowie Benutzer unter Berücksichtigung der festgelegten Berechtigungsstruktur freigegeben werden.*
 
 
-#### SYS.1.3.A12 ENTFALLEN
+#### ENTFALLEN: SYS.1.3.A12
 
 __Ehemals:__
 
@@ -4121,7 +4121,7 @@ __Ehemals:__
 
 __Anforderung entfallen.__
 
-#### SYS.1.3.A15 ENTFALLEN
+#### ENTFALLEN: SYS.1.3.A15
 
 __Ehemals:__
 
@@ -4142,7 +4142,7 @@ __Ehemals:__
 
 #### Basis-Anforderungen
 
-#### SYS.1.5.A1 ENTFALLEN
+#### ENTFALLEN: SYS.1.5.A1
 
 __Ehemals:__
 
@@ -4182,7 +4182,7 @@ __Entfallen:__
 *Bevor ein virtuelles IT-System betrieben wird, SOLLTE in einer Test- und Entwicklungsumgebung geprüft werden, ob es für den Produktiveinsatz geeignet ist.*
 
 
-#### SYS.1.5.A18 ENTFALLEN
+#### ENTFALLEN: SYS.1.5.A18
 
 __Ehemals:__
 
@@ -4203,7 +4203,7 @@ __Ehemals:__
 
 #### Basis-Anforderungen
 
-#### SYS.1.7.A10 ENTFALLEN
+#### ENTFALLEN: SYS.1.7.A10
 
 __Ehemals:__
 
@@ -4219,7 +4219,7 @@ __Ehemals:__
 
 #### Standard-Anforderungen
 
-#### SYS.1.7.A12 ENTFALLEN
+#### ENTFALLEN: SYS.1.7.A12
 
 __Ehemals:__
 
@@ -4232,7 +4232,7 @@ __Ehemals:__
 *Auch die Einbindung in die Prozesse der Institution, die Einhaltung der Sicherheitsvorgaben sowie der Einsatz von qualifiziertem Personal SOLLTEN bei der Planung berücksichtigt werden.*
 
 
-#### SYS.1.7.A13 ENTFALLEN
+#### ENTFALLEN: SYS.1.7.A13
 
 __Ehemals:__
 
@@ -4245,7 +4245,7 @@ __Ehemals:__
 *Aber auch technische Aspekte wie Notfall-Systeme und Notfall-User, RACF-Datenbanken, Überprüfung/Monitoring und Prüflisten für Sicherheitseinstellungen SOLLTEN berücksichtigt werden.*
 
 
-#### SYS.1.7.A15 ENTFALLEN
+#### ENTFALLEN: SYS.1.7.A15
 
 __Ehemals:__
 
@@ -4279,7 +4279,7 @@ __Entfallen:__
 *Auch MÜSSEN Standard-Passwörter im Einklang mit der Passwortrichtlinie geändert bzw. neue Accounts angelegt werden.*
 
 
-#### SYS.1.8.A3 ENTFALLEN
+#### ENTFALLEN: SYS.1.8.A3
 
 __Ehemals:__
 
@@ -4292,7 +4292,7 @@ __Ehemals:__
 *Alle Benutzerkonten DÜRFEN NUR über die notwendigen Berechtigungen verfügen (Prinzip der geringsten Berechtigungen, engl. Least Privileges).*
 
 
-#### SYS.1.8.A5 ENTFALLEN
+#### ENTFALLEN: SYS.1.8.A5
 
 __Ehemals:__
 
@@ -4327,7 +4327,7 @@ __Entfallen:__
 *Alle Änderungen SOLLTEN zudem über das Änderungsmanagement aktiviert und mit allen beteiligten Fachverantwortlichen abgestimmt werden.*
 
 
-#### SYS.1.8.A12 ENTFALLEN
+#### ENTFALLEN: SYS.1.8.A12
 
 __Ehemals:__
 
@@ -4390,7 +4390,7 @@ Die Bildschirmsperre DARF NUR durch eine erfolgreiche Benutzerauthentisierung de
 Die Benutzer SOLLTEN verpflichtet werden, sich nach Aufgabenerfüllung vom IT-System bzw. von der IT-Anwendung abzumelden.
 
 
-#### SYS.2.1.A2 ENTFALLEN
+#### ENTFALLEN: SYS.2.1.A2
 
 __Ehemals:__
 
@@ -4407,7 +4407,7 @@ __Ehemals:__
 *Ablauf, Rahmenbedingungen und Anforderungen an administrative Aufgaben sowie die Aufgabentrennungen zwischen den verschiedenen Rollen der Benutzer des IT-Systems SOLLTEN in einem Benutzer- und Administrationskonzept festgeschrieben werden.*
 
 
-#### SYS.2.1.A4 ENTFALLEN
+#### ENTFALLEN: SYS.2.1.A4
 
 __Ehemals:__
 
@@ -4428,7 +4428,7 @@ __Ehemals:__
 *Es MUSS regelmäßig getestet werden, ob die Datensicherung wie gewünscht funktioniert, vor allem, ob gesicherte Daten problemlos zurückgespielt werden können.*
 
 
-#### SYS.2.1.A5 ENTFALLEN
+#### ENTFALLEN: SYS.2.1.A5
 
 __Ehemals:__
 
@@ -4458,7 +4458,7 @@ Der gesamte Datenbestand eines Clients MUSS regelmäßig auf Schadsoftware gepr�
 Wenn ein Client infiziert ist, MUSS im Offlinebetrieb untersucht werden, ob ein gefundenes Schadprogramm bereits vertrauliche Daten gesammelt, Schutzfunktionen deaktiviert oder Code aus dem Internet nachgeladen hat.
 
 
-#### SYS.2.1.A7 ENTFALLEN
+#### ENTFALLEN: SYS.2.1.A7
 
 __Ehemals:__
 
@@ -4484,7 +4484,7 @@ __Entfallen:__
 *Neben Client-Typ-spezifischen Anforderungsprofilen SOLLTEN Vorgaben zur Authentisierung und Benutzerverwaltung definiert werden.*
 
 
-#### SYS.2.1.A12 ENTFALLEN
+#### ENTFALLEN: SYS.2.1.A12
 
 
 __Ehemals:__
@@ -4523,7 +4523,7 @@ Es SOLLTEN NUR Anwendungsprogramme ausgewählt und installiert werden, für die 
 Betriebssysteme, Anwendungsprogramme und Firmware, für die keine regelmäßigen Sicherheitsupdates angeboten werden, DÜRFEN NICHT eingesetzt werden.
 
 
-#### SYS.2.1.A17 ENTFALLEN
+#### ENTFALLEN: SYS.2.1.A17
 
 __Ehemals:__
 
@@ -4557,7 +4557,7 @@ __Hinzugefügt:__:
 Neue Zertifikate von Zertifikatsausstellern SOLLTEN erst nach Überprüfung des Fingerprints aktiviert werden.
 
 
-#### SYS.2.1.A19 ENTFALLEN
+#### ENTFALLEN: SYS.2.1.A19
 
 __Ehemals:__
 
@@ -4584,7 +4584,7 @@ __Entfallen:__
 
 *Die Administration über das Netz SOLLTE über sichere Protokolle erfolgen.*
 
-#### SYS.2.1.A22 ENTFALLEN
+#### ENTFALLEN: SYS.2.1.A22
 
 __Ehemals:__
 
@@ -4612,7 +4612,7 @@ Die unerlaubte Ausführung von Programmen auf bzw. von externen Datenträgern SO
 Es SOLLTE verhindert werden, dass über Wechsellaufwerke oder externe Schnittstellen unberechtigt Daten von den Clients kopiert werden können.
 
 
-#### SYS.2.1.A25 ENTFALLEN
+#### ENTFALLEN: SYS.2.1.A25
 
 __Ehemals:__
 
@@ -4732,7 +4732,7 @@ __Entfallen:__
 *Alle nicht benötigten Anwendungen und Komponenten SOLLTEN deaktiviert werden.*
 
 
-#### SYS.2.2.2.A6 ENTFALLEN
+#### ENTFALLEN: SYS.2.2.2.A6
 
 __Ehemals:__
 
@@ -4766,7 +4766,7 @@ Wenn diese Einstellung nicht wirksam umgesetzt wird, dann MUSS durch geeignete M
 
 #### Standard-Anforderungen
 
-#### SYS.2.2.3.A7 ENTFALLEN
+#### ENTFALLEN: SYS.2.2.3.A7
 
 __Ehemals:__
 
@@ -4783,7 +4783,7 @@ __Ehemals:__
 *Sicherheitsrichtlinien SOLLTEN in jedem Fall gesetzt werden, auch dann, wenn das voreingestellte Standardverhalten dadurch nicht verändert wird.*
 
 
-#### SYS.2.2.3.A8 ENTFALLEN
+#### ENTFALLEN: SYS.2.2.3.A8
 
 __Ehemals:__
 
@@ -4794,7 +4794,7 @@ __Ehemals:__
 *Technisch nicht umsetzbare Konfigurationsparameter SOLLTEN dokumentiert, begründet und mit dem Sicherheitsmanagement abgestimmt werden.*
 
 
-#### SYS.2.2.3.A10 ENTFALLEN
+#### ENTFALLEN: SYS.2.2.3.A10
 
 __Ehemals:__
 
@@ -4838,7 +4838,7 @@ __Entfallen:__
 *Auf Distributionen mit einem Rolling-Release-Modell SOLLTE verzichtet werden.*
 
 
-#### SYS.2.3.A3 ENTFALLEN
+#### ENTFALLEN: SYS.2.3.A3
 
 __Ehemals:__
 
@@ -4901,7 +4901,7 @@ __Entfallen:__
 #### Anforderungen bei erhöhtem Schutzbedarf
 
 
-#### SYS.2.3.A16 ENTFALLEN
+#### ENTFALLEN: SYS.2.3.A16
 
 __Ehemals:__
 
@@ -4941,7 +4941,7 @@ __Entfallen:__
 
 #### Basis-Anforderungen
 
-#### SYS.3.1.A2 ENTFALLEN
+#### ENTFALLEN: SYS.3.1.A2
 
 __Ehemals:__
 
@@ -4951,7 +4951,7 @@ __Ehemals:__
 
 *Es MUSS geprüft werden, ob sich alle Benutzer an die Regeln für den korrekten Umgang mit dem eingerichteten Zugriffsschutz halten.*
 
-#### SYS.3.1.A4 ENTFALLEN
+#### ENTFALLEN: SYS.3.1.A4
 
 __Ehemals:__
 
@@ -4974,7 +4974,7 @@ __Ehemals:__
 *Außerdem MUSS sichergestellt werden, dass die Benutzer keine sicherheitsrelevanten Änderungen an den Einstellungen der Antivirenprogramme vornehmen können.*
 
 
-#### SYS.3.1.A5 ENTFALLEN
+#### ENTFALLEN: SYS.3.1.A5
 
 __Ehemals:__
 
@@ -5123,7 +5123,7 @@ Es MUSS unterbunden werden, dass sich Apps aus nicht zugelassenen Quellen instal
 
 #### Standard-Anforderungen
 
-#### SYS.3.2.1.A14 ENTFALLEN
+#### ENTFALLEN: SYS.3.2.1.A14
 
 __Ehemals:__
 
@@ -5134,7 +5134,7 @@ __Ehemals:__
 *Im verwendeten Browser SOLLTE die Funktion „Safe Browsing“ bzw. die Funktion zur Warnung vor schädlichen Inhalten aktiviert werden.*
 
 
-#### SYS.3.2.1.A15 ENTFALLEN
+#### ENTFALLEN: SYS.3.2.1.A15
 
 __Ehemals:__
 
@@ -5143,7 +5143,7 @@ __Ehemals:__
 *Download-Booster, die Daten über die Server des Herstellers leiten, SOLLTEN deaktiviert werden.*
 
 
-#### SYS.3.2.1.A17 ENTFALLEN
+#### ENTFALLEN: SYS.3.2.1.A17
 
 __Ehemals:__
 
@@ -5154,7 +5154,7 @@ __Ehemals:__
 *Die Super-PIN/PUK SOLLTE nur im Rahmen der definierten Prozesse von den Verantwortlichen benutzt werden.*
 
 
-#### SYS.3.2.1.A20 ENTFALLEN
+#### ENTFALLEN: SYS.3.2.1.A20
 
 __Ehemals:__
 
@@ -5167,7 +5167,7 @@ __Ehemals:__
 *Alle freigegebenen Apps SOLLTEN intern in einem Standardkatalog veröffentlicht werden.*
 
 
-#### SYS.3.2.1.A21 ENTFALLEN
+#### ENTFALLEN: SYS.3.2.1.A21
 
 __Ehemals:__
 
@@ -5186,7 +5186,7 @@ Die Anforderungen wurden neu hinzugefügt.
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
-#### SYS.3.2.1.A23 ENTFALLEN
+#### ENTFALLEN: SYS.3.2.1.A23
 
 __Ehemals:__
 
@@ -5195,7 +5195,7 @@ __Ehemals:__
 *Alle Anwendungen mit vertraulichen Daten SOLLTEN durch einen zusätzlichen Mechanismus zur Authentisierung geschützt werden.*
 
 
-#### SYS.3.2.1.A24 ENTFALLEN
+#### ENTFALLEN: SYS.3.2.1.A24
 
 __Ehemals:__
 
@@ -5266,7 +5266,7 @@ __Geändert:__
 Das MDM SOLLTE eine Black- oder White-List für die Installation von Apps ermöglichen.
 
 
-#### SYS.3.2.2.A8 ENTFALLEN
+#### ENTFALLEN: SYS.3.2.2.A8
 
 __Ehemals:__
 
@@ -5281,7 +5281,7 @@ __Ehemals:__
 *Den Benutzern SOLLTEN die Regeln in geeigneter Weise bekannt gegeben werden.*
 
 
-#### SYS.3.2.2.A9 ENTFALLEN
+#### ENTFALLEN: SYS.3.2.2.A9
 
 __Ehemals:__
 
@@ -5292,7 +5292,7 @@ __Ehemals:__
 *Die Sicherheits-Apps SOLLTEN durch das MDM automatisch installiert werden.*
 
 
-#### SYS.3.2.2.A10 ENTFALLEN
+#### ENTFALLEN: SYS.3.2.2.A10
 
 __Ehemals:__
 
@@ -5305,7 +5305,7 @@ __Ehemals:__
 *Wenn Daten zwischen den mobilen Endgeräten und dem IT-Netz der Institution übertragen werden, SOLLTE durch geeignete Maßnahmen (z. B. VPN) verhindert werden, dass Unbefugte sie verändern oder einsehen können.*
 
 
-#### SYS.3.2.2.A11 ENTFALLEN
+#### ENTFALLEN: SYS.3.2.2.A11
 
 __Ehemals:__
 
@@ -5372,7 +5372,7 @@ __Anforderung entfallen.__
 
 __Anforderung entfallen.__
 
-#### SYS.3.2.3.A10 ENTFALLEN
+#### ENTFALLEN: SYS.3.2.3.A10
 
 __Ehemals:__
 
@@ -5383,7 +5383,7 @@ __Ehemals:__
 *Einhergehend mit der Aktivierung von „Touch ID“ oder „Face ID“ SOLLTEN die Benutzer für die Fälschbarkeit von biometrischen Merkmalen sensibilisiert werden.*
 
 
-#### SYS.3.2.3.A11 ENTFALLEN
+#### ENTFALLEN: SYS.3.2.3.A11
 
 __Ehemals:__
 
@@ -5391,7 +5391,7 @@ __Ehemals:__
 
 *Der Gerätename SOLLTE keine persönlichen Namens- und Institutionsmerkmale enthalten.*
 
-#### SYS.3.2.3.A20 ENTFALLEN
+#### ENTFALLEN: SYS.3.2.3.A20
 
 __Ehemals:__
 
@@ -5447,7 +5447,7 @@ Falls die Frist ohne Zugriff verstricht, sollte das Konfigurationsprofil dieses 
 
 #### Basis-Anforderungen
 
-#### SYS.3.2.4.A1 ENTFALLEN
+#### ENTFALLEN: SYS.3.2.4.A1
 
 __Ehemals:__
 
@@ -5459,7 +5459,7 @@ __Ehemals:__
 
 #### Standard-Anforderungen
 
-#### SYS.3.2.4.A4 ENTFALLEN
+#### ENTFALLEN: SYS.3.2.4.A4
 
 __Ehemals:__
 
@@ -5469,7 +5469,7 @@ __Ehemals:__
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
-#### SYS.3.2.4.A6 ENTFALLEN
+#### ENTFALLEN: SYS.3.2.4.A6
 
 __Ehemals:__
 
@@ -5482,7 +5482,7 @@ __Ehemals:__
 *Es SOLLTE eine Software eingesetzt werden, die in unabhängigen Tests als „sehr gut“ bewertet wurde.*
 
 
-#### SYS.3.2.4.A7 ENTFALLEN
+#### ENTFALLEN: SYS.3.2.4.A7
 
 __Ehemals:__
 
@@ -5590,7 +5590,7 @@ __Entfallen:__
 *Das Passwort DARF NUR berechtigten Benutzern bekannt sein.*
 
 
-#### SYS.4.1.A12 ENTFALLEN
+#### ENTFALLEN: SYS.4.1.A12
 
 __Ehemals:__
 
@@ -5626,7 +5626,7 @@ __Hinzugefügt:__:
 Insbesondere SOLLTEN alle nicht benötigten Daten- und Netzschnittstellen von Druckern, Kopierern und Multifunktionsgeräten deaktiviert werden.
 
 
-#### SYS.4.1.A19 ENTFALLEN
+#### ENTFALLEN: SYS.4.1.A19
 
 __Ehemals:__
 
@@ -5702,7 +5702,7 @@ Eine angemessene Authentisierung MUSS aktiviert sein.
 IoT-Gerate MÜSSEN in das Identitäts- und Berechtigungsmanagement der Institution integriert werden.
 
 
-#### SYS.4.4.A3 ENTFALLEN
+#### ENTFALLEN: SYS.4.4.A3
 
 __Ehemals:__
 
@@ -5728,7 +5728,7 @@ Für jedes IoT-Gerät SOLLTE ein Zuständiger für dessen Betrieb benannt werden
 
 Die Zuständigen SOLLTEN ausreichend über den Umgang mit dem IoT-Gerät informiert werden.
 
-#### SYS.4.4.A12 ENTFALLEN
+#### ENTFALLEN: SYS.4.4.A12
 
 __Ehemals:__
 
@@ -5736,7 +5736,7 @@ __Ehemals:__
 
 *Wenn IoT-Geräte in Zusammenhang mit übergeordneten Management-Systemen eingesetzt werden, SOLLTEN sie ausschließlich mit diesen kommunizieren.*
 
-#### SYS.4.4.A14 ENTFALLEN
+#### SYS.4.4.A14
 
 __Ehemals:__
 
@@ -5882,7 +5882,7 @@ Ein Gesamtverantwortlicher für die Informationssicherheit im OT-Bereich MUSS be
 Er MUSS innerhalb der Institution bekannt gegeben werden.
 
 
-#### IND.1.A2 ENTFALLEN
+#### ENTFALLEN: IND.1.A2
 
 __Ehemals:__
 
@@ -6081,7 +6081,7 @@ __Entfallen:__
 
 *Die Konfiguration der ICS-Komponente DARF NUR nach einer Freigabe oder nach einer Authentisierung geändert werden.*
 
-#### IND.2.1.A3 ENTFALLEN
+#### ENTFALLEN: IND.2.1.A3
 
 __Ehemals:__
 
@@ -6097,7 +6097,7 @@ __Ehemals:__
 
 *Generell MÜSSEN alle sicherheitsrelevanten Systemereignisse protokolliert und bei Bedarf ausgewertet werden.*
 
-#### IND.2.1.A5 ENTFALLEN
+#### ENTFALLEN: IND.2.1.A5
 
 __Ehemals:__
 
@@ -6115,7 +6115,7 @@ __Geändert:__
 
 Vor jeder Systemänderung an einer ICS-Komponente MÜSSEN Backups erstellt werden.
 
-#### IND.2.1.A9 ENTFALLEN
+#### ENTFALLEN: IND.2.1.A9
 
 __Ehemals:__
 
@@ -6126,7 +6126,7 @@ __Ehemals:__
 *Außerdem SOLLTEN die Kommunikationsverbindungen neu integrierter ICS-Komponenten dokumentiert werden.*
 
 
-#### IND.2.1.A10 ENTFALLEN
+#### ENTFALLEN: IND.2.1.A10
 
 __Ehemals:__
 
@@ -6142,7 +6142,7 @@ __Ehemals:__
 
 *Auch SOLLTE die Dokumentation im Störungsfall noch verfügbar sein.*
 
-#### IND.2.1.A12 ENTFALLEN
+#### ENTFALLEN: IND.2.1.A12
 
 __Ehemals:__
 
@@ -6172,7 +6172,7 @@ __Entfallen:__
 *umfassen.*
 
 
-#### IND.2.1.A14 ENTFALLEN
+#### ENTFALLEN: IND.2.1.A14
 
 __Ehemals:__
 
@@ -6183,7 +6183,7 @@ __Ehemals:__
 *Es SOLLTE insbesondere sichergestellt sein, dass alle Zugangsdaten nachhaltig entfernt wurden.*
 
 
-#### IND.2.1.A15 ENTFALLEN
+#### ENTFALLEN: IND.2.1.A15
 
 __Ehemals:__
 
@@ -6219,7 +6219,7 @@ __Geändert:__
 Steuerungsprogramme und Konfigurationen SOLLTEN immer gesichert werden, bevor an ihnen etwas verändert wird.
 
 
-#### IND.2.2.A2 ENTFALLEN
+#### ENTFALLEN: IND.2.2.A2
 
 __Ehemals:__
 
@@ -6354,7 +6354,7 @@ Authentisierte und vertrauenswürdige Netzzugriffe vom VPN-Gateway ins interne N
 
 #### Basis-Anforderungen
 
-#### NET.1.2.A3 ENTFALLEN
+#### ENTFALLEN: NET.1.2.A3
 
 __Ehemals:__
 
@@ -6365,7 +6365,7 @@ __Ehemals:__
 *Das Konzept MUSS die speziellen Tätigkeiten und den zugehörigen Zugriff auf Informationen im Netzmanagement abbilden.*
 
 
-#### NET.1.2.A4 ENTFALLEN
+#### ENTFALLEN: NET.1.2.A4
 
 __Ehemals:__
 
@@ -6380,7 +6380,7 @@ __Ehemals:__
 *Die neuen Passwörter MÜSSEN ausreichend stark sein.*
 
 
-#### NET.1.2.A5 ENTFALLEN
+#### ENTFALLEN: NET.1.2.A5
 
 __Ehemals:__
 
@@ -6426,7 +6426,7 @@ Falls von einem Netz außerhalb der Managementnetze auf Netzmanagement-Werkzeuge
 
 #### Standard-Anforderungen
 
-#### NET.1.2.A19 ENTFALLEN
+#### ENTFALLEN: NET.1.2.A19
 
 __Ehemals:__
 
@@ -6437,7 +6437,7 @@ __Ehemals:__
 *Die administrativen Zugänge SOLLTEN über einen zentralen Authentisierungsserver mittels personalisierter Konten über entsprechend sichere Protokolle authentisiert werden.*
 
 
-#### NET.1.2.A20 ENTFALLEN
+#### ENTFALLEN: NET.1.2.A20
 
 __Ehemals:__
 
@@ -6449,7 +6449,7 @@ __Ehemals:__
 
 *Falls von einem Netz außerhalb der Managementnetze auf Netzmanagement-Werkzeuge zugegriffen wird, MÜSSEN als sicher geltende Authentisierungs- und Verschlüsselungsmethoden realisiert werden.*
 
-#### NET.1.2.A23 ENTFALLEN
+#### ENTFALLEN: NET.1.2.A23
 
 __Ehemals:__
 
@@ -6467,7 +6467,7 @@ __Ehemals:__
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
-#### NET.1.2.A34 ENTFALLEN
+#### ENTFALLEN: NET.1.2.A34
 
 __Ehemals:__
 
@@ -6593,7 +6593,7 @@ __Entfallen:__
 *Entsprechend dem Rechte- und Rollenkonzept MÜSSEN anschließend die vorgesehenen Benutzerkonten und -rollen eingerichtet werden.*
 
 
-#### NET.3.1.A2 ENTFALLEN
+#### ENTFALLEN: NET.3.1.A2
 
 __Ehemals:__
 
@@ -6612,7 +6612,7 @@ __Ehemals:__
 *Sofern vom Hersteller angeboten, SOLLTEN die Update-Prüfsummen verglichen bzw. die digitalen Signaturen überprüft werden.*
 
 
-#### NET.3.1.A3 ENTFALLEN
+#### ENTFALLEN: NET.3.1.A3
 
 __Ehemals:__
 
@@ -6668,7 +6668,7 @@ __Entfallen:__
 *Eine Firewall DARF NUR von dafür autorisierten Personen installiert und konfiguriert werden.*
 
 
-#### NET.3.2.A5 ENTFALLEN
+#### ENTFALLEN: NET.3.2.A5
 
 __Ehemals:__
 
@@ -6690,7 +6690,7 @@ __Entfallen:__
 
 *Die Verantwortlichen MÜSSEN darauf achten, dass bei der Protokollierung alle rechtlichen Rahmenbedingungen eingehalten werden.*
 
-#### NET.3.2.A11 ENTFALLEN
+#### ENTFALLEN: NET.3.2.A11
 
 __Ehemals:__
 
@@ -6709,7 +6709,7 @@ __Ehemals:__
 *Darauf MUSS auch bei zugehörigen Diensten innerhalb der Firewall geachtet werden.*
 
 
-#### NET.3.2.A12 ENTFALLEN
+#### ENTFALLEN: NET.3.2.A12
 
 __Ehemals:__
 
@@ -6720,7 +6720,7 @@ __Ehemals:__
 *Die Aufgaben und Kompetenzen der betroffenen Mitarbeiter MÜSSEN eindeutig festgelegt werden.*
 
 
-#### NET.3.2.A13 ENTFALLEN
+#### ENTFALLEN: NET.3.2.A13
 
 __Ehemals:__
 
@@ -6801,7 +6801,7 @@ __Entfallen:__
 
 #### Basis-Anforderungen
 
-#### NET.4.1.A3 ENTFALLEN
+#### ENTFALLEN: NET.4.1.A3
 
 __Ehemals:__
 
@@ -6812,7 +6812,7 @@ __Ehemals:__
 *Die Änderungen MÜSSEN durchgeführt werden, bevor die TK-Anlage in Betrieb genommen wird.*
 
 
-#### NET.4.1.A4 ENTFALLEN
+#### ENTFALLEN: NET.4.1.A4
 
 __Ehemals:__
 
@@ -6845,7 +6845,7 @@ __Entfallen:__
 
 #### Basis-Anforderungen
 
-#### NET.4.2.A2 ENTFALLEN
+#### ENTFALLEN: NET.4.2.A2
 
 __Ehemals:__
 
@@ -6869,7 +6869,7 @@ __Entfallen:__
 *Es SOLLTE eine Regelung zur restriktiven Anmeldung von Geräten und Benutzern erstellt werden.*
 
 
-#### NET.4.2.A6 ENTFALLEN
+#### ENTFALLEN: NET.4.2.A6
 
 __Ehemals:__
 
@@ -6893,7 +6893,7 @@ __Hinzugefügt:__:
 
 Hierbei SOLLTEN auch die verschiedenen VoIP-Funktionen, wie zum Beispiel Voicemails, betrachtet werden.
 
-#### NET.4.2.A10 ENTFALLEN
+#### ENTFALLEN: NET.4.2.A10
 
 __Ehemals:__
 
@@ -6972,7 +6972,7 @@ Die Anforderung wurde von einer Standard- zu einer Basis-Anfordrung gewandelt.
 
 #### Standard-Anforderungen
 
-#### INF.1.A11 ENTFALLEN
+#### ENTFALLEN: INF.1.A11
 
 __Ehemals:__
 
