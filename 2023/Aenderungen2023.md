@@ -319,7 +319,7 @@ Keine inhaltlichen Änderungen.
 
 ### NEU: CON.11.1 
 
-Anforderung wurde neu hinzugefügt.
+Diese Anforderung wurde neu hinzugefügt.
 
 ---
 
@@ -336,7 +336,7 @@ Anforderung wurde neu hinzugefügt.
 
 #### NEU: ORP.1.A17
 
-Die Anforderung wurde neu hinzugefügt.
+Die Diese Anforderung wurde neu hinzugefügt.
 
 </details>
 
@@ -502,32 +502,32 @@ __Ehemals:__ *Verwaltung und Inbetriebnahme von Geräten*:
 
 #### NEU: OPS.1.1.2.A23
 
-Standard-Anforderung wurde neu hinzugefügt.
+Standard-Diese Anforderung wurde neu hinzugefügt.
 
 
 #### NEU: OPS.1.1.2.A24
 
-Standard-Anforderung wurde neu hinzugefügt.
+Standard-Diese Anforderung wurde neu hinzugefügt.
 
 
 #### NEU: OPS.1.1.2.A25
 
-Standard-Anforderung wurde neu hinzugefügt.
+Standard-Diese Anforderung wurde neu hinzugefügt.
 
 
 #### NEU: OPS.1.1.2.A26
 
-Standard-Anforderung wurde neu hinzugefügt.
+Standard-Diese Anforderung wurde neu hinzugefügt.
 
 
 #### NEU: OPS.1.1.2.A27
 
-Standard-Anforderung wurde neu hinzugefügt.
+Standard-Diese Anforderung wurde neu hinzugefügt.
 
 
 #### NEU: OPS.1.1.2.A28
 
-Standard-Anforderung wurde neu hinzugefügt.
+Standard-Diese Anforderung wurde neu hinzugefügt.
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
@@ -832,7 +832,7 @@ __Neu:__
 
 #### NEU: APP.2.1.17
 
-Die Basis-Anforderung wurde neu hinzugefügt.
+Die Basis-Diese Anforderung wurde neu hinzugefügt.
 
 #### Standard-Anforderungen
 
@@ -911,12 +911,12 @@ __Geändert:__
 
 #### NEU: APP.2.1.A18
 
-Die Standard-Anforderung wurde neu hinzugefügt.
+Die Standard-Diese Anforderung wurde neu hinzugefügt.
 
 
 #### NEU: APP.2.1.A19
 
-Die Standard-Anforderung wurde neu hinzugefügt.
+Die Standard-Diese Anforderung wurde neu hinzugefügt.
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
@@ -980,17 +980,17 @@ Die Anforderung wurde inhaltlich vollständig überarbeitet.
 
 #### NEU: APP.2.2.A16
 
-Die Basis-Anforderung wurde neu hinzugefügt.
+Die Basis-Diese Anforderung wurde neu hinzugefügt.
 
 
 #### NEU: APP.2.2.A17
 
-Die Basis-Anforderung wurde neu hinzugefügt.
+Die Basis-Diese Anforderung wurde neu hinzugefügt.
 
 
 #### NEU: APP.2.2.A18
 
-Die Basis-Anforderung wurde neu hinzugefügt.
+Die Basis-Diese Anforderung wurde neu hinzugefügt.
 
 #### Standard-Anforderungen
 
@@ -1447,7 +1447,7 @@ __Geändert:__
 
 #### NEU: SYS.2.2.3.A26
 
-Die Anforderung wurde neu hinzugefügt.
+Die Diese Anforderung wurde neu hinzugefügt.
 
 </details>
 
