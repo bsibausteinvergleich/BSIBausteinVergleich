@@ -598,7 +598,7 @@ __Geändert:__
 
 #### NEU: SYS.1.1.A37 
 
-Anforderung neu hinzugefügt.
+Diese Anforderung wurde neu hinzugefügt.
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
