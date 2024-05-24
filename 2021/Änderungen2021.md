@@ -7000,7 +7000,7 @@ Die Anforderung ist neu hinzugefügt.
 
 #### Anforderungen bei erhöhtem Schutzbedarf
 
-#### INF.1.A21 ENTFALLEN
+#### INF.1.A21
 
 __Ehemals:__
 
@@ -7015,7 +7015,7 @@ __Entfallen:__
 *Es SOLLTE ein Sicherheitszonenkonzept für Gebäude und Grundstück entwickelt und dokumentiert werden.*
 
 
-#### INF.1.A28 ENTFALLEN
+#### ENTFALLEN: INF.1.A28
 
 __Ehemals:__
 
@@ -7028,7 +7028,7 @@ __Ehemals:__
 *RLT-Anlagen SOLLTEN regelmäßig gewartet werden.*
 
 
-#### INF.1.A29 ENTFALLEN
+#### ENTFALLEN: INF.1.A29
 
 __Ehemals:__
 
@@ -7040,7 +7040,7 @@ __Ehemals:__
 
 *Reinigungskräfte SOLLTEN in besonders sensitiven Bereichen bei der Arbeit beaufsichtigt werden.*
 
-#### INF.1.A33 ENTFALLEN
+#### ENTFALLEN: INF.1.A33
 
 __Ehemals:__
 
@@ -7120,7 +7120,7 @@ Für alle für den ordnungsgemäßen Betrieb des RZ und dessen Dienstleistungsbe
 
 Alle Einrichtungen des Überspannungsschutzes SOLLTEN gemäß DIN EN 62305-3, Tabelle E.2 ein Mal im Jahr einer Umfassenden Prüfung unterzogen werden.
 
-#### INF.2.A20 ENTFALLEN
+#### ENTFALLEN: INF.2.A20
 
 __Ehemals:__
 
@@ -7166,7 +7166,7 @@ Die für eine Videoüberwachung benötigten zentralen Technikkomponenten SOLLTEN
 
 Es SOLLTE regelmäßig überprüft werden, ob die Videoüberwachungsanlage korrekt funktioniert und ob die mit dem Datenschutzbeauftragten abgestimmten Blickwinkel eingehalten werden.
 
-#### INF.2.A27 ENTFALLEN
+#### ENTFALLEN: INF.2.A27
 
 __Ehemals:__
 
@@ -7221,7 +7221,7 @@ __Entfallen:__
 *Sowohl die Trassen der Datenleitungen als auch die der Energieversorgung SOLLTEN im Gebäude über ihre gesamte Länge bis zum Raum vor unbefugten Zugriffen geschützt werden.*
 
 
-#### INF.5.A21 ENTFALLEN
+#### ENTFALLEN: INF.5.A21
 
 __Ehemals:__
 
@@ -7275,7 +7275,7 @@ Befinden sich vertrauliche Informationen in dem Büroraum, MÜSSEN beim Verlasse
 
 #### Standard-Anforderungen
 
-#### INF.7.A4 ENTFALLEN
+#### ENTFALLEN: INF.7.A4
 
 __Ehemals:__
 
@@ -7320,7 +7320,7 @@ Die Anforderung ist neu hinzugefügt.
 
 #### Basis-Anforderungen
 
-#### INF.10.A2 ENTFALLEN
+#### ENTFALLEN: INF.10.A2
 
 __Ehemals:__
 
