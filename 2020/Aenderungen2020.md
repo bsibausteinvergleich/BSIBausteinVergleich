@@ -353,7 +353,7 @@ Insbesondere SOLLTE das im Notfallkonzept vorgesehene Berechtigungskonzept weite
 #### Standard-Anforderungen
 
 #### ORP.5.A4
-__Ergänzt__: "(...) basierend auf der Identifikation und Beachtung der rechtlichen Rahmenbedingungen, (...)
+__Hinzugefügt:__ "(...) basierend auf der Identifikation und Beachtung der rechtlichen Rahmenbedingungen, (...)
 
 #### ENTFALLEN: ORP.5.A7
 __Ehemals:__
