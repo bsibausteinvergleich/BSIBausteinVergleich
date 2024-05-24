@@ -1322,6 +1322,8 @@ __Ergänzung:__\
 __Entfallen:__\
 (...) ~~dies gilt insbesondere bei Außenanbindungen.~~
 
+</details>
+
 ### APP.2.3
 <details>
 <summary> Änderungen
