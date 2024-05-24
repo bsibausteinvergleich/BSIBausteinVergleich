@@ -54,7 +54,7 @@ Langlebige kryptografische Schlüssel MÜSSEN offline, außerhalb der eingesetzt
 
 #### ENTFALLEN: CON.1.A3
 
-Ehemals *Verschlüsselung der Kommunikationsverbindungen*:
+__Ehemals:__ *Verschlüsselung der Kommunikationsverbindungen*:
 
 *Es SOLLTE geprüft werden, ob mit vertretbarem Aufwand eine Verschlüsselung der Kommunikationsverbindungen möglich und praktikabel ist.*
 
@@ -100,7 +100,7 @@ Die Vorgehensweisen und eingesetzten Methoden, um nicht mehr benötigte private 
 
 #### ENTFALLEN: CON.1.A6
 
-Ehemals *Bedarfserhebung für kryptografische Verfahren und Produkte*:
+__Ehemals:__ *Bedarfserhebung für kryptografische Verfahren und Produkte*:
 
 *Es SOLLTE festgelegt werden, für welche Geschäftsprozesse oder Fachverfahren kryptografische Verfahren eingesetzt werden sollen.*
 
@@ -111,7 +111,7 @@ Ehemals *Bedarfserhebung für kryptografische Verfahren und Produkte*:
 
 #### ENTFALLEN: CON.1.A7
 
-Ehemals *Erstellung einer Sicherheitsrichtlinie für den Einsatz kryptografischer Verfahren und Produkte*:
+__Ehemals:__ *Erstellung einer Sicherheitsrichtlinie für den Einsatz kryptografischer Verfahren und Produkte*:
 
 
 *Ausgehend von der allgemeinen Sicherheitsrichtlinie der Institution SOLLTE eine spezifische Richtlinie für den Einsatz von Kryptoprodukten erstellt werden.*
@@ -135,7 +135,7 @@ Ehemals *Erstellung einer Sicherheitsrichtlinie für den Einsatz kryptografische
 
 #### ENTFALLEN: CON.1.A8
 
-Ehemals *Erhebung der Einflussfaktoren für kryptografische Verfahren und Produkte*:
+__Ehemals:__ *Erhebung der Einflussfaktoren für kryptografische Verfahren und Produkte*:
 
 
 *Bevor entschieden werden kann, welche kryptografischen Verfahren und Produkte bei erhöhtem Schutzbedarf eingesetzt werden, SOLLTEN unter anderem folgende Einflussfaktoren ermittelt werden:*
@@ -195,7 +195,7 @@ Inhalt grundlegend verändert, auf eine Auflistung wird verzichtet.
 
 #### ENTFALLEN: CON.1.A12
 
-Ehemals *Sichere Rollenteilung beim Einsatz von Kryptomodulen*:
+__Ehemals:__ *Sichere Rollenteilung beim Einsatz von Kryptomodulen*:
 
 *Bei der Konfiguration eines Kryptomoduls SOLLTEN Benutzerrollen festgelegt werden.*
 
@@ -206,7 +206,7 @@ Ehemals *Sichere Rollenteilung beim Einsatz von Kryptomodulen*:
 
 #### ENTFALLEN: CON.1.A13
 
-Ehemals *Anforderungen an die Betriebssystem-Sicherheit beim Einsatz von Kryptomodulen*:
+__Ehemals:__ *Anforderungen an die Betriebssystem-Sicherheit beim Einsatz von Kryptomodulen*:
 
 
 *Das Zusammenwirken von Betriebssystem und Kryptomodulen SOLLTE gewährleisten, dass*
@@ -222,7 +222,7 @@ Ehemals *Anforderungen an die Betriebssystem-Sicherheit beim Einsatz von Kryptom
 
 #### ENTFALLEN: CON.1.A14
 
-Ehemals *Schulung von Benutzern und Administratoren*:
+__Ehemals:__ *Schulung von Benutzern und Administratoren*:
 
 *Es SOLLTE Schulungen geben, in denen Benutzern und Administratoren der Umgang mit den für sie relevanten Kryptomodulen vermittelt wird.*
 
@@ -385,7 +385,7 @@ Anforderung wurde vollständig verändert, Notfallvorsorge ist aus dieser Anford
 
 #### ENTFALLEN: OPS.1.1.2.A3
 
-Ehemals *Geregelte Einstellung von IT-Administratoren*:
+__Ehemals:__ *Geregelte Einstellung von IT-Administratoren*:
 
 *Wenn Mitarbeiter administrative Aufgaben innerhalb einer IT-Umgebung übernehmen, MÜSSEN sie in ihre Tätigkeit eingewiesen werden, insbesondere in die vorhandene IT-Architektur und die von ihnen zu betreuenden IT-Systeme und Anwendungen.*
 
@@ -438,7 +438,7 @@ Anforderung wurde vollständig verändert.
 
 #### ENTFALLEN: OPS.1.1.2.A9
 
-Ehemals *Ausreichende Ressourcen für den IT-Betrieb*:
+__Ehemals:__ *Ausreichende Ressourcen für den IT-Betrieb*:
 
 *Es SOLLTEN ausreichende Personal- und Sachressourcen bereitgestellt werden, um die anfallenden administrativen Aufgaben ordnungsgemäß zu bewältigen.*
 
@@ -449,7 +449,7 @@ Ehemals *Ausreichende Ressourcen für den IT-Betrieb*:
 
 #### ENTFALLEN: OPS.1.1.2.A10
 
-Ehemals *Fortbildung und Information*:
+__Ehemals:__ *Fortbildung und Information*:
 
 *Für die eingesetzten Administratoren SOLLTEN geeignete Fort- und Weiterbildungsmaßnahmen ergriffen werden.*
 
@@ -469,7 +469,7 @@ Anforderung wurde vollständig verändert.
 
 #### ENTFALLEN: OPS.1.1.2.A12
 
-Ehemals *Regelungen für Wartungs- und Reparaturarbeiten*:
+__Ehemals:__ *Regelungen für Wartungs- und Reparaturarbeiten*:
 
 *IT-Systeme SOLLTEN regelmäßig gewartet werden.*
 
@@ -482,14 +482,14 @@ Ehemals *Regelungen für Wartungs- und Reparaturarbeiten*:
 
 #### OPS.1.1.2.A16
 
-Ehemals Anforderung erhöhten Schutzbedarfs, jetzt Standard-Anforderung.
+__Ehemals:__ Anforderung erhöhten Schutzbedarfs, jetzt Standard-Anforderung.
 
 Inhalt wurde grundlegend verändert.
 
 
 #### ENTFALLEN: OPS.1.1.2.A20
 
-Ehemals *Verwaltung und Inbetriebnahme von Geräten*:
+__Ehemals:__ *Verwaltung und Inbetriebnahme von Geräten*:
 
 *Es SOLLTE eine Übersicht aller Geräte vorhanden sein, die in der Institution genutzt werden und Einfluss auf die Informationssicherheit haben können.*
 
@@ -533,14 +533,14 @@ Standard-Anforderung wurde neu hinzugefügt.
 
 #### ENTFALLEN: OPS.1.1.2.A14
 
-Ehemals *Sicherheitsüberprüfung von Administratoren*:
+__Ehemals:__ *Sicherheitsüberprüfung von Administratoren*:
 
 *Bei erhöhtem Schutzbedarf SOLLTEN Administratoren einer zusätzlichen Sicherheitsüberprüfung unterzogen werden.*
 
 
 #### ENTFALLEN: OPS.1.1.2.A15
 
-Ehemals *Aufteilung von Administrationstätigkeiten*:
+__Ehemals:__ *Aufteilung von Administrationstätigkeiten*:
 
 *Es SOLLTEN unterschiedliche Administrationsrollen für Teilaufgaben eingerichtet werden.*
 
@@ -595,7 +595,7 @@ __Neu:__
 
 #### ENTFALLEN: OPS.1.1.3.A16
 
-Ehemals *Regelmäßige Suche nach Informationen zu Patches und Schwachstellen*:
+__Ehemals:__ *Regelmäßige Suche nach Informationen zu Patches und Schwachstellen*:
 
 *Der IT-Betrieb MUSS sich regelmäßig über bekannt gewordene Schwachstellen der Firmware, Betriebssysteme, eingesetzter Anwendungen und Dienste informieren.*
 
@@ -838,7 +838,7 @@ Die Basis-Anforderung wurde neu hinzugefügt.
 
 #### ENTFALLEN: APP.2.1.A7
 
-Ehemals *Erstellung eines Sicherheitskonzepts für den Einsatz von Verzeichnisdiensten*:
+__Ehemals:__ *Erstellung eines Sicherheitskonzepts für den Einsatz von Verzeichnisdiensten*:
 
 *Durch das Sicherheitskonzept für Verzeichnisdienste SOLLTEN sämtliche sicherheitsbezogenen Themenbereiche eines Verzeichnisdienstes geregelt werden.*
 
@@ -1407,7 +1407,7 @@ __Neu (aus entfallener Anforderung SYS.2.1.A14 übernommen):__
 
 #### ENTFALLEN: SYS.2.1.A14
 
-Ehemals *Updates und Patches für Firmware, Betriebssystem und Anwendungen*.
+__Ehemals:__ *Updates und Patches für Firmware, Betriebssystem und Anwendungen*.
 
 *Auf Betriebssysteme, die über ein Rolling-Release-Modell aktualisiert werden, SOLLTE verzichtet werden.*
 
@@ -1714,7 +1714,7 @@ Keine inhaltlichen Änderungen.
 
 __Anforderung wurde verschoben zu ORP.1.A17.__
 
-Ehemals *Mitführverbot von Mobiltelefonen*:
+__Ehemals:__ *Mitführverbot von Mobiltelefonen*:
 
 *Mobiltelefone SOLLTEN NICHT zu vertraulichen Besprechungen und Gesprächen mitgeführt werden.*
 
