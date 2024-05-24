@@ -12,9 +12,6 @@ ___
 
 #### Basis-Anforderungen
 
-#### ISMS.1.A2
-„Geschäftsprozesse [der Behörde]“ __durch__ „Fachaufgaben“ __ergänzt.__
-
 #### ISMS.1.A8
 __Entfallen:__\
 Sie MÜSSEN in die Lage versetzt werden, Sicherheit aktiv mitzugestalten, *also in ihre Geschäftsprozesse mit einzubringen.*
@@ -1003,7 +1000,7 @@ Alle Zugangsmöglichkeiten auf die Server der Institution sowie alle Zugriffsrec
 
 ### NEU OPS.1.2.5
 
-__OPS.1.2.5.A1 - OPS.1.2.5.A23 sind in 2020 ergänzt worden.__
+__OPS.1.2.5.A1 - OPS.1.2.5.A23 sind in 2020 hinzugefügt worden.__
 
 ### OPS.2.1
 <details>
