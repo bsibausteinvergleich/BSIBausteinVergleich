@@ -1,167 +1,167 @@
 3.1 Basis-Anforderungen
 
-SYS.1.8.A1 Geeignete Aufstellung von Speichersystemen [Haustechnik, Leiter IT]
-Die IT-Komponenten MÜSSEN in gesicherten Räumen aufgestellt werden.
+SYS.1.8.A1 Geeignete Aufstellung von Speichersystemen [Haustechnik, Leiter IT] (B)
+Die IT-Komponenten MÜSSEN in verschlossenen Räumen aufgestellt werden.
 Zu diesen Räumen DÜRFEN NUR Berechtigte Zutritt haben.
 Zudem MUSS eine sichere Stromversorgung und entsprechend den Herstellervorgaben empfohlene Umgebungstemperatur und Luftfeuchte sichergestellt sein.
 
-SYS.1.8.A2 Sichere Grundkonfiguration von Speicherlösungen
-Bevor eine Speicherlösung produktiv eingesetzt wird, MUSS sichergestellt sein, dass alle eingesetzten Software- und Firmwarekomponenten aktuell sind.
+SYS.1.8.A2 Sichere Grundkonfiguration von Speicherlösungen (B)
+Bevor eine Speicherlösung produktiv eingesetzt wird, MUSS sichergestellt sein, dass alle eingesetzten Softwarekomponenten und die Firmware aktuell sind.
 Danach MUSS eine sichere Grundkonfiguration hergestellt werden.
 Nicht benötigte Benutzerkonten MÜSSEN deaktiviert werden.
 Auch MÜSSEN Standard-Passwörter im Einklang mit der Passwortrichtlinie geändert bzw. neue Accounts angelegt werden.
 Nicht genutzte Schnittstellen des Speichersystems MÜSSEN deaktiviert werden.
-Die Default-Konfiguration, die vorgenommene Grundkonfiguration und die aktuelle Konfiguration SOLLTEN redundant und geschützt aufbewahrt werden.
+Die Dateien zur Default-Konfiguration, zur vorgenommenen Grundkonfiguration und zur aktuellen Konfiguration SOLLTEN redundant und geschützt aufbewahrt werden.
 
-SYS.1.8.A3 Restriktive Rechtevergabe
+SYS.1.8.A3 Restriktive Rechtevergabe (B)
 Für Speicherlösungen MUSS ein Rechte- und Rollenkonzept erstellt werden.
 Alle auf der jeweiligen Lösung eingerichteten Benutzerkonten MÜSSEN diesem Konzept entsprechen.
-Alle Benutzerkonten MÜSSEN nach dem Prinzip der minimalen Berechtigungen eingerichtet werden.
+Alle Benutzerkonten DÜRFEN NUR über die notwendigen Berechtigungen verfügen (Prinzip der geringsten Berechtigungen, engl. Least Privileges).
 
-SYS.1.8.A4 Schutz der Administrationsschnittstellen
+SYS.1.8.A4 Schutz der Administrationsschnittstellen (B)
 Alle Administrations- und Management-Zugänge der Speichersysteme MÜSSEN eingeschränkt werden.
 Es MUSS sichergestellt sein, dass aus nicht-vertrauenswürdigen Netzen heraus nicht auf die Administrationsschnittstellen zugegriffen werden kann.
-Es SOLLTEN ausreichend verschlüsselte Protokolle eingesetzt werden.
-Sollte dennoch auf unverschlüsselte und damit unsichere Protokolle zurückgegriffen werden, MUSS für die Administration ein eigenes Administrationsnetz genutzt werden.
+Es SOLLTEN als sicher geltende Protokolle eingesetzt werden.
+Sollten dennoch unsichere Protokolle verwendet werden, MUSS für die Administration ein eigenes Administrationsnetz genutzt werden.
 
-SYS.1.8.A5 Protokollierung bei Speichersystemen
+SYS.1.8.A5 Protokollierung bei Speichersystemen (B)
 Die interne Protokollierung der Speichersysteme MUSS so konfiguriert werden, dass Informationen protokolliert werden, die dazu dienen, Probleme früh zu erkennen.
 
 
 3.2 Standard-Anforderungen
 
-SYS.1.8.A6 Erstellung einer Sicherheitsrichtlinie für Speicherlösungen [Informationssicherheitsbeauftragter (ISB)]
+SYS.1.8.A6 Erstellung einer Sicherheitsrichtlinie für Speicherlösungen [Informationssicherheitsbeauftragter (ISB)] (S)
 Ausgehend von der allgemeinen Sicherheitsrichtlinie der Institution SOLLTE eine spezifische Sicherheitsrichtlinie für Speicherlösungen erstellt werden.
-Darin SOLLTEN nachvollziehbar Anforderungen und Vorgaben beschrieben sein, wie Speicherlösungen sicher geplant, administriert, installiert, konfiguriert und betrieben werden können.
+Darin SOLLTEN nachvollziehbar Vorgaben beschrieben sein, wie Speicherlösungen sicher geplant, administriert, installiert, konfiguriert und betrieben werden können.
 Die Richtlinie SOLLTE allen für Speicherlösungen verantwortlichen Administratoren bekannt und grundlegend für ihre Arbeit sein.
-Wird die Richtlinie verändert oder wird von den Anforderungen abgewichen, SOLLTE dies mit dem ISB abgestimmt und dokumentiert werden.
+Wird die Richtlinie verändert oder wird von den Vorgaben abgewichen, SOLLTE dies mit dem ISB abgestimmt und dokumentiert werden.
 Es SOLLTE regelmäßig überprüft werden, ob die Richtlinie noch korrekt umgesetzt ist.
 Die Ergebnisse SOLLTEN sinnvoll dokumentiert werden.
 
-SYS.1.8.A7 Planung von Speicherlösungen [Informationssicherheitsbeauftragter (ISB), Leiter IT]
+SYS.1.8.A7 Planung von Speicherlösungen [Informationssicherheitsbeauftragter (ISB), Leiter IT] (S)
 Es SOLLTE eine Anforderungsanalyse durchgeführt werden, in der unter anderem die Themen Performance und Kapazität betrachtet werden.
 Auf Basis der ermittelten Anforderungen SOLLTE dann eine detaillierte Planung für Speicherlösungen erstellt werden.
 Darin SOLLTEN folgende Punkte berücksichtigt werden:
 • Auswahl geeigneter Hardware,
 • Auswahl von Herstellern und Lieferanten,
-• Entscheidung für oder gegen zentrale Managementsysteme,
+• Entscheidung für oder gegen zentrale Management-Systeme,
 • Planung des Netzanschlusses,
 • Planung der Infrastruktur sowie
 • Integration in bestehende Prozesse.
 
-SYS.1.8.A8 Auswahl einer geeigneten Speicherlösung [Informationssicherheitsbeauftragter (ISB), Leiter IT]
+SYS.1.8.A8 Auswahl einer geeigneten Speicherlösung [Informationssicherheitsbeauftragter (ISB), Leiter IT] (S)
 Es SOLLTEN die technischen Grundlagen unterschiedlicher Speicherlösungen detailliert beleuchtet und deren Auswirkungen auf den möglichen Einsatz in der Institution geprüft werden.
 Dabei SOLLTEN Möglichkeiten und Grenzen der verschiedenen Speichersystemarten für die Verantwortlichen der Institution transparent dargestellt werden.
 Die Entscheidungskriterien für eine Speicherlösung SOLLTEN nachvollziehbar dokumentiert werden.
 Ebenso SOLLTE die Entscheidung für die Auswahl einer Speicherlösung nachvollziehbar dokumentiert werden.
 
-SYS.1.8.A9 Auswahl von Lieferanten für eine Speicherlösung [Informationssicherheitsbeauftragter (ISB), Leiter IT]
+SYS.1.8.A9 Auswahl von Lieferanten für eine Speicherlösung [Informationssicherheitsbeauftragter (ISB), Leiter IT] (S)
 Anhand der spezifizierten Anforderungen an eine Speicherlösung SOLLTE ein geeigneter Lieferant ausgewählt werden.
 Die Auswahlkriterien und die Entscheidung für einen Lieferanten SOLLTEN nachvollziehbar dokumentiert werden.
 Außerdem SOLLTEN Aspekte der Wartung und Instandhaltung schriftlich in sogenannten Service-Level-Agreements (SLAs) festgehalten werden.
 Die SLAs SOLLTEN eindeutig und quantifizierbar sein.
 Es SOLLTE genau geregelt werden, wann der Vertrag mit dem Lieferanten endet.
 
-SYS.1.8.A10 Erstellung und Pflege eines Betriebshandbuchs [Informationssicherheitsbeauftragter (ISB), Leiter IT]
+SYS.1.8.A10 Erstellung und Pflege eines Betriebshandbuchs [Informationssicherheitsbeauftragter (ISB), Leiter IT] (S)
 Es SOLLTE ein Betriebshandbuch erstellt werden.
 Darin SOLLTEN alle erforderlichen Regelungen, Anforderungen und Einstellungen dokumentiert werden, die erforderlich sind, um Speicherlösungen zu betreiben.
 Das Betriebshandbuch SOLLTE regelmäßig aktualisiert werden.
 
-SYS.1.8.A11 Sicherer Betrieb einer Speicherlösung
-Das Speichersystem SOLLTE hinsichtlich der Verfügbarkeit der internen Anwendungen, der Systemauslastung sowie kritischer Ereignisse überwacht werden (siehe auch SYS.1.8.A13 Überwachung und Verwaltung von Speicherlösungen).
+SYS.1.8.A11 Sicherer Betrieb einer Speicherlösung (S)
+Das Speichersystem SOLLTE hinsichtlich der Verfügbarkeit der internen Anwendungen, der Systemauslastung sowie kritischer Ereignisse überwacht werden.
 Weiterhin SOLLTEN für Speicherlösungen feste Wartungsfenster definiert werden, in denen Änderungen durchgeführt werden können.
 Insbesondere Firmware- oder Betriebssystemupdates von Speichersystemen oder den Netzkomponenten einer Speicherlösung SOLLTEN ausschließlich innerhalb eines solchen Wartungsfensters durchgeführt werden.
 Alle Änderungen SOLLTEN zudem über das Änderungsmanagement aktiviert und mit allen beteiligten Fachverantwortlichen abgestimmt werden.
 
-SYS.1.8.A12 Schulung der Administratoren [Vorgesetzte, Leiter IT]
+SYS.1.8.A12 Schulung der Administratoren [Vorgesetzte] (S)
 Die für die Speicherlösungen zuständigen Administratoren SOLLTEN ausreichend geschult werden.
 In den Schulungen SOLLTEN Kenntnisse vermittelt werden, mit welchen Vorgehensweisen, Techniken und Werkzeugen sich Speichersysteme und die zugehörigen Komponenten einrichten und sicher betreiben lassen.
-Zudem SOLLTEN hersteller-spezifische Aspekte zu einzelnen Produkten und Komponenten thematisiert werden.
+Zudem SOLLTEN herstellerspezifische Aspekte zu einzelnen Produkten und Komponenten thematisiert werden.
 Setzt eine Institution neue Produkte ein, SOLLTEN die Administratoren speziell dazu nachgeschult werden.
 
-SYS.1.8.A13 Überwachung und Verwaltung von Speicherlösungen
-Um Fehlersituationen und Sicherheitsprobleme erkennen und beheben zu können, SOLLTEN Speicherlösungen überwacht werden.
-Dabei SOLLTEN alle erhobenen Daten vorrangig daraufhin geprüft werden, ob die Vorgaben des Betriebshandbuchs eingehalten werden (siehe auch SYS.1.8.A10 Erstellung und Pflege eines Betriebshandbuchs).
+SYS.1.8.A13 Überwachung und Verwaltung von Speicherlösungen (S)
+Speicherlösungen SOLLTEN überwacht werden.
+Dabei SOLLTEN alle erhobenen Daten vorrangig daraufhin geprüft werden, ob die Vorgaben des Betriebshandbuchs eingehalten werden.
 Einzelne Komponenten der Speicherlösung und des Gesamtsystems SOLLTEN zentral verwaltet werden.
 Zudem SOLLTEN die wesentlichen Nachrichten herausgefiltert werden, um diese besser darzustellen.
 Sofern eine Speicherlösung durch einen externen Dienstleister betrieben wird, SOLLTE definiert und dokumentiert werden, wie die vertraglich vereinbarten SLAs überwacht werden.
 
-SYS.1.8.A14 Absicherung eines SANs durch Segmentierung
+SYS.1.8.A14 Absicherung eines SANs durch Segmentierung (S)
 Ein SAN SOLLTE segmentiert werden.
 Es SOLLTE ein Konzept erarbeitet werden, das die SAN-Ressourcen den jeweiligen Servern zuordnet.
-Hierfür SOLLTE anhand der Sicherheitsanforderungen und des Administrationsaufwands entschieden werden, welche Segmentierung in welchem Einsatzszenario eingesetzt werden soll.
+Hierfür SOLLTE anhand der Sicherheitsanforderungen und des Administrationsaufwands entschieden werden, welche Segmentierung in welcher Implementierung (z. B. FC-SANs oder iSCI-Speichernetze) eingesetzt werden soll.
 Die aktuelle Ressourcenzuordnung SOLLTE mithilfe von Verwaltungswerkzeugen einfach und übersichtlich erkennbar sein.
 Weiterhin SOLLTE die aktuelle Zoning-Konfiguration dokumentiert werden.
 Die Dokumentation SOLLTE auch in Notfällen verfügbar sein.
 
-SYS.1.8.A15 Sichere Trennung von Mandanten in Speicherlösungen
+SYS.1.8.A15 Sichere Trennung von Mandanten in Speicherlösungen (S)
 Es SOLLTE definiert und nachvollziehbar dokumentiert werden, welche Anforderungen die Institution an die Mandantenfähigkeit einer Speicherlösung stellt.
-Die eingesetzten Speicherlösungen SOLLTEN diesen dokumentierten Anforderungen genügen.
+Die eingesetzten Speicherlösungen SOLLTEN diese dokumentierten Anforderungen erfüllen.
 Im Block-Storage-Umfeld SOLLTE LUN Masking eingesetzt werden, um Mandanten voneinander zu trennen.
 In Fileservice-Umgebungen SOLLTE es möglich sein, mit virtuellen Fileservern zu agieren.
 Dabei SOLLTE jedem Mandanten ein eigener Fileservice zugeordnet werden.
 Beim Einsatz von IP oder iSCSI SOLLTEN die Mandanten über eine Segmentierung im Netz voneinander getrennt werden.
 Wird Fibre Channel eingesetzt, SOLLTE mithilfe von VSANs und Soft-Zoning separiert werden.
 
-SYS.1.8.A16 Sicheres Löschen in SAN-Umgebungen
+SYS.1.8.A16 Sicheres Löschen in SAN-Umgebungen (S)
 Für das Speichersystem SOLLTE festgelegt werden, welche Informationen mit welchen Verfahren zu löschen sind.
 In mandantenfähigen Speichersystemen SOLLTE sichergestellt werden, dass Logical Unit Numbers (LUNs), die einem bestimmten Mandanten zugeordnet sind, gelöscht werden.
 
-SYS.1.8.A17 Dokumentation der Systemeinstellungen von Speichersystemen
+SYS.1.8.A17 Dokumentation der Systemeinstellungen von Speichersystemen (S)
 Alle Systemeinstellungen von Speichersystemen SOLLTEN dokumentiert werden.
 Die Dokumentation SOLLTE die technischen und organisatorischen Vorgaben sowie alle spezifischen Konfigurationen der Speichersysteme der Institution enthalten.
 Sofern die Dokumentation der Systemeinstellungen vertrauliche Informationen beinhaltet, SOLLTEN diese vor unberechtigtem Zugriff geschützt werden.
 Die Dokumentation SOLLTE regelmäßig überprüft werden und immer aktuell sein, insbesondere hinsichtlich der Rechtevergabe.
 Auch SOLLTE dafür gesorgt werden, dass sie in allen Notfallszenarien verfügbar ist.
 
-SYS.1.8.A18 Sicherheits-Audits und Berichtswesen bei Speichersystemen [Informationssicherheitsbeauftragter (ISB)]
+SYS.1.8.A18 Sicherheitsaudits und Berichtswesen bei Speichersystemen [Informationssicherheitsbeauftragter (ISB)] (S)
 Alle eingesetzten Speichersysteme SOLLTEN regelmäßig auditiert werden.
 Dafür SOLLTE ein entsprechender Prozess eingerichtet werden.
 Es SOLLTE geregelt werden, welche Sicherheitsreports mit welchen Inhalten regelmäßig zu erstellen sind.
 Zudem SOLLTE auch geregelt werden, wie mit Abweichungen von Vorgaben umgegangen wird und wie oft und in welcher Tiefe Audits durchgeführt werden.
 
-SYS.1.8.A19 Aussonderung von Speicherlösungen
+SYS.1.8.A19 Aussonderung von Speicherlösungen (S)
 Werden ganze Speicherlösungen oder einzelne Komponenten einer Speicherlösung nicht mehr benötigt, SOLLTEN alle darauf vorhandenen Daten auf andere Speicherlösungen übertragen werden.
 Hierfür SOLLTE eine Übergangsphase eingeplant werden.
 Anschließend SOLLTEN alle Nutzdaten und Konfigurationsdaten sicher gelöscht werden.
 Aus allen relevanten Dokumenten SOLLTEN alle Verweise auf die außer Betrieb genommene Speicherlösung entfernt werden.
 
-SYS.1.8.A20 Notfallvorsorge und Notfallreaktion für Speicherlösungen [Leiter IT]
+SYS.1.8.A20 Notfallvorsorge und Notfallreaktion für Speicherlösungen [Leiter IT] (S)
 Es SOLLTE ein Notfallplan für die eingesetzte Speicherlösung erstellt werden.
 Der Plan SOLLTE genau beschreiben, wie in bestimmten Notfallsituationen vorzugehen ist.
 Auch SOLLTEN Handlungsanweisungen in Form von Maßnahmen und Kommandos enthalten sein, die die Fehleranalyse und Fehlerkorrektur unterstützen.
 Um Fehler zu beheben, SOLLTEN geeignete Werkzeuge eingesetzt werden.
-Es SOLLTEN regelmäßige Übungen und Tests des Notfallplans durchgeführt werden.
-Nach den Übungen und Tests sowie nach einem Notfall SOLLTEN die dabei erzeugten Daten sicher gelöscht werden.
+Es SOLLTEN regelmäßige Übungen und Tests anhand des Notfallplans durchgeführt werden.
+Nach den Übungen und Tests sowie nach einem tatsächlichen Notfall SOLLTEN die dabei erzeugten Daten sicher gelöscht werden.
 
 
 3.3 Anforderungen bei erhöhtem Schutzbedarf
 
-SYS.1.8.A21 Einsatz von Speicher-Pools zur Mandantentrennung (CI)
-Mandanten SOLLTEN Speicherressourcen aus unterschiedlichen sogenannten Speicher-Pools zugewiesen werden.
+SYS.1.8.A21 Einsatz von Speicherpools zur Mandantentrennung (H)
+Mandanten SOLLTEN Speicherressourcen aus unterschiedlichen sogenannten Speicherpools zugewiesen werden.
 Dabei SOLLTE ein Speichermedium immer nur einem einzigen Pool zugewiesen werden.
-Die logischen Festplatten (LUNs), die aus einem solchen Pool generiert werden, SOLLTEN nur einem einzigen Mandanten zugeordnet werden.
+Die logischen Festplatten (LUNs), die aus einem solchen Pool generiert werden, SOLLTEN NUR einem einzigen Mandanten zugeordnet werden.
 
-SYS.1.8.A22 Einsatz einer hochverfügbaren SAN-Lösung [Informationssicherheitsbeauftragter (ISB)] (A)
+SYS.1.8.A22 Einsatz einer hochverfügbaren SAN-Lösung [Informationssicherheitsbeauftragter (ISB)] (H)
 Es SOLLTE eine hochverfügbare SAN-Lösung eingesetzt werden.
 Die eingesetzten Replikationsmechanismen SOLLTEN den Verfügbarkeitsanforderungen der Institution an die Speicherlösung entsprechen.
 Auch die Konfiguration der Speicherlösung SOLLTE den Verfügbarkeitsanforderungen gerecht werden.
 Außerdem SOLLTE ein Test- und Konsolidierungssystem vorhanden sein.
 
-SYS.1.8.A23 Einsatz von Verschlüsselung für Speicherlösungen [Informationssicherheitsbeauftragter (ISB)] (CI)
+SYS.1.8.A23 Einsatz von Verschlüsselung für Speicherlösungen [Informationssicherheitsbeauftragter (ISB)] (H)
 Alle in Speicherlösungen abgelegten Daten SOLLTEN verschlüsselt werden.
-Es SOLLTE festgelegt werden, auf welchen Ebenen (Data-in-Motion und Data-in-Rest) verschlüsselt wird.
+Es SOLLTE festgelegt werden, auf welchen Ebenen (Data-in-Motion und Data-at-Rest) verschlüsselt wird.
 Dabei SOLLTE beachtet werden, dass die Verschlüsselung auf dem Transportweg auch bei Replikationen und Backup-Traffic relevant ist.
 
-SYS.1.8.A24 Sicherstellung der Integrität der SAN-Fabric (I)
+SYS.1.8.A24 Sicherstellung der Integrität der SAN-Fabric (H)
 Um die Integrität der SAN-Fabric sicherzustellen, SOLLTEN Protokolle mit zusätzlichen Sicherheitsmerkmalen eingesetzt werden.
 Bei den folgenden Protokollen SOLLTEN deren Sicherheitseigenschaften berücksichtigt und entsprechende Konfigurationen verwendet werden:
 • Diffie Hellman Challenge Handshake Authentication Protocol (DH-CHAP),
 • Fibre Channel Authentication Protocol (FCAP) und
 • Fibre Channel Password Authentication Protocol (FCPAP).
 
-SYS.1.8.A25 Mehrfaches Überschreiben der Daten einer LUN (C)
+SYS.1.8.A25 Mehrfaches Überschreiben der Daten einer LUN (H)
 In SAN-Umgebungen SOLLTEN Daten gelöscht werden, indem die zugehörigen Speichersegmente einer LUN mehrfach überschrieben werden.
 
-SYS.1.8.A26 Absicherung eines SANs durch Hard-Zoning
+SYS.1.8.A26 Absicherung eines SANs durch Hard-Zoning (H)
 Um SANs zu segmentieren, SOLLTE Hard-Zoning eingesetzt werden.

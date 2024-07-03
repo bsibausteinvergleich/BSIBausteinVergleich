@@ -1,85 +1,86 @@
 3.1 Basis-Anforderungen
 
-APP.1.2.A1 Verwendung von Sandboxing
-Der eingesetzte Web-Browser MUSS sicherstellen, dass jede Instanz und jeder Verarbeitungsprozess nur auf die eigenen Ressourcen zugreifen kann (Sandboxing).
-Web-Seiten MÜSSEN als eigenständige Prozesse oder mindestens als eigene Threads voneinander isolierten werden.
-Plug-ins und Erweiterungen MÜSSEN ebenfalls in isolieren Bereichen ausgeführt werden.
-Der verwendete Web-Browser SOLLTE die Content Security Policy gemäß den W3C-Spezifikationen umsetzen.
+APP.1.2.A1 Verwendung von Sandboxing (B)
+Der eingesetzte Webbrowser MUSS sicherstellen, dass jede Instanz und jeder Verarbeitungsprozess nur auf die eigenen Ressourcen zugreifen kann (Sandboxing).
+Webseiten MÜSSEN als eigenständige Prozesse oder mindestens als eigene Threads voneinander isolierten werden.
+Plug-ins und Erweiterungen MÜSSEN ebenfalls in isolierten Bereichen ausgeführt werden.
+Der verwendete Webbrowser SOLLTE die aktuelle Version der Content Security Policy (CSP) gemäß den Spezifikationen des World Wide Web Consortium (W3C) umsetzen.
 
-APP.1.2.A2 Verschlüsselung der Kommunikation
-Der Web-Browser MUSS Transport Layer Security (TLS) in einer sicheren Version unterstützen.
+APP.1.2.A2 Unterstützung sicherer Verschlüsselung der Kommunikation (B)
+Der Webbrowser MUSS Transport Layer Security (TLS) in einer sicheren Version unterstützen.
 Unsichere Versionen von TLS SOLLTEN deaktiviert werden.
-Der Web-Browser MUSS den Sicherheitsmechanismus HTTP Strict Transport Security (HSTS) gemäß RFC 6797 unterstützen.
+Der Webbrowser MUSS den Sicherheitsmechanismus HTTP Strict Transport Security (HSTS) gemäß RFC 6797 unterstützen.
 Für alle wichtigen öffentlichen TLS-verschlüsselten Web-Dienste SOLLTEN die Domains in die HSTS-Preload-Liste des Browsers eingefügt werden.
 
-APP.1.2.A3 Verwendung von Zertifikaten [Benutzer]
-Der Web-Browser MUSS eine Liste vertrauenswürdiger Wurzelzertifikats-Aussteller bereitstellen sowie die von der Institution selbst bereitgestellten Zertifikate akzeptieren.
-Der Web-Browser MUSS Extended-Validation-Zertifikate unterstützen.
+APP.1.2.A3 Verwendung von vertrauenswürdigen Zertifikaten [Benutzer] (B)
+Der Webbrowser MUSS eine Liste vertrauenswürdiger Wurzelzertifikats-Aussteller bereitstellen.
+Er MUSS die von der Institution selbst bereitgestellten Zertifikate akzeptieren.
+Der Webbrowser MUSS Extended-Validation-Zertifikate unterstützen.
 Wurzelzertifikate DÜRFEN NUR mit Administrationsrechten hinzugefügt, geändert oder gelöscht werden.
-Zertifikate MÜSSEN durch den Web-Browser (lokal) widerrufen werden können.
-Der Web-Browser MUSS die Gültigkeit der Server-Zertifikate mit Hilfe des öffentlichen Schlüssels und des Gültigkeitszeitraums vollständig prüfen.
-Der Sperrstatus der Server-Zertifikate MUSS vom Web-Browser geprüft werden.
+Zertifikate MÜSSEN durch den Webbrowser lokal widerrufen werden können.
+Der Webbrowser MUSS die Gültigkeit der Server-Zertifikate mithilfe des öffentlichen Schlüssels und unter Berücksichtigung des Gültigkeitszeitraums vollständig prüfen.
+Auch der Sperrstatus der Server-Zertifikate MUSS vom Webbrowser geprüft werden.
 Die Zertifikatskette einschließlich des Wurzelzertifikats MUSS verifiziert werden.
-Der Web-Browser MUSS dem Benutzer eindeutig und gut bemerkbar darstellen, ob die Kommunikation im Klartext oder verschlüsselt erfolgt.
-Der Web-Browser SOLLTE dem Benutzer auf Anforderung das verwendete Serverzertifikat anzeigen können.
-Der Web-Browser MUSS dem Benutzer signalisieren, wenn Zertifikate fehlen, ungültig sind oder widerrufen wurden.
+Der Webbrowser MUSS dem Benutzer eindeutig und gut sichtbar darstellen, ob die Kommunikation im Klartext oder verschlüsselt erfolgt.
+Der Webbrowser SOLLTE dem Benutzer auf Anforderung das verwendete Serverzertifikat anzeigen können.
+Der Webbrowser MUSS dem Benutzer signalisieren, wenn Zertifikate fehlen, ungültig sind oder widerrufen wurden.
 Die verschlüsselte Verbindung DARF in einem solchen Fall NUR nach ausdrücklicher Bestätigung durch den Benutzer hergestellt werden.
 
-APP.1.2.A4 Versionsprüfung und Aktualisierung des Web-Browsers
-Der Web-Browser MUSS über einen Mechanismus verfügen, der den eigenen Versionsstand sowie denjenigen aller geladenen oder aktivierten Erweiterungen und Plug-ins zuverlässig erkennen und anzeigen kann.
-Sicherheitsaktualisierungen für den Web-Browser, Plug-ins und Erweiterungen MÜSSEN unverzüglich eingespielt werden.
-Der Web-Browser SOLLTE Updates automatisch einspielen können.
-Ist kein Update für eine bekannt gewordene kritische Schwachstelle verfügbar, MÜSSEN zeitnah Maßnahmen zur Mitigation ergriffen werden.
+APP.1.2.A4 Versionsprüfung und Aktualisierung des Webbrowsers (B)
+Der Webbrowser MUSS über einen Mechanismus verfügen, der den eigenen Versionsstand sowie den Versionsstand aller geladenen oder aktivierten Erweiterungen und Plug-ins zuverlässig erkennen und anzeigen kann.
+Sicherheitsaktualisierungen, Plug-ins und Erweiterungen MÜSSEN unverzüglich eingespielt werden.
+Der Webbrowser SOLLTE Updates automatisch einspielen können.
+Ist kein Update für eine bekannt gewordene kritische Schwachstelle verfügbar, MÜSSEN zeitnah Maßnahmen zur Risikominderung ergriffen werden.
 
 
 3.2 Standard-Anforderungen
 
-APP.1.2.A5 Basiskonfiguration
-Der Browser SOLLTE zentral konfiguriert werden können.
+APP.1.2.A5 Verwendung einer zentralen Basiskonfiguration (S)
+Der Webbrowser SOLLTE zentral konfiguriert werden.
 Zentral vorgegebene Einstellungen DÜRFEN NICHT von den Benutzern verändert werden können.
-Der Web-Browser SOLLTE NICHT dauerhaft mit erweiterten Rechten ausgeführt werden.
+Der Webbrowser SOLLTE NICHT dauerhaft mit erweiterten Rechten ausgeführt werden.
 
-APP.1.2.A6 Kennwortmanagement im Web-Browser [Benutzer]
-Wird ein Kennwortmanager im Browser verwendet, SOLLTE er eine direkte und eindeutige Beziehung zwischen Webseite und hierfür gespeichertem Kennwort herstellen.
+APP.1.2.A6 Kennwortmanagement im Webbrowser [Benutzer] (S)
+Wird ein Kennwortmanager im Webbrowser verwendet, SOLLTE er eine direkte und eindeutige Beziehung zwischen Webseite und hierfür gespeichertem Kennwort herstellen.
 Der Kennwortspeicher SOLLTE geschützt sein.
-Auf die im Kennwortmanager gespeicherten Passwörter SOLLTE nur nach Eingabe eines Master-Kennwortes zugegriffen werden können.
+Auf die im Kennwortmanager gespeicherten Passwörter SOLLTE nur nach Eingabe eines Master-Kennworts zugegriffen werden können.
 Die Authentisierung für den kennwortgeschützten Zugriff SOLLTE nur für die aktuelle Sitzung gültig sein.
 Der Kennwortmanager SOLLTE die Qualität der Kennwörter entsprechend der Sicherheitsrichtlinie der Institution vorgeben.
 Die gespeicherten Kennwörter SOLLTEN durch den Benutzer gelöscht werden können.
 
-APP.1.2.A7 Schutz von Daten [Benutzer]
-Cookies von Drittanbietern SOLLTEN abgelehnt werden.
+APP.1.2.A7 Datensparsamkeit in Webbrowsern [Benutzer] (S)
+Cookies von Drittanbietern SOLLTEN im Webbrowser abgelehnt werden.
 Gespeicherte Cookies SOLLTEN durch den Benutzer gelöscht werden können.
-Die Funktion zur Auto-Vervollständigung von Daten SOLLTE deaktiviert werden.
-Wird die Funktion doch genutzt, SOLLTE der Benutzer die Vervollständigungsdaten löschen können.
-Der Benutzer SOLLTE außerdem die Historiendaten des Browsers löschen können.
-Sofern vorhanden, SOLLTE eine Synchronisation des Browsers mit Cloud-Diensten deaktiviert werden.
+Die Funktion zur Autovervollständigung von Daten SOLLTE deaktiviert werden.
+Wird die Funktion dennoch genutzt, SOLLTE der Benutzer diese Daten löschen können.
+Der Benutzer SOLLTE außerdem die Historiendaten des Webbrowsers löschen können.
+Sofern vorhanden, SOLLTE eine Synchronisation des Webbrowsers mit Cloud-Diensten deaktiviert werden.
 Telemetriefunktionen sowie das automatische Senden von Absturzberichten an den Hersteller SOLLTEN soweit wie möglich deaktiviert werden.
-Sind Peripheriegeräte wie Mikrofon oder Webcam angeschlossen, SOLLTEN diese im Browser deaktiviert werden.
-Der Browser SOLLTE eine Möglichkeit bieten, um WebRTC, HSTS und JavaScript zu konfigurieren bzw. abzuschalten.
+Sind Peripheriegeräte wie Mikrofon oder Webcam angeschlossen, SOLLTEN diese im Webbrowser deaktiviert werden.
+Der Browser SOLLTE eine Möglichkeit bieten, WebRTC, HSTS und JavaScript zu konfigurieren bzw. abzuschalten.
 
-APP.1.2.A8 Verwendung von Plug-ins und Erweiterungen [Benutzer]
+APP.1.2.A8 Verwendung von Plug-ins und Erweiterungen [Benutzer] (S)
 Es SOLLTEN nur unbedingt notwendige Plug-ins und Erweiterungen installiert werden.
 Diese SOLLTEN ausschließlich aus vertrauenswürdigen Quellen bezogen werden.
-Plug-ins und Erweiterungen für den Browser SOLLTEN nur mit Administrationsrechten installiert werden dürfen.
+Plug-ins und Erweiterungen für den Webbrowser SOLLTEN nur mit Administrationsrechten installiert werden dürfen.
 Die Ausführung von Plug-ins SOLLTE immer vom Benutzer bestätigt werden müssen.
-Der Browser SOLLTE die Möglichkeit bieten, Erweiterungen zu konfigurieren und abzuschalten.
+Der Webbrowser SOLLTE die Möglichkeit bieten, Erweiterungen zu konfigurieren und abzuschalten.
 
 
 3.3 Anforderungen bei erhöhtem Schutzbedarf
 
-APP.1.2.A9 Einsatz einer isolierten Browser-Umgebung (CI)
-Bei erhöhtem Schutzbedarf SOLLTEN Web-Browser eingesetzt werden, die in einer isolierten Umgebung (wie Re-CoBS) oder auf dedizierten IT-Systemen laufen.
+APP.1.2.A9 Einsatz einer isolierten Webbrowser-Umgebung (H)
+Bei erhöhtem Schutzbedarf SOLLTEN Webbrowser eingesetzt werden, die in einer isolierten Umgebung, wie z. B. ReCoBS, oder auf dedizierten IT-Systemen laufen.
 
-APP.1.2.A10 Verwendung des privaten Modus [Benutzer] (CI)
-Der Browser SOLLTE bei erhöhten Anforderungen bezüglich der Vertraulichkeit im sogenannten privaten Modus ausgeführt werden, sodass keinerlei Informationen oder Inhalte persistent auf dem IT-System des Benutzers gespeichert werden.
+APP.1.2.A10 Verwendung des privaten Modus [Benutzer] (H)
+Der Webbrowser SOLLTE bei erhöhten Anforderungen bezüglich der Vertraulichkeit im sogenannten privaten Modus ausgeführt werden, sodass keine Informationen oder Inhalte dauerhaft auf dem IT-System des Benutzers gespeichert werden.
 Der Browser SOLLTE so konfiguriert werden, dass lokale Inhalte beim Beenden gelöscht werden.
 
-APP.1.2.A11 Überprüfung auf schädliche Inhalte (C)
-Aufgerufene Internetadressen SOLLTEN durch den Browser auf potenziell schädliche Inhalte geprüft werden.
-Der Browser SOLLTE den Benutzer in geeigneter Form warnen, wenn Informationen über schädliche Inhalte vorliegen.
-Eine als schädlich klassifizierte Verbindung SOLLTE nicht aufgerufen werden können.
+APP.1.2.A11 Überprüfung auf schädliche Inhalte (H)
+Aufgerufene Internetadressen SOLLTEN durch den Webbrowser auf potenziell schädliche Inhalte geprüft werden.
+Der Webbrowser SOLLTE den Benutzer warnen, wenn Informationen über schädliche Inhalte vorliegen.
+Eine als schädlich klassifizierte Verbindung SOLLTE NICHT aufgerufen werden können.
 Das verwendete Verfahren zur Überprüfung DARF NICHT gegen Datenschutz- oder Geheimschutz-Vorgaben verstoßen.
 
-APP.1.2.A12 Zwei-Browser-Strategie (A)
-Für den Fall von ungelösten Sicherheitsproblemen mit dem verwendeten Web-Browser SOLLTE ein alternativer Browser eines anderen Herstellers installiert sein, um als Ausweichmöglichkeit dienen zu können.
+APP.1.2.A12 Zwei-Browser-Strategie (H)
+Für den Fall von ungelösten Sicherheitsproblemen mit dem verwendeten Webbrowser SOLLTE ein alternativer Browser eines anderen Herstellers installiert sein, der dem Benutzer als Ausweichmöglichkeit dient.

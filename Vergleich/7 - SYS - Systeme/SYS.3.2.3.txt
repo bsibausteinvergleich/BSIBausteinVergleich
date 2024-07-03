@@ -1,76 +1,109 @@
 3.1 Basis-Anforderungen
 
-SYS.3.2.3.A1 Strategie für die iOS-Nutzung
-Wird ein MDM eingesetzt, so MÜSSEN die Geräte über das MDM verwaltet und konfiguriert werden.
+SYS.3.2.3.A1 Strategie für die iOS-Nutzung (B)
+Wird ein MDM eingesetzt, so MÜSSEN die iOS-basierten Geräte über das MDM verwaltet und konfiguriert werden.
 Hierzu MUSS eine Strategie zur iOS-Nutzung vorliegen, in der Aspekte wie Endgeräte-Auswahl oder Backup-Strategien festgelegt werden.
-Es MUSS außerdem geregelt werden, ob zusätzliche Apps von Drittanbietern genutzt werden sollen.
+Es MUSS geregelt werden, ob zusätzliche Apps von Drittanbietern genutzt werden sollen bzw. dürfen.
+Außerdem MÜSSEN Jailbreaks organisatorisch untersagt und nach Möglichkeit technisch verhindert werden, etwa über eine Jailbreak-Erkennung durch das MDM.
 
-SYS.3.2.3.A2 Planung des Einsatzes von Cloud-Diensten
-Es MUSS vor der Verwendung von iOS-basierten Geräten strategisch festgelegt werden, welche Cloud-Services in welchem Umfang genutzt werden sollen bzw. dürfen.
-Dabei SOLLTE berücksichtigt werden, dass iOS-basierte Geräte grundsätzlich eng mit iCloud-Diensten des Herstellers Apple verzahnt sind, dies betrifft grundsätzlich bereits die Aktivierung der Geräte mit einer Apple ID.
-Daher SOLLTE geprüft werden, ob das Apple-Programm zur Geräteregistrierung (Device Enrollment Program, DEP) genutzt werden kann, da so auf eine Apple ID verzichtet werden kann.
+SYS.3.2.3.A2 Planung des Einsatzes von Cloud-Diensten (B)
+Bevor iOS-basierte Geräte verwendet werden, MUSS strategisch festgelegt werden, welche Cloud-Services in welchem Umfang genutzt werden sollen bzw. dürfen.
+Dabei SOLLTE berücksichtigt werden, dass iOS-basierte Geräte grundsätzlich eng mit iCloud-Diensten des Herstellers Apple verzahnt sind sowie dass beispielsweise bereits die Aktivierung von Einzelgeräten mit einer Apple-ID hiervon betroffen ist.
+Daher SOLLTE geprüft werden, ob zur Geräteregistrierung Apple Business Manager (früher Device Enrollment Program, DEP) genutzt werden kann, da in diesem Fall auf eine Apple-ID verzichtet werden kann.
 
-SYS.3.2.3.A7 Verhinderung des unautorisierten Löschens von Konfigurationsprofilen
-Damit Konfigurationsprofile nicht unautorisiert gelöscht werden können, MÜSSEN geeignete technische oder organisatorische Regelungen getroffen und umgesetzt werden.
-Benutzer von mobilen Endgeräten SOLLTEN über Sinn und Zweck der Sicherheitsmaßnahmen sensibilisiert werden.
+SYS.3.2.3.A3 ENTFALLEN (B)
+Diese Anforderung ist entfallen.
+
+SYS.3.2.3.A4 ENTFALLEN (B)
+Diese Anforderung ist entfallen.
+
+SYS.3.2.3.A5 ENTFALLEN (B)
+Diese Anforderung ist entfallen.
+
+SYS.3.2.3.A6 ENTFALLEN (B)
+Diese Anforderung ist entfallen.
+
+SYS.3.2.3.A7 Verhinderung des unautorisierten Löschens von Konfigurationsprofilen (B)
+Damit Konfigurationsprofile nicht unautorisiert gelöscht werden können, MÜSSEN geeignete technische (z. B. durch den betreuten Modus) oder organisatorische Maßnahmen getroffen und umgesetzt werden.
+Benutzer von mobilen Endgeräten SOLLTEN für den Sinn und Zweck der Sicherheitsmaßnahmen sensibilisiert werden.
+
+SYS.3.2.3.A8 ENTFALLEN (B)
+Diese Anforderung ist entfallen.
 
 
 3.2 Standard-Anforderungen
 
-SYS.3.2.3.A10 Verwendung biometrischer Authentisierung
-Bei iOS-basierten Geräten mit Funktionen zur biometrischen Authentisierung wie Touch ID oder Face ID SOLLTEN diese den Benutzern alternativ zur Entsperrung des Geräts freigegeben werden, wenn gleichzeitig organisatorisch und technisch geregelt wird, dass die Benutzer komplexere Gerätecodes verwenden müssen.
-Einhergehend mit der Aktivierung von Touch ID oder Face ID SOLLTE eine Sensibilisierung der Benutzer hinsichtlich der Fälschbarkeit von biometrischen Merkmalen erfolgen.
+SYS.3.2.3.A9 ENTFALLEN (S)
+Diese Anforderung ist entfallen.
 
-SYS.3.2.3.A11 Verwendung nicht personalisierter Gerätenamen
-Um zu verhindern, dass unter Umständen der Benutzer und der Gerätecode erraten werden können, SOLLTE der Gerätename keine persönlichen Namens- und Institutionsmerkmale enthalten.
+SYS.3.2.3.A10 Verwendung biometrischer Authentisierung (S)
+Bei iOS-basierten Geräten mit Funktionen zur biometrischen Authentisierung wie „Touch ID“ oder „Face ID“ SOLLTEN diese den Benutzern alternativ zur Entsperrung des Geräts freigegeben werden, wenn gleichzeitig organisatorisch und technisch geregelt ist, dass die Benutzer komplexere Gerätecodes verwenden müssen.
+Einhergehend mit der Aktivierung von „Touch ID“ oder „Face ID“ SOLLTEN die Benutzer für die Fälschbarkeit von biometrischen Merkmalen sensibilisiert werden.
 
-SYS.3.2.3.A12 Verwendung institutionsbezogener Apple IDs
-Statt mit einer persönlichen Apple ID des Benutzers SOLLTE das iOS-basierte Gerät mit einer institutionsbezogenen Apple ID verwendet werden.
-Als zusätzliche Vorsorgemaßnahme zur Verhinderung des Missbrauchs dienstlicher Zahlungsmittel (Kreditkarten) SOLLTE das Programm für Volumenlizenz (VPP) von Apple verwendet werden.
+SYS.3.2.3.A11 Verwendung nicht personalisierter Gerätenamen (S)
+Der Gerätename SOLLTE keine persönlichen Namens- und Institutionsmerkmale enthalten.
 
-SYS.3.2.3.A13 Verwendung der Konfigurationsoption „Einschränkungen unter iOS“
-Es SOLLTEN alle nicht benötigten oder erlaubten Funktionen oder Dienste von iOS deaktiviert werden.
-Basierend auf dem Einsatzzweck und dem zugrundeliegenden Schutzbedarf SOLLTEN diesbezüglich insbesondere die Aspekte Sperrbildschirm, Unified Communication, Siri, Hintergrundbild, Verbindung mit Host-Systemen und Diagnose- und Nutzungsdaten geprüft werden.
+SYS.3.2.3.A12 Verwendung von Apple-IDs (S)
+Werden Dienste verwendet, für die eine Apple-ID erforderlich ist, SOLLTE statt einer persönlichen Apple-ID des Benutzers eine anonymisierte Apple-ID verwendet werden.
+Falls möglich, SOLLTE der Apple Business Manager für Volumenlizenzen (früher Volume Purchase Program, VPP) sowie eine zentralisierte Installation von Apps verwendet werden.
 
-SYS.3.2.3.A14 Verwendung der iCloud-Infrastruktur
-Bevor die umfängliche oder selektive Nutzung der iCloud-Infrastruktur freigegeben wird, SOLLTE eine Bewertung der Vereinbarkeit der allgemeinen Geschäftsbedingungen der Firma Apple mit den internen Richtlinien hinsichtlich Verfügbarkeit, Vertraulichkeit, Integrität und Datenschutz erfolgen.
-Wird die Nutzung der iCloud-Infrastruktur erlaubt, SOLLTE die Authentisierung am iCloud-Webservice durch eine Zwei-Faktor-Authentisierung erfolgen.
-Durch die Verwendung verwalteter Apps SOLLTE die iCloud-Nutzung für einen rein dienstlichen Bedarf zusätzlich auf ein geringes Maß reduziert oder komplett ausgeschlossen werden.
+SYS.3.2.3.A13 Verwendung der Konfigurationsoption „Einschränkungen unter iOS“ (S)
+Es SOLLTEN alle nicht benötigten oder erlaubten Funktionen bzw. Dienste von iOS deaktiviert werden.
+Basierend auf dem Einsatzzweck und dem zugrunde liegenden Schutzbedarf SOLLTEN insbesondere die Aspekte „Sperrbildschirm“, „Unified Communication“, „Siri“, „Hintergrundbild“, „Verbindung mit Host-Systemen“ und „Diagnose- und Nutzungsdaten“ geprüft werden.
 
-SYS.3.2.3.A15 Verwendung der Continuity-Funktionen
-Wurde die Nutzung der iCloud-Infrastruktur nicht grundsätzlich durch das Sicherheitsmanagement der Institution untersagt, SOLLTE eine Bewertung der Vereinbarkeit der Continuity-Funktionen (AirDrop und Handoff) mit den internen Richtlinien unter Berücksichtigung der Aspekte Vertraulichkeit und Integrität erfolgen.
-Auf Basis der Bewertungsergebnisse SOLLTE geregelt werden, inwieweit technisch bzw. organisatorisch diese Funktionen eingeschränkt werden.
+SYS.3.2.3.A14 Verwendung der iCloud-Infrastruktur (S)
+Bevor die umfängliche oder selektive Nutzung der iCloud-Infrastruktur für eine dienstliche Nutzung freigegeben wird, SOLLTE bewertet werden, ob die allgemeinen Geschäftsbedingungen der Firma Apple mit den internen Richtlinien hinsichtlich Verfügbarkeit, Vertraulichkeit, Integrität und Datenschutz vereinbar sind.
+Wird die Nutzung der iCloud-Infrastruktur erlaubt, SOLLTE die Identitätsprüfung am iCloud-Webservice durch eine Zwei-Faktor-Authentisierung erfolgen.
+Ansonsten SOLLTE die iCloud-Nutzung für einen rein dienstlichen Bedarf auf ein geringes Maß reduziert oder komplett ausgeschlossen werden.
 
-SYS.3.2.3.A17 Verwendung der Gerätecode-Historie
-Um die Vertraulichkeit des verwendeten Gerätecodes zu wahren und zu schnelle Wiederholungen vom Benutzer verwendeter Passwörter zu verhindern, SOLLTE im Konfigurationsprofil die Anzahl der eindeutigen Codes bis zur ersten Wiederholung auf einen angemessenen Wert festgelegt sein.
+SYS.3.2.3.A15 Verwendung der Continuity-Funktionen (S)
+Wurde die Nutzung der iCloud-Infrastruktur nicht grundsätzlich durch das Sicherheitsmanagement der Institution untersagt, SOLLTE die Vereinbarkeit der Continuity-Funktionen mit den internen Richtlinien unter Berücksichtigung der Aspekte Vertraulichkeit und Integrität bewertet werden.
+Auf Basis der Bewertungsergebnisse SOLLTE geregelt werden, inwieweit diese Funktionen technisch bzw. organisatorisch eingeschränkt werden.
 
-SYS.3.2.3.A18 Verwendung der Konfigurationsoption für den Browser Safari
+SYS.3.2.3.A16 ENTFALLEN (S)
+Diese Anforderung ist entfallen.
+
+SYS.3.2.3.A17 Verwendung der Gerätecode-Historie (S)
+Im Konfigurationsprofil SOLLTE die Anzahl der eindeutigen Codes bis zur ersten Wiederholung auf einen angemessenen Wert festgelegt sein.
+
+SYS.3.2.3.A18 Verwendung der Konfigurationsoption für den Browser Safari (S)
 Die bereits in der Institution etablierten Browserrichtlinien SOLLTEN entsprechend auch für Safari durch technische und organisatorische Maßnahmen umgesetzt werden.
 Dabei SOLLTEN die bereits etablierten Anforderungen für Browser auf stationären und tragbaren PCs als Grundlage für die Absicherung der iOS-basierten Geräte dienen sowie die Einsatzszenarien und das Einsatzumfeld der Geräte beachtet werden.
 
-SYS.3.2.3.A20 Einbindung der Geräte in die interne Infrastruktur via VPN
-iOS-basierte Geräte SOLLTEN mittels VPN in die Infrastruktur integriert werden.
-In Abhängigkeit von Schutzbedarf, Zweck und technischen Möglichkeiten des VPN-Servers SOLLTE eine VPN-Verbindung auf Basis der Technologien IKEv2, IPSec, L2TP, PPTP oder SSL/TLS realisiert werden.
-Die Authentisierung SOLLTE bevorzugt durch Einmal-Passwörter und Zertifikate statt durch den Einsatz klassischer Passwörter implementiert und betrieben werden.
+SYS.3.2.3.A19 ENTFALLEN (S)
+Diese Anforderung ist entfallen.
 
-SYS.3.2.3.A21 Freigabe von Apps und Einbindung des Apple App Stores
-Wenn zusätzliche Apps von Drittanbietern eingesetzt werden (siehe SYS.3.2.3.A1), MUSS durch die Verantwortlichen der interne Software-Freigabeprozess bzgl. der Validierung und Freigabe von Anwendungen (Apps) aus dem Apple App Store ergänzt werden.
-Um die institutionsinternen App-Freigabeprozesse zu unterstützen, SOLLTE das eingesetzte MDM eine Filterung auf Basis von Whitelists, Blacklists oder App-Reputationsservices ermöglichen.
+SYS.3.2.3.A20 Einbindung der Geräte in die interne Infrastruktur via VPN (S)
+iOS-basierte Geräte SOLLTEN mittels Virtual Private Network (VPN) in die Infrastruktur integriert werden.
+Je nach Schutzbedarf, Zweck und den technischen Möglichkeiten des VPN-Servers, SOLLTE eine VPN-Verbindung auf Basis von IKEv2, IPSec, L2TP, PPTP oder SSL/TLS realisiert werden.
+Die Authentisierung SOLLTE bevorzugt durch Einmalpasswörter und Zertifikate statt durch klassische Passwörter erfolgen.
+
+SYS.3.2.3.A21 Freigabe von Apps und Einbindung des Apple App Stores (S)
+Wenn zusätzliche Apps von Drittanbietern eingesetzt werden (siehe SYS.3.2.3.A1 Strategie für die iOS-Nutzung), SOLLTE durch die Verantwortlichen der interne Software-Freigabeprozess bezüglich der Validierung und Freigabe von Anwendungen (Apps) aus dem Apple App Store ergänzt werden.
+Um die institutionsinternen App-Freigabeprozesse zu unterstützen, SOLLTE das eingesetzte MDM eine Filterung auf Basis von Whitelists, Blacklists oder App/Reputationsservices ermöglichen.
 Alle freigegebenen Anwendungen SOLLTEN intern in einem Standardkatalog veröffentlicht und den Benutzern zur Verfügung gestellt werden.
-Als unterstützendes Mittel zur Sicherstellung, dass den autorisierten Anwendern die benötigten Apps zum benötigten Zeitpunkt ausreichend zur Verfügung stehen, kann eine Integration des Programms für Volumenlizenzen (VPP) für Unternehmen der Firma Apple in die MDM-Infrastruktur erfolgen.
-Ein weiterer Aspekt der Nutzung des VPP ist, dass die verwendeten Apple IDs nicht mit einem Zahlungsmittel hinterlegt sein müssen.
+Um sicherzustellen, dass den autorisierten Benutzern die benötigten Apps zum notwendigen Zeitpunkt ausreichend zur Verfügung stehen, SOLLTE überlegt werden, den Apple Business Manager in die MDM-Infrastruktur zu integrieren.
 Die Zahlungsbestätigung von Apps im App Store SOLLTE NICHT über biometrische Verfahren erfolgen.
 
 
 3.3 Anforderungen bei erhöhtem Schutzbedarf
 
-SYS.3.2.3.A23 Verwendung der automatischen Konfigurationsprofillöschung (CI)
-Durch die Verwendung der automatischen Konfigurationsprofillöschung SOLLTE sichergestellt werden, dass auch nicht permanent online erreichbare Geräte ohne Zutun der IT-Verantwortlichen den bisher gewährten Zugang in die interne Infrastruktur nach Ablauf eines definierten Zeitraums oder an einem bestimmten Tag verlieren, sofern der Zeitraum nicht durch Zugriff auf das interne Netz erneuert wird.
-Um sicherzustellen, dass der Benutzer noch im Besitz des Geräts ist, SOLLTE diese Methodik bei Bedarf präventiv verwendet werden.
+SYS.3.2.3.A22 ENTFALLEN (H)
+Diese Anforderung ist entfallen.
 
-SYS.3.2.3.A25 Verwendung der Konfigurationsoption für AirPrint (CI)
+SYS.3.2.3.A23 Verwendung der automatischen Konfigurationsprofillöschung (H)
+Durch die Verwendung der automatischen Konfigurationsprofillöschung SOLLTE sichergestellt werden, dass auch nicht permanent online erreichbare Geräte ohne Zutun der IT-Verantwortlichen den bisher gewährten Zugang zur internen Infrastruktur nach Ablauf eines definierten Zeitraums oder an einem bestimmten Tag verlieren, sofern der Zeitraum nicht durch den Zugriff auf das interne Netz erneuert wird.
+Um sicherzustellen, dass der Benutzer noch im Besitz des Geräts ist, SOLLTE diese Methodik bei Bedarf präventiv angewendet werden.
+
+SYS.3.2.3.A24 ENTFALLEN (H)
+Diese Anforderung ist entfallen.
+
+SYS.3.2.3.A25 Verwendung der Konfigurationsoption für AirPrint (H)
 Freigegebene AirPrint-Drucker SOLLTEN dem Benutzer durch ein Konfigurationsprofil bereitgestellt werden.
-Um zu vermeiden, dass Informationen auf nicht vertrauenswürdigen Druckern durch die Benutzer ausgedruckt werden können, SOLLTE sichergestellt sein, dass stets alle Kommunikationsverbindungen über die Infrastruktursysteme der Institution geführt werden.
+Um zu vermeiden, dass Informationen auf nicht vertrauenswürdigen Druckern von Benutzern ausgedruckt werden können, SOLLTEN stets alle Kommunikationsverbindungen über die Infrastruktursysteme der Institution geführt werden.
 
-SYS.3.2.3.A26 Keine Verbindung mit Host-Systemen (CI)
+SYS.3.2.3.A26 Keine Verbindung mit Host-Systemen (H)
 Um zu vermeiden, dass iOS-basierte Geräte unautorisiert mit anderen IT-Systemen verbunden werden, SOLLTEN die Benutzer iOS-basierte Geräte ausschließlich mit dem MDM verbinden können.
+
+SYS.3.2.3.A27 ENTFALLEN (H)
+Diese Anforderung ist entfallen.

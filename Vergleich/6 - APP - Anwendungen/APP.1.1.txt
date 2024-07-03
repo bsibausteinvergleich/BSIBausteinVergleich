@@ -1,6 +1,6 @@
 3.1 Basis-Anforderungen
 
-APP.1.1.A1 Sicherstellen der Integrität von Office-Produkten
+APP.1.1.A1 Sicherstellen der Integrität von Office-Produkten (B)
 Bei der Installation von Office-Produkten MUSS sichergestellt werden, dass ausschließlich unveränderte Kopien der freigegebenen Originalsoftware verwendet werden.
 Updates MÜSSEN ausschließlich aus sicheren Quellen bezogen werden.
 Falls zu einem Office-Produkt Prüfsummen angeboten werden, SOLLTEN diese vor der Installation überprüft werden.
@@ -8,101 +8,103 @@ Falls zu einem Office-Produkt digitale Signaturen verfügbar sind, SOLLTEN diese
 Die Administratoren SOLLTEN über die Bedeutung und Aussagekraft von Prüfsummen und digitalen Signaturen informiert werden.
 Ebenso wie bei einer Neuinstallation MUSS bei der Installation von Updates sichergestellt werden, dass die Update-Pakete unverändert sind.
 
-APP.1.1.A2 Einschränken von Aktiven Inhalten [Benutzer]
-Das automatische Ausführen von eingebetteten Aktiven Inhalten, wie beispielsweise Makros oder ActiveX-Elemente, MUSS in den Einstellungen aller verwendeten Office-Produkte deaktiviert werden.
-Ist die Ausführung Aktiver Inhalte für einen Geschäftsprozess notwendig, MUSS darauf geachtet werden, dass nur Aktive Inhalte von vertrauenswürdigen Quellen ausgeführt werden.
-Alle Benutzer MÜSSEN in Schulungen bezüglich der Gefährdungen durch Aktive Inhalte sensibilisiert werden und hinsichtlich der Funktionen zum Einschränken Aktiver Inhalte eingewiesen werden.
+APP.1.1.A2 Einschränken von Aktiven Inhalten (B)
+Das automatische Ausführen von eingebetteten Aktiven Inhalten, wie beispielsweise Makros oder ActiveX-Elementen, MUSS in den Einstellungen aller verwendeten Office-Produkte deaktiviert werden.
+Ist die Ausführung Aktiver Inhalte für einen Geschäftsprozess notwendig, MUSS darauf geachtet werden, dass Aktive Inhalte nur von vertrauenswürdigen Quellen ausgeführt werden.
+Alle Benutzer MÜSSEN in Schulungen bezüglich der Gefährdungen durch Aktive Inhalte sensibilisiert werden.
+Sie MÜSSEN hinsichtlich der Funktionen, die Aktive Inhalte einschränken, eingewiesen werden.
 
-APP.1.1.A3 Öffnen von Dokumenten aus externen Quellen
+APP.1.1.A3 Sicheres Öffnen von Dokumenten aus externen Quellen [Benutzer] (B)
 Alle aus externen Quellen bezogenen Dokumente MÜSSEN vor dem Öffnen auf Schadsoftware überprüft werden.
-Alle als problematisch eingestuften und zusätzlich alle innerhalb der Institution nicht benötigten Dateiformate MÜSSEN verboten werden.
+Alle als problematisch eingestuften und alle innerhalb der Institution nicht benötigten Dateiformate MÜSSEN verboten werden.
 Die Benutzer MÜSSEN zum Umgang mit Dokumenten aus externen Quellen geschult und sensibilisiert werden.
 Die Prüfung von Dokumenten aus externen Quellen SOLLTE durch technische Maßnahmen erzwungen werden.
 
-APP.1.1.A4 Absichern des laufenden Betriebs von Office-Produkten
-IT-Betrieb und ISB MÜSSEN sich regelmäßig über bekannt gewordene Sicherheitslücken der Office-Produkte informieren.
+APP.1.1.A4 Absichern des laufenden Betriebs von Office-Produkten (B)
+Der IT-Betrieb und die Informationssicherheitsbeauftragten (ISB) MÜSSEN sich regelmäßig über bekannt gewordene Sicherheitslücken der Office-Produkte informieren.
 Vorhandene Patches MÜSSEN zeitnah eingespielt werden.
 Die Benutzer SOLLTEN über die Möglichkeiten und Grenzen von Sicherheitsfunktionen der eingesetzten Software und der genutzten Speicherformate informiert werden.
 Die Vorgaben für die sichere Nutzung von Office-Produkten SOLLTEN in der Sicherheitsrichtlinie integriert werden.
 
 
 3.2 Standard-Anforderungen
+ 
+APP.1.1.A5 Auswahl geeigneter Office-Produkte (S)
+Bei der Beschaffung von Office-Anwendungen SOLLTEN die Anforderungen der Institution an Office-Produkte durch die Fach- und IT-Abteilung erhoben werden.
+Diese SOLLTEN in einem Anforderungskatalog dokumentiert werden.
+Die am Markt erhältlichen Produkte SOLLTEN dahingehend untersucht werden, inwieweit sie die Anforderungen der Institution erfüllen.
+Bei der Auswahl zwischen mehreren Alternativen SOLLTE auch der zusätzliche Aufwand berücksichtigt werden, wie beispielsweise der Mehraufwand für die Schulung von Administratoren und Benutzern oder für die Migration.
 
-APP.1.1.A5 Auswahl geeigneter Office-Produkte
-Im Rahmen der Beschaffung von Office-Anwendungen SOLLTEN die Anforderungen der Institution an Office-Produkte durch die Fach- und IT-Abteilung erhoben werden.
-Diese sollten in einem Anforderungskatalog dokumentiert werden.
-Sind alle Anforderungen an das zu beschaffende Office-Produkt dokumentiert, SOLLTEN die am Markt erhältlichen Produkte dahingehend untersucht werden, inwieweit sie diese Anforderungen der Institution erfüllen.
-Bei der Auswahl zwischen mehreren Alternativen SOLLTEN auch zusätzliche Aufwände berücksichtigt werden; zu diesen zählen beispielsweise Mehraufwände für die Schulung von Administratoren und Benutzern oder für die Migration.
-
-APP.1.1.A6 Testen neuer Versionen von Office-Produkten
-Neue Versionen von Office-Produkten SOLLTEN vor dem produktiven Einsatz auf Kompatibilität mit etablierten Arbeitsmitteln (z. B. Dokumentenvorlagen, Formulare) der Institution geprüft werden.
+APP.1.1.A6 Testen neuer Versionen von Office-Produkten (S)
+Neue Versionen von Office-Produkten SOLLTEN vor dem produktiven Einsatz auf Kompatibilität mit etablierten Arbeitsmitteln wie Dokumentenvorlagen oder Formularen der Institution geprüft werden.
 Zu diesem Zweck SOLLTEN Testmethoden für die Einzeltests (Testarten, -verfahren und -werkzeuge) entwickelt und freigegeben werden.
 Es SOLLTE sichergestellt sein, dass wichtige Arbeitsmittel auch mit der neuen Software-Funktion einwandfrei funktionieren.
 Bei entdeckten Inkompatibilitäten SOLLTE ein Migrationsplan für die betroffenen Dokumente erstellt werden.
 
-APP.1.1.A7 Installation und Konfiguration von Office-Produkten
+APP.1.1.A7 Installation und sichere Standardkonfiguration von Office-Produkten (S)
 Für die eingesetzten Office-Produkte SOLLTE eine an den Bedarf der Institution angepasste Standardkonfiguration erstellt und genutzt werden.
 Diese Konfiguration SOLLTE in einer Installations- und Konfigurationsanweisung dokumentiert werden.
-Die Installation und Konfiguration SOLLTE gemäß der Anweisung erfolgen und die Standardeinstellungen anwenden.
-Alle notwendigen Abweichungen von der definierten Standardkonfiguration SOLLTEN nachvollziehbar dokumentiert werden und bedürfen für den Gebrauch einer Zustimmung durch eine geeignete Freigabeinstanz.
-Im Falle von Pilot-Installationen gilt, dass diese immer durch die IT-Abteilung begleitet werden SOLLTEN.
+Die Installation und Konfiguration SOLLTE gemäß der Anweisung erfolgen und diese Standardkonfiguration angewendet werden.
+Alle notwendigen Abweichungen von der definierten Standardkonfiguration SOLLTE nachvollziehbar dokumentiert werden.
+Die Standardkonfiguration SOLLTE explizit freigegeben werden.
+Im Falle von Pilot-Installationen gilt, dass sie immer durch die IT-Abteilung begleitet werden SOLLTEN.
 Vor und nach den Installationen SOLLTEN Datensicherungen der Office-Produkte auf allen betroffenen IT-Systemen durchgeführt werden.
 
-APP.1.1.A8 Versionskontrolle von Office-Produkten
-Es SOLLTE eine regelmäßige Kontrolle der installierten Versionen von Office-Produkten erfolgen.
+APP.1.1.A8 Regelmäßige Versionskontrolle von Office-Produkten (S)
+Die installierten Versionen von Office-Produkten SOLLTEN regelmäßig kontrolliert werden.
 Diese Bestandsführung der Software-Lizenzen SOLLTE bei jeder Installation oder Deinstallation aktualisiert werden.
-Darüber hinaus SOLLTEN die verschiedenen Konfigurationen der installierten Office-Produkte dokumentiert werden.
 
-APP.1.1.A9 Beseitigung von Restinformationen vor Weitergabe von Dokumenten [Benutzer]
-Vor der Weitergabe von Dokumenten an Dritte SOLLTEN alle nicht benötigten und vertraulichen Restinformationen aus Office-Dokumenten entfernt werden.
+APP.1.1.A9 Beseitigung von Restinformationen vor Weitergabe von Dokumenten [Benutzer] (S)
+Werden Dokumente an Dritte weitergegeben, SOLLTEN zuvor alle nicht benötigten und alle vertraulichen Restinformationen aus Office-Dokumenten entfernt werden.
 Zusätzlich SOLLTEN die Metadaten bereinigt werden.
-Alle Benutzer SOLLTEN bezüglich der Risiken durch Restinformationen sowie der Möglichkeiten zur Beseitigung in den eingesetzten Office-Produkten sensibilisiert und geschult werden.
-Die Übermittlung von Dokumenten SOLLTE in einem nicht veränderbaren Format erfolgen, falls eine Bearbeitung durch den Empfänger nicht erforderlich ist.
+Alle Benutzer SOLLTEN bezüglich der Risiken durch Restinformationen in den eingesetzten Office-Produkten sensibilisiert und dazu geschult werden, wie sie Restinformationen beseitigen können.
+Dokumente SOLLTEN in einem nicht veränderbaren Format übermittelt werden, wenn keine Bearbeitung durch den Empfänger erforderlich ist.
 
-APP.1.1.A10 Regelung der Software-Entwicklung durch Endbenutzer [Benutzer]
-Es SOLLTEN verbindliche Regelungen für die Softwareentwicklung auf Basis von Office-Anwendungen (z. B. Makros, Tabellenkalkulation) durch Endbenutzer getroffen werden, siehe auch APP.1.1.A2 Einschränken von Aktiven Inhalten.
-Zunächst SOLLTE in jeder Institution die Grundsatzentscheidung getroffen werden, ob solche Eigenentwicklungen erwünscht sind oder nicht.
-Die Entscheidung SOLLTE in den betroffenen Sicherheitsrichtlinien dokumentiert werden.
+APP.1.1.A10 Regelung der Software-Entwicklung durch Endbenutzer [Benutzer] (S)
+Es SOLLTEN verbindliche Regelungen für die Software-Entwicklung auf Basis von Office-Anwendungen, z. B. Makros oder Tabellenkalkulationen, durch Endbenutzer getroffen werden (siehe auch APP.1.1.A2 Einschränken von Aktiven Inhalten).
+Zunächst SOLLTE in jeder Institution die Grundsatzentscheidung getroffen werden, ob solche Eigenentwicklungen überhaupt erwünscht sind.
+Die Entscheidung SOLLTE in den betroffenen Sicherheitsrichtliniendokumentiert werden.
 Werden Eigenentwicklungen erlaubt, SOLLTE ein Verfahren für den Umgang mit entsprechenden Funktionen der Office-Produkte für die Endbenutzer entwickelt werden.
 Verantwortlichkeiten SOLLTEN klar definiert werden.
 Alle Informationen über die erstellten Anwendungen SOLLTEN dokumentiert werden.
 Aktuelle Versionen SOLLTEN allen betroffenen Benutzern zeitnah zugänglich gemacht werden.
 
-APP.1.1.A11 Geregelter Einsatz von Erweiterungen für Office-Produkte
+APP.1.1.A11 Geregelter Einsatz von Erweiterungen für Office-Produkte (S)
 Alle Erweiterungen von Office-Produkten SOLLTEN vor dem produktiven Einsatz analog zum Testvorgehen von neuen Versionen getestet werden.
-Die durchzuführenden Tests SOLLTEN ausschließlich auf isolierten Testsystemen durchgeführt werden.
-Die Tests SOLLTEN prüfen, dass Erweiterungen keine negativen Auswirkungen für die Office-Produkte und laufenden IT-Systeme haben.
-Die Tests der eingesetzten Erweiterungen SOLLTEN einem definierten Testplan folgen, der die Nachvollziehbarkeit für Dritte gewährleistet.
+Die Tests SOLLTEN ausschließlich auf isolierten Testsystemen durchgeführt werden.
+Die Tests SOLLTEN prüfen, dass Erweiterungen keine negativen Auswirkungen auf die Office-Produkte und die laufenden IT-Systeme haben.
+Die Tests der eingesetzten Erweiterungen SOLLTEN einem definierten Testplan folgen, damit Dritte das Vorgehen nachvollziehen können.
 
-APP.1.1.A12 Verzicht auf Cloud-Speicherung [Benutzer]
+APP.1.1.A12 Verzicht auf Cloud-Speicherung [Benutzer] (S)
 Die in einigen Office-Produkten integrierten Cloud-Speicher-Funktionen SOLLTEN grundsätzlich deaktiviert werden.
 Alle Cloud-Laufwerke SOLLTEN deaktiviert werden.
-Alle Dokumente SOLLTEN auf zentral verwalteten File-Servern der Institution gespeichert werden.
-Um Dokumente für Dritte zur Sichtung oder Bearbeitung freizugeben, SOLLTEN spezialisierte Anwendungen wie beispielsweise geeignete Datenräume eingesetzt werden, die über Sicherheitsfunktionen wie eine verschlüsselte Datenablage und -versendung und ein geeignetes System zur Benutzer- und Rechteverwaltung verfügen.
+Alle Dokumente SOLLTEN durch die Benutzer auf zentral verwalteten File-Servern der Institution gespeichert werden.
+Um Dokumente für Dritte freizugeben, SOLLTEN spezialisierte Anwendungen wie beispielsweise geeignete Datenräume eingesetzt werden, die über Sicherheitsfunktionen wie eine verschlüsselte Datenablage und -versendung sowie ein geeignetes System zur Benutzer- und Rechteverwaltung verfügen.
 
-APP.1.1.A13 Verwendung von Viewer-Funktionen [Benutzer]
+APP.1.1.A13 Verwendung von Viewer-Funktionen [Benutzer] (S)
 Daten aus potenziell unsicheren Quellen wie dem Internet oder Anhänge von E-Mail-Nachrichten SOLLTEN automatisch in einem geschützten Modus geöffnet werden, in dem sie nicht unmittelbar bearbeitet werden können.
 Nur eine allgemeine Navigation SOLLTE ermöglicht werden.
 Diese Funktion SOLLTE NICHT durch den Benutzer deaktivierbar sein.
-Es SOLLTEN entsprechende Viewer-Anwendungen verwendet werden, wenn diese verfügbar sind.
-Es kann eine Liste vertrauenswürdiger Orte definiert werden, von denen Inhalte unmittelbar geöffnet und bearbeitet werden können.
+Wenn die Dokumente lediglich betrachtet werden sollen, SOLLTEN entsprechende Viewer-Anwendungen verwendet werden, wenn diese verfügbar sind.
+Es SOLLTE eine Liste vertrauenswürdiger Orte definiert werden, von denen Inhalte unmittelbar geöffnet und bearbeitet werden können.
 
-APP.1.1.A14 Schutz gegen nachträgliche Veränderungen von Informationen [Benutzer]
-In Abhängigkeit vom geplanten Verwendungszweck von Dokumenten SOLLTEN die in Anwendungsprogrammen vorhandenen Sicherheitsmechanismen genutzt werden, um den weiteren Umgang mit den erstellten Dateien einzuschränken.
-Die Mitarbeiter SOLLTEN darauf hingewiesen werden, wie diese Sicherheitsmechanismen funktionieren und wie sie anzuwenden sind.
+APP.1.1.A14 Schutz gegen nachträgliche Veränderungen von Dokumenten [Benutzer] (S)
+Je nach geplantem Verwendungszweck von Dokumenten SOLLTEN die in Anwendungsprogrammen vorhandenen Sicherheitsmechanismen genutzt werden, um den weiteren Umgang mit den erstellten Dateien einzuschränken.
+Die Benutzer SOLLTEN darauf hingewiesen werden, wie diese Sicherheitsmechanismen funktionieren und wie sie anzuwenden sind.
 
 
 3.3 Anforderungen bei erhöhtem Schutzbedarf
 
-APP.1.1.A15 Einsatz von Verschlüsselung und Digitalen Signaturen (CI)
-Daten mit erhöhtem Schutzbedarf SOLLTEN vor einer Übertragung oder Speicherung verschlüsselt werden, um die Vertraulichkeit sicherzustellen.
-Vor der Nutzung eines in ein Office-Produkt integrierten Verschlüsselungsverfahrens SOLLTE geprüft werden, ob es einen ausreichenden Schutz bietet, das gilt besonders für ältere Produktversionen.
+APP.1.1.A15 Einsatz von Verschlüsselung und Digitalen Signaturen (H)
+Daten mit erhöhtem Schutzbedarf SOLLTEN vor einer Übertragung oder Speicherung verschlüsselt werden.
+Vor der Nutzung eines in ein Office-Produkt integrierten Verschlüsselungsverfahrens SOLLTE geprüft werden, ob es einen ausreichenden Schutz bietet.
+Das gilt besonders für ältere Produktversionen.
 Die IT-Systeme von Absender und Empfänger SOLLTEN den Zugriffsschutz auf die verwendete Methode zur Verschlüsselung gewährleisten.
-Benutzer SOLLTEN im Umgang mit den Verschlüsselungsfunktionen geschult und sensibilisiert werden.
+Benutzer SOLLTEN im Umgang mit den Verschlüsselungsfunktionen sensibilisiert und geschult werden.
 Zusätzlich SOLLTE ein Verfahren eingesetzt werden, mit dem Makros und Dokumente digital signiert werden können.
 Die Gültigkeit der verwendeten Zertifikate SOLLTE zeitlich begrenzt werden.
 
-APP.1.1.A16 Integritätsprüfung von Dokumenten (I)
-Zum Schutz vor zufälliger Veränderung von Daten mit erhöhtem Schutzbedarf bei einer Übertragung und/oder Speicherung SOLLTEN Prüfsummen-Verfahren eingesetzt werden.
+APP.1.1.A16 Integritätsprüfung von Dokumenten (H)
+Zum Schutz vor zufälliger Veränderung von Daten mit erhöhtem Schutzbedarf bei einer Übertragung sowie Speicherung SOLLTEN Prüfsummenverfahren eingesetzt werden.
 Es SOLLTE ein Verfahren ausgewählt werden, das dazu in der Lage ist, die Daten selbstständig zu korrigieren.
 Zum Schutz vor Manipulation SOLLTEN darüber hinaus kryptografische Prüfsummenverfahren eingesetzt werden.

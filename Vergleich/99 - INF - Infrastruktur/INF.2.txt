@@ -1,196 +1,209 @@
 3.1 Basis-Anforderungen
 
-INF.2.A1 Festlegung von Anforderungen [Planer, IT-Betrieb, Haustechnik, Informationssicherheitsbeauftragter (ISB)]
+INF.2.A1 Festlegung von Anforderungen [Haustechnik, Informationssicherheitsbeauftragter (ISB), IT-Betrieb, Planer] (B)
 Für ein Rechenzentrum MÜSSEN angemessene technische und organisatorische Vorgaben definiert und umgesetzt werden.
-Wenn ein Rechenzentrum geplant wird oder geeignete Räumlichkeiten ausgewählt werden, MÜSSEN potenzielle Gefährdungen durch Umgebungseinflüsse sowie das Sicherheitsniveau der IT-Komponenten (insbesondere Verfügbarkeit) mitbetrachtet werden.
-Weiterhin MÜSSEN auch Schutzmaßnahmen vor potenziellen internen und externen Angriffen in die Gesamtbetrachtung einfließen.
+Wenn ein Rechenzentrum geplant wird oder geeignete Räumlichkeiten ausgewählt werden, MÜSSEN auch geeignete Sicherheitsmaßnahmen unter Berücksichtigung des Schutzbedarfs der IT-Komponenten (insbesondere der Verfügbarkeit) mit geplant werden.
 Ein Rechenzentrum MUSS insgesamt als geschlossener Sicherheitsbereich konzipiert werden.
 Es MUSS zudem unterschiedliche Sicherheitszonen aufweisen.
-Hierfür MÜSSEN Verwaltungs-, Logistik-, Technik- und IT-Flächen klar voneinander getrennt werden.
-Im Falle eines Serverraums SOLLTE geprüft werden, ob unterschiedliche Sicherheitszonen umsetzbar sind.
-Auch MUSS darauf geachtet werden, dass Versorgungsleitungen (z. B. für Wasser oder Gas) möglichst nicht in unmittelbarer Nähe von schutzbedürftigen Technikkomponenten verlaufen.
-Vorhandene Versorgungsleitungen MÜSSEN zumindest an den kritischen Stellen regelmäßig überprüft werden, ob sie noch dicht sind.
+Dafür MÜSSEN Verwaltungs-, Logistik-, Technik- und IT-Flächen klar voneinander getrennt werden.
+Im Falle eines Serverraums SOLLTE geprüft werden, ob unterschiedliche Sicherheitszonen eingerichtet werden können.
 
-INF.2.A2 Bildung von Brandabschnitten [Planer]
-Es MÜSSEN geeignete Brandabschnitte für die Räumlichkeiten eines Rechenzentrums festgelegt werden.
-Schutzziel für die Brandwand bzw. den Brandabschnitt MUSS nicht nur der Personen- und Gebäudeschutz, sondern auch der Schutz des Inventars und dessen Verfügbarkeit sein.
-Somit MUSS nicht nur verhindert werden, dass sich ein Brand durch Flammen und heiße Rauchgase ausbreitet, sondern es MÜSSEN auch die Wärmestrahlung und die Ausbreitung von kaltem Rauch blockiert werden.
-Im Falle eines Serverraums SOLLTE geprüft werden, ob geeignete Brandabschnitte für die Räumlichkeiten umsetzbar sind.
+INF.2.A2 Bildung von Brandabschnitten [Planer] (B)
+Es MÜSSEN geeignete Brand- und Rauchabschnitte für die Räumlichkeiten eines Rechenzentrums festgelegt werden.
+Die Brand- und Rauchabschnitte MÜSSEN über den baurechtlich vorgeschriebenen Rahmen hinaus auch Schutz für die darin befindlichen technischen Einrichtungen und deren Verfügbarkeit bieten.
+Es MUSS verhindert werden, dass sich Brand und Rauch ausbreiten.
+Im Falle eines Serverraums SOLLTE geprüft werden, ob geeignete Brand- und Rauchabschnitte für die Räumlichkeiten umsetzbar sind.
 
-INF.2.A3 Einsatz einer unterbrechungsfreien Stromversorgung [Haustechnik]
+INF.2.A3 Einsatz einer unterbrechungsfreien Stromversorgung [Haustechnik] (B)
 Für alle betriebsrelevanten Komponenten des Rechenzentrums MUSS eine unterbrechungsfreie Stromversorgung (USV) installiert werden.
-Da der Leistungsbedarf von Klimatisierungsanlagen oft zu hoch für eine USV ist, MUSS aber mindestens die Steuerung der Anlagen an die unterbrechungsfreie Stromversorgung angeschlossen werden.
+Da der Leistungsbedarf von Klimaanlagen oft zu hoch für eine USV ist, MUSS aber mindestens die Steuerung der Anlagen an die unterbrechungsfreie Stromversorgung angeschlossen werden.
 Im Falle eines Serverraums SOLLTE je nach Verfügbarkeitsanforderungen der IT-Systeme geprüft werden, ob der Betrieb einer USV notwendig ist.
-Die USV MUSS ausreichend dimensioniert sein, sodass alle Komponenten bei einem Ausfall der Versorgung so lange mit Strom versorgt werden, dass kein Datenverlust entsteht.
-Bei relevanten Änderungen MUSS überprüft werden, ob die vorhandenen USV-Systeme noch ausreichend dimensioniert sind.
-Die Batterie der USV MUSS im erforderlichen Temperaturbereich gehalten werden und vorzugsweise in einem getrennten Bereich platziert sein.
+Die USV MUSS ausreichend dimensioniert sein.
+Bei relevanten Änderungen an den Verbrauchern MUSS überprüft werden, ob die vorhandenen USV-Systeme noch ausreichend dimensioniert sind.
+Bei USV-Systemen mit Batterie als Energiespeicher MUSS die Batterie im erforderlichen Temperaturbereich gehalten werden.
+Sie SOLLTE dazu vorzugsweise räumlich getrennt von der Leistungselektronik der USV platziert werden.
 Die USV MUSS regelmäßig gewartet und auf Funktionsfähigkeit getestet werden.
 Dafür MÜSSEN die vom Hersteller vorgesehenen Wartungsintervalle eingehalten werden (siehe INF.2.A10 Inspektion und Wartung der Infrastruktur).
-Um sicherzustellen, dass die USV die erforderliche Stützzeit bereitstellt, MUSS regelmäßig sowie zusätzlich, wenn sich bei den Verbrauchern etwas ändert, die tatsächliche Stützzeit ermittelt werden.
-Wenn IT-Geräte über eine USV versorgt werden, DÜRFEN diese NICHT über geschirmte Leitungen mit weiteren IT-Geräten verbunden werden.
 
-INF.2.A4 Notabschaltung der Stromversorgung [Haustechnik]
-Für den Notfall MUSS es geeignete Möglichkeiten geben, das Rechenzentrum spannungsfrei zu schalten.
-Dafür SOLLTE beispielsweise ein Not-Aus-Schalter installiert werden.
-Ein solcher Schalter MUSS nicht nur die externe Energieversorgung abtrennen, sondern auch die komplette USV-Anlage abschalten.
-Alle Not-Aus-Schalter MÜSSEN so geschützt sein, dass sie nicht unbeabsichtigt betätigt werden können.
+INF.2.A4 Notabschaltung der Stromversorgung [Haustechnik] (B)
+Es MUSS geeignete Möglichkeiten geben, elektrische Verbraucher im Rechenzentrum spannungsfrei zu schalten.
+Dabei MUSS darauf geachtet werden, ob und wie eine vorhandene USV räumlich und funktional in die Stromversorgung eingebunden ist.
+Werden klassische Not-Aus-Schalter eingesetzt, MUSS darauf geachtet werden, dass darüber nicht das komplette Rechenzentrum abgeschaltet wird.
+Die Notabschaltung MUSS sinnvoll parzelliert und zielgerichtet erfolgen.
+Alle Not-Aus-Schalter MÜSSEN so geschützt sein, dass sie nicht unbeabsichtigt oder unbefugt betätigt werden können.
 
-INF.2.A5 Einhaltung der Lufttemperatur und -feuchtigkeit [Haustechnik]
-Um IT-Systeme entsprechend den Hersteller-Empfehlungen zuverlässig betreiben zu können, MUSS sichergestellt werden, dass die Lufttemperatur und Luftfeuchtigkeit im IT-Betriebsbereich innerhalb der vorgeschriebenen Grenzen liegen.
-Die tatsächliche Wärmelast in den gekühlten Bereichen MUSS in regelmäßigen Abständen und nach größeren Umbauten durch Berechnung oder Messung überprüft werden.
-Auch MUSS eine eventuell vorhandene Klimatisierungseinrichtung regelmäßig gewartet werden.
-Wenn die beiden Parameter „Temperatur“ und „Feuchtigkeit“ vom Normwert abweichen, MÜSSEN sie über eine repräsentative Dauer hinweg in einem der Situation angepassten Zeitintervall aufgezeichnet werden.
+INF.2.A5 Einhaltung der Lufttemperatur und -feuchtigkeit [Haustechnik] (B)
+Es MUSS sichergestellt werden, dass die Lufttemperatur und Luftfeuchtigkeit im IT-Betriebsbereich innerhalb der vorgeschriebenen Grenzwerte liegen.
+Die tatsächliche Wärmelast in den gekühlten Bereichen MUSS in regelmäßigen Abständen und nach größeren Umbauten überprüft werden.
+Auch MUSS eine vorhandene Klimatisierung regelmäßig gewartet werden.
+Die Parameter Temperatur und Feuchtigkeit MÜSSEN mindestens so aufgezeichnet werden, dass sich rückwirkend erkennen lässt, ob Grenzwerte überschritten wurden, und dass sie bei der Lokalisierung der Ursache der Abweichung sowie bei der Beseitigung der Ursache unterstützend genutzt werden können.
 
-INF.2.A6 Zutrittskontrolle [IT-Betrieb, Informationssicherheitsbeauftragter (ISB), Haustechnik]
-Für den Schutz gegen unbefugten Zutritt zu einem Rechenzentrum MUSS es eine Zutrittskontrolle geben.
-Durch eine auf die jeweiligen Erfordernisse abgestimmte Zutrittsregelung MUSS für eigene Mitarbeiter und für nur zeitweilig Beschäftigte sichergestellt werden, dass sie keinen Zutritt zu IT-Systemen außerhalb ihres Tätigkeitsbereiches erhalten.
-Außerdem MUSS sichergestellt werden, dass Besucher und Fremdpersonal während aller Arbeiten im Rechenzentrum von der Zutrittskontrolle individuell erfasst sowie beaufsichtigt werden.
-Zudem MÜSSEN alle Zutrittsmöglichkeiten zu einem Rechenzentrum überwacht werden.
-Die Anforderungen der Institution an ein Zutrittskontrollsystem MÜSSEN in einem Konzept ausreichend detailliert dokumentiert werden.
-Im Falle eines Serverraums SOLLTE geprüft werden, ob eine Überwachung aller Zutrittsmöglichkeiten sinnvoll ist.
-Weiterhin MUSS geregelt werden, welche internen und externen Personen für welchen Zeitraum Zutritt erhalten.
+INF.2.A6 Zutrittskontrolle [Haustechnik, Informationssicherheitsbeauftragter (ISB), IT-Betrieb] (B)
+Der Zutritt zum Rechenzentrum MUSS kontrolliert werden.
+Es MUSS geregelt werden, welche internen und externen Personen für welchen Zeitraum, für welche Bereiche und zu welchem Zweck Zutritt erhalten.
 Dabei MUSS sichergestellt sein, dass keine unnötigen oder zu weitreichenden Zutrittsrechte vergeben werden.
+Es MUSS für im RZ tätige Personen sichergestellt werden, dass diese keinen Zutritt zu IT-Systemen außerhalb ihres Tätigkeitsbereiches erhalten.
+Alle Zutritte zum Rechenzentrum MÜSSEN von der Zutrittskontrolle individuell erfasst werden.
+Über die mit Zutrittskontrolleinrichtungen ausgestatteten Zugänge hinaus DARF es KEINE weiteren Zutrittsmöglichkeiten zum RZ geben.
+Im Falle eines Serverraums SOLLTE geprüft werden, ob eine Überwachung aller Zutrittsmöglichkeiten sinnvoll ist.
 Es MUSS regelmäßig kontrolliert werden, ob die Regelungen zum Einsatz einer Zutrittskontrolle eingehalten werden.
+Die Anforderungen der Institution an ein Zutrittskontrollsystem MÜSSEN in einem Konzept ausreichend detailliert dokumentiert werden.
 
-INF.2.A7 Verschließen und Sichern [Mitarbeiter, Haustechnik]
+INF.2.A7 Verschließen und Sichern [Mitarbeiter, Haustechnik] (B)
 Alle Türen des Rechenzentrums MÜSSEN stets verschlossen gehalten werden.
-Fenster sind möglichst schon bei der Planung zu vermeiden.
+Fenster MÜSSEN möglichst schon bei der Planung vermieden werden.
 Falls sie doch vorhanden sind, MÜSSEN sie ebenso wie die Türen stets verschlossen gehalten werden.
-Türen und Fenster MÜSSEN einen dem Sicherheitsniveau angemessenen Schutz gegen Angriffsversuche und Umgebungseinflüsse (z. B. Feuer und Rauch) bieten.
-Hierbei ist zu beachten, dass die bauliche Ausführung aller raumbildenden Elemente in Bezug auf die Sicherheit, vor allem hinsichtlich der Sicherheitszonen, gleichwertig sein MUSS.
+Türen und Fenster MÜSSEN einen dem Sicherheitsniveau angemessenen Schutz gegen Angriffe und Umgebungseinflüsse bieten.
+Sie MÜSSEN mit einem Sichtschutz versehen sein.
+Dabei MUSS beachtet werden, dass die bauliche Ausführung aller raumbildenden Elemente in Bezug auf die erforderliche Schutzwirkung gleichwertig sein muss.
 
-INF.2.A8 Einsatz einer Brandmeldeanlage [Planer]
+INF.2.A8 Einsatz einer Brandmeldeanlage [Planer] (B)
 In einem Rechenzentrum MUSS eine Brandmeldeanlage installiert werden.
 Diese MUSS alle Flächen überwachen.
 Alle Meldungen der Brandmeldeanlage MÜSSEN geeignet weitergeleitet werden (siehe dazu auch INF.2.A13 Planung und Installation von Gefahrenmeldeanlagen).
 Die Brandmeldeanlage MUSS regelmäßig gewartet werden.
 Es MUSS sichergestellt werden, dass in Räumen, die im Brandabschnitt des Rechenzentrums liegen, keine besonderen Brandlasten vorhanden sind.
 
-INF.2.A9 Einsatz einer Lösch- oder Brandvermeidungsanlage [Planer]
-In einem Rechenzentrum MUSS eine Lösch- oder Brandvermeidungsanlage nach aktuellem Stand der Technik installiert sein.
-In Serverräumen SOLLTEN hierfür Handfeuerlöscher in ausreichender Zahl und Größe benutzt werden.
+INF.2.A9 Einsatz einer Lösch- oder Brandvermeidungsanlage [Haustechnik] (B)
+In einem Rechenzentrum MUSS entweder eine Lösch- oder Brandvermeidungsanlage nach aktuellem Stand der Technik installiert sein oder durch technische (insbesondere durch eine flächendeckende Brandfrüherkennung, siehe INF.2.A17 Brandfrüherkennung) und organisatorische Maßnahmen (geschultes Personal und fallbezogene Reaktionspläne für Meldungen der Brandfrüherkennung) sichergestellt sein, dass unmittelbar (innerhalb von maximal 5 Minuten) auf Meldungen der Brandfrüherkennung reagiert wird.
+In Serverräumen und in einem Rechenzentrum ohne Lösch- oder Brandvermeidungsanlage MÜSSEN Handfeuerlöscher mit geeigneten Löschmitteln in ausreichender Zahl und Größe vorhanden sein.
+Es MUSS beachtet werden, dass darüber hinausgehende baurechtliche Anforderungen hinsichtlich der Ausstattung mit Handfeuerlöschern davon unberührt bleiben.
 Die Feuerlöscher MÜSSEN so angebracht werden, dass sie im Brandfall leicht zu erreichen sind.
-Jeder Löscher MUSS regelmäßig inspiziert und gewartet werden, um die Funktionsfähigkeit im Ernstfall zu gewährleisten.
-Alle Mitarbeiter MÜSSEN in die Benutzung der Handfeuerlöscher eingewiesen werden.
+Jeder Feuerlöscher MUSS regelmäßig inspiziert und gewartet werden.
+Alle Mitarbeiter, die ein Rechenzentrum oder einen Serverraum betreten dürfen, MÜSSEN in die Benutzung der Handfeuerlöscher eingewiesen werden.
 
-INF.2.A10 Inspektion und Wartung der Infrastruktur [IT-Betrieb, Haustechnik, Wartungspersonal]
-Für alle Komponenten der technischen Infrastruktur MÜSSEN mindestens die empfohlenen oder durch Normen festgelegten Intervalle und Vorschriften für Inspektion und Wartung eingehalten werden.
-Um nachvollziehen zu können, wann welche Arbeiten durchgeführt wurden, MÜSSEN Inspektionen und Wartungsarbeiten protokolliert werden.
-Kabel- und Rohrdurchführungen durch Brandwände MÜSSEN regelmäßig daraufhin geprüft werden, ob die Schotten normgerecht und unversehrt sind.
+INF.2.A10 Inspektion und Wartung der Infrastruktur [Wartungspersonal, Haustechnik, IT-Betrieb] (B)
+Für alle Komponenten der baulich-technischen Infrastruktur MÜSSEN mindestens die vom Hersteller empfohlenen oder durch Normen festgelegten Intervalle und Vorschriften für Inspektion und Wartung eingehalten werden.
+Inspektionen und Wartungsarbeiten MÜSSEN protokolliert werden.
+Kabel- und Rohrdurchführungen durch brand- und rauchabschnittbegrenzende Wände MÜSSEN daraufhin geprüft werden, ob die Schotte unversehrt sind.
 Die Ergebnisse MÜSSEN dokumentiert werden.
 
-INF.2.A11 Automatisierte Überwachung der Infrastruktur [IT-Betrieb, Haustechnik]
-Alle Störungsmeldungen der Infrastruktur, z. B. Leckageüberwachung, Klima-, Strom- und USV-Anlagen, MÜSSEN automatisiert überwacht und schnellstmöglich in geeigneter Weise weitergeleitet werden, z. B. über ein Monitoringsystem.
+INF.2.A11 Automatische Überwachung der Infrastruktur [IT-Betrieb, Haustechnik] (B)
+Alle Störungsmeldungen der Infrastruktur wie z. B. Leckageüberwachung, Klima-, Strom- und USV-Anlagen MÜSSEN automatisch überwacht werden.
+Die Störungsmeldungen MÜSSEN schnellstmöglich in geeigneter Weise weitergeleitet und bearbeitet werden.
 Im Falle eines Serverraums SOLLTEN IT- und Supportgeräte, die nicht oder nur selten von einer Person bedient werden müssen, mit einer Fernanzeige für Störungen ausgestattet werden.
 Die verantwortlichen Mitarbeiter MÜSSEN zeitnah alarmiert werden.
+
+INF.2.A17 Brandfrüherkennung [Planer, Haustechnik] (B)
+Durch eine gegebenenfalls installierte Brandfrüherkennung MUSS sichergestellt werden, dass Brandrauch frühestmöglich detektiert wird.
+Die Meldungen der Brandfrüherkennung MÜSSEN entweder an eine ständig besetzte Stelle geleitet werden, die eine Kontrolle und Schutzreaktion innerhalb weniger Minuten veranlassen kann.
+Alternativ MUSS eine automatische Schutzreaktion erfolgen.
+Um ein ausgewogenes Verhältnis zwischen Brandschutz und Verfügbarkeit zu erreichen, MUSS sichergestellt werden, dass sich einander Redundanz gebende Einrichtungen nicht gemeinsam im Wirkungsbereich der gleichen Spannungsfreischaltung befinden.
+
+INF.2.A29 Vermeidung und Überwachung nicht erforderlicher Leitungen [Haustechnik, Planer] (B)
+In einem Rechenzentrum DÜRFEN NUR solche Leitungen verlegt werden, die der unmittelbaren Versorgung der im Rechenzentrum aufgebauten Technik (in der Regel IT- und gegebenenfalls Kühltechnik) dienen.
+Ist es aus baulichen Gründen unabwendbar, Leitungen durch das Rechenzentrum zu führen, um andere Bereiche als die des Rechenzentrums zu versorgen, MUSS dies einschließlich Begründung dokumentiert werden.
+Solche Leitungen MÜSSEN geeignet eingehaust und überwacht werden.
+Es SOLLTE beachtet werden, dass durch Serverräume vorgenannte Leitungen geführt werden dürfen, ohne zu begründen, warum dies unabwendbar ist.
+Diese MÜSSEN aber genauso behandelt werden, wie für das Rechenzentrum beschrieben.
+Meldungen aus der Überwachung der Leitungen MÜSSEN unverzüglich hinsichtlich der Gefährdungsrelevanz geprüft und bewertet werden.
+Gegenmaßnahmen MÜSSEN entsprechend der erkannten Gefährdungsrelevanz zeitgerecht umgesetzt werden (siehe auch INF.2.A13 Planung und Installation von Gefahrenmeldeanlagen).
 
 
 3.2 Standard-Anforderungen
 
-INF.2.A12 Entwurf und Umsetzung eines Perimeterschutzes für das Rechenzentrum [Planer, Haustechnik]
+INF.2.A12 Perimeterschutz für das Rechenzentrum [Planer, Haustechnik] (S)
 Die Sicherheitsmaßnahmen zum Perimeterschutz SOLLTEN gleichwertig mit denen des Sicherheitskonzeptes für das Gebäude und seines Umfelds sein.
 Je nach dem festgelegten Schutzbedarf für das Rechenzentrum und abhängig vom Gelände SOLLTE der Perimeterschutz aus folgenden Komponenten bestehen:
 • äußere Umschließung oder Umfriedung,
 • Sicherungsmaßnahmen gegen unbeabsichtigtes Überschreiten einer Grundstücksgrenze,
 • Sicherungsmaßnahmen gegen beabsichtigtes gewaltloses Überwinden der Grundstücksgrenze,
 • Sicherungsmaßnahmen gegen beabsichtigtes gewaltsames Überwinden der Grundstücksgrenze,
-• Freiland-Sicherungsmaßnahmen sowie
-• äußere Personen- und Fahrzeugidentifikation.
+• Freiland-Sicherungsmaßnahmen,
+• äußere Personen- und Fahrzeugdetektion,
+• Maßnahmen zur Beweissicherung (bspw. Videoaufzeichnung) sowie
+• automatische Alarmierung.
 
-INF.2.A13 Planung und Installation von Gefahrenmeldeanlagen [Planer]
-Es SOLLTE ein konsistentes Schutzkonzept für das betrachtete Gebäude erarbeitet werden.
+INF.2.A13 Planung und Installation von Gefahrenmeldeanlagen [Haustechnik] (S)
+Es SOLLTE ein konsistentes Schutzkonzept für das jeweilige Gebäude erarbeitet werden.
 Erst danach SOLLTE geplant werden, welche Gefahrenmeldeanlagen für welche Gebäudebereiche des Rechenzentrums benötigt und installiert werden und wie mit Alarmmeldungen umzugehen ist.
 Das Konzept SOLLTE immer angepasst werden, wenn sich die Nutzung der Gebäudebereiche verändert.
 Es SOLLTE eine für das jeweilige Einsatzgebiet angemessene Gefahrenmeldeanlage (GMA) installiert werden.
 Die Meldungen der GMA SOLLTEN unter Beachtung der dafür geltenden Technischen Anschlussbedingungen (TAB) auf eine Alarmempfangsstelle aufgeschaltet werden.
-Die Alarmempfangsstelle SOLLTE jederzeit erreichbar und technisch sowie personell in der Lage sein, in geeigneter Weise auf die gemeldete Gefährdung zu reagieren.
+Die ausgewählte Alarmempfangsstelle MUSS jederzeit erreichbar und technisch sowie personell in der Lage sein, geeignet auf die gemeldete Gefährdung zu reagieren.
 Der Übertragungsweg zwischen eingesetzter GMA und hilfeleistender Stelle SOLLTE redundant ausgelegt werden.
-Alle Übertragungswege SOLLTEN regelmäßig getestet werden.
+Alle vorhandenen Übertragungswege MÜSSEN regelmäßig getestet werden.
 
-INF.2.A14 Einsatz einer Netzersatzanlage [Planer, Haustechnik]
-Die Energieversorgung aus dem Netz eines Energieversorgungs-Unternehmens SOLLTE um eine Netzersatzanlage (NEA) ergänzt werden.
-Der Betriebsmittelvorrat einer NEA SOLLTE regelmäßig kontrolliert werden.
-Um die Schutzwirkung einer NEA aufrechtzuerhalten, SOLLTE sie regelmäßig gewartet werden (siehe INF.2.A10 Inspektion und Wartung der Infrastruktur).
+INF.2.A14 Einsatz einer Netzersatzanlage [Planer, Haustechnik] (S)
+Die Energieversorgung eines Rechenzentrums aus dem Netz eines Energieversorgungs-Unternehmens SOLLTE um eine Netzersatzanlage (NEA) ergänzt werden.
+Um die Schutzwirkung einer NEA aufrechtzuerhalten, SOLLTE sie regelmäßig gewartet werden.
 Bei diesen Wartungen SOLLTEN auch Belastungs- und Funktionstests sowie Testläufe unter Last durchgeführt werden.
+Der Betriebsmittelvorrat einer NEA SOLLTE regelmäßig daraufhin überprüft werden, ob er ausreichend ist.
+Außerdem SOLLTE regelmäßig kontrolliert werden, ob die Vorräte noch verwendbar sind, vor allem um die sogenannte Dieselpest zu vermeiden.
+Nach Möglichkeit SOLLTE statt Diesel-Kraftstoff schwefelarmes Heizöl verwendet werden.
+Die Tankvorgänge von Brennstoffen MÜSSEN protokolliert werden.
+Aus dem Protokoll MUSS die Art des Brennstoffs, die genutzten Additive, das Tankdatum und die getankte Menge hervorgehen.
+Wenn für einen Serverraum auf den Einsatz einer NEA verzichtet wird, SOLLTE alternativ zur NEA eine USV mit einer dem Schutzbedarf angemessenen Autonomiezeit realisiert werden.
 
-INF.2.A15 Überspannungsschutzeinrichtung [Planer, Haustechnik]
-Es SOLLTE auf Basis der aktuell gültigen Norm ein Blitz- und Überspannungsschutzkonzept nach dem Prinzip der energetischen Koordination (Anhang C der DIN EN 62305-4) erstellt und umgesetzt werden.
+INF.2.A15 Überspannungsschutzeinrichtung [Planer, Haustechnik] (S)
+Es SOLLTE auf Basis der aktuell gültigen Norm ein Blitz- und Überspannungsschutzkonzept unter Beachtung der energetischen Koordination erstellt und umgesetzt werden (siehe Anhang C der DIN EN 62305-4).
 Die energetische Koordination der Überspannungsschutzeinrichtungen SOLLTE in einem Konzept dokumentiert und abgenommen werden.
-Blitz- und Überspannungsschutzeinrichtungen SOLLTEN periodisch und nach bekannten Ereignissen geprüft und falls erforderlich ersetzt werden.
-Unabhängig von Umfang und Ausbau des Überspannungsschutzes SOLLTE beachtet werden, dass ein umfassender und durchgängiger Potenzialausgleich aller in den Überspannungsschutz einbezogenen elektrischen Betriebsmittel erforderlich ist.
-Bei Nachinstallationen SOLLTE darauf geachtet werden, dass der Potenzialausgleich mitgeführt wird.
 
-INF.2.A16 Klimatisierung im Rechenzentrum [Haustechnik]
-Es SOLLTE sichergestellt werden, dass im Rechenzentrum geeignete klimatische Bedingungen, was Lufttemperatur und Luftfeuchtigkeit (siehe INF.2.A5 Einhaltung der Lufttemperatur und -feuchtigkeit) sowie Frischluftanteil und Schwebstoffbelastung betrifft, geschaffen und aufrechterhalten werden.
+INF.2.A16 Klimatisierung im Rechenzentrum [Planer] (S)
+Es SOLLTE sichergestellt werden, dass im Rechenzentrum geeignete klimatische Bedingungen geschaffen und aufrechterhalten werden.
 Die Klimatisierung SOLLTE für das Rechenzentrum ausreichend dimensioniert sein.
 Alle relevanten Werte SOLLTEN ständig überwacht werden.
-Weicht ein Wert von der Norm ab, SOLLTE eine automatische Alarmierung stattfinden.
-Die Klimatisierungsanlagen SOLLTEN in Rechnerraumbereichen möglichst ausfallsicher sein, z. B. durch redundant ausgelegte Komponenten.
+Weicht ein Wert von der Norm ab, SOLLTE automatisch alarmiert werden.
+Die Klimaanlagen SOLLTEN in IT-Betriebsbereichen möglichst ausfallsicher sein.
 
-INF.2.A17 Brandfrüherkennung [Planer, Haustechnik]
-Um Brände in Rechenzentren bereits in einem sehr frühen Stadium erkennen zu können, SOLLTE eine Anlage zur Brandfrüherkennung installiert werden.
-Damit sich Entstehungsbrände nicht weiter ausbreiten können, SOLLTE durch die Brandfrüherkennung eine automatische Spannungsfreischaltung erfolgen.
-Dabei SOLLTEN die Überwachungsbereiche der Brandfrüherkennung sowie die Wirkungsbereiche der Spannungsfreischaltung hinreichend kleinteilig konzipiert werden, um ein ausgewogenes Verhältnis zwischen dem Brandschutz einerseits und der RZ-Verfügbarkeit andererseits zu erreichen.
-Die Anlage zur Brandfrüherkennung SOLLTE dem aktuellen Stand der Technik entsprechen.
-Auch SOLLTE sie nach den Vorgaben des Herstellers betrieben und regelmäßig gewartet werden.
+INF.2.A18 ENTFALLEN (S)
+Diese Anforderung ist entfallen.
 
-INF.2.A18 Schutz vor Wasseraustritt [Haustechnik]
-In Bereichen, in denen sich IT-Geräte mit zentralen Funktionen befinden, SOLLTEN wasserführende Leitungen vermieden werden.
-So SOLLTE es beispielsweise keine Heizkörper im Rechenzentrum geben.
-Sind wasserführende Leitungen (z. B. für die Kühlung direkt auf der RZ-Fläche) unvermeidbar, SOLLTE sichergestellt sein, dass Wasseraustritte möglichst frühzeitig erkannt und die Auswirkungen minimiert werden.
-Durch Sichtprüfungen SOLLTEN die vorhandenen Wasserleitungen regelmäßig daraufhin überprüft werden, ob sie noch dicht sind.
-Meldungen einer Detektionsanlage SOLLTEN an verantwortliche Mitarbeiter gemeldet werden, sodass diese anhand von Reaktionsplänen und einer aktuellen Dokumentation schnell eingreifen können (siehe INF.2.A13 Planung und Installation von Gefahrenmeldeanlagen).
-
-INF.2.A19 Durchführung von Funktionstests der technischen Infrastruktur [Haustechnik]
+INF.2.A19 Durchführung von Funktionstests der technischen Infrastruktur [Haustechnik] (S)
 Die technische Infrastruktur eines Rechenzentrums SOLLTE regelmäßig (zumindest ein- bis zweimal jährlich) sowie nach Systemumbauten und umfangreichen Reparaturen getestet werden.
 Die Ergebnisse SOLLTEN dokumentiert werden.
-Es SOLLTEN besonders ganze Reaktionsketten einem echten Funktionstest unterzogen werden.
+Besonders ganze Reaktionsketten SOLLTEN einem echten Funktionstest unterzogen werden.
 
-INF.2.A20 Regelmäßige Aktualisierungen der Infrastruktur- und Baupläne [Planer]
-Baupläne, Trassenpläne, Strangschemata, Fluchtwegpläne, Feuerwehrlaufkarten usw. SOLLTEN nach jeder Umbaumaßnahme umgehend aktualisiert werden, ebenso, wenn die Infrastruktur oder die Sicherheitstechnik erweitert wurden.
+INF.2.A20 Regelmäßige Aktualisierungen der Dokumentation [Haustechnik] (S)
+Die Dokumentation, z. B. Baupläne, Trassenpläne, Strangschemata, Fluchtwegpläne und Feuerwehrlaufkarten, SOLLTE immer auf dem aktuellen Stand gehalten werden.
 Außerdem SOLLTEN die Mitarbeiter entsprechend informiert werden.
 Es SOLLTE mindestens einmal innerhalb von drei Jahren überprüft werden, ob alle relevanten Pläne noch aktuell und korrekt sind.
+
+INF.2.A30 Anlagen zur Erkennung, Löschung oder Vermeidung von Bränden [Haustechnik, Planer] (S)
+Ein Rechenzentrum SOLLTE über die Basis-Anforderung der Brandfrüherkennung mit den dort genannten Schutzreaktionen hinaus (siehe INF.2.A17 Brandfrüherkennung) mit einer automatischen Lösch- oder Brandvermeidungsanlage ausgestattet werden.
+Ein Serverraum SOLLTE mit einer Brandfrüherkennungsanlage (siehe INF.2.A17 Brandfrüherkennung) mit den dort genannten Schutzreaktionen ausgestattet werden.
 
 
 3.3 Anforderungen bei erhöhtem Schutzbedarf
 
-INF.2.A21 Ausweichrechenzentrum (A)
-Es SOLLTE ein geografisch separiertes Ausweichrechenzentrum aufgebaut und eingesetzt werden.
+INF.2.A21 Ausweichrechenzentrum (H)
+Es SOLLTE ein geografisch separiertes Ausweichrechenzentrum aufgebaut werden.
 Das Ausweichrechenzentrum SOLLTE so dimensioniert sein, dass alle Prozesse der Institution aufrechterhalten werden können.
 Auch SOLLTE es ständig einsatzbereit sein.
 Alle Daten der Institution SOLLTEN regelmäßig ins Ausweichrechenzentrum gespiegelt werden.
+Der Schwenk auf das Notfallrechenzentrum SOLLTE regelmäßig getestet und geübt werden.
+Die Übertragungswege in das Ausweichrechenzentrum SOLLTEN geeignet abgesichert und entsprechend redundant ausgelegt sein.
 
-INF.2.A22 Durchführung von Staubschutzmaßnahmen [Haustechnik] (IA)
+INF.2.A22 Durchführung von Staubschutzmaßnahmen [Haustechnik] (H)
 Wenn ein bestehendes Rechenzentrum erweitert wird, SOLLTEN geeignete Staubschutzmaßnahmen definiert, geplant und umgesetzt werden.
 Personen, die selbst nicht an den Baumaßnahmen beteiligt sind, SOLLTEN in ausreichend engen Zeitabständen kontrollieren, ob die Staubschutzmaßnahmen ordnungsgemäß funktionieren und die Regelungen zum Staubschutz eingehalten werden.
 
-INF.2.A23 Sicher strukturierte Verkabelung im Rechenzentrum [Haustechnik] (A)
+INF.2.A23 Sicher strukturierte Verkabelung im Rechenzentrum [Haustechnik] (H)
 Kabeltrassen SOLLTEN sorgfältig geplant und ausgeführt werden.
 Alle Kabel SOLLTEN vor ungewollten mechanischen Beanspruchungen, Manipulationen, Abhörversuchen oder Bränden geschützt sein.
-Für unterschiedliche Netzarten, z. B. Datennetz, Netz für Gefahrenmeldeanlagen und Stromnetz, SOLLTEN getrennte Kabel benutzt werden.
-Werden Kabel für verschiedene Netze gemeinsam geführt, SOLLTE sichergestellt sein, dass gegenseitige Störungen minimiert werden.
-Zudem SOLLTE eine redundante Trassenführung angestrebt werden.
+Tragsysteme SOLLTEN hinsichtlich Brandbeanspruchung in einem dem Schutzbedarf genügenden Funktionserhalt ausgeführt werden.
+Einander Redundanz gebende Leitungen SOLLTEN über getrennte Trassen verlegt werden.
 
-INF.2.A24 Einsatz von Videoüberwachungsanlagen [Planer, Haustechnik, Datenschutzbeauftragter] (IA)
+INF.2.A24 Einsatz von Videoüberwachungsanlagen [Datenschutzbeauftragter, Haustechnik, Planer] (H)
 Die Zutrittskontrolle und die Einbruchmeldung SOLLTEN durch Videoüberwachungsanlagen ergänzt werden.
-Dazu SOLLTEN die für Videoüberwachungsanlagen sinnvollen Flächen identifiziert werden.
+Dazu SOLLTEN für Videoüberwachungsanlagen sinnvolle Flächen identifiziert werden.
 Eine geplante Videoüberwachung SOLLTE konsistent in das gesamte Sicherheitskonzept eingebettet werden.
 Auch SOLLTE bei der Planung, Konzeption und eventuellen Auswertung von Videoaufzeichnungen immer der Datenschutzbeauftragte mit einbezogen werden.
 Die für eine Videoüberwachung benötigten zentralen Technikkomponenten SOLLTEN in einer geeigneten Umgebung aufgestellt und geschützt werden.
 Es SOLLTE regelmäßig überprüft werden, ob die Videoüberwachungsanlage korrekt funktioniert.
 
-INF.2.A25 Redundante Auslegung von unterbrechungsfreien Stromversorgungen [Planer]
-Um die Verfügbarkeit eines Rechenzentrums sicherzustellen, SOLLTEN die USV-Anlagen redundant ausgelegt sein.
+INF.2.A25 Redundante Auslegung von unterbrechungsfreien Stromversorgungen [Planer] (H)
+Die USV-Anlagen eines Rechenzentrums SOLLTEN redundant ausgelegt sein.
 Nach einem Stromausfall SOLLTEN alle für den ordnungsgemäßen Betrieb des Rechenzentrums erforderlichen Komponenten so lange mit Strom versorgt werden können, bis eine alternative Stromquelle angeschlossen werden kann.
 
-INF.2.A26 Redundante Auslegung von Netzersatzanlagen (A)
-Bei erhöhtem Schutzbedarf SOLLTEN Netzersatzanlagen redundant ausgelegt werden.
-Es SOLLTE sichergestellt werden, dass auch diese Anlagen regelmäßig gewartet werden (siehe INF.2.A10 Inspektion und Wartung der Infrastruktur).
+INF.2.A26 Redundante Auslegung von Netzersatzanlagen [Planer] (H)
+Netzersatzanlagen SOLLTEN redundant ausgelegt werden.
+Es SOLLTE sichergestellt werden, dass diese Anlagen regelmäßig gewartet werden.
 
-INF.2.A27 Durchführung von Alarmierungs- und Brandschutzübungen (CA)
-Mit den Angestellten der Institution SOLLTEN regelmäßige Alarmierungs- und Brandschutzübungen durchgeführt werden.
+INF.2.A27 Durchführung von Alarmierungs- und Brandschutzübungen (H)
+Mit dem Personal des Rechenzentrums sowie des Serverraums SOLLTEN regelmäßige Alarmierungs- und Brandschutzübungen durchgeführt werden.
 Diese SOLLTEN auf einem Alarmierungsplan basieren, in dem die zu ergreifenden Maßnahmen dokumentiert sind.
 Es SOLLTE regelmäßig geprüft werden, ob die Maßnahmen noch korrekt, aktuell und praktikabel sind.
 
-INF.2.A28 Einsatz von höherwertigen Gefahrenmeldeanlagen (IA)
-Für Rechenzentrumsbereiche mit erhöhtem Schutzbedarf SOLLTEN ausschließlich Gefahrenmeldeanlagen der VDS-Klasse C benutzt werden.
+INF.2.A28 Einsatz von höherwertigen Gefahrenmeldeanlagen [Planer] (H)
+Für Rechenzentrumsbereiche mit erhöhtem Schutzbedarf SOLLTEN ausschließlich Gefahrenmeldeanlagen der VdS-Klasse C (gemäß VDS-Richtlinie 2311) eingesetzt werden.

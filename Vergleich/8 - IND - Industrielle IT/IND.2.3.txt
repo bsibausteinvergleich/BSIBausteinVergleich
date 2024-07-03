@@ -1,20 +1,20 @@
 3.1 Basis-Anforderungen
 
-IND.2.3.A1 Installation von Sensoren [ICS-Administrator, Wartungspersonal]
+IND.2.3.A1 Installation von Sensoren [Wartungspersonal, ICS-Administrator] (B)
 Sensoren MÜSSEN in geeigneter Weise installiert werden.
-Die Sensoren MÜSSEN ausreichend robust und zuverlässig unter den vorgesehenen Umgebungsbedingungen (Klima, Staub, Vibration, Korrosion etc.) messen können.
+Die Sensoren MÜSSEN ausreichend robust und zuverlässig unter den vorgesehenen Umgebungsbedingungen messen können.
 
 
 3.2 Standard-Anforderungen
 
-IND.2.3.A2 Kalibrierung von Sensoren [Wartungspersonal]
+IND.2.3.A2 Kalibrierung von Sensoren [Wartungspersonal] (S)
 Wenn notwendig, SOLLTEN Sensoren regelmäßig kalibriert werden.
 Die Kalibrierungen SOLLTEN geeignet dokumentiert werden.
-Der Zugang zur Kalibrierung MUSS geschützt sein, da eine bewusste Fehl-Kalibrierung eines Sensors zu einem Angriffsvektor werden kann.
+Der Zugang zur Kalibrierung MUSS geschützt sein.
 
 
 3.3 Anforderungen bei erhöhtem Schutzbedarf
 
-IND.2.3.A3 Drahtlose Kommunikation (C)
-Bei erhöhtem Schutzbedarf SOLLTEN drahtlose Verwaltungsschnittstellen wie Bluetooth, WLAN oder NFC NICHT benutzt werden.
+IND.2.3.A3 Drahtlose Kommunikation (H)
+Bei erhöhtem Schutzbedarf SOLLTEN drahtlose Verwaltungsschnittstellen NICHT benutzt werden.
 Alle nicht benutzten Kommunikationsschnittstellen MÜSSEN deaktiviert werden.

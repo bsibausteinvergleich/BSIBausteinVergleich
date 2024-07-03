@@ -1,102 +1,102 @@
 3.1 Basis-Anforderungen
 
-SYS.3.1.A1 Regelungen zur mobilen Nutzung von Laptops
-Es MUSS klar geregelt werden, was Mitarbeiter beachten sollen, wenn sie Laptops mitnehmen.
-Es MUSS insbesondere festgelegt werden, welche Laptops außer Haus mitgenommen werden dürfen, wer sie mitnehmen darf und welche grundlegenden Sicherheitsmaßnahmen dabei zu beachten sind.
+SYS.3.1.A1 Regelungen zur mobilen Nutzung von Laptops (B)
+Es MUSS klar geregelt werden, was Mitarbeiter bei der mobilen Nutzung von Laptops berücksichtigen müssen.
+Es MUSS insbesondere festgelegt werden, welche Laptops mobil genutzt werden dürfen, wer sie mitnehmen darf und welche grundlegenden Sicherheitsmaßnahmen dabei zu beachten sind.
 Die Benutzer MÜSSEN auf die Regelungen hingewiesen werden.
 
-SYS.3.1.A2 Zugriffsschutz am Laptop [Benutzer]
+SYS.3.1.A2 Zugriffsschutz am Laptop [Benutzer] (B)
 Auf allen Laptops MUSS ein angemessener Zugriffsschutz vorhanden sein, der verhindert, dass das Gerät unberechtigt benutzt werden kann.
-Es MUSS geprüft werden, ob alle Mitarbeiter sich an die Regeln für den korrekten Umgang mit dem eingerichteten Zugriffsschutz halten.
+Es MUSS geprüft werden, ob sich alle Benutzer an die Regeln für den korrekten Umgang mit dem eingerichteten Zugriffsschutz halten.
 
-SYS.3.1.A3 Einsatz von Personal Firewalls
+SYS.3.1.A3 Einsatz von Personal Firewalls (B)
 Auf Laptops MUSS eine Personal Firewall aktiv sein.
 Die Filterregeln der Firewall MÜSSEN so restriktiv wie möglich sein.
 Sie MÜSSEN regelmäßig getestet werden.
 Die Personal Firewall MUSS so konfiguriert werden, dass die Benutzer nicht durch Warnmeldungen belästigt werden, die sie nicht interpretieren können.
 
-SYS.3.1.A4 Einsatz von Antivirenprogrammen [Benutzer]
+SYS.3.1.A4 Einsatz von Antivirenprogrammen [Benutzer] (B)
 Abhängig vom installierten Betriebssystem und anderen vorhandenen Schutzmechanismen MUSS auf allen Laptops der Institution ein Antivirenprogramm installiert und aktiviert sein.
-Es MUSS sichergestellt werden, dass sowohl das Scan-Programm als auch die Signaturen stets auf dem aktuellsten Stand sind.
+Es MUSS sichergestellt werden, dass sowohl das Scan-Programm als auch die Signaturen stets auf dem aktuellen Stand sind.
 Die Benutzer MÜSSEN mit der Antivirensoftware vertraut gemacht werden, besonders auch mit On-Demand-Scans.
 Der gesamte Datenbestand der Laptops MUSS regelmäßig auf Schadprogramme geprüft werden.
-Wenn der Rechner infiziert ist, MUSS im Offlinebetrieb untersucht werden, ob das gefundene Schadprogramm bereits vertrauliche Daten gesammelt, Schutzfunktionen deaktiviert oder Code aus dem Internet nachgeladen hat.
+Wenn der Laptop infiziert ist, MUSS im Offlinebetrieb untersucht werden, ob das gefundene Schadprogramm bereits vertrauliche Daten gesammelt, Schutzfunktionen deaktiviert oder Code aus dem Internet nachgeladen hat.
 Das Antivirenprogramm MUSS zudem nach Schadsoftware suchen, wenn Dateien ausgetauscht oder übertragen werden.
 Auch MÜSSEN alle auf dem Laptop benutzten Internet-Dienste (HTTP, FTP) sowie verschlüsselte Daten ausreichend vor Schadprogrammen geschützt werden.
 Außerdem MUSS sichergestellt werden, dass die Benutzer keine sicherheitsrelevanten Änderungen an den Einstellungen der Antivirenprogramme vornehmen können.
 
-SYS.3.1.A5 Datensicherung [Benutzer]
-Alle Daten, die auf Laptops lokal gespeichert werden, MÜSSEN regelmäßig gesichert werden.
+SYS.3.1.A5 Datensicherung [Benutzer] (B)
+Alle Daten, die auf Laptops nur lokal gespeichert werden, MÜSSEN regelmäßig gesichert werden.
 Hierfür MÜSSEN abhängig vom Volumen des Datenbestands geeignete Verfahren zur Datensicherung ausgewählt werden.
 Die Datensicherung MUSS weitgehend automatisiert werden, sodass die Benutzer möglichst wenig Aktionen selbst durchführen müssen.
 
 
 3.2 Standard-Anforderungen
 
-SYS.3.1.A6 Sicherheitsrichtlinien für Laptops [Leiter IT]
+SYS.3.1.A6 Sicherheitsrichtlinien für Laptops (S)
 Für Laptops SOLLTE eine Sicherheitsrichtlinie erstellt werden, die regelt, wie die Geräte benutzt werden dürfen.
-Die Benutzer SOLLTEN hinsichtlich des Schutzbedarfs von Laptops und der auf ihnen befindlichen Daten sensibilisiert werden.
+Die Benutzer SOLLTEN hinsichtlich des Schutzbedarfs von Laptops und der dort gespeicherten Daten sensibilisiert werden.
 Auch SOLLTEN sie auf die spezifischen Gefährdungen bzw. die entsprechenden Anforderungen für die Nutzung aufmerksam gemacht werden.
 Sie SOLLTEN außerdem darüber informiert werden, welche Art von Informationen sie auf Laptops verarbeiten dürfen.
 
-SYS.3.1.A7 Geregelte Übergabe und Rücknahme eines Laptops [Benutzer]
-Wenn Laptops von verschiedenen Personen abwechselnd genutzt werden, SOLLTE geregelt werden, wie Laptops sicher an Mitarbeiter übergeben werden können bzw. wie sie wieder sicher zurückzunehmen sind.
+SYS.3.1.A7 Geregelte Übergabe und Rücknahme eines Laptops [Benutzer] (S)
+Wenn Laptops von verschiedenen Personen abwechselnd genutzt werden, SOLLTE geregelt werden, wie sie sicher an Mitarbeiter übergeben werden können bzw. wie sie wieder sicher zurückzunehmen sind.
 Beim Benutzerwechsel eines Laptops SOLLTEN eventuell vorhandene schützenswerte Daten sicher gelöscht werden.
 Falls der Laptop nach dem Benutzerwechsel nicht neu aufgesetzt wird, SOLLTE sichergestellt sein, dass sich auf dem System bzw. allen damit verbundenen Datenträgern keine Schadsoftware befindet.
 Mit einem Laptop SOLLTE den Mitarbeitern ein Merkblatt für den sicheren Umgang mit dem Gerät ausgehändigt werden.
 
-SYS.3.1.A8 Sicherer Anschluss von Laptops an Datennetze [Benutzer]
-Es SOLLTE geregelt werden, wie Laptops sicher an eigene oder fremde Netze und an das Internet angeschlossen werden.
+SYS.3.1.A8 Sicherer Anschluss von Laptops an Datennetze [Benutzer] (S)
+Es SOLLTE geregelt werden, wie Laptops sicher an eigene oder fremde Datennetze und an das Internet angeschlossen werden.
 Laptops SOLLTEN wirksam vor Schadcode und vor Angriffen aus Fremdnetzen und aus dem Internet geschützt werden.
 Dafür SOLLTEN das Betriebssystem und die installierte Software von Laptops immer auf dem aktuellen Stand sein.
 Es SOLLTEN sich nur zugelassene Laptops am internen Netz der Institution anmelden können.
 Nicht benötigte Schnittstellen SOLLTEN bei allen Laptops deaktiviert werden.
 
-SYS.3.1.A9 Sicherer Fernzugriff von unterwegs [Benutzer]
+SYS.3.1.A9 Sicherer Fernzugriff (S)
 Daten, die zwischen einem Laptop von außerhalb und dem internen Netz der Institution übertragen werden, SOLLTEN durch geeignete Maßnahmen ausreichend geschützt werden, zum Beispiel durch ein VPN oder mit TLS.
 Auch SOLLTE der Laptop selbst abgesichert sein, wenn Daten mit anderen IT-Systemen ausgetauscht werden.
 
-SYS.3.1.A10 Abgleich der Datenbestände von Laptops [Benutzer]
+SYS.3.1.A10 Abgleich der Datenbestände von Laptops [Benutzer] (S)
 Es SOLLTE geregelt werden, wie Daten von Laptops in den Informationsverbund der Institution übernommen werden.
-Wenn ein Synchronisationstool benutzt wird, SOLLTE sichergestellt sein, dass Synchronisationskonflikte aufgelöst werden können, der Synchronisationsvorgang protokolliert wird und die Benutzer angewiesen sind, die Synchronisationsprotokolle zu prüfen.
+Wenn ein Synchronisationstool benutzt wird, SOLLTE sichergestellt sein, dass Synchronisationskonflikte aufgelöst werden können und der Synchronisationsvorgang protokolliert wird.
+Außerdem SOLLTEN die Benutzer angewiesen werden, die Synchronisationsprotokolle zu prüfen.
 
-SYS.3.1.A11 Sicherstellung der Energieversorgung [Benutzer]
+SYS.3.1.A11 Sicherstellung der Energieversorgung [Benutzer] (S)
 Alle Benutzer SOLLTEN darüber informiert werden, wie sie die Energieversorgung von Laptops im mobilen Einsatz optimal sicherstellen können.
 Falls für die Laptops Ersatzakkus verfügbar sind, SOLLTEN diese in entsprechenden Hüllen gelagert und transportiert werden.
 
-SYS.3.1.A12 Verlustmeldung [Benutzer]
-Es SOLLTE umgehend gemeldet werden, wenn ein Laptop verloren gegangen ist oder gestohlen wurde.
-Dafür SOLLTE es in jeder Institution klare Meldewege geben.
-Wenn verlorene Laptops wieder auftauchen, SOLLTE untersucht werden, ob sie eventuell manipuliert wurden.
-Sie SOLLTEN komplett neu installiert werden.
+SYS.3.1.A12 Verlustmeldung [Benutzer] (S)
+Benutzer SOLLTEN umgehend melden, wenn ein Laptop verloren gegangen ist oder gestohlen wurde.
+Dafür SOLLTE es in der Institution klare Meldewege geben.
+Wenn verlorene Laptops wieder auftauchen, SOLLTE untersucht werden, ob sie eventuell manipuliert wurden. Sie SOLLTEN komplett neu installiert werden.
 
-SYS.3.1.A13 Verschlüsselung von Laptops
+SYS.3.1.A13 Verschlüsselung von Laptops (S)
 Die Festplatten eines Laptops SOLLTEN verschlüsselt werden.
 Für die Verschlüsselung SOLLTE ein sicherer Verschlüsselungsalgorithmus eingesetzt werden.
 Die Schlüssel SOLLTEN zufällig erzeugt werden.
 Die Schlüssel SOLLTEN geeignet aufbewahrt werden.
 
-SYS.3.1.A14 Geeignete Aufbewahrung von Laptops [Benutzer]
-Alle Benutzer SOLLTEN darauf hingewiesen werden, wie Laptops außerhalb der Institution geeignet aufbewahrt werden sollen.
+SYS.3.1.A14 Geeignete Aufbewahrung von Laptops [Benutzer] (S)
+Alle Benutzer SOLLTEN darauf hingewiesen werden, wie Laptops außerhalb der Institution geeignet aufbewahrt werden.
 Auch in den Räumen der Institution SOLLTEN Laptops außerhalb der Nutzungszeiten gegen Diebstahl gesichert bzw. verschlossen aufbewahrt werden.
 
-
-3.3 Anforderungen bei erhöhtem Schutzbedarf
-
-SYS.3.1.A15 Geeignete Auswahl von Laptops [Beschaffungsstelle] (A)
+SYS.3.1.A15 Geeignete Auswahl von Laptops [Beschaffungsstelle] (S)
 Bevor Laptops beschafft werden, SOLLTEN die Verantwortlichen eine Anforderungsanalyse durchführen.
 Sie SOLLTE auch auf zusätzlich benötigte Hardware wie z. B. Dockingstations und Monitore erweitert werden.
 Anhand der Ergebnisse SOLLTEN alle infrage kommenden Geräte bewertet werden.
 Die Beschaffungsentscheidung SOLLTE mit den Administratoren und dem technischen Personal abgestimmt sein.
 
-SYS.3.1.A16 Zentrale Administration von Laptops (CI)
-Es SOLLTE eine geeignete Vorgehensweise definiert werden, wie Laptops zentral zu administrieren sind, da sich so nicht nur Software und Informationen einfacher verteilen lassen, sondern auch die institutionsseigenen Sicherheitsrichtlinien besser durchgesetzt werden können.
+
+3.3 Anforderungen bei erhöhtem Schutzbedarf
+
+SYS.3.1.A16 Zentrale Administration von Laptops (H)
+Es SOLLTE eine geeignete Vorgehensweise definiert werden, wie Laptops zentral zu administrieren sind.
 Ein Tool zum zentralen Laptop-Management SOLLTE möglichst alle eingesetzten Betriebssysteme unterstützen.
 
-SYS.3.1.A17 Sammelaufbewahrung (A)
-Nicht benutzte Laptops SOLLTEN in einem geeignet abgesicherten Raum vorgehalten werden.
-Der dafür genutzte Raum SOLLTE den Anforderungen aus INF.5 Technikraum entsprechen.
+SYS.3.1.A17 Sammelaufbewahrung (H)
+Nicht benutzte Laptops SOLLTEN in einem geeignet, abgesicherten Raum vorgehalten werden.
+Der dafür genutzte Raum SOLLTE den Anforderungen aus INF.5 Raum sowie Schrank für technische Infrastruktur entsprechen.
 
-SYS.3.1.A18 Einsatz von Diebstahl-Sicherungen (CIA)
+SYS.3.1.A18 Einsatz von Diebstahl-Sicherungen (H)
 Es SOLLTE geregelt werden, welche Diebstahlsicherungen für Laptops eingesetzt werden sollen.
 Bei mechanischen Sicherungen SOLLTE besonders auf ein gutes Schloss geachtet werden.

@@ -1,67 +1,65 @@
 3.1 Basis-Anforderungen
 
-OPS.1.2.4.A1 Regelungen für Telearbeit [Vorgesetzte, Personalabteilung]
+OPS.1.2.4.A1 Regelungen für Telearbeit [Vorgesetzte, Personalabteilung] (B)
 Alle relevanten Aspekte der Telearbeit MÜSSEN geregelt werden.
-Zu Informationszwecken MÜSSEN den Telearbeitern die geltenden Regelungen oder ein dafür vorgesehenes Merkblatt ausgehändigt werden, das die zu beachtenden Sicherheitsmaßnahmen erläutert.
-Alle strittigen Punkte MÜSSEN entweder durch Betriebsvereinbarungen oderdurch zusätzlich zum Arbeitsvertrag getroffene individuelle Vereinbarungen zwischen dem Telearbeiter und Arbeitgeber geregelt werden.
-Für jeden Telearbeiter MUSS ein Vertreter benannt werden.
-Der Vertretungsfall SOLLTE regelmäßig geprobt werden.
+Zu Informationszwecken MÜSSEN den Telearbeitern die geltenden Regelungen oder ein dafür vorgesehenes Merkblatt ausgehändigt werden, das die zu beachtenden Sicherheitsmaßnahmen erläutert.
+Alle strittigen Punkte MÜSSEN entweder durch Betriebsvereinbarungen oder durch zusätzlich zum Arbeitsvertrag getroffene individuelle Vereinbarungen zwischen dem Telearbeiter und Arbeitgeber geregelt werden. Für jeden Telearbeiter MUSS ein Vertreter benannt werden. Die Vertretungsregelung SOLLTE regelmäßig geprüft werden.
 Die Regelungen MÜSSEN regelmäßig aktualisiert werden.
 
-OPS.1.2.4.A2 Sicherheitstechnische Anforderungen an den Telearbeitsrechner [Leiter IT, IT-Betrieb]
-Es MÜSSEN alle sicherheitstechnischen Anforderungen festgelegt werden, die ein Telearbeitsrechner erfüllen muss.
-Alle Zugangs- und Zugriffsmöglichkeiten auf die Kommunikationsrechner der Institution MÜSSEN auf das notwendige Mindestmaß beschränkt sein.
-Es MUSS sichergestellt werden, dass nur autorisierte Personen auf die Telearbeitsrechner zugreifen dürfen.
+OPS.1.2.4.A2 Sicherheitstechnische Anforderungen an den Telearbeitsrechner (B)
+Es MÜSSEN alle sicherheitstechnischen Anforderungen festgelegt werden, die ein IT-System für die Telearbeit erfüllen muss.
+Alle Zugangsmöglichkeiten auf die Server der Institution sowie alle Zugriffsrechte auf die darauf gespeicherten Informationen MÜSSEN auf das notwendige Mindestmaß beschränkt sein.
+Es MUSS sichergestellt werden, dass nur autorisierte Personen Zugang zu den Telearbeitsrechnern haben dürfen.
 Darüber hinaus MUSS der Telearbeitsrechner so abgesichert werden, dass er nur für autorisierte Zwecke benutzt werden kann.
 
-OPS.1.2.4.A3 Sicherheitstechnische Anforderungen an die Kommunikationsverbindung [Telearbeiter, Leiter IT, IT-Betrieb]
+OPS.1.2.4.A3 Sicherheitstechnische Anforderungen an die Kommunikationsverbindung [IT-Betrieb, Leiter IT] (B)
 Es MÜSSEN sicherheitstechnische Anforderungen an die Kommunikationsverbindung zwischen Telearbeitsrechner und Institution definiert werden.
-Dabei MUSS sichergestellt sein, dass die Vertraulichkeit, Integrität und Authentizität der übertragenen Daten gewährleistet ist.
-Alle eingesetzten Kommunikationsprotokolle und Sicherheitsmechanismen MÜSSEN den definierten Anforderungen der Institution genügen.
+Dabei MUSS sichergestellt sein, dass die Vertraulichkeit, Integrität und Authentizität der übertragenen Daten gewährleistet sind.
+Alle eingesetzten Kommunikationsprotokolle und Sicherheitsmechanismen MÜSSEN den definierten Anforderungen der Institution genügen.
 Die Stärke der dazu erforderlichen Sicherheitsmechanismen SOLLTE sich nach dem Schutzbedarf der übertragenen Daten richten.
-Zusätzlich MUSS die Authentizität der Kommunikationspartner gewährleistet sein.
+Zusätzlich MUSS die Authentizität der Kommunikationspartner gewährleistet sein.
 
-OPS.1.2.4.A4 Datensicherung bei der Telearbeit [Telearbeiter, IT-Betrieb]
-Alle Daten, die bei der Telearbeit bearbeitet werden, MÜSSEN zeitnah gesichert werden.
-Hierfür MÜSSEN entweder lokal auf externen Datenträgern oder zentral über die Anbindung an das Netz der Institution Datensicherungendurchgeführt werden.
+OPS.1.2.4.A4 Datensicherung bei der Telearbeit [IT-Betrieb, Telearbeiter] (B)
+Alle Daten, die bei der Telearbeit erstellt und bearbeitet werden, MÜSSEN zeitnah gesichert werden.
+Die Datensicherungen MÜSSEN entweder lokal auf externen Datenträgern oder zentral über die Anbindung an das Netz der Institution durchgeführt werden.
 Das gewählte Datensicherungsverfahren MUSS für das Volumen des Datenbestands geeignet und ausreichend sein.
-Für einen reibungslosen Prozessablauf MÜSSEN bei der Datensicherung möglichst wenig Aktionen vom Telearbeiter ausgehen.
-Es SOLLTE eine Generation der Backup-Datenträger in der Institution hinterlegt werden.
+Für einen reibungslosen Prozessablauf MÜSSEN bei der Datensicherung möglichst wenige Aktionen vom Telearbeiter ausgehen.
+Es SOLLTEN Backup-Datenträger in der Institution hinterlegt werden.
 
-OPS.1.2.4.A5 Sensibilisierung und Schulung der Telearbeiter [Vorgesetzte, Leiter IT]
-Anhand eines Merkzettels MÜSSEN die Telearbeiter über die Gefahren sensibilisiert werden, die mit der Telearbeit verbunden sind.
+OPS.1.2.4.A5 Sensibilisierung und Schulung der Telearbeiter (B)
+Anhand eines Leitfadens MÜSSEN die Telearbeiter für die Gefahren sensibilisiert werden, die mit der Telearbeit verbunden sind.
 Außerdem MÜSSEN sie in die entsprechenden Sicherheitsmaßnahmen der Institution eingewiesen und im Umgang mit diesen geschult werden.
 Die Schulungs- und Sensibilisierungsmaßnahmen für Telearbeiter SOLLTEN regelmäßig wiederholt werden.
 
 
 3.2 Standard-Anforderungen
 
-OPS.1.2.4.A6 Erstellen eines Sicherheitskonzeptes für Telearbeit [Vorgesetzte, Leiter Organisation, Leiter IT]
-Es SOLLTE ein Sicherheitskonzept für Telearbeit erstellt werden, das Sicherheitsziele, Schutzbedarf, Sicherheitsanforderungen sowie Risiken beschreibt.
+OPS.1.2.4.A6 Erstellen eines Sicherheitskonzeptes für Telearbeit (S)
+Es SOLLTE ein Sicherheitskonzept für die Telearbeit erstellt werden, das Sicherheitsziele, Schutzbedarf, Sicherheitsanforderungen sowie Risiken beschreibt.
 Das Konzept SOLLTE regelmäßig aktualisiert und überarbeitet werden.
-Das Sicherheitskonzept zur Telearbeit SOLLTE mit dem übergreifenden Sicherheitskonzept der Institution abgestimmt werden.
+Das Sicherheitskonzept zur Telearbeit SOLLTE auf das übergreifende Sicherheitskonzept der Institution abgestimmt werden.
 
-OPS.1.2.4.A7 Geregelte Nutzung der Kommunikationsmöglichkeiten bei Telearbeit [Telearbeiter, IT-Betrieb]
-Es SOLLTE klar geregelt werden, welche Kommunikationsmöglichkeiten bei der Telearbeit unter welchen Rahmenbedingungen benutzt werden dürfen.
-Die dienstliche und private Nutzung von Internet-Diensten bei der Telearbeit SOLLTE geregelt werden.
-Dabei SOLLTE auch geklärt werden, ob eine private Nutzung generell erlaubt oder unterbunden wird.
+OPS.1.2.4.A7 Regelung der Nutzung von Kommunikationsmöglichkeiten bei Telearbeit [IT-Betrieb, Telearbeiter] (S)
+Es SOLLTE klar geregelt werden, welche Kommunikationsmöglichkeiten bei der Telearbeit unter welchen Rahmenbedingungen genutzt werden dürfen.
+Die dienstliche und private Nutzung von Internetdiensten bei der Telearbeit SOLLTE geregelt werden.
+Dabei SOLLTE auch geklärt werden, ob eine private Nutzung generell erlaubt oder unterbunden wird.
 
-OPS.1.2.4.A8 Informationsfluss zwischen Telearbeiter und Institution [Vorgesetzte, Telearbeiter]
-Es SOLLTE ein regelmäßiger innerbetrieblicher Informationsaustausch zwischen den Telearbeitern, den Arbeitskollegen und der Institution gewährleistet sein.
-Alle Telearbeiter SOLLTEN zeitnah Informationen über geänderte Sicherheitsanforderungen und andere sicherheitsrelevante Aspekte erhalten.
-Allen Kollegen des jeweiligen Telearbeiters SOLLTE bekannt sein, wann und wo dieser erreicht werden kann.
-Technische und organisatorische Telearbeitsregelungen zur Aufgabenbewältigung, zu Sicherheitsvorfällen und sonstigen Problemen SOLLTEN geregelt und an den Telearbeiter kommuniziert werden.
+OPS.1.2.4.A8 Informationsfluss zwischen Telearbeiter und Institution [Vorgesetzte, Telearbeiter] (S)
+Es SOLLTE ein regelmäßiger innerbetrieblicher Informationsaustausch zwischen den Telearbeitern, den Arbeitskollegen und der Institution gewährleistet sein.
+Alle Telearbeiter SOLLTEN zeitnah über geänderte Sicherheitsanforderungen und andere sicherheitsrelevante Aspekte informiert werden. Allen Kollegen des jeweiligen Telearbeiters SOLLTE bekannt sein, wann und wo dieser erreicht werden kann.
+Technische und organisatorische Telearbeitsregelungen zur Aufgabenbewältigung, zu Sicherheitsvorfällen und sonstigen Problemen SOLLTEN geregelt und an den Telearbeiter kommuniziert werden.
 
-OPS.1.2.4.A9 Betreuungs- und Wartungskonzept für Telearbeitsplätze [Telearbeiter, Leiter IT, IT-Betrieb]
+OPS.1.2.4.A9 Betreuungs- und Wartungskonzept für Telearbeitsplätze [IT-Betrieb, Leiter IT, Telearbeiter] (S)
 Für Telearbeitsplätze SOLLTE ein spezielles Betreuungs- und Wartungskonzept erstellt werden.
-Darin SOLLTEN folgende Aspekte geregelt werden: Ansprechpartner für den Benutzerservice, Wartungstermine, Fernwartung, Transport der IT-Geräte und Einführung von Standard-Telearbeitsrechnern.
+Darin SOLLTEN folgende Aspekte geregelt werden: Ansprechpartner für den Benutzerservice, Wartungstermine, Fernwartung, Transport der IT-Geräte und Einführung von Standard-Telearbeitsrechnern.
 Damit die Telearbeiter einsatzfähig bleiben, SOLLTEN für sie Ansprechpartner für Hard- und Softwareprobleme benannt werden.
 
-OPS.1.2.4.A10 Durchführung einer Anforderungsanalyse für den Telearbeitsplatz [Leiter IT, IT-Betrieb]
+OPS.1.2.4.A10 Durchführung einer Anforderungsanalyse für den Telearbeitsplatz [IT-Betrieb, Leiter IT] (S)
 Bevor ein Telearbeitsplatz eingerichtet wird, SOLLTE eine Anforderungsanalyse durchgeführt werden.
 Daraus SOLLTE z. B. hervorgehen, welche Hard- und Software-Komponenten für den Telearbeitsplatz benötigt werden.
 Die Anforderungen an den jeweiligen Telearbeitsplatz SOLLTEN mit den IT-Verantwortlichen abgestimmt werden.
 Es SOLLTE immer festgestellt und dokumentiert werden, welchen Schutzbedarf die am Telearbeitsplatz verarbeiteten Informationen haben.
+
 
 3.3 Anforderungen bei erhöhtem Schutzbedarf
 

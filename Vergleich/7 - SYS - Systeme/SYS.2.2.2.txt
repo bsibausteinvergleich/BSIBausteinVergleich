@@ -1,128 +1,129 @@
 3.1 Basis-Anforderungen
 
-SYS.2.2.2.A1 Geeignete Auswahl einer Windows 8.1-Version
-Es MUSS der Funktionsumfang einer Windows-Version vor der Beschaffung auf die Einsatzfähigkeit geprüft und eine geeignete Version ausgewählt werden.
+SYS.2.2.2.A1 Auswahl einer geeigneten Windows 8.1-Version (B)
+Bevor eine Windows 8.1-Version beschafft wird, MUSS eine geeignete Version ausgewählt werden, die alle notwendigen Funktionen für den zukünftigen Einsatz mitbringt.
 Es SOLLTEN bevorzugt 64-Bit-Versionen eingesetzt werden, die erweiterte Sicherheitsfeatures enthalten.
 
-SYS.2.2.2.A2 Festlegung eines Anmeldeverfahrens
-Abhängig von den Sicherheitsanforderungen MUSS entschieden werden, ob neben dem klassischen Anmeldeverfahren mit Passwort auch andere Mechanismen wie PIN erlaubt sein sollen.
-Dies MUSS entsprechend auf allen Clients eingestellt werden.
+SYS.2.2.2.A2 Festlegung eines Anmeldeverfahrens für Windows 8.1 (B)
+Abhängig von den Sicherheitsanforderungen MUSS entschieden werden, ob neben dem klassischen Anmeldeverfahren über ein Passwort auch andere Verfahren (z. B. über PIN) erlaubt sein sollen.
+Die festgelegte Vorgehensweise MUSS entsprechend auf allen Clients eingestellt werden.
 
-SYS.2.2.2.A3 Einsatz von Viren-Schutzprogrammen
-Sofern nicht gleich- oder höherwertige Maßnahmen zum Schutz des IT-Systems vor einer Infektion mit Schadsoftware getroffen wurden, MUSS ein Virenschutz-Programm auf Clients unter Windows 8 eingesetzt werden.
+SYS.2.2.2.A3 Einsatz von Viren-Schutzprogrammen unter Windows 8.1 (B)
+Sofern nicht gleich- oder höherwertige Maßnahmen zum Schutz des IT-Systems vor einer Infektion mit Schadsoftware getroffen wurden, MUSS ein Virenschutz-Programm auf den Clients unter Windows 8.1 eingesetzt werden.
 
 
 3.2 Standard-Anforderungen
 
-SYS.2.2.2.A4 Beschaffung von Windows 8.1
-Die Anforderungen gemäß dem Windows Hardware Certification Requirement SOLLTEN bei der Beschaffung von Windows 8.1 bzw. der entsprechenden Hardware für das Windows 8.1-System berücksichtigt werden.
-Des Weiteren SOLLTEN die zu beschaffenden Systeme über eine Firmware-Konfigurationsoberfläche für UEFI SecureBoot und für das TPM (sofern vorhanden) verfügen, die die Kontrolle durch den Eigentümer ermöglicht.
-Der Beschaffungsprozess von Windows 8.1 SOLLTE die Auswahl eines geeigneten Lizenzmodells enthalten.
+SYS.2.2.2.A4 Beschaffung von Windows 8.1 (S)
+Bei der Beschaffung von Windows 8.1 bzw. der entsprechenden Hardware für das Windows 8.1-System SOLLTEN die Anforderungen gemäß dem Windows Hardware Certification Requirement berücksichtigt werden.
+Des Weiteren SOLLTEN die zu beschaffenden Systeme über eine Firmware-Konfigurationsoberfläche für UEFI SecureBoot und, sofern vorhanden, für das TPM verfügen, die eine Kontrolle durch den Eigentümer ermöglicht.
+Außerdem SOLLTE ein geeignetes Lizenzmodell ausgewählt werden.
 
-SYS.2.2.2.A5 Lokale Sicherheitsrichtlinien=
-Es SOLLTEN alle sicherheitsrelevanten Einstellungen über Sicherheitsrichtlinien bedarfsgerecht konfiguriert, getestet und regelmäßig überprüft werden.
-Alle nicht benötigten Anwendungen und Komponenten SOLLTEN mittels Sicherheitsrichtlinien deaktiviert werden.
-Die Verteilung der Sicherheitseinstellungen auf mehrere Windows 8.1 Clients SOLLTE entsprechend den Gegebenheiten der Institution erfolgen.
+SYS.2.2.2.A5 Lokale Sicherheitsrichtlinien für Windows 8.1 (S)
+Es SOLLTEN alle sicherheitsrelevanten Einstellungen über entsprechende Sicherheitsrichtlinien bedarfsgerecht konfiguriert, getestet und regelmäßig überprüft werden.
+Alle nicht benötigten Anwendungen und Komponenten SOLLTEN deaktiviert werden.
+Die Verteilung der Sicherheitseinstellungen auf mehrere Windows 8.1-Clients SOLLTE entsprechend den spezifischen Gegebenheiten der Institution erfolgen.
 
-SYS.2.2.2.A6 Datei- und Freigabeberechtigungen
-Um eine einheitliche restriktive Rechtevergabe zu ermöglichen, SOLLTE ein Berechtigungs- und Zugriffskonzept für Windows vorhanden sein, das geeignete Datei- und Verzeichnisberechtigungen nach dem Need-to-know-Prinzip für Inhalte auf den Windows 8.1 Clients definiert.
+SYS.2.2.2.A6 Datei- und Freigabeberechtigungen unter Windows 8.1 (S)
+Es SOLLTE ein Berechtigungs- und Zugriffskonzept für Windows vorhanden sein, das geeignete Datei- und Verzeichnisberechtigungen für Inhalte auf den Windows 8.1-Clients nach dem Need-to-know-Prinzip definiert.
 Neben Berechtigungen auf dem lokalen Dateisystem SOLLTE das Berechtigungs- und Zugriffskonzept die Zugriffsrechte für freigegebene Verzeichnisse im Netzzugriff beachten.
-Eine Prüfung der Berechtigungen der Dateien und Verzeichnisse SOLLTE insbesondere bei Rechnern, die von älteren Betriebssystemversionen aktualisiert wurden, erfolgen.
+Insbesondere bei Clients, die von älteren Betriebssystemversionen aktualisiert wurden, SOLLTEN die Berechtigungen der Dateien und Verzeichnisse geprüft werden.
 
-SYS.2.2.2.A7 Einsatz der Windows-Benutzerkontensteuerung UAC
-Um eine restriktive Rechtevergabe zu unterstützen, SOLLTE die Benutzerkontensteuerung (UAC, User Account Control) aktiviert sein.
+SYS.2.2.2.A7 Einsatz der Windows-Benutzerkontensteuerung UAC (S)
+Um eine restriktive Rechtevergabe zu unterstützen, SOLLTE die Benutzerkontensteuerung (User Account Control, UAC) aktiviert sein.
 Für Standardbenutzer SOLLTE festgelegt sein, dass die Aufforderung zur Passworteingabe für erhöhte Rechte automatisch abgelehnt wird.
-Für Administratorkonten SOLLTE die Einstellung von UAC zwischen Bedienbarkeit und Sicherheitsniveau abgewogen werden.
+Für Administratorenkonten SOLLTE die Einstellung von UAC zwischen Bedienbarkeit und Sicherheitsniveau abgewogen werden.
 Die Entscheidung SOLLTE dokumentiert und die entsprechenden Einstellungen konfiguriert werden.
-Es SOLLTE regelmäßig geprüft werden, ob die Notwendigkeit noch besteht und die Rechte entsprechend angepasst oder entzogen werden.
+Es SOLLTE regelmäßig geprüft werden, ob die jeweiligen Rechte noch notwendig sind und diese entsprechend angepasst oder entzogen werden.
 
-SYS.2.2.2.A8 Verwendung der Heimnetzgruppen-Funktion [Benutzer]
-Clients SOLLTEN keine Dienste wie Datei- oder Druckerfreigaben anbieten.
-Eine Sicherheitsrichtlinie (GPO) mit der Einstellung „Beitritt des Computers zu einer Heimnetzgruppe verhindern“ SOLLTE für alle Clients gelten.
+SYS.2.2.2.A8 Keine Verwendung der Heimnetzgruppen-Funktion [Benutzer] (S)
+Clients SOLLTEN KEINE Dienste wie Datei- oder Druckerfreigaben anbieten.
+Eine Sicherheits- bzw. Gruppenrichtlinie (Group Policy Object, GPO) mit der Einstellung „Beitritt des Computers zu einer Heimnetzgruppe verhindern“ SOLLTE für alle Clients gelten.
 Wird die Funktion aus betrieblichen Gründen eingesetzt, SOLLTEN die Benutzer im Umgang mit den Freigaben der Heimnetzgruppe geschult werden.
 
-SYS.2.2.2.A9 Datenschutz und Datensparsamkeit bei Windows 8.1-Clients [Benutzer]
+SYS.2.2.2.A9 Datenschutz und Datensparsamkeit bei Windows 8.1-Clients [Benutzer] (S)
 Werden Microsoft-Konten für die Benutzer angelegt, SOLLTEN nur unbedingt erforderliche Angaben zu den Personen hinterlegt werden.
 Die SmartScreen-Funktion, die aus dem Internet heruntergeladene Dateien und Webinhalte auf mögliche Schadsoftware untersucht und dazu unter Umständen personenbezogene Daten an Microsoft überträgt, SOLLTE deaktiviert werden.
-Bevor eine Anwendung oder App zur Nutzung innerhalb der Institution freigegeben wird, SOLLTE sorgfältig geprüft werden, welche Daten Anwendungen und Apps automatisch an die Microsoft-Cloud übersenden.
-Anwendungen SOLLTEN so konfiguriert werden, dass keine solchen Daten übertragen werden. 
-Apps mit unerwünschter oder unnötig umfangreicher Datenübertragung an Dritte SOLLTEN nicht verwendet werden.
+Bevor eine Anwendung oder App zur Nutzung innerhalb der Institution freigegeben wird, SOLLTE sorgfältig geprüft werden, welche Daten diese Anwendungen automatisch an die Microsoft-Cloud übersenden.
+Anwendungen SOLLTEN so konfiguriert werden, dass keine schützenswerten Daten übertragen werden.
+Apps, die unerwünschte oder unnötig umfangreiche Daten an Dritte übertragen, SOLLTEN nicht verwendet werden.
 
-SYS.2.2.2.A10 Integration von Online-Konten in das Betriebssystem
-Die Anmeldung am IT-System und der Domäne SOLLTE nur mit einem Konto eines selbst betriebenen Verzeichnisdienstes, wie z. B. Active Directory, möglich sein.
+SYS.2.2.2.A10 Integration von Online-Konten in das Betriebssystem [Benutzer] (S)
+Die Anmeldung am IT-System und an der Domäne SOLLTE nur mit einem Konto eines selbst betriebenen Verzeichnisdienstes, wie z. B. Active Directory, möglich sein.
 Eine lokale Anmeldung SOLLTE Administratoren vorbehalten sein.
-Bei Verwendung von Online-Konten zur Anmeldung, z. B. eines Microsoft-Kontos oder Konten anderer Anbieter von Diensten zum Identitätsmanagement, SOLLTE auf ausreichende Sicherheit des Anbieters und auf die Einhaltung des Datenschutzes geachtet werden.
+Werden zur Anmeldung Online-Konten, wie z. B. ein Microsoft-Konto oder Konten anderer Anbieter von Diensten zum Identitätsmanagement, verwendet, SOLLTE darauf geachtet werden, dass der Anbieter vertrauenswürdig ist und der Datenschutz eingehalten wird.
 
-SYS.2.2.2.A11 Konfiguration von Synchronisationsmechanismen in Windows 8.1
+SYS.2.2.2.A11 Konfiguration von Synchronisationsmechanismen in Windows 8.1 (S)
 Die Synchronisierung von Nutzerdaten mit Microsoft-Cloud-Diensten SOLLTE vollständig deaktiviert werden.
 
-SYS.2.2.2.A12 Zentrale Authentifizierung in Windows-Netzen
-In reinen Windows-Netzen SOLLTE zur zentralen Authentifizierung für SSO (Single Sign On) ausschließlich Kerberos eingesetzt werden.
+SYS.2.2.2.A12 Sichere zentrale Authentisierung in Windows-Netzen (S)
+In reinen Windows-Netzen SOLLTE zur zentralen Authentisierung für Single Sign On (SSO) ausschließlich Kerberos eingesetzt werden.
 Eine Gruppenrichtlinie SOLLTE die Verwendung älterer Protokolle verhindern.
-Der Schutz des Local Credential Store LSA SOLLTE aktiviert werden (PPL, Protected Mode Light).
+Der Schutz des Local Credential Store (LSA) SOLLTE aktiviert werden (PPL, Protected Mode Light).
 Die Speicherung der LAN-Manager-Hashwerte bei Kennwortänderungen SOLLTE per Gruppenrichtlinie deaktiviert werden.
-Die Überwachungseinstellungen gemeinsam mit den Serverkomponenten von DirectAccess SOLLTEN sorgfältig auf die Anforderungen des Informationsverbunds abgestimmt werden.
-Eine Protokollierung auf Clientseite SOLLTE sichergestellt werden.
+Die Überwachungseinstellungen SOLLTEN gemeinsam mit den Serverkomponenten von DirectAccess sorgfältig auf die Anforderungen des Informationsverbunds abgestimmt werden.
+Es SOLLTE eine Protokollierung auf Clientseite sichergestellt werden.
 
-SYS.2.2.2.A13 Anbindung von Windows 8.1 an AppStores
-Die Möglichkeit zur Installation von Apps aus dem Microsoft AppStore SOLLTE deaktiviert werden, sofern sie nicht benötigt wird.
+SYS.2.2.2.A13 Anbindung von Windows 8.1 an den Microsoft Store (S)
+Die Möglichkeit, Apps aus dem Microsoft Store zu installieren, SOLLTE deaktiviert werden, sofern sie nicht benötigt wird.
 
 
 3.3 Anforderungen bei erhöhtem Schutzbedarf
 
-SYS.2.2.2.A14 Anwendungssteuerung mit Software Restriction Policies und AppLocker (CIA)
-Anwendungen in Pfaden, die von Benutzern schreibbar sind, SOLLTEN durch Software Restriction Policies (SRP) oder AppLocker an der Ausführung gehindert werden.
-Die Verwaltung der AppLocker- und SRP-GPO in einem domänenbasierten Netz SOLLTE zentralisiert mittels Gruppenrichtlinienobjekten je Benutzer/Benutzergruppe erfolgen.
-AppLocker SOLLTE nach dem Ansatz einer Positivliste genutzt werden.
-Es sollte alles verboten werden, was nicht explizit erlaubt ist.
-Bei AppLocker SOLLTEN bevorzugt Regeln auf der Grundlage von Anwendungssignaturen definierter Herausgeber genutzt werden.
+SYS.2.2.2.A14 Anwendungssteuerung mit Software Restriction Policies und AppLocker (H)
+Anwendungen in Pfaden, in denen Benutzer Schreibrechte haben, SOLLTEN durch Software Restriction Policies (SRP) oder AppLocker an der Ausführung gehindert werden.
+AppLocker- und SRP-GPO in einem domänenbasierten Netz SOLLTEN NUR zentralisiert mittels Gruppenrichtlinienobjekten je Benutzer bzw. Benutzergruppe verwaltet werden.
+AppLocker SOLLTE nach dem Ansatz einer Positivliste (Whitelist) genutzt werden.
+Alle Anwendungen, die nicht explizit erlaubt sind, SOLLTEN verboten werden.
+Es SOLLTEN bevorzugt Regeln auf der Grundlage von Anwendungssignaturen definierter Herausgeber genutzt werden.
 Versuchte Regelverstöße SOLLTEN protokolliert und geeignet ausgewertet werden.
-Für Clients mit besonders hohen Anforderungen an die Sicherheit SOLLTE AppLocker die Ausführung aller ungenehmigten Anwendungen verhindern, statt diese zu protokollieren.
-Die Umsetzung der SRP- und AppLocker-Regeln SOLLTEN vor dem Einsatz auf einem produktiven System zunächst auf einem Testsystem oder durch den Betrieb im Überwachungsmodus erprobt werden.
+Für Clients mit besonders hohen Sicherheitsanforderungen SOLLTE AppLocker die Ausführung aller ungenehmigten Anwendungen verhindern, statt diese zu protokollieren.
+Die Umsetzung der SRP- und AppLocker-Regeln SOLLTE vor dem Einsatz auf einem produktiven System zunächst auf einem Testsystem oder durch den Betrieb im Überwachungsmodus erprobt werden.
 
-SYS.2.2.2.A15 Verschlüsselung des Dateisystems mit EFS (CI)
+SYS.2.2.2.A15 Verschlüsselung des Dateisystems mit EFS (H)
 Bei erhöhtem Schutzbedarf SOLLTE das Dateisystem verschlüsselt werden.
 Wird hierzu das Encrypting File System (EFS) verwendet, SOLLTE ein komplexes Passwort für den Schutz der mit EFS verschlüsselten Daten verwendet werden.
 Zusätzlich SOLLTEN die mit EFS verschlüsselten Dateien durch restriktive Zugriffsrechte geschützt werden.
-Statt des Administratorkontos SOLLTE ein dediziertes Konto der Wiederherstellungsagent sein.
+Der Wiederherstellungsagent SOLLTE ein dediziertes Konto und nicht das Administratorkonto sein.
 Der private Schlüssel dieses Kontos SOLLTE auf einen externen Datenträger ausgelagert und sicher aufbewahrt sowie aus dem System entfernt werden.
 Dabei SOLLTEN von allen privaten Schlüsseln Datensicherungen erstellt werden.
-Beim Einsatz von EFS mit lokalen Benutzerkonten SOLLTE die Registry-Verschlüsselung mittels syskey verwendet werden.
-Beim Einsatz von EFS SOLLTEN die Benutzer im korrekten Umgang mit EFS geschult werden.
+Beim Einsatz von EFS mit lokalen Benutzerkonten SOLLTE die Registry mittels Syskey verschlüsselt werden.
+Die Benutzer SOLLTEN im korrekten Umgang mit EFS geschult werden.
 
-SYS.2.2.2.A16 Verwendung der Windows PowerShell (CIA)
+SYS.2.2.2.A16 Verwendung der Windows PowerShell (H)
 Wenn die Windows PowerShell (WPS) nicht benötigt wird, SOLLTE sie deinstalliert werden.
-Bei Windows 8.1 lässt sich die PowerShell-Skriptumgebung allerdings nur noch entfernen, wenn auch das .NET-Framework deinstalliert wird.
-Daher SOLLTE alternativ die Ausführung der WPS-Dateien nur den Gruppen der Administratoren, lokal und Domäne, gestattet werden.
-Die Protokollierung von Schreib- und Lesezugriffen auf das Windows PowerShell-Profil SOLLTE aktiviert und für eine regelmäßige Kontrolle der Protokolle gesorgt werden.
-Die Ausführung von Windows-PowerShell-Skripten SOLLTE mit dem Befehl „Set-ExecutionPolicy AllSigned“ eingeschränkt werden, um zumindest die versehentliche Ausführung unsignierter Skripte zu verhindern.
+Es SOLLTE berücksichtigt werden, dass bei Windows 8.1 sich die PowerShell-Skriptumgebung allerdings nur noch dann entfernen lässt, wenn auch das .NET-Framework deinstalliert wird.
+Daher SOLLTE alternativ die Ausführung der WPS-Dateien nur den Administratoren (lokal und Domäne) gestattet werden.
+Die Protokollierung von Schreib- und Lesezugriffen auf das Windows PowerShell-Profil SOLLTE aktiviert und die Protokolle regelmäßig kontrolliert werden.
+Die Ausführungvon Windows-PowerShell-Skripten SOLLTE mit dem Befehl Set-ExecutionPolicy AllSigned eingeschränkt werden, um zumindest die versehentliche Ausführung unsignierter Skripte zu verhindern.
 
-SYS.2.2.2.A17 Sicherer Einsatz des Wartungscenters (CIA)
-In der Sicherheitsrichtlinie SOLLTE der Umgang mit dem Wartungscenter durch die Benutzer definiert werden.
+SYS.2.2.2.A17 Sicherer Einsatz des Wartungscenters (H)
+In der Sicherheitsrichtlinie SOLLTE definiert werden, wie die Benutzer mit dem Wartungscenter umgehen sollen.
 Die Einstellungen für „Neueste Problembehandlungen vom Windows-Onlinedienst für Problembehandlung abrufen“, „Problemberichte senden“, „Regelmäßig Daten über Computerkonfiguration an Microsoft senden“, „Windows-Sicherung“, „Programm zur Benutzerfreundlichkeit“ und „Problembehandlung – andere Einstellungen“ SOLLTEN unter Windows 8.1 deaktiviert werden.
 
-SYS.2.2.2.A18 Aktivierung des Last-Access-Zeitstempels (A)
-Im Rahmen der Erstellung eines Sicherheitskonzeptes für ein IT-System mit Windows 8.1 SOLLTE geprüft werden, ob der Last-Access-Zeitstempel aktiviert wird, um die Analyse eines Systemmissbrauchs zu erleichtern.
-Dabei SOLLTEN besonders Performance-Aspekte bei der Prüfung berücksichtigt werden.
+SYS.2.2.2.A18 Aktivierung des Last-Access-Zeitstempels (H)
+Wird ein Sicherheitskonzept für ein IT-System mit Windows 8.1 erstellt, SOLLTE dabei geprüft werden, ob der Last-Access-Zeitstempel aktiviert wird, um die Analyse eines Systemmissbrauchs zu erleichtern.
+Bei der Prüfung SOLLTEN insbesondere Performance-Aspekte berücksichtigt werden.
 
-SYS.2.2.2.A19 Verwendung der Anmeldeinformationsverwaltung (C)
-Die Erlaubnis oder das Verbot der Speicherung von Zugangsdaten im sogenannten „Tresor“ SOLLTE in einer Richtlinie festgelegt werden.
+SYS.2.2.2.A19 Verwendung der Anmeldeinformationsverwaltung (H)
+Die Erlaubnis oder das Verbot, Zugangsdaten im sogenannten „Tresor“ zu speichern, SOLLTE in einer Richtlinie festgelegt werden.
 Ein Verbot SOLLTE technisch durchgesetzt werden.
 
-SYS.2.2.2.A20 Sicherheit beim Fernzugriff über RDP (CIA)
-Die Auswirkungen auf die Konfiguration der lokalen Firewall SOLLTE bei der Planung der Remote-Unterstützung berücksichtigt werden.
+SYS.2.2.2.A20 Sicherheit beim Fernzugriff über RDP (H)
+Die Auswirkungen auf die Konfiguration der lokalen Firewall SOLLTEN bei der Planung der Remote-Unterstützung berücksichtigt werden.
 Die Gruppe der berechtigten Benutzer für den Remote-Desktopzugriff SOLLTE durch die Zuweisung entsprechender Benutzerrechte und in der Richtlinie festgelegt werden.
 Eine Remote-Unterstützung SOLLTE nur nach einer expliziten Einladung über EasyConnect oder auf Grundlage einer Einladungsdatei erfolgen.
-Bei der Speicherung einer Einladung in einer Datei SOLLTE die Datei mit einem Kennwort geschützt sein.
+Wird eine Einladung in einer Datei gespeichert, SOLLTE die Datei mit einem Kennwort geschützt sein.
 Der aktuell angemeldete Benutzer SOLLTE dem Aufbau einer Sitzung immer explizit zustimmen müssen.
-Die maximale Gültigkeitsdauer der Einladung SOLLTE eine angemessene Größe haben.
+Die maximale Gültigkeit der Einladung SOLLTE in der Dauer angemessen sein.
 Zudem SOLLTE eine starke Verschlüsselung (128 Bit, Einstellung „Höchste Stufe“) verwendet werden.
 Außerdem SOLLTE die automatische Kennwortanmeldung deaktiviert werden.
-Es SOLLTE geprüft werden, ob Umleitungen der Zwischenablage, Drucker, Dateiablage und Smartcard-Anschlüsse notwendig sind, andernfalls SOLLTEN diese deaktiviert werden.
-Sofern der Einsatz der Fernsteuerungsmechanismen nicht vorgesehen ist, SOLLTEN diese vollständig deaktiviert werden.
+Es SOLLTE geprüft werden, ob Umleitungen der Zwischenablage, Drucker, Dateiablage und Smartcard-Anschlüsse notwendig sind.
+Andernfalls SOLLTEN diese deaktiviert werden.
+Sofern keine Fernsteuerungsmechanismen eingesetzt werden, SOLLTEN diese vollständig deaktiviert werden.
 
-SYS.2.2.2.A21 Einsatz von File und Registry Virtualization (CI)
-Es SOLLTE geprüft werden, ob der Betrieb von Altanwendungen noch notwendig ist, die Schreibrechte auf kritische Systemordner oder Registry-Schlüssel erfordern oder mit Administratorrechten ausgeführt werden müssen.
-Sofern dies zutrifft, SOLLTE eine Strategie entwickelt werden, um die noch benötigten Altanwendungen auf sichere Alternativen umzustellen.
-Bis zur Ablösung der Altanwendungen SOLLTE der Einsatz der Windows-Techniken File Virtualization und Registry Virtualization zur Absicherung geprüft werden.
-Zusätzlich SOLLTE die Registry Virtualization nur auf die notwendigen Registry-Schlüssel Zugriff haben.
+SYS.2.2.2.A21 Einsatz von File und Registry Virtualization (H)
+Es SOLLTE geprüft werden, ob der Betrieb von Altanwendungen, die Schreibrechte auf kritische System-Ordner oder Registry-Schlüssel erfordern oder mit Administratorrechten ausgeführt werden müssen, noch notwendig ist.
+Trifft dies zu, SOLLTE eine Strategie entwickelt werden, um die noch benötigten Altanwendungen durch sichere Alternativen zu ersetzten.
+Bis zur Ablösung der Altanwendungen SOLLTE geprüft werden, ob zur Absicherung die Windows-Techniken „File Virtualization“ und „Registry Virtualization“ eingesetzt werden können.
+Die Registry Virtualization SOLLTE nur auf die notwendigen Registry-Schlüssel zugreifen können.
