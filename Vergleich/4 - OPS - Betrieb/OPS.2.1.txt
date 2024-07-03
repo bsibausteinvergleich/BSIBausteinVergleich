@@ -1,0 +1,79 @@
+3.1 Basis-Anforderungen
+
+OPS.2.1.A1 Festlegung der Sicherheitsanforderungen für Outsourcing-Vorhaben [ISB Outsourcing-Kunde]
+Alle Sicherheitsanforderungen für ein Outsourcing-Vorhaben MÜSSEN auf Basis der Outsourcing-Strategie festgelegt sein.
+Es MÜSSEN beide Outsourcing-Parteien auf die Einhaltung von IT-Grundschutz oder einem vergleichbaren Schutzniveau vertraglich verpflichtet sein.
+Es MÜSSEN alle Schnittstellen zwischen dem Outsourcing-Dienstleister und -Kunden identifiziert und entsprechende Sicherheitsanforderungen dafür definiert werden.
+Es MUSS in den Sicherheitsanforderungen festgelegt sein, welche Berechtigungen (Zutrittsrechte, Zugangsrechte, Zugriffsrechte) jeweils gegenseitig eingerichtet werden.
+
+
+3.2 Standard-Anforderungen
+
+OPS.2.1.A2 Rechtzeitige Beteiligung der Personalvertretung [Leiter Organisation]
+Die Personalvertretung SOLLTE rechtzeitig über ein Outsourcing-Vorhaben informiert werden.
+Die Beteiligung der Personalvertretung SOLLTE schon in der Angebotsphase erfolgen.
+Je nach Outsourcing-Vorhaben SOLLTE die gesetzlichen Mitwirkungsrechte beachtet werden.
+
+OPS.2.1.A3 Auswahl eines geeigneten Outsourcing-Dienstleisters [ISB Outsourcing-Kunde]
+Zur Auswahl des Outsourcing-Dienstleisters SOLLTE ein Anforderungsprofil mit den Sicherheitsanforderungen für das Outsourcing-Vorhaben existieren.
+Es SOLLTEN Bewertungskriterien für den Outsourcing-Dienstleister und dessen Personal vorliegen, die auf diesem Anforderungsprofil basieren.
+
+OPS.2.1.A4 Vertragsgestaltung mit dem Outsourcing-Dienstleister [ISB Outsourcing-Kunde]
+Es SOLLTEN alle Aspekte des Outsourcing-Vorhabens mit dem Outsourcing-Dienstleister schriftlich geregelt sein.
+Es SOLLTEN alle Rollen und Mitwirkungspflichten zur Erstellung, Prüfung und Änderung (z. B. von Personen) des Sicherheitskonzepts mit dem Outsourcing-Dienstleister geregelt sein.
+Die Rechte und Pflichten der Vertragsparteien SOLLTEN schriftlich geregelt sein.
+Für die regelmäßige Überprüfung der Anforderungen SOLLTE der Outsourcing-Dienstleister dem Outsourcing-Kunden die Möglichkeit von Audits gewährleisten.
+
+OPS.2.1.A5 Festlegung einer Outsourcing-Strategie [ISB Outsourcing-Kunde]
+Es SOLLTE eine Outsourcing-Strategie festgelegt werden, die neben den wirtschaftlichen, technischen, organisatorischen und rechtlichen Rahmenbedingungen auch die relevanten Aspekte für Informationssicherheit berücksichtigt.
+Es SOLLTE geklärt werden, welche Geschäftsprozesse, Aufgaben oder Anwendungen generell für ein Outsourcing in Frage kommen.
+Der Outsourcing-Kunde SOLLTE ausreichende Fähigkeiten, Kompetenzen und Ressourcen behalten, um in jedem Outsourcing-Vorhaben die Anforderungen an die Informationssicherheit bestimmen und kontrollieren zu können.
+In der Outsourcing-Strategie SOLLTEN die Ziele, Chancen und Risiken des Outsourcing-Vorhabens beschrieben werden.
+
+OPS.2.1.A6 Erstellung eines Sicherheitskonzepts für das Outsourcing-Vorhaben [Fachverantwortliche, ISB Outsourcing-Kunde]
+Der Outsourcing-Kunde SOLLTE für jedes Outsourcing-Vorhaben ein Sicherheitskonzept basierend auf den zugehörigen Sicherheitsanforderungen erstellen.
+Ebenso SOLLTE jeder Outsourcing-Dienstleister ein individuelles Sicherheitskonzept für das jeweilige Outsourcing-Vorhaben vorlegen.
+Beide Sicherheitskonzepte SOLLTEN miteinander abgestimmt werden.
+Das Sicherheitskonzept des Outsourcing-Dienstleisters und der Umsetzung SOLLTEN in ein Gesamt-Sicherheitskonzept zusammengefügt und durch den Outsourcing-Kunden oder unabhängige Dritte regelmäßig auf deren Wirksamkeit überprüft werden.
+
+OPS.2.1.A7 Festlegung der möglichen Kommunikationspartner [Leiter Organisation, ISB Outsourcing-Kunde]
+Es SOLLTE festgelegt werden, welche internen und externen Kommunikationspartner welche Informationen über das jeweilige Outsoucing-Projekt übermitteln und erhalten dürfen.
+Es SOLLTE ein Prozess existieren, mit dem die Funktion der Kommunikationspartner auf beiden Seiten geprüft wird.
+Die zulässigen Kommunikationspartner mit den jeweiligen Berechtigungen MÜSSEN immer aktuell dokumentiert sein.
+
+OPS.2.1.A8 Regelungen für den Einsatz des Personals des Outsourcing-Dienstleiters [Leiter Personal, ISB Outsourcing-Kunde]
+Die Mitarbeiter des Outsourcing-Dienstleisters SOLLTEN schriftlich auf die Einhaltung der einschlägigen Gesetze, Vorschriften und der beim Outsourcing-Kunden gültigen Regelungen verpflichtet werden.
+Die Mitarbeiter des Outsourcing-Dienstleisters SOLLTEN geregelt in ihre Aufgaben eingewiesen und über bestehende Regelungen zur Informationssicherheit unterrichtet werden.
+Es SOLLTEN für die Mitarbeiter des Outsourcing-Dienstleisters Vertretungsregelungen existieren.
+Es SOLLTE ein geregeltes Verfahren für die Beendigung des Auftragsverhältnisses mit den Mitarbeitern des Outsourcing-Dienstleisters existieren.
+Kurzfristig oder einmalig zum Einsatz kommendes Fremdpersonal beim Outsourcing-Dienstleister SOLLTE wie Besucher behandelt werden.
+
+OPS.2.1.A9 Vereinbarung über die Anbindung an Netze der Outsourcing-Partner [ISB Outsourcing-Kunde]
+Vor der Anbindung des Netzes des Outsourcing-Kunden an das Netz des Outsourcing-Dienstleisters SOLLTEN alle sicherheitsrelevanten Aspekte in einer Vereinbarung schriftlich geregelt werden.
+In der Vereinbarung SOLLTE genau definiert sein, auf welche Bereiche und Dienste der Outsourcing-Dienstleister im Netz des Outsourcing-Kunden zugreifen darf.
+Die betroffenen Bereiche SOLLTEN geeignet voneinander getrennt werden.
+Die Einhaltung der Vereinbarungen für die Netzanbindung SOLLTE geprüft und dokumentiert werden.
+Es SOLLTEN auf beiden Seiten Ansprechpartner sowohl für organisatorische als auch technische Fragestellungen der Netzanbindung benannt werden.
+Das geforderte Sicherheitsniveau SOLLTE nachweislich beim Outsourcing-Dienstleister eingefordert und geprüft werden, bevor die Netzanbindung zum Outsourcing-Dienstleister aktiviert wird.
+Für den Fall von Sicherheitsproblemen auf einer der beiden Seiten SOLLTE festgelegt sein, wer darüber zu informieren ist und welche Eskalationsschritte einzuleiten sind.
+
+OPS.2.1.A10 Vereinbarung über Datenaustausch zwischen den Outsourcing-Partnern [ISB Outsourcing-Kunde]
+Für den regelmäßigen Datenaustausch mit festen Kommunikationspartnern SOLLTEN die erforderlichen Sicherheitsmaßnahmen vereinbart werden.
+Datenformate und Vorgehensweisen zum sicheren Datenaustausch SOLLTEN festgelegt werden.
+Ansprechpartner sowohl für organisatorische als auch technische Probleme und insbesondere für sicherheitsrelevante Ereignisse beim Datenaustausch mit Dritten SOLLTEN benannt werden.
+Verfügbarkeiten und Reaktionszeiten beim Datenaustausch mit Dritten SOLLTEN vereinbart werden.
+Es SOLLTE festgelegt werden,welche ausgetauschten Daten zu welchen Zwecken genutzt werden dürfen.
+
+OPS.2.1.A11 Planung und Aufrechterhaltung der Informationssicherheit im laufenden Outsourcing-Betrieb [ISB Outsourcing-Kunde]
+Es SOLLTE ein Betriebskonzept für das Outsourcing-Vorhaben erstellt werden, das auch die Sicherheitsaspekte berücksichtigt.
+Die Sicherheitskonzepte der Outsourcing-Partner SOLLTEN regelmäßig auf Aktualität und Konsistenz zueinander geprüft werden.
+Der Status der vereinbarten Sicherheitsmaßnahmen SOLLTE regelmäßig kontrolliertwerden.
+Zwischen den Outsourcing-Partnern SOLLTE eine regelmäßige Kommunikation einschließlich Abstimmungzu Änderungen und Verbesserungen stattfinden.
+Die Outsourcing-Partner SOLLTEN regelmäßig gemeinsame Übungen und Tests zur Aufrechterhaltung des Sicherheitsniveaus durchführen.
+Informationen über Sicherheitsrisiken und den Umgang damit SOLLTEN in regelmäßigen Abständen zwischen den Outsourcing-Partnern ausgetauscht werden.
+Es SOLLTE ein Prozess existieren, der den Informationsfluss im Umgang mit Sicherheitsvorfällen sicherstellt, welche die jeweiligen Vertragspartner betreffen.
+
+OPS.2.1.A12 Änderungsmanagement [IT-Betrieb, Änderungsmanager]
+Der Outsourcing-Kunde SOLLTE über größere Änderungen rechtzeitig vorab informiert werden.
+Eine Dokumentation aller wesentlichen Änderungen bezüglich Planung, Test, Genehmigung und Dokumentation SOLLTE vom Outsourcing-Kunden regelmäßig eingefordert werden.
+Bevor Änderungen durchgeführt werden, SOLLTEN gemeinsam mit dem Outsourcing-Dienstleister Rückfall-Lösungen erarbeitet werden.

@@ -1,0 +1,111 @@
+3.1 Basis-Anforderungen
+
+APP.3.2.A1 Sichere Konfiguration eines Webservers
+Nachdem ein Webserver installiert wurde, MUSS eine sichere Grundkonfiguration vorgenommen werden.
+Dazu MUSS beispielsweise der Webserver-Prozess einem Benutzerkonto mit minimalen Rechten zugewiesen werden.
+Auch MUSS der Webserver in einer gekapselten Umgebung ausgeführt werden, sofern dies vom Betriebssystem unterstützt wird.
+Der Webserver-Dienst DARF NICHT über unnötige Schreibberechtigungen verfügen.
+Nicht benötigte Module und Funktionen des Webservers MÜSSEN deaktiviert werden.
+
+APP.3.2.A2 Schutz der Webserver-Dateien
+Alle Dateien auf dem Webserver, insbesondere Skripte und Konfigurationsdateien, MÜSSEN so geschützt werden, dass sie nicht unbefugt gelesen und geändert werden können.
+Es MUSS sichergestellt sein, dass die Webserver-Anwendung nur auf Dateien zugreifen kann, die sich innerhalb eines definierten Verzeichnisbaums (WWW-Wurzelverzeichnis) befinden.
+Ressourcen außerhalb des WWW-Verzeichnisses DÜRFEN NICHT aus diesem heraus verlinkt oder verknüpft werden.
+Weiterhin MÜSSEN Funktionen, die Verzeichnisse auflisten, deaktiviert werden.
+Dateien, die nicht verändert werden sollen, MÜSSEN schreibgeschützt sein.
+Vertrauliche Daten MÜSSEN verschlüsselt übertragen und gespeichert werden.
+
+APP.3.2.A3 Absicherung von Datei-Uploads und -Downloads
+Alle mithilfe des Webservers veröffentlichten Dateien MÜSSEN vorher auf Schadprogramme geprüft werden.
+Zudem MÜSSEN Dokumente von Restinformationen bereinigt werden.
+Abrufbare Dateien MÜSSEN auf einer separaten Partition der Festplatte gespeichert sein.
+Es MUSS eine Maximalgröße für Datei-Uploads spezifiziert sein.
+Für Uploads MUSS genügend Speicherplatz reserviert werden.
+
+APP.3.2.A4 Protokollierung von Ereignissen
+Der Webserver MUSS mindestens folgende Ereignisse protokollieren:
+• erfolgreiche Zugriffe auf Ressourcen,
+• fehlgeschlagene Zugriffe auf Ressourcen aufgrund von mangelnder Berechtigung, nicht vorhandenen Ressourcen und Server-Fehlern sowie
+• allgemeine Fehlermeldungen.
+Die Protokollierungsdaten SOLLTEN regelmäßig ausgewertet werden.
+
+APP.3.2.A5 Authentisierung
+Wenn sich Clients am Webserver authentisieren, MUSS hierfür eine verschlüsselte Verbindung genutzt werden (siehe APP.3.2.A11 Verschlüsselung über TLS).
+Die Passwortdateien auf dem Webserver MÜSSEN kryptografisch gesichert und vor unbefugtem Zugriff geschützt gespeichert werden.
+
+APP.3.2.A6 Zeitnahes Einspielen sicherheitsrelevanter Patches und Updates
+Die verantwortlichen Mitarbeiter MÜSSEN sich regelmäßig bei verschiedenen Quellen über aktuelle Schwachstellen in der eingesetzten Webserver-Software informieren und sicherheitsrelevante Updates zeitnah einspielen.
+Software-Updates und Patches für Webserver sowie benutzte zusätzliche Anwendungen und Erweiterungen MÜSSEN ausschließlich aus vertrauenswürdigen Quellen bezogen werden und ausreichend getestet werden, bevor sie eingespielt bzw. eingesetzt werden.
+Bevor Updates oder Patches installiert werden, MUSS stets sichergestellt sein, dass der ursprüngliche Zustand des Webservers wiederhergestellt werden kann.
+
+APP.3.2.A7 Rechtliche Rahmenbedingungen für Webangebote
+Werden über den Webserver für Dritte Inhalte publiziert oder Dienste angeboten, MÜSSEN dabei verschiedene rechtliche Rahmenbedingungen beachtet werden.
+So MÜSSEN die jeweiligen Telemedien- und Datenschutzgesetze sowie das Urheberrecht eingehalten werden.
+Auch SOLLTEN die Anforderungen an die Barrierefreiheit gemäß Behindertengleichstellungsgesetz beachtet werden.
+
+
+3.2 Standard-Anforderungen
+
+APP.3.2.A8 Planung des Einsatzes eines Webservers
+Um geeignete Sicherheitsmaßnahmen für den Webserver auszuwählen, SOLLTE geplant und dokumentiert werden, für welchen Zweck er eingesetzt und wie der Webserver in die vorhandene IT-Infrastruktur integriert werden soll.
+In der Dokumentation SOLLTEN auch die Informationen oder Dienstleistungen des Webangebots und die jeweiligen Zielgruppen beschrieben werden.
+Für den technischen Betrieb und die Webinhalte SOLLTEN Verantwortliche festgelegt werden.
+
+APP.3.2.A9 Festlegung einer Sicherheitsrichtlinie für den Webserver
+Es SOLLTE eine Sicherheitsrichtlinie erstellt werden, in der die erforderlichen Maßnahmen und Verantwortlichkeiten benannt sind.
+Weiterhin SOLLTE geregelt werden, wie Informationen zu aktuellen Sicherheitslücken besorgt werden, wie Sicherheitsmaßnahmen umgesetzt werden und wie vorgegangen werden soll, wenn Sicherheitsvorfälle eintreten.
+
+APP.3.2.A10 Auswahl eines geeigneten Webhosters [Leiter IT]
+Wird der Webserver nicht von der Institutionen selbst betrieben, sondern werden Angebote externer Dienstleister genutzt (Webhosting), SOLLTE die Institution bei der Auswahl eines geeigneten Webhosters auf folgende Punkte achten:
+• Es SOLLTE vertraglich geregelt werden, wie die Dienste zu erbringen sind.
+Dabei SOLLTEN Sicherheitsaspekte schriftlich im Vertrag in einem Service Level Agreement (SLA) festgehalten werden.
+• Bei allen angebotenen Produkten SOLLTE die Basisinstallation sicher gestaltet werden.
+Der Dienstleister SOLLTE seine Kunden über die Risiken von zusätzlichen Anwendungen und Erweiterungen (Plug-ins) informieren.
+Darüber hinaus SOLLTE er sich dazu verpflichten, regelmäßig auf vorhandene Updates der genutzten Programme hinzuweisen.
+• Die für die Diensterbringung eingesetzten IT-Systeme SOLLTEN vom Dienstleister regelmäßig kontrolliert und gewartet werden.
+Er SOLLTE dazu verpflichtet werden, bei technischen Problemen oder einer Kompromittierung von Kundensystemen zeitnah zu reagieren.
+• Der Dienstleister SOLLTE grundlegende technische und organisatorische Maßnahmen umsetzen, um seinen Informationsverbund zu schützen.
+
+APP.3.2.A11 Verschlüsselung über TLS
+Der Webserver SOLLTE für alle Verbindungen eine Verschlüsselung über TLS anbieten (HTTPS).
+Wenn eine HTTPS-Verbindung angeboten wird, dann SOLLTEN alle Inhalte ausschließlich über HTTPS verfügbar sein.
+Sogenannter Mixed Content SOLLTE NICHT verwendet werden.
+
+APP.3.2.A12 Geeigneter Umgang mit Fehlern und Fehlermeldungen
+Aus den HTTP-Informationen und den angezeigten Fehlermeldungen SOLLTEN NICHT der Name und die Version der Webserver-Software ersichtlich sein.
+Auch SOLLTE sichergestellt werden, dass der Webserver ausschließlich anwendungsspezifische Fehlermeldungen ausgibt, die der Information des Benutzers dienen.
+Bei unerwarteten Fehlern SOLLTE der Webserver in einen sicheren Zustand übergehen.
+
+APP.3.2.A13 Zugriffskontrolle für Webcrawler
+Der Zugriff von Webcrawlern SOLLTE nach dem Robots-Exclusion-Standard geregelt werden.
+Inhalte SOLLTEN mit einem Zugriffsschutz versehen werden (siehe APP.3.2.A5 Authentisierung), um sie vor Webcrawlern zu schützen, die sich nicht an diesen Standard halten.
+
+APP.3.2.A14 Integritätsprüfungen und Schutz vor Schadsoftware
+Es SOLLTE regelmäßig geprüft werden, ob die Dateien und Webinhalte noch integer sind und nicht durch Angreifer verändert wurden.
+Auch SOLLTEN die Dateien regelmäßig auf Schadsoftware geprüft werden.
+
+APP.3.2.A16 Penetrationstest und Revision [Leiter IT]
+Webserver SOLLTEN regelmäßig auf Sicherheitsprobleme hin überprüft werden.
+Auch SOLLTEN regelmäßig Revisionen durchgeführt werden.
+Die Ergebnisse SOLLTEN nachvollziehbar dokumentiert, ausreichend geschützt und vertraulich behandelt werden.
+Abweichungen SOLLTE nachgegangen werden.
+Die Ergebnisse SOLLTEN dem ISB vorgelegt werden.
+
+
+3.3 Anforderungen bei erhöhtem Schutzbedarf
+
+APP.3.2.A15 Redundanz (A)
+Webserver SOLLTEN redundant ausgelegt werden. Auch die Internetanbindung des Webservers und weiterer IT-Systeme, wie etwa der Webanwendungsserver, SOLLTEN redundant ausgelegt sein.
+
+APP.3.2.A17 Erweiterte Authentisierungsmethoden für Webserver (CI)
+Es SOLLTEN erweiterte Authentisierungsmethoden eingesetzt werden, z. B. Client-Zertifikate oder Mehr-Faktor-Authentisierung.
+
+APP.3.2.A18 Schutz vor Denial-of-Service-Angriffen (A)
+Um Denial-of-Service-Angriffe frühzeitig erkennen zu können, SOLLTE der Webserver ständig überwacht werden.
+Des Weiteren SOLLTEN Maßnahmen definiert und umgesetzt werden, die solche Angriffe verhindern oder zumindest abschwächen.
+
+APP.3.2.A19 Einrichtung eines Internet-Redaktionsteams [Leiter IT, Fachverantwortliche] (CIA)
+Um Webangebote zu pflegen, SOLLTE eine eigenständige Internetredaktion eingerichtet werden.
+Die Internetredaktion SOLLTE alle Rollen enthalten, die im Konzept für Webangebote als Verantwortliche genannt wurden.
+Bei umfangreichen Webangeboten SOLLTE zusätzlich ein Ansprechpartner für Webanwendungen bestimmt werden.
+Ebenso SOLLTEN Prozesse, Vorgehensweisen und Verantwortliche benannt werden für den Fall von Problemen oder Sicherheitsvorfällen.

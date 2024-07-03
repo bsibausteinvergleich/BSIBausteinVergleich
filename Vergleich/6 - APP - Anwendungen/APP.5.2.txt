@@ -1,0 +1,123 @@
+3.1 Basis-Anforderungen
+
+APP.5.2.A1 Planung des Einsatzes von Microsoft Exchange und Outlook [Leiter IT, Informationssicherheitsbeauftragter (ISB)] (I)
+Bevor Microsoft Exchange und Outlook eingesetzt werden können, MUSS der Einsatz von Microsoft Exchange und Outlook sorgfältig geplant werden.
+Dabei MÜSSEN mindestens folgende Punkte beachtet werden:
+• Aufbau der E-Mail-Infrastruktur,
+• anzubindende Clients beziehungsweise Server-Systeme,
+• Nutzung von funktionalen Erweiterungen,
+• Absicherung der Zugangsports der Server-/Client-Komponenten,
+• Vertraulichkeit, Integrität und Verfügbarkeit,
+• zu verwendende Protokolle und
+• Integration der Server- und Client-Systeme in die hierfür vorgesehenen Netzsegmente.
+
+APP.5.2.A2 Auswahl einer geeigneten Microsoft Exchange-Infrastruktur [Leiter IT]
+Es MUSS entschieden werden, mit welchen Systemen und Anwendungskomponenten, sowie in welcher hierarchischen Abstufung die Microsoft Exchange-Infrastruktur realisiert werden sollte.
+Im Rahmen der Auswahl MUSS auch entschieden werden, ob die Systeme als Cloud- oder lokaler Dienst betrieben werden sollen.
+
+APP.5.2.A3 Berechtigungsmanagement
+Für die Systeme der Microsoft Exchange-Infrastruktur MUSS ein Berichtigungskonzept erstellt, geeignet dokumentiert und angewendet werden.
+Es MÜSSEN den privilegierten Anwendern sowie den Administratoren nur so viele Berechtigungen eingeräumt werden, wie für die Aufgabenerfüllung notwendig ist (Minimalprinzip).
+Es MUSS regelmäßig überprüft werden, ob die zugeteilten Rechte noch angemessen sind.
+
+APP.5.2.A4 Zugriffsrechte auf Microsoft Exchange-Objekte
+Die Zugriffsberechtigungen auf Microsoft Exchange-Objekte MÜSSEN auf Grundlage der das Prinzip des geringsten Privilegs (least privilege) festgelegt werden.
+Es MÜSSEN serverseitige Benutzerprofile für einen rechnerunabhängigen Zugriff auf Microsoft Exchange-Daten verwendet werden.
+Die Standard-NTFS-Berechtigungen auf das Microsoft Exchange-Verzeichnis MÜSSEN angepasst werden, sodass nur autorisierte Administratoren und Systemkonten auf die Daten in diesem Verzeichnis zugreifen können.
+
+APP.5.2.A5 Datensicherung von Microsoft Exchange [Notfallbeauftragter]
+Das bestehende Microsoft Exchange-System MUSS vor Installationen und Konfigurationsänderungen sowie in zyklischen Abständen gesichert werden.
+
+
+3.2 Standard-Anforderungen
+
+APP.5.2.A6 Sichere Installation eines Microsoft Exchange-Systems
+Die Installation SOLLTE auf Basis der Einsatzplanung von Microsoft Exchange und Outlook und der festgelegten Sicherheitsrichtlinie erfolgen (siehe APP.5.2.A1 Planung des Einsatzes von Microsoft Exchange und Outlook).
+Da sich Microsoft Exchange-Systeme sehr stark in die Windows-Umgebung integrieren, speziell in das Active Directory, SOLLTEN die entsprechenden spezifischen Sicherheitsrichtlinien berücksichtigt werden.
+Die Systeme, auf denen Microsoft Exchange und Outlook installiert werden soll, SOLLTEN geeignet abgesichert sein.
+
+APP.5.2.A7 Migration von Microsoft Exchange-Systemen
+Alle Migrationsschritte SOLLTEN gründlich geplant und dokumentiert werden.
+Es SOLLTEN die Microsoft Windows-Systemadministratoren an der Planung beteiligt werden.
+Es SOLLTEN bei der Planung der Migration Postfächer, Objekte, Sicherheitsrichtlinien, Active Directory-Konzepte, E-Mail-Systeme und Funktionsunterschiede bei Microsoft Exchange und Outlook in den verschiedenen Versionen berücksichtigt werden.
+Das neue System SOLLTE, bevor es installiert wird, in einem separaten Testnetz geprüft werden, um Softwarefehlern und Kompatibilätsproblemen entgegenzuwirken.
+
+APP.5.2.A8 Sicherer Betrieb von Microsoft Exchange
+Alle Systeme und Anwendungen der Infrastruktur SOLLTEN so konfiguriert sein, dass sie den Schutzbedarf angemessen erfüllen.
+Dafür SOLLTE eine passende Basiskonfiguration zusammengestellt und dokumentiert werden.
+Die Einstellungen der einzelnen Konnektoren SOLLTEN ebenfalls angepasst werden.
+Die Verantwortlichen SOLLTEN bekannt gewordene Schwachstellen zeitnah in Abhängigkeit vom Schutzbedarf und der Kritikalität beheben.
+Generell SOLLTE darauf geachtet werden, dass Patches und Updates nur aus vertrauenswürdigen Quellen bezogen werden.
+
+APP.5.2.A9 Sichere Konfiguration von Microsoft Exchange-Servern
+Microsoft Exchange-Server SOLLTEN aufbauend auf den Vorgaben aus dem Sicherheitskonzept konfiguriert werden.
+Es SOLLTE eine maximal zulässige Größe sowohl für eingehende als auch für ausgehende Nachrichten eingestellt werden.
+Vorhandene Konnektoren SOLLTEN geeignet konfiguriert werden.
+Die Protokollierung des Microsoft-Exchange-Systems SOLLTE aktiviert werden. Für vorhandenes Customizing SOLLTE ein entsprechendes Konzept erstellt werden.
+Bei der Verwendung von funktionalen Erweiterungen (z. B. Microsoft Exchange ActiveSync, Spiegelport, Spamfilter, Outlook Web-App oder Data Loss Prevention) SOLLTE sichergestellt sein, dass die definierten Anforderungen an die Schutzziele Vertraulichkeit, Integrität und Verfügbarkeit weiterhin erfüllt sind.
+
+APP.5.2.A10 Einstellungen von Outlook
+Nur Administratoren SOLLTEN die Outlook-Umgebung ändern können.
+Dazu SOLLTE für jeden Anwender ein eigenes Outlook-Profil mit den benutzerspezifischen Einstellungen angelegt werden.
+Die Anwender SOLLTEN nur ausgewählte Einstellungen (z. B. Signatur einrichten, Abwesenheitsagent aktivieren) benutzerdefiniert verändern können.
+Dateianhänge SOLLTEN prinzipiell nicht automatisch aus E-Mails heraus geöffnet werden können.
+Vorschaufenster und die Autovorschau SOLLTE deaktiviert werden.
+E-Mails SOLLTEN NICHT automatisiert weitergeleitet werden.
+
+APP.5.2.A11 Absicherung der Kommunikation von und zu Microsoft Exchange-Systemen
+Es SOLLTE nachvollziehbar entschieden werden, mit welchen Schutzmechanismen die Kommunikation von und zu Microsoft Exchange-Systemen abgesichert wird.
+Es SOLLTE entschieden und nachvollziehbar dokumentiert werden, welches der verschiedenen möglichen Verfahren Internet Protocol Security (IPSec) oder Transport Layer Security (TLS) eingesetzt werden soll.
+Es SOLLTEN die
+• Administrationsschnittstellen,
+• Client-Server-Kommunikation,
+• vorhandene Web-based-Distributed-Authoring-and-Versioning-(WebDAV)-Schnittstellen,
+• die Server-Server-Kommunikation, die Nachrichten-Kommunikation und
+• die Public-Key-Infrastruktur, die auf der E-Mail-Verschlüsselung von Microsoft Outlook (S/MIME) basieren,
+verschlüsselt werden.
+
+APP.5.2.A12 Einsatz von Microsoft Exchange für Outlook Anywhere
+Outlook Anywhere SOLLTE entsprechend den Sicherheitsanforderungen der Institution konfiguriert werden.
+Der Zugriff auf Microsoft Exchange über das Internet SOLLTE auf die notwendigen Anwender beschränkt werden.
+Die Kommunikation zu Outlook Anywhere SOLLTE verschlüsselt werden (siehe APP.5.2.A11 Absicherung der Kommunikation von und zu Microsoft Exchange-Systemen).
+
+APP.5.2.A13 Schulung von Administratoren [Leiter IT]
+Für den Betrieb der Komponenten der Microsoft Exchange-Infrastruktur SOLLTE nur geeignetes und geschultes Personal eingesetzt werden.
+
+APP.5.2.A14 Schulung zu Sicherheitsmechanismen von Outlook für Anwender [Informationssicherheitsbeauftragter (ISB)]
+Outlook-Anwender SOLLTEN regelmäßig über bestehende und neue Gefahren beim Arbeiten mit Microsoft Outlook sensibilisiert und geschult werden.
+Allen Anwendern SOLLTEN relevante Sicherheitsmechanismen und die entsprechenden Vorgehensweisen innerhalb von Outlook vermittelt werden.
+Hierbei SOLLTEN Regelungen, z. B. für Zugriffsmechanismen, Authentisierungsformen und kryptografische Vorgaben für die E-Mail-Verschlüsselung, berücksichtigt werden.
+
+APP.5.2.A15 Anwendungsdokumentation für Microsoft Exchange
+Die Inhalte des Betriebshandbuches für Microsoft Exchange SOLLTEN nachvollziehbar dokumentiert sein.
+Das Betriebshandbuch SOLLTE angelehnt an den Lebenszyklus die Phasen Inbetriebnahme, Betrieb, Aussonderung und Wiederanlauf beschreiben.
+Die Dokumentation SOLLTE gegen unbefugten Zugriff geschützt werden.
+Änderungen SOLLTEN nachvollziehbar dokumentiert bzw. referenziert sein.
+
+APP.5.2.A16 Erstellung eines Notfallplans für den Ausfall von Microsoft Exchange und Outlook [Notfallbeauftragter]
+Im Rahmen der Notfallvorsorge SOLLTE ein Konzept entworfen werden, mit dem sich die Folgen eines Ausfalls der Microsoft Exchange- und Outlook-Komponenten minimieren lassen.
+Im Notfallplan SOLLTE definiert werden, was bei einem Ausfall zu tun ist, um eine zeitnahe Wiederherstellung des Normalbetriebs zu gewährleisten.
+
+
+3.3 Anforderungen bei erhöhtem Schutzbedarf
+
+APP.5.2.A17 Verschlüsselung von Microsoft Exchange-Systemdatenbanken (CIA)
+Es SOLLTE ein Konzept für die Verschlüsselung von PST-Dateien und Informationsspeicher-Dateien erstellt werden.
+Die Anwender SOLLTEN über die Funktionsweise und die Schutzmechanismen bei der Verschlüsselung von PST-Dateien informiert werden.
+Weitere Aspekte für lokale PST-Dateien, die berücksichtigt werden SOLLTEN, wenn Microsoft Exchange-Systemdatenbanken verschlüsselt werden, sind:
+• eigene Verschlüsselungsfunktionen,
+• Verschlüsselungsgrade sowie
+• Mechanismen zur Absicherung der Daten in einer PST-Datei.
+Mechanismen wie z. B. Encrypting File System oder Windows BitLocker Laufwerkverschlüsselung SOLLTEN zur Absicherung der Daten in einer PST-Datei genutzt werden.
+
+APP.5.2.A18 Regelmäßige Sicherheitsprüfungen für Microsoft Exchange-Systeme (CIA)
+Das Microsoft Exchange-System SOLLTE regelmäßig auf Fehlkonfigurationen und Schwachstellen geprüft wird.
+Dafür SOLLTE es regelmäßig einer Sicherheitsprüfung durch unterschiedliche Personen unterzogen werden.
+Es empfiehlt sich, dafür eine Prüfliste aufzubauen, um einen definierten Prüfumfang zu gewährleisten.
+Folgende Aspekte SOLLTEN bei einer Prüfung berücksichtigt werden:
+• regelmäßige Recherchen sicherheitsrelevanter Informationen,
+• Berechtigungen für Revisionsbenutzer,
+• regelmäßige Prüfung der Berechtigungen,
+• Prüfung der Aktualität der Updates und
+• Prüfung der Sicherheit der Kommunikationsschnittstellen.
+Die Microsoft Exchange-Berechtigungen SOLLTEN regelmäßig mindestens stichprobenartig geprüft werden.
